@@ -1,0 +1,124 @@
+= Guida pratica alla correzione di lemmatizzazione e POS-tagging del KIParla
+
+
+== 1. Contesto del lavoro
+
+Il tuo compito **non è annotare da zero**, ma:
+* partire da un file **già lemmatizzato e POS-taggato automaticamente**;
+* **verificare e correggere manualmente** lemma e POS quando necessario;
+* seguire in modo coerente le linee guida di **Universal Dependencies (UD)**.
+
+L’obiettivo è migliorare la qualità dell’annotazione, soprattutto nei casi tipici
+dell’**italiano parlato**.
+
+== 2. Riferimenti fondamentali (da consultare spesso)
+
+=== Framework generale - Universal Dependencies:
+Ci basiamo sul framework **Universal Dependencies (UD)**, che fornisce:
+* un insieme standard di *parts of speech* (POS);
+* regole di annotazione morfosintattica;
+* linee guida per la lemmatizzazione.
+
+Universal Dependencies è un progetto per creare **treebank annotati** comparabili tra lingue.
+I principali concetti:
+* **Lemma**: forma di base di una parola (es. *andare* per *andavo*);
+* **POS tag**: categoria grammaticale (es. VERB, NOUN, ADJ, …);
+* **Morfologia**: attributi aggiuntivi (numero, genere, tempo, modo, …). NB. per ora non la annotiamo!
+
+Risorse utili:
+
+* https://universaldependencies.org/introduction.html[Introduzione]
+* https://universaldependencies.org/u/overview/tokenization.html[Principi di tokenizzazione]
+* https://universaldependencies.org/u/overview/morphology.html[Panorama morfologico]
+
+=== Parts of Speech in UD
+Le categorie POS usate in UD sono standardizzate e relativamente poche:
+`ADJ, ADP, ADV, AUX, CCONJ, DET, INTJ, NOUN, NUM, PART, PRON, PROPN, PUNCT, SCONJ, SYM, VERB, X`
+
+* https://universaldependencies.org/u/pos/index.html[Documentazione ufficiale]
+
+Per ogni tag trovi:
+* una descrizione;
+* esempi;
+* indicazioni di uso.
+
+
+
+== 3. File di lavoro
+
+Il lavoro principale si svolge su un file excel ma alla fine della correzione l'informazione verrà trasportata nel formato standard delle UD, ovvero https://universaldependencies.org/format.html[CoNLL-U]
+
+I file sono in formato tabulare (TSV) e contengono almeno:
+
+* **forma** (token così come appare nel parlato);
+* **lemma**;
+* **POS tag UD**.
+
+Del nostro file di lavoro ci interessano principalmente le colonne:
+
+* token_id: identificatore unico del token
+* span: la trascrizione originale
+* form: la trascrizione in versione ortografica
+* lemma
+* UPOS
+
+Un esempio di file la cui annotazione è stata già corretta si può trovare https://github.com/KIParla/KIP/blob/dev/lemmatized/BOA3011.tsv[qui]
+
+
+== 4. Cosa correggere
+
+=== Approccio del progetto KIParla Forest
+
+La lemmatizzazione ed annotazione del KIParla è stata brevemente descritta nel progetto "KIParla Forest", la treebank sintattica del KIParla: https://aclanthology.org/2025.depling-1.5/[articolo]
+
+=== Lemmatizzazione
+
+Il lemma è la forma citazionale del token (quella che cercheresti nel dizionario).
+
+Controlla che il lemma sia una **forma canonica** (infinito per i verbi, singolare maschile per nomi/aggettivi, quando appropriato).
+
+Cose da tenere a mente:
+
+* I nomi propri vanno lemmatizzati con la lettera maiuscola
+* sigle (es. RSA o CGIL): nella trascrizione a volte vengono trascritte con uno spazio tra le lettere (`erre esse a`), altre volte univerbate (`cigielle`). Vanno riportate alla forma univerbata e lemmatizzate come da standard italiano (es. `R.S.A.`, `CGIL`)
+
+
+=== POS tagging
+
+* Usa sempre **solo** i POS UD ufficiali.
+
+* Verifica in particolare:
+** **VERB vs AUX**
+** **NOUN vs PROPN**
+** **ADV**
+** **INTJ** per segnali discorsivi (*eh, mh, boh, sì, no*)
+
+* https://dizionario.internazionale.it/[Dizionario di riferimento]
+
+
+== 5. Uso di GREW per i dubbi
+
+GREW serve per:
+
+* cercare **come casi simili sono annotati** in altri corpora UD;
+* confrontare lemma e POS in contesti simili.
+
+Link utili:
+
+* https://universal.grew.fr/[Interfaccia di ricerca]:
+* https://universal.grew.fr/?corpus=UD_English-ParTUT@2.17[Tutorial], molto più ampio ed esteso di quanto sia utile per il task di lemmatizzazione
+
+Per ora è sufficiente:
+
+* cercare per https://universal.grew.fr/?custom=696ca66f60adf[`form`]
+* cercare per https://universal.grew.fr/?custom=696ca683dcb40[`lemma`]
+* cercare per https://universal.grew.fr/?custom=696ca6990b3b0[`upos`]
+* osservare esempi annotati correttamente
+
+
+== 7. Buone pratiche
+
+* Sii **coerente**: stessi casi → stesse soluzioni
+* Prendi note dei casi problematici ricorrenti
+* Meglio **segnalare un dubbio** che introdurre un errore sistematico
+* In caso di dubbio, tieni traccia del `token_id` in modo da ritrovare velocemente i punti da discutere
