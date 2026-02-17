@@ -1,0 +1,64 @@
+= Dubbi frequenti su lemmatizzazione e PoS Tagging
+
+
+."caso mai" o "casomai"?
+[%collapsible]
+====
+La trascrizione è `casomai`, il lemma `casomai` e la PoS `ADV`
+====
+
+."dopo di che" o "dopodiché"?
+[%collapsible]
+====
+Teniamo i tre token separati, le rispettive PoS sono `ADP`, `ADP`, `PRON`
+====
+
+.cosa fare nel caso di dialetto o altre lingue?
+[%collapsible]
+====
+Per ora lemmatizziamo con il corrispettivo italiano ma aggiungiamo nella colonna `jefferson_feats` l'informazione `Lang=dia`
+====
+
+.cosa fare nel caso di acronimi?
+[%collapsible]
+====
+In trascrizione gli acronimi sono resi tramite lo spelling. I componenti dello spelling devono però fare parte dello stesso token
+====
+
+
+.caso det/adj?
+[%collapsible]
+====
+
+====
+
+.caso verb/adj?
+[%collapsible]
+====
+> predicazione nominale: contesto ambiguo, guardiamo il contesto
+====
+
+
+.caso intj/conj?
+[%collapsible]
+====
+
+====
+
+.sia sia sia che?
+[%collapsible]
+====
+
+====
+
+.sì/no?
+[%collapsible]
+====
+ADV
+====
+
+.ok?
+[%collapsible]
+====
+INTJ
+====
