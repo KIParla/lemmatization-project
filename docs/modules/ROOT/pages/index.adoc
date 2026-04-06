@@ -57,11 +57,34 @@ I file sono in formato tabulare (TSV) e contengono almeno:
 
 Del nostro file di lavoro ci interessano principalmente le colonne:
 
-* token_id: identificatore unico del token
-* span: la trascrizione originale
-* form: la trascrizione in versione ortografica
-* lemma
-* UPOS
+* `token_id`: identificatore unico del token
+* `span`: la trascrizione originale (notazione Jefferson)
+* `form`: la trascrizione in versione ortografica (senza simboli prosodici)
+* `lemma`
+* `upos`
+* `jefferson_feats`: attributi prosodici aggiuntivi (di solito non va toccata, tranne per code switching — vedi <<_code_switching_e_dialetto>>)
+
+==== Il sistema degli ID token
+
+Ogni token ha un `token_id` unico che codifica l'unità di trascrizione e la posizione all'interno di essa.
+Gli ID devono rimanere **unici** all'interno del file: lo script di integrazione li usa per collegare lemma/POS ai file sorgente.
+
+* **Token divisi** (preposizioni articolate, clitici): usa il formato `5-7a` / `5-7b` per i sotto-token.
+* **Token aggiunto** (parola saltata in trascrizione): usa il primo ID numerico non ancora assegnato nell'unità (es. se l'unità `8` ha token `8-0`–`8-4`, aggiungi `8-5`). L'importante è che l'ID non esista già nel file.
+* **Token rimosso** (parola di troppo in trascrizione): elimina semplicemente la riga.
+
+===== Esempio: aggiungere un token mancante
+
+Riascoltando l'audio, ti accorgi che nell'unità 8 manca la parola _moderne_. L'unità ha già i token `8-0` … `8-4`. Aggiungi una riga con il primo ID libero:
+
+[cols="1,1,1,1,1,1,1"]
+|===
+|token_id |speaker |tu_id |span |form |lemma |upos
+
+|8-3 |BO026 |8 |`lingue`  |lingue  |lingua  |NOUN
+|8-4 |BO026 |8 |`modern]e?` |moderne |moderno |ADJ
+|8-5 |BO026 |8 |`straniere` |straniere |straniero |ADJ  ← riga aggiunta
+|===
 
 Un esempio di file la cui annotazione è stata già corretta si può trovare https://github.com/KIParla/KIP/blob/dev/lemmatized/BOA3011.tsv[qui]
 
@@ -95,6 +118,224 @@ Cose da tenere a mente:
 ** **INTJ** per segnali discorsivi (*eh, mh, boh, sì, no*)
 
 * https://dizionario.internazionale.it/[Dizionario di riferimento]
+
+==== Criterio morfologico per il POS
+
+In caso di dubbio, basati su **indizi morfologici**, non su come la parola si comporta nel contesto.
+Esempi:
+
+* _dai_ — anche se usato come segnale discorsivo ("dai, basta"), morfologicamente è la seconda persona singolare del verbo _dare_. POS: `VERB`, lemma: `dare`.
+* _madonna_ — anche se usato come esclamazione, conserva proprietà nominali (_una madonna_, _due madonne_). POS: `NOUN`, lemma: `Madonna`.
+
+Consulta sempre il https://dizionario.internazionale.it/[dizionario De Mauro] per verificare la categoria grammaticale originaria.
+
+===== Esempi di correzione: lemma e POS errati prodotti dal parser
+
+Il file `BOA1001` contiene questi errori tipici all'inizio della conversazione:
+
+[cols="1,1,1,3,3,1"]
+|===
+|token_id |form |lemma (errato) |upos (errato) |Correzione |Note
+
+|0-1 |`mh`    |mh    |NOUN |`INTJ` |segnale discorsivo
+|0-2 |`eh`    |eh    |NOUN |`INTJ` |segnale discorsivo
+|4-3 |`chiamo` |chare |VERB |lemma → `chiamare` |parser ha sbagliato il lemma
+|4-4 |`rossi`  |rosso |ADJ  |`PROPN`, lemma → `Rossi` |nome proprio, maiuscola
+|4-5 |`anna`   |anno  |ADJ  |`PROPN`, lemma → `Anna`  |nome proprio, maiuscola
+|===
+
+
+=== Token speciali
+
+==== Parole troncate / interruzioni
+
+Il parlante può interrompere una parola a metà. In questi casi:
+
+* **Completa il lemma solo se** la stessa base lessicale appare in un contesto vicino (es. il parlante riprende e ripete la stessa parola).
+* **Non completare** se il parlante cambia lessema (es. inizia a dire _persone_ ma si corregge con _famiglie_): in quel caso non sappiamo cosa volesse dire, e non facciamo ipotesi semantiche.
+* Se non è possibile determinare il lemma, usa `x` come lemma e `X` come POS.
+
+===== Esempio: parola troncata con ripetizione vicina → lemma completabile
+
+Il token `7-5` contiene `abili~` (troncato con `~`). Poco dopo, nell'unità 10, lo stesso parlante dice `abilitato`. La base lessicale è la stessa: si può completare.
+
+[cols="1,1,1,1,1,1,1,2"]
+|===
+|token_id |speaker |tu_id |span |form |lemma |upos |jefferson_feats
+
+|7-5  |BO020 |7  |`abili~]` |abili~    |abili~    |PROPN |Interrupted=Yes
+|...  |      |   |          |          |          |      |
+|10-3 |BO020 |10 |`abilitato` |abilitato |abilitare |VERB  |_
+|===
+
+Correggi `7-5`:
+
+[cols="1,1,1,1,1,1,1,2"]
+|===
+|token_id |speaker |tu_id |span |form |lemma |upos |jefferson_feats
+
+|7-5 |BO020 |7 |`abili~]` |abili~ |abilitare |VERB |Interrupted=Yes
+|===
+
+===== Esempio: parola troncata senza ripetizione → lascia `x` / `X`
+
+Se il parlante inizia a dire qualcosa e non la riprende mai, non completare:
+
+[cols="1,1,1,1,1,1,1,2"]
+|===
+|token_id |speaker |tu_id |span |form |lemma |upos |jefferson_feats
+
+|3-2 |BO020 |3 |`cono~` |cono~ |x |X |Interrupted=Yes
+|===
+
+==== Parole incomprensibili (XXX)
+
+I token trascritti come `XXX` (o con grafia simile) indicano parole non comprensibili.
+
+* Lemma: `x`
+* POS: `X`
+
+[NOTE]
+====
+Durante la lemmatizzazione puoi riascoltare l'audio. Se riesci a trascrivere parole che erano state marcate come incomprensibili, puoi correggerle nella colonna `form` (e `span`). Vedi xref:patching.adoc[Correzioni alla trascrizione].
+====
+
+==== Token divisi: preposizioni articolate e verbi con clitici
+
+Il parser divide automaticamente alcune forme in più token:
+
+* **Preposizioni articolate**: _sulla_ → `su` (ADP) + `la` (DET)
+* **Verbi con clitici**: _averlo_ → `avere` (AUX) + `lo` (PRON)
+
+Quando avviene la divisione, la riga originale (es. `sulla`) rimane con lemma e POS vuoti, e vengono aggiunte due righe con ID del tipo `5-7a` e `5-7b`.
+
+===== Esempio: divisione già fatta correttamente dal parser
+
+Il token `sulla` nell'unità 5 è stato diviso correttamente:
+
+[cols="1,1,1,1,1,1,1"]
+|===
+|token_id |speaker |tu_id |span |form |lemma |upos
+
+|5-7  |BO020 |5 |`sulla:` |sulla |_     |_
+|5-7a |_     |_ |_        |su    |su    |ADP
+|5-7b |_     |_ |_        |la    |la    |DET
+|===
+
+La riga `5-7` conserva `span` e `form` originali; lemma e upos restano vuoti (`_`). Le righe `5-7a` e `5-7b` portano lemma e POS dei sotto-token.
+
+===== Esempio: divisione mancante — aggiungere sotto-token a mano
+
+Il parser non ha diviso `averlo`. La situazione nel file è:
+
+[cols="1,1,1,1,1,1,1"]
+|===
+|token_id |speaker |tu_id |span |form |lemma |upos
+
+|12-3 |BO020 |12 |`averlo` |averlo |avere |VERB
+|===
+
+Va corretta così:
+
+[cols="1,1,1,1,1,1,1"]
+|===
+|token_id |speaker |tu_id |span |form |lemma |upos
+
+|12-3  |BO020 |12 |`averlo` |averlo |_     |_
+|12-3a |_     |_  |_        |aver   |avere |AUX
+|12-3b |_     |_  |_        |lo     |lo    |PRON
+|===
+
+===== Esempio: divisione errata — rimuovere sotto-token
+
+Il parser ha diviso `del` (_ho comprato del pane_) come preposizione articolata, ma è un articolo partitivo. La situazione nel file:
+
+[cols="1,1,1,1,1,1,1"]
+|===
+|token_id |speaker |tu_id |span |form |lemma |upos
+
+|15-2  |BO020 |15 |`del` |del |_  |_
+|15-2a |_     |_  |_     |di  |di |ADP
+|15-2b |_     |_  |_     |il  |il |DET
+|===
+
+Elimina le righe `15-2a` e `15-2b` e completa la riga originale:
+
+[cols="1,1,1,1,1,1,1"]
+|===
+|token_id |speaker |tu_id |span |form |lemma |upos
+
+|15-2 |BO020 |15 |`del` |del |del |DET
+|===
+
+
+=== Errori nella trascrizione originale
+
+Le colonne `span` e `form` in linea di principio non andrebbero toccate, perché rispecchiano la trascrizione originale.
+Tuttavia, se riascoltando l'audio individui un **errore di battitura** o una **tokenizzazione sbagliata**, puoi intervenire anche su queste colonne.
+
+[NOTE]
+====
+Ogni modifica a `span` o `form` dovrà poi essere propagata al file sorgente del corpus tramite una patch. Vedi xref:patching.adoc[Correzioni alla trascrizione].
+====
+
+==== Esempio: errore di battitura (_bibliotreche_ → _biblioteche_)
+
+Il trascrittore ha scritto una parola in modo errato. Nel file trovi:
+
+[cols="1,1,1,1,1,1,1"]
+|===
+|token_id |speaker |tu_id |span |form |lemma |upos
+
+|22-3 |BO020 |22 |`bibliotreche` |bibliotreche |biblioteca |NOUN
+|===
+
+Correggi `span` e `form`:
+
+[cols="1,1,1,1,1,1,1"]
+|===
+|token_id |speaker |tu_id |span |form |lemma |upos
+
+|22-3 |BO020 |22 |`biblioteche` |biblioteche |biblioteca |NOUN
+|===
+
+==== Esempio: tokenizzazione errata — parole unite (_casamia_ → _casa_ + _mia_)
+
+Il trascrittore ha unito due parole in un unico token. Nel file trovi:
+
+[cols="1,1,1,1,1,1,1"]
+|===
+|token_id |speaker |tu_id |span |form |lemma |upos
+
+|14-1 |BO020 |14 |`casamia` |casamia |casa |NOUN
+|===
+
+Sostituisci la riga con due righe. Per la seconda, usa il primo ID libero nell'unità:
+
+[cols="1,1,1,1,1,1,1"]
+|===
+|token_id |speaker |tu_id |span |form |lemma |upos
+
+|14-1 |BO020 |14 |`casa` |casa |casa |NOUN
+|14-2 |BO020 |14 |`mia`  |mia  |mio  |DET
+|===
+
+[NOTE]
+====
+Se nell'unità esistono già token con ID `14-2`, `14-3` ecc., gli ID di quei token non vanno rinumerati: aggiungi solo la nuova riga con un ID non ancora usato (es. `14-1b` oppure l'ID numerico libero successivo all'ultimo esistente).
+====
+
+=== Code switching e dialetto
+
+Se nella conversazione compaiono parole in un'altra lingua (inglese, francese, spagnolo…) o in dialetto:
+
+* Lemmatizza secondo la lingua di quella parola (es. un verbo inglese va lemmatizzato all'infinito inglese).
+* Nella colonna `jefferson_feats`, aggiungi la stringa `Lang=XXX` con il codice lingua ISO:
+** `Lang=eng` per l'inglese
+** `Lang=spa` per lo spagnolo
+** `Lang=fre` per il francese
+** `Lang=dia` per il dialetto italiano
+* Se la parola è in dialetto e non è lemmatizzabile con certezza, usa il corrispondente italiano come lemma.
 
 
 == 5. Uso di GREW per i dubbi

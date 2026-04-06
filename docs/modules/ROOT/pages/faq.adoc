@@ -29,36 +29,78 @@ In trascrizione gli acronimi sono resi tramite lo spelling. I componenti dello s
 .caso det/adj?
 [%collapsible]
 ====
-
+Usa il criterio morfologico: se la parola può flettere per genere/numero ed è usata in funzione attributiva o predicativa, è `ADJ`. Se introduce un nome e ne determina la referenza (articolo, dimostrativo, possessivo…), è `DET`. In caso di dubbio, controlla il De Mauro per la categoria primaria.
 ====
 
 .caso verb/adj?
 [%collapsible]
 ====
-> predicazione nominale: contesto ambiguo, guardiamo il contesto
+Predicazione nominale: contesto ambiguo, guardiamo il contesto. I participi passati usati predicativamente (es. _è stanco_) sono tipicamente `ADJ`; quelli che formano i tempi composti (es. _ha mangiato_) restano `VERB`.
 ====
 
 
 .caso intj/conj?
 [%collapsible]
 ====
-
+Se la parola connette due frasi o sintagmi coordinandoli, è `CCONJ` o `SCONJ`. Se è un segnale puramente discorsivo senza funzione connettiva, è `INTJ`. Esempio: _insomma_ può essere sia `ADV` che `INTJ` a seconda del contesto; verifica su GREW come è stato annotato nei corpora UD italiani.
 ====
 
 .sia sia sia che?
 [%collapsible]
 ====
-
+La costruzione correlativa _sia… sia_ usa `CCONJ` per entrambi gli elementi. La costruzione _sia… che_ usa `CCONJ` per _sia_ e `CCONJ` per _che_.
 ====
 
 .sì/no?
 [%collapsible]
 ====
-ADV
+`ADV`
 ====
 
 .ok?
 [%collapsible]
 ====
-INTJ
+`INTJ`
+====
+
+.dai?
+[%collapsible]
+====
+Anche se usato come segnale discorsivo, morfologicamente è la seconda persona singolare dell'imperativo di _dare_. Lemma: `dare`, POS: `VERB`.
+====
+
+.madonna usato come esclamazione?
+[%collapsible]
+====
+Conserva proprietà nominali (_una madonna_, _due madonne_). Lemma: `Madonna`, POS: `NOUN`.
+====
+
+.basta usato come segnale discorsivo?
+[%collapsible]
+====
+Morfologicamente è la terza persona singolare del presente indicativo di _bastare_. Lemma: `bastare`, POS: `VERB`.
+====
+
+.cosa fare con parole troncate / interruzioni?
+[%collapsible]
+====
+Completa il lemma **solo** se la stessa base lessicale appare in prossimità (il parlante riprende e ripete la parola). Se il parlante cambia parola, usa lemma `x` e POS `X`. Non fare ipotesi semantiche.
+====
+
+.cosa fare con le parole incomprensibili (XXX)?
+[%collapsible]
+====
+Lemma: `x`, POS: `X`. Se riascoltando l'audio riesci a trascrivere la parola, puoi correggerla nella colonna `form`.
+====
+
+.del come articolo partitivo (_ho comprato del pane_)?
+[%collapsible]
+====
+Non è una preposizione articolata ma un determinante partitivo. Il parser lo divide spesso erroneamente in `di` + `il`: in quel caso elimina le due righe extra e annota la riga originale come lemma `del`, POS `DET`.
+====
+
+.code switching: parola in inglese o altra lingua?
+[%collapsible]
+====
+Lemmatizza secondo la lingua di quella parola. Nella colonna `jefferson_feats` aggiungi `Lang=eng` (o `Lang=spa`, `Lang=fre`, ecc.). Per il dialetto usa `Lang=dia`.
 ====
