@@ -217,26 +217,26 @@ Il token `7-5` contiene `abili~` (troncato con `~`). Poco dopo, nell'unità 10, 
 |===
 |token_id |speaker |tu_id |span |form |lemma |upos |jefferson_feats
 
-|  7-1 | BO020 |  7 | lei       | lei       | lei       | PRON  | _                        |
-|  7-2 | BO020 |  7 | non       | non       | non       | ADV   | _                        |
-|  7-3 | BO020 |  7 | ha        | ha        | avere     | VERB  | _                        |
-|  7-4 | BO020 |  7 | ancora    | ancora    | ancora    | ADV   | _                        |
-|  7-5 | BO020 |  7 | abili~]   | abili~    | abili~    | PROPN | Interrupted=Yes          |
-|  8-0 | BO026 |  8 | [di       | di        | di        | ADP   | _                        |
-|  8-1 | BO026 |  8 | didattica | didattica | didattica | NOUN  | _                        |
-|  8-2 | BO026 |  8 | delle     | delle     | _         | _     | _                        |
-| 8-2a | _     | _  | _         | di        | di        | ADP   | _                        |
-| 8-2b | _     | _  | _         | le        | il        | DET   | _                        |
-|  8-3 | BO026 |  8 | lingue    | lingue    | lingua    | NOUN  | _                        |
-|  8-4 | BO026 |  8 | modern]e? | moderne   | moderno   | ADJ   | Intonation=Rising        |
-|  9-0 | BO020 |  9 | sì.       | sì        | sì        | ADV   | Intonation=Falling       |
-| 10-0 | BO020 | 10 | non       | non       | non       | ADV   | _                        |
-| 10-1 | BO020 | 10 | ha        | ha        | avere     | AUX   | _                        |
-| 10-2 | BO020 | 10 | ancora    | ancora    | ancora    | ADV   | _                        |
-| 10-3 | BO020 | 10 | abilitato | abilitato | abilitare | VERB  | _                        |
-| 10-4 | BO020 | 10 | per       | per       | per       | ADP   | ProsodicLink=Yes         |
-| 10-5 | BO020 | 10 | eh,       | eh        | eh        | NOUN  | Intonation=WeaklyRising |
-| 11-0 | BO020 | 11 | per       | per       | per       | ADP   | _                        |
+|  7-1 | BO020 |  7 | lei       | lei       | lei       | PRON  | _
+|  7-2 | BO020 |  7 | non       | non       | non       | ADV   | _
+|  7-3 | BO020 |  7 | ha        | ha        | avere     | VERB  | _
+|  7-4 | BO020 |  7 | ancora    | ancora    | ancora    | ADV   | _
+|  7-5 | BO020 |  7 | abili~]   | abili~    | abili~    | PROPN | Interrupted=Yes
+|  8-0 | BO026 |  8 | [di       | di        | di        | ADP   | _
+|  8-1 | BO026 |  8 | didattica | didattica | didattica | NOUN  | _
+|  8-2 | BO026 |  8 | delle     | delle     | _         | _     | _
+| 8-2a | _     | _  | _         | di        | di        | ADP   | _
+| 8-2b | _     | _  | _         | le        | il        | DET   | _
+|  8-3 | BO026 |  8 | lingue    | lingue    | lingua    | NOUN  | _
+|  8-4 | BO026 |  8 | modern]e? | moderne   | moderno   | ADJ   | Intonation=Rising
+|  9-0 | BO020 |  9 | sì.       | sì        | sì        | ADV   | Intonation=Falling
+| 10-0 | BO020 | 10 | non       | non       | non       | ADV   | _
+| 10-1 | BO020 | 10 | ha        | ha        | avere     | AUX   | _
+| 10-2 | BO020 | 10 | ancora    | ancora    | ancora    | ADV   | _
+| 10-3 | BO020 | 10 | abilitato | abilitato | abilitare | VERB  | _
+| 10-4 | BO020 | 10 | per       | per       | per       | ADP   | ProsodicLink=Yes
+| 10-5 | BO020 | 10 | eh,       | eh        | eh        | NOUN  | Intonation=WeaklyRising
+| 11-0 | BO020 | 11 | per       | per       | per       | ADP   | _
 |===
 
 Correggi `7-5`:
