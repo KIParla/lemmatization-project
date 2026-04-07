@@ -16,12 +16,14 @@ dell’**italiano parlato**.
 
 === Framework generale - Universal Dependencies:
 Ci basiamo sul framework **Universal Dependencies (UD)**, che fornisce:
+
 * un insieme standard di *parts of speech* (POS);
 * regole di annotazione morfosintattica;
 * linee guida per la lemmatizzazione.
 
 Universal Dependencies è un progetto per creare **treebank annotati** comparabili tra lingue.
 I principali concetti:
+
 * **Lemma**: forma di base di una parola (es. *andare* per *andavo*);
 * **POS tag**: categoria grammaticale (es. VERB, NOUN, ADJ, …);
 * **Morfologia**: attributi aggiuntivi (numero, genere, tempo, modo, …). NB. per ora non la annotiamo!
@@ -39,13 +41,65 @@ Le categorie POS usate in UD sono standardizzate e relativamente poche:
 * https://universaldependencies.org/u/pos/index.html[Documentazione ufficiale]
 
 Per ogni tag trovi:
+
 * una descrizione;
 * esempi;
 * indicazioni di uso.
 
 
 
-== 3. File di lavoro
+== 3. Dal file EAF al formato verticale
+
+I file sorgente del KIParla sono in formato `.eaf`, il formato nativo di https://archive.mpi.nl/tla/elan[ELAN].
+Internamente un EAF è un file XML: ogni blocco di trascrizione corrisponde a un tag `<ALIGNABLE_ANNOTATION>` con timestamp di inizio/fine e il testo trascritto.
+
+[source,xml]
+----
+<ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts83" TIME_SLOT_REF2="ts84">
+  <ANNOTATION_VALUE>mi chiamo rossi, anna: giulia</ANNOTATION_VALUE>
+</ALIGNABLE_ANNOTATION>
+----
+
+Questo formato è comodo per lavorare in ELAN, ma non è adatto all'analisi linguistica: il testo è una stringa continua, i simboli Jefferson (prolungamenti, sovrapposizioni, intonazione…) sono mescolati alle parole, e non c'è modo di cercare per lemma o parte del discorso.
+
+=== La verticalizzazione
+
+Per rendere il corpus interrogabile, i file EAF vengono convertiti in un formato **verticale** (`.vert.tsv`): ogni parola occupa una riga, e le informazioni che in Jefferson erano simboli inline diventano colonne separate.
+
+[cols="1,3"]
+|===
+|Colonna |Contenuto
+
+|`token_id`   |Identificatore unico del token (unità-posizione, es. `4-2`)
+|`speaker`    |Codice del parlante (es. `BO020`)
+|`tu_id`      |Indice dell'unità di trascrizione (turno)
+|`span`       |La trascrizione originale, con notazione Jefferson intatta (es. `preparo:,`)
+|`form`       |La forma ortografica ripulita dai simboli prosodici (es. `preparo`)
+|`lemma`      |Forma citazionale — *da completare/correggere*
+|`upos`       |Parte del discorso UD — *da completare/correggere*
+|`jefferson_feats` |Feature prosodiche estratte (es. `Intonation=WeaklyRising`)
+|===
+
+Per esempio, il blocco EAF sopra diventa:
+
+[cols="1,1,1,1,1,1,1,2"]
+|===
+|token_id |speaker |tu_id |span |form |lemma |upos |jefferson_feats
+
+|4-0 |BO020 |4 |`mi`       |mi       |mi        |PRON |_
+|4-1 |BO020 |4 |`chiamo`   |chiamo   |chiamare  |VERB |_
+|4-2 |BO020 |4 |`rossi,`   |rossi    |Rossi     |PROPN |Intonation=WeaklyRising
+|4-3 |BO020 |4 |`anna:`    |anna     |Anna      |PROPN |_
+|4-4 |BO020 |4 |`giulia`   |giulia   |Giulia    |PROPN |_
+|===
+
+=== Il ruolo della lemmatizzazione in questo processo
+
+Il formato verticale viene prodotto automaticamente. Le colonne `lemma` e `upos` vengono pre-compilate da un parser statistico, ma il parser fa errori — in particolare sull'italiano parlato (prima persona dei verbi, nomi propri, interiezioni, parole troncate).
+
+Il tuo compito è *correggere* queste due colonne. Una volta corrette, le informazioni vengono integrate nel corpus e rendono possibile cercare per lemma o per parte del discorso in NoSketchEngine.
+
+== 4. File di lavoro (Excel / CSV)
 
 Il lavoro principale si svolge su un file excel ma alla fine della correzione l'informazione verrà trasportata nel formato standard delle UD, ovvero https://universaldependencies.org/format.html[CoNLL-U]
 
@@ -67,7 +121,7 @@ Del nostro file di lavoro ci interessano principalmente le colonne:
 ==== Il sistema degli ID token
 
 Ogni token ha un `token_id` unico che codifica l'unità di trascrizione e la posizione all'interno di essa.
-Gli ID devono rimanere **unici** all'interno del file: lo script di integrazione li usa per collegare lemma/POS ai file sorgente.
+Gli ID devono rimanere **unici** all'interno del file: lo script di integrazione li usa per collegare lemma/POS ai file sorgente
 
 * **Token divisi** (preposizioni articolate, clitici): usa il formato `5-7a` / `5-7b` per i sotto-token.
 * **Token aggiunto** (parola saltata in trascrizione): usa il primo ID numerico non ancora assegnato nell'unità (es. se l'unità `8` ha token `8-0`–`8-4`, aggiungi `8-5`). L'importante è che l'ID non esista già nel file.
@@ -86,10 +140,8 @@ Riascoltando l'audio, ti accorgi che nell'unità 8 manca la parola _moderne_. L'
 |8-5 |BO026 |8 |`straniere` |straniere |straniero |ADJ  ← riga aggiunta
 |===
 
-Un esempio di file la cui annotazione è stata già corretta si può trovare https://github.com/KIParla/KIP/blob/dev/lemmatized/BOA3011.tsv[qui]
 
-
-== 4. Cosa correggere
+== 5. Cosa correggere
 
 === Approccio del progetto KIParla Forest
 
@@ -131,18 +183,20 @@ Consulta sempre il https://dizionario.internazionale.it/[dizionario De Mauro] pe
 
 ===== Esempi di correzione: lemma e POS errati prodotti dal parser
 
-Il file `BOA1001` contiene questi errori tipici all'inizio della conversazione:
+Il file `BOA1001` contiene questi errori tipici. La parlante si presenta dicendo _"io mi chiamo rossi anna giulia"_:
 
-[cols="1,1,1,3,3,1"]
+[cols="1,1,1,1,1,1"]
 |===
-|token_id |form |lemma (errato) |upos (errato) |Correzione |Note
+|token_id |form |lemma (parser) |upos (parser) |Correzione |Note
 
-|0-1 |`mh`    |mh    |NOUN |`INTJ` |segnale discorsivo
-|0-2 |`eh`    |eh    |NOUN |`INTJ` |segnale discorsivo
-|4-3 |`chiamo` |chare |VERB |lemma → `chiamare` |parser ha sbagliato il lemma
-|4-4 |`rossi`  |rosso |ADJ  |`PROPN`, lemma → `Rossi` |nome proprio, maiuscola
-|4-5 |`anna`   |anno  |ADJ  |`PROPN`, lemma → `Anna`  |nome proprio, maiuscola
+|0-1 |`mh`     |mh      |NOUN |lemma invariato, upos → `INTJ` |segnale discorsivo
+|0-2 |`eh`     |eh      |NOUN |lemma invariato, upos → `INTJ` |segnale discorsivo
+|4-3 |`chiamo` |chare   |VERB |lemma → `chiamare`             |il parser ha inventato un lemma
+|4-4 |`rossi`  |rosso   |ADJ  |`PROPN`, lemma → `Rossi`      |nome proprio: maiuscola, non aggettivo
+|4-6 |`anna`   |anno    |ADJ  |`PROPN`, lemma → `Anna`       |nome proprio: maiuscola, non nome comune
+|4-7 |`giulia` |giulia  |NOUN |`PROPN`, lemma → `Giulia`     |nome proprio: maiuscola
 |===
+
 
 
 === Token speciali
@@ -152,7 +206,7 @@ Il file `BOA1001` contiene questi errori tipici all'inizio della conversazione:
 Il parlante può interrompere una parola a metà. In questi casi:
 
 * **Completa il lemma solo se** la stessa base lessicale appare in un contesto vicino (es. il parlante riprende e ripete la stessa parola).
-* **Non completare** se il parlante cambia lessema (es. inizia a dire _persone_ ma si corregge con _famiglie_): in quel caso non sappiamo cosa volesse dire, e non facciamo ipotesi semantiche.
+* **Non completare** se il parlante cambia lessema (es. `qui a Bologna conosco molte per~ famiglie del sud` inizia a dire _persone_ ma si corregge con _famiglie_): in quel caso non sappiamo cosa volesse dire, e non facciamo ipotesi semantiche.
 * Se non è possibile determinare il lemma, usa `x` come lemma e `X` come POS.
 
 ===== Esempio: parola troncata con ripetizione vicina → lemma completabile
@@ -163,9 +217,26 @@ Il token `7-5` contiene `abili~` (troncato con `~`). Poco dopo, nell'unità 10, 
 |===
 |token_id |speaker |tu_id |span |form |lemma |upos |jefferson_feats
 
-|7-5  |BO020 |7  |`abili~]` |abili~    |abili~    |PROPN |Interrupted=Yes
-|...  |      |   |          |          |          |      |
-|10-3 |BO020 |10 |`abilitato` |abilitato |abilitare |VERB  |_
+|  7-1 | BO020 |  7 | lei       | lei       | lei       | PRON  | _                        |
+|  7-2 | BO020 |  7 | non       | non       | non       | ADV   | _                        |
+|  7-3 | BO020 |  7 | ha        | ha        | avere     | VERB  | _                        |
+|  7-4 | BO020 |  7 | ancora    | ancora    | ancora    | ADV   | _                        |
+|  7-5 | BO020 |  7 | abili~]   | abili~    | abili~    | PROPN | Interrupted=Yes          |
+|  8-0 | BO026 |  8 | [di       | di        | di        | ADP   | _                        |
+|  8-1 | BO026 |  8 | didattica | didattica | didattica | NOUN  | _                        |
+|  8-2 | BO026 |  8 | delle     | delle     | _         | _     | _                        |
+| 8-2a | _     | _  | _         | di        | di        | ADP   | _                        |
+| 8-2b | _     | _  | _         | le        | il        | DET   | _                        |
+|  8-3 | BO026 |  8 | lingue    | lingue    | lingua    | NOUN  | _                        |
+|  8-4 | BO026 |  8 | modern]e? | moderne   | moderno   | ADJ   | Intonation=Rising        |
+|  9-0 | BO020 |  9 | sì.       | sì        | sì        | ADV   | Intonation=Falling       |
+| 10-0 | BO020 | 10 | non       | non       | non       | ADV   | _                        |
+| 10-1 | BO020 | 10 | ha        | ha        | avere     | AUX   | _                        |
+| 10-2 | BO020 | 10 | ancora    | ancora    | ancora    | ADV   | _                        |
+| 10-3 | BO020 | 10 | abilitato | abilitato | abilitare | VERB  | _                        |
+| 10-4 | BO020 | 10 | per       | per       | per       | ADP   | ProsodicLink=Yes         |
+| 10-5 | BO020 | 10 | eh,       | eh        | eh        | NOUN  | Intonation=WeaklyRising |
+| 11-0 | BO020 | 11 | per       | per       | per       | ADP   | _                        |
 |===
 
 Correggi `7-5`:
@@ -175,17 +246,6 @@ Correggi `7-5`:
 |token_id |speaker |tu_id |span |form |lemma |upos |jefferson_feats
 
 |7-5 |BO020 |7 |`abili~]` |abili~ |abilitare |VERB |Interrupted=Yes
-|===
-
-===== Esempio: parola troncata senza ripetizione → lascia `x` / `X`
-
-Se il parlante inizia a dire qualcosa e non la riprende mai, non completare:
-
-[cols="1,1,1,1,1,1,1,2"]
-|===
-|token_id |speaker |tu_id |span |form |lemma |upos |jefferson_feats
-
-|3-2 |BO020 |3 |`cono~` |cono~ |x |X |Interrupted=Yes
 |===
 
 ==== Parole incomprensibili (XXX)
@@ -276,7 +336,7 @@ Tuttavia, se riascoltando l'audio individui un **errore di battitura** o una **t
 
 [NOTE]
 ====
-Ogni modifica a `span` o `form` dovrà poi essere propagata al file sorgente del corpus tramite una patch. Vedi xref:patching.adoc[Correzioni alla trascrizione].
+Ogni modifica a `span` o `form` verrà poi essere propagata al file sorgente del corpus in automatico tramite una patch. Vedi xref:patching.adoc[Correzioni alla trascrizione]. È importante fare particolare attenzione durante queste operazioni
 ====
 
 ==== Esempio: errore di battitura (_bibliotreche_ → _biblioteche_)
@@ -322,7 +382,7 @@ Sostituisci la riga con due righe. Per la seconda, usa il primo ID libero nell'u
 
 [NOTE]
 ====
-Se nell'unità esistono già token con ID `14-2`, `14-3` ecc., gli ID di quei token non vanno rinumerati: aggiungi solo la nuova riga con un ID non ancora usato (es. `14-1b` oppure l'ID numerico libero successivo all'ultimo esistente).
+Se nell'unità esistono già token con ID `14-2`, `14-3` ecc., gli ID di quei token non vanno rinumerati: aggiungi solo la nuova riga con un ID non ancora usato (es. `14-1bis` oppure un ID numerico libero successivo all'ultimo esistente, es. `14-101`).
 ====
 
 === Code switching e dialetto
@@ -338,7 +398,7 @@ Se nella conversazione compaiono parole in un'altra lingua (inglese, francese, s
 * Se la parola è in dialetto e non è lemmatizzabile con certezza, usa il corrispondente italiano come lemma.
 
 
-== 5. Uso di GREW per i dubbi
+== 6. Uso di GREW per i dubbi
 
 GREW serve per:
 
