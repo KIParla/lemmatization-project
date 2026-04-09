@@ -103,7 +103,7 @@
 6-21,BO093,6,6,24,iniziamo,iniziamo,iniziare,VERB,_
 6-22,BO093,6,6,25,a,a,a,ADP,_
 6-23,BO093,6,6,26,parlare,parlare,parlare,VERB,_
-7-0,BO093,7,7,1,dele,dele,dela,NOUN,_
+7-0,BO093,7,7,1,delle,delle,_,_,_
 7-0a,_,_,,,_,de,di,ADP,_
 7-0b,_,_,,,_,le,il,DET,_
 7-1,BO093,7,7,2-3,dei,dei,_,_,_
@@ -362,7 +362,7 @@
 22-6a,_,_,22,7,_,di,di,ADP,_
 22-6b,_,_,22,8,_,l',il,DET,_
 22-7,BO093,22,22,9,ics,ics,ics,NOUN,_
-22-7bis,_,_,_,_,fasi,fasi,fase,NOUN,_
+22-28,_,_,_,_,fasi,fasi,fase,NOUN,_
 22-8,BO093,22,22,10-11,dell',dell',_,_,_
 22-8a,_,_,22,10,_,di,di,ADP,_
 22-8b,_,_,22,11,_,l',il,DET,_
@@ -489,7 +489,6 @@
 31-15,BO093,31,31,16,forme,forme,forma,NOUN,_
 31-16,BO093,31,31,17,traumatiche,traumatiche,traumatico,ADJ,_
 31-17,BO093,31,31,18,acute,acute,acuto,ADJ,_
-31-18,_,_,_,_,_,_,_,_,_
 31-19,BO093,31,31,20,che,che,che,PRON,_
 31-20,BO093,31,31,21,andando,andando,andare,VERB,_
 31-21,BO093,31,31,22,a,a,a,ADP,_
@@ -629,7 +628,7 @@
 41-14,BO093,41,41,15,molti,molti,molto,ADJ,_
 41-15,BO093,41,41,16,sforzi,sforzi,sforzo,NOUN,_
 42-0,BO093,42,42,1,eh,eh,eh,INTJ,_
-42-0bis,_,_,_,_,per,per,per,ADP,_
+42-11,_,_,_,_,per,per,per,ADP,_
 42-1,BO093,42,42,2,studiare,studiare,studiare,VERB,_
 42-2,BO093,42,42,3,comprendere,comprendere,comprendere,VERB,_
 42-3,BO093,42,42,4,avere,avere,avere,VERB,_
@@ -646,7 +645,7 @@
 43-1,BO093,43,43,2,quindi,quindi,quindi,ADV,_
 43-2,BO093,43,43,3,ovviamente,ovviamente,ovviamente,ADV,_
 43-3,BO093,43,43,4,eh,eh,eh,INTJ,_
-43-3bis,_,_,_,_,possono,possono,potere,AUX,_
+43-14,_,_,_,_,possono,possono,potere,AUX,_
 43-4,BO093,43,43,5,essere,essere,essere,AUX,_
 43-5,BO093,43,43,6,un,un,uno,DET,_
 43-6,BO093,43,43,7,ambito,ambito,ambito,NOUN,_
@@ -889,7 +888,7 @@
 55-17,BO093,55,55,18,demenze,demenze,demenza,NOUN,_
 55-18,BO093,55,55,19,"frontotemporali,",frontotemporali,frontotemporale,ADJ,_
 56-0,BO093,56,56,1,eh,eh,eh,INTJ,_
-56-0bis,_,_,_,_,rientrano,rientrano,rientrare,VERB,_
+56-9,_,_,_,_,rientrano,rientrano,rientrare,VERB,_
 56-1,BO093,56,56,2,anche,anche,anche,ADV,_
 56-2,BO093,56,56,3,le,le,il,DET,_
 56-3,BO093,56,56,4,demenze,demenze,demenza,NOUN,_
@@ -963,7 +962,7 @@
 62-6,BO093,62,62,7,xxxte,xxxte,xxxta,NOUN,_
 63-0,BO093,63,63,1,allora,allora,allora,ADV,_
 64-0,BO093,64,64,1,eh,eh,eh,INTJ,_
-64-0bis,_,_,_,_,"ovviamente,",ovviamente,ovviamente,ADV,_
+64-1,_,_,_,_,"ovviamente,",ovviamente,ovviamente,ADV,_
 65-0,BO093,65,65,1,quando,quando,quando,SCONJ,_
 65-1,BO093,65,65,2,si,si,si,PRON,_
 65-2,BO093,65,65,3,considerano,considerano,considerare,VERB,_
@@ -1415,8 +1414,7 @@
 106-6,BO093,106,106,7,nessuna,nessuna,nessuno,PRON,_
 106-7,BO093,106,106,8,di,di,di,ADP,_
 106-8,BO093,106,106,9,queste,queste,questo,DET,_
-106-9,BO093,106,106,10,patologie.,patologie,patologia,NOUN,_
-107-0,BO093,107,107,1,:,:,_,X,_
+106-9,BO093,106,106,10,patologie:.,patologie,patologia,NOUN,_
 107-1,BO093,107,107,2,"quindi,",quindi,quindi,ADV,_
 108-0,BO093,108,108,1-2,nell',nell',_,_,_
 108-0a,_,_,108,1,_,in,in,ADP,_
@@ -1679,9 +1677,9 @@
 126-8,BO093,126,126,10,"genetica,",genetica,genetico,ADJ,_
 127-0,BO093,127,127,1,però,però,però,ADV,_
 127-1,BO093,127,127,2,eh,eh,eh,INTJ,_
-127-1bis,_,_,_,_,ovviamente,ovviamente,ovviamente,ADV,_
+127-7,_,_,_,_,ovviamente,ovviamente,ovviamente,ADV,_
 127-2,BO093,127,127,3,ci,ci,ci,PRON,_
-127-2bis,_,_,_,_,può,può,potere,AUX,_
+127-8,_,_,_,_,può,può,potere,AUX,_
 127-3,BO093,127,127,4,essere,essere,essere,AUX,_
 127-4,BO093,127,127,5,una,una,uno,DET,_
 127-5,BO093,127,127,6,predisposizione,predisposizione,predisposizione,NOUN,_
@@ -1788,7 +1786,7 @@
 135-4,BO093,135,135,5,massima,massima,massima,NOUN,_
 135-5,BO093,135,135,6,la,la,il,DET,_
 135-6,BO093,135,135,7,causa,causa,causa,NOUN,_
-135-6bis,_,_,_,_,genetica,genetica,genetico,ADJ,_
+135-20,_,_,_,_,genetica,genetica,genetico,ADJ,_
 135-7,BO093,135,135,8,rappresenta,rappresenta,rappresentare,VERB,_
 135-8,BO093,135,135,9,una,una,uno,DET,_
 135-9,BO093,135,135,10,percentuale,percentuale,percentuale,NOUN,_
@@ -1985,7 +1983,7 @@
 148-5,BO093,148,148,7,pathway,pathway,pathway,NOUN,_
 148-6,BO093,148,148,8,di,di,di,ADP,_
 148-7,BO093,148,148,9,degradazione,degradazione,degradazione,NOUN,_
-148-7bis,_,_,_,_,di,di,di,ADP,_
+148-10,_,_,_,_,di,di,di,ADP,_
 148-8,BO093,148,148,10,queste,queste,questo,DET,_
 148-9,BO093,148,148,11,proteine.,proteine,proteina,NOUN,_
 149-0,BO093,149,149,1,quindi,quindi,quindi,ADV,_
@@ -2004,7 +2002,7 @@
 149-9,BO093,149,149,12,di,di,di,ADP,_
 149-10,BO093,149,149,13,entrambi.,entrambi,entrambi,PRON,_
 150-0,BO093,150,150,1,eh,eh,eh,INTJ,_
-150-0bis,_,_,_,_,per,per,per,ADP,_
+150-1,_,_,_,_,per,per,per,ADP,_
 150-1,BO093,150,150,2,cui,cui,cui,PRON,_
 150-2,BO093,150,150,3,m:h,mh,mh,INTJ,_
 150-3,BO093,150,150,4,diciamo,diciamo,dire,VERB,_
@@ -2061,7 +2059,7 @@
 157-2,BO093,157,157,3,di,di,di,ADP,_
 157-3,BO093,157,157,4,un,un,uno,DET,_
 157-4,BO093,157,157,5,aggregato,aggregato,aggregato,NOUN,_
-157-4bis,_,_,_,_,determini,determini,determinare,VERB,_
+157-5,_,_,_,_,determini,determini,determinare,VERB,_
 158-0,BO093,158,158,1,la,la,il,DET,_
 159-0,BO093,159,159,1,e::h,eh,eh,INTJ,_
 159-1,BO093,159,159,2,l',l',il,DET,_
@@ -2648,8 +2646,6 @@
 223-8,BO093,223,223,9,aggregati,aggregati,aggregato,NOUN,_
 223-9,BO093,223,223,10,di,di,di,ADP,_
 223-10,BO093,223,223,11,tidipi,tidipi,TDP,NOUN,_
-223-11,_,_,_,_,_,_,_,_,_
-223-12,_,_,_,_,_,_,_,_,_
 223-13,BO093,223,223,14,quarantatré,quarantatré,quarantatré,NUM,_
 223-14,BO093,223,223,15,soprattutto,soprattutto,soprattutto,ADV,_
 223-15,BO093,223,223,16-17,nella,nella,_,_,_
@@ -3231,7 +3227,7 @@
 279-21,BO093,279,279,22,qui,qui,qui,ADV,_
 279-22,BO093,279,279,23,un,un,uno,DET,_
 279-23,BO093,279,279,24,po',po',poco,ADV,_
-279-24,BO093,279,279,25,((ride)),((ride)),_,X,_
+279-24,BO093,279,279,25,((ride)),((ride)),[LAUGH],X,_
 280-0,BO093,280,280,1,e::h,eh,eh,INTJ,_
 280-1,BO093,280,280,2,quello,quello,quello,PRON,_
 280-2,BO093,280,280,3,che,che,che,PRON,_
@@ -3811,8 +3807,6 @@
 332-20,BO093,332,332,21,"parkinson,",parkinson,parkinson,NOUN,_
 332-21,BO093,332,332,22,il,il,il,DET,_
 332-22,BO093,332,332,23,tidipi,tidipi,TDP,NOUN,_
-332-23,_,_,_,_,_,_,_,_,_
-332-24,_,_,_,_,_,_,_,_,_
 332-25,BO093,332,332,26,quarantatré,quarantatré,quarantatré,NUM,_
 332-26,BO093,332,332,27,per,per,per,ADP,_
 332-27,BO093,332,332,28,la,la,il,DET,_
@@ -3936,8 +3930,6 @@
 338-14,BO093,338,338,15,recentemente,recentemente,recentemente,ADV,_
 338-15,BO093,338,338,16,per,per,per,ADP,_
 338-16,BO093,338,338,17,tidipi,tidipi,TDP,PRON,_
-338-17,_,_,_,_,_,_,_,_,_
-338-18,_,_,_,_,_,_,_,_,_
 338-19,BO093,338,338,20,quarantatré,quarantatré,quarantatré,NUM,_
 339-0,BO093,339,339,1,e::h,eh,eh,INTJ,_
 339-1,BO093,339,339,2,il,il,il,DET,_
@@ -4532,10 +4524,10 @@
 390-7,BO093,390,390,8,non,non,non,ADV,_
 390-8,BO093,390,390,9,a,a,a,ADP,_
 390-9,BO093,390,390,10,me,me,me,PRON,_
-390-10,BO093,390,390,11,((ride)),((ride)),_,X,_
+390-10,BO093,390,390,11,((ride)),((ride)),[LAUGH],X,_
 390-11,BO093,390,390,12,perché,perché,perché,SCONJ,_
 390-12,BO093,390,390,13,cioè,cioè,cioè,ADV,_
-390-13,BO093,390,390,14,((ride)),((ride)),_,X,_
+390-13,BO093,390,390,14,((ride)),((ride)),[LAUGH],X,_
 390-14,BO093,390,390,15,per,per,per,ADP,_
 390-15,BO093,390,390,16,me,me,me,PRON,_
 390-16,BO093,390,390,17,poteva,poteva,potere,AUX,_
@@ -4694,8 +4686,6 @@
 399-7a,_,_,399,8,_,di,di,ADP,_
 399-7b,_,_,399,9,_,il,il,DET,_
 399-8,BO093,399,399,10,diennea,diennea,DNA,NOUN,_
-399-9,_,_,_,_,_,_,_,_,_
-399-10,_,_,_,_,_,_,_,_,_
 399-11,BO093,399,399,13,"mitocondriale,",mitocondriale,mitocondriale,ADJ,_
 400-0,BO093,400,400,1,determinano,determinano,determinare,VERB,_
 400-1,BO093,400,400,2,quasi,quasi,quasi,ADV,_
@@ -4848,7 +4838,7 @@
 409-7,BO093,409,409,8,un',un',uno,DET,_
 409-8,BO093,409,409,9,incidenza,incidenza,incidenza,NOUN,_
 409-9,BO093,409,409,10,elevatissima,elevatissima,elevato,ADJ,_
-409-9bis,_,_,_,_,di,di,di,ADP,_
+409-11,_,_,_,_,di,di,di,ADP,_
 409-10,BO093,409,409,11,"parkinson,",parkinson,parkinson,NOUN,_
 410-0,BO093,410,410,1,ed,ed,e,CCONJ,_
 410-1,BO093,410,410,2,è,è,essere,AUX,_
@@ -5494,7 +5484,7 @@
 441-8,BO093,441,441,9,cellulare.,cellulare,cellulare,ADJ,_
 442-0,BO093,442,442,1,allora,allora,allora,ADV,_
 443-0,BO093,443,443,1,qualcuno,qualcuno,qualcuno,PRON,_
-443-1,BO093,443,443,2,(.),[PAUSE],_,X,_
+443-1,BO093,443,443,2,(.),[PAUSE],[PAUSE],X,_
 443-2,BO093,443,443,3,no,no,no,INTJ,_
 444-0,BO093,444,444,1,e::hm,ehm,ehm,INTJ,_
 444-1,BO093,444,444,2,l',l',il,DET,_
@@ -5530,7 +5520,7 @@
 445-3,BO093,445,445,4,abbiamo,abbiamo,avere,AUX,_
 445-4,BO093,445,445,5,parlato,parlato,parlare,VERB,_
 445-5,BO093,445,445,6,eh,eh,eh,INTJ,_
-445-5bis,_,_,_,_,di,di,di,ADP,_
+445-24,_,_,_,_,di,di,di,ADP,_
 445-6,BO093,445,445,7,questi,questi,questo,DET,_
 445-7,BO093,445,445,8,tipi,tipi,tipo,NOUN,_
 445-8,BO093,445,445,9,cellulari,cellulari,cellulare,ADJ,_
@@ -5792,7 +5782,7 @@
 458-30,BO093,458,458,33,a,a,a,ADP,_
 458-31,BO093,458,458,34,livello,livello,livello,NOUN,_
 458-32,BO093,458,458,35,di,di,di,ADP,_
-458-32bis,_,_,_,_,tessuto,tessuto,tessuto,NOUN,_
+458-34,_,_,_,_,tessuto,tessuto,tessuto,NOUN,_
 458-33,BO093,458,458,36,"nervoso,",nervoso,nervoso,ADJ,_
 459-0,BO093,459,459,1,queste,queste,questo,DET,_
 459-1,BO093,459,459,2,cellule,cellule,cellula,NOUN,_
@@ -6411,8 +6401,6 @@
 489-6,BO093,489,489,7,la,la,il,DET,_
 489-7,BO093,489,489,8,famosa,famosa,famoso,ADJ,_
 489-8,BO093,489,489,9,tidipi,tidipi,TDP,NOUN,_
-489-9,_,_,_,_,_,_,_,_,_
-489-10,_,_,_,_,_,_,_,_,_
 489-11,BO093,489,489,12,quarantatré.,quarantatré,quarantatré,NUM,_
 490-0,BO093,490,490,1,che,che,che,PRON,_
 490-1,BO093,490,490,2,è,è,essere,AUX,_
@@ -6455,8 +6443,6 @@
 491-1,BO093,491,491,2,perché,perché,perché,SCONJ,_
 491-2,BO093,491,491,3,la,la,il,DET,_
 491-3,BO093,491,491,4,tidipi,tidipi,TDP,NOUN,_
-491-4,_,_,_,_,_,_,_,_,_
-491-5,_,_,_,_,_,_,_,_,_
 491-6,BO093,491,491,7,quarantatré,quarantatré,quarantatré,NUM,_
 491-7,BO093,491,491,8,si,si,si,PRON,_
 491-8,BO093,491,491,9,trova,trova,trovare,VERB,_
@@ -6575,8 +6561,6 @@
 498-15,BO093,498,498,18,come,come,come,ADP,_
 498-16,BO093,498,498,19,la,la,il,DET,_
 498-17,BO093,498,498,20,tidipi,tidipi,TDP,NOUN,_
-498-18,_,_,_,_,_,_,_,_,_
-498-19,_,_,_,_,_,_,_,_,_
 498-20,BO093,498,498,23,"quarantatré,",quarantatré,quarantatré,NUM,_
 499-0,BO093,499,499,1,andrebbero,andrebbero,andare,VERB,_
 499-1,BO093,499,499,2,ad,ad,a,ADP,_
@@ -6981,7 +6965,7 @@
 524-5,BO093,524,524,6,neurologo,neurologo,neurologo,NOUN,_
 524-6,BO093,524,524,7,era,era,essere,AUX,_
 524-7,BO093,524,524,8,convinto,convinto,convinto,ADJ,_
-524-7bis,_,_,_,_,che,che,che,SCONJ,_
+524-20,_,_,_,_,che,che,che,SCONJ,_
 524-8,BO093,524,524,9,ci,ci,ci,PRON,_
 524-9,BO093,524,524,10,fossero,fossero,essere,VERB,_
 524-10,BO093,524,524,11-12,delle,delle,_,_,_
