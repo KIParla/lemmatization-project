@@ -6,4 +6,4 @@ labels: ''
 assignees: ''
 ---
 
-/cc @KIParla/tutti
+/cc @KIParla/management
