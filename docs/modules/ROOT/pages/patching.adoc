@@ -1,7 +1,7 @@
 = Correzioni alla trascrizione originale: generare e applicare patch
 
 Durante il lavoro di lemmatizzazione può capitare di individuare errori nella trascrizione originale (forme errate, notazione Jefferson scorretta, tokenizzazione sbagliata).
-Questa guida descrive il workflow per riportare tali correzioni nel file sorgente del corpus, senza interrompere il lavoro di lemmatizzazione.
+Questa guida descrive il workflow per riportare tali correzioni automaticamente nel file sorgente del corpus, senza interrompere il lavoro di lemmatizzazione.
 
 == Concetto generale
 
@@ -43,8 +43,6 @@ Nel file di lavoro `.csv` le seguenti colonne vengono propagate nella patch:
 |`form`
 |La forma ortografica normalizzata (es. `sostituire` al posto di `sostiuire`)
 
-|`jefferson_feats`
-|Le feature prosodiche (es. `Intonation=Falling`, `{P}` per le pause brevi)
 |===
 
 Le colonne `lemma` e `upos` *non vengono incluse nella patch*: appartengono all'annotazione linguistica, non alla trascrizione.
