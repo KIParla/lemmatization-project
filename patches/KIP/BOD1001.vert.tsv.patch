@@ -1,0 +1,1852 @@
+--- a/tsv/BOD1001.vert.tsv
++++ b/tsv/BOD1001.vert.tsv
+@@ -5,8 +5,8 @@
+ 0-3	TO999	0	3	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 0-4	TO999	0	4	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 0-5	TO999	0	5	punto	punto	_	_	_	_	_	linguistic	_	none	_	End=1.643	_	_	_	_
+-1-0	TO999	1	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=2.509	_	_	_	_
+-1-1	TO999	1	1	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++1-0	TO999	1	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=2.509	_	_	_	_
++1-1	TO999	1	1	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 1-2	TO999	1	2	alle	alle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1-3	TO999	1	3	dieci	dieci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1-4	TO999	1	4	meno	meno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -201,7 +201,7 @@
+ 28-8	TO999	28	8	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 28-9	TO999	28	9	linguisti,	linguisti	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=76.178	_	_	_	_
+ 29-0	TO999	29	0	e::h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=76.735|End=77.821	0x2	_	_	_
+-30-0	TO999	30	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=78.313	_	_	_	_
++30-0	TO999	30	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=78.313	_	_	_	_
+ 30-1	TO999	30	1	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 30-2	TO999	30	2	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 30-3	TO999	30	3	tanto	tanto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -338,12 +338,12 @@
+ 49-3	BO013	49	3	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 49-4	BO013	49	4	rai,	rai	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=118.068	_	_	_	_
+ 50-0	BO013	50	0	pescale	pescale	_	_	_	_	_	linguistic	_	none	_	Begin=118.7|End=119.325	_	_	_	_
+-51-0	TO999	51	0	[eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=119.703	_	_	_	0-2(17)
+-51-1	TO999	51	1	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(17)
+-51-2	TO999	51	2	ma]	ma	_	_	_	_	_	linguistic	_	none	_	End=120.118	_	_	_	0-2(17)
+-52-0	BO013	52	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=119.703	_	_	_	0-2(17)
+-52-1	BO013	52	1	ta]nte	tante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(17)
+-52-2	BO013	52	2	co[se]	cose	_	_	_	_	_	linguistic	_	none	_	End=120.604	_	_	_	2-4(18)
++51-0	TO999	51	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=119.703	_	_	_	0-2(17)
++51-1	TO999	51	1	ta]nte	tante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(17)
++51-2	TO999	51	2	co[se]	cose	_	_	_	_	_	linguistic	_	none	_	End=120.118	_	_	_	0-2(17)
++52-0	BO013	52	0	[eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=119.703	_	_	_	0-2(17)
++52-1	BO013	52	1	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(17)
++52-2	BO013	52	2	ma]	ma	_	_	_	_	_	linguistic	_	none	_	End=120.604	_	_	_	2-4(18)
+ 53-0	TO999	53	0	[la]	la	_	_	_	_	_	linguistic	_	none	_	Begin=120.492	_	_	_	0-2(18)
+ 53-1	TO999	53	1	rai	rai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 53-2	TO999	53	2	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -421,8 +421,8 @@
+ 68-1	TO999	68	1	sto	sto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 68-2	TO999	68	2	già	già	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 68-3	TO999	68	3	registr[ando	registrando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	7-11(19)
+-68-4	TO999	68	4	xx]	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	0-2(19)
+-68-5	TO999	68	5	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	End=149.748	_	_	_	_
++68-4	TO999	68	4	xx]	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	0-2(19)
++68-5	TO999	68	5	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	End=149.748	_	_	_	_
+ 69-0	BO013	69	0	[no	no	_	_	_	_	_	linguistic	_	none	_	Begin=148.944	_	_	_	0-2(19)
+ 69-1	BO013	69	1	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(19)
+ 69-2	BO013	69	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(19)
+@@ -462,7 +462,7 @@
+ 72-15	TO999	72	15	[ho]	ho	_	_	_	_	_	linguistic	_	none	_	End=160.681	_	_	_	0-2(23)
+ 73-0	BO013	73	0	[ah	ah	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=159.129	_	_	_	0-2(22)
+ 73-1	BO013	73	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-73-2	BO013	73	2	xxx]	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	End=159.958	_	_	_	0-3(22)
++73-2	BO013	73	2	xxx]	x	_	_	_	_	_	unknown	_	none	Syllables=3	End=159.958	_	_	_	0-3(22)
+ 74-0	BO013	74	0	[beh]	beh	_	_	_	_	_	linguistic	_	none	_	Begin=160.395	_	_	_	0-3(23)
+ 74-1	BO013	74	1	vabbè	vabbè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 74-2	BO013	74	2	dai	dai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -523,7 +523,7 @@
+ 83-3	BO013	83	3	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 83-4	BO013	83	4	conoscenza	conoscenza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 83-5	BO013	83	5	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-83-6	BO013	83	6	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++83-6	BO013	83	6	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 83-7	BO013	83	7	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 83-8	BO013	83	8	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 83-9	BO013	83	9	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -563,7 +563,7 @@
+ 86-9	BO013	86	9	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 86-10	BO013	86	10	fini	fini	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 86-11	BO013	86	11	scolastici	scolastici	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-86-12	BO013	86	12	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++86-12	BO013	86	12	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 86-13	BO013	86	13	'ste	'ste	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+ 86-14	BO013	86	14	cose	cose	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 86-15	BO013	86	15	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -571,26 +571,24 @@
+ 86-17	BO013	86	17	frega	frega	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 86-18	BO013	86	18	pensan	pensan	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 86-19	BO013	86	19	solo	solo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-86-20	BO013	86	20	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++86-20	BO013	86	20	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 86-21	BO013	86	21	quattrino	quattrino	_	_	_	_	_	linguistic	_	none	_	End=194.494	_	_	_	_
+ 87-0	TO999	87	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=194.552	_	_	_	_
+ 87-1	TO999	87	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 87-2	TO999	87	2	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 87-3	TO999	87	3	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 87-4	TO999	87	4	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-87-5	TO999	87	5	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-87-6	TO999	87	6	vu	vu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-87-7	TO999	87	7	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-87-8	TO999	87	8	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-87-9	TO999	87	9	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-87-10	TO999	87	10	partita	partita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-87-11	TO999	87	11	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-87-12	TO999	87	12	calcio	calcio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-87-13	TO999	87	13	eran	eran	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-87-14	TO999	87	14	cinquanta	cinquanta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-87-15	TO999	87	15	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-87-16	TO999	87	16	passa	passa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-87-17	TO999	87	17	euro	euro	_	_	_	_	_	linguistic	_	none	_	End=199.247	_	_	_	_
++87-5	TO999	87	5	divudi	divudi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++87-8	TO999	87	6	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++87-9	TO999	87	7	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++87-10	TO999	87	8	partita	partita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++87-11	TO999	87	9	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++87-12	TO999	87	10	calcio	calcio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++87-13	TO999	87	11	eran	eran	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++87-14	TO999	87	12	cinquanta	cinquanta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++87-15	TO999	87	13	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++87-16	TO999	87	14	passa	passa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++87-17	TO999	87	15	euro	euro	_	_	_	_	_	linguistic	_	none	_	End=199.247	_	_	_	_
+ 88-0	BO013	88	0	sai	sai	_	_	_	_	_	linguistic	_	none	_	Begin=199.558	_	_	_	_
+ 88-1	BO013	88	1	cosa?	cosa	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
+ 88-2	BO013	88	2	alcune	alcune	_	_	_	_	_	linguistic	_	none	_	End=200.558	_	_	_	_
+@@ -599,7 +597,7 @@
+ 89-2	BO013	89	2	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 89-3	BO013	89	3	trovano,	trovano	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 89-4	BO013	89	4	°su	su	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
+-89-5	BO013	89	5	xxx°	xxx	_	_	_	_	_	unknown	_	none	Volume=low|Syllables=3	End=203.452	_	_	_	_
++89-5	BO013	89	5	xxx°	x	_	_	_	_	_	unknown	_	none	Volume=low|Syllables=3	End=203.452	_	_	_	_
+ 90-0	BO013	90	0	hai	hai	_	_	_	_	_	linguistic	_	none	_	Begin=204.87	_	_	_	_
+ 90-1	BO013	90	1	trovato?	trovato	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=205.588	_	_	_	_
+ 91-0	TO999	91	0	sì::	sì	_	_	_	_	_	linguistic	_	none	_	Begin=206.035	1x2	_	_	_
+@@ -628,13 +626,13 @@
+ 94-0	BO013	94	0	vabbè	vabbè	_	_	_	_	_	linguistic	_	none	_	Begin=213.2	_	_	_	_
+ 94-1	BO013	94	1	tanto	tanto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 94-2	BO013	94	2	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-94-3	BO013	94	3	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++94-3	BO013	94	3	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 94-4	BO013	94	4	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 94-5	BO013	94	5	qualità	qualità	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-94-6	BO013	94	6	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++94-6	BO013	94	6	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 94-7	BO013	94	7	scrivere	scrivere	_	_	_	_	_	linguistic	_	none	_	End=216.123	_	_	_	_
+ 95-0	TO999	95	0	[no:::]	no	_	_	_	_	_	linguistic	_	none	_	Begin=216.958|End=217.576	1x3	_	_	0-2(27)
+-96-0	BO013	96	0	[xx]xxx	xxxxx	_	_	_	_	_	unknown	_	none	Syllables=5	Begin=216.962|End=218.1	_	_	_	0-2(27)
++96-0	BO013	96	0	[xx]xxx	x	_	_	_	_	_	unknown	_	none	Syllables=5	Begin=216.962|End=218.1	_	_	_	0-2(27)
+ 97-0	TO999	97	0	no	no	_	_	_	_	_	linguistic	_	none	_	Begin=218.67	_	_	_	_
+ 97-1	TO999	97	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 97-2	TO999	97	2	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -642,11 +640,11 @@
+ 97-4	TO999	97	4	su	su	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(28)
+ 97-5	TO999	97	5	questo],	questo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=220.341	_	_	_	0-6(28)
+ 98-0	BO013	98	0	[però	però	_	_	_	_	_	linguistic	_	none	_	Begin=219.394	_	_	_	0-4(28)
+-98-1	BO013	98	1	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	0-3(28)
++98-1	BO013	98	1	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	0-3(28)
+ 98-2	BO013	98	2	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(28)
+ 98-3	BO013	98	3	diffi]coltà,	difficoltà	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=220.606	_	_	_	0-5(28)
+-99-0	BO013	99	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=222.211	_	_	_	_
+-99-1	BO013	99	1	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++99-0	BO013	99	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=222.211	_	_	_	_
++99-1	BO013	99	1	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 99-2	BO013	99	2	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 99-3	BO013	99	3	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 99-4	BO013	99	4	dei::::	dei	_	_	_	_	_	linguistic	_	none	_	_	2x4	_	_	_
+@@ -654,9 +652,9 @@
+ 99-6	BO013	99	6	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 99-7	BO013	99	7	hanno	hanno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 99-8	BO013	99	8	provato	provato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-99-9	BO013	99	9	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	End=226.02	_	_	_	_
+-100-0	BO013	100	0	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=226.476	_	_	_	_
+-100-1	BO013	100	1	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	End=229.404	_	_	_	_
++99-9	BO013	99	9	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	End=226.02	_	_	_	_
++100-0	BO013	100	0	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=226.476	_	_	_	_
++100-1	BO013	100	1	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	End=229.404	_	_	_	_
+ 101-0	BO013	101	0	perché	perché	_	_	_	_	_	linguistic	_	none	_	Begin=230.785	_	_	_	_
+ 101-1	BO013	101	1	ad	ad	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 101-2	BO013	101	2	esempio	esempio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -690,40 +688,40 @@
+ 103-4	BO013	103	4	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 103-5	BO013	103	5	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 103-6	BO013	103	6	squadra	squadra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-103-7	BO013	103	7	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	End=240.751	_	_	_	_
+-104-0	BO013	104	0	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=241.146	_	_	_	_
+-104-1	BO013	104	1	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
++103-7	BO013	103	7	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	End=240.751	_	_	_	_
++104-0	BO013	104	0	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=241.146	_	_	_	_
++104-1	BO013	104	1	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
+ 104-2	BO013	104	2	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 104-3	BO013	104	3	magari	magari	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 104-4	BO013	104	4	li	li	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 104-5	BO013	104	5	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-104-6	BO013	104	6	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++104-6	BO013	104	6	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 104-7	BO013	104	7	come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 104-8	BO013	104	8	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 104-9	BO013	104	9	deve	deve	_	_	_	_	_	linguistic	_	none	_	End=246.652	_	_	_	_
+-105-0	BO013	105	0	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=248.111	_	_	_	_
+-105-1	BO013	105	1	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	End=251.164	_	_	_	_
++105-0	BO013	105	0	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=248.111	_	_	_	_
++105-1	BO013	105	1	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	End=251.164	_	_	_	_
+ 106-0	BO013	106	0	per	per	_	_	_	_	_	linguistic	_	none	_	Begin=251.641	_	_	_	_
+ 106-1	BO013	106	1	i	i	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+ 106-2	BO013	106	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 106-3	BO013	106	3	programmi::::	programmi	_	_	_	_	_	linguistic	_	none	_	End=253.303	8x4	_	_	_
+-107-0	BO013	107	0	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=254.398	_	_	_	_
+-107-1	BO013	107	1	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
+-107-2	BO013	107	2	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	End=258.435	_	_	_	_
+-108-0	BO013	108	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=258.774|End=260.582	_	_	_	_
+-109-0	BO013	109	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=261.849|End=265.525	_	_	_	_
+-110-0	BO013	110	0	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=274.235|End=275.63	_	_	_	_
++107-0	BO013	107	0	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=254.398	_	_	_	_
++107-1	BO013	107	1	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
++107-2	BO013	107	2	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	End=258.435	_	_	_	_
++108-0	BO013	108	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=258.774|End=260.582	_	_	_	_
++109-0	BO013	109	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=261.849|End=265.525	_	_	_	_
++110-0	BO013	110	0	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=274.235|End=275.63	_	_	_	_
+ 111-0	TO999	111	0	no::	no	_	_	_	_	_	linguistic	_	none	_	Begin=275.63	1x2	_	_	_
+ 111-1	TO999	111	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 111-2	TO999	111	2	sì	sì	_	_	_	_	_	linguistic	_	none	_	End=276.358	_	_	_	_
+ 112-0	BO013	112	0	potrebbe	potrebbe	_	_	_	_	_	linguistic	_	none	_	Begin=276.717	_	_	_	_
+ 112-1	BO013	112	1	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-112-2	BO013	112	2	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++112-2	BO013	112	2	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 112-3	BO013	112	3	però	però	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 112-4	BO013	112	4	potresti	potresti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 112-5	BO013	112	5	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-112-6	BO013	112	6	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+-112-7	BO013	112	7	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++112-6	BO013	112	6	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++112-7	BO013	112	7	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 112-8	BO013	112	8	reperire	reperire	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 112-9	BO013	112	9	qualcosa	qualcosa	_	_	_	_	_	linguistic	_	none	_	End=281.3	_	_	_	_
+ 113-0	TO999	113	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=281.5	_	_	_	_
+@@ -752,7 +750,7 @@
+ 116-5	TO999	116	5	quella	quella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 116-6	TO999	116	6	roba	roba	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 116-7	TO999	116	7	lì	lì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-116-8	TO999	116	8	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++116-8	TO999	116	8	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 116-9	TO999	116	9	cinematografia	cinematografia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 116-10	TO999	116	10	anni	anni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 116-11	TO999	116	11	trenta,	trenta	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+@@ -853,7 +851,7 @@
+ 133-13	BO013	133	13	quattro	quattro	_	_	_	_	_	linguistic	_	none	_	End=404.905	_	_	_	_
+ 134-0	BO013	134	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=405.335	_	_	_	_
+ 134-1	BO013	134	1	sulla	sulla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-134-2	BO013	134	2	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++134-2	BO013	134	2	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 134-3	BO013	134	3	d'	d'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 134-4	BO013	134	4	ateneo	ateneo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 134-5	BO013	134	5	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -875,8 +873,9 @@
+ 135-7	BO013	135	7	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 135-8	BO013	135	8	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 135-9	BO013	135	9	riesco	riesco	_	_	_	_	_	linguistic	_	none	_	End=411.082	_	_	_	_
+-136-0	BO013	136	0	cioè::mh	cioèmh	_	_	_	_	_	linguistic	_	none	_	Begin=411.488	3x2	_	_	_
+-136-1	BO013	136	1	vabbè	vabbè	_	_	_	_	_	linguistic	_	none	_	End=412.435	_	_	_	_
++136-0	BO013	136	0	cioè::	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=411.488	3x2	_	_	_
++136-10	BO013	136	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++136-1	BO013	136	2	vabbè	vabbè	_	_	_	_	_	linguistic	_	none	_	End=412.435	_	_	_	_
+ 137-0	BO013	137	0	e:::h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=412.988	0x3	_	_	_
+ 137-1	BO013	137	1	quindi:::,	quindi	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	5x3	_	_	_
+ 137-2	BO013	137	2	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -947,9 +946,7 @@
+ 147-1	BO013	147	1	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 147-2	BO013	147	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 147-3	BO013	147	3	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-147-4	BO013	147	4	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-147-5	BO013	147	5	vu	vu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-147-6	BO013	147	6	di	di	_	_	_	_	_	linguistic	_	none	_	End=476.806	_	_	_	_
++147-4	BO013	147	4	divudi	divudi	_	_	_	_	_	linguistic	_	none	_	End=476.806	_	_	_	_
+ 148-0	BO013	148	0	se	se	_	_	_	_	_	linguistic	_	none	_	Begin=479.088	_	_	_	_
+ 148-1	BO013	148	1	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 148-2	BO013	148	2	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -993,14 +990,12 @@
+ 154-3	BO013	154	3	windows	windows	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 154-4	BO013	154	4	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 154-5	BO013	154	5	penne	penne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-154-6	BO013	154	6	u	u	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-154-7	BO013	154	7	esse	esse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-154-8	BO013	154	8	bi	bi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-154-9	BO013	154	9	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-154-10	BO013	154	10	leggerle	leggerle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-154-11	BO013	154	11	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-154-12	BO013	154	12	tutto	tutto	_	_	_	_	_	linguistic	_	none	_	End=533.448	_	_	_	_
+-155-0	BO013	155	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=534.746|End=536.011	_	_	_	_
++154-6	BO013	154	6	uessebi	uessebi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++154-9	BO013	154	7	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++154-10	BO013	154	8	leggerle	leggerle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++154-11	BO013	154	9	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++154-12	BO013	154	10	tutto	tutto	_	_	_	_	_	linguistic	_	none	_	End=533.448	_	_	_	_
++155-0	BO013	155	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=534.746|End=536.011	_	_	_	_
+ 156-0	???	156	0	vabbè	vabbè	_	_	_	_	_	linguistic	_	none	_	Begin=537.319	_	_	_	_
+ 156-1	???	156	1	m:::h	mh	_	_	_	_	_	linguistic	_	none	_	End=538.385	0x3	_	_	_
+ 157-0	BO013	157	0	per~	per~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	Begin=538.666	_	_	_	_
+@@ -1077,16 +1072,12 @@
+ 170-0	BO013	170	0	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=710.476	_	_	_	_
+ 170-1	BO013	170	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 170-2	BO013	170	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-170-3	BO013	170	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-170-4	BO013	170	4	vu	vu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-170-5	BO013	170	5	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-170-6	BO013	170	6	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
+-170-7	BO013	170	7	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-170-8	BO013	170	8	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-170-9	BO013	170	9	vu	vu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-170-10	BO013	170	10	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-170-11	BO013	170	11	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-170-12	BO013	170	12	è:::	è	_	_	_	_	_	linguistic	_	none	_	End=712.953	0x3	_	_	_
++170-3	BO013	170	3	divudi	divudi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++170-6	BO013	170	4	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
++170-7	BO013	170	5	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++170-8	BO013	170	6	divudi	divudi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++170-11	BO013	170	7	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++170-12	BO013	170	8	è:::	è	_	_	_	_	_	linguistic	_	none	_	End=712.953	0x3	_	_	_
+ 171-0	BO013	171	0	da	da	_	_	_	_	_	linguistic	_	none	_	Begin=714.948	_	_	_	_
+ 171-1	BO013	171	1	feltrinelli	feltrinelli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 171-2	BO013	171	2	sembra	sembra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1166,10 +1157,8 @@
+ 182-6	BO013	182	6	quelle	quelle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 182-7	BO013	182	7	nuo::ve::	nuove	_	_	_	_	_	linguistic	_	none	_	_	2x2,4x2	_	_	_
+ 182-8	BO013	182	8	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-182-9	BO013	182	9	u	u	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-182-10	BO013	182	10	esse	esse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-182-11	BO013	182	11	bi	bi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-182-12	BO013	182	12	ci	ci	_	_	_	_	_	linguistic	_	none	_	End=756.105	_	_	_	_
++182-9	BO013	182	9	uessebi	uessebi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++182-12	BO013	182	10	ci	ci	_	_	_	_	_	linguistic	_	none	_	End=756.105	_	_	_	_
+ 183-0	BO013	183	0	quelle	quelle	_	_	_	_	_	linguistic	_	none	_	Begin=758.323	_	_	_	_
+ 183-1	BO013	183	1	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 183-2	BO013	183	2	[veloci]	veloci	_	_	_	_	_	linguistic	_	none	_	End=759.376	_	_	_	0-6(36)
+@@ -1612,17 +1601,17 @@
+ 252-5	BO013	252	5	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 252-6	BO013	252	6	dopo	dopo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 252-7	BO013	252	7	pranzo	pranzo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-252-8	BO013	252	8	'a	'a	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+-252-9	BO013	252	9	mamma'	mamma'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+-252-10	BO013	252	10	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-252-11	BO013	252	11	lavò	lavò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-252-12	BO013	252	12	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-252-13	BO013	252	13	pettinò	pettinò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-252-14	BO013	252	14	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-252-15	BO013	252	15	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-252-16	BO013	252	16	vestì	vestì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-252-17	BO013	252	17	bono	bono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-252-18	BO013	252	18	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1105.5	_	_	_	_
++252-9	BO013	252	8	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++252-10	BO013	252	9	mammà	mammà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++252-11	BO013	252	10	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++252-12	BO013	252	11	lavò	lavò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++252-13	BO013	252	12	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++252-14	BO013	252	13	pettinò	pettinò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++252-15	BO013	252	14	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++252-16	BO013	252	15	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++252-17	BO013	252	16	vestì	vestì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++252-18	BO013	252	17	bono	bono	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
++252-19	BO013	252	18	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1105.5	_	_	_	_
+ 253-0	BO013	253	0	in	in	_	_	_	_	_	linguistic	_	none	_	Begin=1106.033	_	_	_	_
+ 253-1	BO013	253	1	dove	dove	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 253-2	BO013	253	2	andiamo	andiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1836,8 +1825,8 @@
+ 273-5	BO013	273	5	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 273-6	BO013	273	6	vastasa	vastasa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 273-7	BO013	273	7	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1181.594	_	_	_	_
+-274-0	BO013	274	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=1181.953	_	_	_	_
+-274-1	BO013	274	1	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++274-0	BO013	274	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=1181.953	_	_	_	_
++274-1	BO013	274	1	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 274-2	BO013	274	2	viggiani	viggiani	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 274-3	BO013	274	3	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1184.005	_	_	_	_
+ 275-0	BO013	275	0	spalloni	spalloni	_	_	_	_	_	linguistic	_	none	_	Begin=1184.329	_	_	_	_
+@@ -1971,7 +1960,7 @@
+ 287-4	BO013	287	4	gambe	gambe	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 287-5	BO013	287	5	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 287-6	BO013	287	6	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-287-7	BO013	287	7	(addrummò	addrummò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++287-7	BO013	287	7	addrummò	addrummò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 287-8	BO013	287	8	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 287-9	BO013	287	9	sigaretta	sigaretta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 287-10	BO013	287	10	serraglio	serraglio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1980,35 +1969,35 @@
+ 288-1	BO013	288	1	stesse	stesse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 288-2	BO013	288	2	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 288-3	BO013	288	3	fumava	fumava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-288-4	BO013	288	4	'u	'u	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+-288-5	BO013	288	5	papà	papà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-288-6	BO013	288	6	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-288-7	BO013	288	7	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-288-8	BO013	288	8	costavano	costavano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-288-9	BO013	288	9	ca:re.	care	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	1x1	_	_	_
+-288-10	BO013	288	10	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-288-11	BO013	288	11	parlò	parlò	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+-288-12	BO013	288	12	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-288-13	BO013	288	13	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-288-14	BO013	288	14	disse	disse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-288-15	BO013	288	15	nenti	nenti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-288-16	BO013	288	16	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1242.918	_	_	_	_
++288-5	BO013	288	4	u	u	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++288-6	BO013	288	5	papà	papà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++288-7	BO013	288	6	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++288-8	BO013	288	7	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++288-9	BO013	288	8	costavano	costavano	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
++288-10	BO013	288	9	ca:re.	care	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
++288-11	BO013	288	10	non	non	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
++288-12	BO013	288	11	parlò	parlò	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
++288-13	BO013	288	12	(.)	(.)	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
++288-14	BO013	288	13	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++288-15	BO013	288	14	disse	disse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++288-16	BO013	288	15	nenti	nenti	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
++288-17	BO013	288	16	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1242.918	_	_	_	_
+ 289-0	BO013	289	0	dopo	dopo	_	_	_	_	_	linguistic	_	none	_	Begin=1243.796	_	_	_	_
+ 289-1	BO013	289	1	tanticchia	tanticchia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 289-2	BO013	289	2	comparse	comparse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-289-3	BO013	289	3	'a	'a	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+-289-4	BO013	289	4	mammà	mammà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-289-5	BO013	289	5	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-289-6	BO013	289	6	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-289-7	BO013	289	7	faccia	faccia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-289-8	BO013	289	8	prioccupata	prioccupata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-289-9	BO013	289	9	perchi	perchi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-289-10	BO013	289	10	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-289-11	BO013	289	11	aspettava	aspettava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-289-12	BO013	289	12	fori	fori	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-289-13	BO013	289	13	dalla	dalla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-289-14	BO013	289	14	chiesa	chiesa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-289-15	BO013	289	15	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1248.975	_	_	_	_
++289-4	BO013	289	3	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++289-5	BO013	289	4	mammà	mammà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++289-6	BO013	289	5	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++289-7	BO013	289	6	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++289-8	BO013	289	7	faccia	faccia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++289-9	BO013	289	8	prioccupata	prioccupata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++289-10	BO013	289	9	perchi	perchi	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++289-11	BO013	289	10	l'	l'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
++289-12	BO013	289	11	aspettava	aspettava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++289-13	BO013	289	12	fori	fori	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++289-14	BO013	289	13	dalla	dalla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++289-15	BO013	289	14	chiesa	chiesa	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
++289-16	BO013	289	15	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1248.975	_	_	_	_
+ 290-0	BO013	290	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=1249.343	_	_	_	_
+ 290-1	BO013	290	1	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 290-2	BO013	290	2	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+@@ -2046,10 +2035,10 @@
+ 293-11	BO013	293	11	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 293-12	BO013	293	12	vede.	vede	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+ 293-13	BO013	293	13	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1260.356	_	_	_	_
+-294-0	BO013	294	0	'a	'a	_	_	_	_	_	linguistic	_	none	Truncated=Yes	Begin=1261.475	_	_	_	_
+-294-1	BO013	294	1	mammà	mammà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-294-2	BO013	294	2	arrussicò	arrussicò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-294-3	BO013	294	3	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1262.737	_	_	_	_
++294-1	BO013	294	0	a	a	_	_	_	_	_	linguistic	_	none	_	Begin=1261.475	_	_	_	_
++294-2	BO013	294	1	mammà	mammà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++294-3	BO013	294	2	arrussicò	arrussicò	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
++294-4	BO013	294	3	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1262.737	_	_	_	_
+ 295-0	BO013	295	0	mentre	mentre	_	_	_	_	_	linguistic	_	none	_	Begin=1263.346	_	_	_	_
+ 295-1	BO013	295	1	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 295-2	BO013	295	2	pruiva	pruiva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2463,7 +2452,7 @@
+ 331-7	BO013	331	7	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 331-8	BO013	331	8	michelino.	michelino	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1419.693	_	_	_	_
+ 332-0	BO013	332	0	si	si	_	_	_	_	_	linguistic	_	none	_	Begin=1421.812	_	_	_	_
+-332-1	BO013	332	1	fermo,	fermo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++332-1	BO013	332	1	fermò,	fermò	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 332-2	BO013	332	2	davanti	davanti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 332-3	BO013	332	3	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 332-4	BO013	332	4	gesù	gesù	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2489,7 +2478,7 @@
+ 334-6	BO013	334	6	sangue	sangue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 334-7	BO013	334	7	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 334-8	BO013	334	8	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-334-9	BO013	334	9	inisci:va	inisciva	_	_	_	_	_	linguistic	_	none	_	_	5x1	_	_	_
++334-9	BO013	334	9	nisci:va	nisciva	_	_	_	_	_	linguistic	_	none	_	_	5x1	_	_	_
+ 334-10	BO013	334	10	dal	dal	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 334-11	BO013	334	11	costato	costato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 334-12	BO013	334	12	ferito	ferito	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2609,7 +2598,7 @@
+ 343-10	BO013	343	10	chiova.	chiova	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+ 343-11	BO013	343	11	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1475.406	_	_	_	_
+ 344-0	BO013	344	0	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=1476.087	_	_	_	_
+-344-1	BO013	344	1	(agginucchiò	agginucchiò	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
++344-1	BO013	344	1	agginucchiò	agginucchiò	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+ 344-2	BO013	344	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 344-3	BO013	344	3	principiò	principiò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 344-4	BO013	344	4	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2633,13 +2622,13 @@
+ 345-7	BO013	345	7	mezz'	mezz'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 345-8	BO013	345	8	orata	orata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 345-9	BO013	345	9	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-345-10	BO013	345	10	'a	'a	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+-345-11	BO013	345	11	mamma'	mamma'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+-345-12	BO013	345	12	ancora	ancora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-345-13	BO013	345	13	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-345-14	BO013	345	14	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-345-15	BO013	345	15	vedeva	vedeva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-345-16	BO013	345	16	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1486.2	_	_	_	_
++345-11	BO013	345	10	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++345-12	BO013	345	11	mamma'	mamma'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
++345-13	BO013	345	12	ancora	ancora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++345-14	BO013	345	13	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++345-15	BO013	345	14	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++345-16	BO013	345	15	vedeva	vedeva	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
++345-17	BO013	345	16	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1486.2	_	_	_	_
+ 346-0	BO013	346	0	allura	allura	_	_	_	_	_	linguistic	_	none	_	Begin=1486.831	_	_	_	_
+ 346-1	BO013	346	1	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 346-2	BO013	346	2	susì	susì	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+@@ -2668,7 +2657,7 @@
+ 347-11	BO013	347	11	criata	criata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 347-12	BO013	347	12	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1495.062	_	_	_	_
+ 348-0	BO013	348	0	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=1496.443	_	_	_	_
+-348-1	BO013	348	1	(arrampicò,	arrampicò	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++348-1	BO013	348	1	arrampicò,	arrampicò	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 348-2	BO013	348	2	sulla	sulla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 348-3	BO013	348	3	balaustra	balaustra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 348-4	BO013	348	4	sistimata	sistimata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2718,27 +2707,27 @@
+ 350-19	BO013	350	19	faccia	faccia	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+ 350-20	BO013	350	20	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 350-21	BO013	350	21	eh?	eh	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=1513.636	_	_	_	_
+-351-0	BO013	351	0	'a	'a	_	_	_	_	_	linguistic	_	none	Truncated=Yes	Begin=1514.681	_	_	_	_
+-351-1	BO013	351	1	mammà	mammà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-351-2	BO013	351	2	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-351-3	BO013	351	3	trovò	trovò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-351-4	BO013	351	4	accussì	accussì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-351-5	BO013	351	5	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-351-6	BO013	351	6	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-351-7	BO013	351	7	abbrazzà	abbrazzà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-351-8	BO013	351	8	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-351-9	BO013	351	9	niscirono	niscirono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-351-10	BO013	351	10	fora	fora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-351-11	BO013	351	11	dalla	dalla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-351-12	BO013	351	12	chiesa	chiesa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-351-13	BO013	351	13	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1518.562	_	_	_	_
+-352-0	BO013	352	0	'a	'a	_	_	_	_	_	linguistic	_	none	Truncated=Yes	Begin=1518.975	_	_	_	_
+-352-1	BO013	352	1	mammà,	mammà	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-352-2	BO013	352	2	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-352-3	BO013	352	3	russa	russa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-352-4	BO013	352	4	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-352-5	BO013	352	5	faccia	faccia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-352-6	BO013	352	6	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1520.812	_	_	_	_
++351-1	BO013	351	0	a	a	_	_	_	_	_	linguistic	_	none	_	Begin=1514.681	_	_	_	_
++351-2	BO013	351	1	mammà	mammà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++351-3	BO013	351	2	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++351-4	BO013	351	3	trovò	trovò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++351-5	BO013	351	4	accussì	accussì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++351-6	BO013	351	5	si	si	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++351-7	BO013	351	6	l'	l'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
++351-8	BO013	351	7	abbrazzà	abbrazzà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++351-9	BO013	351	8	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++351-10	BO013	351	9	niscirono	niscirono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++351-11	BO013	351	10	fora	fora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++351-12	BO013	351	11	dalla	dalla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++351-13	BO013	351	12	chiesa	chiesa	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
++351-14	BO013	351	13	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1518.562	_	_	_	_
++352-1	BO013	352	0	a	a	_	_	_	_	_	linguistic	_	none	_	Begin=1518.975	_	_	_	_
++352-2	BO013	352	1	mammà,	mammà	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++352-3	BO013	352	2	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++352-4	BO013	352	3	russa	russa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++352-5	BO013	352	4	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++352-6	BO013	352	5	faccia	faccia	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
++352-7	BO013	352	6	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1520.812	_	_	_	_
+ 353-0	BO013	353	0	pariva	pariva	_	_	_	_	_	linguistic	_	none	_	Begin=1521.233	_	_	_	_
+ 353-1	BO013	353	1	pigliata	pigliata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 353-2	BO013	353	2	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2754,7 +2743,7 @@
+ 353-12	BO013	353	12	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1524.356	_	_	_	_
+ 354-0	BO013	354	0	michilino	michilino	_	_	_	_	_	linguistic	_	none	_	Begin=1524.993	_	_	_	_
+ 354-1	BO013	354	1	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-354-2	BO013	354	2	(addunò	addunò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++354-2	BO013	354	2	addunò	addunò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 354-3	BO013	354	3	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 354-4	BO013	354	4	alla	alla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 354-5	BO013	354	5	mamma'	mamma'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+@@ -2769,7 +2758,7 @@
+ 355-1	BO013	355	1	disse	disse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 355-2	BO013	355	2	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1530.162	_	_	_	_
+ 356-0	BO013	356	0	a'	a'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	Begin=1530.561	_	_	_	_
+-356-1	BO013	356	1	mamma'	mamma'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
++356-1	BO013	356	1	mammà	mammà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 356-2	BO013	356	2	arrussicò	arrussicò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 356-3	BO013	356	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 356-4	BO013	356	4	più	più	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3016,7 +3005,7 @@
+ 377-2	BO013	377	2	misi	misi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 377-3	BO013	377	3	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 377-4	BO013	377	4	spiegari	spiegari	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-377-5	BO013	377	5	qu'	qu'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
++377-5	BO013	377	5	cu	cu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 377-6	BO013	377	6	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 377-7	BO013	377	7	diu	diu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 377-8	BO013	377	8	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1618.499	_	_	_	_
+@@ -3038,13 +3027,12 @@
+ 379-3	BO013	379	3	erano	erano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 379-4	BO013	379	4	altri	altri	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 379-5	BO013	379	5	dii	dii	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-379-6	BO013	379	6	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-379-7	BO013	379	7	cari	cari	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-379-8	BO013	379	8	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-379-9	BO013	379	9	dicivano	dicivano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-379-10	BO013	379	10	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-379-11	BO013	379	11	esserci	esserci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-379-12	BO013	379	12	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1625.935	_	_	_	_
++379-6	BO013	379	6	macari	macari	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++379-8	BO013	379	7	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++379-9	BO013	379	8	dicivano	dicivano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++379-10	BO013	379	9	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++379-11	BO013	379	10	esserci	esserci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++379-12	BO013	379	11	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1625.935	_	_	_	_
+ 380-0	BO013	380	0	alla	alla	_	_	_	_	_	linguistic	_	none	_	Begin=1626.505	_	_	_	_
+ 380-1	BO013	380	1	fine	fine	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 380-2	BO013	380	2	u	u	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3069,7 +3057,7 @@
+ 382-4	BO013	382	4	lato,	lato	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 382-5	BO013	382	5	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1634.805	_	_	_	_
+ 383-0	BO013	383	0	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=1635.105	_	_	_	_
+-383-1	BO013	383	1	(addruvò	addruvò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++383-1	BO013	383	1	addruvò	addruvò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 383-2	BO013	383	2	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 383-3	BO013	383	3	asserraglio.	asserraglio	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+ 383-4	BO013	383	4	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1636.729	_	_	_	_
+@@ -3119,19 +3107,18 @@
+ 392-1	BO013	392	1	cado	cado	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 392-2	BO013	392	2	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 392-3	BO013	392	3	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-392-4	BO013	392	4	n'	n'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-392-5	BO013	392	5	esce	esce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-392-6	BO013	392	6	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-392-7	BO013	392	7	sangue	sangue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-392-8	BO013	392	8	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-392-9	BO013	392	9	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-392-10	BO013	392	10	ginocchiu	ginocchiu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-392-11	BO013	392	11	certo	certo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-392-12	BO013	392	12	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-392-13	BO013	392	13	me	me	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-392-14	BO013	392	14	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-392-15	BO013	392	15	tocco	tocco	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-392-16	BO013	392	16	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1655.07	_	_	_	_
++392-4	BO013	392	4	nesce	nesce	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++392-6	BO013	392	5	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++392-7	BO013	392	6	sangue	sangue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++392-8	BO013	392	7	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++392-9	BO013	392	8	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++392-10	BO013	392	9	ginocchiu	ginocchiu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++392-11	BO013	392	10	certo	certo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++392-12	BO013	392	11	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++392-13	BO013	392	12	me	me	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++392-14	BO013	392	13	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++392-15	BO013	392	14	tocco	tocco	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++392-16	BO013	392	15	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1655.07	_	_	_	_
+ 393-0	BO013	393	0	no	no	_	_	_	_	_	linguistic	_	none	_	Begin=1655.431	_	_	_	_
+ 393-1	BO013	393	1	disse	disse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 393-2	BO013	393	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3167,9 +3154,9 @@
+ 396-5	BO013	396	5	come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 396-6	BO013	396	6	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 396-7	BO013	396	7	chiamava	chiamava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-396-8	BO013	396	8	'a	'a	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+-396-9	BO013	396	9	mammà	mammà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-396-10	BO013	396	10	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1667.229	_	_	_	_
++396-9	BO013	396	8	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++396-10	BO013	396	9	mammà	mammà	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
++396-11	BO013	396	10	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1667.229	_	_	_	_
+ 397-0	BO013	397	0	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=1667.905	_	_	_	_
+ 397-1	BO013	397	1	uccellino	uccellino	_	_	_	_	_	linguistic	_	none	_	End=1668.593	_	_	_	_
+ 398-0	BO013	398	0	esattamente	esattamente	_	_	_	_	_	linguistic	_	none	_	Begin=1669.62	_	_	_	_
+@@ -3234,17 +3221,17 @@
+ 406-0	BO013	406	0	michilino	michilino	_	_	_	_	_	linguistic	_	none	_	Begin=1689.629	_	_	_	_
+ 406-1	BO013	406	1	obbidì	obbidì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 406-2	BO013	406	2	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1690.429	_	_	_	_
+-407-0	BO013	407	0	'u	'u	_	_	_	_	_	linguistic	_	none	Truncated=Yes	Begin=1690.966	_	_	_	_
+-407-1	BO013	407	1	parrinu	parrinu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-407-2	BO013	407	2	tastiò	tastiò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-407-3	BO013	407	3	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-407-4	BO013	407	4	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-407-5	BO013	407	5	mano	mano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-407-6	BO013	407	6	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-407-7	BO013	407	7	acciggiuzzo.	acciggiuzzo	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+-407-8	BO013	407	8	parse	parse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-407-9	BO013	407	9	sorpreso	sorpreso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-407-10	BO013	407	10	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1694.411	_	_	_	_
++407-1	BO013	407	0	u	u	_	_	_	_	_	linguistic	_	none	_	Begin=1690.966	_	_	_	_
++407-2	BO013	407	1	parrinu	parrinu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++407-3	BO013	407	2	tastiò	tastiò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++407-4	BO013	407	3	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++407-5	BO013	407	4	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++407-6	BO013	407	5	mano	mano	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++407-7	BO013	407	6	l'	l'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
++407-8	BO013	407	7	acciggiuzzo.	acciggiuzzo	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
++407-9	BO013	407	8	parse	parse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++407-10	BO013	407	9	sorpreso	sorpreso	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
++407-11	BO013	407	10	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1694.411	_	_	_	_
+ 408-0	BO013	408	0	assettati	assettati	_	_	_	_	_	linguistic	_	none	_	Begin=1694.764	_	_	_	_
+ 408-1	BO013	408	1	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1695.505	_	_	_	_
+ 409-0	BO013	409	0	anche	anche	_	_	_	_	_	linguistic	_	none	_	Begin=1696.293	_	_	_	_
+@@ -3280,14 +3267,14 @@
+ 412-6	BO013	412	6	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 412-7	BO013	412	7	scusi	scusi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 412-8	BO013	412	8	disse	disse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-412-9	BO013	412	9	'a	'a	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+-412-10	BO013	412	10	mammà	mammà	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+-412-11	BO013	412	11	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-412-12	BO013	412	12	michilino	michilino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-412-13	BO013	412	13	andiamo	andiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-412-14	BO013	412	14	via	via	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-412-15	BO013	412	15	buongiorno	buongiorno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-412-16	BO013	412	16	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1709.364	_	_	_	_
++412-10	BO013	412	9	a	a	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
++412-11	BO013	412	10	mammà	mammà	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
++412-12	BO013	412	11	(.)	(.)	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
++412-13	BO013	412	12	michilino	michilino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++412-14	BO013	412	13	andiamo	andiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++412-15	BO013	412	14	via	via	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++412-16	BO013	412	15	buongiorno	buongiorno	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
++412-17	BO013	412	16	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1709.364	_	_	_	_
+ 413-0	BO013	413	0	i	i	_	_	_	_	_	linguistic	_	none	_	Begin=1710.34	_	_	_	_
+ 413-1	BO013	413	1	miei	miei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 413-2	BO013	413	2	rispetti,	rispetti	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
+@@ -3545,7 +3532,7 @@
+ 434-19	BO013	434	19	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 434-20	BO013	434	20	coscienza.	coscienza	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+ 434-21	BO013	434	21	eh	eh	_	_	_	_	_	linguistic	_	none	_	End=1810.053	_	_	_	_
+-435-0	BO013	435	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=1811.083	_	_	_	_
++435-0	BO013	435	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=1811.083	_	_	_	_
+ 435-1	BO013	435	1	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1811.806	_	_	_	_
+ 436-0	BO013	436	0	marietta	marietta	_	_	_	_	_	linguistic	_	none	_	Begin=1812.417	_	_	_	_
+ 436-1	BO013	436	1	lento	lento	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3707,14 +3694,15 @@
+ 447-21	BO013	447	21	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 447-22	BO013	447	22	po',	po'	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1866.193	_	_	_	_
+ 448-0	BO013	448	0	di	di	_	_	_	_	_	linguistic	_	none	_	Begin=1866.637	_	_	_	_
+-448-1	BO013	448	1	carezzedi	carezzedi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-448-2	BO013	448	2	baci	baci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-448-3	BO013	448	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-448-4	BO013	448	4	effusività,	effusività	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-448-5	BO013	448	5	almeno	almeno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-448-6	BO013	448	6	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-448-7	BO013	448	7	pochino	pochino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-448-8	BO013	448	8	eh?	eh	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=1869.584	_	_	_	_
++448-1	BO013	448	1	carezze	carezze	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++448-9	BO013	448	2	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++448-2	BO013	448	3	baci	baci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++448-3	BO013	448	4	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++448-4	BO013	448	5	effusività,	effusività	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++448-5	BO013	448	6	almeno	almeno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++448-6	BO013	448	7	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++448-7	BO013	448	8	pochino	pochino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++448-8	BO013	448	9	eh?	eh	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=1869.584	_	_	_	_
+ 449-0	BO013	449	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=1869.955	_	_	_	_
+ 449-1	BO013	449	1	invece	invece	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 449-2	BO013	449	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3894,9 +3882,9 @@
+ 462-12	BO013	462	12	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1941.806	_	_	_	_
+ 463-0	BO013	463	0	giusto	giusto	_	_	_	_	_	linguistic	_	none	_	Begin=1942.326	_	_	_	_
+ 463-1	BO013	463	1	fece	fece	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-463-2	BO013	463	2	'a	'a	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+-463-3	BO013	463	3	mammà	mammà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-463-4	BO013	463	4	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1943.366	_	_	_	_
++463-3	BO013	463	2	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++463-4	BO013	463	3	mammà	mammà	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
++463-5	BO013	463	4	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1943.366	_	_	_	_
+ 464-0	BO013	464	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=1943.98	_	_	_	_
+ 464-1	BO013	464	1	allora	allora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 464-2	BO013	464	2	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1944.56	_	_	_	_
+@@ -4100,24 +4088,25 @@
+ 480-12	BO013	480	12	te	te	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 480-13	BO013	480	13	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 480-14	BO013	480	14	fa	fa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-480-15	BO013	480	15	io:::eh	ioeh	_	_	_	_	_	linguistic	_	none	_	_	1x3	_	_	_
+-480-16	BO013	480	16	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-480-17	BO013	480	17	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-480-18	BO013	480	18	piace	piace	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-480-19	BO013	480	19	così	così	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-480-20	BO013	480	20	tanto	tanto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-480-21	BO013	480	21	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-480-22	BO013	480	22	agrodolce	agrodolce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-480-23	BO013	480	23	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-480-24	BO013	480	24	fa	fa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-480-25	BO013	480	25	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-480-26	BO013	480	26	peccato?	peccato	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
+-480-27	BO013	480	27	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-480-28	BO013	480	28	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-480-29	BO013	480	29	mancherebbe	mancherebbe	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-480-30	BO013	480	30	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-480-31	BO013	480	31	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-480-32	BO013	480	32	mangia::re	mangiare	_	_	_	_	_	linguistic	_	none	_	End=2019.915	5x2	_	_	_
++480-15	BO013	480	15	io:::	io	_	_	_	_	_	linguistic	_	none	_	_	1x3	_	_	_
++480-33	BO013	480	16	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++480-16	BO013	480	17	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++480-17	BO013	480	18	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++480-18	BO013	480	19	piace	piace	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++480-19	BO013	480	20	così	così	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++480-20	BO013	480	21	tanto	tanto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++480-21	BO013	480	22	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++480-22	BO013	480	23	agrodolce	agrodolce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++480-23	BO013	480	24	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++480-24	BO013	480	25	fa	fa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++480-25	BO013	480	26	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++480-26	BO013	480	27	peccato?	peccato	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
++480-27	BO013	480	28	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++480-28	BO013	480	29	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++480-29	BO013	480	30	mancherebbe	mancherebbe	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++480-30	BO013	480	31	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++480-31	BO013	480	32	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++480-32	BO013	480	33	mangia::re	mangiare	_	_	_	_	_	linguistic	_	none	_	End=2019.915	5x2	_	_	_
+ 481-0	BO013	481	0	la	la	_	_	_	_	_	linguistic	_	none	_	Begin=2021.1	_	_	_	_
+ 481-1	BO013	481	1	si::ra,	sira	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	1x2	_	_	_
+ 481-2	BO013	481	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+@@ -4155,7 +4144,7 @@
+ 484-0	BO013	484	0	allu:ra,	allura	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=2032.103	3x1	_	_	_
+ 484-1	BO013	484	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 484-2	BO013	484	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-484-3	BO013	484	3	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++484-3	BO013	484	3	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 484-4	BO013	484	4	terribili	terribili	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 484-5	BO013	484	5	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 484-6	BO013	484	6	firoci	firoci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -4462,10 +4451,9 @@
+ 507-9	BO013	507	9	supra	supra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 507-10	BO013	507	10	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 507-11	BO013	507	11	tavolino	tavolino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-507-12	BO013	507	12	ne	ne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-507-13	BO013	507	13	iscì	iscì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-507-14	BO013	507	14	murmuriando	murmuriando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-507-15	BO013	507	15	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2147.492	_	_	_	_
++507-12	BO013	507	12	nescì	nescì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++507-14	BO013	507	13	murmuriando	murmuriando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++507-15	BO013	507	14	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2147.492	_	_	_	_
+ 508-0	BO013	508	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=2147.862	_	_	_	_
+ 508-1	BO013	508	1	grandissimo	grandissimo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 508-2	BO013	508	2	scassamento	scassamento	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -4538,23 +4526,24 @@
+ 513-0	BO013	513	0	chi	chi	_	_	_	_	_	linguistic	_	none	_	Begin=2174.739	_	_	_	_
+ 513-1	BO013	513	1	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 513-2	BO013	513	2	face:va.	faceva	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	3x1	_	_	_
+-513-3	BO013	513	3	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-513-4	BO013	513	4	(innicalava	innicalava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-513-5	BO013	513	5	dritto	dritto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-513-6	BO013	513	6	dritto	dritto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-513-7	BO013	513	7	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-513-8	BO013	513	8	anfernu.	anfernu	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+-513-9	BO013	513	9	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-513-10	BO013	513	10	tutte	tutte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-513-11	BO013	513	11	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-513-12	BO013	513	12	scarpi	scarpi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-513-13	BO013	513	13	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-513-14	BO013	513	14	abbrusciava	abbrusciava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-513-15	BO013	513	15	vivo	vivo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-513-16	BO013	513	16	pi	pi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-513-17	BO013	513	17	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-513-18	BO013	513	18	eternità	eternità	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-513-19	BO013	513	19	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2182.039	_	_	_	_
++513-3	BO013	513	3	si	si	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++513-20	BO013	513	4	ni	ni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++513-4	BO013	513	5	calava	calava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++513-5	BO013	513	6	dritto	dritto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++513-6	BO013	513	7	dritto	dritto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++513-7	BO013	513	8	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++513-8	BO013	513	9	anfernu.	anfernu	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
++513-9	BO013	513	10	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++513-10	BO013	513	11	tutte	tutte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++513-11	BO013	513	12	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++513-12	BO013	513	13	scarpi	scarpi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++513-13	BO013	513	14	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++513-14	BO013	513	15	abbrusciava	abbrusciava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++513-15	BO013	513	16	vivo	vivo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++513-16	BO013	513	17	pi	pi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++513-17	BO013	513	18	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++513-18	BO013	513	19	eternità	eternità	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++513-19	BO013	513	20	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2182.039	_	_	_	_
+ 514-0	BO013	514	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=2182.363	_	_	_	_
+ 514-1	BO013	514	1	suo	suo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 514-2	BO013	514	2	patre	patre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -4711,8 +4700,8 @@
+ 526-17	BO013	526	17	austu	austu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 526-18	BO013	526	18	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2239.386	_	_	_	_
+ 527-0	BO013	527	0	la	la	_	_	_	_	_	linguistic	_	none	_	Begin=2239.957	_	_	_	_
+-527-1	BO013	527	1	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+-527-2	BO013	527	2	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++527-1	BO013	527	1	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++527-2	BO013	527	2	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 527-3	BO013	527	3	semplici	semplici	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 527-4	BO013	527	4	linzolo	linzolo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 527-5	BO013	527	5	dava	dava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -4766,7 +4755,7 @@
+ 531-13	BO013	531	13	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 531-14	BO013	531	14	uno	uno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 531-15	BO013	531	15	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-531-16	BO013	531	16	(arisbigliava	arisbigliava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++531-16	BO013	531	16	arisbigliava	arisbigliava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 531-17	BO013	531	17	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2261.0	_	_	_	_
+ 532-0	BO013	532	0	perché	perché	_	_	_	_	_	linguistic	_	none	_	Begin=2261.402	_	_	_	_
+ 532-1	BO013	532	1	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -5068,7 +5057,7 @@
+ 559-9	BO013	559	9	dovere	dovere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 559-10	BO013	559	10	coniugale	coniugale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 559-11	BO013	559	11	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-559-12	BO013	559	12	(addormenta	addormenta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++559-12	BO013	559	12	addormenta	addormenta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 559-13	BO013	559	13	subito	subito	_	_	_	_	_	linguistic	_	none	_	End=2363.022	_	_	_	_
+ 560-0	BO013	560	0	due	due	_	_	_	_	_	linguistic	_	none	_	Begin=2363.964	_	_	_	_
+ 560-1	BO013	560	1	notti	notti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -5077,7 +5066,7 @@
+ 560-4	BO013	560	4	mammà	mammà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 560-5	BO013	560	5	ripigliò	ripigliò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 560-6	BO013	560	6	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-560-7	BO013	560	7	spiare.	spiare	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
++560-7	BO013	560	7	spiare	spiare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 560-8	BO013	560	8	michilino	michilino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 560-9	BO013	560	9	dormi?	dormi	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
+ 560-10	BO013	560	10	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2367.257	_	_	_	_
+@@ -5483,12 +5472,12 @@
+ 592-10	BO013	592	10	susiva,	susiva	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 592-11	BO013	592	11	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 592-12	BO013	592	12	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-592-13	BO013	592	13	(assittava	assittava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++592-13	BO013	592	13	assittava	assittava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 592-14	BO013	592	14	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 592-15	BO013	592	15	susiva,	susiva	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 592-16	BO013	592	16	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 592-17	BO013	592	17	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-592-18	BO013	592	18	(asittava	asittava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++592-18	BO013	592	18	asittava	asittava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 592-19	BO013	592	19	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 592-20	BO013	592	20	u	u	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 592-21	BO013	592	21	papà	papà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -5502,9 +5491,8 @@
+ 593-6	BO013	593	6	cercava	cercava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 593-7	BO013	593	7	d'	d'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 593-8	BO013	593	8	ammutarla	ammutarla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-593-9	BO013	593	9	dal	dal	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-593-10	BO013	593	10	re	re	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-593-11	BO013	593	11	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2518.265	_	_	_	_
++593-9	BO013	593	9	darrè	darrè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++593-11	BO013	593	10	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2518.265	_	_	_	_
+ 594-0	BO013	594	0	inva::no	invano	_	_	_	_	_	linguistic	_	none	_	Begin=2518.736	3x2	_	_	_
+ 594-1	BO013	594	1	cercava	cercava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 594-2	BO013	594	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -6153,7 +6141,7 @@
+ 659-1	BO013	659	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 659-2	BO013	659	2	scuderi	scuderi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 659-3	BO013	659	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-659-4	BO013	659	4	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++659-4	BO013	659	4	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 659-5	BO013	659	5	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 659-6	BO013	659	6	sicco	sicco	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 659-7	BO013	659	7	sicco	sicco	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -6254,7 +6242,7 @@
+ 669-4	BO013	669	4	u:ra,	ura	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	0x1	_	_	_
+ 669-5	BO013	669	5	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 669-6	BO013	669	6	classe	classe	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-669-7	BO013	669	7	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++669-7	BO013	669	7	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 669-8	BO013	669	8	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2798.144	_	_	_	_
+ 670-0	BO013	670	0	ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=2798.568	_	_	_	_
+ 670-1	BO013	670	1	nisciuno	nisciuno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -6285,7 +6273,7 @@
+ 672-1	BO013	672	1	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 672-2	BO013	672	2	porta	porta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 672-3	BO013	672	3	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-672-4	BO013	672	4	(assittò	assittò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++672-4	BO013	672	4	assittò	assittò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 672-5	BO013	672	5	sulla	sulla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 672-6	BO013	672	6	cattidra	cattidra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 672-7	BO013	672	7	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -6574,7 +6562,7 @@
+ 701-7	BO013	701	7	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 701-8	BO013	701	8	maestro	maestro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 701-9	BO013	701	9	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-701-10	BO013	701	10	(assittò	assittò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++701-10	BO013	701	10	assittò	assittò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 701-11	BO013	701	11	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 701-12	BO013	701	12	risusì	risusì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 701-13	BO013	701	13	scinnì	scinnì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -6595,7 +6583,7 @@
+ 703-1	BO013	703	1	dintra	dintra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 703-2	BO013	703	2	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2924.892	_	_	_	_
+ 704-0	BO013	704	0	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=2925.256	_	_	_	_
+-704-1	BO013	704	1	(assittò,	assittò	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++704-1	BO013	704	1	assittò,	assittò	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 704-2	BO013	704	2	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2925.953	_	_	_	_
+ 705-0	BO013	705	0	ancora	ancora	_	_	_	_	_	linguistic	_	none	_	Begin=2926.355	_	_	_	_
+ 705-1	BO013	705	1	aviva	aviva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -6603,7 +6591,7 @@
+ 705-3	BO013	705	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 705-4	BO013	705	4	trimulizzo	trimulizzo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 705-5	BO013	705	5	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-705-6	BO013	705	6	(asciucò	asciucò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++705-6	BO013	705	6	asciucò	asciucò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 705-7	BO013	705	7	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 705-8	BO013	705	8	fronti	fronti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 705-9	BO013	705	9	col	col	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -6687,7 +6675,7 @@
+ 712-5	BO013	712	5	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 712-6	BO013	712	6	storia	storia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 712-7	BO013	712	7	come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-712-8	BO013	712	8	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++712-8	BO013	712	8	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 712-9	BO013	712	9	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 712-10	BO013	712	10	genova,	genova	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 712-11	BO013	712	11	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -6728,7 +6716,7 @@
+ 714-9	BO013	714	9	balilla,	balilla	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 714-10	BO013	714	10	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=2971.451	_	_	_	_
+ 715-0	BO013	715	0	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=2971.929	_	_	_	_
+-715-1	BO013	715	1	(arribbillò	arribbillò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++715-1	BO013	715	1	arribbillò	arribbillò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 715-2	BO013	715	2	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 715-3	BO013	715	3	tirò	tirò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 715-4	BO013	715	4	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -6951,7 +6939,7 @@
+ 733-0	BO013	733	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=3055.658	_	_	_	_
+ 733-1	BO013	733	1	papà	papà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 733-2	BO013	733	2	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=3056.201	_	_	_	_
+-734-0	BO013	734	0	'contami	'contami	_	_	_	_	_	linguistic	_	none	Truncated=Yes	Begin=3056.787	_	_	_	_
++734-0	BO013	734	0	contami	contami	_	_	_	_	_	linguistic	_	none	_	Begin=3056.787	_	_	_	_
+ 734-1	BO013	734	1	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 734-2	BO013	734	2	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 734-3	BO013	734	3	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -7238,7 +7226,7 @@
+ 754-0	BO013	754	0	u	u	_	_	_	_	_	linguistic	_	none	_	Begin=3154.868	_	_	_	_
+ 754-1	BO013	754	1	papà	papà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 754-2	BO013	754	2	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-754-3	BO013	754	3	(arrabbiò	arrabbiò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++754-3	BO013	754	3	arrabbiò	arrabbiò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 754-4	BO013	754	4	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=3155.847	_	_	_	_
+ 755-0	BO013	755	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=3156.29	_	_	_	_
+ 755-1	BO013	755	1	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -7297,14 +7285,14 @@
+ 758-5	BO013	758	5	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 758-6	BO013	758	6	totò	totò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 758-7	BO013	758	7	maraventa:no	maraventano	_	_	_	_	_	linguistic	_	none	_	_	8x1	_	_	_
+-758-8	BO013	758	8	'u	'u	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+-758-9	BO013	758	9	sarto.	sarto	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+-758-10	BO013	758	10	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-758-11	BO013	758	11	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-758-12	BO013	758	12	peggio	peggio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-758-13	BO013	758	13	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-758-14	BO013	758	14	tutti	tutti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-758-15	BO013	758	15	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=3175.706	_	_	_	_
++758-9	BO013	758	8	u	u	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++758-10	BO013	758	9	sarto.	sarto	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
++758-11	BO013	758	10	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++758-12	BO013	758	11	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++758-13	BO013	758	12	peggio	peggio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++758-14	BO013	758	13	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++758-15	BO013	758	14	tutti	tutti	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
++758-16	BO013	758	15	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=3175.706	_	_	_	_
+ 759-0	BO013	759	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=3176.078	_	_	_	_
+ 759-1	BO013	759	1	passa	passa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 759-2	BO013	759	2	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -7411,7 +7399,7 @@
+ 768-2	BO013	768	2	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 768-3	BO013	768	3	ammazzate?	ammazzate	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
+ 768-4	BO013	768	4	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=3209.501	_	_	_	_
+-769-0	BO013	769	0	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=3210.687	_	_	_	_
++769-0	BO013	769	0	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=3210.687	_	_	_	_
+ 769-1	BO013	769	1	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 769-2	BO013	769	2	viene	viene	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 769-3	BO013	769	3	dice	dice	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -7476,7 +7464,7 @@
+ 776-0	BO013	776	0	ogni	ogni	_	_	_	_	_	linguistic	_	none	_	Begin=3230.532	_	_	_	_
+ 776-1	BO013	776	1	tanto	tanto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 776-2	BO013	776	2	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-776-3	BO013	776	3	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++776-3	BO013	776	3	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 776-4	BO013	776	4	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 776-5	BO013	776	5	fracchiata	fracchiata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 776-6	BO013	776	6	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -7492,7 +7480,7 @@
+ 777-2	BO013	777	2	qualichi	qualichi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 777-3	BO013	777	3	simanata	simanata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 777-4	BO013	777	4	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-777-5	BO013	777	5	(arripiglia	arripiglia	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
++777-5	BO013	777	5	arripiglia	arripiglia	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+ 777-6	BO013	777	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 777-7	BO013	777	7	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 777-8	BO013	777	8	torna	torna	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -7851,7 +7839,7 @@
+ 811-7	BO013	811	7	maestro	maestro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 811-8	BO013	811	8	panzeca	panzeca	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 811-9	BO013	811	9	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-811-10	BO013	811	10	(arraggiò	arraggiò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++811-10	BO013	811	10	arraggiò	arraggiò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 811-11	BO013	811	11	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=3353.761	_	_	_	_
+ 812-0	BO013	812	0	voglio	voglio	_	_	_	_	_	linguistic	_	none	_	Begin=3354.188	_	_	_	_
+ 812-1	BO013	812	1	vedere	vedere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -8380,7 +8368,7 @@
+ 853-3	BO013	853	3	signor	signor	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 853-4	BO013	853	4	direttori	direttori	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 853-5	BO013	853	5	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-853-6	BO013	853	6	(ammostrò	ammostrò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++853-6	BO013	853	6	ammostrò	ammostrò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 853-7	BO013	853	7	intiressato	intiressato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 853-8	BO013	853	8	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 853-9	BO013	853	9	levò	levò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -8549,14 +8537,13 @@
+ 865-10	BO013	865	10	parla:ri	parlari	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
+ 865-11	BO013	865	11	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=3596.908	_	_	_	_
+ 866-0	BO013	866	0	fece	fece	_	_	_	_	_	linguistic	_	none	_	Begin=3597.313	_	_	_	_
+-866-1	BO013	866	1	n'	n'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-866-2	BO013	866	2	zinga	zinga	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-866-3	BO013	866	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-866-4	BO013	866	4	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-866-5	BO013	866	5	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-866-6	BO013	866	6	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-866-7	BO013	866	7	testa	testa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-866-8	BO013	866	8	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=3599.206	_	_	_	_
++866-1	BO013	866	1	nzinga	nzinga	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++866-3	BO013	866	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++866-4	BO013	866	3	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++866-5	BO013	866	4	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++866-6	BO013	866	5	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++866-7	BO013	866	6	testa	testa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++866-8	BO013	866	7	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=3599.206	_	_	_	_
+ 867-0	BO013	867	0	allora	allora	_	_	_	_	_	linguistic	_	none	_	Begin=3599.755	_	_	_	_
+ 867-1	BO013	867	1	fammi	fammi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 867-2	BO013	867	2	tre	tre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -8635,7 +8622,7 @@
+ 873-4	BO013	873	4	vela	vela	_	_	_	_	_	linguistic	_	none	_	End=3627.451	_	_	_	_
+ 874-0	BO013	874	0	nisciuno	nisciuno	_	_	_	_	_	linguistic	_	none	_	Begin=3628.201	_	_	_	_
+ 874-1	BO013	874	1	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-874-2	BO013	874	2	(azzardò	azzardò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++874-2	BO013	874	2	azzardò	azzardò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 874-3	BO013	874	3	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 874-4	BO013	874	4	battere	battere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 874-5	BO013	874	5	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -8937,7 +8924,7 @@
+ 899-6	BO013	899	6	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 899-7	BO013	899	7	scola	scola	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 899-8	BO013	899	8	m'	m'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-899-9	BO013	899	9	(ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++899-9	BO013	899	9	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 899-10	BO013	899	10	detto	detto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 899-11	BO013	899	11	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 899-12	BO013	899	12	nostro	nostro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -9095,7 +9082,7 @@
+ 913-6	BO013	913	6	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=3789.867	_	_	_	_
+ 914-0	BO013	914	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=3790.242	_	_	_	_
+ 914-1	BO013	914	1	allura?	allura	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
+-914-2	BO013	914	2	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++914-2	BO013	914	2	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 914-3	BO013	914	3	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 914-4	BO013	914	4	gorgerino	gorgerino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 914-5	BO013	914	5	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+@@ -9344,7 +9331,7 @@
+ 935-5	BO013	935	5	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=3872.689	_	_	_	_
+ 936-0	BO013	936	0	uno	uno	_	_	_	_	_	linguistic	_	none	_	Begin=3873.371	_	_	_	_
+ 936-1	BO013	936	1	diciva	diciva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-936-2	BO013	936	2	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
++936-2	BO013	936	2	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
+ 936-3	BO013	936	3	moschetto	moschetto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 936-4	BO013	936	4	fascista	fascista	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 936-5	BO013	936	5	perfetto,	perfetto	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+@@ -9400,9 +9387,8 @@
+ 940-9	BO013	940	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 940-10	BO013	940	10	sarebbe	sarebbe	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 940-11	BO013	940	11	stato	stato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-940-12	BO013	940	12	gio	gio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-940-13	BO013	940	13	gio	gio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-940-14	BO013	940	14	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=3894.989	_	_	_	_
++940-12	BO013	940	12	giogiò	giogiò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++940-14	BO013	940	13	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=3894.989	_	_	_	_
+ 941-0	BO013	941	0	accomodatevi	accomodatevi	_	_	_	_	_	linguistic	_	none	_	Begin=3895.35	_	_	_	_
+ 941-1	BO013	941	1	qua	qua	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 941-2	BO013	941	2	torno	torno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -9487,7 +9473,7 @@
+ 944-21	BO013	944	21	scrivania	scrivania	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 944-22	BO013	944	22	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 944-23	BO013	944	23	libri	libri	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-944-24	BO013	944	24	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++944-24	BO013	944	24	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 944-25	BO013	944	25	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 944-26	BO013	944	26	libra	libra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 944-27	BO013	944	27	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -9604,9 +9590,8 @@
+ 953-9	BO013	953	9	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 953-10	BO013	953	10	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 953-11	BO013	953	11	duna	duna	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-953-12	BO013	953	12	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-953-13	BO013	953	13	denzia	denzia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-953-14	BO013	953	14	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=3968.693	_	_	_	_
++953-12	BO013	953	12	adenzia	adenzia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++953-14	BO013	953	13	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=3968.693	_	_	_	_
+ 954-0	BO013	954	0	ecco	ecco	_	_	_	_	_	linguistic	_	none	_	Begin=3969.101	_	_	_	_
+ 954-1	BO013	954	1	pirchì	pirchì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 954-2	BO013	954	2	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -9622,23 +9607,22 @@
+ 955-0	BO013	955	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=3972.477	_	_	_	_
+ 955-1	BO013	955	1	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 955-2	BO013	955	2	duna	duna	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-955-3	BO013	955	3	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-955-4	BO013	955	4	denzia	denzia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-955-5	BO013	955	5	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+-955-6	BO013	955	6	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-955-7	BO013	955	7	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-955-8	BO013	955	8	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-955-9	BO013	955	9	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-955-10	BO013	955	10	aiuto	aiuto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-955-11	BO013	955	11	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-955-12	BO013	955	12	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-955-13	BO013	955	13	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-955-14	BO013	955	14	domestica	domestica	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-955-15	BO013	955	15	eh?	eh	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
+-955-16	BO013	955	16	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-955-17	BO013	955	17	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-955-18	BO013	955	18	pulisce	pulisce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-955-19	BO013	955	19	casa	casa	_	_	_	_	_	linguistic	_	none	_	End=3976.686	_	_	_	_
++955-3	BO013	955	3	adenzia	adenzia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++955-5	BO013	955	4	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
++955-6	BO013	955	5	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++955-7	BO013	955	6	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++955-8	BO013	955	7	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++955-9	BO013	955	8	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++955-10	BO013	955	9	aiuto	aiuto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++955-11	BO013	955	10	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++955-12	BO013	955	11	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++955-13	BO013	955	12	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++955-14	BO013	955	13	domestica	domestica	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++955-15	BO013	955	14	eh?	eh	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
++955-16	BO013	955	15	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++955-17	BO013	955	16	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++955-18	BO013	955	17	pulisce	pulisce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++955-19	BO013	955	18	casa	casa	_	_	_	_	_	linguistic	_	none	_	End=3976.686	_	_	_	_
+ 956-0	BO013	956	0	ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=3977.207	_	_	_	_
+ 956-1	BO013	956	1	tu	tu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 956-2	BO013	956	2	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -9690,27 +9674,26 @@
+ 962-7	BO013	962	7	giuggiù	giuggiù	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 962-8	BO013	962	8	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=3995.809	_	_	_	_
+ 963-0	BO013	963	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=3996.259	_	_	_	_
+-963-1	BO013	963	1	a:	a	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
+-963-2	BO013	963	2	mo	mo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-963-3	BO013	963	3	dare	dare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-963-4	BO013	963	4	lezioni	lezioni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-963-5	BO013	963	5	private	private	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-963-6	BO013	963	6	quelle	quelle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-963-7	BO013	963	7	rare	rare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-963-8	BO013	963	8	volte	volte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-963-9	BO013	963	9	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-963-10	BO013	963	10	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-963-11	BO013	963	11	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-963-12	BO013	963	12	fatto	fatto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-963-13	BO013	963	13	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-963-14	BO013	963	14	miei	miei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-963-15	BO013	963	15	allievi	allievi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-963-16	BO013	963	16	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-963-17	BO013	963	17	stati	stati	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-963-18	BO013	963	18	sempre	sempre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-963-19	BO013	963	19	promossi	promossi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-963-20	BO013	963	20	però,	però	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-963-21	BO013	963	21	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4002.895	_	_	_	_
++963-1	BO013	963	1	a:mo	amo	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
++963-3	BO013	963	2	dare	dare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++963-4	BO013	963	3	lezioni	lezioni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++963-5	BO013	963	4	private	private	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++963-6	BO013	963	5	quelle	quelle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++963-7	BO013	963	6	rare	rare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++963-8	BO013	963	7	volte	volte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++963-9	BO013	963	8	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++963-10	BO013	963	9	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++963-11	BO013	963	10	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++963-12	BO013	963	11	fatto	fatto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++963-13	BO013	963	12	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++963-14	BO013	963	13	miei	miei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++963-15	BO013	963	14	allievi	allievi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++963-16	BO013	963	15	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++963-17	BO013	963	16	stati	stati	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++963-18	BO013	963	17	sempre	sempre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++963-19	BO013	963	18	promossi	promossi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++963-20	BO013	963	19	però,	però	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++963-21	BO013	963	20	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4002.895	_	_	_	_
+ 964-0	BO013	964	0	ho	ho	_	_	_	_	_	linguistic	_	none	_	Begin=4003.277	_	_	_	_
+ 964-1	BO013	964	1	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 964-2	BO013	964	2	mio	mio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -9905,7 +9888,7 @@
+ 981-2	BO013	981	2	pirchì	pirchì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 981-3	BO013	981	3	tutti	tutti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 981-4	BO013	981	4	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-981-5	BO013	981	5	(ammaravigliavano	ammaravigliavano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++981-5	BO013	981	5	ammaravigliavano	ammaravigliavano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 981-6	BO013	981	6	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 981-7	BO013	981	7	ciddrizza	ciddrizza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 981-8	BO013	981	8	so'?	so'	_	_	_	_	_	linguistic	_	none	Intonation=Rising|Truncated=Yes	_	_	_	_	_
+@@ -10107,8 +10090,9 @@
+ 999-18	BO013	999	18	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 999-19	BO013	999	19	baionetta	baionetta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 999-20	BO013	999	20	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-999-21	BO013	999	21	suomoschetto,	suomoschetto	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-999-22	BO013	999	22	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4138.706	_	_	_	_
++999-21	BO013	999	21	suo	suo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++999-23	BO013	999	22	moschetto,	moschetto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
++999-22	BO013	999	23	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4138.706	_	_	_	_
+ 1000-0	BO013	1000	0	un'	un'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=4139.1	_	_	_	_
+ 1000-1	BO013	1000	1	arma	arma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1000-2	BO013	1000	2	offensiva	offensiva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -10175,7 +10159,7 @@
+ 1003-22	BO013	1003	22	romanamente	romanamente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1003-23	BO013	1003	23	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4158.85	_	_	_	_
+ 1004-0	BO013	1004	0	michilino	michilino	_	_	_	_	_	linguistic	_	none	_	Begin=4159.263	_	_	_	_
+-1004-1	BO013	1004	1	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
++1004-1	BO013	1004	1	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
+ 1004-2	BO013	1004	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1004-3	BO013	1004	3	vrazzo	vrazzo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1004-4	BO013	1004	4	dritto	dritto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -10184,7 +10168,7 @@
+ 1004-7	BO013	1004	7	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1004-8	BO013	1004	8	giuro.	giuro	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+ 1004-9	BO013	1004	9	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4162.087	_	_	_	_
+-1005-0	BO013	1005	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=4163.792|End=4164.524	_	_	_	_
++1005-0	BO013	1005	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=4163.792|End=4164.524	_	_	_	_
+ 1006-0	BO013	1006	0	in	in	_	_	_	_	_	linguistic	_	none	_	Begin=4164.939	_	_	_	_
+ 1006-1	BO013	1006	1	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1006-2	BO013	1006	2	cammarata	cammarata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -10248,7 +10232,7 @@
+ 1012-0	BO013	1012	0	il	il	_	_	_	_	_	linguistic	_	none	_	Begin=4188.147	_	_	_	_
+ 1012-1	BO013	1012	1	professore	professore	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1012-2	BO013	1012	2	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-1012-3	BO013	1012	3	(acculò	acculò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1012-3	BO013	1012	3	acculò	acculò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1012-4	BO013	1012	4	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 1012-5	BO013	1012	5	altizza	altizza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1012-6	BO013	1012	6	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -10472,7 +10456,7 @@
+ 1030-0	BO013	1030	0	il	il	_	_	_	_	_	linguistic	_	none	_	Begin=4271.623	_	_	_	_
+ 1030-1	BO013	1030	1	profissori	profissori	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1030-2	BO013	1030	2	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-1030-3	BO013	1030	3	(assittò	assittò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1030-3	BO013	1030	3	assittò	assittò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1030-4	BO013	1030	4	sul	sul	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1030-5	BO013	1030	5	divano	divano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1030-6	BO013	1030	6	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -10511,21 +10495,20 @@
+ 1031-20	BO013	1031	20	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4282.994	_	_	_	_
+ 1032-0	BO013	1032	0	stette	stette	_	_	_	_	_	linguistic	_	none	_	Begin=4283.494	_	_	_	_
+ 1032-1	BO013	1032	1	tanticchia	tanticchia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1032-2	BO013	1032	2	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1032-3	BO013	1032	3	cussì	cussì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1032-4	BO013	1032	4	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1032-5	BO013	1032	5	po'	po'	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1032-6	BO013	1032	6	principiò	principiò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1032-7	BO013	1032	7	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1032-8	BO013	1032	8	parlare	parlare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1032-9	BO013	1032	9	stranio	stranio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1032-10	BO013	1032	10	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4286.937	_	_	_	_
+-1033-0	BO013	1033	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=4287.342	_	_	_	_
+-1033-1	BO013	1033	1	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+-1033-2	BO013	1033	2	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++1032-2	BO013	1032	2	accussì	accussì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1032-4	BO013	1032	3	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1032-5	BO013	1032	4	po'	po'	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1032-6	BO013	1032	5	principiò	principiò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1032-7	BO013	1032	6	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1032-8	BO013	1032	7	parlare	parlare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1032-9	BO013	1032	8	stranio	stranio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1032-10	BO013	1032	9	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4286.937	_	_	_	_
++1033-0	BO013	1033	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=4287.342	_	_	_	_
++1033-1	BO013	1033	1	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++1033-2	BO013	1033	2	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 1033-3	BO013	1033	3	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4289.973	_	_	_	_
+-1034-0	BO013	1034	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=4290.422	_	_	_	_
+-1034-1	BO013	1034	1	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
++1034-0	BO013	1034	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=4290.422	_	_	_	_
++1034-1	BO013	1034	1	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
+ 1034-2	BO013	1034	2	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4292.258	_	_	_	_
+ 1035-0	BO013	1035	0	comu	comu	_	_	_	_	_	linguistic	_	none	_	Begin=4292.644	_	_	_	_
+ 1035-1	BO013	1035	1	parla?	parla	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
+@@ -10598,9 +10581,8 @@
+ 1042-15	BO013	1042	15	pelle	pelle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1042-16	BO013	1042	16	avanti	avanti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1042-17	BO013	1042	17	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1042-18	BO013	1042	18	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1042-19	BO013	1042	19	arrè	arrè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1042-20	BO013	1042	20	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4317.215	_	_	_	_
++1042-18	BO013	1042	18	narrè	narrè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1042-20	BO013	1042	19	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4317.215	_	_	_	_
+ 1043-0	BO013	1043	0	michilino	michilino	_	_	_	_	_	linguistic	_	none	_	Begin=4317.701	_	_	_	_
+ 1043-1	BO013	1043	1	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1043-2	BO013	1043	2	sciatò	sciatò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -10623,7 +10605,7 @@
+ 1044-1	BO013	1044	1	tia	tia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1044-2	BO013	1044	2	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1044-3	BO013	1044	3	t'	t'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-1044-4	BO013	1044	4	(attisa	attisa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1044-4	BO013	1044	4	attisa	attisa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1044-5	BO013	1044	5	ancora?	ancora	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
+ 1044-6	BO013	1044	6	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4325.173	_	_	_	_
+ 1045-0	BO013	1045	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=4325.581	_	_	_	_
+@@ -10838,19 +10820,19 @@
+ 1060-19	BO013	1060	19	totò	totò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1060-20	BO013	1060	20	maraventano	maraventano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1060-21	BO013	1060	21	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4412.973	_	_	_	_
+-1061-0	BO013	1061	0	'u	'u	_	_	_	_	_	linguistic	_	none	Truncated=Yes	Begin=4413.63	_	_	_	_
+-1061-1	BO013	1061	1	sartu	sartu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1061-2	BO013	1061	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1061-3	BO013	1061	3	gran	gran	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1061-4	BO013	1061	4	fituso	fituso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1061-5	BO013	1061	5	comunista	comunista	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+-1061-6	BO013	1061	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-1061-7	BO013	1061	7	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1061-8	BO013	1061	8	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1061-9	BO013	1061	9	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1061-10	BO013	1061	10	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1061-11	BO013	1061	11	carzaro?	carzaro	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
+-1061-12	BO013	1061	12	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4417.158	_	_	_	_
++1061-1	BO013	1061	0	u	u	_	_	_	_	_	linguistic	_	none	_	Begin=4413.63	_	_	_	_
++1061-2	BO013	1061	1	sartu	sartu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1061-3	BO013	1061	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1061-4	BO013	1061	3	gran	gran	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1061-5	BO013	1061	4	fituso	fituso	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
++1061-6	BO013	1061	5	comunista	comunista	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
++1061-7	BO013	1061	6	(.)	(.)	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
++1061-8	BO013	1061	7	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1061-9	BO013	1061	8	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1061-10	BO013	1061	9	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1061-11	BO013	1061	10	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1061-12	BO013	1061	11	carzaro?	carzaro	_	_	_	_	_	nonverbalbehavior	_	none	Intonation=Rising	_	_	_	_	_
++1061-13	BO013	1061	12	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=4417.158	_	_	_	_
+ 1062-0	BO013	1062	0	maraventano	maraventano	_	_	_	_	_	linguistic	_	none	_	Begin=4417.714	_	_	_	_
+ 1062-1	BO013	1062	1	camminava	camminava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1062-2	BO013	1062	2	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -10905,22 +10887,21 @@
+ 1066-1	BO013	1066	1	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 1066-2	BO013	1066	2	offisa	offisa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1066-3	BO013	1066	3	saltò	saltò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1066-4	BO013	1066	4	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1066-5	BO013	1066	5	arrè	arrè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1066-6	BO013	1066	6	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1066-7	BO013	1066	7	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1066-8	BO013	1066	8	passo	passo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1066-9	BO013	1066	9	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1066-10	BO013	1066	10	taliò	taliò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1066-11	BO013	1066	11	torno	torno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1066-12	BO013	1066	12	torno	torno	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+-1066-13	BO013	1066	13	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-1066-14	BO013	1066	14	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1066-15	BO013	1066	15	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1066-16	BO013	1066	16	fatto	fatto	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+-1066-17	BO013	1066	17	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-1066-18	BO013	1066	18	una,	una	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-1066-19	BO013	1066	19	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4440.165	_	_	_	_
++1066-4	BO013	1066	4	narrè	narrè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1066-6	BO013	1066	5	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1066-7	BO013	1066	6	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1066-8	BO013	1066	7	passo	passo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1066-9	BO013	1066	8	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1066-10	BO013	1066	9	taliò	taliò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1066-11	BO013	1066	10	torno	torno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1066-12	BO013	1066	11	torno	torno	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
++1066-13	BO013	1066	12	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
++1066-14	BO013	1066	13	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1066-15	BO013	1066	14	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1066-16	BO013	1066	15	fatto	fatto	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
++1066-17	BO013	1066	16	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
++1066-18	BO013	1066	17	una,	una	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++1066-19	BO013	1066	18	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4440.165	_	_	_	_
+ 1067-0	BO013	1067	0	pernacchia	pernacchia	_	_	_	_	_	linguistic	_	none	_	Begin=4441.23	_	_	_	_
+ 1067-1	BO013	1067	1	eh?	eh	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
+ 1067-2	BO013	1067	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -10948,7 +10929,7 @@
+ 1069-1	BO013	1069	1	divento	divento	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1069-2	BO013	1069	2	granni	granni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1069-3	BO013	1069	3	t'	t'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-1069-4	BO013	1069	4	(ammazzo	ammazzo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1069-4	BO013	1069	4	ammazzo	ammazzo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1069-5	BO013	1069	5	disse	disse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1069-6	BO013	1069	6	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1069-7	BO013	1069	7	voce	voce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -11361,7 +11342,7 @@
+ 1101-2	BO013	1101	2	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1101-3	BO013	1101	3	gran	gran	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1101-4	BO013	1101	4	fascio	fascio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1101-5	BO013	1101	5	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++1101-5	BO013	1101	5	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 1101-6	BO013	1101	6	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1101-7	BO013	1101	7	stava	stava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1101-8	BO013	1101	8	scritto	scritto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -11733,10 +11714,9 @@
+ 1131-11	BO013	1131	11	fascista	fascista	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1131-12	BO013	1131	12	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1131-13	BO013	1131	13	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1131-14	BO013	1131	14	camm	camm	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1131-15	BO013	1131	15	isa	isa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1131-16	BO013	1131	16	nivura	nivura	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1131-17	BO013	1131	17	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4725.207	_	_	_	_
++1131-14	BO013	1131	14	cammisa	cammisa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1131-16	BO013	1131	15	nivura	nivura	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1131-17	BO013	1131	16	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4725.207	_	_	_	_
+ 1132-0	BO013	1132	0	i	i	_	_	_	_	_	linguistic	_	none	_	Begin=4725.718	_	_	_	_
+ 1132-1	BO013	1132	1	camma:la,	cammala	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	4x1	_	_	_
+ 1132-2	BO013	1132	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -11872,25 +11852,24 @@
+ 1144-11	BO013	1144	11	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1144-12	BO013	1144	12	testa	testa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1144-13	BO013	1144	13	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4771.061	_	_	_	_
+-1145-0	BO013	1145	0	pur'	pur'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	Begin=4772.53	_	_	_	_
+-1145-1	BO013	1145	1	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1145-2	BO013	1145	2	michilino	michilino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1145-3	BO013	1145	3	venne	venne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1145-4	BO013	1145	4	vestuto	vestuto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1145-5	BO013	1145	5	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1145-6	BO013	1145	6	divisa	divisa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1145-7	BO013	1145	7	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1145-8	BO013	1145	8	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1145-9	BO013	1145	9	spalla,	spalla	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-1145-10	BO013	1145	10	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1145-11	BO013	1145	11	mise	mise	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1145-12	BO013	1145	12	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1145-13	BO013	1145	13	moschetto	moschetto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1145-14	BO013	1145	14	però	però	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1145-15	BO013	1145	15	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1145-16	BO013	1145	16	mamà	mamà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1145-17	BO013	1145	17	disse	disse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1145-18	BO013	1145	18	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4777.789	_	_	_	_
++1145-0	BO013	1145	0	puro	puro	_	_	_	_	_	linguistic	_	none	_	Begin=4772.53	_	_	_	_
++1145-2	BO013	1145	1	michilino	michilino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1145-3	BO013	1145	2	venne	venne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1145-4	BO013	1145	3	vestuto	vestuto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1145-5	BO013	1145	4	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1145-6	BO013	1145	5	divisa	divisa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1145-7	BO013	1145	6	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1145-8	BO013	1145	7	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1145-9	BO013	1145	8	spalla,	spalla	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++1145-10	BO013	1145	9	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1145-11	BO013	1145	10	mise	mise	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1145-12	BO013	1145	11	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1145-13	BO013	1145	12	moschetto	moschetto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1145-14	BO013	1145	13	però	però	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1145-15	BO013	1145	14	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1145-16	BO013	1145	15	mamà	mamà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1145-17	BO013	1145	16	disse	disse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1145-18	BO013	1145	17	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4777.789	_	_	_	_
+ 1146-0	BO013	1146	0	u	u	_	_	_	_	_	linguistic	_	none	_	Begin=4778.333	_	_	_	_
+ 1146-1	BO013	1146	1	discursu	discursu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1146-2	BO013	1146	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -11993,7 +11972,7 @@
+ 1152-15	BO013	1152	15	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1152-16	BO013	1152	16	calzu:na,	calzuna	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	4x1	_	_	_
+ 1152-17	BO013	1152	17	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-1152-18	BO013	1152	18	(addunò	addunò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1152-18	BO013	1152	18	addunò	addunò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1152-19	BO013	1152	19	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1152-20	BO013	1152	20	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1152-21	BO013	1152	21	asciutto	asciutto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -12398,7 +12377,7 @@
+ 1182-14	BO013	1182	14	stoffa	stoffa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1182-15	BO013	1182	15	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=4961.946	_	_	_	_
+ 1183-0	BO013	1183	0	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=4962.363	_	_	_	_
+-1183-1	BO013	1183	1	(apprioccupò	apprioccupò	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
++1183-1	BO013	1183	1	apprioccupò	apprioccupò	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+ 1183-2	BO013	1183	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 1183-3	BO013	1183	3	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1183-4	BO013	1183	4	voliva	voliva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -12562,7 +12541,7 @@
+ 1197-1	BO013	1197	1	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1197-2	BO013	1197	2	parrino	parrino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1197-3	BO013	1197	3	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-1197-4	BO013	1197	4	(allontanò,	allontanò	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++1197-4	BO013	1197	4	allontanò,	allontanò	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 1197-5	BO013	1197	5	quattro	quattro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1197-6	BO013	1197	6	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1197-7	BO013	1197	7	cinque	cinque	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -12647,7 +12626,7 @@
+ 1205-1	BO013	1205	1	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 1205-2	BO013	1205	2	acidruzzo	acidruzzo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1205-3	BO013	1205	3	m'	m'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-1205-4	BO013	1205	4	(attisò,	attisò	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++1205-4	BO013	1205	4	attisò,	attisò	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 1205-5	BO013	1205	5	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=5048.759	_	_	_	_
+ 1206-0	BO013	1206	0	tu	tu	_	_	_	_	_	linguistic	_	none	_	Begin=5049.467	_	_	_	_
+ 1206-1	BO013	1206	1	pensa	pensa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -12673,7 +12652,7 @@
+ 1207-2	BO013	1207	2	dare	dare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1207-3	BO013	1207	3	importanzia	importanzia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1207-4	BO013	1207	4	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=5055.159	_	_	_	_
+-1208-0	BO013	1208	0	qu	qu	_	_	_	_	_	linguistic	_	none	_	Begin=5055.804	_	_	_	_
++1208-0	BO013	1208	0	cu	cu	_	_	_	_	_	linguistic	_	none	_	Begin=5055.804	_	_	_	_
+ 1208-1	BO013	1208	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1208-2	BO013	1208	2	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1208-3	BO013	1208	3	signora	signora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -12746,7 +12725,7 @@
+ 1213-13	BO013	1213	13	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=5078.52	_	_	_	_
+ 1214-0	BO013	1214	0	<a	a	_	_	_	_	_	linguistic	_	none	_	Begin=5078.96	_	Slow=0-1(0)	_	_
+ 1214-1	BO013	1214	1	mamà	mamà	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-4(0)	_	_
+-1214-2	BO013	1214	2	aspetto	aspetto	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-7(0)	_	_
++1214-2	BO013	1214	2	aspettò	aspettò	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-7(0)	_	_
+ 1214-3	BO013	1214	3	tanticchia	tanticchia	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-10(0)	_	_
+ 1214-4	BO013	1214	4	prima	prima	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-5(0)	_	_
+ 1214-5	BO013	1214	5	d'	d'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	Slow=0-2(0)	_	_
+@@ -12903,7 +12882,7 @@
+ 1225-5	BO013	1225	5	tutte	tutte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1225-6	BO013	1225	6	aviva	aviva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1225-7	BO013	1225	7	davanti	davanti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1225-8	BO013	1225	8	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++1225-8	BO013	1225	8	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 1225-9	BO013	1225	9	addrumate,	addrumate	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 1225-10	BO013	1225	10	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1225-11	BO013	1225	11	quella	quella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -12912,20 +12891,21 @@
+ 1225-14	BO013	1225	14	caloriu	caloriu	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1225-15	BO013	1225	15	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=5140.664	_	_	_	_
+ 1226-0	BO013	1226	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=5141.212	_	_	_	_
+-1226-1	BO013	1226	1	nisciunoci	nisciunoci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1226-2	BO013	1226	2	poteva	poteva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1226-3	BO013	1226	3	livare	livare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1226-4	BO013	1226	4	dalla	dalla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1226-5	BO013	1226	5	testa	testa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1226-6	BO013	1226	6	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1226-7	BO013	1226	7	michilino	michilino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1226-8	BO013	1226	8	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1226-9	BO013	1226	9	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1226-10	BO013	1226	10	trattava	trattava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1226-11	BO013	1226	11	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1226-12	BO013	1226	12	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1226-13	BO013	1226	13	bissino	bissino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1226-14	BO013	1226	14	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=5145.3	_	_	_	_
++1226-1	BO013	1226	1	nisciuno	nisciuno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1226-15	BO013	1226	2	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1226-2	BO013	1226	3	poteva	poteva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1226-3	BO013	1226	4	livare	livare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1226-4	BO013	1226	5	dalla	dalla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1226-5	BO013	1226	6	testa	testa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1226-6	BO013	1226	7	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1226-7	BO013	1226	8	michilino	michilino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1226-8	BO013	1226	9	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1226-9	BO013	1226	10	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1226-10	BO013	1226	11	trattava	trattava	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1226-11	BO013	1226	12	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1226-12	BO013	1226	13	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1226-13	BO013	1226	14	bissino	bissino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1226-14	BO013	1226	15	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=5145.3	_	_	_	_
+ 1227-0	BO013	1227	0	travestuto	travestuto	_	_	_	_	_	linguistic	_	none	_	Begin=5145.731	_	_	_	_
+ 1227-1	BO013	1227	1	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1227-2	BO013	1227	2	santo	santo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -13055,7 +13035,7 @@
+ 1233-32	BO013	1233	32	bucarsi	bucarsi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1233-33	BO013	1233	33	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=5191.116	_	_	_	_
+ 1234-0	BO013	1234	0	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=5191.576	_	_	_	_
+-1234-1	BO013	1234	1	(arriposò	arriposò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1234-1	BO013	1234	1	arriposò	arriposò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1234-2	BO013	1234	2	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1234-3	BO013	1234	3	doppo	doppo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1234-4	BO013	1234	4	ripigliò	ripigliò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -13160,7 +13140,7 @@
+ 1242-3	BO013	1242	3	lampioni	lampioni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1242-4	BO013	1242	4	michilino	michilino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1242-5	BO013	1242	5	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-1242-6	BO013	1242	6	(addunò,	addunò	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++1242-6	BO013	1242	6	addunò,	addunò	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 1242-7	BO013	1242	7	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=5227.983	_	_	_	_
+ 1243-0	BO013	1243	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=5228.341	_	_	_	_
+ 1243-1	BO013	1243	1	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -13283,7 +13263,7 @@
+ 1253-0	BO013	1253	0	po'	po'	_	_	_	_	_	linguistic	_	none	_	Begin=5265.067	_	_	_	_
+ 1253-1	BO013	1253	1	disse	disse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1253-2	BO013	1253	2	m'	m'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-1253-3	BO013	1253	3	(ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1253-3	BO013	1253	3	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1253-4	BO013	1253	4	detto	detto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1253-5	BO013	1253	5	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1253-6	BO013	1253	6	se'	se'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+@@ -13530,9 +13510,9 @@
+ 1277-13	BO013	1277	13	ancora	ancora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1277-14	BO013	1277	14	più	più	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1277-15	BO013	1277	15	strambi	strambi	_	_	_	_	_	linguistic	_	none	_	End=5353.704	_	_	_	_
+-1278-0	BO013	1278	0	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=5354.081	_	_	_	_
+-1278-1	BO013	1278	1	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
+-1278-2	BO013	1278	2	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
++1278-0	BO013	1278	0	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=5354.081	_	_	_	_
++1278-1	BO013	1278	1	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
++1278-2	BO013	1278	2	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
+ 1278-3	BO013	1278	3	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=5356.683	_	_	_	_
+ 1279-0	BO013	1279	0	la	la	_	_	_	_	_	linguistic	_	none	_	Begin=5357.925	_	_	_	_
+ 1279-1	BO013	1279	1	sira	sira	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -13721,7 +13701,7 @@
+ 1294-3	BO013	1294	3	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1294-4	BO013	1294	4	sapi,	sapi	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 1294-5	BO013	1294	5	m'	m'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-1294-6	BO013	1294	6	(attisò	attisò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1294-6	BO013	1294	6	attisò	attisò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1294-7	BO013	1294	7	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=5423.578	_	_	_	_
+ 1295-0	BO013	1295	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=5423.865	_	_	_	_
+ 1295-1	BO013	1295	1	quando?	quando	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
+@@ -13826,7 +13806,7 @@
+ 1304-10	BO013	1304	10	necessità,	necessità	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 1304-11	BO013	1304	11	((legge))	((legge))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=5459.004	_	_	_	_
+ 1305-0	BO013	1305	0	gorgerino	gorgerino	_	_	_	_	_	linguistic	_	none	_	Begin=5459.45	_	_	_	_
+-1305-1	BO013	1305	1	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++1305-1	BO013	1305	1	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 1305-2	BO013	1305	2	raprì	raprì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1305-3	BO013	1305	3	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1305-4	BO013	1305	4	vucca	vucca	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -13974,20 +13954,18 @@
+ 1321-8	BO013	1321	8	caricare	caricare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1321-9	BO013	1321	9	sul	sul	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1321-10	BO013	1321	10	sito	sito	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1321-11	BO013	1321	11	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1321-12	BO013	1321	12	emme	emme	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1321-13	BO013	1321	13	esse	esse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1321-14	BO013	1321	14	tutto:	tutto	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
+-1321-15	BO013	1321	15	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1321-16	BO013	1321	16	materiale	materiale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1321-17	BO013	1321	17	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1321-18	BO013	1321	18	trovo	trovo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1321-19	BO013	1321	19	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1321-20	BO013	1321	20	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1321-21	BO013	1321	21	posso	posso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1321-22	BO013	1321	22	darvi	darvi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1321-23	BO013	1321	23	va	va	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1321-24	BO013	1321	24	bene?	bene	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=5528.412	_	_	_	_
++1321-11	BO013	1321	11	aemmeesse	aemmesse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1321-14	BO013	1321	12	tutto:	tutto	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
++1321-15	BO013	1321	13	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1321-16	BO013	1321	14	materiale	materiale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1321-17	BO013	1321	15	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1321-18	BO013	1321	16	trovo	trovo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1321-19	BO013	1321	17	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1321-20	BO013	1321	18	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1321-21	BO013	1321	19	posso	posso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1321-22	BO013	1321	20	darvi	darvi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1321-23	BO013	1321	21	va	va	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1321-24	BO013	1321	22	bene?	bene	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=5528.412	_	_	_	_
+ 1322-0	???	1322	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=5555.445	_	_	_	_
+ 1322-1	???	1322	1	riesco	riesco	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1322-2	???	1322	2	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -13998,7 +13976,7 @@
+ 1322-7	???	1322	7	pdf	pdf	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1322-8	???	1322	8	né	né	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1322-9	???	1322	9	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1322-10	???	1322	10	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++1322-10	???	1322	10	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 1322-11	???	1322	11	né	né	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1322-12	???	1322	12	niente	niente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1322-13	???	1322	13	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -14012,7 +13990,7 @@
+ 1322-21	???	1322	21	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1322-22	???	1322	22	preso?	preso	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=5560.665	_	_	_	_
+ 1323-0	BO013	1323	0	cosa?	cosa	_	_	_	_	_	linguistic	_	none	Intonation=Rising	Begin=5561.638|End=5562.112	_	_	_	_
+-1324-0	???	1324	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=5562.158|End=5563.607	_	_	_	_
++1324-0	???	1324	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=5562.158|End=5563.607	_	_	_	_
+ 1325-0	BO013	1325	0	io	io	_	_	_	_	_	linguistic	_	none	_	Begin=5564.72	_	_	_	_
+ 1325-1	BO013	1325	1	ce	ce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1325-2	BO013	1325	2	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+@@ -14052,20 +14030,16 @@
+ 1329-3	???	1329	3	esatto	esatto	_	_	_	_	_	linguistic	_	none	_	End=5573.552	_	_	_	_
+ 1330-0	BO013	1330	0	io	io	_	_	_	_	_	linguistic	_	none	_	Begin=5573.581	_	_	_	_
+ 1330-1	BO013	1330	1	come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1330-2	BO013	1330	2	pi	pi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1330-3	BO013	1330	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1330-4	BO013	1330	4	effe	effe	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1330-5	BO013	1330	5	ce	ce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1330-6	BO013	1330	6	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-1330-7	BO013	1330	7	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1330-8	BO013	1330	8	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1330-9	BO013	1330	9	lì,	lì	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-1330-10	BO013	1330	10	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1330-11	BO013	1330	11	lì	lì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1330-12	BO013	1330	12	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1330-13	BO013	1330	13	pi	pi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1330-14	BO013	1330	14	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1330-15	BO013	1330	15	effe	effe	_	_	_	_	_	linguistic	_	none	_	End=5575.378	_	_	_	_
++1330-2	BO013	1330	2	pidieffe	pidieffe	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1330-5	BO013	1330	3	ce	ce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1330-6	BO013	1330	4	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++1330-7	BO013	1330	5	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1330-8	BO013	1330	6	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1330-9	BO013	1330	7	lì,	lì	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++1330-10	BO013	1330	8	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1330-11	BO013	1330	9	lì	lì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1330-12	BO013	1330	10	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1330-13	BO013	1330	11	pidieffe	pidieffe	_	_	_	_	_	linguistic	_	none	_	End=5575.378	_	_	_	_
+ 1331-0	???	1331	0	ah	ah	_	_	_	_	_	linguistic	_	none	_	Begin=5575.483	_	_	_	_
+ 1331-1	???	1331	1	okay	okay	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1331-2	???	1331	2	ah	ah	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -14092,9 +14066,7 @@
+ 1333-1	BO013	1333	1	duecento	duecento	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1333-2	BO013	1333	2	pagine	pagine	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1333-3	BO013	1333	3	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1333-4	BO013	1333	4	pi	pi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1333-5	BO013	1333	5	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1333-6	BO013	1333	6	effe?	effe	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=5584.192	_	_	_	_
++1333-4	BO013	1333	4	pidieffe?	pidieffe	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=5584.192	_	_	_	_
+ 1334-0	???	1334	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=5584.561	_	_	_	_
+ 1334-1	???	1334	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	End=5585.291	_	_	_	_
+ 1335-0	BO013	1335	0	sì?	sì	_	_	_	_	_	linguistic	_	none	Intonation=Rising	Begin=5585.518|End=5585.777	_	_	_	_
+@@ -14167,7 +14139,7 @@
+ 1344-2	???	1344	2	infatti	infatti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1344-3	???	1344	3	esatto	esatto	_	_	_	_	_	linguistic	_	none	_	End=5605.369	_	_	_	_
+ 1345-0	BO013	1345	0	se	se	_	_	_	_	_	linguistic	_	none	_	Begin=5605.369	_	_	_	_
+-1345-1	BO013	1345	1	se:::	se	_	_	_	_	_	linguistic	_	none	_	End=5606.078	1x3	_	_	_
++1345-2	BO013	1345	1	se:::	se	_	_	_	_	_	linguistic	_	_	_	End=5606.078	_	_	_	_
+ 1346-0	BO013	1346	0	se	se	_	_	_	_	_	linguistic	_	none	_	Begin=5606.483	_	_	_	_
+ 1346-1	BO013	1346	1	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1346-2	BO013	1346	2	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -14198,24 +14170,20 @@
+ 1350-0	BO013	1350	0	no	no	_	_	_	_	_	linguistic	_	none	_	Begin=5613.127	_	_	_	_
+ 1350-1	BO013	1350	1	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1350-2	BO013	1350	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-3	BO013	1350	3	pi	pi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-4	BO013	1350	4	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-5	BO013	1350	5	effe	effe	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-6	BO013	1350	6	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-7	BO013	1350	7	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-8	BO013	1350	8	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-9	BO013	1350	9	nessun	nessun	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-10	BO013	1350	10	problema	problema	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-11	BO013	1350	11	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-12	BO013	1350	12	darvi	darvi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-13	BO013	1350	13	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-14	BO013	1350	14	pi	pi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-15	BO013	1350	15	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-16	BO013	1350	16	effe	effe	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-17	BO013	1350	17	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-18	BO013	1350	18	roba	roba	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-19	BO013	1350	19	dicevo	dicevo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1350-20	BO013	1350	20	solo	solo	_	_	_	_	_	linguistic	_	none	_	End=5616.698	_	_	_	_
++1350-3	BO013	1350	3	pidieffe	pidieffe	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1350-6	BO013	1350	4	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1350-7	BO013	1350	5	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1350-8	BO013	1350	6	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1350-9	BO013	1350	7	nessun	nessun	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1350-10	BO013	1350	8	problema	problema	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1350-11	BO013	1350	9	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1350-12	BO013	1350	10	darvi	darvi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1350-13	BO013	1350	11	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1350-14	BO013	1350	12	pidieffe	pidieffe	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1350-17	BO013	1350	13	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1350-18	BO013	1350	14	roba	roba	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1350-19	BO013	1350	15	dicevo	dicevo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1350-20	BO013	1350	16	solo	solo	_	_	_	_	_	linguistic	_	none	_	End=5616.698	_	_	_	_
+ 1351-0	BO013	1351	0	leggerselo	leggerselo	_	_	_	_	_	linguistic	_	none	_	Begin=5617.843	_	_	_	_
+ 1351-1	BO013	1351	1	tutto,	tutto	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 1351-2	BO013	1351	2	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -14476,7 +14444,7 @@
+ 1396-3	BO013	1396	3	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1396-4	BO013	1396	4	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1396-5	BO013	1396	5	dieci	dieci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1396-6	BO013	1396	6	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++1396-6	BO013	1396	6	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 1396-7	BO013	1396	7	dice	dice	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1396-8	BO013	1396	8	noi	noi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1396-9	BO013	1396	9	dobbiamo	dobbiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -14543,11 +14511,11 @@
+ 1404-9	BO013	1404	9	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1404-10	BO013	1404	10	diciotto	diciotto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1404-11	BO013	1404	11	ecco	ecco	_	_	_	_	_	linguistic	_	none	_	End=5767.332	_	_	_	_
+-1405-0	BO013	1405	0	[okay]?	okay	_	_	_	_	_	linguistic	_	none	Intonation=Rising	Begin=5768.254|End=5768.717	_	_	_	0-4(33)
+-1406-0	???	1406	0	[va	va	_	_	_	_	_	linguistic	_	none	_	Begin=5768.254	_	_	_	_
+-1406-1	???	1406	1	bene	bene	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+-1406-2	???	1406	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-1406-3	???	1406	3	[okay	okay	_	_	_	_	_	linguistic	_	none	_	End=5769.1	_	_	_	_
++1405-0	BO013	1405	0	[va	va	_	_	_	_	_	linguistic	_	none	_	Begin=5768.254	_	_	_	0-4(33)
++1405-1	???	1405	1	bene	bene	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1405-2	???	1405	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	Intonation=Falling	_	_	_	_	_
++1405-3	???	1405	3	[okay	okay	_	_	_	_	_	linguistic	_	_	_	End=5768.717	_	_	_	_
++1406-0	???	1406	0	[okay]?	okay	_	_	_	_	_	linguistic	_	none	Intonation=Rising	Begin=5768.254|End=5769.1	_	_	_	_
+ 1407-0	BO013	1407	0	fino:::	fino	_	_	_	_	_	linguistic	_	none	_	Begin=5769.252	3x3	_	_	_
+ 1407-1	BO013	1407	1	al	al	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+ 1407-2	BO013	1407	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_

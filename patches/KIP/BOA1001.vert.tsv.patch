@@ -1,0 +1,749 @@
+--- a/tsv/BOA1001.vert.tsv
++++ b/tsv/BOA1001.vert.tsv
+@@ -90,7 +90,7 @@
+ 15-11	BO026	15	11	fa	fa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 15-12	BO026	15	12	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 15-13	BO026	15	13	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-15-14	BO026	15	14	segnalto	segnalto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++15-14	BO026	15	14	segnalato	segnalato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 15-15	BO026	15	15	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 15-16	BO026	15	16	studentessa.	studentessa	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=41.188	_	_	_	_
+ 16-0	BO020	16	0	forse	forse	_	_	_	_	_	linguistic	_	none	_	Begin=41.289	_	_	_	_
+@@ -423,14 +423,15 @@
+ 67-2	BO020	67	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 67-3	BO020	67	3	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 67-4	BO020	67	4	percentuale	percentuale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-67-5	BO020	67	5	ciè	ciè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-67-6	BO020	67	6	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-67-7	BO020	67	7	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-67-8	BO020	67	8	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-2(0)	_
+-67-9	BO020	67	9	(sacco)	sacco	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-4(0)	_
+-67-10	BO020	67	10	abbastanza	abbastanza	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
+-67-11	BO020	67	11	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	1-2(18)
+-67-12	BO020	67	12	[più],	più	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=162.234	_	_	_	0-2(18)
++67-5	BO020	67	5	c'	c'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
++67-13	BO020	67	6	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++67-6	BO020	67	7	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++67-7	BO020	67	8	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++67-8	BO020	67	9	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-2(0)	_
++67-9	BO020	67	10	(sacco)	sacco	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-4(0)	_
++67-10	BO020	67	11	abbastanza	abbastanza	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
++67-11	BO020	67	12	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	1-2(18)
++67-12	BO020	67	13	[più],	più	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=162.234	_	_	_	0-2(18)
+ 68-0	BO026	68	0	[è	è	_	_	_	_	_	linguistic	_	none	_	Begin=161.645	_	_	_	0-1(18)
+ 68-1	BO026	68	1	mh]	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(18)
+ 68-2	BO026	68	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -556,11 +557,9 @@
+ 90-4	BO020	90	4	integrazione	integrazione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 90-5	BO020	90	5	tra	tra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 90-6	BO020	90	6	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-90-7	BO020	90	7	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-90-8	BO020	90	8	due	due	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-90-9	BO020	90	9	ed	ed	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-90-10	BO020	90	10	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-90-11	BO020	90	11	esse.	esse	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=207.6	_	_	_	_
++90-7	BO020	90	7	elledue	elledue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++90-9	BO020	90	8	ed	ed	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++90-10	BO020	90	9	ellesse	ellesse	_	_	_	_	_	linguistic	_	none	_	End=207.6	_	_	_	_
+ 91-0	BO026	91	0	[mh],	mh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=203.011|End=203.483	_	_	_	0-2(29)
+ 92-0	BO026	92	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=207.86	_	_	_	0-2(30)
+ 92-1	BO026	92	1	mh],	mh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=208.418	_	_	_	0-2(30)
+@@ -578,12 +577,11 @@
+ 95-4	BO020	95	4	imparano:	imparano	_	_	_	_	_	linguistic	_	none	_	_	7x1	_	_	_
+ 95-5	BO020	95	5	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 95-6	BO020	95	6	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-95-7	BO020	95	7	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-95-8	BO020	95	8	due	due	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-95-9	BO020	95	9	imparano	imparano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-95-10	BO020	95	10	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-95-11	BO020	95	11	lingua	lingua	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-95-12	BO020	95	12	straniera.	straniera	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=215.797	_	_	_	_
++95-7	BO020	95	7	elledue	elledue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++95-9	BO020	95	8	imparano	imparano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++95-10	BO020	95	9	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++95-11	BO020	95	10	lingua	lingua	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++95-12	BO020	95	11	straniera.	straniera	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=215.797	_	_	_	_
+ 96-0	BO026	96	0	[e:h],	eh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=215.956|End=216.319	0x1	_	_	0-2(31)
+ 97-0	BO020	97	0	[ma]	ma	_	_	_	_	_	linguistic	_	none	_	Begin=216.076	_	_	_	0-2(31)
+ 97-1	BO020	97	1	rispetto	rispetto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -685,24 +683,22 @@
+ 111-6	BO026	111	6	apprendenti	apprendenti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 111-7	BO026	111	7	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 111-8	BO026	111	8	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-111-9	BO026	111	9	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-111-10	BO026	111	10	due	due	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-111-11	BO026	111	11	no,	no	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-111-12	BO026	111	12	l[a	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	1-2(40)
+-111-13	BO026	111	13	lingua]	lingua	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(40)
+-111-14	BO026	111	14	straniera	straniera	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-111-15	BO026	111	15	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-111-16	BO026	111	16	lingua::	lingua	_	_	_	_	_	linguistic	_	none	_	_	5x2	_	_	_
+-111-17	BO026	111	17	studiata	studiata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-111-18	BO026	111	18	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-111-19	BO026	111	19	scuola	scuola	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-111-20	BO026	111	20	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-111-21	BO026	111	21	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-111-22	BO026	111	22	apprendenti	apprendenti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-111-23	BO026	111	23	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-111-24	BO026	111	24	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-111-25	BO026	111	25	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-111-26	BO026	111	26	due?	due	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=257.456	_	_	_	_
++111-9	BO026	111	9	elledue	elledue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++111-11	BO026	111	10	no,	no	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++111-12	BO026	111	11	l[a	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	1-2(40)
++111-13	BO026	111	12	lingua]	lingua	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(40)
++111-14	BO026	111	13	straniera	straniera	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++111-15	BO026	111	14	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++111-16	BO026	111	15	lingua::	lingua	_	_	_	_	_	linguistic	_	none	_	_	5x2	_	_	_
++111-17	BO026	111	16	studiata	studiata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++111-18	BO026	111	17	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++111-19	BO026	111	18	scuola	scuola	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++111-20	BO026	111	19	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++111-21	BO026	111	20	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++111-22	BO026	111	21	apprendenti	apprendenti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++111-23	BO026	111	22	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++111-24	BO026	111	23	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++111-25	BO026	111	24	elledue?	elledue	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=257.456	_	_	_	_
+ 112-0	BO020	112	0	[sì],	sì	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=253.04|End=253.436	_	_	_	0-2(40)
+ 113-0	BO020	113	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=257.454	_	_	_	_
+ 113-1	BO020	113	1	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -710,19 +706,17 @@
+ 113-3	BO020	113	3	interazione	interazione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 113-4	BO020	113	4	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 113-5	BO020	113	5	tra	tra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-113-6	BO020	113	6	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-113-7	BO020	113	7	due	due	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-113-8	BO020	113	8	ed	ed	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-113-9	BO020	113	9	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-113-10	BO020	113	10	[esse	esse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(42)
+-113-11	BO020	113	11	e:h]	eh	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	0x1	_	_	0-2(42)
+-113-12	BO020	113	12	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-113-13	BO020	113	13	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-113-14	BO020	113	14	più	più	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-113-15	BO020	113	15	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-113-16	BO020	113	16	meno	meno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-113-17	BO020	113	17	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-113-18	BO020	113	18	questo.	questo	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=263.127	_	_	_	_
++113-6	BO020	113	6	elledue	elledue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++113-8	BO020	113	7	ed	ed	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++113-9	BO020	113	8	elle[esse	ellesse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	3-7(42)
++113-11	BO020	113	9	e:h]	eh	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	0x1	_	_	0-2(42)
++113-12	BO020	113	10	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++113-13	BO020	113	11	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++113-14	BO020	113	12	più	più	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++113-15	BO020	113	13	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++113-16	BO020	113	14	meno	meno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++113-17	BO020	113	15	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++113-18	BO020	113	16	questo.	questo	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=263.127	_	_	_	_
+ 114-0	BO026	114	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=260.331	_	_	_	0-2(42)
+ 114-1	BO026	114	1	mh],	mh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=260.959	_	_	_	0-2(42)
+ 115-0	BO020	115	0	e::h	eh	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	Begin=263.661	0x2	_	_	_
+@@ -768,7 +762,7 @@
+ 126-1	BO020	126	1	nella	nella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 126-2	BO020	126	2	mia	mia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 126-3	BO020	126	3	scuola	scuola	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-126-4	BO020	126	4	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++126-4	BO020	126	4	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 126-5	BO020	126	5	sia	sia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 126-6	BO020	126	6	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 126-7	BO020	126	7	indirizzo	indirizzo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1370,27 +1364,26 @@
+ 210-12	BO026	210	12	insegnante	insegnante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 210-13	BO026	210	13	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 210-14	BO026	210	14	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-210-15	BO026	210	15	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-210-16	BO026	210	16	due	due	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-210-17	BO026	210	17	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-210-18	BO026	210	18	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-210-19	BO026	210	19	laboratorio	laboratorio	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+-210-20	BO026	210	20	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-210-21	BO026	210	21	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-210-22	BO026	210	22	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-210-23	BO026	210	23	insegnante	insegnante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-210-24	BO026	210	24	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-210-25	BO026	210	25	lingua::	lingua	_	_	_	_	_	linguistic	_	none	_	_	5x2	_	_	_
+-210-26	BO026	210	26	straniera	straniera	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-210-27	BO026	210	27	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-210-28	BO026	210	28	esempio	esempio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-210-29	BO026	210	29	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-210-30	BO026	210	30	inglese	inglese	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-210-31	BO026	210	31	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-210-32	BO026	210	32	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-210-33	BO026	210	33	tedesco	tedesco	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-210-34	BO026	210	34	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-210-35	BO026	210	35	di:,	di	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=529.569	1x1	_	_	_
++210-15	BO026	210	15	elledue	elledue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++210-17	BO026	210	16	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++210-18	BO026	210	17	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++210-19	BO026	210	18	laboratorio	laboratorio	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
++210-20	BO026	210	19	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
++210-21	BO026	210	20	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++210-22	BO026	210	21	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++210-23	BO026	210	22	insegnante	insegnante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++210-24	BO026	210	23	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++210-25	BO026	210	24	lingua::	lingua	_	_	_	_	_	linguistic	_	none	_	_	5x2	_	_	_
++210-26	BO026	210	25	straniera	straniera	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++210-27	BO026	210	26	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++210-28	BO026	210	27	esempio	esempio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++210-29	BO026	210	28	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++210-30	BO026	210	29	inglese	inglese	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++210-31	BO026	210	30	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++210-32	BO026	210	31	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++210-33	BO026	210	32	tedesco	tedesco	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++210-34	BO026	210	33	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++210-35	BO026	210	34	di:,	di	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=529.569	1x1	_	_	_
+ 211-0	BO026	211	0	spagnolo	spagnolo	_	_	_	_	_	linguistic	_	none	_	Begin=529.985	_	_	_	_
+ 211-1	BO026	211	1	no?	no	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=531.241	_	_	_	_
+ 212-0	BO026	212	0	[e:h	eh	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	Begin=531.81	0x1	_	_	0-2(74)
+@@ -1534,7 +1527,7 @@
+ 228-16	BO026	228	16	questa:,	questa	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=585.866	5x1	_	_	_
+ 229-0	BO020	229	0	[degli	degli	_	_	_	_	_	linguistic	_	none	_	Begin=580.266	_	_	_	0-5(81)
+ 229-1	BO020	229	1	amministra~	amministra~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	0-11(81)
+-229-2	BO020	229	2	xx]	xx	_	_	_	_	_	unknown	_	none	Syllables=2	End=582.17	_	_	_	0-2(81)
++229-2	BO020	229	2	xx]	x	_	_	_	_	_	unknown	_	none	Syllables=2	End=582.17	_	_	_	0-2(81)
+ 230-0	BO026	230	0	ricognizione	ricognizione	_	_	_	_	_	linguistic	_	none	_	Begin=586.146	_	_	_	_
+ 230-1	BO026	230	1	attraverso	attraverso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 230-2	BO026	230	2	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1614,7 +1607,7 @@
+ 242-3	BO020	242	3	dare	dare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 242-4	BO020	242	4	massimo	massimo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 242-5	BO020	242	5	tre	tre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-242-6	BO020	242	6	possiiblità	possiiblità	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++242-6	BO020	242	6	possibilità	possibilità	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 242-7	BO020	242	7	quattro	quattro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 242-8	BO020	242	8	possibilità,	possibilità	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=624.3	_	_	_	_
+ 243-0	BO020	243	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=624.585	_	_	_	_
+@@ -1644,7 +1637,7 @@
+ 247-0	BO020	247	0	a	a	_	_	_	_	_	linguistic	_	none	_	Begin=633.905	_	_	_	_
+ 247-1	BO020	247	1	[me	me	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(86)
+ 247-2	BO020	247	2	sembra	sembra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(86)
+-247-3	BO020	247	3	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	0-2(86)
++247-3	BO020	247	3	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	0-2(86)
+ 247-4	BO020	247	4	s]ì.	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=635.455	_	_	_	0-1(86)
+ 248-0	BO026	248	0	[posso	posso	_	_	_	_	_	linguistic	_	none	_	Begin=633.991	_	_	_	0-5(86)
+ 248-1	BO026	248	1	vedere	vedere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(86)
+@@ -1791,8 +1784,8 @@
+ 267-0	BO026	267	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=714.331	_	_	_	0-2(96)
+ 267-1	BO026	267	1	mh],	mh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=714.881	_	_	_	0-2(96)
+ 268-0	BO020	268	0	le	le	_	_	_	_	_	linguistic	_	none	_	Begin=717.15	_	_	_	_
+-268-1	BO020	268	1	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
+-268-2	BO020	268	2	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
++268-1	BO020	268	1	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
++268-2	BO020	268	2	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
+ 268-3	BO020	268	3	diciamo	diciamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 268-4	BO020	268	4	quest[o:]:,	questo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=719.722	5x2	_	_	5-6(97)
+ 269-0	BO026	269	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=719.123	_	_	_	0-2(97)
+@@ -1885,7 +1878,7 @@
+ 282-1	BO026	282	1	questa	questa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 282-2	BO026	282	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 282-3	BO026	282	3	>in	in	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-2(0)	_	_
+-282-4	BO026	282	4	geneale	geneale	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-7(0)	_	_
++282-4	BO026	282	4	generale	generale	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-7(0)	_	_
+ 282-5	BO026	282	5	quale	quale	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-5(0)	_	_
+ 282-6	BO026	282	6	delle	delle	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-5(0)	_	_
+ 282-7	BO026	282	7	quattro	quattro	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-7(0)	_	_
+@@ -1911,8 +1904,7 @@
+ 284-5	BO020	284	5	senso	senso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(100)
+ 284-6	BO020	284	6	che],	che	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=776.138	_	_	_	0-3(100)
+ 285-0	BO026	285	0	ai	ai	_	_	_	_	_	linguistic	_	none	_	Begin=778.565	_	_	_	_
+-285-1	BO026	285	1	neo	neo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-285-2	BO026	285	2	arrivati:,	arrivati	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=780.165	7x1	_	_	_
++285-1	BO026	285	1	neoarrivati:,	neoarrivati:,	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=780.165	_	_	_	_
+ 286-0	BO026	286	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=780.22	_	_	_	_
+ 286-1	BO026	286	1	agli	agli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 286-2	BO026	286	2	stranieri	stranieri	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2059,7 +2051,7 @@
+ 308-7	BO020	308	7	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 308-8	BO020	308	8	>risponderebb[e	risponderebbe	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-13(0)	_	11-13(104)
+ 308-9	BO020	308	9	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	Fast=0-2(0)	_	0-2(104)
+-308-10	BO020	308	10	insegna]te	insegnate	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-9(0)	_	0-6(104)
++308-10	BO020	308	10	insegnan]te	insegnante	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-9(0)	_	0-6(104)
+ 308-11	BO020	308	11	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-2(0)	_	_
+ 308-12	BO020	308	12	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-8(0)	_	_
+ 308-13	BO020	308	13	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-1(0)	_	_
+@@ -2088,7 +2080,7 @@
+ 313-2	BO020	313	2	li[ngua],	lingua	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=850.477	_	_	_	2-6(105)
+ 314-0	BO026	314	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=850.04	_	_	_	0-2(105)
+ 314-1	BO026	314	1	mh],	mh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=850.466	_	_	_	0-2(105)
+-315-0	BO020	315	0	deii:,	deii	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=850.503|End=851.122	3x1	_	_	_
++315-0	BO020	315	0	dei:,	dei	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=850.503|End=851.122	3x1	_	_	_
+ 316-0	BO020	316	0	e:	e	_	_	_	_	_	linguistic	_	none	_	Begin=852.048	0x1	_	_	_
+ 316-1	BO020	316	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 316-2	BO020	316	2	d~	d~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+@@ -2317,8 +2309,7 @@
+ 355-7	BO026	355	7	tra,	tra	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=943.6	_	_	_	_
+ 356-0	BO026	356	0	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=944.383	_	_	_	_
+ 356-1	BO026	356	1	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-356-2	BO026	356	2	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-356-3	BO026	356	3	due,	due	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=945.644	_	_	_	_
++356-2	BO026	356	2	elledue,	elledue	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=945.644	_	_	_	_
+ 357-0	BO026	357	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=945.906	_	_	_	_
+ 357-1	BO026	357	1	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 357-2	BO026	357	2	lingua	lingua	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2334,8 +2325,7 @@
+ 357-12	BO026	357	12	apprendenti	apprendenti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 357-13	BO026	357	13	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 357-14	BO026	357	14	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-357-15	BO026	357	15	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-357-16	BO026	357	16	due,	due	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=950.96	_	_	_	_
++357-15	BO026	357	15	elledue,	elledue,	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=950.96	_	_	_	_
+ 358-0	BO026	358	0	eh,	eh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=951.9|End=952.21	_	_	_	_
+ 359-0	BO026	359	0	ha	ha	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=952.375	_	_	_	_
+ 359-1	BO026	359	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+@@ -2527,7 +2517,7 @@
+ 385-4	BO026	385	4	le[zione	lezione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	1-7(122)
+ 385-5	BO026	385	5	no]?	no	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=1022.426	_	_	_	0-2(122)
+ 386-0	BO020	386	0	[sì].	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=1020.175|End=1020.52	_	_	_	0-2(121)
+-387-0	BO020	387	0	[xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=1021.421	_	_	_	0-3(122)
++387-0	BO020	387	0	[xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=1021.421	_	_	_	0-3(122)
+ 387-1	BO020	387	1	straniera]	straniera	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-9(122)
+ 387-2	BO020	387	2	sì.	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1022.668	_	_	_	_
+ 388-0	BO026	388	0	e::h	eh	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	Begin=1024.086	0x2	_	_	_
+@@ -2548,12 +2538,9 @@
+ 392-2	BO020	392	2	distanza	distanza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 392-3	BO020	392	3	<tra:>,	tra	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1032.333	2x1	Slow=0-3(0)	_	_
+ 393-0	BO020	393	0	<la	la	_	_	_	_	_	linguistic	_	none	_	Begin=1032.765	_	Slow=0-2(0)	_	_
+-393-1	BO020	393	1	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-4(0)	_	_
+-393-2	BO020	393	2	due	due	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-3(0)	_	_
+-393-3	BO020	393	3	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	Slow=0-2(0)	_	_
+-393-4	BO020	393	4	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-8(0)	_	_
+-393-5	BO020	393	5	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-4(0)	_	_
+-393-6	BO020	393	6	due>,	due	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1035.544	_	Slow=0-3(0)	_	_
++393-1	BO020	393	1	elledue	elledue	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-7(0)	_	_
++393-4	BO020	393	2	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-8(0)	_	_
++393-5	BO020	393	3	elledue>,	elledue	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1035.544	_	Slow=0-7(0)	_	_
+ 394-0	BO020	394	0	e:,	e	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=1036.704|End=1037.223	0x1	_	_	_
+ 395-0	BO020	395	0	e:h,	eh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=1037.386|End=1038.288	0x1	_	_	_
+ 396-0	BO020	396	0	la	la	_	_	_	_	_	linguistic	_	none	_	Begin=1038.386	_	_	_	_
+@@ -2633,8 +2620,7 @@
+ 405-5	BO026	405	5	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 405-6	BO026	405	6	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 405-7	BO026	405	7	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-405-8	BO026	405	8	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-405-9	BO026	405	9	due,	due	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1069.789	_	_	_	_
++405-8	BO026	405	8	elledue,	elledue,	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1069.789	_	_	_	_
+ 406-0	BO026	406	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=1070.208	_	_	_	_
+ 406-1	BO026	406	1	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 406-2	BO026	406	2	insegnanti	insegnanti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2668,20 +2654,18 @@
+ 409-10	BO026	409	10	insegnante	insegnante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 409-11	BO026	409	11	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 409-12	BO026	409	12	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-409-13	BO026	409	13	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-409-14	BO026	409	14	due	due	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-409-15	BO026	409	15	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-409-16	BO026	409	16	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-409-17	BO026	409	17	l~	l~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+-409-18	BO026	409	18	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-409-19	BO026	409	19	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-409-20	BO026	409	20	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-409-21	BO026	409	21	insegnante	insegnante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-409-22	BO026	409	22	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-409-23	BO026	409	23	l~	l~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+-409-24	BO026	409	24	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-409-25	BO026	409	25	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-409-26	BO026	409	26	esse.	esse	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1088.977	_	_	_	_
++409-13	BO026	409	13	elledue	elledue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++409-15	BO026	409	14	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++409-16	BO026	409	15	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++409-17	BO026	409	16	l~	l~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
++409-18	BO026	409	17	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++409-19	BO026	409	18	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++409-20	BO026	409	19	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++409-21	BO026	409	20	insegnante	insegnante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++409-22	BO026	409	21	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++409-23	BO026	409	22	l~	l~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
++409-24	BO026	409	23	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++409-25	BO026	409	24	ellesse.	ellesse	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1088.977	_	_	_	_
+ 410-0	BO026	410	0	°no?°	no	_	_	_	_	_	linguistic	_	none	Intonation=Rising|Volume=low	Begin=1089.376|End=1089.81	_	_	_	_
+ 411-0	BO020	411	0	<sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=1090.689	_	Slow=0-2(0)	_	_
+ 411-1	BO020	411	1	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-6(0)	_	_
+@@ -2981,7 +2965,7 @@
+ 456-30	BO026	456	30	sistematica.	sistematica	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1213.556	_	_	_	_
+ 457-0	BO020	457	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=1207.061	_	_	_	0-2(137)
+ 457-1	BO020	457	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(137)
+-457-2	BO020	457	2	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	0-2(137)
++457-2	BO020	457	2	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	0-2(137)
+ 457-3	BO020	457	3	xxx].	xxx	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1210.17	_	_	_	0-3(137)
+ 458-0	BO026	458	0	in	in	_	_	_	_	_	linguistic	_	none	_	Begin=1213.81	_	_	_	_
+ 458-1	BO026	458	1	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3002,18 +2986,16 @@
+ 461-0	BO026	461	0	agli	agli	_	_	_	_	_	linguistic	_	none	_	Begin=1220.81	_	_	_	_
+ 461-1	BO026	461	1	insegnanti	insegnanti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 461-2	BO026	461	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-461-3	BO026	461	3	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-461-4	BO026	461	4	esse	esse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-461-5	BO026	461	5	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-461-6	BO026	461	6	lingua	lingua	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-461-7	BO026	461	7	straniera,	straniera	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1224.23	_	_	_	_
++461-3	BO026	461	3	ellesse	ellesse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++461-5	BO026	461	4	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++461-6	BO026	461	5	lingua	lingua	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++461-7	BO026	461	6	straniera,	straniera	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1224.23	_	_	_	_
+ 462-0	BO026	462	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=1224.414	_	_	_	_
+ 462-1	BO026	462	1	agli	agli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 462-2	BO026	462	2	insegnanti	insegnanti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 462-3	BO026	462	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 462-4	BO026	462	4	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-462-5	BO026	462	5	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-462-6	BO026	462	6	due.	due	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1226.381	_	_	_	_
++462-5	BO026	462	5	elledue.	elledue	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1226.381	_	_	_	_
+ 463-0	BO020	463	0	mh.	mh	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=1226.598|End=1226.916	_	_	_	_
+ 464-0	BO026	464	0	°mh.°	mh	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Volume=low	Begin=1226.928|End=1227.23	_	_	_	_
+ 465-0	BO026	465	0	e:h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1228.181	0x1	_	_	_
+@@ -3038,7 +3020,7 @@
+ 468-5	BO026	468	5	figura	figura	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(141)
+ 468-6	BO026	468	6	può	può	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(141)
+ 468-7	BO026	468	7	coincidere].	coincidere	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1235.475	_	_	_	0-10(141)
+-469-0	BO020	469	0	[xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=1232.768	_	_	_	0-2(141)
++469-0	BO020	469	0	[xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=1232.768	_	_	_	0-2(141)
+ 469-1	BO020	469	1	successo	successo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-8(141)
+ 469-2	BO020	469	2	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(141)
+ 469-3	BO020	469	3	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(141)
+@@ -3095,12 +3077,11 @@
+ 478-4	BO026	478	4	mh)	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-2(0)	_
+ 478-5	BO026	478	5	nell'	nell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 478-6	BO026	478	6	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-478-7	BO026	478	7	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-478-8	BO026	478	8	due	due	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-478-9	BO026	478	9	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-478-10	BO026	478	10	nella	nella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-478-11	BO026	478	11	lingua	lingua	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-478-12	BO026	478	12	straniera.	straniera	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1259.723	_	_	_	_
++478-7	BO026	478	7	elledue	elledue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++478-9	BO026	478	8	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++478-10	BO026	478	9	nella	nella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++478-11	BO026	478	10	lingua	lingua	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++478-12	BO026	478	11	straniera.	straniera	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1259.723	_	_	_	_
+ 479-0	BO026	479	0	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	Begin=1259.755	_	_	_	_
+ 479-1	BO026	479	1	immaginiamo	immaginiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 479-2	BO026	479	2	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3129,7 +3110,7 @@
+ 481-16	BO026	481	16	deve	deve	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 481-17	BO026	481	17	fare	fare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 481-18	BO026	481	18	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-481-19	BO026	481	19	ingese	ingese	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++481-19	BO026	481	19	inglese	inglese	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 481-20	BO026	481	20	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 481-21	BO026	481	21	francese	francese	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 481-22	BO026	481	22	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3193,21 +3174,20 @@
+ 492-4	BO026	492	4	valutazioni:::	valutazioni	_	_	_	_	_	linguistic	_	none	_	_	10x3	_	_	_
+ 492-5	BO026	492	5	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 492-6	BO026	492	6	cors~	cors~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+-492-7	BO026	492	7	innn,	innn	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1295.596	_	_	_	_
++492-7	BO026	492	7	in::,	in	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1295.596	_	_	_	_
+ 493-0	BO026	493	0	e:::h	eh	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	Begin=1295.83	0x3	_	_	_
+-493-1	BO026	493	1	l	l	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-493-2	BO026	493	2	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-493-3	BO026	493	3	metà	metà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-493-4	BO026	493	4	dopo	dopo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-493-5	BO026	493	5	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-493-6	BO026	493	6	certo	certo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-493-7	BO026	493	7	periodo	periodo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-493-8	BO026	493	8	naturalmente	naturalmente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-493-9	BO026	493	9	d~	d~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+-493-10	BO026	493	10	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-493-11	BO026	493	11	inserimento	inserimento	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-493-12	BO026	493	12	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-493-13	BO026	493	13	alunno.	alunno	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1301.596	_	_	_	_
++493-1	BO026	493	1	l::a	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++493-2	BO026	493	2	metà	metà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++493-3	BO026	493	3	dopo	dopo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++493-4	BO026	493	4	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++493-5	BO026	493	5	certo	certo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++493-6	BO026	493	6	periodo	periodo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++493-7	BO026	493	7	naturalmente	naturalmente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++493-8	BO026	493	8	d~	d~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
++493-9	BO026	493	9	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++493-10	BO026	493	10	inserimento	inserimento	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++493-11	BO026	493	11	dell'	dell'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
++493-12	BO026	493	12	alunno.	alunno	_	_	_	_	_	linguistic	_	none	SpaceAfter=No|Intonation=Falling	End=1301.596	_	_	_	_
+ 494-0	BO026	494	0	e:::h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1301.965	0x3	_	_	_
+ 494-1	BO026	494	1	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 494-2	BO026	494	2	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3253,7 +3233,7 @@
+ 501-2	BO026	501	2	quali	quali	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 501-3	BO026	501	3	lingue	lingue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 501-4	BO026	501	4	straniere	straniere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-501-5	BO026	501	5	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++501-5	BO026	501	5	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 501-6	BO026	501	6	insegnano	insegnano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 501-7	BO026	501	7	nella	nella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 501-8	BO026	501	8	sua	sua	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3266,18 +3246,17 @@
+ 504-3	BO026	504	3	laboratorio	laboratorio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 504-4	BO026	504	4	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 504-5	BO026	504	5	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-504-6	BO026	504	6	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-504-7	BO026	504	7	due	due	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-504-8	BO026	504	8	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-504-9	BO026	504	9	di~	di~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+-504-10	BO026	504	10	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-504-11	BO026	504	11	dividerei	dividerei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-504-12	BO026	504	12	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-504-13	BO026	504	13	due	due	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-504-14	BO026	504	14	blocchi	blocchi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-504-15	BO026	504	15	pensando	pensando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-504-16	BO026	504	16	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-504-17	BO026	504	17	indirizzarlo,	indirizzarlo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1329.266	_	_	_	_
++504-6	BO026	504	6	elledue	elledue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++504-7	BO026	504	7	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++504-8	BO026	504	8	di~	di~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
++504-9	BO026	504	9	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++504-10	BO026	504	10	dividerei	dividerei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++504-11	BO026	504	11	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++504-12	BO026	504	12	due	due	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++504-13	BO026	504	13	blocchi	blocchi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++504-14	BO026	504	14	pensando	pensando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++504-15	BO026	504	15	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++504-16	BO026	504	16	indirizzarlo,	indirizzarlo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1329.266	_	_	_	_
+ 505-0	BO026	505	0	agli	agli	_	_	_	_	_	linguistic	_	none	_	Begin=1329.576	_	_	_	_
+ 505-1	BO026	505	1	insegnanti	insegnanti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 505-2	BO026	505	2	di:	di	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
+@@ -3297,8 +3276,7 @@
+ 507-0	BO026	507	0	e:h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1337.896	0x1	_	_	_
+ 507-1	BO026	507	1	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 507-2	BO026	507	2	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-507-3	BO026	507	3	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-507-4	BO026	507	4	due.	due	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1339.636	_	_	_	_
++507-3	BO026	507	3	elledue.	elledue	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1339.636	_	_	_	_
+ 508-0	BO026	508	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=1340.62	_	_	_	_
+ 508-1	BO026	508	1	ripeto	ripeto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 508-2	BO026	508	2	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3619,11 +3597,11 @@
+ 556-5	BO026	556	5	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 556-6	BO026	556	6	diversi	diversi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 556-7	BO026	556	7	materali	materali	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-556-8	BO026	556	8	nnel	nnel	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-556-9	BO026	556	9	corso	corso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-556-10	BO026	556	10	degli	degli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-556-11	BO026	556	11	anni	anni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-556-12	BO026	556	12	insomma,	insomma	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1491.711	_	_	_	_
++556-8	BO026	556	8	nel	_	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++556-10	BO026	556	9	corso	corso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++556-11	BO026	556	10	degli	degli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++556-12	BO026	556	11	anni	anni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++556-13	BO026	556	12	insomma,	insomma	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1491.711	_	_	_	_
+ 557-0	BO026	557	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=1492.051	_	_	_	_
+ 557-1	BO026	557	1	troverà	troverà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 557-2	BO026	557	2	molti	molti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3671,7 +3649,7 @@
+ 564-7	BO026	564	7	vengono	vengono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 564-8	BO026	564	8	apprese	apprese	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+ 564-9	BO026	564	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-564-10	BO026	564	10	simultaneamenete	simultaneamenete	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++564-10	BO026	564	10	simultaneamente	simultaneamente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 564-11	BO026	564	11	nello	nello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 564-12	BO026	564	12	stesso,	stesso	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1518.266	_	_	_	_
+ 565-0	BO026	565	0	periodo.	periodo	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=1518.766|End=1519.538	_	_	_	_
+@@ -3763,7 +3741,7 @@
+ 579-9	BO020	579	9	viene	viene	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 579-10	BO020	579	10	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 579-11	BO020	579	11	che:	che	_	_	_	_	_	linguistic	_	none	_	_	2x1	_	_	_
+-579-12	BO020	579	12	restringendolo	restringendolo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++579-12	BO020	579	12	restringendolo	_	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 579-13	BO020	579	13	più	più	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 579-14	BO020	579	14	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 579-15	BO020	579	15	meno	meno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3774,14 +3752,15 @@
+ 579-20	BO020	579	20	queste	queste	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 579-21	BO020	579	21	d[omande],	domande	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1562.055	_	_	_	1-7(157)
+ 580-0	BO026	580	0	[sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=1561.346	_	_	_	0-2(157)
+-580-1	BO026	580	1	non]più	nonpiù	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(157)
+-580-2	BO026	580	2	come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-580-3	BO026	580	3	dice	dice	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-580-4	BO026	580	4	lei	lei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-580-5	BO026	580	5	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-580-6	BO026	580	6	più	più	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-580-7	BO026	580	7	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-580-8	BO026	580	8	venti.	venti	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1564.155	_	_	_	_
++580-1	BO026	580	1	non]	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(157)
++580-2	BO026	580	2	più	più	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++580-3	BO026	580	3	come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++580-4	BO026	580	4	dice	dice	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++580-5	BO026	580	5	lei	lei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++580-6	BO026	580	6	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++580-7	BO026	580	7	più	più	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++580-8	BO026	580	8	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++580-9	BO026	580	9	venti.	venti	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1564.155	_	_	_	_
+ 581-0	BO020	581	0	[sì].	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=1564.391|End=1564.866	_	_	_	0-2(158)
+ 582-0	BO026	582	0	[lasciando]le	lasciandole	_	_	_	_	_	linguistic	_	none	_	Begin=1564.393	_	_	_	0-9(158)
+ 582-1	BO026	582	1	aperte	aperte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3854,8 +3833,7 @@
+ 589-10	BO026	589	10	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 589-11	BO026	589	11	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 589-12	BO026	589	12	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-589-13	BO026	589	13	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-589-14	BO026	589	14	due,	due	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1593.913	_	_	_	_
++589-13	BO026	589	13	elledue,	elledue	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1593.913	_	_	_	_
+ 590-0	BO026	590	0	<nella>	nella	_	_	_	_	_	linguistic	_	none	_	Begin=1594.817	_	Slow=0-5(0)	_	_
+ 590-1	BO026	590	1	rilevare	rilevare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 590-2	BO026	590	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3972,19 +3950,21 @@
+ 606-0	BO020	606	0	ho	ho	_	_	_	_	_	linguistic	_	none	_	Begin=1651.063	_	_	_	_
+ 606-1	BO020	606	1	cercato::	cercato	_	_	_	_	_	linguistic	_	none	_	_	6x2	_	_	_
+ 606-2	BO020	606	2	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-606-3	BO020	606	3	favaro(g)	favarog	_	_	_	_	_	linguistic	_	none	_	_	_	_	6-7(0)	_
+-606-4	BO020	606	4	e:h[e:]	ehe	_	_	_	_	_	linguistic	_	none	_	_	0x1,2x1	_	_	2-3(162)
+-606-5	BO020	606	5	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-606-6	BO020	606	6	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-606-7	BO020	606	7	venuto	venuto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-606-8	BO020	606	8	fuori	fuori	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-606-9	BO020	606	9	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
+-606-10	BO020	606	10	[sesamo	sesamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(161)
+-606-11	BO020	606	11	però	però	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(161)
+-606-12	BO020	606	12	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(161)
+-606-13	BO020	606	13	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(161)
+-606-14	BO020	606	14	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(161)
+-606-15	BO020	606	15	xx],	xx	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1657.605	_	_	_	0-2(161)
++606-3	BO020	606	3	favaro	favaro	_	_	_	_	_	linguistic	_	none	_	_	_	_	6-7(0)	_
++606-4	BO020	606	4	(g~)	g~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	0x1,2x1	_	_	2-3(162)
++606-5	BO020	606	5	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++606-6	BO020	606	6	[e:]	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++606-7	BO020	606	7	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++606-8	BO020	606	8	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++606-9	BO020	606	9	venuto	venuto	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
++606-10	BO020	606	10	fuori	fuori	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(161)
++606-11	BO020	606	11	xx	x	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(161)
++606-12	BO020	606	12	[sesamo	sesamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(161)
++606-13	BO020	606	13	però	però	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(161)
++606-14	BO020	606	14	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(161)
++606-15	BO020	606	15	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(161)
++606-16	BO020	606	16	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++606-17	BO020	606	17	xx],	xx	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1657.605	_	_	_	_
+ 607-0	BO026	607	0	[°mh	mh	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=1653.81	_	_	_	0-2(162)
+ 607-1	BO026	607	1	mh,°]	mh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|Volume=low	End=1654.295	_	_	_	0-2(162)
+ 608-0	BO026	608	0	[(e)	e	_	_	_	_	_	linguistic	_	none	_	Begin=1655.49	_	_	0-1(0)	0-1(161)
+@@ -3999,8 +3979,8 @@
+ 609-0	BO026	609	0	<elle>,	elle	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=1659.441|End=1660.183	_	Slow=0-4(0)	_	_
+ 610-0	BO026	610	0	sono	sono	_	_	_	_	_	linguistic	_	none	_	Begin=1660.461	_	_	_	_
+ 610-1	BO026	610	1	tutti	tutti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-610-2	BO026	610	2	online	online	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-610-3	BO026	610	3	open	open	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++610-2	BO026	610	2	online	online	_	_	_	_	_	linguistic	_	none	Lang=eng	_	_	_	_	_
++610-3	BO026	610	3	open	open	_	_	_	_	_	linguistic	_	none	Lang=eng	_	_	_	_	_
+ 610-4	BO026	610	4	access.	access	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1662.559	_	_	_	_
+ 611-0	BO026	611	0	e:h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1664.968	0x1	_	_	_
+ 611-1	BO026	611	1	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -4029,7 +4009,7 @@
+ 616-5	BO026	616	5	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 616-6	BO026	616	6	acronimo	acronimo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 616-7	BO026	616	7	no,	no	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1679.0	_	_	_	_
+-617-0	BO020	617	0	[xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=1676.645	_	_	_	0-2(165)
++617-0	BO020	617	0	[xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=1676.645	_	_	_	0-2(165)
+ 617-1	BO020	617	1	xx].	xx	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1677.55	_	_	_	0-2(165)
+ 618-0	BO020	618	0	mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=1679.0	_	_	_	_
+ 618-1	BO020	618	1	mh.	mh	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1679.363	_	_	_	_
+@@ -4139,8 +4119,7 @@
+ 637-2	BO020	637	2	straniera	straniera	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 637-3	BO020	637	3	nella	nella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 637-4	BO020	637	4	lingua	lingua	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-637-5	BO020	637	5	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-637-6	BO020	637	6	due.	due	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1733.883	_	_	_	_
++637-5	BO020	637	5	elledue.	elledue	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1733.883	_	_	_	_
+ 638-0	BO026	638	0	>ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=1734.201	_	Fast=0-2(0)	_	_
+ 638-1	BO026	638	1	[questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-6(0)	_	0-6(166)
+ 638-2	BO026	638	2	diventa	diventa	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-7(0)	_	0-7(166)
+@@ -4282,7 +4261,7 @@
+ 660-8	BO020	660	8	più	più	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 660-9	BO020	660	9	precisi	precisi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 660-10	BO020	660	10	però:	però	_	_	_	_	_	linguistic	_	none	_	_	3x1	_	_	_
+-660-11	BO020	660	11	[xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	0-2(171)
++660-11	BO020	660	11	[xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	0-2(171)
+ 660-12	BO020	660	12	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(171)
+ 660-13	BO020	660	13	mia	mia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(171)
+ 660-14	BO020	660	14	classe],	classe	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1796.837	_	_	_	0-6(171)
+@@ -4382,11 +4361,10 @@
+ 675-13	BO026	675	13	riguardano	riguardano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 675-14	BO026	675	14	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 675-15	BO026	675	15	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-675-16	BO026	675	16	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-675-17	BO026	675	17	due	due	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-675-18	BO026	675	18	riguarano	riguarano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-675-19	BO026	675	19	altre	altre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-675-20	BO026	675	20	lingue.	lingue	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1837.662	_	_	_	_
++675-16	BO026	675	16	elledue	elledue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++675-18	BO026	675	17	riguardano	riguardano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++675-19	BO026	675	18	altre	altre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++675-20	BO026	675	19	lingue.	lingue	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1837.662	_	_	_	_
+ 676-0	BO020	676	0	[°~kay.°]	~kay	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Interrupted=Yes|Volume=low	Begin=1830.241|End=1830.831	_	_	_	0-4(177)
+ 677-0	BO020	677	0	[e::h],	eh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=1839.743|End=1840.626	0x2	_	_	0-2(178)
+ 678-0	BO026	678	0	[cioè	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1839.996	_	_	_	0-4(178)
+@@ -4548,11 +4526,9 @@
+ 701-11	BO026	701	11	due	due	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 701-12	BO026	701	12	riferimenti,	riferimenti	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1906.6	_	_	_	_
+ 702-0	BO026	702	0	su	su	_	_	_	_	_	linguistic	_	none	_	Begin=1914.911	_	_	_	_
+-702-1	BO026	702	1	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-702-2	BO026	702	2	esse,	esse	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1916.52	_	_	_	_
++702-1	BO026	702	1	ellesse,	ellesse	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1916.52	_	_	_	_
+ 703-0	BO026	703	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=1916.636	_	_	_	_
+-703-1	BO026	703	1	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-703-2	BO026	703	2	due.	due	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1917.979	_	_	_	_
++703-1	BO026	703	1	elledue.	elledue	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1917.979	_	_	_	_
+ 704-0	BO026	704	0	dalla	dalla	_	_	_	_	_	linguistic	_	none	_	Begin=1919.04	_	_	_	_
+ 704-1	BO026	704	1	prospettiva	prospettiva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 704-2	BO026	704	2	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -4604,9 +4580,12 @@
+ 712-3	BO026	712	3	allievi,	allievi	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	0-7(185)
+ 712-4	BO026	712	4	eh].	eh	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1950.408	_	_	_	0-2(185)
+ 713-0	BO020	713	0	beh	beh	_	_	_	_	_	linguistic	_	none	_	Begin=1948.75	_	_	_	_
+-713-1	BO020	713	1	sicuramente	sicuramente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-713-2	BO020	713	2	anche]	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-713-3	BO020	713	3	inglese,	inglese	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1951.193	_	_	_	_
++713-1	BO020	713	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++713-2	BO020	713	2	sicuramente	sicuramente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++713-3	BO020	713	3	hanno	hanno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++713-4	BO020	713	4	anche]	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++713-5	BO020	713	5	l'	l'	_	_	_	_	_	linguistic	_	_	Truncated=Yes	_	_	_	_	_
++713-6	BO020	713	6	inglese,	inglese	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1951.193	_	_	_	_
+ 714-0	BO020	714	0	e::h,	eh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=1951.776|End=1952.724	0x2	_	_	_
+ 715-0	BO020	715	0	<o::	o	_	_	_	_	_	linguistic	_	none	_	Begin=1953.57	0x2	Slow=0-1(0)	_	_
+ 715-1	BO020	715	1	[alcuni	alcuni	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-6(0)	_	0-6(186)
+@@ -4756,9 +4735,8 @@
+ 740-0	BO020	740	0	sì.	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=2013.612|End=2014.015	_	_	_	_
+ 741-0	BO026	741	0	soprattutto	soprattutto	_	_	_	_	_	linguistic	_	none	_	Begin=2014.14	_	_	_	_
+ 741-1	BO026	741	1	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-741-2	BO026	741	2	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-741-3	BO026	741	3	due	due	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-741-4	BO026	741	4	elle,	elle	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2016.275	_	_	_	_
++741-2	BO026	741	2	elledue	elledue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++741-4	BO026	741	3	elle,	elle	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2016.275	_	_	_	_
+ 742-0	BO026	742	0	e::h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=2016.685	0x2	_	_	_
+ 742-1	BO026	742	1	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 742-2	BO026	742	2	quelli	quelli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -4896,11 +4874,9 @@
+ 772-0	BO026	772	0	[va	va	_	_	_	_	_	linguistic	_	none	_	Begin=2073.905	_	_	_	0-2(203)
+ 772-1	BO026	772	1	be]ne.	bene	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2074.554	_	_	_	0-2(203)
+ 773-0	BO020	773	0	eh	eh	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	Begin=2074.646	_	_	_	_
+-773-1	BO020	773	1	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-773-2	BO020	773	2	esse	esse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-773-3	BO020	773	3	ed	ed	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-773-4	BO020	773	4	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-773-5	BO020	773	5	due.	due	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2076.275	_	_	_	_
++773-1	BO020	773	1	ellesse	ellesse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++773-3	BO020	773	2	ed	ed	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++773-4	BO020	773	3	elledue.	elledue	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2076.275	_	_	_	_
+ 774-0	BO020	774	0	[e:h],	eh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=2076.715|End=2077.367	0x1	_	_	0-2(204)
+ 775-0	BO026	775	0	[noi	noi	_	_	_	_	_	linguistic	_	none	_	Begin=2076.826	_	_	_	0-3(204)
+ 775-1	BO026	775	1	possia]mo	possiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(204)
+@@ -4966,7 +4942,7 @@
+ 785-2	BO026	785	2	qui].	qui	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2100.408	_	_	_	0-3(206)
+ 786-0	BO020	786	0	e:h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=2101.973	0x1	_	_	_
+ 786-1	BO020	786	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-786-2	BO020	786	2	[xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	0-2(207)
++786-2	BO020	786	2	[xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	0-2(207)
+ 786-3	BO020	786	3	ricevimenti:],	ricevimenti	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2104.204	10x1	_	_	0-11(207)
+ 787-0	BO026	787	0	[sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=2102.59	_	_	_	0-2(207)
+ 787-1	BO026	787	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(207)
+@@ -5103,8 +5079,8 @@
+ 809-1	BO020	809	1	ess[ere].	essere	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2155.266	_	_	_	3-6(214)
+ 810-0	BO026	810	0	[va	va	_	_	_	_	_	linguistic	_	none	_	Begin=2154.895	_	_	_	0-2(214)
+ 810-1	BO026	810	1	be]ne	bene	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(214)
+-810-2	BO026	810	2	°xx	xx	_	_	_	_	_	unknown	_	none	Volume=low|Syllables=2	_	_	_	_	_
+-810-3	BO026	810	3	[xx°	xx	_	_	_	_	_	unknown	_	none	Volume=low|Syllables=2	_	_	_	_	0-2(215)
++810-2	BO026	810	2	°xx	x	_	_	_	_	_	unknown	_	none	Volume=low|Syllables=2	_	_	_	_	_
++810-3	BO026	810	3	[xx°	x	_	_	_	_	_	unknown	_	none	Volume=low|Syllables=2	_	_	_	_	0-2(215)
+ 810-4	BO026	810	4	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(215)
+ 810-5	BO026	810	5	s~	s~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	0-2(215)
+ 810-6	BO026	810	6	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(215)

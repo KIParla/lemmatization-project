@@ -1,0 +1,31 @@
+--- a/tsv/BOA1008.vert.tsv
++++ b/tsv/BOA1008.vert.tsv
+@@ -129,7 +129,7 @@
+ 25-4	BO036	25	4	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(8)
+ 25-5	BO036	25	5	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(8)
+ 25-6	BO036	25	6	io],	io	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=45.08	_	_	_	0-2(8)
+-26-0	BO026	26	0	e:h	eh	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	Begin=46.806	0x1	_	_	_
++26-0	BO026	26	0	=e:h	eh	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	Begin=46.806	0x1	_	_	_
+ 26-1	BO026	26	1	mh	mh	_	_	_	_	_	linguistic	_	none	_	End=47.771	_	_	_	_
+ 27-0	BO036	27	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=47.756	_	_	_	_
+ 27-1	BO036	27	1	[l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	0-2(10)
+@@ -341,7 +341,7 @@
+ 63-14	BO026	63	14	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 63-15	BO026	63	15	lione.	lione	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=128.479	_	_	_	_
+ 64-0	BO036	64	0	[°>okay<.°]	okay	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Volume=low	Begin=127.56|End=127.943	_	Fast=0-4(0)	_	0-4(23)
+-65-0	BO036	65	0	°xx	xx	_	_	_	_	_	unknown	_	none	Volume=low|Syllables=2	Begin=128.471	_	_	_	_
++65-0	BO036	65	0	°xx	x	_	_	_	_	_	unknown	_	none	Volume=low|Syllables=2	Begin=128.471	_	_	_	_
+ 65-1	BO036	65	1	deve	deve	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
+ 65-2	BO036	65	2	essere	essere	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
+ 65-3	BO036	65	3	per	per	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
+@@ -383,8 +383,8 @@
+ 69-10	BO026	69	10	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 69-11	BO026	69	11	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 69-12	BO026	69	12	sette	sette	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-69-13	BO026	69	13	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
+-69-14	BO026	69	14	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
++69-13	BO026	69	13	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
++69-14	BO026	69	14	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
+ 69-15	BO026	69	15	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 69-16	BO026	69	16	questi	questi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 69-17	BO026	69	17	giorni.	giorni	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=143.716	_	_	_	_

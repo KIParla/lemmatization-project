@@ -1,0 +1,307 @@
+--- a/tsv/TOC1006.vert.tsv
++++ b/tsv/TOC1006.vert.tsv
+@@ -51,7 +51,7 @@
+ 8-0	TO024	8	0	[il	il	_	_	_	_	_	linguistic	_	none	_	Begin=32.473	_	_	_	0-2(2)
+ 8-1	TO024	8	1	penultimo].	penultimo	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=33.392	_	_	_	0-9(2)
+ 9-0	TO024	9	0	[no.	no	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=34.281	_	_	_	0-2(3)
+-9-1	TO024	9	1	xx]	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	0-2(3)
++9-1	TO024	9	1	xx]	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	0-2(3)
+ 9-2	TO024	9	2	allora	allora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 9-3	TO024	9	3	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 9-4	TO024	9	4	mancata	mancata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -70,7 +70,7 @@
+ 9-17	TO024	9	17	scegliere	scegliere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 9-18	TO024	9	18	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 9-19	TO024	9	19	doman[da].	domanda	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=41.338	_	_	_	4-7(5)
+-10-0	TO022	10	0	[xx]	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=34.284|End=34.721	_	_	_	0-2(3)
++10-0	TO022	10	0	[xx]	x	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=34.284|End=34.721	_	_	_	0-2(3)
+ 11-0	TO022	11	0	[no.	no	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=36.617	_	_	_	0-2(4)
+ 11-1	TO022	11	1	no].	no	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	0-2(4)
+ 11-2	TO022	11	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=37.54	_	_	_	_
+@@ -98,27 +98,27 @@
+ 13-9	TO024	13	9	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
+ 13-10	TO024	13	10	germania	germania	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 13-11	TO024	13	11	o:ggi:,	oggi	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=50.77	0x1,3x1	_	_	_
+-14-0	TO024	14	0	[non	non	_	_	_	_	_	linguistic	_	none	_	Begin=52.312	_	_	_	0-3(6)
+-14-1	TO024	14	1	mi]	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(6)
+-14-2	TO024	14	2	può	può	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-14-3	TO024	14	3	parlare	parlare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-14-4	TO024	14	4	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-14-5	TO024	14	5	germania	germania	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-14-6	TO024	14	6	dall'	dall'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-14-7	TO024	14	7	alto	alto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-14-8	TO024	14	8	medioevo	medioevo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-14-9	TO024	14	9	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-14-10	TO024	14	10	oggi.	oggi	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=56.807	_	_	_	_
+-15-0	TO022	15	0	[xx]	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=52.312|End=52.612	_	_	_	0-2(6)
+-16-0	TO024	16	0	[scel]ga	scelga	_	_	_	_	_	linguistic	_	none	_	Begin=56.965	_	_	_	0-4(7)
+-16-1	TO024	16	1	un	un	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
+-16-2	TO024	16	2	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
+-16-3	TO024	16	3	argomento.	argomento	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+-16-4	TO024	16	4	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-16-5	TO024	16	5	fa:se:,	fase	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	1x1,3x1	_	_	_
+-16-6	TO024	16	6	un	un	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
+-16-7	TO024	16	7	e:h	eh	_	_	_	_	_	linguistic	_	none	_	End=61.425	0x1	_	_	_
+-17-0	TO022	17	0	[ah].	ah	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=56.965|End=57.318	_	_	_	0-2(7)
++14-0	TO024	14	0	[xx]	x	_	_	_	_	_	linguistic	_	none	_	Begin=52.312|End=56.807	_	_	_	0-3(6)
++15-0	TO022	15	0	[non	non	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=52.312	_	_	_	0-2(6)
++15-1	TO024	15	1	mi]	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++15-2	TO024	15	2	può	può	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++15-3	TO024	15	3	parlare	parlare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++15-4	TO024	15	4	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++15-5	TO024	15	5	germania	germania	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++15-6	TO024	15	6	dall'	dall'	_	_	_	_	_	linguistic	_	_	Truncated=Yes	_	_	_	_	_
++15-7	TO024	15	7	alto	alto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++15-8	TO024	15	8	medioevo	medioevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++15-9	TO024	15	9	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++15-10	TO024	15	10	oggi.	oggi	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=52.612	_	_	_	_
++16-0	TO024	16	0	[ah].	ah	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=56.965|End=61.425	_	_	_	0-4(7)
++17-0	TO022	17	0	[scel]ga	scelga	_	_	_	_	_	linguistic	_	none	_	Begin=56.965	_	_	_	0-2(7)
++17-1	TO024	17	1	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++17-2	TO024	17	2	e:h	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++17-3	TO024	17	3	argomento.	argomento	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
++17-4	TO024	17	4	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++17-5	TO024	17	5	fa:se:,	fase	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
++17-6	TO024	17	6	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++17-7	TO024	17	7	e:h	eh	_	_	_	_	_	linguistic	_	_	_	End=57.318	_	_	_	_
+ 18-0	TO022	18	0	magari:::	magari	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=61.844	5x3	_	_	_
+ 18-1	TO022	18	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 18-2	TO022	18	2	dalla	dalla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -346,7 +346,7 @@
+ 37-0	TO024	37	0	((colpi_di_tosse))	((colpi_di_tosse))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=146.727|End=147.415	_	_	_	_
+ 38-0	TO022	38	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=149.383	_	_	_	_
+ 38-1	TO022	38	1	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-38-2	TO022	38	2	critico	critico	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++38-2	TO022	38	2	criticò	criticò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 38-3	TO022	38	3	proprio	proprio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 38-4	TO022	38	4	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 38-5	TO022	38	5	e:::h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x3	_	_	_
+@@ -474,7 +474,7 @@
+ 41-11	TO022	41	11	s~	s~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	0-2(14)
+ 41-12	TO022	41	12	°>ci	ci	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes|Volume=low	_	_	Fast=0-2(0)	_	0-2(14)
+ 41-13	TO022	41	13	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No|Volume=low	_	_	Fast=0-2(0)	_	0-2(14)
+-41-14	TO022	41	14	(ispira~<°]	ispira~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes|Volume=low	End=199.039	_	Fast=0-7(0)	_	0-7(14)
++41-14	TO022	41	14	ispira~<°]	ispira~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes|Volume=Low	End=199.039	_	Fast=0-7(0)	_	0-7(14)
+ 42-0	TO024	42	0	[sì,	sì	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=197.272	_	_	_	0-2(14)
+ 42-1	TO024	42	1	certo.	certo	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	0-5(14)
+ 42-2	TO024	42	2	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(14)
+@@ -577,8 +577,9 @@
+ 48-28	TO024	48	28	tanto	tanto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 48-29	TO024	48	29	rivoluzionario.	rivoluzionario	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=247.824	_	_	_	_
+ 49-0	TO022	49	0	[comunque,	comunque	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=239.085	_	_	_	0-8(15)
+-49-1	TO022	49	1	sanciva	sanciva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-7(15)
+-49-2	TO022	49	2	comunque],	comunque	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=241.308	_	_	_	0-8(15)
++49-1	TO022	49	1	(.)	(.)	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	0-7(15)
++49-2	TO022	49	2	sanciva	sanciva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-8(15)
++49-3	TO022	49	3	comunque],	comunque	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=241.308	_	_	_	_
+ 50-0	TO024	50	0	però,	però	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	Begin=247.89	_	_	_	_
+ 50-1	TO024	50	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 50-2	TO024	50	2	diciamo,	diciamo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+@@ -1037,7 +1038,7 @@
+ 87-4	TO022	87	4	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 87-5	TO022	87	5	periodo	periodo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 87-6	TO022	87	6	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-87-7	TO022	87	7	ius	ius	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++87-7	TO022	87	7	ius	ius	_	_	_	_	_	linguistic	_	none	Lang=Lat	_	_	_	_	_
+ 87-8	TO022	87	8	comune.	comune	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+ 87-9	TO022	87	9	nel	nel	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 87-10	TO022	87	10	quale	quale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1062,7 +1063,7 @@
+ 88-6	TO022	88	6	periodo	periodo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 88-7	TO022	88	7	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 88-8	TO022	88	8	cui	cui	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
+-88-9	TO022	88	9	e:	e	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
++88-9	TO022	88	9	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
+ 88-10	TO022	88	10	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 88-11	TO022	88	11	entrata	entrata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 88-12	TO022	88	12	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1127,7 +1128,7 @@
+ 97-16	TO022	97	16	al	al	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
+ 97-17	TO022	97	17	e::h	eh	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	0x2	_	_	_
+ 97-18	TO022	97	18	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-97-19	TO022	97	19	rta	rta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++97-19	TO022	97	19	rta	rta	_	_	_	_	_	linguistic	_	none	Lang=San	_	_	_	_	_
+ 97-20	TO022	97	20	°giusto?°	giusto	_	_	_	_	_	linguistic	_	none	Intonation=Rising|Volume=low	_	_	_	_	_
+ 97-21	TO022	97	21	e:h	eh	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	0x1	_	_	_
+ 97-22	TO022	97	22	che	che	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
+@@ -1169,16 +1170,17 @@
+ 100-9	TO022	100	9	neces~	neces~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+ 100-10	TO022	100	10	m::h	mh	_	_	_	_	_	linguistic	_	none	_	_	0x2	_	_	_
+ 100-11	TO022	100	11	comunque	comunque	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-100-12	TO022	100	12	>cioèdobbiamo	cioèdobbiamo	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-12(0)	_	_
+-100-13	TO022	100	13	innanzitutto<	innanzitutto	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-12(0)	_	_
+-100-14	TO022	100	14	dire	dire	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-100-15	TO022	100	15	che::	che	_	_	_	_	_	linguistic	_	none	_	_	2x2	_	_	_
+-100-16	TO022	100	16	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-100-17	TO022	100	17	india,	india	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-100-18	TO022	100	18	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-100-19	TO022	100	19	presenti::	presenti	_	_	_	_	_	linguistic	_	none	_	_	7x2	_	_	_
+-100-20	TO022	100	20	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-100-21	TO022	100	21	caste.	caste	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=526.58	_	_	_	_
++100-12	TO022	100	12	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-12(0)	_	_
++100-13	TO022	100	13	>dobbiamo	dobbiamo	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-12(0)	_	_
++100-14	TO022	100	14	innanzitutto<	innanzitutto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++100-15	TO022	100	15	dire	dire	_	_	_	_	_	linguistic	_	none	_	_	2x2	_	_	_
++100-16	TO022	100	16	che::	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++100-17	TO022	100	17	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++100-18	TO022	100	18	india,	india	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++100-19	TO022	100	19	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	7x2	_	_	_
++100-20	TO022	100	20	presenti::	presenti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++100-21	TO022	100	21	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++100-22	TO022	100	22	caste.	caste	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=526.58	_	_	_	_
+ 101-0	TO022	101	0	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	Begin=526.826	_	_	_	_
+ 101-1	TO022	101	1	ogni	ogni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 101-2	TO022	101	2	determinata	determinata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1250,7 +1252,7 @@
+ 107-11	TO024	107	11	dharma.	dharma	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=569.711	_	_	_	_
+ 108-0	TO022	108	0	(mh.)	mh	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=570.015|End=570.566	_	_	0-2(0)	_
+ 109-0	TO024	109	0	il	il	_	_	_	_	_	linguistic	_	none	_	Begin=570.799	_	_	_	_
+-109-1	TO024	109	1	dharma	dharma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++109-1	TO024	109	1	dharma	dharma	_	_	_	_	_	linguistic	_	none	Lang=San	_	_	_	_	_
+ 109-2	TO024	109	2	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 109-3	TO024	109	3	cos'	cos'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 109-4	TO024	109	4	è	è	_	_	_	_	_	linguistic	_	none	_	End=571.979	_	_	_	_
+@@ -1292,8 +1294,8 @@
+ 117-1	TO024	117	1	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 117-2	TO024	117	2	kamasutra,	kamasutra	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
+ 117-3	TO024	117	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-117-4	TO024	117	4	kama	kama	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-117-5	TO024	117	5	sutra	sutra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++117-4	TO024	117	4	kama	kama	_	_	_	_	_	linguistic	_	none	Lang=San	_	_	_	_	_
++117-5	TO024	117	5	sutra	sutra	_	_	_	_	_	linguistic	_	none	Lang=San	_	_	_	_	_
+ 117-6	TO024	117	6	riguarda	riguarda	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 117-7	TO024	117	7	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 117-8	TO024	117	8	kama.	kama	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+@@ -1305,8 +1307,8 @@
+ 118-0	TO022	118	0	[sì].	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=606.039|End=606.35	_	_	_	0-2(30)
+ 119-0	TO022	119	0	era	era	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	Begin=608.887	_	_	_	_
+ 119-1	TO022	119	1	m::h	mh	_	_	_	_	_	linguistic	_	none	_	End=609.969	0x2	_	_	_
+-120-0	TO024	120	0	((colpi_di_tosse))	((colpi_di_tosse))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=610.835|End=611.401	_	_	_	_
+-121-0	TO022	121	0	m:::h	mh	_	_	_	_	_	linguistic	_	none	_	Begin=610.835|End=611.935	0x3	_	_	_
++120-0	TO024	120	0	m:::h	mh	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=610.835|End=611.401	_	_	_	_
++121-0	TO022	121	0	((colpi_di_tosse))	((colpi_di_tosse))	_	_	_	_	_	linguistic	_	none	_	Begin=610.835|End=611.935	0x3	_	_	_
+ 122-0	TO024	122	0	è	è	_	_	_	_	_	linguistic	_	none	_	Begin=619.325	_	_	_	_
+ 122-1	TO024	122	1	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 122-2	TO024	122	2	pia[ce:re.	piacere	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	4x1	_	_	3-7(31)
+@@ -1332,11 +1334,11 @@
+ 126-1	TO022	126	1	sì.°	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Volume=low	End=626.223	_	_	_	_
+ 127-0	TO022	127	0	ehm:::	ehm	_	_	_	_	_	linguistic	_	none	_	Begin=627.434|End=628.506	2x3	_	_	_
+ 128-0	TO024	128	0	i	i	_	_	_	_	_	linguistic	_	none	_	Begin=629.051	_	_	_	_
+-128-1	TO024	128	1	veda	veda	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++128-1	TO024	128	1	veda	veda	_	_	_	_	_	linguistic	_	none	Lang=San	_	_	_	_	_
+ 128-2	TO024	128	2	cosa	cosa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 128-3	TO024	128	3	sono.	sono	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=630.636	_	_	_	_
+ 129-0	TO022	129	0	i	i	_	_	_	_	_	linguistic	_	none	_	Begin=630.923	_	_	_	_
+-129-1	TO022	129	1	veda	veda	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++129-1	TO022	129	1	veda	veda	_	_	_	_	_	linguistic	_	none	Lang=San	_	_	_	_	_
+ 129-2	TO022	129	2	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 129-3	TO022	129	3	la::	la	_	_	_	_	_	linguistic	_	none	_	_	1x2	_	_	_
+ 129-4	TO022	129	4	rivelazione.	rivelazione	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=632.663	_	_	_	_
+@@ -1364,14 +1366,15 @@
+ 134-13	TO024	134	13	estremo	estremo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 134-14	TO024	134	14	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 134-15	TO024	134	15	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-134-16	TO024	134	16	dharma	dharma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++134-16	TO024	134	16	dharma	dharma	_	_	_	_	_	linguistic	_	none	Lang=San	_	_	_	_	_
+ 134-17	TO024	134	17	la:	la	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	1x1	_	_	_
+ 134-18	TO024	134	18	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-134-19	TO024	134	19	ciò	ciò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-134-20	TO024	134	20	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-134-21	TO024	134	21	viene	viene	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+-134-22	TO024	134	22	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-134-23	TO024	134	23	udito.	udito	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=656.612	_	_	_	_
++134-19	TO024	134	19	[]	x	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++134-20	TO024	134	20	ciò	ciò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++134-21	TO024	134	21	che	che	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
++134-22	TO024	134	22	viene	viene	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
++134-23	TO024	134	23	(.)	(.)	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
++134-24	TO024	134	24	udito.	udito	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=656.612	_	_	_	_
+ 135-0	TO022	135	0	[sì].	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=652.533|End=652.924	_	_	_	0-2(34)
+ 136-0	TO022	136	0	mh.	mh	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=656.708|End=657.031	_	_	_	_
+ 137-0	TO024	137	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=657.031	_	_	_	_
+@@ -1471,7 +1474,7 @@
+ 146-2	TO022	146	2	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 146-3	TO022	146	3	diffusione	diffusione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 146-4	TO022	146	4	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-146-5	TO022	146	5	common	common	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++146-5	TO022	146	5	common	common	_	_	_	_	_	linguistic	_	none	Lang=Eng	_	_	_	_	_
+ 146-6	TO022	146	6	law.	law	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+ 146-7	TO022	146	7	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 146-8	TO022	146	8	india?	india	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=704.807	_	_	_	_
+@@ -1493,8 +1496,8 @@
+ 150-12	TO022	150	12	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 150-13	TO022	150	13	diffusione	diffusione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 150-14	TO022	150	14	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-150-15	TO022	150	15	common	common	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-150-16	TO022	150	16	law	law	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++150-15	TO022	150	15	common	common	_	_	_	_	_	linguistic	_	none	Lang=Eng	_	_	_	_	_
++150-16	TO022	150	16	law	law	_	_	_	_	_	linguistic	_	none	Lang=Eng	_	_	_	_	_
+ 150-17	TO022	150	17	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 150-18	TO022	150	18	india	india	_	_	_	_	_	linguistic	_	none	_	End=722.357	_	_	_	_
+ 151-0	TO024	151	0	guardi,	guardi	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=723.112	_	_	_	_
+@@ -1506,8 +1509,8 @@
+ 151-6	TO024	151	6	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 151-7	TO024	151	7	diffusione	diffusione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 151-8	TO024	151	8	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-151-9	TO024	151	9	common	common	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-151-10	TO024	151	10	law	law	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++151-9	TO024	151	9	common	common	_	_	_	_	_	linguistic	_	none	Lang=Eng	_	_	_	_	_
++151-10	TO024	151	10	law	law	_	_	_	_	_	linguistic	_	none	Lang=Eng	_	_	_	_	_
+ 151-11	TO024	151	11	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 151-12	TO024	151	12	india.	india	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+ 151-13	TO024	151	13	dall'	dall'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+@@ -1521,7 +1524,7 @@
+ 151-21	TO024	151	21	diritti	diritti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 151-22	TO024	151	22	diversi	diversi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 151-23	TO024	151	23	dal	dal	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-151-24	TO024	151	24	common	common	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++151-24	TO024	151	24	common	common	_	_	_	_	_	linguistic	_	none	Lang=Eng	_	_	_	_	_
+ 151-25	TO024	151	25	law,	law	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
+ 151-26	TO024	151	26	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 151-27	TO024	151	27	tutto.	tutto	_	_	_	_	_	linguistic	_	none	Intonation=Falling|PauseAfter=Yes	_	_	_	_	_
+@@ -1540,8 +1543,8 @@
+ 151-40	TO024	151	40	cominciare	cominciare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 151-41	TO024	151	41	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 151-42	TO024	151	42	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-151-43	TO024	151	43	common	common	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-151-44	TO024	151	44	law	law	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++151-43	TO024	151	43	common	common	_	_	_	_	_	linguistic	_	none	Lang=Eng	_	_	_	_	_
++151-44	TO024	151	44	law	law	_	_	_	_	_	linguistic	_	none	Lang=Eng	_	_	_	_	_
+ 151-45	TO024	151	45	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 151-46	TO024	151	46	india,	india	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 151-47	TO024	151	47	inizi	inizi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1682,8 +1685,8 @@
+ 162-10	TO024	162	10	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 162-11	TO024	162	11	applicazione	applicazione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 162-12	TO024	162	12	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-162-13	TO024	162	13	common	common	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-162-14	TO024	162	14	law	law	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++162-13	TO024	162	13	common	common	_	_	_	_	_	linguistic	_	none	Lang=Eng	_	_	_	_	_
++162-14	TO024	162	14	law	law	_	_	_	_	_	linguistic	_	none	Lang=Eng	_	_	_	_	_
+ 162-15	TO024	162	15	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 162-16	TO024	162	16	india	india	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 162-17	TO024	162	17	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1713,14 +1716,15 @@
+ 168-1	TO024	168	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 168-2	TO024	168	2	sì.	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling|PauseAfter=Yes	_	_	_	_	_
+ 168-3	TO024	168	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-168-4	TO024	168	4	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-168-5	TO024	168	5	scrivo	scrivo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-168-6	TO024	168	6	qua,	qua	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-168-7	TO024	168	7	lei	lei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-168-8	TO024	168	8	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-168-9	TO024	168	9	pensi	pensi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-168-10	TO024	168	10	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-168-11	TO024	168	11	comodo.	comodo	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=830.986	_	_	_	_
++168-4	TO024	168	4	[]	x	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++168-5	TO024	168	5	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++168-6	TO024	168	6	scrivo	scrivo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++168-7	TO024	168	7	qua,	qua	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++168-8	TO024	168	8	lei	lei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++168-9	TO024	168	9	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++168-10	TO024	168	10	pensi	pensi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++168-11	TO024	168	11	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++168-12	TO024	168	12	comodo.	comodo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=830.986	_	_	_	_
+ 169-0	TO022	169	0	[(va	va	_	_	_	_	_	linguistic	_	none	_	Begin=828.18	_	_	0-2(0)	0-2(39)
+ 169-1	TO022	169	1	bene)]	bene	_	_	_	_	_	linguistic	_	none	_	End=828.49	_	_	0-4(0)	0-4(39)
+ 170-0	TO022	170	0	va	va	_	_	_	_	_	linguistic	_	none	_	Begin=831.049	_	_	_	_

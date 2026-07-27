@@ -1,0 +1,157 @@
+--- a/tsv/BOA3016.vert.tsv
++++ b/tsv/BOA3016.vert.tsv
+@@ -234,7 +234,7 @@
+ 31-0	BO139	31	0	solo	solo	_	_	_	_	_	linguistic	_	none	_	Begin=67.875	_	_	_	_
+ 31-1	BO139	31	1	che:	che	_	_	_	_	_	linguistic	_	none	_	_	2x1	_	_	_
+ 31-2	BO139	31	2	niente	niente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-31-3	BO139	31	3	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
++31-3	BO139	31	3	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
+ 31-4	BO139	31	4	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 31-5	BO139	31	5	particolarmente	particolarmente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 31-6	BO139	31	6	preoccupato	preoccupato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -631,22 +631,22 @@
+ 87-9	BO148	87	9	stata	stata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 87-10	BO148	87	10	così	così	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 87-11	BO148	87	11	male	male	_	_	_	_	_	linguistic	_	none	_	End=178.699	_	_	_	_
+-88-0	BO139	88	0	[mh]	mh	_	_	_	_	_	linguistic	_	none	_	Begin=179.055|End=179.433	_	_	_	0-2(11)
+-89-0	BO148	89	0	[è	è	_	_	_	_	_	linguistic	_	none	_	Begin=179.055	_	_	_	0-1(11)
+-89-1	BO148	89	1	stata]	stata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(11)
+-89-2	BO148	89	2	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-89-3	BO148	89	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-89-4	BO148	89	4	quelle	quelle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-89-5	BO148	89	5	cose	cose	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-89-6	BO148	89	6	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-89-7	BO148	89	7	cui	cui	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-89-8	BO148	89	8	lei	lei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-89-9	BO148	89	9	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-89-10	BO148	89	10	stata	stata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-89-11	BO148	89	11	così	così	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-89-12	BO148	89	12	male	male	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-89-13	BO148	89	13	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-89-14	BO148	89	14	me[si]	mesi	_	_	_	_	_	linguistic	_	none	_	End=182.113	_	_	_	2-4(12)
++88-0	BO139	88	0	[è	è	_	_	_	_	_	linguistic	_	none	_	Begin=179.055	_	_	_	0-2(11)
++88-1	BO148	88	1	stata]	stata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++88-2	BO148	88	2	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++88-3	BO148	88	3	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++88-4	BO148	88	4	quelle	quelle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++88-5	BO148	88	5	cose	cose	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++88-6	BO148	88	6	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++88-7	BO148	88	7	cui	cui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++88-8	BO148	88	8	lei	lei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++88-9	BO148	88	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++88-10	BO148	88	10	stata	stata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++88-11	BO148	88	11	così	così	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++88-12	BO148	88	12	male	male	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++88-13	BO148	88	13	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++88-14	BO148	88	14	me[si]	mesi	_	_	_	_	_	linguistic	_	_	_	End=179.433	_	_	_	_
++89-0	BO148	89	0	[mh]	mh	_	_	_	_	_	linguistic	_	none	_	Begin=179.055|End=182.113	_	_	_	0-1(11)
+ 90-0	BO139	90	0	[mh]	mh	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	Begin=181.952	_	_	_	0-2(12)
+ 90-1	BO139	90	1	mh	mh	_	_	_	_	_	linguistic	_	none	_	End=182.591	_	_	_	_
+ 91-0	BO148	91	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=183.538	_	_	_	_
+@@ -1111,7 +1111,7 @@
+ 158-2	BO148	158	2	vabbè	vabbè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 158-3	BO148	158	3	essendo	essendo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 158-4	BO148	158	4	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-158-5	BO148	158	5	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
++158-5	BO148	158	5	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
+ 158-6	BO148	158	6	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 158-7	BO148	158	7	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 158-8	BO148	158	8	dicevo	dicevo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1495,7 +1495,7 @@
+ 210-8	BO148	210	8	master	master	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 210-9	BO148	210	9	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 210-10	BO148	210	10	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-210-11	BO148	210	11	(era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++210-11	BO148	210	11	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 210-12	BO148	210	12	fatto	fatto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 210-13	BO148	210	13	convincere	convincere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 210-14	BO148	210	14	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1938,10 +1938,10 @@
+ 278-4	BO148	278	4	è]	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(44)
+ 278-5	BO148	278	5	easy	easy	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
+ 278-6	BO148	278	6	mh	mh	_	_	_	_	_	linguistic	_	none	_	End=547.969	_	_	_	_
+-279-0	BO139	279	0	[sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=548.115	_	_	_	0-2(45)
+-279-1	BO139	279	1	sì]	sì	_	_	_	_	_	linguistic	_	none	_	End=548.719	_	_	_	0-2(45)
+-280-0	BO148	280	0	[in	in	_	_	_	_	_	linguistic	_	none	_	Begin=548.115	_	_	_	0-2(45)
+-280-1	BO148	280	1	realtà]	realtà	_	_	_	_	_	linguistic	_	none	_	End=548.719	_	_	_	0-6(45)
++279-0	BO139	279	0	[in	in	_	_	_	_	_	linguistic	_	none	_	Begin=548.115	_	_	_	0-2(45)
++279-1	BO139	279	1	realtà]	realtà	_	_	_	_	_	linguistic	_	none	_	End=548.719	_	_	_	0-2(45)
++280-0	BO148	280	0	[sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=548.115	_	_	_	0-2(45)
++280-1	BO148	280	1	sì]	sì	_	_	_	_	_	linguistic	_	none	_	End=548.719	_	_	_	0-6(45)
+ 281-0	BO139	281	0	però:	però	_	_	_	_	_	linguistic	_	none	_	Begin=549.753	3x1	_	_	_
+ 281-1	BO139	281	1	nel	nel	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 281-2	BO139	281	2	senso	senso	_	_	_	_	_	linguistic	_	none	_	End=550.849	_	_	_	_
+@@ -2160,20 +2160,20 @@
+ 311-5	BO148	311	5	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 311-6	BO148	311	6	finirà	finirà	_	_	_	_	_	linguistic	_	none	_	End=611.38	_	_	_	_
+ 312-0	BO139	312	0	[mh]	mh	_	_	_	_	_	linguistic	_	none	_	Begin=610.546|End=610.779	_	_	_	0-2(54)
+-313-0	BO139	313	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=611.567	_	_	_	0-2(55)
+-313-1	BO139	313	1	mh]	mh	_	_	_	_	_	linguistic	_	none	_	End=611.854	_	_	_	0-2(55)
+-314-0	BO148	314	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=611.567	_	Fast=0-4(0)	_	_
+-314-1	BO148	314	1	sai	sai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-314-2	BO148	314	2	okay	okay	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-314-3	BO148	314	3	devo	devo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-314-4	BO148	314	4	avere	avere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-314-5	BO148	314	5	pazienza	pazienza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-314-6	BO148	314	6	tre	tre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-314-7	BO148	314	7	mesi,	mesi	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-314-8	BO148	314	8	quattro	quattro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-314-9	BO148	314	9	mesi,	mesi	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-314-10	BO148	314	10	sei	sei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-314-11	BO148	314	11	mesi,	mesi	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=614.943	_	_	_	_
++313-0	BO139	313	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=611.567	_	_	_	0-2(55)
++313-1	BO139	313	1	sai	sai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(55)
++313-2	BO148	313	2	okay	okay	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++313-3	BO148	313	3	devo	devo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++313-4	BO148	313	4	avere	avere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++313-5	BO148	313	5	pazienza	pazienza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++313-6	BO148	313	6	tre	tre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++313-7	BO148	313	7	mesi,	mesi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
++313-8	BO148	313	8	quattro	quattro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++313-9	BO148	313	9	mesi,	mesi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
++313-10	BO148	313	10	sei	sei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++313-11	BO148	313	11	mesi,	mesi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=611.854	_	_	_	_
++314-0	BO148	314	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=611.567	_	Fast=0-4(0)	_	_
++314-1	BO148	314	1	mh]	mh	_	_	_	_	_	linguistic	_	none	_	End=614.943	_	_	_	_
+ 315-0	BO148	315	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=614.943	_	_	_	_
+ 315-1	BO148	315	1	magari	magari	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 315-2	BO148	315	2	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2579,9 +2579,9 @@
+ 376-0	BO139	376	0	hello	hello	_	_	_	_	_	linguistic	_	none	_	Begin=727.681	_	_	_	_
+ 376-1	BO139	376	1	good	good	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 376-2	BO139	376	2	[morning]	morning	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-7(70)
+-376-3	BO139	376	3	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	End=728.743	_	_	_	_
++376-3	BO139	376	3	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	End=728.743	_	_	_	_
+ 377-0	BO148	377	0	[hey	hey	_	_	_	_	_	linguistic	_	none	_	Begin=728.034	_	_	_	0-3(70)
+-377-1	BO148	377	1	xx]	xx	_	_	_	_	_	unknown	_	none	Syllables=2	End=728.612	_	_	_	0-2(70)
++377-1	BO148	377	1	xx]	x	_	_	_	_	_	unknown	_	none	Syllables=2	End=728.612	_	_	_	0-2(70)
+ 378-0	BO139	378	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=729.183|End=729.813	_	_	_	_
+ 379-0	BO139	379	0	adesso	adesso	_	_	_	_	_	linguistic	_	none	_	Begin=730.246	_	_	_	_
+ 379-1	BO139	379	1	devo	devo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2661,7 +2661,7 @@
+ 393-5	BO139	393	5	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 393-6	BO139	393	6	[per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(72)
+ 393-7	BO139	393	7	curio]sità	curiosità	_	_	_	_	_	linguistic	_	none	_	End=756.231	_	_	_	0-5(72)
+-394-0	BO148	394	0	[xxx]	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=754.983|End=755.987	_	_	_	0-3(72)
++394-0	BO148	394	0	[xxx]	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=754.983|End=755.987	_	_	_	0-3(72)
+ 395-0	BO139	395	0	ah	ah	_	_	_	_	_	linguistic	_	none	_	Begin=757.808	_	_	_	_
+ 395-1	BO139	395	1	perfetto	perfetto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 395-2	BO139	395	2	(bella)	bella	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-5(0)	_
+@@ -2907,7 +2907,7 @@
+ 426-2	BO148	426	2	deciso	deciso	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-6(0)	_	_
+ 426-3	BO148	426	3	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-3(0)	_	_
+ 426-4	BO148	426	4	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
+-426-5	BO148	426	5	(è<)	è	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-1(0)	_	_
++426-5	BO148	426	5	è<)	è	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-1(0)	_	_
+ 426-6	BO148	426	6	stufata,	stufata	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 426-7	BO148	426	7	perché:	perché	_	_	_	_	_	linguistic	_	none	_	_	5x1	_	_	_
+ 426-8	BO148	426	8	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3073,7 +3073,7 @@
+ 452-17	BO139	452	17	nostro	nostro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 452-18	BO139	452	18	mitico	mitico	_	_	_	_	_	linguistic	_	none	_	End=874.464	_	_	_	_
+ 453-0	BO148	453	0	esa[tto]	esatto	_	_	_	_	_	linguistic	_	none	_	Begin=874.47|End=874.917	_	_	_	3-6(84)
+-454-0	BO139	454	0	[xx]	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=874.609	_	_	_	0-2(84)
++454-0	BO139	454	0	[xx]	x	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=874.609	_	_	_	0-2(84)
+ 454-1	BO139	454	1	rappresentante	rappresentante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 454-2	BO139	454	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 454-3	BO139	454	3	wadiya	wadiya	_	_	_	_	_	linguistic	_	none	_	End=876.354	_	_	_	_

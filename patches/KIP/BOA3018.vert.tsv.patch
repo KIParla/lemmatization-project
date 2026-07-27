@@ -1,0 +1,462 @@
+--- a/tsv/BOA3018.vert.tsv
++++ b/tsv/BOA3018.vert.tsv
+@@ -202,7 +202,7 @@
+ 39-8	BO145	39	8	tipo	tipo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 39-9	BO145	39	9	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 39-10	BO145	39	10	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-39-11	BO145	39	11	(intreccia	intreccia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++39-11	BO145	39	11	intreccia	intreccia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 39-12	BO145	39	12	blblbl	blblbl	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 39-13	BO145	39	13	cos[ì]	così	_	_	_	_	_	linguistic	_	none	_	End=68.765	_	_	_	2-4(7)
+ 40-0	BO139	40	0	[bl]blbl	blblbl	_	_	_	_	_	linguistic	_	none	_	Begin=68.605|End=69.105	_	_	_	0-2(7)
+@@ -339,7 +339,7 @@
+ 66-4	BO145	66	4	velocizzato	velocizzato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 66-5	BO145	66	5	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 66-6	BO145	66	6	processo	processo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-66-7	BO145	66	7	di:di	didi	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
++66-7	BO145	66	7	di:	di	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
+ 66-8	BO145	66	8	cambiamento	cambiamento	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 66-9	BO145	66	9	capito?	capito	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=124.945	_	_	_	_
+ 67-0	BO139	67	0	[m:h]	mh	_	_	_	_	_	linguistic	_	none	_	Begin=125.095|End=125.655	0x1	_	_	0-2(11)
+@@ -455,10 +455,10 @@
+ 85-2	BO139	85	2	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 85-3	BO139	85	3	co[sì]	così	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	2-4(15)
+ 85-4	BO139	85	4	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+-85-5	BO139	85	5	xx[xx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	2-4(16)
++85-5	BO139	85	5	xx[xx	x	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	2-4(16)
+ 85-6	BO139	85	6	meno	meno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(16)
+ 85-7	BO139	85	7	weir]d	weird	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(16)
+-85-8	BO139	85	8	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	End=170.967	_	_	_	_
++85-8	BO139	85	8	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	End=170.967	_	_	_	_
+ 86-0	BO145	86	0	[ah	ah	_	_	_	_	_	linguistic	_	none	_	Begin=168.427	_	_	_	0-2(15)
+ 86-1	BO145	86	1	okay]	okay	_	_	_	_	_	linguistic	_	none	_	End=169.167	_	_	_	0-4(15)
+ 87-0	BO145	87	0	[va	va	_	_	_	_	_	linguistic	_	none	_	Begin=169.272	_	_	_	0-2(16)
+@@ -653,9 +653,7 @@
+ 128-1	BO145	128	1	nella	nella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 128-2	BO145	128	2	maglietta	maglietta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 128-3	BO145	128	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-128-4	BO145	128	4	h	h	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-128-5	BO145	128	5	and	and	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-128-6	BO145	128	6	mh	mh	_	_	_	_	_	linguistic	_	none	_	End=255.146	_	_	_	_
++128-4	BO145	128	4	handm	handm	_	_	_	_	_	linguistic	_	none	_	End=255.146	_	_	_	_
+ 129-0	BO145	129	0	o	o	_	_	_	_	_	linguistic	_	none	_	Begin=255.536	_	_	_	_
+ 129-1	BO145	129	1	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 129-2	BO145	129	2	zara	zara	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -771,9 +769,9 @@
+ 145-10	BO145	145	10	versace	versace	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 145-11	BO145	145	11	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=294.751	_	_	_	_
+ 146-0	BO139	146	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=292.341|End=293.201	_	_	_	_
+-147-0	BO139	147	0	[mh]	mh	_	_	_	_	_	linguistic	_	none	_	Begin=295.296|End=295.996	_	_	_	0-2(23)
+-148-0	BO145	148	0	[vabbè	vabbè	_	_	_	_	_	linguistic	_	none	_	Begin=295.296	_	_	_	0-5(23)
+-148-1	BO145	148	1	>cioè<]	cioè	_	_	_	_	_	linguistic	_	none	_	End=295.996	_	Fast=0-4(0)	_	0-4(23)
++147-0	BO139	147	0	[vabbè	vabbè	_	_	_	_	_	linguistic	_	none	_	Begin=295.296	_	_	_	0-2(23)
++147-1	BO145	147	1	>cioè<]	cioè	_	_	_	_	_	linguistic	_	_	_	End=295.996	_	_	_	_
++148-0	BO145	148	0	[mh]	mh	_	_	_	_	_	linguistic	_	none	_	Begin=295.296|End=295.996	_	_	_	0-5(23)
+ 149-0	BO145	149	0	no?	no	_	_	_	_	_	linguistic	_	none	Intonation=Rising	Begin=296.331	_	_	_	_
+ 149-1	BO145	149	1	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 149-2	BO145	149	2	dice	dice	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -830,7 +828,7 @@
+ 164-2	BO145	164	2	adesso	adesso	_	_	_	_	_	linguistic	_	none	_	End=331.501	_	_	_	_
+ 165-0	BO145	165	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=335.551	_	Fast=0-4(0)	_	_
+ 165-1	BO145	165	1	comunque	comunque	_	_	_	_	_	linguistic	_	none	_	End=336.221	_	_	_	_
+-166-0	BO145	166	0	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=336.821|End=337.191	_	_	_	_
++166-0	BO145	166	0	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=336.821|End=337.191	_	_	_	_
+ 167-0	BO145	167	0	quando	quando	_	_	_	_	_	linguistic	_	none	_	Begin=337.361	_	_	_	_
+ 167-1	BO145	167	1	viene	viene	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 167-2	BO145	167	2	im:posta	imposta	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
+@@ -1052,17 +1050,18 @@
+ 195-6	BO139	195	6	diverso]	diverso	_	_	_	_	_	linguistic	_	none	_	End=410.786	_	_	_	0-7(29)
+ 196-0	BO145	196	0	[secondo	secondo	_	_	_	_	_	linguistic	_	none	_	Begin=408.816	_	_	_	0-7(29)
+ 196-1	BO145	196	1	me	me	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(29)
+-196-2	BO145	196	2	è:in]	èin	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	0-3(29)
+-196-3	BO145	196	3	concomitanza	concomitanza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-196-4	BO145	196	4	con	con	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
+-196-5	BO145	196	5	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
+-196-6	BO145	196	6	il	il	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
+-196-7	BO145	196	7	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
+-196-8	BO145	196	8	radical	radical	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-196-9	BO145	196	9	chic	chic	_	_	_	_	_	linguistic	_	none	_	End=414.246	_	_	_	_
+-197-0	BO139	197	0	mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=414.506	_	_	_	_
+-197-1	BO139	197	1	mh	mh	_	_	_	_	_	linguistic	_	none	_	End=415.006	_	_	_	_
+-198-0	BO145	198	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=414.506|End=415.006	_	_	_	_
++196-2	BO145	196	2	è:	è	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	0-3(29)
++196-10	BO145	196	3	in]	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++196-3	BO145	196	4	concomitanza	concomitanza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++196-4	BO145	196	5	con	con	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
++196-5	BO145	196	6	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
++196-6	BO145	196	7	il	il	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
++196-7	BO145	196	8	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
++196-8	BO145	196	9	radical	radical	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++196-9	BO145	196	10	chic	chic	_	_	_	_	_	linguistic	_	none	_	End=414.246	_	_	_	_
++197-0	BO139	197	0	((ride))	((ride))	_	_	_	_	_	linguistic	_	none	_	Begin=414.506|End=415.006	_	_	_	_
++198-0	BO145	198	0	mh	mh	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=414.506	_	_	_	_
++198-1	BO139	198	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	End=415.006	_	_	_	_
+ 199-0	BO145	199	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=415.101	_	Fast=0-4(0)	_	_
+ 199-1	BO145	199	1	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 199-2	BO145	199	2	quando	quando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1078,7 +1077,7 @@
+ 204-0	BO139	204	0	[tendenza]	tendenza	_	_	_	_	_	linguistic	_	none	_	Begin=421.33|End=421.88	_	_	_	0-8(31)
+ 205-0	BO145	205	0	[locu]zione	locuzione	_	_	_	_	_	linguistic	_	none	_	Begin=421.4|End=422.64	_	_	_	0-4(31)
+ 206-0	BO139	206	0	opzione?	opzione	_	_	_	_	_	linguistic	_	none	Intonation=Rising	Begin=423.05	_	_	_	_
+-206-1	BO139	206	1	[xx]	xx	_	_	_	_	_	unknown	_	none	Syllables=2	End=424.02	_	_	_	0-2(32)
++206-1	BO139	206	1	[xx]	x	_	_	_	_	_	unknown	_	none	Syllables=2	End=424.02	_	_	_	0-2(32)
+ 207-0	BO145	207	0	[lo]cuzione	locuzione	_	_	_	_	_	linguistic	_	none	_	Begin=423.75|End=424.86	_	_	_	0-2(32)
+ 208-0	BO139	208	0	ah	ah	_	_	_	_	_	linguistic	_	none	_	Begin=424.88	_	_	_	_
+ 208-1	BO139	208	1	okay	okay	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1087,7 +1086,7 @@
+ 210-0	BO145	210	0	va	va	_	_	_	_	_	linguistic	_	none	_	Begin=425.705	_	_	_	_
+ 210-1	BO145	210	1	bene	bene	_	_	_	_	_	linguistic	_	none	_	End=426.19	_	_	_	_
+ 211-0	BO139	211	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=426.415|End=427.115	_	_	_	_
+-212-0	BO145	212	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=426.89	_	_	_	_
++212-0	BO145	212	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=426.89	_	_	_	_
+ 212-1	BO145	212	1	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-4(0)	_	_
+ 212-2	BO145	212	2	questa	questa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 212-3	BO145	212	3	nuova:	nuova	_	_	_	_	_	linguistic	_	none	_	End=428.61	4x1	_	_	_
+@@ -1098,7 +1097,7 @@
+ 213-4	BO145	213	4	secondo	secondo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 213-5	BO145	213	5	me	me	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 213-6	BO145	213	6	s'	s'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-213-7	BO145	213	7	(è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++213-7	BO145	213	7	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 213-8	BO145	213	8	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 213-9	BO145	213	9	affermato	affermato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 213-10	BO145	213	10	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1237,7 +1236,7 @@
+ 232-6	BO139	232	6	punto	punto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 232-7	BO139	232	7	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 232-8	BO139	232	8	vista:	vista	_	_	_	_	_	linguistic	_	none	_	End=477.55	4x1	_	_	_
+-233-0	BO145	233	0	[xxxxxxxx]	xxxxxxxx	_	_	_	_	_	unknown	_	none	Syllables=8	Begin=474.655|End=476.34	_	_	_	0-8(39)
++233-0	BO145	233	0	[xxxxxxxx]	x	_	_	_	_	_	unknown	_	none	Syllables=8	Begin=474.655|End=476.34	_	_	_	0-8(39)
+ 234-0	BO139	234	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=478.715	_	Fast=0-4(0)	_	_
+ 234-1	BO139	234	1	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 234-2	BO139	234	2	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1276,7 +1275,7 @@
+ 247-1	BO145	247	1	conversazione	conversazione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 247-2	BO145	247	2	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 247-3	BO145	247	3	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	End=491.273	_	Fast=0-4(0)	_	_
+-248-0	BO145	248	0	parlaimo	parlaimo	_	_	_	_	_	linguistic	_	none	_	Begin=491.628	_	_	_	_
++248-0	BO145	248	0	parliamo	parliamo	_	_	_	_	_	linguistic	_	none	_	Begin=491.628	_	_	_	_
+ 248-1	BO145	248	1	molto:	molto	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
+ 248-2	BO145	248	2	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-4(0)	_	_
+ 248-3	BO145	248	3	sembriamo	sembriamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1306,11 +1305,11 @@
+ 250-19	BO145	250	19	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 250-20	BO145	250	20	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 250-21	BO145	250	21	t'	t'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-250-22	BO145	250	22	(insulto	insulto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++250-22	BO145	250	22	insulto	insulto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 250-23	BO145	250	23	te	te	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 250-24	BO145	250	24	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 250-25	BO145	250	25	m'	m'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-250-26	BO145	250	26	(insul[ti	insulti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	3-7(42)
++250-26	BO145	250	26	insul[ti	insulti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	3-7(42)
+ 250-27	BO145	250	27	o]	o	_	_	_	_	_	linguistic	_	none	_	End=502.23	_	_	_	_
+ 251-0	BO139	251	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=497.27|End=499.23	_	_	_	_
+ 252-0	BO139	252	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=499.985|End=501.495	_	_	_	_
+@@ -1412,15 +1411,14 @@
+ 272-4	BO145	272	4	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 272-5	BO145	272	5	paio	paio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 272-6	BO145	272	6	de:	de	_	_	_	_	_	linguistic	_	none	_	End=537.73	1x1	_	_	_
+-273-0	BO145	273	0	levi'	levi'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=538.265	_	_	_	_
+-273-1	BO145	273	1	s	s	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-273-2	BO145	273	2	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-273-3	BO145	273	3	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-273-4	BO145	273	4	aveva	aveva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-273-5	BO145	273	5	mamma	mamma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-273-6	BO145	273	6	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-273-7	BO145	273	7	vent'	vent'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-273-8	BO145	273	8	anni	anni	_	_	_	_	_	linguistic	_	none	_	End=540.295	_	_	_	_
++273-0	BO145	273	0	levi's	levi's	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=538.265	_	_	_	_
++273-2	BO145	273	1	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++273-3	BO145	273	2	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++273-4	BO145	273	3	aveva	aveva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++273-5	BO145	273	4	mamma	mamma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++273-6	BO145	273	5	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++273-7	BO145	273	6	vent'	vent'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++273-8	BO145	273	7	anni	anni	_	_	_	_	_	linguistic	_	none	_	End=540.295	_	_	_	_
+ 274-0	BO139	274	0	mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=540.315|End=540.705	_	_	_	_
+ 275-0	BO145	275	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=540.735	_	Fast=0-4(0)	_	_
+ 275-1	BO145	275	1	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2008,12 +2006,13 @@
+ 369-1	BO145	369	1	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(67)
+ 369-2	BO145	369	2	io]	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(67)
+ 369-3	BO145	369	3	avevo	avevo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-369-4	BO145	369	4	già:pensato	giàpensato	_	_	_	_	_	linguistic	_	none	_	_	2x1	_	_	_
+-369-5	BO145	369	5	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-369-6	BO145	369	6	tutto	tutto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-369-7	BO145	369	7	(non)	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-3(0)	_
+-369-8	BO145	369	8	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-369-9	BO145	369	9	preoccupa(re)	preoccupare	_	_	_	_	_	linguistic	_	none	_	End=740.47	_	_	9-11(1)	_
++369-4	BO145	369	4	già:	già	_	_	_	_	_	linguistic	_	none	_	_	2x1	_	_	_
++369-10	BO145	369	5	pensato	pensato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++369-5	BO145	369	6	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++369-6	BO145	369	7	tutto	tutto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++369-7	BO145	369	8	(non)	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-3(0)	_
++369-8	BO145	369	9	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++369-9	BO145	369	10	preoccupa(re)	preoccupare	_	_	_	_	_	linguistic	_	none	_	End=740.47	_	_	9-11(1)	_
+ 370-0	BO139	370	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=739.825|End=740.59	_	_	_	_
+ 371-0	BO139	371	0	okay	okay	_	_	_	_	_	linguistic	_	none	_	Begin=740.65|End=741.14	_	_	_	_
+ 372-0	BO145	372	0	comunque	comunque	_	_	_	_	_	linguistic	_	none	_	Begin=741.22|End=742.14	_	_	_	_
+@@ -2071,11 +2070,11 @@
+ 383-6	BO145	383	6	>cio[è<	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-4(0)	_	3-4(70)
+ 383-7	BO145	383	7	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(70)
+ 383-8	BO145	383	8	po'	po'	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(70)
+-383-9	BO145	383	9	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(70)
+-383-10	BO145	383	10	s]ensazioni	sensazioni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(70)
+-383-11	BO145	383	11	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-383-12	BO145	383	12	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-383-13	BO145	383	13	hai	hai	_	_	_	_	_	linguistic	_	none	_	End=768.12	_	_	_	_
++383-10	BO145	383	9	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(70)
++383-11	BO145	383	10	s]ensazioni	sensazioni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++383-12	BO145	383	11	che	che	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++383-13	BO145	383	12	c'	c'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
++383-14	BO145	383	13	hai	hai	_	_	_	_	_	linguistic	_	_	_	End=768.12	_	_	_	_
+ 384-0	BO139	384	0	[mh]	mh	_	_	_	_	_	linguistic	_	none	_	Begin=766.3|End=766.78	_	_	_	0-2(70)
+ 385-0	BO139	385	0	mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=768.26	_	_	_	_
+ 385-1	BO139	385	1	m[h]	mh	_	_	_	_	_	linguistic	_	none	_	End=768.58	_	_	_	1-2(71)
+@@ -2232,7 +2231,7 @@
+ 412-9	BO139	412	9	po'	po'	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 412-10	BO139	412	10	come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 412-11	BO139	412	11	dire	dire	_	_	_	_	_	linguistic	_	none	_	End=826.965	_	_	_	_
+-413-0	BO139	413	0	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=827.745	_	_	_	_
++413-0	BO139	413	0	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=827.745	_	_	_	_
+ 413-1	BO139	413	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 413-2	BO139	413	2	okay	okay	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 413-3	BO139	413	3	c(io)è	cioè	_	_	_	_	_	linguistic	_	none	Reduced=Yes	_	_	_	_	_
+@@ -2281,8 +2280,8 @@
+ 420-7	BO139	420	7	prendiamo	prendiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 420-8	BO139	420	8	meno	meno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 420-9	BO139	420	9	traffico	traffico	_	_	_	_	_	linguistic	_	none	_	End=846.755	_	_	_	_
+-421-0	BO139	421	0	[xxxx]x[x]	xxxxxx	_	_	_	_	_	unknown	_	none	Syllables=6	Begin=847.61|End=848.57	_	_	_	0-4(77),5-6(78)
+-422-0	BO145	422	0	[xx]	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=847.62|End=848.37	_	_	_	0-2(77)
++421-0	BO139	421	0	[xxxx]x[x]	x	_	_	_	_	_	unknown	_	none	Syllables=6	Begin=847.61|End=848.57	_	_	_	0-4(77),5-6(78)
++422-0	BO145	422	0	[xx]	x	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=847.62|End=848.37	_	_	_	0-2(77)
+ 423-0	BO145	423	0	[oh]	oh	_	_	_	_	_	linguistic	_	none	_	Begin=848.435	_	_	_	0-2(78)
+ 423-1	BO145	423	1	guarda	guarda	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 423-2	BO145	423	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2366,9 +2365,10 @@
+ 436-0	BO139	436	0	[soprattutto]	soprattutto	_	_	_	_	_	linguistic	_	none	_	Begin=880.041|End=880.831	_	_	_	0-11(80)
+ 437-0	BO139	437	0	no	no	_	_	_	_	_	linguistic	_	none	_	Begin=883.851	_	_	_	_
+ 437-1	BO139	437	1	>non	non	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-3(0)	_	_
+-437-2	BO139	437	2	locioè<	locioè	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-6(0)	_	_
+-437-3	BO139	437	3	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-437-4	BO139	437	4	dire:	dire	_	_	_	_	_	linguistic	_	none	_	End=885.501	3x1	_	_	_
++437-2	BO139	437	2	lo<	lo	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-6(0)	_	_
++437-3	BO139	437	3	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++437-4	BO139	437	4	per	per	_	_	_	_	_	linguistic	_	none	_	_	3x1	_	_	_
++437-5	BO139	437	5	dire:	dire	_	_	_	_	_	linguistic	_	_	_	End=885.501	_	_	_	_
+ 438-0	BO139	438	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=888.801	_	_	_	_
+ 438-1	BO139	438	1	sembra	sembra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 438-2	BO139	438	2	sempre	sempre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2447,7 +2447,7 @@
+ 444-9	BO139	444	9	come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 444-10	BO139	444	10	dire	dire	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 444-11	BO139	444	11	questa	questa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-444-12	BO139	444	12	perecentuale	perecentuale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++444-12	BO139	444	12	percentuale	percentuale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 444-13	BO139	444	13	però	però	_	_	_	_	_	linguistic	_	none	_	End=914.41	_	_	_	_
+ 445-0	BO139	445	0	è	è	_	_	_	_	_	linguistic	_	none	_	Begin=914.79	_	_	_	_
+ 445-1	BO139	445	1	m:h	mh	_	_	_	_	_	linguistic	_	none	_	End=915.78	0x1	_	_	_
+@@ -2556,10 +2556,10 @@
+ 462-6	BO145	462	6	tipo	tipo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 462-7	BO145	462	7	nei	nei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 462-8	BO145	462	8	periodi	periodi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-462-9	BO145	462	9	de~	de~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+-462-10	BO145	462	10	delle	delle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-462-11	BO145	462	11	guerre	guerre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-462-12	BO145	462	12	oppure	oppure	_	_	_	_	_	linguistic	_	none	_	End=956.12	_	_	_	_
++462-9	BO145	462	9	de:~	de:~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
++462-12	BO145	462	10	delle	delle	_	_	_	_	_	linguistic	_	none	_	End=956.12	_	_	_	_
++462-10	BO145	462	11	guerre	guerre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++462-11	BO145	462	12	oppure	oppure	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 463-0	BO145	463	0	[e::]:h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=956.27|End=957.11	0x3	_	_	0-1(85)
+ 464-0	BO139	464	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=956.36	_	_	_	0-2(85)
+ 464-1	BO139	464	1	mh]	mh	_	_	_	_	_	linguistic	_	none	_	End=956.97	_	_	_	0-2(85)
+@@ -2642,7 +2642,7 @@
+ 481-5	BO145	481	5	t]roppo	troppo	_	_	_	_	_	linguistic	_	none	_	End=988.37	_	_	_	0-1(88)
+ 482-0	BO139	482	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=987.33	_	_	_	0-2(88)
+ 482-1	BO139	482	1	mh]	mh	_	_	_	_	_	linguistic	_	none	_	End=987.88	_	_	_	0-2(88)
+-483-0	BO145	483	0	tropp	tropp	_	_	_	_	_	linguistic	_	none	_	Begin=989.05	_	_	_	_
++483-0	BO145	483	0	troppa	troppa	_	_	_	_	_	linguistic	_	none	_	Begin=989.05	_	_	_	_
+ 483-1	BO145	483	1	voce	voce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 483-2	BO145	483	2	(>in<)somma	insomma	_	_	_	_	_	linguistic	_	none	_	End=990.13	_	Fast=0-2(0)	0-2(0)	_
+ 484-0	BO145	484	0	[a:]	a	_	_	_	_	_	linguistic	_	none	_	Begin=990.4|End=990.81	0x1	_	_	0-1(89)
+@@ -2921,7 +2921,7 @@
+ 536-6	BO139	536	6	[gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(95)
+ 536-7	BO139	536	7	amici]	amici	_	_	_	_	_	linguistic	_	none	_	End=1097.55	_	_	_	0-5(95)
+ 537-0	BO145	537	0	[paul,	paul	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=1096.46	_	_	_	0-4(95)
+-537-1	BO145	537	1	ver]lain	verlain	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(95)
++537-1	BO145	537	1	ver]laine	verlaine	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(95)
+ 537-2	BO145	537	2	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 537-3	BO145	537	3	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1098.54	_	_	_	_
+ 538-0	BO139	538	0	gli	gli	_	_	_	_	_	linguistic	_	none	_	Begin=1098.62	_	_	_	_
+@@ -2930,7 +2930,7 @@
+ 538-3	BO139	538	3	bar	bar	_	_	_	_	_	linguistic	_	none	_	End=1099.59	_	_	_	_
+ 539-0	BO145	539	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1099.09|End=1100.2	_	_	_	_
+ 540-0	BO145	540	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1100.5	_	_	_	_
+-540-1	BO145	540	1	verlain	verlain	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++540-1	BO145	540	1	verlaine	verlaine	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 540-2	BO145	540	2	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 540-3	BO145	540	3	rimbaud	rimbaud	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 540-4	BO145	540	4	erano	erano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3125,7 +3125,7 @@
+ 578-3	BO145	578	3	presi	presi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 578-4	BO145	578	4	questi	questi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 578-5	BO145	578	5	qua	qua	_	_	_	_	_	linguistic	_	none	_	End=1171.715	_	_	_	_
+-579-0	BO145	579	0	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=1172.01	_	_	_	_
++579-0	BO145	579	0	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=1172.01	_	_	_	_
+ 579-1	BO145	579	1	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 579-2	BO145	579	2	dark	dark	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 579-3	BO145	579	3	polo,	polo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+@@ -3260,16 +3260,16 @@
+ 603-8	BO145	603	8	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 603-9	BO145	603	9	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 603-10	BO145	603	10	costruttiva	costruttiva	_	_	_	_	_	linguistic	_	none	_	End=1213.105	_	_	_	_
+-604-0	BO139	604	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=1213.63	_	_	_	0-2(109)
+-604-1	BO139	604	1	mh]	mh	_	_	_	_	_	linguistic	_	none	_	End=1214.17	_	_	_	0-2(109)
+-605-0	BO145	605	0	[tante	tante	_	_	_	_	_	linguistic	_	none	_	Begin=1213.63	_	_	_	0-5(109)
+-605-1	BO145	605	1	volte]	volte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(109)
+-605-2	BO145	605	2	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-605-3	BO145	605	3	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-605-4	BO145	605	4	tante	tante	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-605-5	BO145	605	5	volte	volte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-605-6	BO145	605	6	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-605-7	BO145	605	7	è	è	_	_	_	_	_	linguistic	_	none	_	End=1215.19	_	_	_	_
++604-0	BO139	604	0	[tante	tante	_	_	_	_	_	linguistic	_	none	_	Begin=1213.63	_	_	_	0-2(109)
++604-1	BO139	604	1	volte]	volte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(109)
++604-2	BO145	604	2	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++604-3	BO145	604	3	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++604-4	BO145	604	4	tante	tante	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++604-5	BO145	604	5	volte	volte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++604-6	BO145	604	6	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++604-7	BO145	604	7	è	è	_	_	_	_	_	linguistic	_	_	_	End=1214.17	_	_	_	_
++605-0	BO145	605	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=1213.63	_	_	_	0-5(109)
++605-1	BO145	605	1	mh]	mh	_	_	_	_	_	linguistic	_	none	_	End=1215.19	_	_	_	0-5(109)
+ 606-0	BO145	606	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1215.59	_	_	_	_
+ 606-1	BO145	606	1	però:	però	_	_	_	_	_	linguistic	_	none	_	End=1216.66	3x1	_	_	_
+ 607-0	BO145	607	0	((sospira))	((sospira))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1216.91|End=1217.74	_	_	_	_
+@@ -3334,9 +3334,9 @@
+ 619-2	BO145	619	2	keta	keta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(113)
+ 619-3	BO145	619	3	anche]	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(113)
+ 619-4	BO145	619	4	no?	no	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=1236.67	_	_	_	_
+-620-0	BO139	620	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=1236.765	_	_	_	0-2(114)
+-620-1	BO139	620	1	mh]	mh	_	_	_	_	_	linguistic	_	none	_	End=1237.265	_	_	_	0-2(114)
+-621-0	BO145	621	0	[>cioè<]	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1236.765|End=1237.265	_	Fast=0-4(0)	_	0-4(114)
++620-0	BO139	620	0	[>cioè<]	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1236.765|End=1237.265	_	_	_	0-2(114)
++621-0	BO145	621	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=1236.765	_	Fast=0-4(0)	_	0-4(114)
++621-1	BO139	621	1	mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=1237.265	_	_	_	_
+ 622-0	BO145	622	0	immanuel	immanuel	_	_	_	_	_	linguistic	_	none	_	Begin=1238.18	_	_	_	_
+ 622-1	BO145	622	1	casto?	casto	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=1239.14	_	_	_	_
+ 623-0	BO145	623	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1239.745	_	Fast=0-4(0)	_	_
+@@ -3621,10 +3621,10 @@
+ 683-3	BO139	683	3	chiamo	chiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 683-4	BO139	683	4	socs	socs	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 683-5	BO139	683	5	comunque	comunque	_	_	_	_	_	linguistic	_	none	_	End=1363.65	_	_	_	_
+-684-0	BO139	684	0	stream	stream	_	_	_	_	_	linguistic	_	none	_	Begin=1363.82	_	_	_	_
+-684-1	BO139	684	1	of	of	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-684-2	BO139	684	2	conscoiusnes:::	conscoiusnes	_	_	_	_	_	linguistic	_	none	_	End=1365.33	11x3	_	_	_
+-685-0	BO145	685	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1363.82|End=1364.33	_	_	_	_
++684-0	BO139	684	0	((ride))	((ride))	_	_	_	_	_	linguistic	_	none	_	Begin=1363.82|End=1365.33	_	_	_	_
++685-0	BO145	685	0	stream	stream	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1363.82	_	_	_	_
++685-1	BO139	685	1	of	of	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++685-2	BO139	685	2	consciousnes:::	consciousnes	_	_	_	_	_	linguistic	_	_	_	End=1364.33	_	_	_	_
+ 686-0	BO145	686	0	oh	oh	_	_	_	_	_	linguistic	_	none	_	Begin=1365.64	_	_	_	_
+ 686-1	BO145	686	1	scusa	scusa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 686-2	BO145	686	2	eh	eh	_	_	_	_	_	linguistic	_	none	_	End=1366.82	_	_	_	_
+@@ -3656,7 +3656,7 @@
+ 693-6	BO139	693	6	sacco	sacco	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 693-7	BO139	693	7	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 693-8	BO139	693	8	collegamenti	collegamenti	_	_	_	_	_	linguistic	_	none	_	End=1375.2	_	_	_	_
+-694-0	BO139	694	0	mh	mh	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	Begin=1376.39	_	_	_	_
++694-0	BO139	694	0	m	m	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	Begin=1376.39	_	_	_	_
+ 694-1	BO139	694	1	oh	oh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 694-2	BO139	694	2	eh	eh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 694-3	BO139	694	3	>non	non	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-3(0)	_	_
+@@ -3686,9 +3686,10 @@
+ 695-8	BO139	695	8	uno	uno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 695-9	BO139	695	9	come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 695-10	BO139	695	10	dire:	dire	_	_	_	_	_	linguistic	_	none	_	_	3x1	_	_	_
+-695-11	BO139	695	11	°e:h°di	ehdi	_	_	_	_	_	linguistic	_	none	Volume=low	_	0x1	_	_	_
+-695-12	BO139	695	12	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-695-13	BO139	695	13	che	che	_	_	_	_	_	linguistic	_	none	_	End=1386.98	_	_	_	_
++695-11	BO139	695	11	°e:h°	eh	_	_	_	_	_	linguistic	_	none	Volume=Low	_	0x1	_	_	_
++695-14	BO139	695	12	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++695-12	BO139	695	13	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++695-13	BO139	695	14	che	che	_	_	_	_	_	linguistic	_	none	_	End=1386.98	_	_	_	_
+ 696-0	BO139	696	0	prende	prende	_	_	_	_	_	linguistic	_	none	_	Begin=1387.89	_	_	_	_
+ 696-1	BO139	696	1	atto	atto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 696-2	BO139	696	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3726,7 +3727,7 @@
+ 700-14	BO139	700	14	nel	nel	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 700-15	BO139	700	15	senso	senso	_	_	_	_	_	linguistic	_	none	_	End=1399.42	_	_	_	_
+ 701-0	BO139	701	0	cosa	cosa	_	_	_	_	_	linguistic	_	none	_	Begin=1400.39	_	_	_	_
+-701-1	BO139	701	1	v:ogio	vogio	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
++701-1	BO139	701	1	v:oglio	voglio	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
+ 701-2	BO139	701	2	fare	fare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 701-3	BO139	701	3	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 701-4	BO139	701	4	cosa	cosa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3760,17 +3761,17 @@
+ 705-7	BO139	705	7	lui	lui	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 705-8	BO139	705	8	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 705-9	BO139	705	9	lei	lei	_	_	_	_	_	linguistic	_	none	_	End=1416.15	_	_	_	_
+-706-0	BO139	706	0	[perché]	perché	_	_	_	_	_	linguistic	_	none	_	Begin=1416.27	_	_	_	0-6(123)
+-706-1	BO139	706	1	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-4(0)	_	_
+-706-2	BO139	706	2	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-706-3	BO139	706	3	hanno	hanno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-706-4	BO139	706	4	successo	successo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-706-5	BO139	706	5	vuol	vuol	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-706-6	BO139	706	6	dire	dire	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-706-7	BO139	706	7	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-706-8	BO139	706	8	hanno	hanno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-706-9	BO139	706	9	c~	c~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	End=1418.03	_	_	_	_
+-707-0	BO145	707	0	[mh]	mh	_	_	_	_	_	linguistic	_	none	_	Begin=1416.27|End=1416.74	_	_	_	0-2(123)
++706-0	BO139	706	0	[mh]	mh	_	_	_	_	_	linguistic	_	none	_	Begin=1416.27|End=1418.03	_	_	_	0-6(123)
++707-0	BO145	707	0	[perché]	perché	_	_	_	_	_	linguistic	_	none	_	Begin=1416.27	_	_	_	0-2(123)
++707-1	BO139	707	1	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++707-2	BO139	707	2	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++707-3	BO139	707	3	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++707-4	BO139	707	4	successo	successo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++707-5	BO139	707	5	vuol	vuol	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++707-6	BO139	707	6	dire	dire	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++707-7	BO139	707	7	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++707-8	BO139	707	8	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++707-9	BO139	707	9	c~	c~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=1416.74	_	_	_	_
+ 708-0	BO139	708	0	capito	capito	_	_	_	_	_	linguistic	_	none	_	Begin=1418.3	_	_	_	_
+ 708-1	BO139	708	1	capito	capito	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 708-2	BO139	708	2	qualcosa	qualcosa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3945,7 +3946,7 @@
+ 735-1	BO145	735	1	mh]	mh	_	_	_	_	_	linguistic	_	none	_	End=1474.14	_	_	_	0-2(126)
+ 736-0	BO139	736	0	tipo:	tipo	_	_	_	_	_	linguistic	_	none	_	Begin=1474.52	3x1	_	_	_
+ 736-1	BO139	736	1	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-736-2	BO139	736	2	secoldo	secoldo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++736-2	BO139	736	2	secolo	secolo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 736-3	BO139	736	3	dopo	dopo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 736-4	BO139	736	4	a:h	ah	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
+ 736-5	BO139	736	5	cent'	cent'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+@@ -3956,7 +3957,7 @@
+ 736-10	BO139	736	10	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 736-11	BO139	736	11	artista	artista	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 736-12	BO139	736	12	gran[dissi(mo)	grandissimo	_	_	_	_	_	linguistic	_	none	_	_	_	_	7-10(0)	2-11(127)
+-736-13	BO139	736	13	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	0-2(127)
++736-13	BO139	736	13	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	0-2(127)
+ 736-14	BO139	736	14	ques]ta	questa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(127)
+ 736-15	BO139	736	15	canzone	canzone	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 736-16	BO139	736	16	così	così	_	_	_	_	_	linguistic	_	none	_	End=1479.37	_	_	_	_
+@@ -4214,7 +4215,7 @@
+ 766-11	BO139	766	11	fare	fare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 766-12	BO139	766	12	questa	questa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 766-13	BO139	766	13	cosa	cosa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-766-14	BO139	766	14	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
++766-14	BO139	766	14	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
+ 766-15	BO139	766	15	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 766-16	BO139	766	16	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 766-17	BO139	766	17	posso	posso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -4287,7 +4288,7 @@
+ 777-5	BO145	777	5	modo	modo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(135)
+ 777-6	BO145	777	6	ma]gari	magari	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(135)
+ 777-7	BO145	777	7	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-777-8	BO145	777	8	soprattuo	soprattuo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++777-8	BO145	777	8	soprattutto	soprattutto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 777-9	BO145	777	9	chi	chi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+ 777-10	BO145	777	10	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 777-11	BO145	777	11	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

@@ -1,0 +1,108 @@
+--- a/tsv/BOA3013.vert.tsv
++++ b/tsv/BOA3013.vert.tsv
+@@ -224,7 +224,7 @@
+ 37-1	BO095	37	1	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 37-2	BO095	37	2	finito,	finito	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 37-3	BO095	37	3	allora	allora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-37-4	BO095	37	4	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++37-4	BO095	37	4	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 37-5	BO095	37	5	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 37-6	BO095	37	6	stata	stata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 37-7	BO095	37	7	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -260,12 +260,11 @@
+ 42-3	BO095	42	3	comprato	comprato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 42-4	BO095	42	4	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 42-5	BO095	42	5	micro	micro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-42-6	BO095	42	6	esse	esse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-42-7	BO095	42	7	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-42-8	BO095	42	8	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-42-9	BO095	42	9	trentadue	trentadue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-42-10	BO095	42	10	giga	giga	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-42-11	BO095	42	11	che::	che	_	_	_	_	_	linguistic	_	none	_	End=175.916	2x2	_	_	_
++42-6	BO095	42	6	esse di	esse di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++42-8	BO095	42	7	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++42-9	BO095	42	8	trentadue	trentadue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++42-10	BO095	42	9	giga	giga	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++42-11	BO095	42	10	che::	che	_	_	_	_	_	linguistic	_	none	_	End=175.916	2x2	_	_	_
+ 43-0	BO095	43	0	insomma::	insomma	_	_	_	_	_	linguistic	_	none	_	Begin=176.286	6x2	_	_	_
+ 43-1	BO095	43	1	visto	visto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 43-2	BO095	43	2	che::	che	_	_	_	_	_	linguistic	_	none	_	_	2x2	_	_	_
+@@ -396,7 +395,7 @@
+ 58-1	BO095	58	1	meglio]	meglio	_	_	_	_	_	linguistic	_	none	_	End=221.933	_	_	_	0-6(10)
+ 59-0	BO097	59	0	in	in	_	_	_	_	_	linguistic	_	none	_	Begin=225.966	_	_	_	_
+ 59-1	BO097	59	1	generale	generale	_	_	_	_	_	linguistic	_	none	_	End=226.593	_	_	_	_
+-60-0	BO097	60	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=238.87	_	_	_	_
++60-0	BO097	60	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=238.87	_	_	_	_
+ 60-1	BO097	60	1	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 60-2	BO097	60	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 60-3	BO097	60	3	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -429,7 +428,7 @@
+ 67-3	BO095	67	3	stesso	stesso	_	_	_	_	_	linguistic	_	none	_	End=249.464	_	_	_	_
+ 68-0	BO097	68	0	solo	solo	_	_	_	_	_	linguistic	_	none	_	Begin=249.464	_	_	_	_
+ 68-1	BO097	68	1	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-68-2	BO097	68	2	[addesso]	addesso	_	_	_	_	_	linguistic	_	none	_	End=250.144	_	_	_	0-7(13)
++68-2	BO097	68	2	[adesso]	adesso	_	_	_	_	_	linguistic	_	none	_	End=250.144	_	_	_	0-7(13)
+ 69-0	BO095	69	0	[ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=249.675	_	_	_	0-2(13)
+ 69-1	BO095	69	1	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	0-2(13)
+ 69-2	BO095	69	2	hai]	hai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(13)
+@@ -1289,7 +1288,7 @@
+ 210-6	BO097	210	6	adesso	adesso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 210-7	BO097	210	7	ormai,	ormai	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=578.892	_	_	_	_
+ 211-0	BO097	211	0	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=581.466	_	_	_	_
+-211-1	BO097	211	1	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	End=582.055	_	_	_	_
++211-1	BO097	211	1	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	End=582.055	_	_	_	_
+ 212-0	BO097	212	0	bisognerebbe	bisognerebbe	_	_	_	_	_	linguistic	_	none	_	Begin=582.321	_	_	_	_
+ 212-1	BO097	212	1	farlo	farlo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 212-2	BO097	212	2	apposta	apposta	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+@@ -1305,7 +1304,7 @@
+ 214-2	BO097	214	2	capace	capace	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 214-3	BO097	214	3	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 214-4	BO097	214	4	fare	fare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-214-5	BO097	214	5	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	End=588.181	_	_	_	_
++214-5	BO097	214	5	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	End=588.181	_	_	_	_
+ 215-0	BO095	215	0	guarda	guarda	_	_	_	_	_	linguistic	_	none	_	Begin=589.035	_	_	_	_
+ 215-1	BO095	215	1	siamo	siamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 215-2	BO095	215	2	sulla	sulla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1647,8 +1646,8 @@
+ 283-0	BO097	283	0	mamma	mamma	_	_	_	_	_	linguistic	_	none	_	Begin=734.001	_	_	_	_
+ 283-1	BO097	283	1	mia	mia	_	_	_	_	_	linguistic	_	none	_	End=734.588	_	_	_	_
+ 284-0	BO097	284	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=751.125	_	_	_	_
+-284-1	BO097	284	1	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
+-284-2	BO097	284	2	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++284-1	BO097	284	1	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
++284-2	BO097	284	2	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 284-3	BO097	284	3	andare	andare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 284-4	BO097	284	4	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 284-5	BO097	284	5	studiare	studiare	_	_	_	_	_	linguistic	_	none	_	End=752.722	_	_	_	_
+@@ -1663,7 +1662,7 @@
+ 287-0	BO097	287	0	chissà	chissà	_	_	_	_	_	linguistic	_	none	_	Begin=763.692	_	_	_	_
+ 287-1	BO097	287	1	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 287-2	BO097	287	2	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-287-3	BO097	287	3	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	End=765.181	_	_	_	_
++287-3	BO097	287	3	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	End=765.181	_	_	_	_
+ 288-0	BO095	288	0	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=766.692	_	_	_	_
+ 288-1	BO095	288	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 288-2	BO095	288	2	freddo	freddo	_	_	_	_	_	linguistic	_	none	_	End=767.374	_	_	_	_
+@@ -1707,7 +1706,7 @@
+ 294-3	BO095	294	3	sta	sta	_	_	_	_	_	linguistic	_	none	_	End=785.366	_	_	_	_
+ 295-0	BO097	295	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=785.405	_	_	_	_
+ 295-1	BO097	295	1	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-295-2	BO097	295	2	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	End=785.796	_	_	_	_
++295-2	BO097	295	2	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	End=785.796	_	_	_	_
+ 296-0	BO097	296	0	sì	sì	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=789.903	_	_	_	_
+ 296-1	BO097	296	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 296-2	BO097	296	2	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1753,10 +1752,10 @@
+ 305-0	BO097	305	0	è	è	_	_	_	_	_	linguistic	_	none	_	Begin=849.5	_	_	_	_
+ 305-1	BO097	305	1	comparsa	comparsa	_	_	_	_	_	linguistic	_	none	_	End=850.467	_	_	_	_
+ 306-0	BO095	306	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	none	_	Begin=850.656|End=851.17	_	_	_	_
+-307-0	BO097	307	0	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=851.407|End=852.718	_	_	_	_
++307-0	BO097	307	0	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=851.407|End=852.718	_	_	_	_
+ 308-0	BO095	308	0	ho	ho	_	_	_	_	_	linguistic	_	none	_	Begin=853.229	_	_	_	_
+ 308-1	BO095	308	1	capito	capito	_	_	_	_	_	linguistic	_	none	_	End=853.8	_	_	_	_
+-309-0	BO095	309	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=918.185	_	_	_	_
++309-0	BO095	309	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=918.185	_	_	_	_
+ 309-1	BO095	309	1	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 309-2	BO095	309	2	cosina?	cosina	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=919.133	_	_	_	_
+-310-0	BO097	310	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=919.425|End=919.982	_	_	_	_
++310-0	BO097	310	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=919.425|End=919.982	_	_	_	_

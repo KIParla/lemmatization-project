@@ -1,0 +1,48 @@
+--- a/tsv/BOA1012.vert.tsv
++++ b/tsv/BOA1012.vert.tsv
+@@ -4,7 +4,7 @@
+ 1-1	BO042	1	1	io	io	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
+ 1-2	BO042	1	2	sono::°	sono	_	_	_	_	_	linguistic	_	none	Volume=low	End=7.55	3x2	_	_	_
+ 2-0	BO042	2	0	°sono	sono	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=8.815	_	_	_	_
+-2-1	BO042	2	1	xxx	xxx	_	_	_	_	_	unknown	_	none	Volume=low|Syllables=3	_	_	_	_	_
++2-1	BO042	2	1	xxx	x	_	_	_	_	_	unknown	_	none	Volume=low|Syllables=3	_	_	_	_	_
+ 2-2	BO042	2	2	frequentante	frequentante	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
+ 2-3	BO042	2	3	di::°	di	_	_	_	_	_	linguistic	_	none	Volume=low	End=11.13	1x2	_	_	_
+ 3-0	BO042	3	0	di::	di	_	_	_	_	_	linguistic	_	none	_	Begin=11.86	1x2	_	_	_
+@@ -17,8 +17,7 @@
+ 3-7	BO042	3	7	e::	e	_	_	_	_	_	linguistic	_	none	_	End=14.04	0x2	_	_	_
+ 4-0	BO026	4	0	[mh]	mh	_	_	_	_	_	linguistic	_	none	_	Begin=13.065|End=13.38	_	_	_	0-2(0)
+ 5-0	BO042	5	0	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	Begin=14.565	_	_	_	_
+-5-1	BO042	5	1	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-5-2	BO042	5	2	due.	due	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=15.608	_	_	_	_
++5-1	BO042	5	1	elledue.	elledue	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=15.608	_	_	_	_
+ 6-0	BO042	6	0	e:	e	_	_	_	_	_	linguistic	_	none	_	Begin=16.204	0x1	_	_	_
+ 6-1	BO042	6	1	volevo	volevo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 6-2	BO042	6	2	chiedere	chiedere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -157,7 +156,7 @@
+ 32-1	BO026	32	1	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	0-4(9)
+ 32-2	BO026	32	2	or~	or~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	0-3(9)
+ 32-3	BO026	32	3	sempre	sempre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(9)
+-32-4	BO026	32	4	a]ll:	all	_	_	_	_	_	linguistic	_	none	_	_	2x1	_	_	0-1(9)
++32-4	BO026	32	4	a]ll~	all~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	2x1	_	_	0-1(9)
+ 32-5	BO026	32	5	sempre	sempre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 32-6	BO026	32	6	allo	allo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 32-7	BO026	32	7	scritto	scritto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -491,7 +490,7 @@
+ 90-1	BO042	90	1	mh°	mh	_	_	_	_	_	linguistic	_	none	Volume=low	End=202.082	_	_	_	_
+ 91-0	BO026	91	0	a	a	_	_	_	_	_	linguistic	_	none	_	Begin=202.306	_	_	_	_
+ 91-1	BO026	91	1	[posto].	posto	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=203.02	_	_	_	0-5(31)
+-92-0	BO042	92	0	[xxx]	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=202.435	_	_	_	0-3(31)
++92-0	BO042	92	0	[xxx]	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=202.435	_	_	_	0-3(31)
+ 92-1	BO042	92	1	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 92-2	BO042	92	2	penso	penso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 92-3	BO042	92	3	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -517,7 +516,7 @@
+ 94-7	BO026	94	7	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 94-8	BO026	94	8	sto	sto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 94-9	BO026	94	9	facendo	facendo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-94-10	BO026	94	10	prorio	prorio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++94-10	BO026	94	10	proprio	proprio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 94-11	BO026	94	11	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 94-12	BO026	94	12	lista:	lista	_	_	_	_	_	linguistic	_	none	_	_	4x1	_	_	_
+ 94-13	BO026	94	13	[apposta].	apposta	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=211.08	_	_	_	0-7(34)

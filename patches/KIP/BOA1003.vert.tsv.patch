@@ -1,0 +1,106 @@
+--- a/tsv/BOA1003.vert.tsv
++++ b/tsv/BOA1003.vert.tsv
+@@ -95,21 +95,21 @@
+ 17-4	BO026	17	4	lei,	lei	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=28.62	_	_	_	_
+ 18-0	BO026	18	0	[°alla:]	alla	_	_	_	_	_	linguistic	_	none	_	Begin=28.756|End=29.198	3x1	_	_	0-4(9)
+ 19-0	BO032	19	0	[e:	e	_	_	_	_	_	linguistic	_	none	_	Begin=28.758	0x1	_	_	0-1(9)
+-19-1	BO032	19	1	alla]	alla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(9)
+-19-2	BO032	19	2	ca'	ca'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+-19-3	BO032	19	3	foscari,	foscari	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-19-4	BO032	19	4	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-19-5	BO032	19	5	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-19-6	BO032	19	6	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-19-7	BO032	19	7	appunto	appunto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-19-8	BO032	19	8	(pao~)	pao~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	0-4(0)	_
+-19-9	BO032	19	9	pallotti,	pallotti	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-19-10	BO032	19	10	([va]goni),	vagoni	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	0-6(1)	0-2(10)
+-19-11	BO032	19	11	>e:	e	_	_	_	_	_	linguistic	_	none	_	_	0x1	Fast=0-1(0)	_	_
+-19-12	BO032	19	12	infatti	infatti	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-7(0)	_	_
+-19-13	BO032	19	13	alcuni<	alcuni	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-6(0)	_	_
+-19-14	BO032	19	14	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-19-15	BO032	19	15	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	End=34.31	_	_	_	_
++19-1	BO032	19	1	alla]	alla]	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(9)
++19-15	BO032	19	2	ca'	ca'	_	_	_	_	_	unknown	_	none	Syllables=4|Truncated=Yes	End=34.31	_	_	_	_
++19-2	BO032	19	3	foscari,	foscari	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++19-3	BO032	19	4	c'	c'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
++19-4	BO032	19	5	era	era	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++19-5	BO032	19	6	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++19-6	BO032	19	7	appunto	appunto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++19-7	BO032	19	8	(pao~)	pao~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
++19-8	BO032	19	9	pallotti,	pallotti	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	0-4(0)	_
++19-9	BO032	19	10	([va]goni),	vagoni	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++19-10	BO032	19	11	>e:	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-6(1)	0-2(10)
++19-11	BO032	19	12	infatti	infatti	_	_	_	_	_	linguistic	_	none	_	_	0x1	Fast=0-1(0)	_	_
++19-12	BO032	19	13	alcuni<	alcuni	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-7(0)	_	_
++19-13	BO032	19	14	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-6(0)	_	_
++19-14	BO032	19	15	xxxx	x	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 20-0	BO026	20	0	[sì].	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=31.826|End=32.003	_	_	_	0-2(10)
+ 21-0	BO032	21	0	e:	e	_	_	_	_	_	linguistic	_	none	_	Begin=35.134	0x1	_	_	_
+ 21-1	BO032	21	1	appunto	appunto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -253,12 +253,12 @@
+ 36-17	BO026	36	17	sceglie	sceglie	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-7(0)	_	0-7(19)
+ 36-18	BO026	36	18	uno]>,	uno	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=73.429	_	Slow=0-3(0)	_	0-3(19)
+ 37-0	BO032	37	0	[ne	ne	_	_	_	_	_	linguistic	_	none	_	Begin=72.991	_	_	_	0-2(19)
+-37-1	BO032	37	1	scelgo]uno	scelgouno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(19)
+-37-2	BO032	37	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-37-3	BO032	37	3	questi	questi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-37-4	BO032	37	4	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-37-5	BO032	37	5	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-37-6	BO032	37	6	sosti[tuisco],	sostituisco	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=74.812	_	_	_	5-11(20)
++37-1	BO032	37	1	di	uno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(19)
++37-2	BO032	37	2	questi	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++37-3	BO032	37	3	e	questi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++37-4	BO032	37	4	lo	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++37-5	BO032	37	5	sosti[tuisco],	lo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++37-6	BO032	37	6	_	sostituisco	_	_	_	_	_	linguistic	_	none	_	End=74.812	_	_	_	5-11(20)
+ 38-0	BO026	38	0	[entram]bi	entrambi	_	_	_	_	_	linguistic	_	none	_	Begin=74.496	_	_	_	0-6(20)
+ 38-1	BO026	38	1	riguardano	riguardano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 38-2	BO026	38	2	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+@@ -266,13 +266,12 @@
+ 38-4	BO026	38	4	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 38-5	BO026	38	5	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 38-6	BO026	38	6	studio	studio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-38-7	BO026	38	7	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-38-8	BO026	38	8	due	due	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-38-9	BO026	38	9	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-38-10	BO026	38	10	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-38-11	BO026	38	11	studio	studio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-38-12	BO026	38	12	delle	delle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-38-13	BO026	38	13	[(discipli]ne).	discipline	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=78.889	_	_	0-10(0)	0-8(21)
++38-7	BO026	38	7	elledue	elledue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++38-8	BO026	38	8	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++38-9	BO026	38	9	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++38-10	BO026	38	10	studio	studio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++38-11	BO026	38	11	delle	delle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++38-12	BO026	38	12	[(discipli]ne).	discipline	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=78.889	_	_	_	_
+ 39-0	BO032	39	0	[certo].	certo	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=78.398|End=78.781	_	_	_	0-5(21)
+ 40-0	BO032	40	0	certo.	certo	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=78.92|End=79.398	_	_	_	_
+ 41-0	BO032	41	0	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	Begin=79.486	_	_	_	_
+@@ -321,14 +320,14 @@
+ 45-20	BO032	45	20	appr]ofondim[ento]:	approfondimento	_	_	_	_	_	linguistic	_	none	_	_	14x1	_	_	0-4(26),10-15(23)
+ 45-21	BO032	45	21	metodologico.	metodologico	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=90.085	_	_	_	_
+ 46-0	BO026	46	0	[°sì.°]	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Volume=low	Begin=86.051|End=86.235	_	_	_	0-2(25)
+-47-0	BO026	47	0	[°sì.°]	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Volume=low	Begin=88.353|End=88.629	_	_	_	0-2(26)
+-48-0	BO026	48	0	[°sì.°]	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Volume=low	Begin=89.006|End=89.254	_	_	_	0-2(23)
+-49-0	BO026	49	0	sì.	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=90.22|End=90.521	_	_	_	_
++47-0	BO026	47	0	sì.	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=88.353|End=88.629	_	_	_	0-2(26)
++48-0	BO026	48	0	_	sì	_	_	_	_	_	linguistic	_	none	_	Begin=89.006|End=89.254	_	_	_	0-2(23)
++49-0	BO026	49	0	_	sì	_	_	_	_	_	linguistic	_	none	_	Begin=90.22|End=90.521	_	_	_	_
+ 50-0	BO032	50	0	okay.	okay	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=90.711|End=91.191	_	_	_	_
+ 51-0	BO026	51	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=91.19	_	_	_	_
+ 51-1	BO026	51	1	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 51-2	BO026	51	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-51-3	BO026	51	3	colloqui	colloqui	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++51-3	BO026	51	3	colloqui	colloquio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 51-4	BO026	51	4	consiste,	consiste	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
+ 51-5	BO026	51	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 51-6	BO026	51	6	così	così	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -374,7 +373,7 @@
+ 60-1	BO032	60	1	sì.	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+ 60-2	BO032	60	2	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 60-3	BO032	60	3	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-60-4	BO032	60	4	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
++60-4	BO032	60	4	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
+ 60-5	BO032	60	5	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 60-6	BO032	60	6	iscrivo	iscrivo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 60-7	BO032	60	7	regolarmente	regolarmente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

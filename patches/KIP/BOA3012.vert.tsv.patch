@@ -1,0 +1,291 @@
+--- a/tsv/BOA3012.vert.tsv
++++ b/tsv/BOA3012.vert.tsv
+@@ -45,7 +45,7 @@
+ 9-9	BO095	9	9	o?	o	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=32.83	_	_	_	_
+ 10-0	BO097	10	0	no	no	_	_	_	_	_	linguistic	_	none	_	Begin=33.532	_	_	_	_
+ 10-1	BO097	10	1	adesso	adesso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-10-2	BO097	10	2	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++10-2	BO097	10	2	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 10-3	BO097	10	3	ne	ne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 10-4	BO097	10	4	leggo	leggo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 10-5	BO097	10	5	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -96,7 +96,7 @@
+ 15-26	BO095	15	26	poesie	poesie	_	_	_	_	_	linguistic	_	none	_	End=71.942	_	_	_	_
+ 16-0	BO095	16	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=72.643	_	_	_	_
+ 16-1	BO095	16	1	qualche	qualche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-16-2	BO095	16	2	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	End=73.762	_	_	_	_
++16-2	BO095	16	2	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	End=73.762	_	_	_	_
+ 17-0	BO095	17	0	anche	anche	_	_	_	_	_	linguistic	_	none	_	Begin=74.809	_	_	_	_
+ 17-1	BO095	17	1	perché::	perché	_	_	_	_	_	linguistic	_	none	_	_	5x2	_	_	_
+ 17-2	BO095	17	2	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -170,20 +170,20 @@
+ 33-3	BO095	33	3	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 33-4	BO095	33	4	via	via	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 33-5	BO095	33	5	cartoleria	cartoleria	_	_	_	_	_	linguistic	_	none	_	End=107.35	_	_	_	_
+-34-0	BO095	34	0	[che	che	_	_	_	_	_	linguistic	_	none	_	Begin=107.744	_	_	_	0-3(3)
+-34-1	BO095	34	1	ce	ce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(3)
+-34-2	BO095	34	2	ne	ne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(3)
+-34-3	BO095	34	3	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(3)
+-34-4	BO095	34	4	due]	due	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(3)
+-34-5	BO095	34	5	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-34-6	BO095	34	6	accanto	accanto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-34-7	BO095	34	7	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-34-8	BO095	34	8	altra.	altra	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+-34-9	BO095	34	9	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-34-10	BO095	34	10	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-34-11	BO095	34	11	écrire	écrire	_	_	_	_	_	linguistic	_	none	_	End=110.35	_	_	_	_
+-35-0	BO097	35	0	[ah	ah	_	_	_	_	_	linguistic	_	none	_	Begin=107.744	_	_	_	0-2(3)
+-35-1	BO097	35	1	okay]	okay	_	_	_	_	_	linguistic	_	none	_	End=108.537	_	_	_	0-4(3)
++34-0	BO095	34	0	[ah	ah	_	_	_	_	_	linguistic	_	none	_	Begin=107.744	_	_	_	0-3(3)
++34-1	BO095	34	1	okay]	okay	_	_	_	_	_	linguistic	_	none	_	End=110.35	_	_	_	0-2(3)
++35-0	BO097	35	0	[che	che	_	_	_	_	_	linguistic	_	none	_	Begin=107.744	_	_	_	0-2(3)
++35-1	BO097	35	1	ce	ce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(3)
++35-2	BO095	35	2	ne	ne	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++35-3	BO095	35	3	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++35-4	BO095	35	4	due]	due	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++35-5	BO095	35	5	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++35-6	BO095	35	6	accanto	accanto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++35-7	BO095	35	7	all'	all'	_	_	_	_	_	linguistic	_	_	Truncated=Yes	_	_	_	_	_
++35-8	BO095	35	8	altra.	altra	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
++35-9	BO095	35	9	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++35-10	BO095	35	10	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++35-11	BO095	35	11	écrire	écrire	_	_	_	_	_	linguistic	_	_	_	End=108.537	_	_	_	_
+ 36-0	BO095	36	0	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=110.725	_	_	_	_
+ 36-1	BO095	36	1	altra	altra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 36-2	BO095	36	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -416,16 +416,16 @@
+ 74-1	BO095	74	1	me	me	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 74-2	BO095	74	2	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 74-3	BO095	74	3	ricordo	ricordo	_	_	_	_	_	linguistic	_	none	_	End=243.382	_	_	_	_
+-75-0	BO097	75	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=268.383	_	_	_	_
++75-0	BO097	75	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=268.383	_	_	_	_
+ 75-1	BO097	75	1	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-75-2	BO097	75	2	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	End=270.331	_	_	_	_
++75-2	BO097	75	2	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	End=270.331	_	_	_	_
+ 76-0	BO095	76	0	più	più	_	_	_	_	_	linguistic	_	none	_	Begin=271.673	_	_	_	_
+ 76-1	BO095	76	1	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 76-2	BO095	76	2	solito?	solito	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=272.54	_	_	_	_
+ 77-0	BO097	77	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=273.122	_	_	_	_
+ 77-1	BO097	77	1	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 77-2	BO097	77	2	so	so	_	_	_	_	_	linguistic	_	none	_	End=273.876	_	_	_	_
+-78-0	BO095	78	0	xxxxx	xxxxx	_	_	_	_	_	unknown	_	none	Syllables=5	Begin=279.19|End=280.736	_	_	_	_
++78-0	BO095	78	0	xxxxx	x	_	_	_	_	_	unknown	_	none	Syllables=5	Begin=279.19|End=280.736	_	_	_	_
+ 79-0	BO095	79	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=282.672|End=283.175	_	_	_	_
+ 80-0	BO097	80	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=282.672|End=283.175	_	_	_	_
+ 81-0	BO097	81	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=284.754	_	_	_	_
+@@ -443,12 +443,12 @@
+ 83-4	BO095	83	4	quanto	quanto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 83-5	BO095	83	5	freddo	freddo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 83-6	BO095	83	6	fa	fa	_	_	_	_	_	linguistic	_	none	_	End=368.025	_	_	_	_
+-84-0	BO097	84	0	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=368.666|End=370.131	_	_	_	_
++84-0	BO097	84	0	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=368.666|End=370.131	_	_	_	_
+ 85-0	BO095	85	0	o::kay	okay	_	_	_	_	_	linguistic	_	none	_	Begin=381.6|End=382.257	0x2	_	_	_
+ 86-0	BO095	86	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=383.643	_	_	_	_
+ 86-1	BO095	86	1	voglio	voglio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 86-2	BO095	86	2	sconvolgerti	sconvolgerti	_	_	_	_	_	linguistic	_	none	_	End=384.837	_	_	_	_
+-87-0	BO097	87	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=389.056|End=389.712	_	_	_	_
++87-0	BO097	87	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=389.056|End=389.712	_	_	_	_
+ 88-0	BO095	88	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=390.175	_	_	_	_
+ 88-1	BO095	88	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	End=390.75	_	_	_	_
+ 89-0	BO095	89	0	io	io	_	_	_	_	_	linguistic	_	none	_	Begin=394.181	_	_	_	_
+@@ -515,7 +515,7 @@
+ 96-7	BO095	96	7	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(12)
+ 96-8	BO095	96	8	cose	cose	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(12)
+ 96-9	BO095	96	9	adatte	adatte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(12)
+-96-10	BO095	96	10	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	0-2(12)
++96-10	BO095	96	10	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	0-2(12)
+ 96-11	BO095	96	11	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(12)
+ 96-12	BO095	96	12	po']	po'	_	_	_	_	_	linguistic	_	none	_	End=418.718	_	_	_	0-3(12)
+ 97-0	BO097	97	0	[no	no	_	_	_	_	_	linguistic	_	none	_	Begin=416.731	_	_	_	0-2(12)
+@@ -523,11 +523,11 @@
+ 97-2	BO097	97	2	son	son	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(12)
+ 97-3	BO097	97	3	d'	d'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	0-2(12)
+ 97-4	BO097	97	4	accordo]	accordo	_	_	_	_	_	linguistic	_	none	_	End=418.707	_	_	_	0-7(12)
+-98-0	BO095	98	0	xxxxx	xxxxx	_	_	_	_	_	unknown	_	none	Syllables=5	Begin=419.503|End=420.15	_	_	_	_
++98-0	BO095	98	0	xxxxx	x	_	_	_	_	_	unknown	_	none	Syllables=5	Begin=419.503|End=420.15	_	_	_	_
+ 99-0	BO097	99	0	tu	tu	_	_	_	_	_	linguistic	_	none	_	Begin=425.168	_	_	_	_
+ 99-1	BO097	99	1	hai	hai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 99-2	BO097	99	2	letto	letto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-99-3	BO097	99	3	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	End=426.843	_	_	_	_
++99-3	BO097	99	3	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	End=426.843	_	_	_	_
+ 100-0	BO095	100	0	mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=426.879	_	_	_	_
+ 100-1	BO095	100	1	mh,	mh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=427.235	_	_	_	_
+ 101-0	BO097	101	0	io	io	_	_	_	_	_	linguistic	_	none	_	Begin=427.585	_	_	_	_
+@@ -536,7 +536,7 @@
+ 101-3	BO097	101	3	paciugo	paciugo	_	_	_	_	_	linguistic	_	none	_	End=428.719	_	_	_	_
+ 102-0	BO095	102	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=428.923|End=429.365	_	_	_	_
+ 103-0	BO095	103	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=429.943|End=430.514	_	_	_	_
+-104-0	BO097	104	0	x[xx]	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=431.006|End=431.92	_	_	_	1-3(13)
++104-0	BO097	104	0	x[xx]	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=431.006|End=431.92	_	_	_	1-3(13)
+ 105-0	BO095	105	0	[uno]	uno	_	_	_	_	_	linguistic	_	none	_	Begin=431.237	_	_	_	0-3(13)
+ 105-1	BO095	105	1	scambio	scambio	_	_	_	_	_	linguistic	_	none	_	End=432.163	_	_	_	_
+ 106-0	BO097	106	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=432.318	_	_	_	_
+@@ -618,7 +618,7 @@
+ 122-6	BO097	122	6	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 122-7	BO097	122	7	fai	fai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 122-8	BO097	122	8	ciaf	ciaf	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-122-9	BO097	122	9	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	End=477.631	_	_	_	_
++122-9	BO097	122	9	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	End=477.631	_	_	_	_
+ 123-0	BO095	123	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=477.631	_	_	_	_
+ 123-1	BO095	123	1	fai	fai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 123-2	BO095	123	2	ciaf	ciaf	_	_	_	_	_	linguistic	_	none	_	End=478.437	_	_	_	_
+@@ -637,8 +637,8 @@
+ 125-5	BO097	125	5	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 125-6	BO097	125	6	paciugo	paciugo	_	_	_	_	_	linguistic	_	none	_	End=485.256	_	_	_	_
+ 126-0	BO095	126	0	capito	capito	_	_	_	_	_	linguistic	_	none	_	Begin=485.978|End=486.494	_	_	_	_
+-127-0	BO095	127	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=488.521	_	_	_	_
+-127-1	BO095	127	1	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
++127-0	BO095	127	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=488.521	_	_	_	_
++127-1	BO095	127	1	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
+ 127-2	BO095	127	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 127-3	BO095	127	3	proprio::	proprio	_	_	_	_	_	linguistic	_	none	_	End=490.475	6x2	_	_	_
+ 128-0	BO095	128	0	problematico	problematico	_	_	_	_	_	linguistic	_	none	_	Begin=493.551	_	_	_	_
+@@ -657,7 +657,7 @@
+ 130-9	BO095	130	9	stressa	stressa	_	_	_	_	_	linguistic	_	none	_	End=500.81	_	_	_	_
+ 131-0	BO095	131	0	e:::	e	_	_	_	_	_	linguistic	_	none	_	Begin=504.874	0x3	_	_	_
+ 131-1	BO095	131	1	camurria	camurria	_	_	_	_	_	linguistic	_	none	_	End=505.925	_	_	_	_
+-132-0	BO095	132	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=522.424	_	_	_	_
++132-0	BO095	132	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=522.424	_	_	_	_
+ 132-1	BO095	132	1	aspettare	aspettare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 132-2	BO095	132	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 132-3	BO095	132	3	tempo	tempo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -736,7 +736,7 @@
+ 141-13	BO095	141	13	for[se]	forse	_	_	_	_	_	linguistic	_	none	_	End=557.831	_	_	_	3-5(1)
+ 142-0	BO097	142	0	[sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=555.972	_	_	_	0-2(0)
+ 142-1	BO097	142	1	sì]	sì	_	_	_	_	_	linguistic	_	none	_	End=556.462	_	_	_	0-2(0)
+-143-0	BO097	143	0	[x]xx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=557.378	_	_	_	0-1(1)
++143-0	BO097	143	0	[x]xx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=557.378	_	_	_	0-1(1)
+ 143-1	BO097	143	1	biologico	biologico	_	_	_	_	_	linguistic	_	none	_	End=558.469	_	_	_	_
+ 144-0	BO097	144	0	no	no	_	_	_	_	_	linguistic	_	none	_	Begin=559.996	_	_	_	_
+ 144-1	BO097	144	1	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -760,7 +760,7 @@
+ 147-0	BO097	147	0	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=571.514	_	_	_	_
+ 147-1	BO097	147	1	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 147-2	BO097	147	2	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-147-3	BO097	147	3	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++147-3	BO097	147	3	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 147-4	BO097	147	4	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 147-5	BO097	147	5	mattina	mattina	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 147-6	BO097	147	6	e::h	eh	_	_	_	_	_	linguistic	_	none	_	End=574.306	0x2	_	_	_
+@@ -780,7 +780,7 @@
+ 148-13	BO097	148	13	devo	devo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 148-14	BO097	148	14	mangiare	mangiare	_	_	_	_	_	linguistic	_	none	_	End=581.118	_	_	_	_
+ 149-0	BO097	149	0	poi	poi	_	_	_	_	_	linguistic	_	none	_	Begin=582.878	_	_	_	_
+-149-1	BO097	149	1	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
++149-1	BO097	149	1	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
+ 149-2	BO097	149	2	neanche	neanche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 149-3	BO097	149	3	fame	fame	_	_	_	_	_	linguistic	_	none	_	End=585.137	_	_	_	_
+ 150-0	BO097	150	0	uh	uh	_	_	_	_	_	linguistic	_	none	_	Begin=585.86	_	_	_	_
+@@ -847,7 +847,7 @@
+ 161-4	BO095	161	4	latte	latte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 161-5	BO095	161	5	bollito?	bollito	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=682.668	_	_	_	_
+ 162-0	BO097	162	0	boh	boh	_	_	_	_	_	linguistic	_	none	_	Begin=683.503	_	_	_	_
+-162-1	BO097	162	1	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	End=685.256	_	_	_	_
++162-1	BO097	162	1	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	End=685.256	_	_	_	_
+ 163-0	BO097	163	0	se	se	_	_	_	_	_	linguistic	_	none	_	Begin=690.182	_	_	_	_
+ 163-1	BO097	163	1	vuoi	vuoi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 163-2	BO097	163	2	assaggiarlo	assaggiarlo	_	_	_	_	_	linguistic	_	none	_	End=691.368	_	_	_	_
+@@ -855,7 +855,7 @@
+ 164-1	BO095	164	1	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 164-2	BO095	164	2	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 164-3	BO095	164	3	grazie	grazie	_	_	_	_	_	linguistic	_	none	_	End=692.812	_	_	_	_
+-165-0	BO095	165	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=694.956	_	_	_	_
++165-0	BO095	165	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=694.956	_	_	_	_
+ 165-1	BO095	165	1	quando	quando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 165-2	BO095	165	2	fa	fa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 165-3	BO095	165	3	quella	quella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -889,8 +889,8 @@
+ 169-3	BO095	169	3	miei	miei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 169-4	BO095	169	4	parenti	parenti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 169-5	BO095	169	5	su	su	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-169-6	BO095	169	6	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
+-169-7	BO095	169	7	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	End=758.987	_	_	_	_
++169-6	BO095	169	6	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
++169-7	BO095	169	7	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	End=758.987	_	_	_	_
+ 170-0	BO095	170	0	siccome::	siccome	_	_	_	_	_	linguistic	_	none	_	Begin=759.668	6x2	_	_	_
+ 170-1	BO095	170	1	parto	parto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 170-2	BO095	170	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -948,7 +948,7 @@
+ 181-3	BO095	181	3	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 181-4	BO095	181	4	devi	devi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 181-5	BO095	181	5	aspettare	aspettare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-181-6	BO095	181	6	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
++181-6	BO095	181	6	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	_	_	_	_	_
+ 181-7	BO095	181	7	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 181-8	BO095	181	8	comunque	comunque	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 181-9	BO095	181	9	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+@@ -1019,7 +1019,7 @@
+ 190-9	BO095	190	9	ed	ed	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 190-10	BO095	190	10	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 190-11	BO095	190	11	uguale	uguale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-190-12	BO095	190	12	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++190-12	BO095	190	12	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+ 190-13	BO095	190	13	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 190-14	BO095	190	14	quella	quella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 190-15	BO095	190	15	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1103,7 +1103,7 @@
+ 200-3	BO097	200	3	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 200-4	BO097	200	4	tanto	tanto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 200-5	BO097	200	5	grossa,	grossa	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=854.76	_	_	_	_
+-201-0	BO095	201	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=855.616	_	_	_	_
++201-0	BO095	201	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=855.616	_	_	_	_
+ 201-1	BO095	201	1	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 201-2	BO095	201	2	valigia	valigia	_	_	_	_	_	linguistic	_	none	_	End=857.418	_	_	_	_
+ 202-0	BO097	202	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=857.418	_	_	_	_
+@@ -1168,7 +1168,7 @@
+ 209-10	BO095	209	10	insomma	insomma	_	_	_	_	_	linguistic	_	none	_	End=878.831	_	_	_	_
+ 210-0	BO097	210	0	vabbè	vabbè	_	_	_	_	_	linguistic	_	none	_	Begin=879.37	_	_	_	_
+ 210-1	BO097	210	1	[se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(9)
+-210-2	BO097	210	2	xx]	xx	_	_	_	_	_	unknown	_	none	Syllables=2	End=880.181	_	_	_	0-2(9)
++210-2	BO097	210	2	xx]	x	_	_	_	_	_	unknown	_	none	Syllables=2	End=880.181	_	_	_	0-2(9)
+ 211-0	BO095	211	0	[cose]	cose	_	_	_	_	_	linguistic	_	none	_	Begin=879.791	_	_	_	0-4(9)
+ 211-1	BO095	211	1	così	così	_	_	_	_	_	linguistic	_	none	_	End=880.54	_	_	_	_
+ 212-0	BO097	212	0	se	se	_	_	_	_	_	linguistic	_	none	_	Begin=881.031	_	_	_	_
+@@ -1203,13 +1203,13 @@
+ 214-10	BO097	214	10	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 214-11	BO097	214	11	stiva	stiva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 214-12	BO097	214	12	le::	le	_	_	_	_	_	linguistic	_	none	_	End=890.55	1x2	_	_	_
+-215-0	BO095	215	0	[non	non	_	_	_	_	_	linguistic	_	none	_	Begin=891.6	_	_	_	0-3(10)
+-215-1	BO095	215	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(10)
+-215-2	BO095	215	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(10)
+-215-3	BO095	215	3	ma]ssimo	massimo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(10)
+-215-4	BO095	215	4	però	però	_	_	_	_	_	linguistic	_	none	_	End=892.668	_	_	_	_
+-216-0	BO097	216	0	[tiri	tiri	_	_	_	_	_	linguistic	_	none	_	Begin=891.6	_	_	_	0-4(10)
+-216-1	BO097	216	1	fuori]	fuori	_	_	_	_	_	linguistic	_	none	_	End=892.396	_	_	_	0-5(10)
++215-0	BO095	215	0	[tiri	tiri	_	_	_	_	_	linguistic	_	none	_	Begin=891.6	_	_	_	0-3(10)
++215-1	BO095	215	1	fuori]	fuori	_	_	_	_	_	linguistic	_	none	_	End=892.668	_	_	_	0-1(10)
++216-0	BO097	216	0	[non	non	_	_	_	_	_	linguistic	_	none	_	Begin=891.6	_	_	_	0-4(10)
++216-1	BO097	216	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(10)
++216-2	BO095	216	2	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++216-3	BO095	216	3	ma]ssimo	massimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++216-4	BO095	216	4	però	però	_	_	_	_	_	linguistic	_	_	_	End=892.396	_	_	_	_
+ 217-0	BO097	217	0	no::	no	_	_	_	_	_	linguistic	_	none	_	Begin=892.95	1x2	_	_	_
+ 217-1	BO097	217	1	te	te	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 217-2	BO097	217	2	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1243,7 +1243,7 @@
+ 223-3	BO097	223	3	quel	quel	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 223-4	BO097	223	4	punto	punto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 223-5	BO097	223	5	non	non	_	_	_	_	_	linguistic	_	none	_	End=903.925	_	_	_	_
+-224-0	BO095	224	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=903.937	_	_	_	_
++224-0	BO095	224	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=903.937	_	_	_	_
+ 224-1	BO095	224	1	qualcosa	qualcosa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 224-2	BO095	224	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 224-3	BO095	224	3	chat	chat	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1284,7 +1284,7 @@
+ 227-7	BO097	227	7	mano	mano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 227-8	BO097	227	8	forse	forse	_	_	_	_	_	linguistic	_	none	_	End=916.193	_	_	_	_
+ 228-0	BO097	228	0	boh	boh	_	_	_	_	_	linguistic	_	none	_	Begin=917.879|End=918.252	_	_	_	_
+-229-0	BO095	229	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=920.818	_	_	_	_
++229-0	BO095	229	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=920.818	_	_	_	_
+ 229-1	BO095	229	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 229-2	BO095	229	2	strano	strano	_	_	_	_	_	linguistic	_	none	_	End=922.006	_	_	_	_
+ 230-0	BO095	230	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=923.647	_	_	_	_
+@@ -1330,7 +1330,7 @@
+ 235-6	BO097	235	6	alla	alla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 235-7	BO097	235	7	fine	fine	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+ 235-8	BO097	235	8	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-235-9	BO097	235	9	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
++235-9	BO097	235	9	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
+ 235-10	BO097	235	10	bagaglio	bagaglio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 235-11	BO097	235	11	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 235-12	BO097	235	12	mano	mano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

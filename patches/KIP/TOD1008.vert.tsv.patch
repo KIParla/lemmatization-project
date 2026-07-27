@@ -1,0 +1,624 @@
+--- a/tsv/TOD1008.vert.tsv
++++ b/tsv/TOD1008.vert.tsv
+@@ -21,7 +21,7 @@
+ 6-1	TO062	6	1	qualcuno	qualcuno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 6-2	TO062	6	2	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 6-3	TO062	6	3	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-6-4	TO062	6	4	gia	gia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++6-4	TO062	6	4	già	già	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 6-5	TO062	6	5	incontrato	incontrato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 6-6	TO062	6	6	al	al	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 6-7	TO062	6	7	laboratorio	laboratorio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -79,11 +79,11 @@
+ 16-7	TO062	16	7	laurea,	laurea	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=53.956	_	_	_	_
+ 17-0	TO062	17	0	e:	e	_	_	_	_	_	linguistic	_	none	_	Begin=54.656	0x1	_	_	_
+ 17-1	TO062	17	1	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-17-2	TO062	17	2	erasmus,	erasmus	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++17-2	TO062	17	2	erasmus,	erasmus	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|Lang=eng	_	_	_	_	_
+ 17-3	TO062	17	3	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 17-4	TO062	17	4	studenti	studenti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 17-5	TO062	17	5	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-17-6	TO062	17	6	erasmus	erasmus	_	_	_	_	_	linguistic	_	none	_	End=57.209	_	_	_	_
++17-6	TO062	17	6	erasmus	erasmus	_	_	_	_	_	linguistic	_	none	Lang=eng	End=57.209	_	_	_	_
+ 18-0	TO062	18	0	in	in	_	_	_	_	_	linguistic	_	none	_	Begin=57.219	_	_	_	_
+ 18-1	TO062	18	1	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 18-2	TO062	18	2	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -863,9 +863,9 @@
+ 186-7	TO062	186	7	petrarca	petrarca	_	_	_	_	_	linguistic	_	none	_	End=453.761	_	_	_	_
+ 187-0	TO062	187	0	anzi	anzi	_	_	_	_	_	linguistic	_	none	_	Begin=455.152	_	_	_	_
+ 187-1	TO062	187	1	dei	dei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-187-2	TO062	187	2	rerum	rerum	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-187-3	TO062	187	3	vulgarium	vulgarium	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-187-4	TO062	187	4	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	_	End=457.569	_	_	_	_
++187-2	TO062	187	2	rerum	rerum	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++187-3	TO062	187	3	vulgarium	vulgarium	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++187-4	TO062	187	4	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	Lang=lat	End=457.569	_	_	_	_
+ 188-0	TO062	188	0	sulla	sulla	_	_	_	_	_	linguistic	_	none	_	Begin=457.964	_	_	_	_
+ 188-1	TO062	188	1	base	base	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 188-2	TO062	188	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1225,13 +1225,13 @@
+ 256-0	TO062	256	0	nella	nella	_	_	_	_	_	linguistic	_	none	_	Begin=631.992	_	_	_	_
+ 256-1	TO062	256	1	finzione	finzione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 256-2	TO062	256	2	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-256-3	TO062	256	3	vita	vita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-256-4	TO062	256	4	nova	nova	_	_	_	_	_	linguistic	_	none	_	End=633.58	_	_	_	_
++256-3	TO062	256	3	vita	vita	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++256-4	TO062	256	4	nova	nova	_	_	_	_	_	linguistic	_	none	Lang=lat	End=633.58	_	_	_	_
+ 257-0	TO062	257	0	eh,	eh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=633.751|End=634.021	_	_	_	_
+ 258-0	TO062	258	0	nel	nel	_	_	_	_	_	linguistic	_	none	_	Begin=634.051	_	_	_	_
+ 258-1	TO062	258	1	racconto	racconto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 258-2	TO062	258	2	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-258-3	TO062	258	3	vita	vita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++258-3	TO062	258	3	vita	vita	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
+ 258-4	TO062	258	4	nova.	nova	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=635.238	_	_	_	_
+ 259-0	TO062	259	0	dante	dante	_	_	_	_	_	linguistic	_	none	_	Begin=636.065	_	_	_	_
+ 259-1	TO062	259	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1277,9 +1277,9 @@
+ 270-0	TO062	270	0	ne:l	nel	_	_	_	_	_	linguistic	_	none	_	Begin=657.382	1x1	_	_	_
+ 270-1	TO062	270	1	canzoniere	canzoniere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 270-2	TO062	270	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-270-3	TO062	270	3	>rerum	rerum	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-5(0)	_	_
+-270-4	TO062	270	4	vulgarum<	vulgarum	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-8(0)	_	_
+-270-5	TO062	270	5	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	_	End=660.388	_	_	_	_
++270-3	TO062	270	3	>rerum	rerum	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	Fast=0-5(0)	_	_
++270-4	TO062	270	4	vulgarum<	vulgarum	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	Fast=0-8(0)	_	_
++270-5	TO062	270	5	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	Lang=lat	End=660.388	_	_	_	_
+ 271-0	TO062	271	0	chi	chi	_	_	_	_	_	linguistic	_	none	_	Begin=660.816	_	_	_	_
+ 271-1	TO062	271	1	dice	dice	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 271-2	TO062	271	2	i:o,	io	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=661.963	0x1	_	_	_
+@@ -1530,8 +1530,8 @@
+ 309-9	TO062	309	9	libraria.	libraria	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=770.056	_	_	_	_
+ 310-0	TO062	310	0	adesso,	adesso	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=770.464|End=771.054	_	_	_	_
+ 311-0	TO062	311	0	da	da	_	_	_	_	_	linguistic	_	none	_	Begin=771.182	_	_	_	_
+-311-1	TO062	311	1	google	google	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-311-2	TO062	311	2	books	books	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++311-1	TO062	311	1	google	google	_	_	_	_	_	linguistic	_	none	Lang=eng	_	_	_	_	_
++311-2	TO062	311	2	books	books	_	_	_	_	_	linguistic	_	none	Lang=eng	_	_	_	_	_
+ 311-3	TO062	311	3	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 311-4	TO062	311	4	fatto	fatto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 311-5	TO062	311	5	un'	un'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+@@ -1753,7 +1753,7 @@
+ 353-3	TO062	353	3	po'	po'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 353-4	TO062	353	4	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 353-5	TO062	353	5	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-353-6	TO062	353	6	fi:le	file	_	_	_	_	_	linguistic	_	none	_	End=864.46	1x1	_	_	_
++353-6	TO062	353	6	fi:le	file	_	_	_	_	_	linguistic	_	none	Lang=eng	End=864.46	1x1	_	_	_
+ 354-0	TO062	354	0	beh	beh	_	_	_	_	_	linguistic	_	none	_	Begin=864.486	_	_	_	_
+ 354-1	TO062	354	1	dipende	dipende	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 354-2	TO062	354	2	dal	dal	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+@@ -1764,7 +1764,7 @@
+ 355-1	TO062	355	1	collegamenti,	collegamenti	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=868.316	_	_	_	_
+ 356-0	TO062	356	0	però	però	_	_	_	_	_	linguistic	_	none	_	Begin=868.336	_	_	_	_
+ 356-1	TO062	356	1	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-356-2	TO062	356	2	file	file	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++356-2	TO062	356	2	file	file	_	_	_	_	_	linguistic	_	none	Lang=eng	_	_	_	_	_
+ 356-3	TO062	356	3	molto	molto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 356-4	TO062	356	4	grossi,	grossi	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 356-5	TO062	356	5	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2062,13 +2062,13 @@
+ 416-5	TO062	416	5	nostro	nostro	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-6(0)	_	_
+ 416-6	TO062	416	6	tremilacentonovantacinque<	tremilacentonovantacinque	_	_	_	_	_	linguistic	_	none	_	End=1024.951	_	Fast=0-25(0)	_	_
+ 417-0	TO062	417	0	leggiamo	leggiamo	_	_	_	_	_	linguistic	_	none	_	Begin=1025.204|End=1025.847	_	_	_	_
+-418-0	TO062	418	0	<francisci>	francisci	_	_	_	_	_	linguistic	_	none	_	Begin=1026.429|End=1027.693	_	Slow=0-9(0)	_	_
+-419-0	TO062	419	0	petrarchae	petrarchae	_	_	_	_	_	linguistic	_	none	_	Begin=1028.4|End=1029.435	_	_	_	_
+-420-0	TO062	420	0	laureati	laureati	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=1030.31	_	_	_	_
++418-0	TO062	418	0	<francisci>	francisci	_	_	_	_	_	linguistic	_	none	Lang=lat	Begin=1026.429|End=1027.693	_	Slow=0-9(0)	_	_
++419-0	TO062	419	0	petrarchae	petrarchae	_	_	_	_	_	linguistic	_	none	Lang=lat	Begin=1028.4|End=1029.435	_	_	_	_
++420-0	TO062	420	0	laureati	laureati	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes|Lang=lat	Begin=1030.31	_	_	_	_
+ 420-1	TO062	420	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-420-2	TO062	420	2	poetae	poetae	_	_	_	_	_	linguistic	_	none	_	End=1032.626	_	_	_	_
+-421-0	TO062	421	0	rerum	rerum	_	_	_	_	_	linguistic	_	none	_	Begin=1033.49	_	_	_	_
+-421-1	TO062	421	1	vulgarium	vulgarium	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++420-2	TO062	420	2	poetae	poetae	_	_	_	_	_	linguistic	_	none	Lang=lat	End=1032.626	_	_	_	_
++421-0	TO062	421	0	rerum	rerum	_	_	_	_	_	linguistic	_	none	Lang=lat	Begin=1033.49	_	_	_	_
++421-1	TO062	421	1	vulgarium	vulgarium	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
+ 421-2	TO062	421	2	fragmenta.	fragmenta	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1035.608	_	_	_	_
+ 422-0	TO062	422	0	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1036.512	_	_	_	_
+ 422-1	TO062	422	1	prima	prima	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2084,9 +2084,9 @@
+ 424-3	TO062	424	3	petra:rca	petrarca	_	_	_	_	_	linguistic	_	none	_	End=1041.681	4x1	_	_	_
+ 425-0	TO062	425	0	poe:ta	poeta	_	_	_	_	_	linguistic	_	none	_	Begin=1042.164	2x1	_	_	_
+ 425-1	TO062	425	1	laurea:to	laureato	_	_	_	_	_	linguistic	_	none	_	End=1043.502	5x1	_	_	_
+-426-0	TO062	426	0	rerum	rerum	_	_	_	_	_	linguistic	_	none	_	Begin=1044.636	_	_	_	_
+-426-1	TO062	426	1	vulgarium	vulgarium	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-426-2	TO062	426	2	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	_	End=1046.363	_	_	_	_
++426-0	TO062	426	0	rerum	rerum	_	_	_	_	_	linguistic	_	none	Lang=lat	Begin=1044.636	_	_	_	_
++426-1	TO062	426	1	vulgarium	vulgarium	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++426-2	TO062	426	2	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	Lang=lat	End=1046.363	_	_	_	_
+ 427-0	TO062	427	0	frammenti	frammenti	_	_	_	_	_	linguistic	_	none	_	Begin=1046.439	_	_	_	_
+ 427-1	TO062	427	1	delle	delle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 427-2	TO062	427	2	cose	cose	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2098,7 +2098,7 @@
+ 427-8	TO062	427	8	in	in	_	_	_	_	_	linguistic	_	none	_	End=1049.392	_	_	_	_
+ 428-0	TO062	428	0	nominativo,	nominativo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=1049.938	_	_	_	_
+ 428-1	TO062	428	1	plurale,	plurale	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-428-2	TO062	428	2	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	_	End=1052.278	_	_	_	_
++428-2	TO062	428	2	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	Lang=lat	End=1052.278	_	_	_	_
+ 429-0	TO062	429	0	attenzione	attenzione	_	_	_	_	_	linguistic	_	none	_	Begin=1052.535|End=1053.499	_	_	_	_
+ 430-0	TO062	430	0	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=1054.545	_	_	_	_
+ 430-1	TO062	430	1	unico	unico	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2116,9 +2116,9 @@
+ 431-0	TO062	431	0	i.	i	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=1058.951|End=1059.244	_	_	_	_
+ 432-0	TO062	432	0	i	i	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=1059.957	_	_	_	_
+ 432-1	TO062	432	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-432-2	TO062	432	2	rerum	rerum	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-432-3	TO062	432	3	vulgarium	vulgarium	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-432-4	TO062	432	4	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	_	End=1062.097	_	_	_	_
++432-2	TO062	432	2	rerum	rerum	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++432-3	TO062	432	3	vulgarium	vulgarium	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++432-4	TO062	432	4	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	Lang=lat	End=1062.097	_	_	_	_
+ 433-0	TO062	433	0	perché	perché	_	_	_	_	_	linguistic	_	none	_	Begin=1062.189	_	_	_	_
+ 433-1	TO062	433	1	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 433-2	TO062	433	2	neutro	neutro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2139,9 +2139,9 @@
+ 435-2	TO062	435	2	dite	dite	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+ 435-3	TO062	435	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 435-4	TO062	435	4	il::	il	_	_	_	_	_	linguistic	_	none	_	End=1069.158	1x2	_	_	_
+-436-0	TO062	436	0	rerum	rerum	_	_	_	_	_	linguistic	_	none	_	Begin=1070.021	_	_	_	_
+-436-1	TO062	436	1	vulgarium	vulgarium	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-436-2	TO062	436	2	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	_	End=1071.381	_	_	_	_
++436-0	TO062	436	0	rerum	rerum	_	_	_	_	_	linguistic	_	none	Lang=lat	Begin=1070.021	_	_	_	_
++436-1	TO062	436	1	vulgarium	vulgarium	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++436-2	TO062	436	2	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	Lang=lat	End=1071.381	_	_	_	_
+ 437-0	TO062	437	0	intendendo	intendendo	_	_	_	_	_	linguistic	_	none	_	Begin=1071.587	_	_	_	_
+ 437-1	TO062	437	1	il:	il	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
+ 437-2	TO062	437	2	canzoniere	canzoniere	_	_	_	_	_	linguistic	_	none	_	End=1073.151	_	_	_	_
+@@ -2161,9 +2161,9 @@
+ 441-1	TO062	441	1	sostantivo,	sostantivo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1079.972	_	_	_	_
+ 442-0	TO062	442	0	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	Begin=1080.142	_	_	_	_
+ 442-1	TO062	442	1	i:	i	_	_	_	_	_	linguistic	_	none	_	End=1080.942	0x1	_	_	_
+-443-0	TO062	443	0	rerum	rerum	_	_	_	_	_	linguistic	_	none	_	Begin=1081.463	_	_	_	_
+-443-1	TO062	443	1	vulgarium	vulgarium	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-443-2	TO062	443	2	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	_	End=1083.366	_	_	_	_
++443-0	TO062	443	0	rerum	rerum	_	_	_	_	_	linguistic	_	none	Lang=lat	Begin=1081.463	_	_	_	_
++443-1	TO062	443	1	vulgarium	vulgarium	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++443-2	TO062	443	2	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	Lang=lat	End=1083.366	_	_	_	_
+ 444-0	TO062	444	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1083.786	_	_	_	_
+ 444-1	TO062	444	1	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 444-2	TO062	444	2	frammenti:	frammenti	_	_	_	_	_	linguistic	_	none	_	_	8x1	_	_	_
+@@ -2191,11 +2191,11 @@
+ 447-2	TO062	447	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 447-3	TO062	447	3	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 447-4	TO062	447	4	francesco?	francesco	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=1093.699	_	_	_	_
+-448-0	TO062	448	0	francisci	francisci	_	_	_	_	_	linguistic	_	none	_	Begin=1093.738	_	_	_	_
+-448-1	TO062	448	1	petrarchae	petrarchae	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++448-0	TO062	448	0	francisci	francisci	_	_	_	_	_	linguistic	_	none	Lang=lat	Begin=1093.738	_	_	_	_
++448-1	TO062	448	1	petrarchae	petrarchae	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
+ 448-2	TO062	448	2	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-448-3	TO062	448	3	laureati	laureati	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-448-4	TO062	448	4	poetae	poetae	_	_	_	_	_	linguistic	_	none	_	End=1095.785	_	_	_	_
++448-3	TO062	448	3	laureati	laureati	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++448-4	TO062	448	4	poetae	poetae	_	_	_	_	_	linguistic	_	none	Lang=lat	End=1095.785	_	_	_	_
+ 449-0	TO062	449	0	è	è	_	_	_	_	_	linguistic	_	none	_	Begin=1096.718	_	_	_	_
+ 449-1	TO062	449	1	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 449-2	TO062	449	2	auto::re	autore	_	_	_	_	_	linguistic	_	none	_	End=1097.955	3x2	_	_	_
+@@ -2513,7 +2513,7 @@
+ 506-1	TO062	506	1	ai	ai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 506-2	TO062	506	2	sonetti	sonetti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 506-3	TO062	506	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-506-4	TO062	506	4	shakespeare,	shakespeare	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1246.989	_	_	_	_
++506-4	TO062	506	4	shakespeare,	shakespeare	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|Lang=eng	End=1246.989	_	_	_	_
+ 507-0	TO062	507	0	pensate	pensate	_	_	_	_	_	linguistic	_	none	_	Begin=1247.827	_	_	_	_
+ 507-1	TO062	507	1	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 507-2	TO062	507	2	tutta	tutta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3098,8 +3098,8 @@
+ 618-6	TO062	618	6	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 618-7	TO062	618	7	americani	americani	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 618-8	TO062	618	8	chiamano	chiamano	_	_	_	_	_	linguistic	_	none	_	End=1497.013	_	_	_	_
+-619-0	TO062	619	0	retrival	retrival	_	_	_	_	_	linguistic	_	none	_	Begin=1497.221	_	_	_	_
+-619-1	TO062	619	1	practice,	practice	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1498.721	_	_	_	_
++619-0	TO062	619	0	retrival	retrival	_	_	_	_	_	linguistic	_	none	Lang=eng	Begin=1497.221	_	_	_	_
++619-1	TO062	619	1	practice,	practice	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|Lang=eng	End=1498.721	_	_	_	_
+ 620-0	TO062	620	0	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1498.908|End=1499.244	_	_	_	_
+ 621-0	TO062	621	0	e::h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1499.836|End=1500.409	0x2	_	_	_
+ 622-0	TO062	622	0	io	io	_	_	_	_	_	linguistic	_	none	_	Begin=1500.683	_	_	_	_
+@@ -3556,7 +3556,7 @@
+ 708-5	TO062	708	5	zero	zero	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 708-6	TO062	708	6	zero	zero	_	_	_	_	_	linguistic	_	none	_	End=1692.024	_	_	_	_
+ 709-0	TO062	709	0	aveva	aveva	_	_	_	_	_	linguistic	_	none	_	Begin=1692.601|End=1693.274	_	_	_	_
+-710-0	???	710	0	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=1694.425|End=1695.008	_	_	_	_
++710-0	???	710	0	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=1694.425|End=1695.008	_	_	_	_
+ 711-0	???	711	0	sessantacinque	sessantacinque	_	_	_	_	_	linguistic	_	none	_	Begin=1695.659|End=1696.56	_	_	_	_
+ 712-0	TO062	712	0	sessantacinque	sessantacinque	_	_	_	_	_	linguistic	_	none	_	Begin=1696.635	_	_	_	_
+ 712-1	TO062	712	1	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3900,8 +3900,8 @@
+ 770-1	TO062	770	1	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 770-2	TO062	770	2	pri::ma	prima	_	_	_	_	_	linguistic	_	none	_	_	2x2	_	_	_
+ 770-3	TO062	770	3	apparve	apparve	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-770-4	TO062	770	4	primum	primum	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-770-5	TO062	770	5	apparvit	apparvit	_	_	_	_	_	linguistic	_	none	_	End=1843.358	_	_	_	_
++770-4	TO062	770	4	primum	primum	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++770-5	TO062	770	5	apparvit	apparvit	_	_	_	_	_	linguistic	_	none	Lang=lat	End=1843.358	_	_	_	_
+ 771-0	TO062	771	0	ovviamente	ovviamente	_	_	_	_	_	linguistic	_	none	_	Begin=1843.803	_	_	_	_
+ 771-1	TO062	771	1	latino	latino	_	_	_	_	_	linguistic	_	none	_	End=1844.86	_	_	_	_
+ 772-0	TO062	772	0	e::h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1845.246|End=1845.613	0x2	_	_	_
+@@ -3965,7 +3965,7 @@
+ 780-11	TO062	780	11	chiara	chiara	_	_	_	_	_	linguistic	_	none	_	End=1866.692	_	_	_	_
+ 781-0	TO062	781	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=1866.995	_	_	_	_
+ 781-1	TO062	781	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-781-2	TO062	781	2	sta	sta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++781-2	TO062	781	2	'sta	'sta	_	_	_	_	_	linguistic	_	none	Truncated=Yes	_	_	_	_	_
+ 781-3	TO062	781	3	storia?	storia	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=1868.158	_	_	_	_
+ 782-0	TO062	782	0	guarda	guarda	_	_	_	_	_	linguistic	_	none	_	Begin=1868.507	_	_	_	_
+ 782-1	TO062	782	1	tu:tto	tutto	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
+@@ -4225,9 +4225,9 @@
+ 830-3	TO062	830	3	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 830-4	TO062	830	4	originale	originale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 830-5	TO062	830	5	dei	dei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-830-6	TO062	830	6	>rerum	rerum	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-5(0)	_	_
+-830-7	TO062	830	7	vulgarium	vulgarium	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-9(0)	_	_
+-830-8	TO062	830	8	fragmenta<	fragmenta	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-9(0)	_	_
++830-6	TO062	830	6	>rerum	rerum	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	Fast=0-5(0)	_	_
++830-7	TO062	830	7	vulgarium	vulgarium	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	Fast=0-9(0)	_	_
++830-8	TO062	830	8	fragmenta<	fragmenta	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	Fast=0-9(0)	_	_
+ 830-9	TO062	830	9	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 830-10	TO062	830	10	faremo	faremo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 830-11	TO062	830	11	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -4269,8 +4269,8 @@
+ 837-5	TO062	837	5	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 837-6	TO062	837	6	po'	po'	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 837-7	TO062	837	7	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-837-8	TO062	837	8	vita	vita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-837-9	TO062	837	9	nova,	nova	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++837-8	TO062	837	8	vita	vita	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++837-9	TO062	837	9	nova,	nova	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|Lang=lat	_	_	_	_	_
+ 837-10	TO062	837	10	parleremo	parleremo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 837-11	TO062	837	11	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 837-12	TO062	837	12	cino	cino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -4287,8 +4287,8 @@
+ 839-2	TO062	839	2	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 839-3	TO062	839	3	testo	testo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 839-4	TO062	839	4	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-839-5	TO062	839	5	vita	vita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-839-6	TO062	839	6	nova	nova	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++839-5	TO062	839	5	vita	vita	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++839-6	TO062	839	6	nova	nova	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
+ 839-7	TO062	839	7	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 839-8	TO062	839	8	su	su	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 839-9	TO062	839	9	tutto	tutto	_	_	_	_	_	linguistic	_	none	_	End=2004.294	_	_	_	_
+@@ -4305,8 +4305,8 @@
+ 842-2	TO062	842	2	vuole	vuole	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 842-3	TO062	842	3	leggersi	leggersi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 842-4	TO062	842	4	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-842-5	TO062	842	5	vita	vita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-842-6	TO062	842	6	no:va	nova	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
++842-5	TO062	842	5	vita	vita	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++842-6	TO062	842	6	no:va	nova	_	_	_	_	_	linguistic	_	none	Lang=lat	_	1x1	_	_	_
+ 842-7	TO062	842	7	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 842-8	TO062	842	8	intero	intero	_	_	_	_	_	linguistic	_	none	_	End=2010.67	_	_	_	_
+ 843-0	TO062	843	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=2010.77	_	_	_	_
+@@ -4320,16 +4320,16 @@
+ 845-2	TO062	845	2	delle	delle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 845-3	TO062	845	3	parti	parti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 845-4	TO062	845	4	de:l	del	_	_	_	_	_	linguistic	_	none	_	End=2016.353	1x1	_	_	_
+-846-0	TO062	846	0	degni	degni	_	_	_	_	_	linguistic	_	none	_	Begin=2016.368	_	_	_	_
+-846-1	TO062	846	1	de	de	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-846-2	TO062	846	2	dignitate	dignitate	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-846-3	TO062	846	3	n:atura	natura	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
+-846-4	TO062	846	4	moris	moris	_	_	_	_	_	linguistic	_	none	_	End=2018.624	_	_	_	_
++846-0	TO062	846	0	degni	degni	_	_	_	_	_	linguistic	_	none	Lang=lat	Begin=2016.368	_	_	_	_
++846-1	TO062	846	1	de	de	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++846-2	TO062	846	2	dignitate	dignitate	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++846-3	TO062	846	3	n:atura	natura	_	_	_	_	_	linguistic	_	none	Lang=lat	_	0x1	_	_	_
++846-4	TO062	846	4	moris	moris	_	_	_	_	_	linguistic	_	none	Lang=lat	End=2018.624	_	_	_	_
+ 847-0	TO062	847	0	di	di	_	_	_	_	_	linguistic	_	none	_	Begin=2018.649	_	_	_	_
+-847-1	TO062	847	1	guillaume	guillaume	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-847-2	TO062	847	2	de	de	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-847-3	TO062	847	3	saint	saint	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-847-4	TO062	847	4	thierry	thierry	_	_	_	_	_	linguistic	_	none	_	End=2019.9	_	_	_	_
++847-1	TO062	847	1	guillaume	guillaume	_	_	_	_	_	linguistic	_	none	Lang=fra	_	_	_	_	_
++847-2	TO062	847	2	de	de	_	_	_	_	_	linguistic	_	none	Lang=fra	_	_	_	_	_
++847-3	TO062	847	3	saint	saint	_	_	_	_	_	linguistic	_	none	Lang=fra	_	_	_	_	_
++847-4	TO062	847	4	thierry	thierry	_	_	_	_	_	linguistic	_	none	Lang=fra	End=2019.9	_	_	_	_
+ 848-0	TO062	848	0	delle	delle	_	_	_	_	_	linguistic	_	none	_	Begin=2019.962	_	_	_	_
+ 848-1	TO062	848	1	pa:rti	parti	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
+ 848-2	TO062	848	2	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -5028,7 +5028,7 @@
+ 984-5	TO062	984	5	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 984-6	TO062	984	6	<non	non	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-3(0)	_	_
+ 984-7	TO062	984	7	prendo>	prendo	_	_	_	_	_	linguistic	_	none	_	End=2329.895	_	Slow=0-6(0)	_	_
+-985-0	TO062	985	0	royalties	royalties	_	_	_	_	_	linguistic	_	none	_	Begin=2330.19|End=2330.957	_	_	_	_
++985-0	TO062	985	0	royalties	royalties	_	_	_	_	_	linguistic	_	none	Lang=eng	Begin=2330.19|End=2330.957	_	_	_	_
+ 986-0	TO062	986	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=2330.964	_	_	_	_
+ 986-1	TO062	986	1	prendo	prendo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 986-2	TO062	986	2	percentuali	percentuali	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -5589,7 +5589,7 @@
+ 1092-0	TO062	1092	0	poesi:a,	poesia	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=2589.375|End=2590.088	4x1	_	_	_
+ 1093-0	TO062	1093	0	politica,	politica	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=2591.071	_	_	_	_
+ 1093-1	TO062	1093	1	potere,	potere	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2592.827	_	_	_	_
+-1094-0	TO062	1094	0	senectus,	senectus	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=2592.855	_	_	_	_
++1094-0	TO062	1094	0	senectus,	senectus	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|Lang=lat	Begin=2592.855	_	_	_	_
+ 1094-1	TO062	1094	1	cioè	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1094-2	TO062	1094	2	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1094-3	TO062	1094	3	vecchiaia,	vecchiaia	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2594.51	_	_	_	_
+@@ -5730,8 +5730,8 @@
+ 1119-3	TO062	1119	3	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1119-4	TO062	1119	4	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1119-5	TO062	1119	5	chiama	chiama	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1119-6	TO062	1119	6	oxymoron	oxymoron	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1119-7	TO062	1119	7	amoris	amoris	_	_	_	_	_	linguistic	_	none	_	End=2663.767	_	_	_	_
++1119-6	TO062	1119	6	oxymoron	oxymoron	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++1119-7	TO062	1119	7	amoris	amoris	_	_	_	_	_	linguistic	_	none	Lang=lat	End=2663.767	_	_	_	_
+ 1120-0	TO062	1120	0	su	su	_	_	_	_	_	linguistic	_	none	_	Begin=2663.796	_	_	_	_
+ 1120-1	TO062	1120	1	cui	cui	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1120-2	TO062	1120	2	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -5821,7 +5821,7 @@
+ 1137-3	???	1137	3	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1137-4	???	1137	4	tipo	tipo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1137-5	???	1137	5	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1137-6	???	1137	6	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	End=2717.535	_	_	_	_
++1137-6	???	1137	6	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	End=2717.535	_	_	_	_
+ 1138-0	TO062	1138	0	no	no	_	_	_	_	_	linguistic	_	none	_	Begin=2717.622|End=2717.958	_	_	_	_
+ 1139-0	TO062	1139	0	chi	chi	_	_	_	_	_	linguistic	_	none	_	Begin=2718.072	_	_	_	_
+ 1139-1	TO062	1139	1	fa	fa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -6439,7 +6439,7 @@
+ 1248-7	TO062	1248	7	a:nno	anno	_	_	_	_	_	linguistic	_	none	_	End=2975.941	0x1	_	_	_
+ 1249-0	TO062	1249	0	e:::h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=2976.275	0x3	_	_	_
+ 1249-1	TO062	1249	1	filologia?	filologia	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=2977.725	_	_	_	_
+-1250-0	???	1250	0	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=2978.04	_	_	_	_
++1250-0	???	1250	0	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=2978.04	_	_	_	_
+ 1250-1	???	1250	1	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1250-2	???	1250	2	frequenterò:	frequenterò	_	_	_	_	_	linguistic	_	none	_	_	10x1	_	_	_
+ 1250-3	???	1250	3	quest'	quest'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+@@ -6461,7 +6461,7 @@
+ 1253-10	TO062	1253	10	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1253-11	TO062	1253	11	meno	meno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1253-12	TO062	1253	12	filologia?	filologia	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=2983.324	_	_	_	_
+-1254-0	???	1254	0	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=2983.326|End=2983.763	_	_	_	_
++1254-0	???	1254	0	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=2983.326|End=2983.763	_	_	_	_
+ 1255-0	TO062	1255	0	un	un	_	_	_	_	_	linguistic	_	none	_	Begin=2983.763	_	_	_	_
+ 1255-1	TO062	1255	1	po'	po'	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1255-2	TO062	1255	2	sì	sì	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+@@ -6591,7 +6591,7 @@
+ 1280-0	???	1280	0	io	io	_	_	_	_	_	linguistic	_	none	_	Begin=3031.126	_	_	_	_
+ 1280-1	???	1280	1	faccio	faccio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1280-2	???	1280	2	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-1280-3	???	1280	3	erasmus	erasmus	_	_	_	_	_	linguistic	_	none	_	End=3032.363	_	_	_	_
++1280-3	???	1280	3	erasmus	erasmus	_	_	_	_	_	linguistic	_	none	Lang=eng	End=3032.363	_	_	_	_
+ 1281-0	TO062	1281	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=3032.421	_	_	_	_
+ 1281-1	TO062	1281	1	ah	ah	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1281-2	TO062	1281	2	e:	e	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
+@@ -6953,7 +6953,7 @@
+ 1339-8	???	1339	8	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-4(0)	_	_
+ 1339-9	???	1339	9	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1339-10	???	1339	10	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1339-11	???	1339	11	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	End=3208.85	_	_	_	_
++1339-11	???	1339	11	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	End=3208.85	_	_	_	_
+ 1340-0	TO062	1340	0	ah::	ah	_	_	_	_	_	linguistic	_	none	_	Begin=3208.899	1x2	_	_	_
+ 1340-1	TO062	1340	1	ecco	ecco	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1340-2	TO062	1340	2	infatti	infatti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -7016,7 +7016,7 @@
+ 1348-2	TO062	1348	2	verifico.	verifico	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=3235.421	_	_	_	_
+ 1349-0	TO062	1349	0	va	va	_	_	_	_	_	linguistic	_	none	_	Begin=3244.783	_	_	_	_
+ 1349-1	TO062	1349	1	bene?	bene	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=3245.567	_	_	_	_
+-1350-0	TO062	1350	0	alllora	alllora	_	_	_	_	_	linguistic	_	none	_	Begin=3277.922|End=3278.668	_	_	_	_
++1350-0	TO062	1350	0	allora	allora	_	_	_	_	_	linguistic	_	none	_	Begin=3277.922|End=3278.668	_	_	_	_
+ 1351-0	TO062	1351	0	va	va	_	_	_	_	_	linguistic	_	none	_	Begin=3279.384	_	_	_	_
+ 1351-1	TO062	1351	1	bene	bene	_	_	_	_	_	linguistic	_	none	_	End=3279.927	_	_	_	_
+ 1352-0	TO062	1352	0	un	un	_	_	_	_	_	linguistic	_	none	_	Begin=3280.159	_	_	_	_
+@@ -7261,7 +7261,7 @@
+ 1410-3	TO062	1410	3	base	base	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1410-4	TO062	1410	4	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1410-5	TO062	1410	5	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1410-6	TO062	1410	6	facies	facies	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1410-6	TO062	1410	6	facies	facies	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
+ 1410-7	TO062	1410	7	linguistica.	linguistica	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=3420.445	_	_	_	_
+ 1411-0	TO062	1411	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=3422.234	_	_	_	_
+ 1411-1	TO062	1411	1	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -7272,7 +7272,7 @@
+ 1411-6	TO062	1411	6	manoscritti	manoscritti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1411-7	TO062	1411	7	toscani	toscani	_	_	_	_	_	linguistic	_	none	_	End=3424.543	_	_	_	_
+ 1412-0	TO062	1412	0	di	di	_	_	_	_	_	linguistic	_	none	_	Begin=3424.554	_	_	_	_
+-1412-1	TO062	1412	1	facies	facies	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1412-1	TO062	1412	1	facies	facies	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
+ 1412-2	TO062	1412	2	linguistica	linguistica	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1412-3	TO062	1412	3	toscana	toscana	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1412-4	TO062	1412	4	si:ano	siano	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
+@@ -7361,7 +7361,8 @@
+ 1433-4	TO062	1433	4	beh	beh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1433-5	TO062	1433	5	allora	allora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1433-6	TO062	1433	6	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1433-7	TO062	1433	7	apposto	apposto	_	_	_	_	_	linguistic	_	none	_	End=3482.209	_	_	_	_
++1433-7	TO062	1433	7	a	a	_	_	_	_	_	linguistic	_	none	_	End=3482.209	_	_	_	_
++1433-8	TO062	_	0	posto	posto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1434-0	TO062	1434	0	io	io	_	_	_	_	_	linguistic	_	none	_	Begin=3482.75	_	_	_	_
+ 1434-1	TO062	1434	1	riproduco	riproduco	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1434-2	TO062	1434	2	questo	questo	_	_	_	_	_	linguistic	_	none	_	End=3484.207	_	_	_	_
+@@ -7823,7 +7824,7 @@
+ 1526-3	TO062	1526	3	versione	versione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1526-4	TO062	1526	4	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1526-5	TO062	1526	5	poteva	poteva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1526-6	TO062	1526	6	soddisfarlo	soddisfarlo	_	_	_	_	_	linguistic	_	none	_	End=3759.197	_	_	_	_
++1526-6	TO062	1526	6	soddisfarlo	_	_	_	_	_	_	linguistic	_	none	_	End=3759.197	_	_	_	_
+ 1527-0	TO062	1527	0	vedete	vedete	_	_	_	_	_	linguistic	_	none	_	Begin=3759.924	_	_	_	_
+ 1527-1	TO062	1527	1	qui	qui	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+ 1527-2	TO062	1527	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+@@ -7868,7 +7869,7 @@
+ 1533-0	TO062	1533	0	°eh°	eh	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=3782.227	_	_	_	_
+ 1533-1	TO062	1533	1	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1533-2	TO062	1533	2	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1533-3	TO062	1533	3	vi:der	vider	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
++1533-3	TO062	1533	3	vi:der	vider	_	_	_	_	_	linguistic	_	none	Lang=lat	_	1x1	_	_	_
+ 1533-4	TO062	1533	4	più	più	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1533-5	TO062	1533	5	be:ne	bene	_	_	_	_	_	linguistic	_	none	_	End=3783.903	1x1	_	_	_
+ 1534-0	TO062	1534	0	>eccetera	eccetera	_	_	_	_	_	linguistic	_	none	_	Begin=3784.0	_	Fast=0-8(0)	_	_
+@@ -8087,7 +8088,7 @@
+ 1574-2	TO062	1574	2	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1574-3	TO062	1574	3	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1574-4	TO062	1574	4	qui?	qui	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=3890.414	_	_	_	_
+-1575-0	???	1575	0	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=3890.653|End=3891.223	_	_	_	_
++1575-0	???	1575	0	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=3890.653|End=3891.223	_	_	_	_
+ 1576-0	TO062	1576	0	sette.	sette	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=3891.298|End=3891.853	_	_	_	_
+ 1577-0	TO062	1577	0	perché	perché	_	_	_	_	_	linguistic	_	none	_	Begin=3894.428	_	_	_	_
+ 1577-1	TO062	1577	1	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -8186,7 +8187,7 @@
+ 1596-0	TO062	1596	0	le	le	_	_	_	_	_	linguistic	_	none	_	Begin=3936.064	_	_	_	_
+ 1596-1	TO062	1596	1	vediamo	vediamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1596-2	TO062	1596	2	proprio	proprio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1596-3	TO062	1596	3	incollonnate	incollonnate	_	_	_	_	_	linguistic	_	none	_	End=3937.803	_	_	_	_
++1596-3	TO062	1596	3	incolonnate	incolonnate	_	_	_	_	_	linguistic	_	none	_	End=3937.803	_	_	_	_
+ 1597-0	TO062	1597	0	nel	nel	_	_	_	_	_	linguistic	_	none	_	Begin=3940.2	_	_	_	_
+ 1597-1	TO062	1597	1	<cinquecento>	cinquecento	_	_	_	_	_	linguistic	_	none	_	End=3941.856	_	Slow=0-11(0)	_	_
+ 1598-0	TO062	1598	0	le	le	_	_	_	_	_	linguistic	_	none	_	Begin=3943.694	_	_	_	_
+@@ -9170,13 +9171,13 @@
+ 1785-6	TO062	1785	6	dove	dove	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1785-7	TO062	1785	7	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 1785-8	TO062	1785	8	è:	è	_	_	_	_	_	linguistic	_	none	_	End=4452.476	0x1	_	_	_
+-1786-0	TO062	1786	0	francisci	francisci	_	_	_	_	_	linguistic	_	none	_	Begin=4452.883	_	_	_	_
+-1786-1	TO062	1786	1	petrarchae	petrarchae	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1786-2	TO062	1786	2	laureati	laureati	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1786-3	TO062	1786	3	poetae::	poetae	_	_	_	_	_	linguistic	_	none	_	_	5x2	_	_	_
+-1786-4	TO062	1786	4	rerum	rerum	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1786-5	TO062	1786	5	vulagarum	vulagarum	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1786-6	TO062	1786	6	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	_	End=4456.31	_	_	_	_
++1786-0	TO062	1786	0	francisci	francisci	_	_	_	_	_	linguistic	_	none	Lang=lat	Begin=4452.883	_	_	_	_
++1786-1	TO062	1786	1	petrarchae	petrarchae	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++1786-2	TO062	1786	2	laureati	laureati	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++1786-3	TO062	1786	3	poetae::	poetae	_	_	_	_	_	linguistic	_	none	Lang=lat	_	5x2	_	_	_
++1786-4	TO062	1786	4	rerum	rerum	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++1786-5	TO062	1786	5	vulagarum	vulagarum	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++1786-6	TO062	1786	6	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	Lang=lat	End=4456.31	_	_	_	_
+ 1787-0	TO062	1787	0	è	è	_	_	_	_	_	linguistic	_	none	_	Begin=4456.323	_	_	_	_
+ 1787-1	TO062	1787	1	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1787-2	TO062	1787	2	carta	carta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -9614,8 +9615,8 @@
+ 1861-7	TO062	1861	7	agli	agli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1861-8	TO062	1861	8	occhi	occhi	_	_	_	_	_	linguistic	_	none	_	End=4643.354	_	_	_	_
+ 1862-0	TO062	1862	0	la	la	_	_	_	_	_	linguistic	_	none	_	Begin=4643.384	_	_	_	_
+-1862-1	TO062	1862	1	vita	vita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1862-2	TO062	1862	2	no:va	nova	_	_	_	_	_	linguistic	_	none	_	End=4644.227	1x1	_	_	_
++1862-1	TO062	1862	1	vita	vita	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++1862-2	TO062	1862	2	no:va	nova	_	_	_	_	_	linguistic	_	none	Lang=lat	End=4644.227	1x1	_	_	_
+ 1863-0	TO062	1863	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=4644.594	_	_	_	_
+ 1863-1	TO062	1863	1	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1863-2	TO062	1863	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -9663,13 +9664,13 @@
+ 1871-3	TO062	1871	3	esempio	esempio	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-7(0)	_	_
+ 1871-4	TO062	1871	4	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-2(0)	_	_
+ 1871-5	TO062	1871	5	prosimetro<	prosimetro	_	_	_	_	_	linguistic	_	none	_	End=4664.553	_	Fast=0-10(0)	_	_
+-1872-0	???	1872	0	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=4664.633|End=4665.494	_	_	_	_
++1872-0	???	1872	0	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=4664.633|End=4665.494	_	_	_	_
+ 1873-0	TO062	1873	0	°come?°	come	_	_	_	_	_	linguistic	_	none	Intonation=Rising|Volume=low	Begin=4666.275|End=4666.645	_	_	_	_
+ 1874-0	???	1874	0	quello	quello	_	_	_	_	_	linguistic	_	none	_	Begin=4666.955	_	_	_	_
+ 1874-1	???	1874	1	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1874-2	???	1874	2	usa	usa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1874-3	???	1874	3	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
+-1874-4	???	1874	4	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	End=4668.997	_	_	_	_
++1874-3	???	1874	3	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
++1874-4	???	1874	4	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	End=4668.997	_	_	_	_
+ 1875-0	TO062	1875	0	e::h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=4669.76|End=4670.291	0x2	_	_	_
+ 1876-0	TO062	1876	0	diciamo	diciamo	_	_	_	_	_	linguistic	_	none	_	Begin=4670.34	_	_	_	_
+ 1876-1	TO062	1876	1	nella	nella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -9683,7 +9684,7 @@
+ 1877-3	TO062	1877	3	niente?	niente	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=4680.28	_	_	_	_
+ 1878-0	TO062	1878	0	boe:zio	boezio	_	_	_	_	_	linguistic	_	none	_	Begin=4680.304	2x1	_	_	_
+ 1878-1	TO062	1878	1	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1878-2	TO062	1878	2	consolatio	consolatio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1878-2	TO062	1878	2	consolatio	consolatio	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
+ 1878-3	TO062	1878	3	fortu~	fortu~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+ 1878-4	TO062	1878	4	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1878-5	TO062	1878	5	consolazione	consolazione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -9711,8 +9712,8 @@
+ 1883-0	TO062	1883	0	la	la	_	_	_	_	_	linguistic	_	none	_	Begin=4690.923	_	_	_	_
+ 1883-1	TO062	1883	1	sequenza	sequenza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1883-2	TO062	1883	2	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1883-3	TO062	1883	3	vita	vita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1883-4	TO062	1883	4	nova	nova	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
++1883-3	TO062	1883	3	vita	vita	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++1883-4	TO062	1883	4	nova	nova	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes|Lang=lat	_	_	_	_	_
+ 1883-5	TO062	1883	5	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 1883-6	TO062	1883	6	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1883-7	TO062	1883	7	ordinata	ordinata	_	_	_	_	_	linguistic	_	none	_	End=4693.746	_	_	_	_
+@@ -9722,8 +9723,8 @@
+ 1885-2	TO062	1885	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-2(0)	_	_
+ 1885-3	TO062	1885	3	poesie	poesie	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-6(0)	_	_
+ 1885-4	TO062	1885	4	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-5(0)	_	_
+-1885-5	TO062	1885	5	vita	vita	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-4(0)	_	_
+-1885-6	TO062	1885	6	nova<	nova	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-4(0)	_	_
++1885-5	TO062	1885	5	vita	vita	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	Fast=0-4(0)	_	_
++1885-6	TO062	1885	6	nova<	nova	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	Fast=0-4(0)	_	_
+ 1885-7	TO062	1885	7	s:ono	sono	_	_	_	_	_	linguistic	_	none	_	End=4697.503	0x1	_	_	_
+ 1886-0	TO062	1886	0	intanto	intanto	_	_	_	_	_	linguistic	_	none	_	Begin=4697.571	_	_	_	_
+ 1886-1	TO062	1886	1	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -9760,8 +9761,8 @@
+ 1891-2	TO062	1891	2	all'	all'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 1891-3	TO062	1891	3	inizio	inizio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1891-4	TO062	1891	4	>della	della	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-5(0)	_	_
+-1891-5	TO062	1891	5	vita	vita	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-4(0)	_	_
+-1891-6	TO062	1891	6	nova<	nova	_	_	_	_	_	linguistic	_	none	_	End=4720.324	_	Fast=0-4(0)	_	_
++1891-5	TO062	1891	5	vita	vita	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	Fast=0-4(0)	_	_
++1891-6	TO062	1891	6	nova<	nova	_	_	_	_	_	linguistic	_	none	Lang=lat	End=4720.324	_	Fast=0-4(0)	_	_
+ 1892-0	???	1892	0	(in	in	_	_	_	_	_	linguistic	_	none	_	Begin=4720.675	_	_	0-2(0)	_
+ 1892-1	???	1892	1	ordine	ordine	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-6(0)	_
+ 1892-2	???	1892	2	cronologico?)	cronologico	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=4721.785	_	_	0-11(0)	_
+@@ -9867,8 +9868,8 @@
+ 1912-0	TO062	1912	0	un	un	_	_	_	_	_	linguistic	_	none	_	Begin=4758.775	_	_	_	_
+ 1912-1	TO062	1912	1	racconto	racconto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1912-2	TO062	1912	2	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1912-3	TO062	1912	3	v:ita	vita	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
+-1912-4	TO062	1912	4	nova	nova	_	_	_	_	_	linguistic	_	none	_	End=4760.869	_	_	_	_
++1912-3	TO062	1912	3	v:ita	vita	_	_	_	_	_	linguistic	_	none	Lang=lat	_	0x1	_	_	_
++1912-4	TO062	1912	4	nova	nova	_	_	_	_	_	linguistic	_	none	Lang=lat	End=4760.869	_	_	_	_
+ 1913-0	TO062	1913	0	in:cipit	incipit	_	_	_	_	_	linguistic	_	none	_	Begin=4760.89	1x1	_	_	_
+ 1913-1	TO062	1913	1	vita	vita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1913-2	TO062	1913	2	nova	nova	_	_	_	_	_	linguistic	_	none	_	End=4762.574	_	_	_	_
+@@ -9918,11 +9919,11 @@
+ 1922-3	TO062	1922	3	quelle	quelle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1922-4	TO062	1922	4	parole	parole	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1922-5	TO062	1922	5	incipit	incipit	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1922-6	TO062	1922	6	vita	vita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1922-7	TO062	1922	7	nova	nova	_	_	_	_	_	linguistic	_	none	_	End=4782.177	_	_	_	_
++1922-6	TO062	1922	6	vita	vita	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++1922-7	TO062	1922	7	nova	nova	_	_	_	_	_	linguistic	_	none	Lang=lat	End=4782.177	_	_	_	_
+ 1923-0	TO062	1923	0	la	la	_	_	_	_	_	linguistic	_	none	_	Begin=4783.267	_	_	_	_
+-1923-1	TO062	1923	1	vita	vita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1923-2	TO062	1923	2	nova	nova	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1923-1	TO062	1923	1	vita	vita	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++1923-2	TO062	1923	2	nova	nova	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
+ 1923-3	TO062	1923	3	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1923-4	TO062	1923	4	quella	quella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1923-5	TO062	1923	5	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -10326,9 +10327,9 @@
+ 2004-0	TO062	2004	0	il	il	_	_	_	_	_	linguistic	_	none	_	Begin=5005.272	_	_	_	_
+ 2004-1	TO062	2004	1	termine	termine	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 2004-2	TO062	2004	2	canzoniere	canzoniere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-2004-3	TO062	2004	3	>rerum	rerum	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-5(0)	_	_
+-2004-4	TO062	2004	4	vulgarium	vulgarium	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-9(0)	_	_
+-2004-5	TO062	2004	5	fragmenta<	fragmenta	_	_	_	_	_	linguistic	_	none	_	End=5007.987	_	Fast=0-9(0)	_	_
++2004-3	TO062	2004	3	>rerum	rerum	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	Fast=0-5(0)	_	_
++2004-4	TO062	2004	4	vulgarium	vulgarium	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	Fast=0-9(0)	_	_
++2004-5	TO062	2004	5	fragmenta<	fragmenta	_	_	_	_	_	linguistic	_	none	Lang=lat	End=5007.987	_	Fast=0-9(0)	_	_
+ 2005-0	TO062	2005	0	sono	sono	_	_	_	_	_	linguistic	_	none	_	Begin=5008.001	_	_	_	_
+ 2005-1	TO062	2005	1	termini	termini	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 2005-2	TO062	2005	2	tardissimi	tardissimi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -10601,7 +10602,7 @@
+ 2061-1	TO062	2061	1	stesso	stesso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 2061-2	TO062	2061	2	numero	numero	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 2061-3	TO062	2061	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-2061-4	TO062	2061	4	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	_	End=5138.897	_	_	_	_
++2061-4	TO062	2061	4	fragmenta	fragmenta	_	_	_	_	_	linguistic	_	none	Lang=lat	End=5138.897	_	_	_	_
+ 2062-0	TO062	2062	0	su	su	_	_	_	_	_	linguistic	_	none	_	Begin=5138.92	_	_	_	_
+ 2062-1	TO062	2062	1	cui	cui	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 2062-2	TO062	2062	2	lavora	lavora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -10964,9 +10965,9 @@
+ 2133-5	TO062	2133	5	aveva	aveva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 2133-6	TO062	2133	6	vissuto	vissuto	_	_	_	_	_	linguistic	_	none	_	End=5332.212	_	_	_	_
+ 2134-0	TO062	2134	0	come	come	_	_	_	_	_	linguistic	_	none	_	Begin=5332.452|End=5332.955	_	_	_	_
+-2135-0	TO062	2135	0	cappellanus	cappellanus	_	_	_	_	_	linguistic	_	none	_	Begin=5333.203	_	_	_	_
+-2135-1	TO062	2135	1	continus	continus	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-2135-2	TO062	2135	2	commensalis	commensalis	_	_	_	_	_	linguistic	_	none	_	End=5336.567	_	_	_	_
++2135-0	TO062	2135	0	cappellanus	cappellanus	_	_	_	_	_	linguistic	_	none	Lang=lat	Begin=5333.203	_	_	_	_
++2135-1	TO062	2135	1	continuus	continuus	_	_	_	_	_	linguistic	_	none	Lang=lat	_	_	_	_	_
++2135-2	TO062	2135	2	commensalis	commensalis	_	_	_	_	_	linguistic	_	none	Lang=lat	End=5336.567	_	_	_	_
+ 2136-0	TO062	2136	0	era	era	_	_	_	_	_	linguistic	_	none	_	Begin=5336.912	_	_	_	_
+ 2136-1	TO062	2136	1	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 2136-2	TO062	2136	2	cappellano	cappellano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -11129,7 +11130,7 @@
+ 2168-5	TO062	2168	5	allora	allora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 2168-6	TO062	2168	6	tu:	tu	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
+ 2168-7	TO062	2168	7	potevi	potevi	_	_	_	_	_	linguistic	_	none	_	End=5415.587	_	_	_	_
+-2169-0	TO062	2169	0	mostrarmi	mostrarmi	_	_	_	_	_	linguistic	_	none	_	Begin=5415.62	_	_	_	_
++2169-0	TO062	2169	0	mostrarmi	_	_	_	_	_	_	linguistic	_	none	_	Begin=5415.62	_	_	_	_
+ 2169-1	TO062	2169	1	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 2169-2	TO062	2169	2	tuo	tuo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 2169-3	TO062	2169	3	volto.	volto	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=5417.21	_	_	_	_

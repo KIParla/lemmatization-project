@@ -1,0 +1,81 @@
+--- a/tsv/BOA1007.vert.tsv
++++ b/tsv/BOA1007.vert.tsv
+@@ -17,8 +17,7 @@
+ 4-7	BO035	4	7	delle	delle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 4-8	BO035	4	8	lingue	lingue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 4-9	BO035	4	9	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-4-10	BO035	4	10	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-4-11	BO035	4	11	due.	due	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=15.118	_	_	_	_
++4-10	BO035	4	10	elledue.	elledue	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=15.118	_	_	_	_
+ 5-0	BO026	5	0	mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=15.118	_	_	_	_
+ 5-1	BO026	5	1	mh.	mh	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=15.38	_	_	_	_
+ 6-0	BO035	6	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=15.38	_	_	_	_
+@@ -70,7 +69,7 @@
+ 12-12	BO026	12	12	d[ell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	0-5(4)
+ 12-13	BO026	12	13	inte]rlin[gua::]	interlingua	_	_	_	_	_	linguistic	_	none	_	End=32.6	10x2	_	_	0-3(4),6-11(1)
+ 13-0	BO035	13	0	[avevo],	avevo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=28.141|End=28.455	_	_	_	0-5(2)
+-14-0	BO035	14	0	[ssì].	ssì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=29.79|End=30.165	_	_	_	0-3(3)
++14-0	BO035	14	0	[s:ì].	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=29.79|End=30.165	_	_	_	0-3(3)
+ 15-0	BO035	15	0	[sì].	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=31.335|End=31.713	_	_	_	0-2(4)
+ 16-0	BO035	16	0	[esatto	esatto	_	_	_	_	_	linguistic	_	none	_	Begin=32.061	_	_	_	0-6(1)
+ 16-1	BO035	16	1	s]critto	scritto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(1)
+@@ -93,7 +92,7 @@
+ 18-8	BO035	18	8	ch[e::]	che	_	_	_	_	_	linguistic	_	none	_	End=38.503	2x2	_	_	2-3(6)
+ 19-0	BO026	19	0	[sì]	sì	_	_	_	_	_	linguistic	_	none	_	Begin=38.261	_	_	_	0-2(6)
+ 19-1	BO026	19	1	bisogna	bisogna	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-19-2	BO026	19	2	sostiuire	sostiuire	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++19-2	BO026	19	2	sostituire	sostituire	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 19-3	BO026	19	3	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 19-4	BO026	19	4	prima	prima	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 19-5	BO026	19	5	parte.	parte	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+@@ -163,19 +162,18 @@
+ 35-1	BO026	35	1	a~	a~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+ 35-2	BO026	35	2	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 35-3	BO026	35	3	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-35-4	BO026	35	4	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-35-5	BO026	35	5	due	due	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-35-6	BO026	35	6	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-35-7	BO026	35	7	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-35-8	BO026	35	8	abilità	abilità	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-35-9	BO026	35	9	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-35-10	BO026	35	10	studio	studio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-35-11	BO026	35	11	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-35-12	BO026	35	12	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-35-13	BO026	35	13	scuole	scuole	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-35-14	BO026	35	14	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-35-15	BO026	35	15	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-35-16	BO026	35	16	università.	università	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=176.936	_	_	_	_
++35-4	BO026	35	4	elledue	elledue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++35-6	BO026	35	5	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++35-7	BO026	35	6	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++35-8	BO026	35	7	abilità	abilità	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++35-9	BO026	35	8	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++35-10	BO026	35	9	studio	studio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++35-11	BO026	35	10	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++35-12	BO026	35	11	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++35-13	BO026	35	12	scuole	scuole	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++35-14	BO026	35	13	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++35-15	BO026	35	14	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++35-16	BO026	35	15	università.	università	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=176.936	_	_	_	_
+ 36-0	BO026	36	0	mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=177.235|End=177.528	_	_	_	_
+ 37-0	BO026	37	0	le	le	_	_	_	_	_	linguistic	_	none	_	Begin=178.036	_	_	_	_
+ 37-1	BO026	37	1	[doma]ndo::	domando	_	_	_	_	_	linguistic	_	none	_	End=179.781	6x2	_	_	0-4(9)
+@@ -288,7 +286,7 @@
+ 60-0	BO035	60	0	va	va	_	_	_	_	_	linguistic	_	none	_	Begin=218.713	_	_	_	_
+ 60-1	BO035	60	1	ben°(e	bene	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	3-4(0)	_
+ 60-2	BO035	60	2	perché	perché	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	0-6(0)	_
+-60-3	BO035	60	3	xx).°	xx	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Volume=low	End=219.943	_	_	0-2(0)	_
++60-3	BO035	60	3	xx).°	x	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Volume=low	End=219.943	_	_	0-2(0)	_
+ 61-0	BO026	61	0	e::h	eh	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	Begin=220.283	0x2	_	_	_
+ 61-1	BO026	61	1	m:h	mh	_	_	_	_	_	linguistic	_	none	_	End=221.205	0x1	_	_	_
+ 62-0	BO026	62	0	vabbè	vabbè	_	_	_	_	_	linguistic	_	none	_	Begin=236.718	_	_	_	_
+@@ -368,8 +366,7 @@
+ 78-2	BO035	78	2	okay].	okay	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=270.13	_	_	_	0-4(8)
+ 79-0	BO026	79	0	[in	in	_	_	_	_	_	linguistic	_	none	_	Begin=268.951	_	_	_	0-2(8)
+ 79-1	BO026	79	1	italiano	italiano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-8(8)
+-79-2	BO026	79	2	elle	elle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(8)
+-79-3	BO026	79	3	due].	due	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=270.126	_	_	_	0-3(8)
++79-2	BO026	79	2	elledue].	elledue	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=270.126	_	_	_	0-7(8)
+ 80-0	BO035	80	0	va	va	_	_	_	_	_	linguistic	_	none	_	Begin=270.44	_	_	_	_
+ 80-1	BO035	80	1	bene.	bene	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=270.945	_	_	_	_
+ 81-0	BO026	81	0	va	va	_	_	_	_	_	linguistic	_	none	_	Begin=271.29	_	_	_	_

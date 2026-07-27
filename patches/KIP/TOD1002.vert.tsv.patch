@@ -1,0 +1,344 @@
+--- a/tsv/TOD1002.vert.tsv
++++ b/tsv/TOD1002.vert.tsv
+@@ -8,7 +8,7 @@
+ 3-1	TO004	3	1	possibilità	possibilità	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 3-2	TO004	3	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 3-3	TO004	3	3	proiettare	proiettare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-3-4	TO004	3	4	<sli:de>	slide	_	_	_	_	_	linguistic	_	none	_	End=10.18	2x1	Slow=0-5(0)	_	_
++3-4	TO004	3	4	<sli:de>	slide	_	_	_	_	_	linguistic	_	none	Lang=dia	End=10.18	2x1	Slow=0-5(0)	_	_
+ 4-0	TO004	4	0	<o:ggi>,	oggi	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=10.215|End=10.905	0x1	Slow=0-4(0)	_	_
+ 5-0	TO004	5	0	lo	lo	_	_	_	_	_	linguistic	_	none	_	Begin=10.965	_	_	_	_
+ 5-1	TO004	5	1	faremo	faremo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -186,8 +186,8 @@
+ 37-7	TO004	37	7	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 37-8	TO004	37	8	tempo	tempo	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+ 37-9	TO004	37	9	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-37-10	TO004	37	10	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-37-11	TO004	37	11	m:essaggiare,	messaggiare	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=99.283	0x1	_	_	_
++37-11	TO004	37	10	a	a	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
++37-12	TO004	37	11	m:essaggiare,	messaggiare	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=99.283	_	_	_	_
+ 38-0	TO004	38	0	con	con	_	_	_	_	_	linguistic	_	none	_	Begin=99.957	_	_	_	_
+ 38-1	TO004	38	1	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 38-2	TO004	38	2	suo	suo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -376,7 +376,7 @@
+ 60-5	TO004	60	5	<de:tto>,	detto	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=181.955	1x1	Slow=0-5(0)	_	_
+ 61-0	TO004	61	0	carichiamo,	carichiamo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=182.445|End=183.695	_	_	_	_
+ 62-0	TO004	62	0	in	in	_	_	_	_	_	linguistic	_	none	_	Begin=184.275	_	_	_	_
+-62-1	TO004	62	1	podcast	podcast	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
++62-1	TO004	62	1	podcast	podcast	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes|Lang=dia	_	_	_	_	_
+ 62-2	TO004	62	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 62-3	TO004	62	3	<non>	non	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-3(0)	_	_
+ 62-4	TO004	62	4	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -395,7 +395,7 @@
+ 62-17	TO004	62	17	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 62-18	TO004	62	18	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 62-19	TO004	62	19	suo	suo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-62-20	TO004	62	20	podcast.	podcast	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=191.05	_	_	_	_
++62-20	TO004	62	20	podcast.	podcast	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Lang=dia	End=191.05	_	_	_	_
+ 63-0	TO004	63	0	carichiamo	carichiamo	_	_	_	_	_	linguistic	_	none	_	Begin=191.557	_	_	_	_
+ 63-1	TO004	63	1	ogni	ogni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 63-2	TO004	63	2	qualche	qualche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -548,7 +548,7 @@
+ 94-9	TO004	94	9	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 94-10	TO004	94	10	università	università	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 94-11	TO004	94	11	m'	m'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-94-12	TO004	94	12	(impedisce	impedisce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++94-12	TO004	94	12	impedisce	impedisce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 94-13	TO004	94	13	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 94-14	TO004	94	14	utilizzare	utilizzare	_	_	_	_	_	linguistic	_	none	_	End=278.81	_	_	_	_
+ 95-0	TO004	95	0	per	per	_	_	_	_	_	linguistic	_	none	_	Begin=279.532	_	_	_	_
+@@ -2316,12 +2316,12 @@
+ 400-0	TO004	400	0	uno	uno	_	_	_	_	_	linguistic	_	none	_	Begin=1215.727	_	_	_	_
+ 400-1	TO004	400	1	degli	degli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 400-2	TO004	400	2	elementi	elementi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-400-3	TO004	400	3	princiali	princiali	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++400-3	TO004	400	3	principali	principali	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 400-4	TO004	400	4	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 400-5	TO004	400	5	proprio,	proprio	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1218.06	_	_	_	_
+ 401-0	TO004	401	0	<cambiare>	cambiare	_	_	_	_	_	linguistic	_	none	_	Begin=1218.112	_	Slow=0-8(0)	_	_
+ 401-1	TO004	401	1	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-401-2	TO004	401	2	relazionie	relazionie	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++401-2	TO004	401	2	relazione	relazione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 401-3	TO004	401	3	tra	tra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 401-4	TO004	401	4	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 401-5	TO004	401	5	professori	professori	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+@@ -3259,15 +3259,15 @@
+ 552-3	TO004	552	3	<numero>	numero	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-6(0)	_	_
+ 552-4	TO004	552	4	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 552-5	TO004	552	5	è,	è	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1693.855	_	_	_	_
+-553-0	???	553	0	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=1694.18|End=1696.158	_	_	_	_
++553-0	???	553	0	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=1694.18|End=1696.158	_	_	_	_
+ 554-0	TO004	554	0	fuochino,	fuochino	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=1697.015|End=1697.865	_	_	_	_
+ 555-0	TO004	555	0	la	la	_	_	_	_	_	linguistic	_	none	_	Begin=1698.705	_	_	_	_
+ 555-1	TO004	555	1	potenzialità	potenzialità	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 555-2	TO004	555	2	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 555-3	TO004	555	3	ha,	ha	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1700.505	_	_	_	_
+-556-0	???	556	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=1700.746|End=1702.301	_	_	_	_
++556-0	???	556	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=1700.746|End=1702.301	_	_	_	_
+ 557-0	TO004	557	0	come?	come	_	_	_	_	_	linguistic	_	none	Intonation=Rising	Begin=1703.39|End=1703.9	_	_	_	_
+-558-0	???	558	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=1704.001|End=1706.046	_	_	_	_
++558-0	???	558	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=1704.001|End=1706.046	_	_	_	_
+ 559-0	TO004	559	0	va	va	_	_	_	_	_	linguistic	_	none	_	Begin=1706.435	_	_	_	_
+ 559-1	TO004	559	1	bene.	bene	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1706.865	_	_	_	_
+ 560-0	TO004	560	0	(de)l	del	_	_	_	_	_	linguistic	_	none	_	Begin=1707.025	_	_	0-2(0)	_
+@@ -3528,7 +3528,8 @@
+ 594-10	TO004	594	10	persone.	persone	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1836.25	_	_	_	_
+ 595-0	TO004	595	0	però	però	_	_	_	_	_	linguistic	_	none	_	Begin=1836.31	_	_	_	_
+ 595-1	TO004	595	1	uno	uno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-595-2	TO004	595	2	stadio:ha,	stadioha	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1837.59	5x1	_	_	_
++595-2	TO004	595	2	stadio:	stadio	_	_	_	_	_	linguistic	_	none	_	End=1837.59	5x1	_	_	_
++595-3	TO004	_	0	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 596-0	TO004	596	0	<una>,	una	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=1838.15|End=1838.9	_	Slow=0-3(0)	_	_
+ 597-0	TO004	597	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=1840.66	_	_	_	_
+ 597-1	TO004	597	1	solo	solo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -4006,7 +4007,7 @@
+ 693-0	TO004	693	0	naturalmente	naturalmente	_	_	_	_	_	linguistic	_	none	_	Begin=2112.326	_	_	_	_
+ 693-1	TO004	693	1	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 693-2	TO004	693	2	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-693-3	TO004	693	3	like,	like	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++693-3	TO004	693	3	like,	like	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising|Lang=dia	_	_	_	_	_
+ 693-4	TO004	693	4	ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 693-5	TO004	693	5	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 693-6	TO004	693	6	semplicemente	semplicemente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -4607,7 +4608,7 @@
+ 791-10	TO004	791	10	quadrato.	quadrato	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=2394.255	_	_	_	_
+ 792-0	TO004	792	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=2396.481	_	_	_	_
+ 792-1	TO004	792	1	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-792-2	TO004	792	2	vità	vità	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++792-2	TO004	792	2	vita	vita	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 792-3	TO004	792	3	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 792-4	TO004	792	4	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 792-5	TO004	792	5	movimento	movimento	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -4637,7 +4638,7 @@
+ 795-11	TO004	795	11	dove,	dove	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2406.547	_	_	_	_
+ 796-0	TO004	796	0	<v'	v'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=2406.906	_	Slow=0-2(0)	_	_
+ 796-1	TO004	796	1	immergete>	immergete	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-9(0)	_	_
+-796-2	TO004	796	2	nel~	nel~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
++796-2	TO004	796	2	nel~	nelle	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+ 796-3	TO004	796	3	nelle	nelle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 796-4	TO004	796	4	perso~	perso~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+ 796-5	TO004	796	5	tra	tra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -4714,7 +4715,7 @@
+ 811-15	TO004	811	15	parla	parla	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 811-16	TO004	811	16	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 811-17	TO004	811	17	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-811-18	TO004	811	18	ro:ck,	rock	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2451.463	1x1	_	_	_
++811-18	TO004	811	18	ro:ck,,	ro:ck,,	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=2451.463	1x1	_	_	_
+ 812-0	TO004	812	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=2451.517	_	_	_	_
+ 812-1	TO004	812	1	così	così	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 812-2	TO004	812	2	via::.	via	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	2x2	_	_	_
+@@ -5241,7 +5242,7 @@
+ 904-3	TO004	904	3	sia	sia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 904-4	TO004	904	4	meglio	meglio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 904-5	TO004	904	5	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-904-6	TO004	904	6	chie	chie	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++904-6	TO004	904	6	che,	che	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 904-7	TO004	904	7	sia	sia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 904-8	TO004	904	8	peggio	peggio	_	_	_	_	_	linguistic	_	none	_	End=2730.963	_	_	_	_
+ 905-0	TO004	905	0	è	è	_	_	_	_	_	linguistic	_	none	_	Begin=2730.986	_	_	_	_
+@@ -5863,7 +5864,7 @@
+ 1015-0	TO004	1015	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=3055.792	_	_	_	_
+ 1015-1	TO004	1015	1	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1015-2	TO004	1015	2	cosa	cosa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1015-3	TO004	1015	3	comne	comne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1015-3	TO004	1015	3	comune,	comune	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 1015-4	TO004	1015	4	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1015-5	TO004	1015	5	chiama	chiama	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1015-6	TO004	1015	6	musica.	musica	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=3057.647	_	_	_	_
+@@ -5931,7 +5932,7 @@
+ 1026-0	TO004	1026	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=3097.781	_	_	_	_
+ 1026-1	TO004	1026	1	comunque	comunque	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1026-2	TO004	1026	2	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1026-3	TO004	1026	3	abbstanza,	abbstanza	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=3099.49	_	_	_	_
++1026-3	TO004	1026	3	abbastanza	abbastanza	_	_	_	_	_	linguistic	_	none	_	End=3099.49	_	_	_	_
+ 1027-0	TO004	1027	0	accessorie,	accessorie	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=3099.558|End=3100.485	_	_	_	_
+ 1028-0	TO004	1028	0	<comunica:>,	comunica	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=3104.199|End=3105.472	7x1	Slow=0-8(0)	_	_
+ 1029-0	TO004	1029	0	<tutta	tutta	_	_	_	_	_	linguistic	_	none	_	Begin=3105.576	_	Slow=0-5(0)	_	_
+@@ -6021,10 +6022,11 @@
+ 1050-2	TO004	1050	2	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1050-3	TO004	1050	3	sia	sia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1050-4	TO004	1050	4	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1050-5	TO004	1050	5	cretinoma.	cretinoma	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+-1050-6	TO004	1050	6	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1050-7	TO004	1050	7	ogni	ogni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1050-8	TO004	1050	8	caso,	caso	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=3158.96	_	_	_	_
++1050-5	TO004	1050	5	cretino	cretino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1050-9	TO004	1050	6	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1050-6	TO004	1050	7	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1050-7	TO004	1050	8	ogni	ogni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1050-8	TO004	1050	9	caso,	caso	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=3158.96	_	_	_	_
+ 1051-0	TO004	1051	0	penso	penso	_	_	_	_	_	linguistic	_	none	_	Begin=3159.168	_	_	_	_
+ 1051-1	TO004	1051	1	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1051-2	TO004	1051	2	sia	sia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -6496,7 +6498,7 @@
+ 1142-4	TO004	1142	4	obrigado	obrigado	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1142-5	TO004	1142	5	o	o	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+ 1142-6	TO004	1142	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-1142-7	TO004	1142	7	obrigada.	obrigada	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=3423.173	_	_	_	_
++1142-7	TO004	1142	7	obrigada.	obrigada	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Lang= por	End=3423.173	_	_	_	_
+ 1143-0	TO004	1143	0	mi	mi	_	_	_	_	_	linguistic	_	none	_	Begin=3423.767	_	_	_	_
+ 1143-1	TO004	1143	1	sento	sento	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1143-2	TO004	1143	2	obbligato	obbligato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -6523,7 +6525,7 @@
+ 1148-2	TO004	1148	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 1148-3	TO004	1148	3	meccanica	meccanica	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1148-4	TO004	1148	4	dice,	dice	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-1148-5	TO004	1148	5	obrigada.	obrigada	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=3440.118	_	_	_	_
++1148-5	TO004	1148	5	obrigada.	obrigada	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Lang=por	End=3440.118	_	_	_	_
+ 1149-0	TO004	1149	0	è	è	_	_	_	_	_	linguistic	_	none	_	Begin=3441.601	_	_	_	_
+ 1149-1	TO004	1149	1	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1149-2	TO004	1149	2	voce	voce	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -6603,12 +6605,13 @@
+ 1163-1	TO004	1163	1	mezzo	mezzo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1163-2	TO004	1163	2	tecnico	tecnico	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1163-3	TO004	1163	3	come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1163-4	TO004	1163	4	lametropolitana	lametropolitana	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1163-5	TO004	1163	5	vi	vi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1163-6	TO004	1163	6	sta	sta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1163-7	TO004	1163	7	facendo	facendo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1163-8	TO004	1163	8	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1163-9	TO004	1163	9	servizio.	servizio	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=3489.561	_	_	_	_
++1163-4	TO004	1163	4	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1163-10	TO004	1163	5	metropolitana	metropolitana	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1163-5	TO004	1163	6	vi	vi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1163-6	TO004	1163	7	sta	sta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1163-7	TO004	1163	8	facendo	facendo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1163-8	TO004	1163	9	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1163-9	TO004	1163	10	servizio.	servizio	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=3489.561	_	_	_	_
+ 1164-0	TO004	1164	0	il	il	_	_	_	_	_	linguistic	_	none	_	Begin=3491.844	_	_	_	_
+ 1164-1	TO004	1164	1	messaggio	messaggio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1164-2	TO004	1164	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -6940,10 +6943,10 @@
+ 1237-1	TO004	1237	1	due	due	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1237-2	TO004	1237	2	parole	parole	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1237-3	TO004	1237	3	greche.	greche	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=3692.498	_	_	_	_
+-1238-0	TO004	1238	0	fono	fono	_	_	_	_	_	linguistic	_	none	_	Begin=3693.838	_	_	_	_
++1238-0	TO004	1238	0	fono	fono	_	_	_	_	_	linguistic	_	none	Lang=gre	Begin=3693.838	_	_	_	_
+ 1238-1	TO004	1238	1	<suono>,	suono	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=3695.158	_	Slow=0-5(0)	_	_
+-1239-0	TO004	1239	0	(gramma)	gramma	_	_	_	_	_	linguistic	_	none	_	Begin=3696.453	_	_	0-6(0)	_
+-1239-1	TO004	1239	1	grammatos	grammatos	_	_	_	_	_	linguistic	_	none	_	End=3698.023	_	_	_	_
++1239-0	TO004	1239	0	(gramma)	gramma	_	_	_	_	_	linguistic	_	none	Lang=gre	Begin=3696.453	_	_	0-6(0)	_
++1239-1	TO004	1239	1	grammatos	grammatos	_	_	_	_	_	linguistic	_	none	Lang=gre	End=3698.023	_	_	_	_
+ 1240-0	TO004	1240	0	scrittura.	scrittura	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=3698.433|End=3699.333	_	_	_	_
+ 1241-0	TO004	1241	0	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	Begin=3700.018	_	_	_	_
+ 1241-1	TO004	1241	1	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -7015,7 +7018,7 @@
+ 1259-7	TO004	1259	7	giradischi	giradischi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1259-8	TO004	1259	8	arriva	arriva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1259-9	TO004	1259	9	esattamente	esattamente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1259-10	TO004	1259	10	quano	quano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1259-10	TO004	1259	10	quando	quando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1259-11	TO004	1259	11	arriva	arriva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1259-12	TO004	1259	12	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1259-13	TO004	1259	13	rock	rock	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -7126,8 +7129,8 @@
+ 1284-2	TO004	1284	2	(stupitissima).	stupitissima	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	0-12(0)	_
+ 1284-3	TO004	1284	3	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1284-4	TO004	1284	4	chiama	chiama	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1284-5	TO004	1284	5	computer	computer	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1284-6	TO004	1284	6	science.	science	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=3834.158	_	_	_	_
++1284-5	TO004	1284	5	computer	computer	_	_	_	_	_	linguistic	_	none	Lang=eng	_	_	_	_	_
++1284-6	TO004	1284	6	science.	science	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Lang=eng	End=3834.158	_	_	_	_
+ 1285-0	TO004	1285	0	ma,	ma	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=3834.233|End=3834.623	_	_	_	_
+ 1286-0	TO004	1286	0	in	in	_	_	_	_	_	linguistic	_	none	_	Begin=3834.843	_	_	_	_
+ 1286-1	TO004	1286	1	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -7768,9 +7771,7 @@
+ 1407-8	TO004	1407	8	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-2(0)	_	_
+ 1407-9	TO004	1407	9	mandare	mandare	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-7(0)	_	_
+ 1407-10	TO004	1407	10	gli	gli	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-3(0)	_	_
+-1407-11	TO004	1407	11	esse	esse	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-4(0)	_	_
+-1407-12	TO004	1407	12	emme	emme	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-4(0)	_	_
+-1407-13	TO004	1407	13	esse>,	esse	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=4205.139	_	Slow=0-4(0)	_	_
++1407-11	TO004	1407	11	essemmesse	esse	_	_	_	_	_	linguistic	_	none	_	End=4205.139	_	Slow=0-4(0)	_	_
+ 1408-0	TO004	1408	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=4205.208	_	_	_	_
+ 1408-1	TO004	1408	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1408-2	TO004	1408	2	quella	quella	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -7806,7 +7807,7 @@
+ 1412-7	TO004	1412	7	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1412-8	TO004	1412	8	fare	fare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1412-9	TO004	1412	9	i	i	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1412-10	TO004	1412	10	selfie.	selfie	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
++1412-10	TO004	1412	10	selfie.	selfie	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Lang= dia	_	_	_	_	_
+ 1412-11	TO004	1412	11	pensate	pensate	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1412-12	TO004	1412	12	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1412-13	TO004	1412	13	po'.	po'	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=4219.149	_	_	_	_
+@@ -8137,16 +8138,17 @@
+ 1489-0	TO004	1489	0	di	di	_	_	_	_	_	linguistic	_	none	_	Begin=4475.673	_	_	_	_
+ 1489-1	TO004	1489	1	google	google	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1489-2	TO004	1489	2	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1489-3	TO004	1489	3	dalpunto	dalpunto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1489-4	TO004	1489	4	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1489-5	TO004	1489	5	vista	vista	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1489-6	TO004	1489	6	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1489-7	TO004	1489	7	nostro	nostro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1489-8	TO004	1489	8	computer	computer	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1489-9	TO004	1489	9	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1489-10	TO004	1489	10	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1489-11	TO004	1489	11	stessa	stessa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1489-12	TO004	1489	12	cosa.	cosa	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=4479.163	_	_	_	_
++1489-3	TO004	1489	3	dal	dal	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1489-13	TO004	1489	4	punto	punto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1489-4	TO004	1489	5	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1489-5	TO004	1489	6	vista	vista	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1489-6	TO004	1489	7	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1489-7	TO004	1489	8	nostro	nostro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1489-8	TO004	1489	9	computer	computer	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1489-9	TO004	1489	10	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1489-10	TO004	1489	11	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1489-11	TO004	1489	12	stessa	stessa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1489-12	TO004	1489	13	cosa.	cosa	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=4479.163	_	_	_	_
+ 1490-0	TO004	1490	0	il	il	_	_	_	_	_	linguistic	_	none	_	Begin=4480.488	_	_	_	_
+ 1490-1	TO004	1490	1	problema	problema	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1490-2	TO004	1490	2	può	può	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -8495,7 +8497,6 @@
+ 1552-16	TO004	1552	16	altro	altro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1552-17	TO004	1552	17	linguaggio.	linguaggio	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=4688.463	_	_	_	_
+ 1553-0	TO004	1553	0	<mol>	mol	_	_	_	_	_	linguistic	_	none	_	Begin=4690.333|End=4690.903	_	Slow=0-3(0)	_	_
+-1554-0	TO004	1554	0	ti	ti	_	_	_	_	_	linguistic	_	none	_	Begin=4691.238|End=4691.668	_	_	_	_
+ 1555-0	TO004	1555	0	molto	molto	_	_	_	_	_	linguistic	_	none	_	Begin=4691.743	_	_	_	_
+ 1555-1	TO004	1555	1	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1555-2	TO004	1555	2	significato	significato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -8751,13 +8752,13 @@
+ 1595-2	TO004	1595	2	colore	colore	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1595-3	TO004	1595	3	fa	fa	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+ 1595-4	TO004	1595	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-1595-5	TO004	1595	5	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1595-6	TO004	1595	6	differenza.	differenza	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=4812.878	_	_	_	_
++1595-6	TO004	1595	5	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1595-7	TO004	1595	6	differenza.	differenza	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=4812.878	_	_	_	_
+ 1596-0	TO004	1596	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=4813.818	_	_	_	_
+ 1596-1	TO004	1596	1	attenzione	attenzione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1596-2	TO004	1596	2	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1596-3	TO004	1596	3	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1596-4	TO004	1596	4	vo	vo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1596-4	TO004	1596	4	vi	vi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1596-5	TO004	1596	5	s:to:	sto	_	_	_	_	_	linguistic	_	none	_	End=4815.519	0x1,2x1	_	_	_
+ 1597-0	TO004	1597	0	dicendo,	dicendo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=4815.698|End=4816.839	_	_	_	_
+ 1598-0	TO004	1598	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=4816.938	_	_	_	_
+@@ -8808,7 +8809,7 @@
+ 1608-1	TO004	1608	1	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1608-2	TO004	1608	2	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1608-3	TO004	1608	3	ferma	ferma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1608-4	TO004	1608	4	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1608-4	TO004	1608	4	su	su	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1608-5	TO004	1608	5	significati,	significati	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=4846.358	_	_	_	_
+ 1609-0	TO004	1609	0	espliciti.	espliciti	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=4846.453|End=4847.733	_	_	_	_
+ 1610-0	TO004	1610	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=4849.733	_	_	_	_
+@@ -8997,7 +8998,7 @@
+ 1655-5	TO004	1655	5	parola.	parola	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=4974.313	_	_	_	_
+ 1656-0	TO004	1656	0	tende	tende	_	_	_	_	_	linguistic	_	none	_	Begin=4975.818	_	_	_	_
+ 1656-1	TO004	1656	1	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-1656-2	TO004	1656	2	esere	esere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1656-2	TO004	1656	2	essere	essere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1656-3	TO004	1656	3	standardizzata.	standardizzata	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+ 1656-4	TO004	1656	4	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1656-5	TO004	1656	5	standardizzazione	standardizzazione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -9579,7 +9580,7 @@
+ 1757-4	TO004	1757	4	diverse,	diverse	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	Fast=0-7(0)	_	_
+ 1757-5	TO004	1757	5	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	Fast=0-2(0)	_	_
+ 1757-6	TO004	1757	6	<tanti>	tanti	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-5(1)	_	_
+-1757-7	TO004	1757	7	lnguaggi	lnguaggi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++1757-7	TO004	1757	7	linguaggi	linguaggi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 1757-8	TO004	1757	8	diversi,	diversi	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=5267.538	_	_	_	_
+ 1758-0	TO004	1758	0	di	di	_	_	_	_	_	linguistic	_	none	_	Begin=5267.578	_	_	_	_
+ 1758-1	TO004	1758	1	<tanti>	tanti	_	_	_	_	_	linguistic	_	none	_	_	_	Slow=0-5(0)	_	_

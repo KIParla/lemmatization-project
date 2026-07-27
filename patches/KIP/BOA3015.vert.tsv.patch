@@ -1,0 +1,452 @@
+--- a/tsv/BOA3015.vert.tsv
++++ b/tsv/BOA3015.vert.tsv
+@@ -48,7 +48,7 @@
+ 3-12	BO086	3	12	svizzera	svizzera	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 3-13	BO086	3	13	italiana,	italiana	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 3-14	BO086	3	14	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-3-15	BO086	3	15	@nomepaese,	@nomepaese	_	_	_	_	_	anonymized	_	none	Intonation=WeaklyRising	End=21.378	_	_	_	_
++3-15	BO086	3	15	@nomepaese,	@nomepaese,	_	_	_	_	_	anonymized	_	none	Intonation=WeaklyRising	End=21.378	_	_	_	_
+ 4-0	BO086	4	0	che	che	_	_	_	_	_	linguistic	_	none	_	Begin=21.976	_	_	_	_
+ 4-1	BO086	4	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 4-2	BO086	4	2	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -130,7 +130,7 @@
+ 12-14	BO086	12	14	anno	anno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 12-15	BO086	12	15	molto	molto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 12-16	BO086	12	16	di~	di~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+-12-17	BO086	12	17	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++12-17	BO086	12	17	m	m	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 12-18	BO086	12	18	molto	molto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 12-19	BO086	12	19	divertimento	divertimento	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 12-20	BO086	12	20	con	con	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -181,7 +181,7 @@
+ 14-10	BO086	14	10	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 14-11	BO086	14	11	santa	santa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 14-12	BO086	14	12	cristina	cristina	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-14-13	BO086	14	13	perche	perche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++14-13	BO086	14	13	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 14-14	BO086	14	14	vengo	vengo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 14-15	BO086	14	15	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 14-16	BO086	14	16	studiare	studiare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -282,7 +282,7 @@
+ 20-19	BO086	20	19	studiavo	studiavo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 20-20	BO086	20	20	anco~	anco~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+ 20-21	BO086	20	21	s	s	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-20-22	BO086	20	22	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++20-22	BO086	20	22	m	m	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 20-23	BO086	20	23	facevo	facevo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 20-24	BO086	20	24	ancora	ancora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 20-25	BO086	20	25	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -293,7 +293,7 @@
+ 21-3	BO086	21	3	ultimo	ultimo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 21-4	BO086	21	4	anno	anno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 21-5	BO086	21	5	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-21-6	BO086	21	6	lice,	lice	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++21-6	BO086	21	6	liceo,	liceo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 21-7	BO086	21	7	ed	ed	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 21-8	BO086	21	8	ero	ero	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 21-9	BO086	21	9	venuta	venuta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -730,7 +730,7 @@
+ 57-13	BO086	57	13	guarda,	guarda	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 57-14	BO086	57	14	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	_	_	_	_	_
+ 57-15	BO086	57	15	ne	ne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-57-16	BO086	57	16	abbiam	abbiam	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++57-16	BO086	57	16	abbiam	abbiamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 57-17	BO086	57	17	passate	passate	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 57-18	BO086	57	18	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 57-19	BO086	57	19	tutti	tutti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -952,16 +952,17 @@
+ 78-15	BO115	78	15	voglia	voglia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 78-16	BO115	78	16	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 78-17	BO115	78	17	[starci.	starci	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	0-6(9)
+-78-18	BO115	78	18	percui]	percui	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(9)
+-78-19	BO115	78	19	secondo	secondo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-78-20	BO115	78	20	me	me	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-78-21	BO115	78	21	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-78-22	BO115	78	22	tu.	tu	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+-78-23	BO115	78	23	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-78-24	BO115	78	24	te	te	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-78-25	BO115	78	25	ne	ne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-78-26	BO115	78	26	vai,	vai	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-78-27	BO115	78	27	[ritorni],	ritorni	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=339.37	_	_	_	0-7(8)
++78-18	BO115	78	18	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(9)
++78-28	BO115	78	19	cui]	cui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++78-19	BO115	78	20	secondo	secondo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++78-20	BO115	78	21	me	me	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++78-21	BO115	78	22	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++78-22	BO115	78	23	tu.	tu	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
++78-23	BO115	78	24	se	se	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++78-24	BO115	78	25	te	te	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++78-25	BO115	78	26	ne	ne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++78-26	BO115	78	27	vai,	vai	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++78-27	BO115	78	28	[ritorni],	ritorni	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=339.37	_	_	_	0-7(8)
+ 79-0	BO086	79	0	[mh.	mh	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=335.978	_	_	_	0-2(9)
+ 79-1	BO086	79	1	vabbè].	vabbè	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=336.853	_	_	_	0-5(9)
+ 80-0	BO086	80	0	[sì:],	sì	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=338.45	1x1	_	_	0-2(8)
+@@ -1078,7 +1079,7 @@
+ 87-15	BO086	87	15	vivere	vivere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 87-16	BO086	87	16	fuori	fuori	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 87-17	BO086	87	17	casa.	casa	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=373.36	_	_	_	_
+-88-0	BO086	88	0	però::m,	peròm	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=373.71	3x2	_	_	_
++88-0	BO086	88	0	però::,	però	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=373.71	3x2	_	_	_
+ 88-1	BO086	88	1	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 88-2	BO086	88	2	so	so	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 88-3	BO086	88	3	forse	forse	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1211,7 +1212,7 @@
+ 100-6	BO086	100	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 100-7	BO086	100	7	appartata.	appartata	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=414.13	_	_	_	_
+ 101-0	BO086	101	0	però::	però	_	_	_	_	_	linguistic	_	none	_	Begin=415.155	3x2	_	_	_
+-101-1	BO086	101	1	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++101-1	BO086	101	1	m	m	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 101-2	BO086	101	2	[sì].	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=417.958	_	_	_	0-2(14)
+ 102-0	BO115	102	0	[invece]::	invece	_	_	_	_	_	linguistic	_	none	_	Begin=417.658	5x2	_	_	0-6(14)
+ 102-1	BO115	102	1	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1400,7 +1401,7 @@
+ 115-4	BO086	115	4	utile	utile	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 115-5	BO086	115	5	perché::	perché	_	_	_	_	_	linguistic	_	none	_	_	5x2	_	_	_
+ 115-6	BO086	115	6	avrei	avrei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-115-7	BO086	115	7	moilte	moilte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++115-7	BO086	115	7	molte	molte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 115-8	BO086	115	8	critiche	critiche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 115-9	BO086	115	9	da::	da	_	_	_	_	_	linguistic	_	none	_	_	1x2	_	_	_
+ 115-10	BO086	115	10	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1702,16 +1703,17 @@
+ 142-28	BO086	142	28	teatro,	teatro	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=585.606	_	_	_	_
+ 143-0	BO086	143	0	e::h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=586.3	0x2	_	_	_
+ 143-1	BO086	143	1	devi	devi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-143-2	BO086	143	2	devi::mh	devimh	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	3x2	_	_	_
+-143-3	BO086	143	3	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-143-4	BO086	143	4	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-143-5	BO086	143	5	girare,	girare	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-143-6	BO086	143	6	insomma	insomma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-143-7	BO086	143	7	sei	sei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-143-8	BO086	143	8	sempre	sempre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-143-9	BO086	143	9	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-143-10	BO086	143	10	movimento,	movimento	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-143-11	BO086	143	11	non	non	_	_	_	_	_	linguistic	_	none	_	End=592.85	_	_	_	_
++143-2	BO086	143	2	devi::	devi	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	3x2	_	_	_
++143-12	BO086	143	3	_	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++143-3	BO086	143	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
++143-4	BO086	143	5	poi	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++143-5	BO086	143	6	girare,	girare	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++143-6	BO086	143	7	insomma	insomma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++143-7	BO086	143	8	sei	sei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++143-8	BO086	143	9	sempre	sempre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++143-9	BO086	143	10	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++143-10	BO086	143	11	movimento,	movimento	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++143-11	BO086	143	12	non	non	_	_	_	_	_	linguistic	_	none	_	End=592.85	_	_	_	_
+ 144-0	BO086	144	0	dipendi,	dipendi	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=593.011	_	_	_	_
+ 144-1	BO086	144	1	dipendi	dipendi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 144-2	BO086	144	2	dalle	dalle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1758,7 +1760,7 @@
+ 146-4	BO115	146	4	ciao	ciao	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 146-5	BO115	146	5	ciao.	ciao	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+ 146-6	BO115	146	6	[belli].	belli	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=607.758	_	_	_	0-5(21)
+-147-0	BO086	147	0	[si].	si	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=607.355|End=607.797	_	_	_	0-2(21)
++147-0	BO086	147	0	[sì].	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=607.355|End=607.797	_	_	_	0-2(21)
+ 148-0	BO086	148	0	dev~	dev~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	Begin=610.366	_	_	_	_
+ 148-1	BO086	148	1	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 148-2	BO086	148	2	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1862,13 +1864,14 @@
+ 156-5	BO115	156	5	del	del	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 156-6	BO115	156	6	futuro:,	futuro	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=650.303	5x1	_	_	_
+ 157-0	BO086	157	0	sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=650.316|End=650.655	_	_	_	_
+-158-0	BO115	158	0	anchìo	anchìo	_	_	_	_	_	linguistic	_	none	_	Begin=650.684	_	_	_	_
+-158-1	BO115	158	1	adesso	adesso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-158-2	BO115	158	2	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-158-3	BO115	158	3	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
+-158-4	BO115	158	4	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-158-5	BO115	158	5	stessa	stessa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-158-6	BO115	158	6	situazione.	situazione	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=652.895	_	_	_	_
++158-0	BO115	158	0	anch'	anch'	_	_	_	_	_	linguistic	_	none	Truncated=Yes	Begin=650.684	_	_	_	_
++158-7	BO115	158	1	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++158-1	BO115	158	2	adesso	adesso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++158-2	BO115	158	3	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++158-3	BO115	158	4	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	_	_	_	_	_
++158-4	BO115	158	5	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++158-5	BO115	158	6	stessa	stessa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++158-6	BO115	158	7	situazione.	situazione	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=652.895	_	_	_	_
+ 159-0	BO086	159	0	si	si	_	_	_	_	_	linguistic	_	none	_	Begin=654.973	_	_	_	_
+ 159-1	BO086	159	1	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 159-2	BO086	159	2	è::	è	_	_	_	_	_	linguistic	_	none	_	_	0x2	_	_	_
+@@ -2018,12 +2021,12 @@
+ 174-5	BO086	174	5	son	son	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 174-6	BO086	174	6	proprio	proprio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 174-7	BO086	174	7	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-174-8	BO086	174	8	@nomepaese,	@nomepaese	_	_	_	_	_	anonymized	_	none	Intonation=WeaklyRising	_	_	_	_	_
++174-8	BO086	174	8	@nomepaese,	@nomepaese,	_	_	_	_	_	anonymized	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 174-9	BO086	174	9	però	però	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 174-10	BO086	174	10	sto	sto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 174-11	BO086	174	11	vicino	vicino	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 174-12	BO086	174	12	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-174-13	BO086	174	13	@nomepaese.	@nomepaese	_	_	_	_	_	anonymized	_	none	Intonation=Falling	End=717.58	_	_	_	_
++174-13	BO086	174	13	@nomepaese.	@nomepaese.	_	_	_	_	_	anonymized	_	none	Intonation=Falling	End=717.58	_	_	_	_
+ 175-0	BO086	175	0	io	io	_	_	_	_	_	linguistic	_	none	_	Begin=719.016	_	_	_	_
+ 175-1	BO086	175	1	non	non	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+ 175-2	BO086	175	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+@@ -2031,7 +2034,7 @@
+ 175-4	BO086	175	4	assolutamente	assolutamente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 175-5	BO086	175	5	tornarci	tornarci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 175-6	BO086	175	6	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-175-7	BO086	175	7	vevere	vevere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++175-7	BO086	175	7	vivere	vivere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 175-8	BO086	175	8	là.	là	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=721.641	_	_	_	_
+ 176-0	BO086	176	0	nel	nel	_	_	_	_	_	linguistic	_	none	_	Begin=721.691	_	_	_	_
+ 176-1	BO086	176	1	senso	senso	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+@@ -2053,7 +2056,7 @@
+ 177-3	BO086	177	3	quando	quando	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 177-4	BO086	177	4	finirò,	finirò	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 177-5	BO086	177	5	qua,	qua	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=729.686	_	_	_	_
+-178-0	BO086	178	0	vorei	vorei	_	_	_	_	_	linguistic	_	none	_	Begin=730.08	_	_	_	_
++178-0	BO086	178	0	vorrei	vorrei	_	_	_	_	_	linguistic	_	none	_	Begin=730.08	_	_	_	_
+ 178-1	BO086	178	1	andare	andare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 178-2	BO086	178	2	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 178-3	BO086	178	3	losanna,	losanna	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+@@ -2082,7 +2085,7 @@
+ 182-0	BO086	182	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=742.403	_	_	_	_
+ 182-1	BO086	182	1	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 182-2	BO086	182	2	po'	po'	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-182-3	BO086	182	3	perche	perche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++182-3	BO086	182	3	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 182-4	BO086	182	4	vo~	vo~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+ 182-5	BO086	182	5	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 182-6	BO086	182	6	tengo	tengo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2322,12 +2325,12 @@
+ 199-0	BO115	199	0	in	in	_	_	_	_	_	linguistic	_	none	_	Begin=819.973	_	_	_	_
+ 199-1	BO115	199	1	mezzo	mezzo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 199-2	BO115	199	2	ai	ai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-199-3	BO115	199	3	mondi	mondi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++199-3	BO115	199	3	monti	monti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 199-4	BO115	199	4	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 199-5	BO115	199	5	no?	no	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=821.196	_	_	_	_
+ 200-0	BO086	200	0	eh	eh	_	_	_	_	_	linguistic	_	none	_	Begin=821.52	_	_	_	_
+ 200-1	BO086	200	1	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-200-2	BO086	200	2	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++200-2	BO086	200	2	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 200-3	BO086	200	3	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 200-4	BO086	200	4	ma,	ma	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 200-5	BO086	200	5	losanna	losanna	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2347,8 +2350,8 @@
+ 201-4	BO115	201	4	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 201-5	BO115	201	5	ginevra	ginevra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 201-6	BO115	201	6	[no]?	no	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=826.558	_	_	_	0-2(28)
+-202-0	BO086	202	0	[si]	si	_	_	_	_	_	linguistic	_	none	_	Begin=826.365	_	_	_	0-2(28)
+-202-1	BO086	202	1	si.	si	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=827.083	_	_	_	_
++202-0	BO086	202	0	[sì]	sì	_	_	_	_	_	linguistic	_	none	_	Begin=826.365	_	_	_	0-2(28)
++202-1	BO086	202	1	sì.	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=827.083	_	_	_	_
+ 203-0	BO086	203	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=827.33	_	_	_	_
+ 203-1	BO086	203	1	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 203-2	BO086	203	2	lago	lago	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2650,8 +2653,9 @@
+ 230-1	BO115	230	1	tanto	tanto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 230-2	BO115	230	2	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 230-3	BO115	230	3	laureo,	laureo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+-230-4	BO115	230	4	percui::	percui	_	_	_	_	_	linguistic	_	none	_	_	5x2	_	_	_
+-230-5	BO115	230	5	[sì].	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=938.695	_	_	_	0-2(29)
++230-6	BO115	230	4	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++230-4	BO115	230	5	cui::	cui	_	_	_	_	_	linguistic	_	none	_	_	5x2	_	_	_
++230-5	BO115	230	6	[sì].	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=938.695	_	_	_	0-2(29)
+ 231-0	BO086	231	0	[ti	ti	_	_	_	_	_	linguistic	_	none	_	Begin=938.266	_	_	_	0-2(29)
+ 231-1	BO086	231	1	la]urei:	laurei	_	_	_	_	_	linguistic	_	none	_	_	5x1	_	_	0-2(29)
+ 231-2	BO086	231	2	quando,	quando	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+@@ -2717,7 +2721,7 @@
+ 242-6	BO115	242	6	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 242-7	BO115	242	7	realtà,	realtà	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 242-8	BO115	242	8	si	si	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
+-242-9	BO115	242	9	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++242-9	BO115	242	9	m	m	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 242-10	BO115	242	10	mettono	mettono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 242-11	BO115	242	11	assieme	assieme	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 242-12	BO115	242	12	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2733,7 +2737,7 @@
+ 243-3	BO086	243	3	è::]	è	_	_	_	_	_	linguistic	_	none	_	_	0x2	_	_	0-1(34)
+ 243-4	BO086	243	4	sem~	sem~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+ 243-5	BO086	243	5	sì.	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+-243-6	BO086	243	6	ê	ê	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++243-6	BO086	243	6	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 243-7	BO086	243	7	così	così	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 243-8	BO086	243	8	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 243-9	BO086	243	9	quando:	quando	_	_	_	_	_	linguistic	_	none	_	_	5x1	_	_	_
+@@ -2772,7 +2776,7 @@
+ 247-7	BO086	247	7	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(39)
+ 247-8	BO086	247	8	vis]to::,	visto	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	4x2	_	_	0-3(39)
+ 247-9	BO086	247	9	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-247-10	BO086	247	10	passsato	passsato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++247-10	BO086	247	10	passato	passato	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 247-11	BO086	247	11	da	da	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 247-12	BO086	247	12	bologna	bologna	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 247-13	BO086	247	13	così.	così	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+@@ -2846,7 +2850,7 @@
+ 254-1	BO086	254	1	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 254-2	BO086	254	2	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 254-3	BO086	254	3	sia~	sia~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+-254-4	BO086	254	4	e::entrambi	eentrambi	_	_	_	_	_	linguistic	_	none	_	_	0x2	_	_	_
++254-4	BO086	254	4	e::ntrambi	entrambi	_	_	_	_	_	linguistic	_	none	_	_	0x2	_	_	_
+ 254-5	BO086	254	5	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 254-6	BO086	254	6	siamo	siamo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 254-7	BO086	254	7	visti	visti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2874,9 +2878,10 @@
+ 254-29	BO086	254	29	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 254-30	BO086	254	30	avevo::	avevo	_	_	_	_	_	linguistic	_	none	_	_	4x2	_	_	_
+ 254-31	BO086	254	31	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-254-32	BO086	254	32	quindicianni	quindicianni	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-254-33	BO086	254	33	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-254-34	BO086	254	34	so.	so	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1016.078	_	_	_	_
++254-32	BO086	254	32	quindici	quindici	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++254-35	BO086	254	33	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++254-33	BO086	254	34	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++254-34	BO086	254	35	so.	so	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1016.078	_	_	_	_
+ 255-0	BO086	255	0	eh::m	ehm	_	_	_	_	_	linguistic	_	none	_	Begin=1016.901|End=1017.898	1x2	_	_	_
+ 256-0	BO086	256	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=1019.266	_	_	_	_
+ 256-1	BO086	256	1	quest'	quest'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+@@ -2884,7 +2889,7 @@
+ 256-3	BO086	256	3	e:hm	ehm	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
+ 256-4	BO086	256	4	quest'	quest'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 256-5	BO086	256	5	estate	estate	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-256-6	BO086	256	6	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++256-6	BO086	256	6	m	m	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 256-7	BO086	256	7	lui	lui	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 256-8	BO086	256	8	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 256-9	BO086	256	9	conosciuto::	conosciuto	_	_	_	_	_	linguistic	_	none	_	_	9x2	_	_	_
+@@ -2998,7 +3003,7 @@
+ 265-8	BO086	265	8	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(43)
+ 265-9	BO086	265	9	ferrara	ferrara	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-7(43)
+ 265-10	BO086	265	10	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(43)
+-265-11	BO086	265	11	ferre]ra	ferrera	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(43)
++265-11	BO086	265	11	ferra]ra	ferrara	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(43)
+ 265-12	BO086	265	12	sì	sì	_	_	_	_	_	linguistic	_	none	_	End=1054.191	_	_	_	_
+ 266-0	BO115	266	0	[vabbè],	vabbè	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=1050.625|End=1051.037	_	_	_	0-5(42)
+ 267-0	BO115	267	0	[comunque	comunque	_	_	_	_	_	linguistic	_	none	_	Begin=1051.83	_	_	_	0-8(43)
+@@ -3053,7 +3058,7 @@
+ 271-13	BO115	271	13	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 271-14	BO115	271	14	igor.	igor	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1067.946	_	_	_	_
+ 272-0	BO086	272	0	[è	è	_	_	_	_	_	linguistic	_	none	_	Begin=1065.56	_	_	_	0-1(46)
+-272-1	BO086	272	1	per]che	perche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(46)
++272-1	BO086	272	1	per]ché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(46)
+ 272-2	BO086	272	2	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 272-3	BO086	272	3	di,	di	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1066.305	_	_	_	_
+ 273-0	BO086	273	0	n[o:::].	no	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=1068.37	1x3	_	_	1-2(47)
+@@ -3118,10 +3123,11 @@
+ 280-2	BO115	280	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	End=1080.011	_	_	_	_
+ 281-0	BO115	281	0	[ah	ah	_	_	_	_	_	linguistic	_	none	_	Begin=1080.825	_	_	_	0-2(51)
+ 281-1	BO115	281	1	quindi]	quindi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(51)
+-281-2	BO115	281	2	vivi:tipo	vivitipo	_	_	_	_	_	linguistic	_	none	_	_	3x1	_	_	_
+-281-3	BO115	281	3	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-281-4	BO115	281	4	@nomeluogo.	@nomeluogo	_	_	_	_	_	anonymized	_	none	Intonation=Falling	_	_	_	_	_
+-281-5	BO115	281	5	l[ì:].	lì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1083.018	1x1	_	_	1-2(54)
++281-2	BO115	281	2	vivi:	vivi	_	_	_	_	_	linguistic	_	none	_	_	3x1	_	_	_
++281-6	BO115	281	3	tipo	tipo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++281-3	BO115	281	4	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++281-4	BO115	281	5	@nomeluogo.	@nomeluogo	_	_	_	_	_	anonymized	_	none	Intonation=Falling	_	_	_	_	_
++281-5	BO115	281	6	l[ì:].	lì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1083.018	1x1	_	_	1-2(54)
+ 282-0	BO086	282	0	[sì]	sì	_	_	_	_	_	linguistic	_	none	_	Begin=1082.75	_	_	_	0-2(54)
+ 282-1	BO086	282	1	sì,	sì	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 282-2	BO086	282	2	vivo	vivo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3178,7 +3184,7 @@
+ 288-13	BO086	288	13	dal	dal	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 288-14	BO086	288	14	toscano	toscano	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 288-15	BO086	288	15	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-288-16	BO086	288	16	@nomeluogo.	@nomeluogo	_	_	_	_	_	anonymized	_	none	Intonation=Falling	End=1102.69	_	_	_	_
++288-16	BO086	288	16	@nomeluogo.	@nomeluogo.	_	_	_	_	_	anonymized	_	none	Intonation=Falling	End=1102.69	_	_	_	_
+ 289-0	BO086	289	0	gli	gli	_	_	_	_	_	linguistic	_	none	_	Begin=1102.761	_	_	_	_
+ 289-1	BO086	289	1	faccio	faccio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 289-2	BO086	289	2	oddio,	oddio	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+@@ -3241,7 +3247,7 @@
+ 293-8	BO086	293	8	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 293-9	BO086	293	9	domande:,	domande	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=1123.34	6x1	_	_	_
+ 294-0	BO086	294	0	e:h	eh	_	_	_	_	_	linguistic	_	none	_	Begin=1124.683	0x1	_	_	_
+-294-1	BO086	294	1	si,	si	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
++294-1	BO086	294	1	sì,	sì	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 294-2	BO086	294	2	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 294-3	BO086	294	3	ridere.	ridere	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1125.858	_	_	_	_
+ 295-0	BO086	295	0	tra	tra	_	_	_	_	_	linguistic	_	none	_	Begin=1125.981	_	_	_	_
+@@ -3288,11 +3294,12 @@
+ 303-5	BO086	303	5	ne~	ne~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+ 303-6	BO086	303	6	el	el	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 303-7	BO086	303	7	e	e	_	_	_	_	_	linguistic	_	none	ProsodicLink=Yes	_	_	_	_	_
+-303-8	BO086	303	8	la::vendemmia	lavendemmia	_	_	_	_	_	linguistic	_	none	_	_	1x2	_	_	_
+-303-9	BO086	303	9	dove	dove	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-303-10	BO086	303	10	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-303-11	BO086	303	11	avete	avete	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-303-12	BO086	303	12	fatta?	fatta	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=1139.514	_	_	_	_
++303-8	BO086	303	8	la::	la	_	_	_	_	_	linguistic	_	none	_	_	1x2	_	_	_
++303-13	BO086	303	9	vendemmia	vendemmia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++303-9	BO086	303	10	dove	dove	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++303-10	BO086	303	11	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++303-11	BO086	303	12	avete	avete	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++303-12	BO086	303	13	fatta?	fatta	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=1139.514	_	_	_	_
+ 304-0	BO115	304	0	bourgogne.	bourgogne	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=1139.514|End=1140.058	_	_	_	_
+ 305-0	BO086	305	0	ah,	ah	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=1140.255	_	_	_	_
+ 305-1	BO086	305	1	okay.	okay	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1140.945	_	_	_	_
+@@ -3339,7 +3346,7 @@
+ 314-3	BO115	314	3	dall'	dall'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 314-4	BO115	314	4	altra	altra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 314-5	BO115	314	5	parte	parte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-314-6	BO115	314	6	dela	dela	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++314-6	BO115	314	6	della	della	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 314-7	BO115	314	7	città	città	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 314-8	BO115	314	8	[però]::.	però	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1160.063	3x2	_	_	0-4(62)
+ 315-0	BO086	315	0	[sì].	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=1159.735|End=1160.099	_	_	_	0-2(62)
+@@ -3402,7 +3409,7 @@
+ 325-3	BO086	325	3	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 325-4	BO086	325	4	va,	va	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 325-5	BO086	325	5	se::	se	_	_	_	_	_	linguistic	_	none	_	_	1x2	_	_	_
+-325-6	BO086	325	6	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++325-6	BO086	325	6	m	m	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 325-7	BO086	325	7	perché,	perché	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 325-8	BO086	325	8	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 325-9	BO086	325	9	in	in	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3431,7 +3438,7 @@
+ 326-19	BO086	326	19	esame,	esame	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	_	_	_	_	_
+ 326-20	BO086	326	20	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 326-21	BO086	326	21	stamattina:	stamattina	_	_	_	_	_	linguistic	_	none	_	_	9x1	_	_	_
+-326-22	BO086	326	22	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++326-22	BO086	326	22	m	m	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 326-23	BO086	326	23	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 326-24	BO086	326	24	ho	ho	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 326-25	BO086	326	25	dormito.	dormito	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+@@ -3480,7 +3487,7 @@
+ 334-3	BO086	334	3	ridò.	ridò	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1198.066	_	_	_	_
+ 335-0	BO086	335	0	eh::m::	ehm	_	_	_	_	_	linguistic	_	none	_	Begin=1198.475|End=1200.183	1x2,2x2	_	_	_
+ 336-0	BO086	336	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=1201.353	_	_	_	_
+-336-1	BO086	336	1	si	si	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++336-1	BO086	336	1	sì	sì	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 336-2	BO086	336	2	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 336-3	BO086	336	3	lui	lui	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 336-4	BO086	336	4	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3672,7 +3679,7 @@
+ 365-0	BO086	365	0	no.	no	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=1252.436	_	_	_	_
+ 365-1	BO086	365	1	allora	allora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 365-2	BO086	365	2	la:	la	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
+-365-3	BO086	365	3	mh	mh	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
++365-3	BO086	365	3	m	m	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	_
+ 365-4	BO086	365	4	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 365-5	BO086	365	5	tai.	tai	_	_	_	_	_	linguistic	_	none	Intonation=Falling	_	_	_	_	_
+ 365-6	BO086	365	6	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3696,7 +3703,7 @@
+ 366-7	BO086	366	7	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 366-8	BO086	366	8	chiamate?	chiamate	_	_	_	_	_	linguistic	_	none	Intonation=Rising	_	_	_	_	_
+ 366-9	BO086	366	9	rio	rio	_	_	_	_	_	linguistic	_	none	_	End=1263.162	_	_	_	_
+-367-0	BO115	367	0	[xx]	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=1259.704|End=1260.238	_	_	_	0-2(76)
++367-0	BO115	367	0	[xx]	x	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=1259.704|End=1260.238	_	_	_	0-2(76)
+ 368-0	BO115	368	0	rio.	rio	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=1263.162|End=1263.677	_	_	_	_
+ 369-0	BO086	369	0	ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=1263.832	_	_	_	_
+ 369-1	BO086	369	1	lui	lui	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -3761,7 +3768,7 @@
+ 376-5	BO115	376	5	capisco	capisco	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 376-6	BO115	376	6	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 376-7	BO115	376	7	anch'	anch'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-376-8	BO115	376	8	ìo	ìo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++376-8	BO115	376	8	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 376-9	BO115	376	9	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 376-10	BO115	376	10	volte	volte	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 376-11	BO115	376	11	so[no	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(79)
+@@ -4094,7 +4101,8 @@
+ 416-4	BO086	416	4	fatto	fatto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 416-5	BO086	416	5	conoscere::	conoscere	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	8x2	_	_	_
+ 416-6	BO086	416	6	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+-416-7	BO086	416	7	igor.	igor	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=1375.876	_	_	_	_
++416-7	BO086	416	7	[]	x	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++416-8	BO086	416	8	igor.	igor	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1375.876	_	_	_	_
+ 417-0	BO115	417	0	[igor].	igor	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=1375.091|End=1375.563	_	_	_	0-4(90)
+ 418-0	BO086	418	0	leo?	leo	_	_	_	_	_	linguistic	_	none	Intonation=Rising	Begin=1376.615|End=1377.12	_	_	_	_
+ 419-0	BO115	419	0	leo,	leo	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=1377.676	_	_	_	_

@@ -1,0 +1,381 @@
+--- a/tsv/TOA3010.vert.tsv
++++ b/tsv/TOA3010.vert.tsv
+@@ -45,11 +45,11 @@
+ 8-8	TO086	8	8	design	design	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 8-9	TO086	8	9	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 8-10	TO086	8	10	monza	monza	_	_	_	_	_	linguistic	_	none	_	End=30.759	_	_	_	_
+-9-0	TO086	9	0	[te	te	_	_	_	_	_	linguistic	_	none	_	Begin=31.301	_	_	_	0-2(1)
+-9-1	TO086	9	1	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(1)
+-9-2	TO086	9	2	giuro]	giuro	_	_	_	_	_	linguistic	_	none	_	End=32.555	_	_	_	0-5(1)
+-10-0	TO085	10	0	[stai	stai	_	_	_	_	_	linguistic	_	none	_	Begin=31.301	_	_	_	0-4(1)
+-10-1	TO085	10	1	scherzando]?	scherzando	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=32.555	_	_	_	0-10(1)
++9-0	TO086	9	0	[stai	stai	_	_	_	_	_	linguistic	_	none	_	Begin=31.301	_	_	_	0-2(1)
++9-1	TO086	9	1	scherzando]?	scherzando	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=32.555	_	_	_	0-2(1)
++10-0	TO085	10	0	[te	te	_	_	_	_	_	linguistic	_	none	_	Begin=31.301	_	_	_	0-4(1)
++10-1	TO085	10	1	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-10(1)
++10-2	TO086	10	2	giuro]	giuro	_	_	_	_	_	linguistic	_	_	_	End=32.555	_	_	_	_
+ 11-0	TO086	11	0	sì	sì	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	Begin=32.637	_	_	_	_
+ 11-1	TO086	11	1	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 11-2	TO086	11	2	[no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(2)
+@@ -59,9 +59,10 @@
+ 12-0	TO085	12	0	[uno	uno	_	_	_	_	_	linguistic	_	none	_	Begin=33.051	_	_	_	0-3(2)
+ 12-1	TO085	12	1	come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(2)
+ 12-2	TO085	12	2	fai	fai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(2)
+-12-3	TO085	12	3	sapere	sapere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(2)
+-12-4	TO085	12	4	queste]	queste	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(2)
+-12-5	TO085	12	5	cose	cose	_	_	_	_	_	linguistic	_	none	_	End=35.252	_	_	_	_
++12-6	TO085	12	3	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++12-3	TO085	12	4	sapere	sapere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(2)
++12-4	TO085	12	5	queste]	queste	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(2)
++12-5	TO085	12	6	cose	cose	_	_	_	_	_	linguistic	_	none	_	End=35.252	_	_	_	_
+ 13-0	TO086	13	0	uno	uno	_	_	_	_	_	linguistic	_	none	_	Begin=35.796	_	_	_	_
+ 13-1	TO086	13	1	perché	perché	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 13-2	TO086	13	2	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
+@@ -142,7 +143,7 @@
+ 24-9	TO085	24	9	giorno	giorno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 24-10	TO085	24	10	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 24-11	TO085	24	11	mangio	mangio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-24-12	TO085	24	12	ravoli	ravoli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++24-12	TO085	24	12	ravioli	ravioli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 24-13	TO085	24	13	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 24-14	TO085	24	14	rucola	rucola	_	_	_	_	_	linguistic	_	none	_	End=65.066	_	_	_	_
+ 25-0	TO085	25	0	ed	ed	_	_	_	_	_	linguistic	_	none	_	Begin=65.083	_	_	_	_
+@@ -200,7 +201,7 @@
+ 30-2	TO086	30	2	pizza	pizza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 30-3	TO086	30	3	com'	com'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+ 30-4	TO086	30	4	è	è	_	_	_	_	_	linguistic	_	none	_	End=87.505	_	_	_	_
+-31-0	TO086	31	0	°xxx°	xxx	_	_	_	_	_	unknown	_	none	Volume=low|Syllables=3	Begin=94.723|End=95.837	_	_	_	_
++31-0	TO086	31	0	°xxx°	x	_	_	_	_	_	unknown	_	none	Volume=low|Syllables=3	Begin=94.723|End=95.837	_	_	_	_
+ 32-0	TO085	32	0	sembra	sembra	_	_	_	_	_	linguistic	_	none	_	Begin=110.652	_	_	_	_
+ 32-1	TO085	32	1	buo:na	buona	_	_	_	_	_	linguistic	_	none	_	End=112.181	2x1	_	_	_
+ 33-0	TO086	33	0	m::h	mh	_	_	_	_	_	linguistic	_	none	_	Begin=112.76|End=113.527	0x2	_	_	_
+@@ -211,11 +212,11 @@
+ 34-4	TO086	34	4	glutine	glutine	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 34-5	TO086	34	5	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 34-6	TO086	34	6	è	è	_	_	_	_	_	linguistic	_	none	_	End=118.249	_	_	_	_
+-35-0	TO086	35	0	[perché	perché	_	_	_	_	_	linguistic	_	none	_	Begin=119.458	_	_	_	0-6(6)
+-35-1	TO086	35	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(6)
+-35-2	TO086	35	2	su~]	su~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	End=120.138	_	_	_	0-3(6)
+-36-0	TO085	36	0	[ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=119.458	_	_	_	0-2(6)
+-36-1	TO085	36	1	tu]	tu	_	_	_	_	_	linguistic	_	none	_	End=120.138	_	_	_	0-2(6)
++35-0	TO086	35	0	[ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=119.458	_	_	_	0-6(6)
++35-1	TO086	35	1	tu]	tu	_	_	_	_	_	linguistic	_	none	_	End=120.138	_	_	_	0-1(6)
++36-0	TO085	36	0	[perché	perché	_	_	_	_	_	linguistic	_	none	_	Begin=119.458	_	_	_	0-2(6)
++36-1	TO085	36	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(6)
++36-2	TO086	36	2	su~]	su~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=120.138	_	_	_	_
+ 37-0	TO086	37	0	è	è	_	_	_	_	_	linguistic	_	none	_	Begin=120.179	_	_	_	_
+ 37-1	TO086	37	1	sufficentemente	sufficentemente	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 37-2	TO086	37	2	unta	unta	_	_	_	_	_	linguistic	_	none	_	End=121.964	_	_	_	_
+@@ -264,7 +265,7 @@
+ 46-1	TO086	46	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 46-2	TO086	46	2	abbastanza	abbastanza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 46-3	TO086	46	3	buona	buona	_	_	_	_	_	linguistic	_	none	_	End=146.723	_	_	_	_
+-47-0	TO085	47	0	o	o	_	_	_	_	_	linguistic	_	none	_	Begin=157.09	_	_	_	_
++47-0	TO085	47	0	oh	oh	_	_	_	_	_	linguistic	_	none	_	Begin=157.09	_	_	_	_
+ 47-1	TO085	47	1	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 47-2	TO085	47	2	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 47-3	TO085	47	3	era	era	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -416,7 +417,7 @@
+ 75-1	TO086	75	1	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 75-2	TO086	75	2	ha	ha	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 75-3	TO086	75	3	scritto	scritto	_	_	_	_	_	linguistic	_	none	_	End=223.498	_	_	_	_
+-76-0	TO085	76	0	o	o	_	_	_	_	_	linguistic	_	none	_	Begin=223.501	_	_	_	_
++76-0	TO085	76	0	oh	oh	_	_	_	_	_	linguistic	_	none	_	Begin=223.501	_	_	_	_
+ 76-1	TO085	76	1	cazzo	cazzo	_	_	_	_	_	linguistic	_	none	_	End=224.399	_	_	_	_
+ 77-0	TO086	77	0	lui	lui	_	_	_	_	_	linguistic	_	none	_	Begin=225.003	_	_	_	_
+ 77-1	TO086	77	1	ora	ora	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -486,11 +487,11 @@
+ 87-5	TO086	87	5	come	come	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 87-6	TO086	87	6	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 87-7	TO086	87	7	cretina	cretina	_	_	_	_	_	linguistic	_	none	_	End=259.391	_	_	_	_
+-88-0	TO086	88	0	[è	è	_	_	_	_	_	linguistic	_	none	_	Begin=259.414	_	_	_	0-1(14)
+-88-1	TO086	88	1	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(14)
+-88-2	TO086	88	2	che]	che	_	_	_	_	_	linguistic	_	none	_	End=260.678	_	_	_	0-3(14)
+-89-0	TO085	89	0	[no::	no	_	_	_	_	_	linguistic	_	none	_	Begin=259.414	1x2	_	_	0-2(14)
+-89-1	TO085	89	1	okay]	okay	_	_	_	_	_	linguistic	_	none	_	End=260.678	_	_	_	0-4(14)
++88-0	TO086	88	0	[no::	no	_	_	_	_	_	linguistic	_	none	_	Begin=259.414	_	_	_	0-1(14)
++88-1	TO086	88	1	okay]	okay	_	_	_	_	_	linguistic	_	none	_	End=260.678	_	_	_	0-6(14)
++89-0	TO085	89	0	[è	è	_	_	_	_	_	linguistic	_	none	_	Begin=259.414	1x2	_	_	0-2(14)
++89-1	TO085	89	1	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-4(14)
++89-2	TO086	89	2	che]	che	_	_	_	_	_	linguistic	_	_	_	End=260.678	_	_	_	_
+ 90-0	TO086	90	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=260.869	_	Fast=0-4(0)	_	_
+ 90-1	TO086	90	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 90-2	TO086	90	2	quello	quello	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -559,7 +560,7 @@
+ 103-8	TO085	103	8	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 103-9	TO085	103	9	lucia	lucia	_	_	_	_	_	linguistic	_	none	_	End=291.826	_	_	_	_
+ 104-0	TO085	104	0	sempre	sempre	_	_	_	_	_	linguistic	_	none	_	Begin=292.841|End=293.905	_	_	_	_
+-105-0	TO085	105	0	boh,	boh	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=296.232	_	_	_	_
++105-0	TO085	105	0	boh	boh	_	_	_	_	_	linguistic	_	none	_	Begin=296.232	_	_	_	_
+ 105-1	TO085	105	1	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 105-2	TO085	105	2	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 105-3	TO085	105	3	vedrai?	vedrai	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=298.079	_	_	_	_
+@@ -574,7 +575,7 @@
+ 107-2	TO086	107	2	dire	dire	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 107-3	TO086	107	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 107-4	TO086	107	4	no	no	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-107-5	TO086	107	5	son	son	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++107-5	TO086	107	5	non	non	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 107-6	TO086	107	6	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 107-7	TO086	107	7	so::	so	_	_	_	_	_	linguistic	_	none	_	End=305.285	1x2	_	_	_
+ 108-0	TO086	108	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=306.217	_	Fast=0-4(0)	_	_
+@@ -640,7 +641,8 @@
+ 117-8	TO086	117	8	follemente:	follemente	_	_	_	_	_	linguistic	_	none	_	End=329.406	9x1	_	_	_
+ 118-0	TO086	118	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=329.771	_	_	_	_
+ 118-1	TO086	118	1	lui	lui	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-118-2	TO086	118	2	no::[>cioé::<]	nocioé	_	_	_	_	_	linguistic	_	none	_	End=331.822	1x2,5x2	Fast=2-6(0)	_	2-6(21)
++118-2	TO086	118	2	no::	no	_	_	_	_	_	linguistic	_	none	_	End=331.822	1x2,5x2	Fast=2-6(0)	_	2-6(21)
++118-3	_	_	0	[>cioè::<]	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 119-0	TO085	119	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=331.119	_	_	_	0-2(21)
+ 119-1	TO085	119	1	mh]	mh	_	_	_	_	_	linguistic	_	none	_	End=331.822	_	_	_	0-2(21)
+ 120-0	TO085	120	0	no::	no	_	_	_	_	_	linguistic	_	none	_	Begin=336.225	1x2	_	_	_
+@@ -669,7 +671,7 @@
+ 123-3	TO086	123	3	malissimo	malissimo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 123-4	TO086	123	4	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 123-5	TO086	123	5	proprio	proprio	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-123-6	TO086	123	6	linquidata::	linquidata	_	_	_	_	_	linguistic	_	none	_	End=347.15	9x2	_	_	_
++123-6	TO086	123	6	liquidata::	liquidata	_	_	_	_	_	linguistic	_	none	_	End=347.15	9x2	_	_	_
+ 124-0	TO085	124	0	mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=347.15	_	_	_	_
+ 124-1	TO085	124	1	mh	mh	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 124-2	TO085	124	2	mh	mh	_	_	_	_	_	linguistic	_	none	_	End=347.81	_	_	_	_
+@@ -791,12 +793,13 @@
+ 146-0	TO085	146	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=426.848	_	Fast=0-4(0)	_	_
+ 146-1	TO085	146	1	sei	sei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 146-2	TO085	146	2	presa	presa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-146-3	TO085	146	3	b:ene	bene	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
+-146-4	TO085	146	4	o:sei	osei	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
+-146-5	TO085	146	5	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-146-6	TO085	146	6	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-146-7	TO085	146	7	po'::	po'	_	_	_	_	_	linguistic	_	none	_	_	1x2	_	_	_
+-146-8	TO085	146	8	triste?	triste	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=430.401	_	_	_	_
++146-3	TO085	146	3	bene	bene	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
++146-4	TO085	146	4	o	o	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
++146-9	TO085	146	5	sei	sei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++146-5	TO085	146	6	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++146-6	TO085	146	7	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++146-7	TO085	146	8	po'::	po'	_	_	_	_	_	linguistic	_	none	_	_	1x2	_	_	_
++146-8	TO085	146	9	triste?	triste	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=430.401	_	_	_	_
+ 147-0	TO086	147	0	ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=430.944	_	_	_	_
+ 147-1	TO086	147	1	triste::	triste	_	_	_	_	_	linguistic	_	none	_	_	5x2	_	_	_
+ 147-2	TO086	147	2	no	no	_	_	_	_	_	linguistic	_	none	_	End=432.648	_	_	_	_
+@@ -925,16 +928,16 @@
+ 167-12	TO086	167	12	proprio::	proprio	_	_	_	_	_	linguistic	_	none	_	End=479.498	6x2	_	_	_
+ 168-0	TO085	168	0	[sì	sì	_	_	_	_	_	linguistic	_	none	_	Begin=477.786	_	_	_	0-2(27)
+ 168-1	TO085	168	1	sì]	sì	_	_	_	_	_	linguistic	_	none	_	End=478.399	_	_	_	0-2(27)
+-169-0	TO086	169	0	[io	io	_	_	_	_	_	linguistic	_	none	_	Begin=479.546	_	_	_	0-2(28)
+-169-1	TO086	169	1	ormai]	ormai	_	_	_	_	_	linguistic	_	none	_	End=480.451	_	_	_	0-5(28)
+-170-0	TO085	170	0	[minchia	minchia	_	_	_	_	_	linguistic	_	none	_	Begin=479.546	_	_	_	0-7(28)
+-170-1	TO085	170	1	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(28)
+-170-2	TO085	170	2	giuro]	giuro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(28)
+-170-3	TO085	170	3	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-170-4	TO085	170	4	sembra	sembra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-170-5	TO085	170	5	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-170-6	TO085	170	6	sentire	sentire	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-170-7	TO085	170	7	lucia	lucia	_	_	_	_	_	linguistic	_	none	_	End=482.003	_	_	_	_
++169-0	TO086	169	0	[minchia	minchia	_	_	_	_	_	linguistic	_	none	_	Begin=479.546	_	_	_	0-2(28)
++169-1	TO086	169	1	ti	ti	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(28)
++169-2	TO085	169	2	giuro]	giuro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++169-3	TO085	169	3	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++169-4	TO085	169	4	sembra	sembra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++169-5	TO085	169	5	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++169-6	TO085	169	6	sentire	sentire	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++169-7	TO085	169	7	lucia	lucia	_	_	_	_	_	linguistic	_	_	_	End=480.451	_	_	_	_
++170-0	TO085	170	0	[io	io	_	_	_	_	_	linguistic	_	none	_	Begin=479.546	_	_	_	0-7(28)
++170-1	TO085	170	1	ormai]	ormai	_	_	_	_	_	linguistic	_	none	_	End=482.003	_	_	_	0-2(28)
+ 171-0	TO085	171	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=482.035	_	Fast=0-4(0)	_	_
+ 171-1	TO085	171	1	le	le	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 171-2	TO085	171	2	cose	cose	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -971,7 +974,7 @@
+ 176-0	TO085	176	0	[mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=489.299	_	_	_	0-2(31)
+ 176-1	TO085	176	1	mh]	mh	_	_	_	_	_	linguistic	_	none	_	End=489.826	_	_	_	0-2(31)
+ 177-0	TO085	177	0	ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=495.09	_	_	_	_
+-177-1	TO085	177	1	quant~	quant~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
++177-1	TO085	177	1	quan~	quan~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+ 177-2	TO085	177	2	quando?	quando	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=496.743	_	_	_	_
+ 178-0	TO086	178	0	sabato	sabato	_	_	_	_	_	linguistic	_	none	_	Begin=497.747|End=498.727	_	_	_	_
+ 179-0	TO085	179	0	doma~	doma~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	Begin=499.09|End=499.711	_	_	_	_
+@@ -997,7 +1000,8 @@
+ 184-7	TO086	184	7	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 184-8	TO086	184	8	già	già	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 184-9	TO086	184	9	andata	andata	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-184-10	TO086	184	10	stalkerare	stalkerare	_	_	_	_	_	linguistic	_	none	_	End=516.577	_	_	_	_
++184-11	TO086	184	10	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++184-10	TO086	184	11	stalkerare	stalkerare	_	_	_	_	_	linguistic	_	none	_	End=516.577	_	_	_	_
+ 185-0	TO086	185	0	credo	credo	_	_	_	_	_	linguistic	_	none	_	Begin=518.342	_	_	_	_
+ 185-1	TO086	185	1	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 185-2	TO086	185	2	sia	sia	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1295,7 +1299,7 @@
+ 237-1	TO085	237	1	scriverle	scriverle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 237-2	TO085	237	2	per	per	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 237-3	TO085	237	3	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-237-4	TO085	237	4	caffé	caffé	_	_	_	_	_	linguistic	_	none	_	End=712.051	_	_	_	_
++237-4	TO085	237	4	caffè	caffè	_	_	_	_	_	linguistic	_	none	_	End=712.051	_	_	_	_
+ 238-0	TO086	238	0	ah	ah	_	_	_	_	_	linguistic	_	none	_	Begin=712.347|End=712.671	_	_	_	_
+ 239-0	TO085	239	0	di	di	_	_	_	_	_	linguistic	_	none	_	Begin=712.671	_	_	_	_
+ 239-1	TO085	239	1	aspettarla	aspettarla	_	_	_	_	_	linguistic	_	none	_	End=713.588	_	_	_	_
+@@ -1314,15 +1318,14 @@
+ 242-2	TO085	242	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 242-3	TO085	242	3	più?	più	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=722.415	_	_	_	_
+ 243-0	TO086	243	0	mh	mh	_	_	_	_	_	linguistic	_	none	_	Begin=722.415|End=722.762	_	_	_	_
+-244-0	TO086	244	0	(di	di	_	_	_	_	_	linguistic	_	none	_	Begin=723.634	_	_	0-2(0)	_
+-244-1	TO086	244	1	fatti)	fatti	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-5(0)	_
+-244-2	TO086	244	2	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-244-3	TO086	244	3	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-244-4	TO086	244	4	lenta	lenta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-244-5	TO086	244	5	questa	questa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-244-6	TO086	244	6	pizza	pizza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-244-7	TO086	244	7	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-244-8	TO086	244	8	sembra	sembra	_	_	_	_	_	linguistic	_	none	_	End=726.488	_	_	_	_
++244-0	TO086	244	0	(difatti)	difatti	_	_	_	_	_	linguistic	_	none	_	Begin=723.634	_	_	0-2(0)	_
++244-1	TO086	244	1	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-5(0)	_
++244-2	TO086	244	2	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++244-3	TO086	244	3	lenta	lenta	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++244-4	TO086	244	4	questa	questa	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++244-5	TO086	244	5	pizza	pizza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++244-6	TO086	244	6	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++244-7	TO086	244	7	sembra	sembra	_	_	_	_	_	linguistic	_	none	_	End=726.488	_	_	_	_
+ 245-0	TO086	245	0	(un	un	_	_	_	_	_	linguistic	_	none	_	Begin=727.648	_	_	0-2(0)	_
+ 245-1	TO086	245	1	po')	po'	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-3(0)	_
+ 245-2	TO086	245	2	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1350,7 +1353,7 @@
+ 250-0	TO086	250	0	tipo	tipo	_	_	_	_	_	linguistic	_	none	_	Begin=738.505	_	_	_	_
+ 250-1	TO086	250	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 250-2	TO086	250	2	simile	simile	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-250-3	TO086	250	3	a~	a~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
++250-3	TO086	250	3	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 250-4	TO086	250	4	alle	alle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 250-5	TO086	250	5	vostre	vostre	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 250-6	TO086	250	6	però	però	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1407,10 +1410,10 @@
+ 257-10	TO086	257	10	caso	caso	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 257-11	TO086	257	11	li	li	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 257-12	TO086	257	12	dice::	dice	_	_	_	_	_	linguistic	_	none	_	End=777.517	3x2	_	_	_
+-258-0	TO086	258	0	[li	li	_	_	_	_	_	linguistic	_	none	_	Begin=777.697	_	_	_	0-2(43)
+-258-1	TO086	258	1	le~]	le~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	End=778.237	_	_	_	0-3(43)
+-259-0	TO085	259	0	[ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=777.697	_	_	_	0-2(43)
+-259-1	TO085	259	1	chi]?	chi	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=778.237	_	_	_	0-3(43)
++258-0	TO086	258	0	[ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=777.697	_	_	_	0-2(43)
++258-1	TO086	258	1	chi]?	chi	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=778.237	_	_	_	0-3(43)
++259-0	TO085	259	0	[li	li	_	_	_	_	_	linguistic	_	none	_	Begin=777.697	_	_	_	0-2(43)
++259-1	TO085	259	1	le~]	le~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	End=778.237	_	_	_	0-3(43)
+ 260-0	TO086	260	0	luca	luca	_	_	_	_	_	linguistic	_	none	_	Begin=778.833|End=779.664	_	_	_	_
+ 261-0	TO085	261	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=781.312	_	_	_	_
+ 261-1	TO085	261	1	c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+@@ -1447,7 +1450,7 @@
+ 266-0	TO085	266	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=795.129	_	_	_	_
+ 266-1	TO085	266	1	[ma	ma	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(44)
+ 266-2	TO085	266	2	perché]?	perché	_	_	_	_	_	linguistic	_	none	Intonation=Rising	End=797.541	_	_	_	0-6(44)
+-267-0	TO086	267	0	[xxx]	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=796.482|End=797.537	_	_	_	0-3(44)
++267-0	TO086	267	0	[xxx]	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=796.482|End=797.537	_	_	_	0-3(44)
+ 268-0	TO086	268	0	non	non	_	_	_	_	_	linguistic	_	none	_	Begin=797.585	_	_	_	_
+ 268-1	TO086	268	1	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 268-2	TO086	268	2	so	so	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1827,7 +1830,7 @@
+ 330-8	TO086	330	8	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 330-9	TO086	330	9	sembra	sembra	_	_	_	_	_	linguistic	_	none	_	End=1006.426	_	_	_	_
+ 331-0	TO085	331	0	no	no	_	_	_	_	_	linguistic	_	none	_	Begin=1007.011|End=1007.628	_	_	_	_
+-332-0	TO086	332	0	xxxx	xxxx	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=1007.631|End=1008.774	_	_	_	_
++332-0	TO086	332	0	xxxx	x	_	_	_	_	_	unknown	_	none	Syllables=4	Begin=1007.631|End=1008.774	_	_	_	_
+ 333-0	TO085	333	0	però	però	_	_	_	_	_	linguistic	_	none	_	Begin=1008.774	_	_	_	_
+ 333-1	TO085	333	1	hanno	hanno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 333-2	TO085	333	2	a	a	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -1916,7 +1919,7 @@
+ 346-10	TO086	346	10	sapeva	sapeva	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 346-11	TO086	346	11	dirmi	dirmi	_	_	_	_	_	linguistic	_	none	_	End=1080.09	_	_	_	_
+ 347-0	TO086	347	0	tipo:	tipo	_	_	_	_	_	linguistic	_	none	_	Begin=1080.111	3x1	_	_	_
+-347-1	TO086	347	1	qualo	qualo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++347-1	TO086	347	1	quali	quali	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 347-2	TO086	347	2	pedali	pedali	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 347-3	TO086	347	3	schiacciare	schiacciare	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 347-4	TO086	347	4	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2047,14 +2050,14 @@
+ 368-0	TO085	368	0	no	no	_	_	_	_	_	linguistic	_	none	_	Begin=1154.274|End=1154.824	_	_	_	_
+ 369-0	TO086	369	0	@nomeluogo	@nomeluogo	_	_	_	_	_	anonymized	_	none	_	Begin=1154.826|End=1155.577	_	_	_	_
+ 370-0	TO085	370	0	@nomeluogo	@nomeluogo	_	_	_	_	_	anonymized	_	none	_	Begin=1155.581|End=1156.363	_	_	_	_
+-371-0	TO086	371	0	[xx]	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=1155.874	_	_	_	0-2(60)
+-371-1	TO086	371	1	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	End=1157.273	_	_	_	_
++371-0	TO086	371	0	[xx]	x	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=1155.874	_	_	_	0-2(60)
++371-1	TO086	371	1	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	End=1157.273	_	_	_	_
+ 372-0	TO085	372	0	@nomeluogo	@nomeluogo	_	_	_	_	_	anonymized	_	none	_	Begin=1157.272	_	_	_	_
+ 372-1	TO085	372	1	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 372-2	TO085	372	2	prima	prima	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 372-3	TO085	372	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 372-4	TO085	372	4	dante	dante	_	_	_	_	_	linguistic	_	none	_	End=1159.023	_	_	_	_
+-373-0	TO086	373	0	xxxxxx	xxxxxx	_	_	_	_	_	unknown	_	none	Syllables=6	Begin=1160.367|End=1162.15	_	_	_	_
++373-0	TO086	373	0	xxxxxx	x	_	_	_	_	_	unknown	_	none	Syllables=6	Begin=1160.367|End=1162.15	_	_	_	_
+ 374-0	TO085	374	0	sai	sai	_	_	_	_	_	linguistic	_	none	_	Begin=1173.422	_	_	_	_
+ 374-1	TO085	374	1	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 374-2	TO085	374	2	ieri	ieri	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2237,14 +2240,14 @@
+ 402-2	TO085	402	2	vivrei	vivrei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 402-3	TO085	402	3	mai	mai	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 402-4	TO085	402	4	lì	lì	_	_	_	_	_	linguistic	_	none	_	End=1241.341	_	_	_	_
+-403-0	TO086	403	0	[xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=1242.015	_	_	_	0-3(69)
+-403-1	TO086	403	1	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(69)
+-403-2	TO086	403	2	natura]	natura	_	_	_	_	_	linguistic	_	none	_	End=1244.098	_	_	_	0-6(69)
+-404-0	TO085	404	0	[>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1242.015	_	Fast=0-4(0)	_	0-4(69)
+-404-1	TO085	404	1	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(69)
+-404-2	TO085	404	2	sembra	sembra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(69)
+-404-3	TO085	404	3	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(69)
+-404-4	TO085	404	4	essere:]	essere	_	_	_	_	_	linguistic	_	none	_	End=1244.098	5x1	_	_	0-6(69)
++403-0	TO086	403	0	[>cioè<	cioè	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=1242.015	_	_	_	0-3(69)
++403-1	TO086	403	1	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(69)
++403-2	TO086	403	2	sembra	sembra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(69)
++403-3	TO085	403	3	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++403-4	TO085	403	4	essere:]	essere	_	_	_	_	_	linguistic	_	_	_	End=1244.098	_	_	_	_
++404-0	TO085	404	0	[xxx	x	_	_	_	_	_	linguistic	_	none	_	Begin=1242.015	_	Fast=0-4(0)	_	0-4(69)
++404-1	TO085	404	1	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-2(69)
++404-2	TO085	404	2	natura]	natura	_	_	_	_	_	linguistic	_	none	_	End=1244.098	_	_	_	0-6(69)
+ 405-0	TO085	405	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	none	_	Begin=1244.125	_	Fast=0-4(0)	_	_
+ 405-1	TO085	405	1	mi	mi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 405-2	TO085	405	2	sembra	sembra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2285,7 +2288,7 @@
+ 409-6	TO086	409	6	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 409-7	TO086	409	7	abbastanza	abbastanza	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 409-8	TO086	409	8	vicino	vicino	_	_	_	_	_	linguistic	_	none	_	End=1260.769	_	_	_	_
+-410-0	TO086	410	0	xxx	xxx	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=1261.15|End=1262.173	_	_	_	_
++410-0	TO086	410	0	xxx	x	_	_	_	_	_	unknown	_	none	Syllables=3	Begin=1261.15|End=1262.173	_	_	_	_
+ 411-0	TO086	411	0	in	in	_	_	_	_	_	linguistic	_	none	_	Begin=1262.675	_	_	_	_
+ 411-1	TO086	411	1	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 411-2	TO086	411	2	quarto	quarto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -2360,7 +2363,7 @@
+ 425-1	TO085	425	1	lo	lo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 425-2	TO085	425	2	so	so	_	_	_	_	_	linguistic	_	none	_	End=1311.237	_	_	_	_
+ 426-0	TO086	426	0	tipo	tipo	_	_	_	_	_	linguistic	_	none	_	Begin=1312.09	_	_	_	_
+-426-1	TO086	426	1	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	End=1313.201	_	_	_	_
++426-1	TO086	426	1	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	End=1313.201	_	_	_	_
+ 427-0	TO085	427	0	sì::	sì	_	_	_	_	_	linguistic	_	none	_	Begin=1313.201	1x2	_	_	_
+ 427-1	TO085	427	1	secon~	secon~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+ 427-2	TO085	427	2	boh	boh	_	_	_	_	_	linguistic	_	none	_	End=1315.363	_	_	_	_
+@@ -2381,15 +2384,13 @@
+ 432-1	TO085	432	1	che	che	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	_
+ 432-2	TO085	432	2	fastidio°	fastidio	_	_	_	_	_	linguistic	_	none	Volume=low	End=1352.909	_	_	_	_
+ 433-0	TO086	433	0	comunque	comunque	_	_	_	_	_	linguistic	_	none	_	Begin=1353.494	_	_	_	_
+-433-1	TO086	433	1	al	al	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-433-2	TO086	433	2	di	di	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-433-3	TO086	433	3	là	là	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-433-4	TO086	433	4	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-433-5	TO086	433	5	esito	esito	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-433-6	TO086	433	6	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-433-7	TO086	433	7	avrà	avrà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-433-8	TO086	433	8	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-433-9	TO086	433	9	incontro	incontro	_	_	_	_	_	linguistic	_	none	_	End=1356.865	_	_	_	_
++433-1	TO086	433	1	aldilà	al	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++433-4	TO086	433	2	dell'	dell'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++433-5	TO086	433	3	esito	esito	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++433-6	TO086	433	4	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++433-7	TO086	433	5	avrà	avrà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++433-8	TO086	433	6	questo	questo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++433-9	TO086	433	7	incontro	incontro	_	_	_	_	_	linguistic	_	none	_	End=1356.865	_	_	_	_
+ 434-0	TO086	434	0	se	se	_	_	_	_	_	linguistic	_	none	_	Begin=1356.881	_	_	_	_
+ 434-1	TO086	434	1	ci	ci	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 434-2	TO086	434	2	sarà	sarà	_	_	_	_	_	linguistic	_	none	_	End=1357.763	_	_	_	_
+@@ -2657,7 +2658,7 @@
+ 481-2	TO085	481	2	giorno	giorno	_	_	_	_	_	linguistic	_	none	_	End=1500.877	_	_	_	_
+ 482-0	TO085	482	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	none	_	Begin=1518.178|End=1521.707	_	_	_	_
+ 483-0	TO086	483	0	cosa?	cosa	_	_	_	_	_	linguistic	_	none	Intonation=Rising	Begin=1519.351|End=1520.379	_	_	_	_
+-484-0	TO086	484	0	[xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=1521.739	_	_	_	0-2(79)
++484-0	TO086	484	0	[xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	Begin=1521.739	_	_	_	0-2(79)
+ 484-1	TO086	484	1	sono]	sono	_	_	_	_	_	linguistic	_	none	PauseAfter=Yes	_	_	_	_	0-4(79)
+ 484-2	TO086	484	2	(.)	(.)	_	_	_	_	_	shortpause	_	none	_	_	_	_	_	_
+ 484-3	TO086	484	3	sono	sono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_

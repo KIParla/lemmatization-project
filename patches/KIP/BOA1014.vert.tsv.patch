@@ -1,0 +1,119 @@
+--- a/tsv/BOA1014.vert.tsv
++++ b/tsv/BOA1014.vert.tsv
+@@ -38,7 +38,7 @@
+ 12-0	BO044	12	0	s[ì].	sì	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=18.466|End=18.685	_	_	_	1-2(2)
+ 13-0	BO026	13	0	[°c'	c'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=18.523	_	_	_	0-2(2)
+ 13-1	BO026	13	1	]è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-13-2	BO026	13	2	axx	axx	_	_	_	_	_	linguistic	_	none	_	End=19.38	_	_	_	_
++13-2	BO026	13	2	a~	a~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	End=19.38	_	_	_	_
+ 14-0	BO044	14	0	e	e	_	_	_	_	_	linguistic	_	none	_	Begin=19.38	_	_	_	_
+ 14-1	BO044	14	1	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 14-2	BO044	14	2	volevo	volevo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -123,7 +123,7 @@
+ 27-12	BO026	27	12	orale.	orale	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=48.443	_	_	_	_
+ 28-0	BO044	28	0	e:	e	_	_	_	_	_	linguistic	_	none	_	Begin=48.751	0x1	_	_	_
+ 28-1	BO044	28	1	pe:r	per	_	_	_	_	_	linguistic	_	none	_	_	1x1	_	_	_
+-28-2	BO044	28	2	pr	pr	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++28-2	BO044	28	2	pr~	pr~	_	_	_	_	_	linguistic	_	none	Interrupted=Yes	_	_	_	_	_
+ 28-3	BO044	28	3	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 28-4	BO044	28	4	prenotazione	prenotazione	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 28-5	BO044	28	5	è	è	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -233,7 +233,7 @@
+ 53-0	BO026	53	0	°mh.°	mh	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Volume=low	Begin=100.961|End=101.275	_	_	_	_
+ 54-0	BO044	54	0	quindi	quindi	_	_	_	_	_	linguistic	_	none	_	Begin=103.92	_	_	_	_
+ 54-1	BO044	54	1	io	io	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-54-2	BO044	54	2	>xx<	xx	_	_	_	_	_	unknown	_	none	Syllables=2	End=104.901	_	Fast=0-2(0)	_	_
++54-2	BO044	54	2	>xx<	x	_	_	_	_	_	unknown	_	none	Syllables=2	End=104.901	_	Fast=0-2(0)	_	_
+ 55-0	BO026	55	0	allora	allora	_	_	_	_	_	linguistic	_	none	_	Begin=104.92	_	_	_	_
+ 55-1	BO026	55	1	lei	lei	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 55-2	BO026	55	2	potrebbe	potrebbe	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -287,8 +287,9 @@
+ 59-6	BO026	59	6	scegliere	scegliere	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 59-7	BO026	59	7	anche	anche	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 59-8	BO026	59	8	una	una	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-59-9	BO026	59	9	quelle	quelle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-59-10	BO026	59	10	lì,	lì	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=127.326	_	_	_	_
++59-11	BO026	59	9	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++59-9	BO026	59	10	quelle	quelle	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++59-10	BO026	59	11	lì,	lì	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=127.326	_	_	_	_
+ 60-0	BO044	60	0	[°mh	mh	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=124.511	_	_	_	0-2(7)
+ 60-1	BO044	60	1	mh.°]	mh	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Volume=low	End=124.95	_	_	_	0-2(7)
+ 61-0	BO026	61	0	oppure,	oppure	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	Begin=127.775|End=128.49	_	_	_	_
+@@ -468,20 +469,19 @@
+ 86-2	BO026	86	2	e	e	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 86-3	BO026	86	3	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 86-4	BO026	86	4	metto	metto	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-86-5	BO026	86	5	(uh	uh	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-2(0)	_
+-86-6	BO026	86	6	u)	u	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-1(0)	_
+-86-7	BO026	86	7	inserirò	inserirò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-86-8	BO026	86	8	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-86-9	BO026	86	9	suo	suo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-86-10	BO026	86	10	nome	nome	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-86-11	BO026	86	11	tra	tra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-86-12	BO026	86	12	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
+-86-13	BO026	86	13	quelli	quelli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-86-14	BO026	86	14	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-86-15	BO026	86	15	devono	devono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-86-16	BO026	86	16	fare:	fare	_	_	_	_	_	linguistic	_	none	_	_	3x1	_	_	_
+-86-17	BO026	86	17	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-86-18	BO026	86	18	orale.	orale	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=202.81	_	_	_	_
++86-5	BO026	86	5	(uh)	uh	_	_	_	_	_	linguistic	_	none	_	_	_	_	0-2(0)	_
++86-7	BO026	86	6	inserirò	inserirò	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++86-8	BO026	86	7	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++86-9	BO026	86	8	suo	suo	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++86-10	BO026	86	9	nome	nome	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++86-11	BO026	86	10	tra	tra	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++86-12	BO026	86	11	e:h	eh	_	_	_	_	_	linguistic	_	none	_	_	0x1	_	_	_
++86-13	BO026	86	12	quelli	quelli	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++86-14	BO026	86	13	che	che	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++86-15	BO026	86	14	devono	devono	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++86-16	BO026	86	15	fare:	fare	_	_	_	_	_	linguistic	_	none	_	_	3x1	_	_	_
++86-17	BO026	86	16	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
++86-18	BO026	86	17	orale.	orale	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=202.81	_	_	_	_
+ 87-0	BO044	87	0	ma	ma	_	_	_	_	_	linguistic	_	none	_	Begin=202.81	_	_	_	_
+ 87-1	BO044	87	1	il	il	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 87-2	BO044	87	2	giorno	giorno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -502,16 +502,18 @@
+ 92-2	BO044	92	2	farà	farà	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 92-3	BO044	92	3	p(oi)	poi	_	_	_	_	_	linguistic	_	none	_	_	_	_	1-3(0)	_
+ 92-4	BO044	92	4	l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	_	_	_	_	_
+-92-5	BO044	92	5	l'orale	l'orale	_	_	_	_	_	error	_	none	_	_	_	_	_	_
+-92-6	BO044	92	6	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-92-7	BO044	92	7	[altro	altro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(13)
+-92-8	BO044	92	8	giorno].	giorno	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=210.556	_	_	_	0-6(13)
++92-5	BO044	92	5	l'	l'	_	_	_	_	_	error	_	none	Truncated=Yes	_	_	_	_	_
++92-6	BO044	92	6	orale	orale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++92-7	BO044	92	7	un	un	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(13)
++92-8	BO044	92	8	[altro	altro	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-6(13)
++92-9	BO044	92	9	giorno].	giorno	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=210.556	_	_	_	_
+ 93-0	BO026	93	0	[l'	l'	_	_	_	_	_	linguistic	_	none	SpaceAfter=No	Begin=209.616	_	_	_	0-2(13)
+ 93-1	BO026	93	1	orale	orale	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-5(13)
+ 93-2	BO026	93	2	uno	uno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-3(13)
+-93-3	BO026	93	3	o]due	odue	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(13)
+-93-4	BO026	93	4	giorno	giorno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-93-5	BO026	93	5	dopo.	dopo	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=211.64	_	_	_	_
++93-3	BO026	93	3	o]	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(13)
++93-6	BO026	93	4	due	due	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++93-4	BO026	93	5	giorno	giorno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
++93-5	BO026	93	6	dopo.	dopo	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=211.64	_	_	_	_
+ 94-0	BO044	94	0	okay.	okay	_	_	_	_	_	linguistic	_	none	Intonation=Falling	Begin=212.08|End=212.701	_	_	_	_
+ 95-0	BO026	95	0	un	un	_	_	_	_	_	linguistic	_	none	_	Begin=212.931	_	_	_	_
+ 95-1	BO026	95	1	uno	uno	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+@@ -531,7 +533,7 @@
+ 96-1	BO044	96	1	mh.	mh	_	_	_	_	_	linguistic	_	none	Intonation=Falling	End=217.14	_	_	_	_
+ 97-0	BO044	97	0	[°e	e	_	_	_	_	_	linguistic	_	none	Volume=low	Begin=218.1	_	_	_	0-1(15)
+ 97-1	BO044	97	1	si	si	_	_	_	_	_	linguistic	_	none	Volume=low	_	_	_	_	0-2(15)
+-97-2	BO044	97	2	xx	xx	_	_	_	_	_	unknown	_	none	Volume=low|Syllables=2	_	_	_	_	0-2(15)
++97-2	BO044	97	2	xx	x	_	_	_	_	_	unknown	_	none	Volume=low|Syllables=2	_	_	_	_	0-2(15)
+ 97-3	BO044	97	3	dopo.°]	dopo	_	_	_	_	_	linguistic	_	none	Intonation=Falling|Volume=low	End=219.18	_	_	_	0-4(15)
+ 98-0	BO026	98	0	[due	due	_	_	_	_	_	linguistic	_	none	_	Begin=218.14	_	_	_	0-3(15)
+ 98-1	BO026	98	1	o	o	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	0-1(15)
+@@ -558,7 +560,7 @@
+ 100-7	BO026	100	7	la	la	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 100-8	BO026	100	8	sua	sua	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 100-9	BO026	100	9	così	così	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+-100-10	BO026	100	10	xx	xx	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
++100-10	BO026	100	10	xx	x	_	_	_	_	_	unknown	_	none	Syllables=2	_	_	_	_	_
+ 100-11	BO026	100	11	ne	ne	_	_	_	_	_	linguistic	_	none	_	_	_	_	_	_
+ 100-12	BO026	100	12	distribuirò,	distribuirò	_	_	_	_	_	linguistic	_	none	Intonation=WeaklyRising	End=227.52	_	_	_	_
+ 101-0	BO026	101	0	in	in	_	_	_	_	_	linguistic	_	none	_	Begin=227.696	_	_	_	_
