@@ -4,7 +4,7 @@
 0-1a,_,_,_,a,a,ADP,_
 0-1b,_,_,_,l',il,DET,_
 0-2,BO156,0,alma,alma,Alma,PROPN,_
-0-3,BO156,0,english?,english,English,PROPN,Lang=eng Intonation=rising
+0-3,BO156,0,english?,english,English,PROPN,Lang=eng|Intonation=rising
 1-0,BO157,1,no,no,no,ADV,_
 1-1,BO157,1,niente,niente,niente,PRON,_
 1-2,BO157,1,che::,che,che,SCONJ,_
@@ -1345,7 +1345,7 @@
 239-8,BO155,239,la,la,il,DET,_
 239-9,BO155,239,pentol[a:],pentola,pentola,NOUN,_
 240-0,BO157,240,[ah],ah,ah,INTJ,_
-240-1,BO157,240,bane,bane,Bane,PROPN,Lang=eng 
+240-1,BO157,240,bane,bane,Bane,PROPN,Lang=eng
 240-2,BO157,240,{ride},{ride},_,_,_
 241-0,BO158,241,c(io)è,cioè,cioè,CCONJ,_
 241-1,BO158,241,ma,ma,ma,CCONJ,_
@@ -1621,7 +1621,7 @@
 290-1,BO158,290,se,se,se,SCONJ,_
 290-2,BO158,290,è,è,essere,AUX,_
 290-3,BO158,290,una,una,uno,DET,_
-290-4,BO158,290,BUDRIONA,budriona,budriona,NOUN,Lang=dia Volume=high
+290-4,BO158,290,BUDRIONA,budriona,budriona,NOUN,Lang=dia|Volume=high
 290-5,BO158,290,(incredi[bile)],incredibile,incredibile,ADJ,_
 291-0,BO157,291,[ma],ma,ma,CCONJ,_
 291-1,BO157,291,sì,sì,sì,ADV,_
@@ -9084,7 +9084,7 @@
 1437-2,BO156,1437,{P},{P},_,_,_
 1437-3,BO156,1437,l',l',il,DET,Truncated=Yes
 1437-4,BO156,1437,ebook,ebook,ebook,NOUN,_
-1437-5,BO156,1437,reader]?,reader,reader,NOUN,Lang=en Intonation=rising
+1437-5,BO156,1437,reader]?,reader,reader,NOUN,Lang=en|Intonation=rising
 1438-0,BO158,1438,[perché,perché,perché,SCONJ,_
 1438-1,BO158,1438,hai,hai,avere,VERB,_
 1438-2,BO158,1438,un,un,uno,DET,_
@@ -12322,7 +12322,7 @@
 1997-2,BO158,1997,anche,anche,anche,ADV,_
 1997-3,BO158,1997,ricco,ricco,ricco,ADJ,_
 1997-4,BO158,1997,dai)],dai,dare,VERB,_
-dare,BO157,1998,[un,un,uno,DET,_
+1998-0,BO157,1998,[un,un,uno,DET,_
 1998-1,BO157,1998,buon,buon,buono,ADJ,_
 1998-2,BO157,1998,acquisto],acquisto,acquisto,NOUN,_
 1999-0,BO156,1999,sì,sì,sì,ADV,_

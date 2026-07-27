@@ -1,6 +1,5 @@
 ﻿token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats
 0-0,BO118,0,0,1,dovresti,dovresti,dovere,AUX,_
-"123-7,8",BO140,123,123,1,eh:,eh,eh,INTJ,_
 0-1,BO118,0,0,2-3,parlarmi,parlarmi,_,_,_
 0-1a,_,_,0,2,_,parlar,parlare,VERB,_
 0-1b,_,_,0,3,_,mi,mi,PRON,_
@@ -1302,6 +1301,7 @@
 123-4,BO140,123,123,62,tavolo,tavolo,tavolo,NOUN,_
 123-5,BO140,123,123,63,da,da,da,ADP,_
 123-6,BO140,123,123,64,"cucina::,",cucina,cucina,NOUN,_
+123-7,BO140,123,123,1,eh:,eh,eh,INTJ,_
 123-9,BO140,123,123,2,stavam,stavam,stare,VERB,_
 123-10,BO140,123,123,3,sempre,sempre,sempre,ADV,_
 123-11,BO140,123,123,4,tutte,tutte,tutto,PRON,_
@@ -2284,11 +2284,11 @@
 200-16,BO118,200,200,38,co',co',con,ADP,_
 200-17,BO118,200,200,39,poca,poca,poco,DET,_
 200-18,BO118,200,200,40,gente.,gente,gente,NOUN,_
-201-0,BO140 BO118 BO140,201,201,1,mh,mh,mh,INTJ,_
-201-1,BO140 BO118 BO140,201,201,2,in,in,in,ADP,_
-201-2,BO140 BO118 BO140,201,201,3,che,che,che,DET,_
-201-3,BO140 BO118 BO140,201,201,4,senso,senso,senso,NOUN,_
-201-4,BO140 BO118 BO140,201,201,5,dici?,dici,dire,VERB,_
+201-0,BO140,201,201,1,mh,mh,mh,INTJ,_
+201-1,BO140,201,201,2,in,in,in,ADP,_
+201-2,BO140,201,201,3,che,che,che,DET,_
+201-3,BO140,201,201,4,senso,senso,senso,NOUN,_
+201-4,BO140,201,201,5,dici?,dici,dire,VERB,_
 202-0,BO118,202,202,1,cioè,cioè,cioè,CCONJ,_
 202-1,BO118,202,202,2,tipo::,tipo,tipo,NOUN,_
 203-0,BO140,203,203,1,di,di,di,ADP,_
@@ -2890,19 +2890,19 @@
 264-1,BO140,264,264,2,sì,sì,sì,INTJ,_
 264-2,BO140,264,264,3,sì],sì,sì,INTJ,_
 265-0,BO140,265,265,4,[esatt]o.,esatto,esatto,ADJ,_
-266-0,BO140 BO118,266,266,1,cioè,cioè,cioè,CCONJ,_
-266-1,BO140 BO118,266,266,2,non,non,non,ADV,_
-266-2,BO140 BO118,266,266,3,so,so,sapere,VERB,_
-266-3,BO140 BO118,266,266,4,se,se,se,SCONJ,_
-266-4,BO140 BO118,266,266,5,i:o,io,io,PRON,_
-266-5,BO140 BO118,266,266,6,quando,quando,quando,SCONJ,_
-266-6,BO140 BO118,266,266,7,avrò,avrò,avere,VERB,_
-266-7,BO140 BO118,266,266,8,una,una,uno,DET,_
-266-8,BO140 BO118,266,266,9,famiglia,famiglia,famiglia,NOUN,_
-266-9,BO140 BO118,266,266,10,vorrò,vorrò,volere,AUX,_
-266-10,BO140 BO118,266,266,11,sta,sta,stare,VERB,_
-266-11,BO140 BO118,266,266,12,a,a,a,ADP,_
-266-12,BO140 BO118,266,266,13,bologna,bologna,Bologna,PROPN,_
+266-0,BO140,266,266,1,cioè,cioè,cioè,CCONJ,_
+266-1,BO140,266,266,2,non,non,non,ADV,_
+266-2,BO140,266,266,3,so,so,sapere,VERB,_
+266-3,BO140,266,266,4,se,se,se,SCONJ,_
+266-4,BO140,266,266,5,i:o,io,io,PRON,_
+266-5,BO140,266,266,6,quando,quando,quando,SCONJ,_
+266-6,BO140,266,266,7,avrò,avrò,avere,VERB,_
+266-7,BO140,266,266,8,una,una,uno,DET,_
+266-8,BO140,266,266,9,famiglia,famiglia,famiglia,NOUN,_
+266-9,BO140,266,266,10,vorrò,vorrò,volere,AUX,_
+266-10,BO140,266,266,11,sta,sta,stare,VERB,_
+266-11,BO140,266,266,12,a,a,a,ADP,_
+266-12,BO140,266,266,13,bologna,bologna,Bologna,PROPN,_
 267-0,BO140,267,267,1,sì,sì,sì,INTJ,_
 267-1,BO140,267,267,2,no,no,no,INTJ,_
 267-2,BO140,267,267,3,beh,beh,beh,INTJ,_
@@ -3260,64 +3260,64 @@
 288-18,BO140,288,288,51,per,per,per,ADP,_
 288-19,BO140,288,288,52,delle,delle,del,DET,_
 288-20,BO140,288,288,53,famiglie,famiglie,famiglia,NOUN,_
-289-0,BO140 BO118 BO118,289,289,1,cioè,cioè,cioè,CCONJ,_
-289-1,BO140 BO118 BO118,289,289,2,io,io,io,PRON,_
-289-2,BO140 BO118 BO118,289,289,3,non,non,non,ADV,_
-289-3,BO140 BO118 BO118,289,289,4,ho,ho,avere,VERB,_
-289-4,BO140 BO118 BO118,289,289,5,ricordi,ricordi,ricordo,NOUN,_
-289-5,BO140 BO118 BO118,289,289,6,di,di,di,ADP,_
-289-6,BO140 BO118 BO118,289,289,7,quando,quando,quando,SCONJ,_
-289-7,BO140 BO118 BO118,289,289,8,son,son,essere,AUX,_
-289-8,BO140 BO118 BO118,289,289,9,piccola:::,piccola,piccolo,ADJ,_
-289-9,BO140 BO118 BO118,289,289,10,che,che,che,SCONJ,_
-289-10,BO140 BO118 BO118,289,289,11,uscivo,uscivo,uscire,VERB,_
-289-11,BO140 BO118 BO118,289,289,12,con,con,con,ADP,_
-289-12,BO140 BO118 BO118,289,289,13,i,i,il,DET,_
-289-13,BO140 BO118 BO118,289,289,14,miei,miei,miei,PRON,_
-289-14,BO140 BO118 BO118,289,289,15,in,in,in,ADP,_
-289-15,BO140 BO118 BO118,289,289,16,centro,centro,centro,NOUN,_
-289-16,BO140 BO118 BO118,289,289,17,a,a,a,ADP,_
-289-17,BO140 BO118 BO118,289,289,18,@nomepaese,[TOWN_NAME],@nomepaese,PROPN,_
+289-0,BO140,289,289,1,cioè,cioè,cioè,CCONJ,_
+289-1,BO140,289,289,2,io,io,io,PRON,_
+289-2,BO140,289,289,3,non,non,non,ADV,_
+289-3,BO140,289,289,4,ho,ho,avere,VERB,_
+289-4,BO140,289,289,5,ricordi,ricordi,ricordo,NOUN,_
+289-5,BO140,289,289,6,di,di,di,ADP,_
+289-6,BO140,289,289,7,quando,quando,quando,SCONJ,_
+289-7,BO140,289,289,8,son,son,essere,AUX,_
+289-8,BO140,289,289,9,piccola:::,piccola,piccolo,ADJ,_
+289-9,BO140,289,289,10,che,che,che,SCONJ,_
+289-10,BO140,289,289,11,uscivo,uscivo,uscire,VERB,_
+289-11,BO140,289,289,12,con,con,con,ADP,_
+289-12,BO140,289,289,13,i,i,il,DET,_
+289-13,BO140,289,289,14,miei,miei,miei,PRON,_
+289-14,BO140,289,289,15,in,in,in,ADP,_
+289-15,BO140,289,289,16,centro,centro,centro,NOUN,_
+289-16,BO140,289,289,17,a,a,a,ADP,_
+289-17,BO140,289,289,18,@nomepaese,[TOWN_NAME],@nomepaese,PROPN,_
 290-0,BO118,290,290,1,n[o:]?,no,no,INTJ,_
-291-0,BO140 BO118 BO118,291,291,19,[pe]rché,perché,perché,SCONJ,_
-291-1,BO140 BO118 BO118,291,291,20,non:,non,non,ADV,_
-291-2,BO140 BO118 BO118,291,291,21,ma,ma,ma,CCONJ,_
-291-3,BO140 BO118 BO118,291,291,22,pochissimi,pochissimi,pochissimare,ADJ,_
-291-4,BO140 BO118 BO118,291,291,23,perché,perché,perché,ADV,_
-291-5,BO140 BO118 BO118,291,291,24,[non:],non,non,ADV,_
-292-0,BO140 BO118 BO118 BO118,292,292,1,[ma],ma,ma,CCONJ,_
-292-1,BO140 BO118 BO118 BO118,292,292,2,in,in,in,ADP,_
-292-2,BO140 BO118 BO118 BO118,292,292,3,realtà,realtà,realtà,NOUN,_
-292-3,BO140 BO118 BO118 BO118,292,292,4,anch',anch',anche,ADV,_
-292-4,BO140 BO118 BO118 BO118,292,292,5,io,io,io,PRON,_
-292-5,BO140 BO118 BO118 BO118,292,292,6,a,a,a,ADP,_
-292-6,BO140 BO118 BO118 BO118,292,292,7,@nomepaese.,[TOWN_NAME],@nomepaese,PROPN,_
-293-0,BO140 BO118 BO118 BO118,293,293,8,cioè,cioè,cioè,CCONJ,_
-293-1,BO140 BO118 BO118 BO118,293,293,9,non,non,non,ADV,_
-293-2,BO140 BO118 BO118 BO118,293,293,10,ho,ho,avere,VERB,_
-293-3,BO140 BO118 BO118 BO118,293,293,11,ricordi,ricordi,ricordo,NOUN,_
-293-4,BO140 BO118 BO118 BO118,293,293,12,che,che,che,SCONJ,_
-293-5,BO140 BO118 BO118 BO118,293,293,13,uscissi,uscissi,uscire,VERB,_
-293-6,BO140 BO118 BO118 BO118,293,293,14,a,a,a,ADP,_
-293-7,BO140 BO118 BO118 BO118,293,293,15,@nomepaese,[TOWN_NAME],@nomepaese,PROPN,_
-293-8,BO140 BO118 BO118 BO118,293,293,16,o,o,o,CCONJ,_
-293-9,BO140 BO118 BO118 BO118,293,293,17,a,a,a,ADP,_
-293-10,BO140 BO118 BO118 BO118,293,293,18,@nomepaese,[TOWN_NAME],@nomepaese,PROPN,_
-293-11,BO140 BO118 BO118 BO118,293,293,19,con,con,con,ADP,_
-293-12,BO140 BO118 BO118 BO118,293,293,20,i,i,il,DET,_
-293-13,BO140 BO118 BO118 BO118,293,293,21,miei,miei,miei,NOUN,_
-294-0,BO140 BO118 BO118 BO118,294,294,22,forse,forse,forse,ADV,_
-294-1,BO140 BO118 BO118 BO118,294,294,23,xx,x,x,X,_
-294-2,BO140 BO118 BO118 BO118,294,294,24,più,più,più,ADV,_
-294-3,BO140 BO118 BO118 BO118,294,294,25-26,nel,nel,_,_,_
+291-0,BO140,291,291,19,[pe]rché,perché,perché,SCONJ,_
+291-1,BO140,291,291,20,non:,non,non,ADV,_
+291-2,BO140,291,291,21,ma,ma,ma,CCONJ,_
+291-3,BO140,291,291,22,pochissimi,pochissimi,pochissimare,ADJ,_
+291-4,BO140,291,291,23,perché,perché,perché,ADV,_
+291-5,BO140,291,291,24,[non:],non,non,ADV,_
+292-0,BO118,292,292,1,[ma],ma,ma,CCONJ,_
+292-1,BO118,292,292,2,in,in,in,ADP,_
+292-2,BO118,292,292,3,realtà,realtà,realtà,NOUN,_
+292-3,BO118,292,292,4,anch',anch',anche,ADV,_
+292-4,BO118,292,292,5,io,io,io,PRON,_
+292-5,BO118,292,292,6,a,a,a,ADP,_
+292-6,BO118,292,292,7,@nomepaese.,[TOWN_NAME],@nomepaese,PROPN,_
+293-0,BO118,293,293,8,cioè,cioè,cioè,CCONJ,_
+293-1,BO118,293,293,9,non,non,non,ADV,_
+293-2,BO118,293,293,10,ho,ho,avere,VERB,_
+293-3,BO118,293,293,11,ricordi,ricordi,ricordo,NOUN,_
+293-4,BO118,293,293,12,che,che,che,SCONJ,_
+293-5,BO118,293,293,13,uscissi,uscissi,uscire,VERB,_
+293-6,BO118,293,293,14,a,a,a,ADP,_
+293-7,BO118,293,293,15,@nomepaese,[TOWN_NAME],@nomepaese,PROPN,_
+293-8,BO118,293,293,16,o,o,o,CCONJ,_
+293-9,BO118,293,293,17,a,a,a,ADP,_
+293-10,BO118,293,293,18,@nomepaese,[TOWN_NAME],@nomepaese,PROPN,_
+293-11,BO118,293,293,19,con,con,con,ADP,_
+293-12,BO118,293,293,20,i,i,il,DET,_
+293-13,BO118,293,293,21,miei,miei,miei,NOUN,_
+294-0,BO118,294,294,22,forse,forse,forse,ADV,_
+294-1,BO118,294,294,23,xx,x,x,X,_
+294-2,BO118,294,294,24,più,più,più,ADV,_
+294-3,BO118,294,294,25-26,nel,nel,_,_,_
 294-3a,_,_,294,25,_,in,in,ADP,_
 294-3b,_,_,294,26,_,il,il,DET,_
-294-4,BO140 BO118 BO118 BO118,294,294,27,paesi:no,paesino,paese,NOUN,_
-294-5,BO140 BO118 BO118 BO118,294,294,28,"nostro::,",nostro,nostro,ADJ,_
-294-6,BO140 BO118 BO118 BO118,294,294,29,[ma,ma,ma,CCONJ,_
-294-7,BO140 BO118 BO118 BO118,294,294,30,sem]pre,sempre,sempre,ADV,_
-294-8,BO140 BO118 BO118 BO118,294,294,31,solite,solite,solito,ADJ,_
-294-9,BO140 BO118 BO118 BO118,294,294,32,"co::se:,",cose,cosa,NOUN,_
+294-4,BO118,294,294,27,paesi:no,paesino,paese,NOUN,_
+294-5,BO118,294,294,28,"nostro::,",nostro,nostro,ADJ,_
+294-6,BO118,294,294,29,[ma,ma,ma,CCONJ,_
+294-7,BO118,294,294,30,sem]pre,sempre,sempre,ADV,_
+294-8,BO118,294,294,31,solite,solite,solito,ADJ,_
+294-9,BO118,294,294,32,"co::se:,",cose,cosa,NOUN,_
 295-0,BO140,295,295,1,[sì,sì,sì,INTJ,_
 295-1,BO140,295,295,2,sì,sì,sì,INTJ,_
 295-2,BO140,295,295,3,sì],sì,sì,INTJ,_

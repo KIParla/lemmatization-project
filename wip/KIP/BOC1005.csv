@@ -117,8 +117,8 @@
 15-1,BO105,15,servono,servono,servire,VERB,_
 15-2,BO105,15,quindi,quindi,quindi,ADV,_
 15-3,BO105,15,all',all',,DET,Truncated=Yes
-,,,_,a,a,ADP,
-,,,_,la,la,DET,
+15-3a,,,_,a,a,ADP,
+15-3b,,,_,la,la,DET,
 15-4,BO105,15,insegnante,insegnante,insegnante,NOUN,_
 15-5,BO105,15,per,per,per,ADP,_
 15-6,BO105,15,distribuire,distribuire,distribuire,VERB,_
@@ -2514,7 +2514,7 @@
 273-1,BO105,273,senso,senso,senso,NOUN,_
 273-2,BO105,273,{P},{P},_,_,_
 273-3,BO105,273,non::,non,non,ADV,_
-274-0,BO104,274,oh dio,oh dio ,oh dio,INTJ,_
+274-0,BO104,274,oddio,oddio,oddio,INTJ,_
 274-1,BO104,274,se,se,se,SCONJ,_
 274-2,BO104,274,proponi,proponi,proporre,VERB,_
 274-3,BO104,274,tanti,tanti,tanto,DET,_
@@ -3864,7 +3864,8 @@
 416-8,BO104,416,moodle,moodle,moodle,PROPN,_
 416-9,BO104,416,e,e,e,CCONJ,_
 416-10,BO104,416,su,su,su,ADP,_
-416-11,BO104,416, google drive.,google drive,google drive,PROPN,_
+416-11,BO104,416,google,google,Google,PROPN,_
+416-12,BO104,416,drive.,drive,Drive,PROPN,_
 417-0,BO105,417,eh,eh,eh,INTJ,_
 417-1,BO105,417,{P},{P},_,_,_
 417-2,BO105,417,[non,non,non,ADV,_
@@ -3989,7 +3990,6 @@
 433-5,BO104,433,poi,poi,poi,ADV,_
 433-6,BO104,433,lei,lei,lei,PRON,_
 433-7,BO104,433,verbalizzerà::,verbalizzerà,verbalizzare,VERB,_
-,,,verbalizzerà,verbalizzerà,verbalizzare,VERB,
 433-8,BO104,433,l',l',il,DET,Truncated=Yes
 433-9,BO104,433,esame.,esame,esame,NOUN,Intonation=falling
 434-0,BO105,434,[è,è,essere,AUX,_

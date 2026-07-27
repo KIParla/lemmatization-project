@@ -1,0 +1,5 @@
+- [ ] Creare script per controllare casi di lemmatizzazione/postagging ambiguo (@alicjagniadek35)
+- [ ] Spostare file da OneDrive a GitHub (lemmatization-project/wip/<modulo>/<code>) e controllare:
+  - [ ] spazi multipli (r" +")
+  - [ ] righe che non iniziano per numero (r"^[^\d]")
+- [ ] Funzionamento machamp
