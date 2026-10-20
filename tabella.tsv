@@ -1,0 +1,17 @@
+- pause > lemma(PAUSE) + upos(PAUSE)
+- ((ride)) > lemma(uguale alla form ma da normalizzare) + upos(NVB)
+- @nomeluogo etc > PROPN + dopo controlliamo come aggiungere Anonymized=Yes
+- parole interrotte (es~) > se lemmatizzate, va bene, altrimenti lemma(INT|NFW) + upos(X)
+- xxx > lemma(x) + upos(UNK)
+- forme composte > lemma(a+il, di+il, andare+lo) + upos (ADP+DET oppure VERB+PRON....)
+- Lang=?? > per le lingue, ISO CODE 2 lettere, per il dialetto "dia". + focus con Massimo
+
+
+
+form    	 lemma   	 frequenza	 ADJ	 ADV	 CCONJ	 SCONJ	 PROPN	 NOUN
+comunque	 comunque	 2200     	    	    	 1980 	 220
+roma    	 Roma    	 278      	    	    	      	      	 100
+roma    	 roma    	 10       	    	    	      	      	 20   	 80
+esatto  	 esatto  	 1500     	 50 	 50
+
+* stare e venire ausiliari vs. verbi
