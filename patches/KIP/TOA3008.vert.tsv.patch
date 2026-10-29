@@ -1,0 +1,327 @@
+--- a/tsv/TOA3008.vert.tsv
++++ b/tsv/TOA3008.vert.tsv
+@@ -23,7 +23,7 @@
+ 2-5	TO048	2	5	due	due	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 2-6	TO048	2	6	giorni	giorni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 2-7	TO048	2	7	(tranquilla[mente)].	tranquillamente	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=14.94	_	_	0-15(0)	10-15(0)
+-3-0	TO052	3	0	[(tranqu]illa.)	tranquilla	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=14.675|End=15.39	_	_	0-10(0)	0-6(0)
++3-0	TO052	3	0	[(tranqu]illa.).	tranquilla..	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=14.675|End=15.39	_	_	0-10(0)	0-6(0)
+ 4-0	TO048	4	0	xx	xx	_	_	_	_	_	unknown	_	_	Syllables=2	Begin=18.011	_	_	_	_
+ 4-1	TO048	4	1	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 4-2	TO048	4	2	sei	sei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -341,7 +341,7 @@
+ 66-6	TO050	66	6	me.)	me	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=640.991	_	_	0-2(1)	_
+ 67-0	TO050	67	0	°xxxx	xxxx	_	_	_	_	_	unknown	_	_	Volume=Low|Syllables=4	Begin=641.568	_	_	_	_
+ 67-1	TO050	67	1	xxxx°	xxxx	_	_	_	_	_	unknown	_	_	Volume=Low|Syllables=4	End=644.532	_	_	_	_
+-68-0	TO048	68	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=665.386|End=666.56	_	_	_	_
++68-0	TO048	68	0	°{ride}°	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	Volume=Low	Begin=665.386|End=666.56	_	_	_	_
+ 69-0	TO048	69	0	proprio	proprio	_	_	_	_	_	linguistic	_	_	_	Begin=667.779	_	_	_	_
+ 69-1	TO048	69	1	inquietante,	inquietante	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+ 69-2	TO048	69	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	_	_	_	_	_
+@@ -542,7 +542,7 @@
+ 127-2	TO052	127	2	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 127-3	TO052	127	3	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 127-4	TO052	127	4	fase	fase	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-127-5	TO052	127	5	intemedia	intemedia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++127-5	TO052	127	5	intermedia	intermedia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 127-6	TO052	127	6	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 127-7	TO052	127	7	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 127-8	TO052	127	8	tutti	tutti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -592,7 +592,7 @@
+ 137-0	TO048	137	0	[no	no	_	_	_	_	_	linguistic	_	_	_	Begin=1026.748	_	_	_	0-2(13)
+ 137-1	TO048	137	1	dai	dai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(13)
+ 137-2	TO048	137	2	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(13)
+-137-3	TO048	137	3	cove]gno	covegno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(13)
++137-3	TO048	137	3	conve]gno	convegno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(13)
+ 137-4	TO048	137	4	IL	il	_	_	_	_	_	linguistic	_	_	Volume=High	_	_	_	_	_
+ 137-5	TO048	137	5	CONVEGNO.	convegno	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Volume=High	End=1029.393	_	_	_	_
+ 138-0	TO048	138	0	CONVEGNO::.	convegno	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Volume=High	Begin=1030.518|End=1032.25	7x2	_	_	_
+@@ -971,7 +971,7 @@
+ 182-6	TO052	182	6	organizzatori	organizzatori	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 182-7	TO052	182	7	italiani	italiani	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 182-8	TO052	182	8	m'	m'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+-182-9	TO052	182	9	(ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++182-9	TO052	182	9	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 182-10	TO052	182	10	detto	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 182-11	TO052	182	11	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 182-12	TO052	182	12	potevo	potevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -1016,7 +1016,8 @@
+ 185-17	TO052	185	17	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 185-18	TO052	185	18	var[savia].	varsavia	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1192.001	_	_	_	3-8(19)
+ 186-0	TO048	186	0	[xxxx]	xxxx	_	_	_	_	_	unknown	_	_	Syllables=4	Begin=1186.469|End=1187.734	_	_	_	0-4(18)
+-187-0	TO048	187	0	[a:h]carini.	ahcarini	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1191.367|End=1192.744	0x1	_	_	0-2(19)
++187-0	TO048	187	0	[a:h]	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1191.367	0x1	_	_	0-2(19)
++187-1	TO048	187	1	carini.	carini	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1192.744	_	_	_	_
+ 188-0	TO052	188	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1193.421	_	_	_	_
+ 188-1	TO052	188	1	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 188-2	TO052	188	2	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -1259,7 +1260,9 @@
+ 215-5	TO052	215	5	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 215-6	TO052	215	6	[sta],	sta	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1298.275	_	_	_	0-3(21)
+ 216-0	TO048	216	0	[x]x	xx	_	_	_	_	_	unknown	_	_	Syllables=2	Begin=1298.06	_	_	_	0-1(21)
+-216-1	TO048	216	1	x[x]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	End=1300.632	_	_	_	1-2(22)
++216-1	TO048	216	1	x[x]	xx	_	_	_	_	_	unknown	_	_	Syllables=2	_	_	_	_	1-2(22)
++216-2	TO048	216	2	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	_	_	_	_	_
++216-3	TO048	216	3	.	.	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1300.632	_	_	_	_
+ 217-0	TO052	217	0	[non	non	_	_	_	_	_	linguistic	_	_	_	Begin=1299.966	_	_	_	0-3(22)
+ 217-1	TO052	217	1	capisci]	capisci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(22)
+ 217-2	TO052	217	2	se	se	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
+@@ -2938,27 +2941,28 @@
+ 488-14	TO052	488	14	chiaro	chiaro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 488-15	TO052	488	15	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 488-16	TO052	488	16	tanto	tanto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-17	TO052	488	17	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-18	TO052	488	18	stato	stato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-19	TO052	488	19	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-20	TO052	488	20	brusio	brusio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-21	TO052	488	21	nella	nella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-22	TO052	488	22	platea	platea	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
+-488-23	TO052	488	23	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+-488-24	TO052	488	24	lui	lui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-25	TO052	488	25	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-26	TO052	488	26	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-27	TO052	488	27	dovuto	dovuto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-28	TO052	488	28	interrompere	interrompere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-29	TO052	488	29	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-30	TO052	488	30	detto	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-31	TO052	488	31	prego	prego	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-32	TO052	488	32	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-33	TO052	488	33	qualcuno	qualcuno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-34	TO052	488	34	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-35	TO052	488	35	gridato	gridato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-36	TO052	488	36	<è	è	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-1(0)	_	_
+-488-37	TO052	488	37	magrini:>,	magrini	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2099.536	6x1	Slow=0-7(0)	_	_
++488-38	TO052	488	17	'	'	_	_	_	_	_	linguistic	_	_	Truncated=Yes	_	_	_	_	_
++488-17	TO052	488	18	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-18	TO052	488	19	stato	stato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-19	TO052	488	20	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-20	TO052	488	21	brusio	brusio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-21	TO052	488	22	nella	nella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-22	TO052	488	23	platea	platea	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
++488-23	TO052	488	24	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
++488-24	TO052	488	25	lui	lui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-25	TO052	488	26	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-26	TO052	488	27	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-27	TO052	488	28	dovuto	dovuto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-28	TO052	488	29	interrompere	interrompere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-29	TO052	488	30	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-30	TO052	488	31	detto	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-31	TO052	488	32	prego	prego	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-32	TO052	488	33	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-33	TO052	488	34	qualcuno	qualcuno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-34	TO052	488	35	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-35	TO052	488	36	gridato	gridato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-36	TO052	488	37	<è	è	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-1(0)	_	_
++488-37	TO052	488	38	magrini:>,	magrini	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2099.536	6x1	Slow=0-7(0)	_	_
+ 489-0	TO052	489	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=2100.206	_	_	_	_
+ 489-1	TO052	489	1	proprio,	proprio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2101.255	_	_	_	_
+ 490-0	TO052	490	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=2101.416	_	_	_	_
+@@ -3437,11 +3441,12 @@
+ 543-19	TO052	543	19	xxx	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	_	_	_	_	_
+ 543-20	TO052	543	20	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 543-21	TO052	543	21	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-543-22	TO052	543	22	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-543-23	TO052	543	23	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-543-24	TO052	543	24	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-543-25	TO052	543	25	critico	critico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-543-26	TO052	543	26	letterario,	letterario	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2255.243	_	_	_	_
++543-27	TO052	543	22	(~)	~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
++543-22	TO052	543	23	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++543-23	TO052	543	24	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++543-24	TO052	543	25	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++543-25	TO052	543	26	critico	critico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++543-26	TO052	543	27	letterario,	letterario	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2255.243	_	_	_	_
+ 544-0	TO052	544	0	in	in	_	_	_	_	_	linguistic	_	_	_	Begin=2255.293	_	_	_	_
+ 544-1	TO052	544	1	cui	cui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 544-2	TO052	544	2	dice,	dice	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2256.192	_	_	_	_
+@@ -3594,8 +3599,8 @@
+ 567-15	TO052	567	15	e:h,	eh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2309.974	0x1	_	_	_
+ 568-0	TO048	568	0	[giuseppe],	giuseppe	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=2307.755|End=2308.626	_	_	_	0-8(85)
+ 569-0	TO048	569	0	ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=2309.97	_	_	_	_
+-569-1	TO048	569	1	cu	cu	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-569-2	TO048	569	2	spacchiu	spacchiu	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++569-1	TO048	569	1	cu	cu	_	_	_	_	_	linguistic	_	_	Lang=und	_	_	_	_	_
++569-2	TO048	569	2	spacchiu	spacchiu	_	_	_	_	_	linguistic	_	_	Lang=und	_	_	_	_	_
+ 569-3	TO048	569	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 569-4	TO048	569	4	giuseppe?	giuseppe	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2311.556	_	_	_	_
+ 570-0	TO052	570	0	no	no	_	_	_	_	_	linguistic	_	_	_	Begin=2311.946	_	_	_	_
+@@ -3962,7 +3967,7 @@
+ 608-23	TO052	608	23	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 608-24	TO052	608	24	nessuno	nessuno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 608-25	TO052	608	25	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-608-26	TO052	608	26	avev	avev	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++608-26	TO052	608	26	avev~	avev~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
+ 608-27	TO052	608	27	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 608-28	TO052	608	28	avesse	avesse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 608-29	TO052	608	29	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -4740,11 +4745,12 @@
+ 726-4	TO048	726	4	sei	sei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(151)
+ 726-5	TO048	726	5	arrivato]	arrivato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(151)
+ 726-6	TO048	726	6	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-726-7	TO048	726	7	ventanni	ventanni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-726-8	TO048	726	8	xx	xx	_	_	_	_	_	unknown	_	_	Syllables=2	_	_	_	_	_
+-726-9	TO048	726	9	xx	xx	_	_	_	_	_	unknown	_	_	Syllables=2	_	_	_	_	_
+-726-10	TO048	726	10	sei	sei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-726-11	TO048	726	11	arrivato.	arrivato	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2673.734	_	_	_	_
++726-7	TO048	726	7	vent'	vent'	_	_	_	_	_	linguistic	_	_	Truncated=Yes	_	_	_	_	_
++726-12	TO048	726	8	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++726-8	TO048	726	9	xx	xx	_	_	_	_	_	unknown	_	_	Syllables=2	_	_	_	_	_
++726-9	TO048	726	10	xx	xx	_	_	_	_	_	unknown	_	_	Syllables=2	_	_	_	_	_
++726-10	TO048	726	11	sei	sei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++726-11	TO048	726	12	arrivato.	arrivato	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2673.734	_	_	_	_
+ 727-0	TO052	727	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2672.123|End=2673.145	_	_	_	_
+ 728-0	TO052	728	0	dopo	dopo	_	_	_	_	_	linguistic	_	_	_	Begin=2673.733	_	_	_	_
+ 728-1	TO052	728	1	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -5062,7 +5068,7 @@
+ 783-7	TO052	783	7	erano	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 783-8	TO052	783	8	erano	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 783-9	TO052	783	9	troppe	troppe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-783-10	TO052	783	10	segne	segne	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++783-10	TO052	783	10	seghe	seghe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 783-11	TO052	783	11	mentali.	mentali	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2793.408	_	_	_	_
+ 784-0	TO052	784	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=2793.59	_	_	_	_
+ 784-1	TO052	784	1	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -5383,7 +5389,7 @@
+ 842-2	TO048	842	2	piace],	piace	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2906.255	_	_	_	0-5(190)
+ 843-0	TO052	843	0	sei	sei	_	_	_	_	_	linguistic	_	_	_	Begin=2907.718	_	_	_	_
+ 843-1	TO052	843	1	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-843-2	TO052	843	2	nerovso::	nerovso	_	_	_	_	_	linguistic	_	_	_	_	6x2	_	_	_
++843-2	TO052	843	2	nervoso::	nervoso	_	_	_	_	_	linguistic	_	_	_	_	6x2	_	_	_
+ 843-3	TO052	843	3	creativo.	creativo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2909.831	_	_	_	_
+ 844-0	TO052	844	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2910.312|End=2910.884	_	_	_	_
+ 845-0	TO048	845	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2910.312|End=2910.884	_	_	_	_
+@@ -5782,8 +5788,9 @@
+ 936-8	TO048	936	8	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 936-9	TO048	936	9	[dico	dico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(212)
+ 936-10	TO048	936	10	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(212)
+-936-11	TO048	936	11	ventanni	ventanni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(212)
+-936-12	TO048	936	12	sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3085.673	_	_	_	0-2(212)
++936-11	TO048	936	11	vent'	vent'	_	_	_	_	_	linguistic	_	_	Truncated=Yes	_	_	_	_	0-8(212)
++936-15	TO	936	12	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++936-12	TO048	936	13	sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3085.673	_	_	_	0-2(212)
+ 937-0	TO050	937	0	[la	la	_	_	_	_	_	linguistic	_	_	_	Begin=3082.835	_	_	_	0-2(211)
+ 937-1	TO050	937	1	sindrome	sindrome	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(211)
+ 937-2	TO050	937	2	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-5(211)
+@@ -5871,7 +5878,7 @@
+ 945-5	TO048	945	5	sì.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3109.036	_	_	_	_
+ 946-0	TO050	946	0	[quella	quella	_	_	_	_	_	linguistic	_	_	_	Begin=3107.173	_	_	_	0-6(215)
+ 946-1	TO050	946	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(215)
+-946-2	TO050	946	2	(phatos)	phatos	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-6(0)	0-6(215)
++946-2	TO050	946	2	(pathos)	pathos	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-6(0)	0-6(215)
+ 946-3	TO050	946	3	logico].	logico	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3108.7	_	_	_	0-6(215)
+ 947-0	TO050	947	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=3109.751	_	_	_	_
+ 947-1	TO050	947	1	(qua[si)	quasi	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	0-5(0)	3-5(216)
+@@ -5891,7 +5898,7 @@
+ 949-2	TO048	949	2	dice	dice	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 949-3	TO048	949	3	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 949-4	TO048	949	4	verità?	verità	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=3114.816	_	_	_	_
+-950-0	TO048	950	0	erao	erao	_	_	_	_	_	linguistic	_	_	_	Begin=3116.901	_	_	_	_
++950-0	TO048	950	0	erano	erano	_	_	_	_	_	linguistic	_	_	_	Begin=3116.901	_	_	_	_
+ 950-1	TO048	950	1	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 950-2	TO048	950	2	sofi[sti].	sofisti	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3118.02	_	_	_	4-7(217)
+ 951-0	TO052	951	0	[è	è	_	_	_	_	_	linguistic	_	_	_	Begin=3117.606	_	_	_	0-1(217)
+@@ -6621,7 +6628,7 @@
+ 1071-1	TO052	1071	1	cosa	cosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1071-2	TO052	1071	2	che,	che	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=3343.724	_	_	_	_
+ 1072-0	TO052	1072	0	lu:i,	lui	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=3344.146|End=3344.591	1x1	_	_	_
+-1073-0	TO052	1073	0	praticamernte	praticamernte	_	_	_	_	_	linguistic	_	_	_	Begin=3345.171	_	_	_	_
++1073-0	TO052	1073	0	praticamente	praticamente	_	_	_	_	_	linguistic	_	_	_	Begin=3345.171	_	_	_	_
+ 1073-1	TO052	1073	1	c~	c~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
+ 1073-2	TO052	1073	2	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1073-3	TO052	1073	3	ne	ne	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -7711,7 +7718,7 @@
+ 1280-3	TO050	1280	3	pronuncia	pronuncia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1280-4	TO050	1280	4	davvero	davvero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1280-5	TO050	1280	5	bourdieu?	bourdieu	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=3758.888	_	_	_	_
+-1281-0	TO052	1281	0	<bourdieu>.	bourdieu	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=3759.16|End=3759.985	_	Slow=0-8(0)	_	_
++1281-0	TO052	1281	0	<bourdieu>..	bourdieu..	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=3759.16|End=3759.985	_	Slow=0-8(0)	_	_
+ 1282-0	TO050	1282	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=3760.315	_	_	_	_
+ 1282-1	TO050	1282	1	burdie?	burdie	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=3761.656	_	_	_	_
+ 1283-0	TO052	1283	0	è	è	_	_	_	_	_	linguistic	_	_	_	Begin=3761.84	_	_	_	_
+@@ -7853,10 +7860,10 @@
+ 1312-8	TO052	1312	8	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(310)
+ 1312-9	TO052	1312	9	pronuncia].	pronuncia	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3804.955	_	_	_	0-9(310)
+ 1313-0	TO048	1313	0	[de	de	_	_	_	_	_	linguistic	_	_	_	Begin=3804.511	_	_	_	0-2(310)
+-1313-1	TO048	1313	1	saint]-exupéry.	saint-exupéry	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3805.681	_	_	_	0-5(310)
++1313-1	TO048	1313	1	saint]~exupéry.	saint~exupéry.	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3805.681	_	_	_	0-5(310)
+ 1314-0	TO050	1314	0	eh?	eh	_	_	_	_	_	linguistic	_	_	Intonation=Rising	Begin=3806.253|End=3806.611	_	_	_	_
+ 1315-0	TO048	1315	0	<de	de	_	_	_	_	_	linguistic	_	_	_	Begin=3806.975	_	Slow=0-2(0)	_	_
+-1315-1	TO048	1315	1	saint-exupéry>.	saint-exupéry	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3808.955	_	Slow=0-13(0)	_	_
++1315-1	TO048	1315	1	saint-exupéry>.	saint-exupéry.	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3808.955	_	Slow=0-13(0)	_	_
+ 1316-0	TO050	1316	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=3809.323	_	_	_	_
+ 1316-1	TO050	1316	1	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1316-2	TO050	1316	2	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -8366,7 +8373,7 @@
+ 1400-12	TO048	1400	12	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1400-13	TO048	1400	13	me.	me	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=4012.11	_	_	_	_
+ 1401-0	TO052	1401	0	°mettiamoci	mettiamoci	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=4012.265	_	_	_	_
+-1401-1	TO052	1401	1	là	là	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
++1401-1	TO052	1401	1	là	la	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
+ 1401-2	TO052	1401	2	perché	perché	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
+ 1401-3	TO052	1401	3	qua	qua	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
+ 1401-4	TO052	1401	4	è	è	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
+@@ -9717,7 +9724,7 @@
+ 1574-4	TO052	1574	4	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1574-5	TO052	1574	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1574-6	TO052	1574	6	è:	è	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
+-1574-7	TO052	1574	7	u:nn,	unn	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=4470.33	0x1	_	_	_
++1574-7	TO052	1574	7	u:n:,	un	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=4470.33	0x1	_	_	_
+ 1575-0	TO050	1575	0	xx	xx	_	_	_	_	_	unknown	_	_	Syllables=2	Begin=4470.33	_	_	_	_
+ 1575-1	TO050	1575	1	[xxx]	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	End=4471.693	_	_	_	0-3(382)
+ 1576-0	TO052	1576	0	[è	è	_	_	_	_	_	linguistic	_	_	_	Begin=4470.996	_	_	_	0-1(382)
+@@ -10202,8 +10209,8 @@
+ 1641-1	TO050	1641	1	buon	buon	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	0-4(407)
+ 1641-2	TO050	1641	2	lavo]ro	lavoro	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	0-4(407)
+ 1641-3	TO050	1641	3	insomma	insomma	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
+-1641-4	TO050	1641	4	xxx.°	xxx	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Volume=Low	_	_	_	_	_
+-1641-5	TO050	1641	5	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=4646.666	_	_	_	_
++1641-4	TO050	1641	4	xxx.	xxx	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
++1641-5	TO050	1641	5	{ride}°	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	Volume=Low	End=4646.666	_	_	_	_
+ 1642-0	TO048	1642	0	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	Begin=4646.665	_	_	_	_
+ 1642-1	TO048	1642	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1642-2	TO048	1642	2	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -10282,7 +10289,7 @@
+ 1647-1	TO048	1647	1	banale>	banale	_	_	_	_	_	linguistic	_	_	_	_	_	Slow=0-6(0)	_	_
+ 1647-2	TO048	1647	2	senza	senza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1647-3	TO048	1647	3	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1647-4	TO048	1647	4	minino	minino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1647-4	TO048	1647	4	minimo	minimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1647-5	TO048	1647	5	di,	di	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=4672.165	_	_	_	_
+ 1648-0	TO048	1648	0	ricercatezza	ricercatezza	_	_	_	_	_	linguistic	_	_	_	Begin=4672.51	_	_	_	_
+ 1648-1	TO048	1648	1	né	né	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -10499,7 +10506,7 @@
+ 1672-0	TO048	1672	0	bravo	bravo	_	_	_	_	_	linguistic	_	_	_	Begin=4735.221	_	_	_	_
+ 1672-1	TO048	1672	1	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1672-2	TO048	1672	2	lilla	lilla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1672-3	TO048	1672	3	premioil	premioil	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1672-3	TO048	1672	3	premio	premio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1672-4	TO048	1672	4	nobel	nobel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1672-5	TO048	1672	5	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1672-6	TO048	1672	6	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -10816,7 +10823,7 @@
+ 1734-16	TO048	1734	16	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1734-17	TO048	1734	17	uno	uno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1734-18	TO048	1734	18	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1734-19	TO048	1734	19	contenutalizzasse,	contenutalizzasse	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=4862.156	_	_	_	_
++1734-19	TO048	1734	19	contestualizzasse,	contestualizzasse	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=4862.156	_	_	_	_
+ 1735-0	TO048	1735	0	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	Begin=4862.608	_	_	_	_
+ 1735-1	TO048	1735	1	prendi	prendi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1735-2	TO048	1735	2	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -11967,7 +11974,7 @@
+ 1933-16	TO048	1933	16	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1933-17	TO048	1933	17	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1933-18	TO048	1933	18	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1933-19	TO048	1933	19	diffiicle	diffiicle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1933-19	TO048	1933	19	diffiicile	diffiicile	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1933-20	TO048	1933	20	capire.	capire	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=5305.716	_	_	_	_
+ 1934-0	TO048	1934	0	questa	questa	_	_	_	_	_	linguistic	_	_	_	Begin=5306.079	_	_	_	_
+ 1934-1	TO048	1934	1	cosa	cosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -12337,7 +12344,7 @@
+ 1996-6	TO052	1996	6	bello.°	bello	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Volume=Low	End=5453.953	_	_	_	_
+ 1997-0	TO052	1997	0	chiama	chiama	_	_	_	_	_	linguistic	_	_	_	Begin=5455.645	_	_	_	_
+ 1997-1	TO052	1997	1	<papà:>,	papà	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=5456.893	3x1	Slow=0-4(0)	_	_
+-1998-0	TO052	1998	0	<papà>,	papà	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=5457.126|End=5457.788	_	Slow=0-4(0)	_	_
++1998-0	TO052	1998	0	<papà>.,	papà.,	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=5457.126|End=5457.788	_	Slow=0-4(0)	_	_
+ 1999-0	TO052	1999	0	ridendo,	ridendo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=5459.472	_	_	_	_
+ 1999-1	TO052	1999	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=5461.834	_	_	_	_
+ 2000-0	TO052	2000	0	(mi)	mi	_	_	_	_	_	linguistic	_	_	_	Begin=5462.275	_	_	0-2(0)	_

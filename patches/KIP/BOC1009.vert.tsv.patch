@@ -1,0 +1,65 @@
+--- a/tsv/BOC1009.vert.tsv
++++ b/tsv/BOC1009.vert.tsv
+@@ -209,7 +209,7 @@
+ 42-7	BO142	42	7	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 42-8	BO142	42	8	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 42-9	BO142	42	9	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-42-10	BO142	42	10	gramatiche,	gramatiche	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=123.104	_	_	_	_
++42-10	BO142	42	10	grammatiche,	grammatiche	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=123.104	_	_	_	_
+ 43-0	BO142	43	0	diano	diano	_	_	_	_	_	linguistic	_	_	_	Begin=123.521	_	_	_	_
+ 43-1	BO142	43	1	una:	una	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
+ 43-2	BO142	43	2	e::h	eh	_	_	_	_	_	linguistic	_	_	_	_	0x2	_	_	_
+@@ -386,7 +386,7 @@
+ 66-10	BO142	66	10	regole	regole	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 66-11	BO142	66	11	ovvero,	ovvero	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=210.69	_	_	_	_
+ 67-0	BO142	67	0	e::h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=211.043	0x2	_	_	_
+-67-1	BO142	67	1	scandiscon~	scandiscon~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
++67-1	BO142	67	1	scandiscon~	scandiscono	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
+ 67-2	BO142	67	2	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 67-3	BO142	67	3	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 67-4	BO142	67	4	scanditi	scanditi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -449,7 +449,7 @@
+ 81-8	BO142	81	8	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 81-9	BO142	81	9	ad	ad	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 81-10	BO142	81	10	esempio,	esempio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=241.719	_	_	_	_
+-82-0	BO142	82	0	l~	l~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=242.484	_	_	_	_
++82-0	BO142	82	0	l~	la	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=242.484	_	_	_	_
+ 82-1	BO142	82	1	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 82-2	BO142	82	2	regola	regola	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 82-3	BO142	82	3	che,	che	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=243.823	_	_	_	_
+@@ -916,7 +916,7 @@
+ 155-0	BO142	155	0	e:h	eh	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=471.867	0x1	_	_	_
+ 155-1	BO142	155	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 155-2	BO142	155	2	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-155-3	BO142	155	3	cul~	cul~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
++155-3	BO142	155	3	cul~	cultura	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
+ 155-4	BO142	155	4	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 155-5	BO142	155	5	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 155-6	BO142	155	6	cultura	cultura	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -1103,7 +1103,7 @@
+ 183-3	BO142	183	3	degli	degli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 183-4	BO142	183	4	effetti	effetti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 183-5	BO142	183	5	cognitivi	cognitivi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-183-6	BO142	183	6	perma~	perma~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
++183-6	BO142	183	6	perma~	permanenti	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
+ 183-7	BO142	183	7	e::hm,	ehm	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=565.093	0x2	_	_	_
+ 184-0	BO142	184	0	m:h	mh	_	_	_	_	_	linguistic	_	_	_	Begin=565.796	0x1	_	_	_
+ 184-1	BO142	184	1	efficaci,	efficaci	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=567.016	_	_	_	_
+@@ -1146,7 +1146,7 @@
+ 191-0	BO142	191	0	m:::h	mh	_	_	_	_	_	linguistic	_	_	_	Begin=584.559	0x3	_	_	_
+ 191-1	BO142	191	1	diciamo	diciamo	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
+ 191-2	BO142	191	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+-191-3	BO142	191	3	decodific~	decodific~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
++191-3	BO142	191	3	decodific~	decodificare	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
+ 191-4	BO142	191	4	decodificare	decodificare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 191-5	BO142	191	5	un:	un	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
+ 191-6	BO142	191	6	determinato	determinato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -1370,7 +1370,7 @@
+ 220-2	BO142	220	2	modi	modi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 220-3	BO142	220	3	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 220-4	BO142	220	4	cu:i	cui	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
+-220-5	BO142	220	5	u~	u~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
++220-5	BO142	220	5	u~	un	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
+ 220-6	BO142	220	6	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 220-7	BO142	220	7	individuo	individuo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 220-8	BO142	220	8	poteva	poteva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

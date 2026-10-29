@@ -1,0 +1,125 @@
+= Pipeline: dal CSV lemmatizzato al modulo KIP
+
+Questa guida descrive, passo per passo, come portare una conversazione lemmatizzata (`wip/<modulo>/<codice>.csv`) nel repository del modulo, sul branch `dev`: correzioni alla trascrizione, lemma e UPOS, file `.eaf` e lineari.
+Gli esempi usano KIP e `BOA1002`; i comandi si lanciano dalla cartella `lemmatization-project/`, con i repository affiancati (`../tools`, `../moduli/KIP`).
+Il dettaglio delle patch è in xref:patching.adoc[].
+
+[IMPORTANT]
+====
+L'ordine dei passi conta.
+La patch si genera e si applica *prima* di aggiungere lemma e UPOS, e il TSV non va ripatchato dopo averla applicata: eventuali ritocchi successivi si fanno direttamente nel TSV.
+====
+
+== 1. Generare la patch e il file di review
+
+[source,bash]
+----
+python3 ../tools/make_patch.py wip/KIP/BOA1002.csv ../moduli/KIP/tsv/BOA1002.vert.tsv
+----
+
+Il percorso del TSV va passato esplicitamente: quello dedotto dallo script (`../KIP/tsv/`) non coincide con `../moduli/KIP/tsv/`.
+
+Lo script scrive in `patches/KIP/`:
+
+* `BOA1002.vert.tsv.patch`: la patch da applicare;
+* `BOA1002.vert.tsv.recap.md`: elenco delle modifiche (mod/del/agg) e delle voci da verificare;
+* `BOA1002.review.csv`: copia del CSV con due colonne in più, `merge` (`OK`, `WARN`, `FAIL`) e `note`, su cui si fa la revisione;
+* `.review-base/BOA1002.csv`: istantanea del CSV al momento della generazione, serve a riportare le tue modifiche nel `wip/` (non toccarla).
+
+== 2. Rivedere
+
+Apri `BOA1002.review.csv` e controlla le righe con `WARN` o `FAIL` e le voci `[ ]` del recap.
+Tipicamente: forma non derivabile dallo span (`WARN`), token duplicati, `overlaps`/`prolongations` da sistemare.
+
+Si possono correggere le *celle* direttamente nel review (`span`, `form`, `lemma`, `upos`, ...): alla rigenerazione `make_patch.py` le riporta nel `wip/` con un merge a tre vie (se la stessa cella è cambiata sia nel review sia nel `wip/` vince il `wip/` e viene segnalato un `CONFLITTO`).
+
+[WARNING]
+====
+Righe aggiunte, eliminate o riordinate nel review *non* vengono riportate: lo script stampa `righe o colonne cambiate, modifiche NON riportate in wip` e *riscrive il review dal `wip/`, perdendo le tue modifiche*.
+Prima di rigenerare, fai una copia del review.
+Le unioni e le eliminazioni di token (es. `elle` + `due` → `elledue`) si fanno nel `wip/<modulo>/<codice>.csv`, non nel review.
+====
+
+Dopo ogni correzione rilancia il comando del passo 1 finché il recap indica *0 da verificare*.
+Se il recap segnala cose strane nei dati (es. un token duplicato dopo un'aggiunta, `rispetto a quel quel programma`), correggi il `wip/` e rigenera.
+
+== 3. Applicare la patch su `dev`
+
+[source,bash]
+----
+cd ../moduli/KIP
+git checkout dev && git pull
+git apply --check ../../lemmatization-project/patches/KIP/BOA1002.vert.tsv.patch
+git apply ../../lemmatization-project/patches/KIP/BOA1002.vert.tsv.patch
+git add tsv/BOA1002.vert.tsv
+git commit -m "fix: transcription corrections from lemmatization of BOA1002"
+----
+
+Se `--check` fallisce per il contesto, il TSV è cambiato dopo la generazione: rigenera la patch (passo 1).
+Un commit per conversazione.
+
+Se nel recap c'erano voci `ADD` o `⚠️`, sistemale a mano nel TSV prima del commit.
+Ritocchi che emergono dopo (es. fondere due intervalli `overlaps`) si fanno nel TSV e si committano a parte; la patch in `patches/` non va riapplicata.
+
+== 4. Aggiungere lemma e UPOS
+
+[source,bash]
+----
+python3 ../tools/wip2tsv.py wip/KIP/BOA1002.csv ../moduli/KIP/tsv/BOA1002.vert.tsv -o /tmp/BOA1002.vert.tsv
+diff /tmp/BOA1002.vert.tsv ../moduli/KIP/tsv/BOA1002.vert.tsv | head   # controllo
+python3 ../tools/wip2tsv.py wip/KIP/BOA1002.csv ../moduli/KIP/tsv/BOA1002.vert.tsv
+----
+
+(senza `-o` il TSV viene riscritto sul posto; l'operazione è idempotente.)
+
+Lo script scrive `lemma` e `upos`, e per i token multiparola (`sulla` = `su` + `la`) lemma e UPOS delle parole uniti da `+` (`su+la`, `ADP+PRON`) più una riga `type=syntactic` per parola.
+Rifiuta di scrivere se TSV e CSV non concordano su token o forme: vuol dire che la patch del passo 3 non è stata applicata (o che il CSV è cambiato), `--force` solo se sai perché.
+
+[source,bash]
+----
+git add tsv/BOA1002.vert.tsv
+git commit -m "feat(tsv): lemma, upos and syntactic rows for BOA1002"
+----
+
+== 5. Rigenerare `.eaf` e file lineari
+
+Dalla cartella `tools/`, con il suo ambiente virtuale:
+
+[source,bash]
+----
+cd ../tools
+.venv/bin/python sync.py --from-vert ../moduli/KIP/tsv/BOA1002.vert.tsv --audio-ext mp3
+----
+
+Questo riscrive `eaf/BOA1002.eaf`, `linear-enriched/BOA1002.txt` e `linear-orthographic/BOA1002.txt` (le righe `syntactic` sono ignorate).
+Gli avvisi `participant ??` sul rapporto di validazione sono già presenti e non dipendono da questo lavoro.
+
+Controlla `git diff --stat` in `moduli/KIP`: le differenze devono corrispondere alle correzioni della patch (poche righe per conversazione).
+Se compaiono molte righe diverse, qualcosa non va (es. spazi inattesi dopo gli apostrofi).
+
+[source,bash]
+----
+cd ../moduli/KIP
+git add eaf linear-enriched linear-orthographic
+git commit -m "chore: regenerate eaf and linear files of BOA1002"
+git push origin dev
+----
+
+== 6. Chiudere nel lemmatization-project
+
+* Committare `patches/<modulo>/` (patch, recap, `.review.csv` e `.review-base/`) e i `wip/` corrispondenti.
+* Aggiornare `TODO.md` (conteggi e liste: è un'istantanea, non si aggiorna da solo).
+
+== Riepilogo
+
+[cols="1,3,2"]
+|===
+|Passo |Comando |Dove
+
+|1 |`make_patch.py wip/... ../moduli/KIP/tsv/...` |lemmatization-project
+|2 |revisione di `*.review.csv`, rigenerare fino a 0 da verificare |lemmatization-project
+|3 |`git apply` + commit |moduli/KIP, `dev`
+|4 |`wip2tsv.py` + commit |lemmatization-project → moduli/KIP
+|5 |`sync.py --from-vert ... --audio-ext mp3` + commit + push |tools → moduli/KIP
+|6 |commit di `patches/` e `wip/`, aggiornare `TODO.md` |lemmatization-project
+|===

@@ -1,0 +1,22 @@
+--- a/tsv/BOA1017.vert.tsv
++++ b/tsv/BOA1017.vert.tsv
+@@ -564,12 +564,13 @@
+ 95-0	BO082	95	0	diciamo,	diciamo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=199.799|End=200.414	_	_	_	_
+ 96-0	BO082	96	0	su	su	_	_	_	_	_	linguistic	_	_	_	Begin=200.67	_	_	_	_
+ 96-1	BO082	96	1	sul	sul	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-96-2	BO082	96	2	genere	genere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-96-3	BO082	96	3	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-96-4	BO082	96	4	generale	generale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-96-5	BO082	96	5	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-96-6	BO082	96	6	aveva	aveva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-96-7	BO082	96	7	detto,	detto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=203.06	_	_	_	_
++	BO082	96	2	_	su	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++96-2	BO082	96	3	genere	genere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++96-3	BO082	96	4	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++96-4	BO082	96	5	generale	generale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++96-5	BO082	96	6	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++96-6	BO082	96	7	aveva	aveva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++96-7	BO082	96	8	detto,	detto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=203.06	_	_	_	_
+ 97-0	BO084	97	0	m::	m	_	_	_	_	_	linguistic	_	_	_	Begin=203.278|End=203.71	0x2	_	_	_
+ 98-0	BO082	98	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=203.7	_	_	_	_
+ 98-1	BO082	98	1	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

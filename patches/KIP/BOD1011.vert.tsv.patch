@@ -1,0 +1,922 @@
+--- a/tsv/BOD1011.vert.tsv
++++ b/tsv/BOD1011.vert.tsv
+@@ -69,7 +69,7 @@
+ 7-0	BO112	7	0	io	io	_	_	_	_	_	linguistic	_	_	_	Begin=34.76	_	_	_	_
+ 7-1	BO112	7	1	soprattutto	soprattutto	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
+ 7-2	BO112	7	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+-7-3	BO112	7	3	nel'	nel'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
++7-3	BO112	7	3	nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+ 7-4	BO112	7	4	intervallo,	intervallo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=37.5	_	_	_	_
+ 8-0	BO112	8	0	faccio	faccio	_	_	_	_	_	linguistic	_	_	_	Begin=37.86	_	_	_	_
+ 8-1	BO112	8	1	lo	lo	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
+@@ -94,14 +94,13 @@
+ 9-7	BO112	9	7	due	due	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 9-8	BO112	9	8	ragazze	ragazze	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 9-9	BO112	9	9	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-9-10	BO112	9	10	magistra	magistra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-9-11	BO112	9	11	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-9-12	BO112	9	12	che:	che	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
+-9-13	BO112	9	13	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-9-14	BO112	9	14	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-9-15	BO112	9	15	lamentavano	lamentavano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-9-16	BO112	9	16	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-9-17	BO112	9	17	date?	date	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=47.668	_	_	_	_
++9-10	BO112	9	10	magistrale	magistrale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++9-12	BO112	9	11	che:	che	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
++9-13	BO112	9	12	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++9-14	BO112	9	13	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++9-15	BO112	9	14	lamentavano	lamentavano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++9-16	BO112	9	15	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++9-17	BO112	9	16	date?	date	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=47.668	_	_	_	_
+ 10-0	BO112	10	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=48.71	_	_	_	_
+ 10-1	BO112	10	1	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 10-2	BO112	10	2	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -122,7 +121,7 @@
+ 12-1	BO112	12	1	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 12-2	BO112	12	2	realtà	realtà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 12-3	BO112	12	3	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-12-4	BO112	12	4	problea	problea	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++12-4	BO112	12	4	problema	problema	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 12-5	BO112	12	5	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 12-6	BO112	12	6	sedici	sedici	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 12-7	BO112	12	7	marzo,	marzo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+@@ -132,9 +131,7 @@
+ 12-11	BO112	12	11	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 12-12	BO112	12	12	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 12-13	BO112	12	13	sei	sei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-12-14	BO112	12	14	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-12-15	BO112	12	15	effe	effe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-12-16	BO112	12	16	u,	u	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=56.983	_	_	_	_
++12-14	BO112	12	14	cieffeu	cieffeu	_	_	_	_	_	linguistic	_	_	_	End=56.983	_	_	_	_
+ 13-0	BO112	13	0	è	è	_	_	_	_	_	linguistic	_	_	_	Begin=57.696	_	_	_	_
+ 13-1	BO112	13	1	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 13-2	BO112	13	2	legato	legato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -664,7 +661,7 @@
+ 69-0	BO112	69	0	le	le	_	_	_	_	_	linguistic	_	_	_	Begin=267.028	_	_	_	_
+ 69-1	BO112	69	1	valigie	valigie	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 69-2	BO112	69	2	ragazzi	ragazzi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-69-3	BO112	69	3	mettele	mettele	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++69-3	BO112	69	3	mettetele	mettetele	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 69-4	BO112	69	4	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 69-5	BO112	69	5	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 69-6	BO112	69	6	qua,	qua	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+@@ -793,7 +790,7 @@
+ 90-6	BO112	90	6	sono?	sono	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=333.333	_	_	_	_
+ 91-0	BO112	91	0	allora	allora	_	_	_	_	_	linguistic	_	_	_	Begin=333.918	_	_	_	_
+ 91-1	BO112	91	1	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-91-2	BO112	91	2	esibiizioni	esibiizioni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++91-2	BO112	91	2	esibizioni	esibizioni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 91-3	BO112	91	3	etnologiche,	etnologiche	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=335.68	_	_	_	_
+ 92-0	BO112	92	0	erano	erano	_	_	_	_	_	linguistic	_	_	_	Begin=335.78	_	_	_	_
+ 92-1	BO112	92	1	quelli	quelli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -863,7 +860,7 @@
+ 102-5	BO112	102	5	zoo	zoo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 102-6	BO112	102	6	umani.	umani	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=370.353	_	_	_	_
+ 103-0	BO112	103	0	devo	devo	_	_	_	_	_	linguistic	_	_	_	Begin=371.296	_	_	_	_
+-103-1	BO112	103	1	diere	diere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++103-1	BO112	103	1	dire	dire	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 103-2	BO112	103	2	che	che	_	_	_	_	_	linguistic	_	_	_	End=372.2	_	_	_	_
+ 104-0	BO112	104	0	questa	questa	_	_	_	_	_	linguistic	_	_	_	Begin=372.43	_	_	_	_
+ 104-1	BO112	104	1	tradizione	tradizione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -1522,7 +1519,7 @@
+ 183-3	BO112	183	3	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 183-4	BO112	183	4	sviluppa	sviluppa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 183-5	BO112	183	5	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-183-6	BO112	183	6	tecnoligia,	tecnoligia	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=659.363	_	_	_	_
++183-6	BO112	183	6	tecnologia,	tecnologia	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=659.363	_	_	_	_
+ 184-0	BO112	184	0	più	più	_	_	_	_	_	linguistic	_	_	_	Begin=659.836	_	_	_	_
+ 184-1	BO112	184	1	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 184-2	BO112	184	2	popolazione	popolazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -1571,7 +1568,7 @@
+ 191-5	BO112	191	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 191-6	BO112	191	6	ancora	ancora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 191-7	BO112	191	7	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-191-8	BO112	191	8	sciluppo	sciluppo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++191-8	BO112	191	8	sviluppo	sviluppo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 191-9	BO112	191	9	tecnologico.	tecnologico	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=683.525	_	_	_	_
+ 192-0	BO112	192	0	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	Begin=683.711	_	_	_	_
+ 192-1	BO112	192	1	noi	noi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -1581,7 +1578,7 @@
+ 192-5	BO112	192	5	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 192-6	BO112	192	6	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 192-7	BO112	192	7	meno	meno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-192-8	BO112	192	8	ovolute,	ovolute	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
++192-8	BO112	192	8	evolute,	evolute	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+ 192-9	BO112	192	9	sulla	sulla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 192-10	BO112	192	10	base	base	_	_	_	_	_	linguistic	_	_	_	End=686.805	_	_	_	_
+ 193-0	BO112	193	0	della	della	_	_	_	_	_	linguistic	_	_	_	Begin=686.845	_	_	_	_
+@@ -2038,7 +2035,7 @@
+ 255-0	BO112	255	0	è	è	_	_	_	_	_	linguistic	_	_	_	Begin=898.371|End=898.924	_	_	_	_
+ 256-0	BO112	256	0	e::h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=899.7	0x2	_	_	_
+ 256-1	BO112	256	1	ogni	ogni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-256-2	BO112	256	2	cultua	cultua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++256-2	BO112	256	2	cultura	cultura	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 256-3	BO112	256	3	cambia,	cambia	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+ 256-4	BO112	256	4	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 256-5	BO112	256	5	trasforma	trasforma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2129,7 +2126,7 @@
+ 266-10	BO112	266	10	gli	gli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 266-11	BO112	266	11	antropologi	antropologi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 266-12	BO112	266	12	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+-266-13	BO112	266	13	otteocento,	otteocento	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
++266-13	BO112	266	13	ottocento,	ottocento	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+ 266-14	BO112	266	14	erano	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 266-15	BO112	266	15	delle:	delle	_	_	_	_	_	linguistic	_	_	_	End=943.621	4x1	_	_	_
+ 267-0	BO112	267	0	ra~	ra~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=943.79	_	_	_	_
+@@ -2215,7 +2212,7 @@
+ 276-2	BO112	276	2	dire	dire	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 276-3	BO112	276	3	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 276-4	BO112	276	4	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-276-5	BO112	276	5	dona	dona	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++276-5	BO112	276	5	donna	donna	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 276-6	BO112	276	6	sposa	sposa	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
+ 276-7	BO112	276	7	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 276-8	BO112	276	8	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2298,7 +2295,7 @@
+ 284-7	BO112	284	7	centrale.	centrale	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1010.85	_	_	_	_
+ 285-0	BO112	285	0	>cioè<	cioè	_	_	_	_	_	linguistic	_	_	_	Begin=1010.991	_	Fast=0-4(0)	_	_
+ 285-1	BO112	285	1	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+-285-2	BO112	285	2	unitpa	unitpa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++285-2	BO112	285	2	unità	unità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 285-3	BO112	285	3	psichica	psichica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 285-4	BO112	285	4	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 285-5	BO112	285	5	genere	genere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2482,7 +2479,7 @@
+ 306-6	BO112	306	6	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 306-7	BO112	306	7	concetto	concetto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 306-8	BO112	306	8	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-306-9	BO112	306	9	ultura	ultura	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++306-9	BO112	306	9	cultura	cultura	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 306-10	BO112	306	10	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 306-11	BO112	306	11	tylor.	tylor	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1085.186	_	_	_	_
+ 307-0	BO112	307	0	domanda	domanda	_	_	_	_	_	linguistic	_	_	_	Begin=1086.665	_	_	_	_
+@@ -2502,7 +2499,7 @@
+ 309-3	BO112	309	3	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 309-4	BO112	309	4	faccio	faccio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 309-5	BO112	309	5	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-309-6	BO112	309	6	domende	domende	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++309-6	BO112	309	6	domande	domande	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 309-7	BO112	309	7	d'	d'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+ 309-8	BO112	309	8	esame.	esame	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
+ 309-9	BO112	309	9	domanda	domanda	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2629,7 +2626,7 @@
+ 323-12	BO112	323	12	cultura.	cultura	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
+ 323-13	BO112	323	13	infatti,	infatti	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1145.66	_	_	_	_
+ 324-0	BO112	324	0	già	già	_	_	_	_	_	linguistic	_	_	_	Begin=1145.84	_	_	_	_
+-324-1	BO112	324	1	ell'	ell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
++324-1	BO112	324	1	nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+ 324-2	BO112	324	2	ottocento,	ottocento	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1146.906	_	_	_	_
+ 325-0	BO112	325	0	venivan	venivan	_	_	_	_	_	linguistic	_	_	_	Begin=1147.06	_	_	_	_
+ 325-1	BO112	325	1	fatti	fatti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2660,7 +2657,7 @@
+ 329-1	BO112	329	1	sviluppa	sviluppa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 329-2	BO112	329	2	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 329-3	BO112	329	3	linguaggio,	linguaggio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1160.18	_	_	_	_
+-330-0	BO112	330	0	è	è	_	_	_	_	_	linguistic	_	_	_	Begin=1160.355	_	_	_	_
++330-0	BO112	330	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1160.355	_	_	_	_
+ 330-1	BO112	330	1	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 330-2	BO112	330	2	comportamenti	comportamenti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 330-3	BO112	330	3	completamente	completamente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2830,7 +2827,7 @@
+ 351-9	??	351	9	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 351-10	??	351	10	attenuato.	attenuato	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1235.701	_	_	_	_
+ 352-0	??	352	0	nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1235.751	_	_	_	_
+-352-1	??	352	1	xxx	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	_	_	_	_	_
++352-1	??	352	1	xxxx	xxxx	_	_	_	_	_	unknown	_	_	Syllables=3	_	_	_	_	_
+ 352-2	??	352	2	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 352-3	??	352	3	movimenti	movimenti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 352-4	??	352	4	xxxx	xxxx	_	_	_	_	_	unknown	_	_	Syllables=4	End=1238.031	_	_	_	_
+@@ -2929,7 +2926,7 @@
+ 362-2	??	362	2	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 362-3	??	362	3	massima	massima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 362-4	??	362	4	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-362-5	??	362	5	puà	puà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++362-5	??	362	5	può	può	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 362-6	??	362	6	affermare	affermare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 362-7	??	362	7	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 362-8	??	362	8	nelle	nelle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -3553,7 +3550,7 @@
+ 436-6	BO112	436	6	fornivano	fornivano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 436-7	BO112	436	7	sempre	sempre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 436-8	BO112	436	8	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-436-9	BO112	436	9	dicvano,	dicvano	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1534.22	_	_	_	_
++436-9	BO112	436	9	dicevano,	dicevano	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1534.22	_	_	_	_
+ 437-0	BO112	437	0	se	se	_	_	_	_	_	linguistic	_	_	_	Begin=1534.27	_	_	_	_
+ 437-1	BO112	437	1	noi	noi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 437-2	BO112	437	2	prendiamo	prendiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -3569,7 +3566,7 @@
+ 440-0	BO112	440	0	per	per	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=1541.27	_	_	_	_
+ 440-1	BO112	440	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 440-2	BO112	440	2	definire	definire	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-440-3	BO112	440	3	quell	quell	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++440-3	BO112	440	3	quelli	quelli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 440-4	BO112	440	4	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 440-5	BO112	440	5	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 440-6	BO112	440	6	volta	volta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -3688,7 +3685,7 @@
+ 452-10	BO112	452	10	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 452-11	BO112	452	11	naturale,	naturale	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1588.92	_	_	_	_
+ 453-0	BO112	453	0	in	in	_	_	_	_	_	linguistic	_	_	_	Begin=1588.96	_	_	_	_
+-453-1	BO112	453	1	realta	realta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++453-1	BO112	453	1	realtà	realtà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 453-2	BO112	453	2	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 453-3	BO112	453	3	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 453-4	BO112	453	4	corpo	corpo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -3700,7 +3697,7 @@
+ 454-2	BO112	454	2	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 454-3	BO112	454	3	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 454-4	BO112	454	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+-454-5	BO112	454	5	antorpologia	antorpologia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++454-5	BO112	454	5	antropologia	antropologia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 454-6	BO112	454	6	immagina	immagina	_	_	_	_	_	linguistic	_	_	_	End=1599.35	_	_	_	_
+ 455-0	BO112	455	0	gli	gli	_	_	_	_	_	linguistic	_	_	_	Begin=1599.526	_	_	_	_
+ 455-1	BO112	455	1	individui	individui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -4044,7 +4041,7 @@
+ 496-1	BO112	496	1	vi	vi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 496-2	BO112	496	2	lavate.	lavate	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1743.39	_	_	_	_
+ 497-0	BO112	497	0	vi	vi	_	_	_	_	_	linguistic	_	_	_	Begin=1743.761	_	_	_	_
+-497-1	BO112	497	1	lvate,	lvate	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
++497-1	BO112	497	1	lavate,	lavate	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+ 497-2	BO112	497	2	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 497-3	BO112	497	3	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 497-4	BO112	497	4	modalità,	modalità	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+@@ -4165,7 +4162,7 @@
+ 513-6	??	513	6	orecchini:	orecchini	_	_	_	_	_	linguistic	_	_	_	_	8x1	_	_	_
+ 513-7	??	513	7	agli	agli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 513-8	??	513	8	orecchi,	orecchi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1803.786	_	_	_	_
+-514-0	BO112	514	0	qundi,	qundi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=1803.91	_	_	_	_
++514-0	BO112	514	0	quindi,	quindi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=1803.91	_	_	_	_
+ 514-1	BO112	514	1	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 514-2	BO112	514	2	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 514-3	BO112	514	3	ad	ad	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -4174,7 +4171,7 @@
+ 514-6	BO112	514	6	[gioielli]	gioielli	_	_	_	_	_	linguistic	_	_	_	End=1807.43	_	_	_	0-8(2)
+ 515-0	??	515	0	[o	o	_	_	_	_	_	linguistic	_	_	_	Begin=1806.065	_	_	_	0-1(3)
+ 515-1	??	515	1	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(3)
+-515-2	??	515	2	gl	gl	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(3)
++515-2	??	515	2	gli]	gli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(3)
+ 515-3	??	515	3	uomini	uomini	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(3)
+ 515-4	??	515	4	possono	possono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(3)
+ 515-5	??	515	5	mettere	mettere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(3)
+@@ -4400,7 +4397,7 @@
+ 551-4	BO112	551	4	abiti	abiti	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
+ 551-5	BO112	551	5	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 551-6	BO112	551	6	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-551-7	BO112	551	7	regligiosi,	regligiosi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1899.491	_	_	_	_
++551-7	BO112	551	7	religiosi,	religiosi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1899.491	_	_	_	_
+ 552-0	BO112	552	0	se	se	_	_	_	_	_	linguistic	_	_	_	Begin=1900.003	_	_	_	_
+ 552-1	BO112	552	1	uno	uno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 552-2	BO112	552	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -4904,7 +4901,7 @@
+ 625-2	BO112	625	2	avete	avete	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 625-3	BO112	625	3	qualcuno	qualcuno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 625-4	BO112	625	4	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-625-5	BO112	625	5	via	via	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++625-5	BO112	625	5	vi	vi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 625-6	BO112	625	6	accompagna,	accompagna	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+ 625-7	BO112	625	7	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 625-8	BO112	625	8	che	che	_	_	_	_	_	linguistic	_	_	_	End=2135.593	_	_	_	_
+@@ -5151,7 +5148,7 @@
+ 654-10	BO112	654	10	casta	casta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 654-11	BO112	654	11	elevata	elevata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 654-12	BO112	654	12	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-654-13	BO112	654	13	drakmani,	drakmani	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2225.461	_	_	_	_
++654-13	BO112	654	13	brahmani,	brahmani	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2225.461	_	_	_	_
+ 655-0	BO112	655	0	probabilmente,	probabilmente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=2225.638	_	_	_	_
+ 655-1	BO112	655	1	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 655-2	BO112	655	2	bisogno	bisogno	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
+@@ -5159,7 +5156,7 @@
+ 655-4	BO112	655	4	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 655-5	BO112	655	5	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 655-6	BO112	655	6	informatore	informatore	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-655-7	BO112	655	7	drakmano.	drakmano	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2229.131	_	_	_	_
++655-7	BO112	655	7	brahmano.	brahmano	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2229.131	_	_	_	_
+ 656-0	BO112	656	0	ed	ed	_	_	_	_	_	linguistic	_	_	_	Begin=2229.635	_	_	_	_
+ 656-1	BO112	656	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 656-2	BO112	656	2	vero.	vero	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
+@@ -5177,7 +5174,7 @@
+ 657-4	BO112	657	4	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 657-5	BO112	657	5	faccio	faccio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 657-6	BO112	657	6	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-657-7	BO112	657	7	ricera,	ricera	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
++657-7	BO112	657	7	ricerca,	ricerca	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+ 657-8	BO112	657	8	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 657-9	BO112	657	9	bisogno	bisogno	_	_	_	_	_	linguistic	_	_	_	End=2235.931	_	_	_	_
+ 658-0	BO112	658	0	facciamo	facciamo	_	_	_	_	_	linguistic	_	_	_	Begin=2236.281	_	_	_	_
+@@ -5188,7 +5185,7 @@
+ 658-5	BO112	658	5	uno	uno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 658-6	BO112	658	6	studio	studio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 658-7	BO112	658	7	sui	sui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-658-8	BO112	658	8	brakmani.	brakmani	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2239.418	_	_	_	_
++658-8	BO112	658	8	brahmani.	brahmani	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2239.418	_	_	_	_
+ 659-0	BO112	659	0	però	però	_	_	_	_	_	linguistic	_	_	_	Begin=2239.603	_	_	_	_
+ 659-1	BO112	659	1	voglio	voglio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 659-2	BO112	659	2	sapere	sapere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -5201,7 +5198,7 @@
+ 659-9	BO112	659	9	altre	altre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 659-10	BO112	659	10	caste	caste	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 659-11	BO112	659	11	sui	sui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-659-12	BO112	659	12	brakmani,	brakmani	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2242.921	_	_	_	_
++659-12	BO112	659	12	brahmani,	brahmani	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2242.921	_	_	_	_
+ 660-0	BO112	660	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=2243.29	_	_	_	_
+ 660-1	BO112	660	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 660-2	BO112	660	2	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -5267,7 +5264,7 @@
+ 666-9	BO112	666	9	può	può	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 666-10	BO112	666	10	neanche	neanche	_	_	_	_	_	linguistic	_	_	_	End=2265.345	_	_	_	_
+ 667-0	BO112	667	0	mangiare,	mangiare	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=2266.081	_	_	_	_
+-667-1	BO112	667	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++667-1	BO112	667	1	m	m	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 667-2	BO112	667	2	allora	allora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 667-3	BO112	667	3	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 667-4	BO112	667	4	caste	caste	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -5311,7 +5308,7 @@
+ 672-7	BO112	672	7	alla	alla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 672-8	BO112	672	8	mia.	mia	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2284.128	_	_	_	_
+ 673-0	BO112	673	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=2284.593	_	_	_	_
+-673-1	BO112	673	1	senno	senno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++673-1	BO112	673	1	sennò	sennò	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 673-2	BO112	673	2	perdo	perdo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 673-3	BO112	673	3	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 673-4	BO112	673	4	mia	mia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -5322,7 +5319,7 @@
+ 674-2	??	674	2	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 674-3	??	674	3	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 674-4	??	674	4	giudizio	giudizio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-674-5	??	674	5	impariziale	impariziale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++674-5	??	674	5	imparziale	imparziale	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 674-6	??	674	6	nei	nei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 674-7	??	674	7	[confronti	confronti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-9(9)
+ 674-8	??	674	8	xxx]	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	End=2289.393	_	_	_	0-3(9)
+@@ -5361,7 +5358,7 @@
+ 679-0	??	679	0	chi	chi	_	_	_	_	_	linguistic	_	_	_	Begin=2299.511	_	_	_	_
+ 679-1	??	679	1	può	può	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 679-2	??	679	2	produrre	produrre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-679-3	??	679	3	piu	piu	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++679-3	??	679	3	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 679-4	??	679	4	informazioni,	informazioni	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+ 679-5	??	679	5	[più:	più	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	0-3(11)
+ 679-6	??	679	6	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(11)
+@@ -5423,7 +5420,7 @@
+ 687-5	BO112	687	5	casta	casta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 687-6	BO112	687	6	bassa,	bassa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2320.413	_	_	_	_
+ 688-0	BO112	688	0	i	i	_	_	_	_	_	linguistic	_	_	_	Begin=2320.568	_	_	_	_
+-688-1	BO112	688	1	brakmani	brakmani	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++688-1	BO112	688	1	brahmani	brahmani	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 688-2	BO112	688	2	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 688-3	BO112	688	3	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 688-4	BO112	688	4	ricevono,	ricevono	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+@@ -5464,10 +5461,10 @@
+ 694-4	BO112	694	4	casta	casta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 694-5	BO112	694	5	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 694-6	BO112	694	6	alta	alta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-694-7	BO112	694	7	pe	pe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++694-7	BO112	694	7	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 694-8	BO112	694	8	quella	quella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 694-9	BO112	694	9	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-694-10	BO112	694	10	brakmani.	brakmani	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2337.135	_	_	_	_
++694-10	BO112	694	10	brahmani.	brahmani	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2337.135	_	_	_	_
+ 695-0	BO112	695	0	ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=2337.32	_	_	_	_
+ 695-1	BO112	695	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 695-2	BO112	695	2	basta.	basta	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2338.303	_	_	_	_
+@@ -5517,7 +5514,7 @@
+ 701-1	BO112	701	1	deve	deve	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 701-2	BO112	701	2	conoscere	conoscere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 701-3	BO112	701	3	molte	molte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-701-4	BO112	701	4	lungue,	lungue	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
++701-4	BO112	701	4	lingue,	lingue	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+ 701-5	BO112	701	5	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 701-6	BO112	701	6	dal	dal	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 701-7	BO112	701	7	punto	punto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -5793,7 +5790,7 @@
+ 733-2	BO112	733	2	sono	sono	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
+ 733-3	BO112	733	3	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 733-4	BO112	733	4	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-733-5	BO112	733	5	faiglie	faiglie	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++733-5	BO112	733	5	famiglie	famiglie	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 733-6	BO112	733	6	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 733-7	BO112	733	7	pescatori.	pescatori	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2450.328	_	_	_	_
+ 734-0	BO112	734	0	allora::,	allora	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=2450.916	5x2	_	_	_
+@@ -5807,7 +5804,7 @@
+ 736-0	BO112	736	0	ci	ci	_	_	_	_	_	linguistic	_	_	_	Begin=2455.583	_	_	_	_
+ 736-1	BO112	736	1	offrono	offrono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 736-2	BO112	736	2	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-736-3	BO112	736	3	té	té	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++736-3	BO112	736	3	tè	tè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 736-4	BO112	736	4	caldo.	caldo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2457.396	_	_	_	_
+ 737-0	BO112	737	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=2458.423	_	_	_	_
+ 737-1	BO112	737	1	lei,	lei	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+@@ -5843,21 +5840,20 @@
+ 743-3	BO112	743	3	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 743-4	BO112	743	4	casta	casta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 743-5	BO112	743	5	alta,	alta	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2473.87	_	_	_	_
+-744-0	BO112	744	0	percui	percui	_	_	_	_	_	linguistic	_	_	_	Begin=2474.133	_	_	_	_
+-744-1	BO112	744	1	ostentatamente,	ostentatamente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+-744-2	BO112	744	2	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-744-3	BO112	744	3	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-744-4	BO112	744	4	rifiutata	rifiutata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-744-5	BO112	744	5	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-744-6	BO112	744	6	collaborare	collaborare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-744-7	BO112	744	7	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-744-8	BO112	744	8	lavoro.	lavoro	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
+-744-9	BO112	744	9	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-744-10	BO112	744	10	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-744-11	BO112	744	11	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-744-12	BO112	744	12	detto,	detto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+-744-13	BO112	744	13	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-744-14	BO112	744	14	scusami,	scusami	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2478.885	_	_	_	_
++744-1	BO112	744	0	ostentatamente,	ostentatamente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=2474.133	_	_	_	_
++744-2	BO112	744	1	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++744-3	BO112	744	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++744-4	BO112	744	3	rifiutata	rifiutata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++744-5	BO112	744	4	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++744-6	BO112	744	5	collaborare	collaborare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++744-7	BO112	744	6	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++744-8	BO112	744	7	lavoro.	lavoro	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
++744-9	BO112	744	8	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++744-10	BO112	744	9	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++744-11	BO112	744	10	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++744-12	BO112	744	11	detto,	detto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
++744-13	BO112	744	12	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++744-14	BO112	744	13	scusami,	scusami	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2478.885	_	_	_	_
+ 745-0	BO112	745	0	tu	tu	_	_	_	_	_	linguistic	_	_	_	Begin=2479.248	_	_	_	_
+ 745-1	BO112	745	1	lavori	lavori	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 745-2	BO112	745	2	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -6032,7 +6028,7 @@
+ 768-5	BO112	768	5	preparo	preparo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 768-6	BO112	768	6	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 768-7	BO112	768	7	lavagna,	lavagna	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2545.105	_	_	_	_
+-769-0	??	769	0	((brusio_diffuso))	((brusio_diffuso))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2545.301|End=2545.963	_	_	_	_
++769-0	??	769	0	((brusio diffuso))	((brusio diffuso))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2545.301|End=2545.963	_	_	_	_
+ 770-0	BO112	770	0	bene	bene	_	_	_	_	_	linguistic	_	_	_	Begin=2561.96	_	_	_	_
+ 770-1	BO112	770	1	raga~	raga~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=2562.585	_	_	_	_
+ 771-0	BO112	771	0	ragazzi	ragazzi	_	_	_	_	_	linguistic	_	_	_	Begin=2564.193	_	_	_	_
+@@ -6234,7 +6230,8 @@
+ 804-0	BO112	804	0	in	in	_	_	_	_	_	linguistic	_	_	_	Begin=2687.401	_	_	_	_
+ 804-1	BO112	804	1	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 804-2	BO112	804	2	senso.	senso	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
+-804-3	BO112	804	3	daccordo.	daccordo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2688.688	_	_	_	_
++804-3	BO112	804	3	d'	d'	_	_	_	_	_	linguistic	_	_	Truncated=Yes	_	_	_	_	_
++804-4	BO112	804	4	accordo.	accordo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2688.688	_	_	_	_
+ 805-0	BO112	805	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=2689.4	_	_	_	_
+ 805-1	BO112	805	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 805-2	BO112	805	2	qualcuno	qualcuno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -6473,7 +6470,7 @@
+ 838-7	BO112	838	7	sposa	sposa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 838-8	BO112	838	8	porta	porta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 838-9	BO112	838	9	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-838-10	BO112	838	10	sè.	sè	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2791.701	_	_	_	_
++838-10	BO112	838	10	sé.	sé	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2791.701	_	_	_	_
+ 839-0	BO112	839	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=2792.655	_	_	_	_
+ 839-1	BO112	839	1	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 839-2	BO112	839	2	passaggio	passaggio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -6508,8 +6505,8 @@
+ 842-3	BO112	842	3	ricchezza	ricchezza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 842-4	BO112	842	4	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 842-5	BO112	842	5	sposa.	sposa	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2804.741	_	_	_	_
+-843-0	BO112	843	0	bride	bride	_	_	_	_	_	linguistic	_	_	_	Begin=2805.595	_	_	_	_
+-843-1	BO112	843	1	welth	welth	_	_	_	_	_	linguistic	_	_	_	End=2806.731	_	_	_	_
++843-0	BO112	843	0	bride	bride	_	_	_	_	_	linguistic	_	_	Lang=en	Begin=2805.595	_	_	_	_
++843-1	BO112	843	1	welth	welth	_	_	_	_	_	linguistic	_	_	Lang=en	End=2806.731	_	_	_	_
+ 844-0	BO112	844	0	una	una	_	_	_	_	_	linguistic	_	_	_	Begin=2807.07	_	_	_	_
+ 844-1	BO112	844	1	volta	volta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 844-2	BO112	844	2	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -6538,13 +6535,12 @@
+ 845-7	BO112	845	7	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 845-8	BO112	845	8	transazione	transazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 845-9	BO112	845	9	economica,	economica	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+-845-10	BO112	845	10	percui	percui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-845-11	BO112	845	11	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+-845-12	BO112	845	12	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-845-13	BO112	845	13	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-845-14	BO112	845	14	passaggio	passaggio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-845-15	BO112	845	15	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-845-16	BO112	845	16	beni,	beni	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2816.546	_	_	_	_
++845-11	BO112	845	10	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
++845-12	BO112	845	11	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++845-13	BO112	845	12	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++845-14	BO112	845	13	passaggio	passaggio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++845-15	BO112	845	14	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++845-16	BO112	845	15	beni,	beni	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2816.546	_	_	_	_
+ 846-0	BO112	846	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=2816.716	_	_	_	_
+ 846-1	BO112	846	1	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 846-2	BO112	846	2	servizi,	servizi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+@@ -6682,7 +6678,7 @@
+ 865-7	BO112	865	7	matrimonio	matrimonio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 865-8	BO112	865	8	combinato.	combinato	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2877.291	_	_	_	_
+ 866-0	BO112	866	0	cosa	cosa	_	_	_	_	_	linguistic	_	_	_	Begin=2877.74	_	_	_	_
+-866-1	BO112	866	1	na	na	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++866-1	BO112	866	1	ne	ne	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 866-2	BO112	866	2	pensano,	pensano	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+ 866-3	BO112	866	3	mh?	mh	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2879.388	_	_	_	_
+ 867-0	BO112	867	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=2879.615	_	_	_	_
+@@ -6780,9 +6776,8 @@
+ 883-0	BO112	883	0	m::olta	molta	_	_	_	_	_	linguistic	_	_	_	Begin=2923.188	0x2	_	_	_
+ 883-1	BO112	883	1	parte	parte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 883-2	BO112	883	2	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-883-3	BO112	883	3	sub	sub	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-883-4	BO112	883	4	continente	continente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-883-5	BO112	883	5	indiano,	indiano	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2925.276	_	_	_	_
++883-4	BO112	883	3	subcontinente	subcontinente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++883-5	BO112	883	4	indiano,	indiano	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2925.276	_	_	_	_
+ 884-0	BO112	884	0	i	i	_	_	_	_	_	linguistic	_	_	_	Begin=2925.596	_	_	_	_
+ 884-1	BO112	884	1	matrimoni	matrimoni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 884-2	BO112	884	2	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -6796,7 +6791,8 @@
+ 885-6	BO112	885	6	famiglie	famiglie	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 885-7	BO112	885	7	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 885-8	BO112	885	8	mettono	mettono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-885-9	BO112	885	9	daccordo,	daccordo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2930.21	_	_	_	_
++885-9	BO112	885	9	d'	d'	_	_	_	_	_	linguistic	_	_	Truncated=Yes	_	_	_	_	_
++885-10	BO112	885	10	accordo	accordo	_	_	_	_	_	linguistic	_	_	_	End=2930.21	_	_	_	_
+ 886-0	BO112	886	0	per	per	_	_	_	_	_	linguistic	_	_	_	Begin=2930.36	_	_	_	_
+ 886-1	BO112	886	1	far	far	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 886-2	BO112	886	2	conoscere	conoscere	_	_	_	_	_	linguistic	_	_	_	End=2931.743	_	_	_	_
+@@ -7042,7 +7038,8 @@
+ 927-4	BO112	927	4	persone	persone	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 927-5	BO112	927	5	posso	posso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 927-6	BO112	927	6	andare	andare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-927-7	BO112	927	7	daccordo?	daccordo	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=3035.781	_	_	_	_
++927-7	BO112	927	7	d'	d'	_	_	_	_	_	linguistic	_	_	Truncated=Yes	_	_	_	_	_
++927-8	BO112	927	8	accordo?	accordo	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=3035.781	_	_	_	_
+ 928-0	BO112	928	0	questo	questo	_	_	_	_	_	linguistic	_	_	_	Begin=3036.396	_	_	_	_
+ 928-1	BO112	928	1	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 928-2	BO112	928	2	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -7158,7 +7155,7 @@
+ 943-3	BO112	943	3	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 943-4	BO112	943	4	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 943-5	BO112	943	5	vuole	vuole	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-943-6	BO112	943	6	are	are	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++943-6	BO112	943	6	fare	fare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 943-7	BO112	943	7	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 943-8	BO112	943	8	ricerca	ricerca	_	_	_	_	_	linguistic	_	_	_	End=3091.268	_	_	_	_
+ 944-0	BO112	944	0	sui	sui	_	_	_	_	_	linguistic	_	_	_	Begin=3091.666	_	_	_	_
+@@ -7208,8 +7205,7 @@
+ 948-21	BO112	948	21	punto	punto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 948-22	BO112	948	22	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 948-23	BO112	948	23	vista	vista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-948-24	BO112	948	24	etico.	etico	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
+-948-25	BO112	948	25	daccordo?	daccordo	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=3107.7	_	_	_	_
++948-24	BO112	948	24	etico.	etico	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3107.7	_	_	_	_
+ 949-0	BO112	949	0	quindi,	quindi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=3108.193	_	_	_	_
+ 949-1	BO112	949	1	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 949-2	BO112	949	2	matrimonio	matrimonio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -7399,7 +7395,7 @@
+ 980-5	BO112	980	5	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 980-6	BO112	980	6	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 980-7	BO112	980	7	vostri	vostri	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-980-8	BO112	980	8	genitrori	genitrori	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++980-8	BO112	980	8	genitori	genitori	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 980-9	BO112	980	9	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 980-10	BO112	980	10	fossero	fossero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 980-11	BO112	980	11	sposati	sposati	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -7592,7 +7588,7 @@
+ 1004-1	BO112	1004	1	osservazione	osservazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1004-2	BO112	1004	2	partecipata.	partecipata	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3266.775	_	_	_	_
+ 1005-0	BO112	1005	0	terzo,	terzo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=3266.865	_	_	_	_
+-1005-1	BO112	1005	1	dimensiona	dimensiona	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1005-1	BO112	1005	1	dimensione	dimensione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1005-2	BO112	1005	2	comparativa.	comparativa	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3269.471	_	_	_	_
+ 1006-0	BO112	1006	0	dimensione	dimensione	_	_	_	_	_	linguistic	_	_	_	Begin=3276.308	_	_	_	_
+ 1006-1	BO112	1006	1	comparativa,	comparativa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=3277.568	_	_	_	_
+@@ -7635,11 +7631,11 @@
+ 1013-0	BO112	1013	0	la	la	_	_	_	_	_	linguistic	_	_	_	Begin=3298.04	_	_	_	_
+ 1013-1	BO112	1013	1	nobiltà	nobiltà	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1013-2	BO112	1013	2	antica,	antica	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=3299.145	_	_	_	_
+-1014-0	??	1014	0	((interviene_uno_studente_senza_microfono))	((interviene_uno_studente_senza_microfono))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=3299.294|End=3300.094	_	_	_	_
++1014-0	??	1014	0	((interviene uno studente senza microfono))	((interviene uno studente senza microfono))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=3299.294|End=3300.094	_	_	_	_
+ 1015-0	BO112	1015	0	allora	allora	_	_	_	_	_	linguistic	_	_	_	Begin=3307.11	_	_	_	_
+ 1015-1	BO112	1015	1	parla	parla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1015-2	BO112	1015	2	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1015-3	BO112	1015	3	siclia,	siclia	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
++1015-3	BO112	1015	3	sicilia,	sicilia	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+ 1015-4	BO112	1015	4	degli	degli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1015-5	BO112	1015	5	inizi	inizi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1015-6	BO112	1015	6	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -8070,13 +8066,14 @@
+ 1072-7	BO112	1072	7	cinico	cinico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1072-8	BO112	1072	8	che:	che	_	_	_	_	_	linguistic	_	_	_	End=3478.058	2x1	_	_	_
+ 1073-0	BO112	1073	0	in	in	_	_	_	_	_	linguistic	_	_	_	Begin=3479.106	_	_	_	_
+-1073-1	BO112	1073	1	in~	in~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
+-1073-2	BO112	1073	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+-1073-3	BO112	1073	3	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1073-4	BO112	1073	4	veramente	veramente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1073-5	BO112	1073	5	non	non	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
+-1073-6	BO112	1073	6	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+-1073-7	BO112	1073	7	sì.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3481.42	_	_	_	_
++1073-8	BO112	1073	1	~	~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
++1073-1	BO112	1073	2	in~	in~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes|PauseAfter=Yes	_	_	_	_	_
++1073-2	BO112	1073	3	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
++1073-3	BO112	1073	4	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1073-4	BO112	1073	5	veramente	veramente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1073-5	BO112	1073	6	non	non	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
++1073-6	BO112	1073	7	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
++1073-7	BO112	1073	8	sì.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3481.42	_	_	_	_
+ 1074-0	??	1074	0	e::	e	_	_	_	_	_	linguistic	_	_	_	Begin=3481.683|End=3482.578	0x2	_	_	_
+ 1075-0	??	1075	0	diciamo	diciamo	_	_	_	_	_	linguistic	_	_	_	Begin=3482.64	_	_	_	_
+ 1075-1	??	1075	1	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -8300,7 +8297,7 @@
+ 1107-7	BO112	1107	7	dal	dal	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1107-8	BO112	1107	8	punto	punto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1107-9	BO112	1107	9	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1107-10	BO112	1107	10	vist	vist	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1107-10	BO112	1107	10	vista	vista	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1107-11	BO112	1107	11	emico	emico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1107-12	BO112	1107	12	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1107-13	BO112	1107	13	esempio,	esempio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+@@ -8352,7 +8349,7 @@
+ 1112-13	BO112	1112	13	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 1112-14	BO112	1112	14	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1112-15	BO112	1112	15	uguale.	uguale	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3590.15	_	_	_	_
+-1113-0	BO112	1113	0	perche	perche	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=3590.88	_	_	_	_
++1113-0	BO112	1113	0	perché	perché	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=3590.88	_	_	_	_
+ 1113-1	BO112	1113	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 1113-2	BO112	1113	2	noi	noi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1113-3	BO112	1113	3	immaginiamo	immaginiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -8688,7 +8685,7 @@
+ 1166-1	BO112	1166	1	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1166-2	BO112	1166	2	là	là	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1166-3	BO112	1166	3	degli	degli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1166-4	BO112	1166	4	excursus	excursus	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1166-4	BO112	1166	4	excursus	excursus	_	_	_	_	_	linguistic	_	_	Lang=la	_	_	_	_	_
+ 1166-5	BO112	1166	5	storici,	storici	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+ 1166-6	BO112	1166	6	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1166-7	BO112	1166	7	noi	noi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -8792,7 +8789,7 @@
+ 1178-3	BO112	1178	3	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1178-4	BO112	1178	4	cosa	cosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1178-5	BO112	1178	5	s'	s'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+-1178-6	BO112	1178	6	(intende	intende	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1178-6	BO112	1178	6	intende	intende	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1178-7	BO112	1178	7	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1178-8	BO112	1178	8	matrimonio	matrimonio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1178-9	BO112	1178	9	combinato.	combinato	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3785.226	_	_	_	_
+@@ -8861,7 +8858,7 @@
+ 1188-10	??	1188	10	stesso	stesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1188-11	??	1188	11	motivo.	motivo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=3817.82	_	_	_	_
+ 1189-0	??	1189	0	passionale	passionale	_	_	_	_	_	linguistic	_	_	_	Begin=3818.608	_	_	_	_
+-1189-1	??	1189	1	perche:,	perche	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=3819.983	5x1	_	_	_
++1189-1	??	1189	1	perché:,	perché	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=3819.983	5x1	_	_	_
+ 1190-0	??	1190	0	è	è	_	_	_	_	_	linguistic	_	_	_	Begin=3820.848	_	_	_	_
+ 1190-1	??	1190	1	qualcosa	qualcosa	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
+ 1190-2	??	1190	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+@@ -9096,7 +9093,7 @@
+ 1231-3	BO112	1231	3	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1231-4	BO112	1231	4	coinvolti	coinvolti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1231-5	BO112	1231	5	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1231-6	BO112	1231	6	atrimonio	atrimonio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1231-6	BO112	1231	6	matrimonio	matrimonio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1231-7	BO112	1231	7	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1231-8	BO112	1231	8	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1231-9	BO112	1231	9	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -9174,7 +9171,7 @@
+ 1241-0	BO112	1241	0	di	di	_	_	_	_	_	linguistic	_	_	_	Begin=3958.2	_	_	_	_
+ 1241-1	BO112	1241	1	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1241-2	BO112	1241	2	possibile	possibile	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1241-3	BO112	1241	3	m:marito,	mmarito	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	0x1	_	_	_
++1241-3	BO112	1241	3	m:marito,	marito	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	0x1	_	_	_
+ 1241-4	BO112	1241	4	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1241-5	BO112	1241	5	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1241-6	BO112	1241	6	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -9293,7 +9290,7 @@
+ 1255-6	BO112	1255	6	giro	giro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1255-7	BO112	1255	7	lungo	lungo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1255-8	BO112	1255	8	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+-1255-9	BO112	1255	9	atropologia.	atropologia	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=4010.203	_	_	_	_
++1255-9	BO112	1255	9	antropologia.	antropologia	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=4010.203	_	_	_	_
+ 1256-0	BO112	1256	0	quindi,	quindi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=4011.233	_	_	_	_
+ 1256-1	BO112	1256	1	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1256-2	BO112	1256	2	domanda	domanda	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -9303,7 +9300,7 @@
+ 1256-6	BO112	1256	6	essere,	essere	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=4012.936	_	_	_	_
+ 1257-0	BO112	1257	0	cosa	cosa	_	_	_	_	_	linguistic	_	_	_	Begin=4013.007	_	_	_	_
+ 1257-1	BO112	1257	1	s'	s'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+-1257-2	BO112	1257	2	(intende	intende	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1257-2	BO112	1257	2	intende	intende	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1257-3	BO112	1257	3	per	per	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
+ 1257-4	BO112	1257	4	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 1257-5	BO112	1257	5	giro	giro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -9359,7 +9356,7 @@
+ 1263-6	BO112	1263	6	nostre,	nostre	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=4032.366	_	_	_	_
+ 1264-0	BO112	1264	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=4033.323	_	_	_	_
+ 1264-1	BO112	1264	1	poi,	poi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+-1264-2	BO112	1264	2	trona	trona	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1264-2	BO112	1264	2	torna	torna	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1264-3	BO112	1264	3	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1264-4	BO112	1264	4	casa,	casa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=4035.243	_	_	_	_
+ 1265-0	BO112	1265	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=4036.085	_	_	_	_
+@@ -9403,7 +9400,7 @@
+ 1270-3	BO112	1270	3	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1270-4	BO112	1270	4	porta	porta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1270-5	BO112	1270	5	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1270-6	BO112	1270	6	rifelttere?	rifelttere	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=4052.393	_	_	_	_
++1270-6	BO112	1270	6	riflettere?	riflettere	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=4052.393	_	_	_	_
+ 1271-0	BO112	1271	0	prego.	prego	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=4056.605|End=4057.111	_	_	_	_
+ 1272-0	??	1272	0	ci	ci	_	_	_	_	_	linguistic	_	_	_	Begin=4057.179	_	_	_	_
+ 1272-1	??	1272	1	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -9771,7 +9768,7 @@
+ 1331-0	BO112	1331	0	da	da	_	_	_	_	_	linguistic	_	_	_	Begin=4218.258	_	_	_	_
+ 1331-1	BO112	1331	1	cosa	cosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1331-2	BO112	1331	2	dipende?	dipende	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=4219.385	_	_	_	_
+-1332-0	BO112	1332	0	perche	perche	_	_	_	_	_	linguistic	_	_	_	Begin=4220.843	_	_	_	_
++1332-0	BO112	1332	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=4220.843	_	_	_	_
+ 1332-1	BO112	1332	1	gli	gli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1332-2	BO112	1332	2	an~	an~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
+ 1332-3	BO112	1332	3	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -9781,7 +9778,7 @@
+ 1332-7	BO112	1332	7	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1332-8	BO112	1332	8	portato	portato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1332-9	BO112	1332	9	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1332-10	BO112	1332	10	rifelttere	rifelttere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1332-10	BO112	1332	10	riflettere	riflettere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1332-11	BO112	1332	11	su	su	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1332-12	BO112	1332	12	questo.	questo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
+ 1332-13	BO112	1332	13	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -10117,7 +10114,7 @@
+ 1371-8	BO112	1371	8	esterno,	esterno	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=4357.281	_	_	_	_
+ 1372-0	BO112	1372	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=4357.453	_	_	_	_
+ 1372-1	BO112	1372	1	penserebbe	penserebbe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1372-2	BO112	1372	2	affato,	affato	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
++1372-2	BO112	1372	2	affatto,	affatto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+ 1372-3	BO112	1372	3	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1372-4	BO112	1372	4	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1372-5	BO112	1372	5	matrimonio	matrimonio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -10670,7 +10667,7 @@
+ 1447-7	??	1447	7	che	che	_	_	_	_	_	linguistic	_	_	_	End=4601.75	_	_	_	_
+ 1448-0	??	1448	0	sono	sono	_	_	_	_	_	linguistic	_	_	_	Begin=4601.986	_	_	_	_
+ 1448-1	??	1448	1	pratiche	pratiche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1448-2	??	1448	2	culturali	culturali	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1448-2	??	1448	2	culturali,	culturali,	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+ 1448-3	??	1448	3	(di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-2(0)	_
+ 1448-4	??	1448	4	determinati)	determinati	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-11(0)	_
+ 1448-5	??	1448	5	popoli,	popoli	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=4604.858	_	_	_	_
+@@ -10947,18 +10944,14 @@
+ 1500-6	BO112	1500	6	tutta	tutta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1500-7	BO112	1500	7	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+ 1500-8	BO112	1500	8	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1500-9	BO112	1500	9	cosa	cosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1500-10	BO112	1500	10	allora	allora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1500-11	BO112	1500	11	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1500-12	BO112	1500	12	emme	emme	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1500-13	BO112	1500	13	gi	gi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1500-14	BO112	1500	14	effe	effe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1500-15	BO112	1500	15	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1500-16	BO112	1500	16	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1500-17	BO112	1500	17	fenomeno	fenomeno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1500-18	BO112	1500	18	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1500-19	BO112	1500	19	riguarda	riguarda	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1500-20	BO112	1500	20	la	la	_	_	_	_	_	linguistic	_	_	_	End=4760.641	_	_	_	_
++1500-11	BO112	1500	9	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1500-12	BO112	1500	10	emmegieffe	emmegieffe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1500-15	BO112	1500	11	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1500-16	BO112	1500	12	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1500-17	BO112	1500	13	fenomeno	fenomeno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1500-18	BO112	1500	14	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1500-19	BO112	1500	15	riguarda	riguarda	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1500-20	BO112	1500	16	la	la	_	_	_	_	_	linguistic	_	_	_	End=4760.641	_	_	_	_
+ 1501-0	BO112	1501	0	decine	decine	_	_	_	_	_	linguistic	_	_	_	Begin=4760.735	_	_	_	_
+ 1501-1	BO112	1501	1	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1501-2	BO112	1501	2	milioni	milioni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -11119,7 +11112,7 @@
+ 1527-3	BO112	1527	3	conferenza	conferenza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1527-4	BO112	1527	4	ve	ve	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1527-5	BO112	1527	5	ne	ne	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1527-6	BO112	1527	6	accrgerete.	accrgerete	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=4828.593	_	_	_	_
++1527-6	BO112	1527	6	accorgerete.	accorgerete	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=4828.593	_	_	_	_
+ 1528-0	BO112	1528	0	innanzi	innanzi	_	_	_	_	_	linguistic	_	_	_	Begin=4828.635	_	_	_	_
+ 1528-1	BO112	1528	1	tutto,	tutto	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=4829.655	_	_	_	_
+ 1529-0	BO112	1529	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=4829.7	_	_	_	_
+@@ -11250,10 +11243,8 @@
+ 1546-7	BO112	1546	7	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1546-8	BO112	1546	8	contrario	contrario	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1546-9	BO112	1546	9	alle	alle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1546-10	BO112	1546	10	emme	emme	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1546-11	BO112	1546	11	gi	gi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1546-12	BO112	1546	12	effe,	effe	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+-1546-13	BO112	1546	13	no?	no	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=4878.66	_	_	_	_
++1546-10	BO112	1546	10	emmegieffe,	emmegieffe	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
++1546-13	BO112	1546	11	no?	no	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=4878.66	_	_	_	_
+ 1547-0	BO112	1547	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=4878.731	_	_	_	_
+ 1547-1	BO112	1547	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1547-2	BO112	1547	2	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -11262,7 +11253,7 @@
+ 1547-5	BO112	1547	5	discussione	discussione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1547-6	BO112	1547	6	questo.	questo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=4880.276	_	_	_	_
+ 1548-0	BO112	1548	0	però,	però	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=4880.3	_	_	_	_
+-1548-1	BO112	1548	1	benche	benche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1548-1	BO112	1548	1	benché	benché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1548-2	BO112	1548	2	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1548-3	BO112	1548	3	sia	sia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1548-4	BO112	1548	4	contrario,	contrario	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+@@ -11334,7 +11325,7 @@
+ 1554-5	BO112	1554	5	pratica.	pratica	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=4908.153	_	_	_	_
+ 1555-0	BO112	1555	0	anzi.	anzi	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=4908.245	_	_	_	_
+ 1555-1	BO112	1555	1	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1555-2	BO112	1555	2	cultue,	cultue	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes	_	_	_	_	_
++1555-2	BO112	1555	2	culture,	culture	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes|Intonation=WeaklyRising	_	_	_	_	_
+ 1555-3	BO112	1555	3	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 1555-4	BO112	1555	4	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1555-5	BO112	1555	5	antropologia	antropologia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -11379,17 +11370,16 @@
+ 1562-5	BO112	1562	5	effe.	effe	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
+ 1562-6	BO112	1562	6	tutti	tutti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1562-7	BO112	1562	7	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1562-8	BO112	1562	8	daccordo	daccordo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1562-9	BO112	1562	9	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1562-10	BO112	1562	10	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+-1562-11	BO112	1562	11	emme	emme	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1562-12	BO112	1562	12	gi	gi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1562-13	BO112	1562	13	effe.	effe	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
+-1562-14	BO112	1562	14	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1562-15	BO112	1562	15	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1562-16	BO112	1562	16	ricordo	ricordo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1562-17	BO112	1562	17	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+-1562-18	BO112	1562	18	era	era	_	_	_	_	_	linguistic	_	_	_	End=4931.705	_	_	_	_
++1562-9	BO112	1562	8	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1562-10	BO112	1562	9	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
++1562-11	BO112	1562	10	emme	emme	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1562-12	BO112	1562	11	gi	gi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1562-13	BO112	1562	12	effe.	effe	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
++1562-14	BO112	1562	13	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1562-15	BO112	1562	14	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1562-16	BO112	1562	15	ricordo	ricordo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1562-17	BO112	1562	16	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
++1562-18	BO112	1562	17	era	era	_	_	_	_	_	linguistic	_	_	_	End=4931.705	_	_	_	_
+ 1563-0	BO112	1563	0	un	un	_	_	_	_	_	linguistic	_	_	_	Begin=4933.068	_	_	_	_
+ 1563-1	BO112	1563	1	mediatore	mediatore	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1563-2	BO112	1563	2	culturale,	culturale	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+@@ -11406,10 +11396,8 @@
+ 1564-7	BO112	1564	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1564-8	BO112	1564	8	favorevole	favorevole	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1564-9	BO112	1564	9	alle	alle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1564-10	BO112	1564	10	emme	emme	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1564-11	BO112	1564	11	gi	gi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1564-12	BO112	1564	12	effe	effe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1564-13	BO112	1564	13	no.	no	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=4939.996	_	_	_	_
++1564-10	BO112	1564	10	emmegieffe	emmegieffe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1564-13	BO112	1564	11	no.	no	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=4939.996	_	_	_	_
+ 1565-0	BO112	1565	0	la	la	_	_	_	_	_	linguistic	_	_	_	Begin=4940.17	_	_	_	_
+ 1565-1	BO112	1565	1	cultura,	cultura	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+ 1565-2	BO112	1565	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -11473,9 +11461,9 @@
+ 1573-8	BO112	1573	8	esempio,	esempio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=4964.35	_	_	_	_
+ 1574-0	BO112	1574	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=4964.576	_	_	_	_
+ 1574-1	BO112	1574	1	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1574-2	BO112	1574	2	save	save	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1574-3	BO112	1574	3	the	the	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1574-4	BO112	1574	4	children	children	_	_	_	_	_	linguistic	_	_	_	End=4965.876	_	_	_	_
++1574-2	BO112	1574	2	save	save	_	_	_	_	_	linguistic	_	_	Lang=ang	_	_	_	_	_
++1574-3	BO112	1574	3	the	the	_	_	_	_	_	linguistic	_	_	Lang=ang	_	_	_	_	_
++1574-4	BO112	1574	4	children	children	_	_	_	_	_	linguistic	_	_	Lang=ang	End=4965.876	_	_	_	_
+ 1575-0	BO112	1575	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=4966.0	_	_	_	_
+ 1575-1	BO112	1575	1	doveva	doveva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1575-2	BO112	1575	2	combattere	combattere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -11585,7 +11573,7 @@
+ 1592-5	BO112	1592	5	abusa	abusa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1592-6	BO112	1592	6	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1592-7	BO112	1592	7	lei.	lei	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=5011.623	_	_	_	_
+-1593-0	BO112	1593	0	coiè,	coiè	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=5012.415	_	_	_	_
++1593-0	BO112	1593	0	cioè,	cioè	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=5012.415	_	_	_	_
+ 1593-1	BO112	1593	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1593-2	BO112	1593	2	normale.	normale	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=5013.868	_	_	_	_
+ 1594-0	BO112	1594	0	è	è	_	_	_	_	_	linguistic	_	_	_	Begin=5014.405	_	_	_	_
+@@ -11652,11 +11640,9 @@
+ 1603-3	BO112	1603	3	dire,	dire	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=5036.158	_	_	_	_
+ 1604-0	BO112	1604	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=5036.31	_	_	_	_
+ 1604-1	BO112	1604	1	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1604-2	BO112	1604	2	emme	emme	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1604-3	BO112	1604	3	gi	gi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1604-4	BO112	1604	4	effe,	effe	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+-1604-5	BO112	1604	5	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1604-6	BO112	1604	6	esempio	esempio	_	_	_	_	_	linguistic	_	_	_	End=5038.78	_	_	_	_
++1604-2	BO112	1604	2	emmegieffe,	emmegieffe	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
++1604-5	BO112	1604	3	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1604-6	BO112	1604	4	esempio	esempio	_	_	_	_	_	linguistic	_	_	_	End=5038.78	_	_	_	_
+ 1605-0	BO112	1605	0	e:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=5039.276	0x1	_	_	_
+ 1605-1	BO112	1605	1	limitavano	limitavano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1605-2	BO112	1605	2	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -11723,7 +11709,7 @@
+ 1612-1	BO112	1612	1	permettere	permettere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1612-2	BO112	1612	2	solo	solo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1612-3	BO112	1612	3	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1612-4	BO112	1612	4	fuoriscita	fuoriscita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1612-4	BO112	1612	4	fuoriuscita	fuoriuscita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1612-5	BO112	1612	5	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1612-6	BO112	1612	6	sangue	sangue	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1612-7	BO112	1612	7	mestruale,	mestruale	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
+@@ -11946,13 +11932,13 @@
+ 1644-3	BO112	1644	3	riflettere	riflettere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1644-4	BO112	1644	4	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1644-5	BO112	1644	5	modo	modo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-1644-6	BO112	1644	6	piùi	piùi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++1644-6	BO112	1644	6	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1644-7	BO112	1644	7	complesso,	complesso	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=5147.311	_	_	_	_
+ 1645-0	BO112	1645	0	su	su	_	_	_	_	_	linguistic	_	_	_	Begin=5147.493	_	_	_	_
+ 1645-1	BO112	1645	1	fenomeni	fenomeni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1645-2	BO112	1645	2	estremamente	estremamente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1645-3	BO112	1645	3	complicati.	complicati	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=5149.388	_	_	_	_
+-1646-0	BO112	1646	0	ovviamene,	ovviamene	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=5149.578	_	_	_	_
++1646-0	BO112	1646	0	ovviamente,	ovviamente	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=5149.578	_	_	_	_
+ 1646-1	BO112	1646	1	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1646-2	BO112	1646	2	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 1646-3	BO112	1646	3	significa	significa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

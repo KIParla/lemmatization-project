@@ -1,0 +1,548 @@
+--- a/tsv/KPC008.vert.tsv
++++ b/tsv/KPC008.vert.tsv
+@@ -143,7 +143,7 @@
+ 20-17	PKP069	20	17	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 20-18	PKP069	20	18	[tanto	tanto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(6)
+ 20-19	PKP069	20	19	fa]	fa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(6)
+-20-20	PKP069	20	20	smarti	smarti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++20-20	PKP069	20	20	smart	smart	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 20-21	PKP069	20	21	working	working	_	_	_	_	_	linguistic	_	_	_	End=47.408	_	_	_	_
+ 21-0	PKP063	21	0	[a:h	ah	_	_	_	_	_	linguistic	_	_	_	Begin=45.869	0x1	_	_	0-2(6)
+ 21-1	PKP063	21	1	o~]	o~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=46.375	_	_	_	0-2(6)
+@@ -157,9 +157,8 @@
+ 22-7	PKP069	22	7	negli	negli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 22-8	PKP069	22	8	stati	stati	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 22-9	PKP069	22	9	uniti	uniti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-22-10	PKP069	22	10	sono	sono	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
+-22-11	PKP069	22	11	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+-22-12	PKP069	22	12	inesis[tenti]	inesistenti	_	_	_	_	_	linguistic	_	_	_	End=51.884	_	_	_	6-11(8)
++22-10	PKP069	22	10	sono{P}[]	sono{P}	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes|Volume=High	_	_	_	_	_
++22-12	PKP069	22	11	inesis[tenti]	inesistenti	_	_	_	_	_	linguistic	_	_	_	End=51.884	_	_	_	6-11(8)
+ 23-0	PKP063	23	0	[sì:]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=47.52|End=48.295	1x1	_	_	0-2(9)
+ 24-0	PKP063	24	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=50.48|End=50.92	_	_	_	0-4(7)
+ 25-0	PKP063	25	0	[esa]tto	esatto	_	_	_	_	_	linguistic	_	_	_	Begin=51.41	_	_	_	0-3(8)
+@@ -190,7 +189,7 @@
+ 27-17	PKP069	27	17	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 27-18	PKP069	27	18	monica	monica	_	_	_	_	_	linguistic	_	_	_	End=58.38	_	_	_	_
+ 28-0	PKP069	28	0	quindi,	quindi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=58.42	_	_	_	_
+-28-1	PKP069	28	1	((batte_le_mani))	((batte_le_mani))	_	_	_	_	_	nonverbalbehavior	_	_	_	_	_	_	_	_
++28-1	PKP069	28	1	((batte le mani))	((batte le mani))	_	_	_	_	_	nonverbalbehavior	_	_	_	_	_	_	_	_
+ 28-2	PKP069	28	2	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 28-3	PKP069	28	3	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 28-4	PKP069	28	4	ab[bando]nato	abbandonato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(11)
+@@ -311,8 +310,8 @@
+ 43-6	PKP069	43	6	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 43-7	PKP069	43	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 43-8	PKP069	43	8	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-43-9	PKP069	43	9	post[o::]	posto	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	4x2	_	_	4-5(17)
+-43-10	PKP069	43	10	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
++43-9	PKP069	43	9	post[o::	posto	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	4x2	_	_	4-5(17)
++43-10	PKP069	43	10	]{P}	(.)	_	_	_	_	_	shortpause	_	_	Volume=High	_	_	_	_	_
+ 43-11	PKP069	43	11	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 43-12	PKP069	43	12	turisico	turisico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 43-13	PKP069	43	13	che:	che	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
+@@ -487,7 +486,7 @@
+ 70-19	PKP069	70	19	devo	devo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 70-20	PKP069	70	20	pubblicare	pubblicare	_	_	_	_	_	linguistic	_	_	_	End=155.4	_	_	_	_
+ 71-0	PKP063	71	0	mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=155.611|End=155.951	_	_	_	_
+-72-0	PKP069	72	0	((si_schiarisce_la_gola))	((si_schiarisce_la_gola))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=156.486|End=156.996	_	_	_	_
++72-0	PKP069	72	0	((si schiarisce la gola))	((si schiarisce la gola))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=156.486|End=156.996	_	_	_	_
+ 73-0	PKP069	73	0	però	però	_	_	_	_	_	linguistic	_	_	_	Begin=158.242	_	_	_	_
+ 73-1	PKP069	73	1	sono:::	sono	_	_	_	_	_	linguistic	_	_	_	End=161.52	3x3	_	_	_
+ 74-0	PKP069	74	0	tecnicamente	tecnicamente	_	_	_	_	_	linguistic	_	_	_	Begin=161.52	_	_	_	_
+@@ -799,9 +798,9 @@
+ 114-13	PKP069	114	13	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 114-14	PKP069	114	14	traduce	traduce	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 114-15	PKP069	114	15	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-114-16	PKP069	114	16	sumak	sumak	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-114-17	PKP069	114	17	kau	kau	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-114-18	PKP069	114	18	kausay	kausay	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++114-16	PKP069	114	16	sumak	sumak	_	_	_	_	_	linguistic	_	_	Lang=qu	_	_	_	_	_
++114-17	PKP069	114	17	kau	kau	_	_	_	_	_	linguistic	_	_	Lang=qu	_	_	_	_	_
++114-18	PKP069	114	18	kausay	kausay	_	_	_	_	_	linguistic	_	_	Lang=qu	_	_	_	_	_
+ 114-19	PKP069	114	19	i~	i~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
+ 114-20	PKP069	114	20	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 114-21	PKP069	114	21	quechua	quechua	_	_	_	_	_	linguistic	_	_	_	End=271.259	_	_	_	_
+@@ -1191,7 +1190,7 @@
+ 172-3	PKP069	172	3	dec[ente	decente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(62)
+ 172-4	PKP069	172	4	ch]e	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(62)
+ 172-5	PKP069	172	5	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+-172-6	PKP069	172	6	lu:ltimo	lultimo	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
++172-6	PKP069	172	6	u:ltimo	ultimo	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
+ 172-7	PKP069	172	7	pezzo	pezzo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 172-8	PKP069	172	8	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	_	_	_	_	_
+ 172-9	PKP069	172	9	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -1816,7 +1815,7 @@
+ 261-3	PKP069	261	3	quantità	quantità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 261-4	PKP069	261	4	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 261-5	PKP069	261	5	ris[orse]	risorse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(90)
+-261-6	PKP069	261	6	eno:rmia,	enormia	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	2x1	_	_	_
++261-6	PKP069	261	6	eno:rmi,	enormi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	2x1	_	_	_
+ 261-7	PKP069	261	7	disposizio:ne,	disposizione	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	9x1	_	_	_
+ 261-8	PKP069	261	8	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	End=645.2	_	_	_	_
+ 262-0	PKP063	262	0	[mhmh]	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=641.824|End=642.279	_	_	_	0-4(90)
+@@ -2184,7 +2183,7 @@
+ 311-1	PKP069	311	1	e~]	e~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=769.151	_	_	_	0-2(103)
+ 312-0	PKP069	312	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=771.218|End=771.523	_	_	_	0-2(102)
+ 313-0	PKP069	313	0	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=772.168	_	_	_	_
+-313-1	PKP069	313	1	empleada	empleada	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
++313-1	PKP069	313	1	empleada	empleada	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes|Lang=es	_	_	_	_	_
+ 313-2	PKP069	313	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 313-3	PKP069	313	3	[che]	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(104)
+ 313-4	PKP069	313	4	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2308,8 +2307,9 @@
+ 328-10	PKP069	328	10	venivano	venivano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 328-11	PKP069	328	11	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 328-12	PKP069	328	12	farti	farti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-328-13	PKP069	328	13	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-328-14	PKP069	328	14	contro:lli::	controlli	_	_	_	_	_	linguistic	_	_	_	End=816.907	5x1,8x2	_	_	_
++	PKP069	328	13	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++328-13	PKP069	328	14	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++328-14	PKP069	328	15	contro:lli::	controlli	_	_	_	_	_	linguistic	_	_	_	End=816.907	5x1,8x2	_	_	_
+ 329-0	PKP069	329	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=817.188	_	_	_	_
+ 329-1	PKP069	329	1	questa	questa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 329-2	PKP069	329	2	cosa	cosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2497,7 +2497,7 @@
+ 351-3	PKP069	351	3	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 351-4	PKP069	351	4	esercito	esercito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 351-5	PKP069	351	5	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-351-6	PKP069	351	6	tramitadores	tramitadores	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++351-6	PKP069	351	6	tramitadores	tramitadores	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
+ 351-7	PKP069	351	7	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 351-8	PKP069	351	8	erano	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 351-9	PKP069	351	9	persone	persone	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2721,15 +2721,15 @@
+ 383-0	PKP063	383	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=965.369	_	_	_	_
+ 383-1	PKP063	383	1	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 383-2	PKP063	383	2	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-383-3	PKP063	383	3	buen	buen	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-383-4	PKP063	383	4	vivir	vivir	_	_	_	_	_	linguistic	_	_	_	End=966.505	_	_	_	_
++383-3	PKP063	383	3	buen	buen	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
++383-4	PKP063	383	4	vivir	vivir	_	_	_	_	_	linguistic	_	_	Lang=es	End=966.505	_	_	_	_
+ 384-0	PKP069	384	0	un	un	_	_	_	_	_	linguistic	_	_	_	Begin=967.242	_	_	_	_
+ 384-1	PKP069	384	1	po'	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 384-2	PKP069	384	2	°adesso°	adesso	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
+ 384-3	PKP069	384	3	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 384-4	PKP069	384	4	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-384-5	PKP069	384	5	buen	buen	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-384-6	PKP069	384	6	vivir	vivir	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++384-5	PKP069	384	5	buen	buen	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
++384-6	PKP069	384	6	vivir	vivir	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
+ 384-7	PKP069	384	7	è::	è	_	_	_	_	_	linguistic	_	_	_	End=969.45	0x2	_	_	_
+ 385-0	PKP069	385	0	ma	ma	_	_	_	_	_	linguistic	_	_	_	Begin=970.343	_	_	_	_
+ 385-1	PKP069	385	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2760,8 +2760,8 @@
+ 388-6	PKP069	388	6	tesi	tesi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 388-7	PKP069	388	7	che	che	_	_	_	_	_	linguistic	_	_	_	End=979.152	_	_	_	_
+ 389-0	PKP069	389	0	il	il	_	_	_	_	_	linguistic	_	_	_	Begin=979.612	_	_	_	_
+-389-1	PKP069	389	1	buen	buen	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-389-2	PKP069	389	2	vivir	vivir	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++389-1	PKP069	389	1	buen	buen	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
++389-2	PKP069	389	2	vivir	vivir	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
+ 389-3	PKP069	389	3	sostanzialmente	sostanzialmente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 389-4	PKP069	389	4	era:	era	_	_	_	_	_	linguistic	_	_	_	End=981.91	2x1	_	_	_
+ 390-0	PKP069	390	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=981.91	_	_	_	_
+@@ -2815,8 +2815,8 @@
+ 395-3	PKP069	395	3	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 395-4	PKP069	395	4	inventati	inventati	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 395-5	PKP069	395	5	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-395-6	PKP069	395	6	buen	buen	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-395-7	PKP069	395	7	vivir	vivir	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++395-6	PKP069	395	6	buen	buen	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
++395-7	PKP069	395	7	vivir	vivir	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
+ 395-8	PKP069	395	8	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 395-9	PKP069	395	9	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 395-10	PKP069	395	10	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2835,7 +2835,7 @@
+ 396-5	PKP069	396	5	svilup[po	sviluppo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	6-8(125)
+ 396-6	PKP069	396	6	maga]ri	magari	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	0-4(125)
+ 396-7	PKP069	396	7	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+-396-8	PKP069	396	8	green	green	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
++396-8	PKP069	396	8	green	green	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes|Lang=en	_	_	_	_	_
+ 396-9	PKP069	396	9	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 396-10	PKP069	396	10	[no]?	no	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1007.5	_	_	_	0-2(126)
+ 397-0	PKP063	397	0	[m:h]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1005.0|End=1005.38	0x1	_	_	0-2(125)
+@@ -2869,8 +2869,8 @@
+ 401-10	PKP063	401	10	lezione	lezione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 401-11	PKP063	401	11	che	che	_	_	_	_	_	linguistic	_	_	_	End=1015.72	_	_	_	_
+ 402-0	PKP063	402	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1015.72	_	_	_	_
+-402-1	PKP063	402	1	buen	buen	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-402-2	PKP063	402	2	vivir	vivir	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++402-1	PKP063	402	1	buen	buen	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
++402-2	PKP063	402	2	vivir	vivir	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
+ 402-3	PKP063	402	3	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 402-4	PKP063	402	4	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 402-5	PKP063	402	5	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2909,15 +2909,15 @@
+ 406-1	PKP063	406	1	può	può	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 406-2	PKP063	406	2	essere	essere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 406-3	PKP063	406	3	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-406-4	PKP063	406	4	buen	buen	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-406-5	PKP063	406	5	vivir	vivir	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++406-4	PKP063	406	4	buen	buen	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
++406-5	PKP063	406	5	vivir	vivir	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
+ 406-6	PKP063	406	6	legato	legato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 406-7	PKP063	406	7	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 406-8	PKP063	406	8	[appunto	appunto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(133)
+ 406-9	PKP063	406	9	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(133)
+ 406-10	PKP063	406	10	con]cetto	concetto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(133)
+ 406-11	PKP063	406	11	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-406-12	PKP063	406	12	green	green	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++406-12	PKP063	406	12	green	green	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+ 406-13	PKP063	406	13	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 406-14	PKP063	406	14	ecologia	ecologia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 406-15	PKP063	406	15	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -3035,7 +3035,7 @@
+ 425-12	PKP069	425	12	funziona	funziona	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 425-13	PKP069	425	13	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 425-14	PKP069	425	14	po'	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-425-15	PKP069	425	15	cosi	cosi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++425-15	PKP069	425	15	così	così	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 425-16	PKP069	425	16	però	però	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 425-17	PKP069	425	17	là	là	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 425-18	PKP069	425	18	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -3286,8 +3286,8 @@
+ 462-1	PKP069	462	1	vabbè	vabbè	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
+ 462-2	PKP069	462	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 462-3	PKP069	462	3	[il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(151)
+-462-4	PKP069	462	4	bue]n	buen	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(151)
+-462-5	PKP069	462	5	vivir	vivir	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++462-4	PKP069	462	4	bue]n	buen	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	0-3(151)
++462-5	PKP069	462	5	vivir	vivir	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
+ 462-6	PKP069	462	6	°sì°	sì	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1158.43	_	_	_	_
+ 463-0	PKP063	463	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1157.17|End=1157.57	_	_	_	0-2(151)
+ 464-0	PKP063	464	0	appunto	appunto	_	_	_	_	_	linguistic	_	_	_	Begin=1158.42	_	_	_	_
+@@ -3347,7 +3347,7 @@
+ 471-11	PKP069	471	11	quella°	quella	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1177.27	_	_	_	_
+ 472-0	PKP069	472	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=1177.738	_	_	_	_
+ 472-1	PKP069	472	1	poi	poi	_	_	_	_	_	linguistic	_	_	_	End=1178.374	_	_	_	_
+-473-0	PKP069	473	0	s~	s~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=1179.823	_	_	_	_
++473-0	PKP069	473	0	s~:	s~:	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=1179.823	_	_	_	_
+ 473-1	PKP069	473	1	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 473-2	PKP069	473	2	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 473-3	PKP069	473	3	sicura	sicura	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -3412,10 +3412,10 @@
+ 484-0	PKP063	484	0	[sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1197.326	_	_	_	0-2(158)
+ 484-1	PKP063	484	1	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(158)
+ 484-2	PKP063	484	2	sì]	sì	_	_	_	_	_	linguistic	_	_	_	End=1198.048	_	_	_	0-2(158)
+-485-0	PKP069	485	0	upper	upper	_	_	_	_	_	linguistic	_	_	_	Begin=1201.112	_	_	_	_
+-485-1	PKP069	485	1	middle	middle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-485-2	PKP069	485	2	income	income	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-485-3	PKP069	485	3	co[untry]	country	_	_	_	_	_	linguistic	_	_	_	End=1203.206	_	_	_	2-7(159)
++485-0	PKP069	485	0	upper	upper	_	_	_	_	_	linguistic	_	_	Lang=en	Begin=1201.112	_	_	_	_
++485-1	PKP069	485	1	middle	middle	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++485-2	PKP069	485	2	income	income	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++485-3	PKP069	485	3	co[untry]	country	_	_	_	_	_	linguistic	_	_	Lang=en	End=1203.206	_	_	_	2-7(159)
+ 486-0	PKP063	486	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1202.813|End=1203.229	_	_	_	0-2(159)
+ 487-0	PKP063	487	0	>abbiam	abbiam	_	_	_	_	_	linguistic	_	_	_	Begin=1203.42	_	Fast=0-6(0)	_	_
+ 487-1	PKP063	487	1	visto<	visto	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
+@@ -3431,9 +3431,9 @@
+ 488-3	PKP069	488	3	america	america	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 488-4	PKP069	488	4	latina	latina	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 488-5	PKP069	488	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-6	PKP069	488	6	middle	middle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-7	PKP069	488	7	income	income	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-488-8	PKP069	488	8	country	country	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++488-6	PKP069	488	6	middle	middle	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++488-7	PKP069	488	7	income	income	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++488-8	PKP069	488	8	country	country	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+ 488-9	PKP069	488	9	[es~	es~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-3(161)
+ 488-10	PKP069	488	10	e]ccetto	eccetto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(161)
+ 488-11	PKP069	488	11	cile	cile	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -3655,7 +3655,7 @@
+ 522-1	PKP069	522	1	vi	vi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 522-2	PKP069	522	2	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 522-3	PKP069	522	3	dato	dato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-522-4	PKP069	522	4	le:i	lei	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
++522-4	PKP069	522	4	lei	lei	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
+ 522-5	PKP069	522	5	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 522-6	PKP069	522	6	potete	potete	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 522-7	PKP069	522	7	sceglierne	sceglierne	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -4061,7 +4061,7 @@
+ 575-10	PKP063	575	10	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 575-11	PKP063	575	11	mucca	mucca	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 575-12	PKP063	575	12	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=1412.121	_	_	_	_
+-576-0	PKP063	576	0	((si_schiarisce_la_gola))	((si_schiarisce_la_gola))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1414.208|End=1414.672	_	_	_	_
++576-0	PKP063	576	0	((si schiarisce la gola))	((si schiarisce la gola))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1414.208|End=1414.672	_	_	_	_
+ 577-0	PKP063	577	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=1415.408	_	_	_	_
+ 577-1	PKP063	577	1	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 577-2	PKP063	577	2	dico	dico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -4411,7 +4411,7 @@
+ 625-7	PKP069	625	7	meno	meno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 625-8	PKP069	625	8	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 625-9	PKP069	625	9	meglio,	meglio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1546.289	_	_	_	_
+-626-0	PKP063	626	0	((si_schiarisce_la_gola))	((si_schiarisce_la_gola))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1549.044|End=1549.577	_	_	_	_
++626-0	PKP063	626	0	((si schiarisce la gola))	((si schiarisce la gola))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1549.044|End=1549.577	_	_	_	_
+ 627-0	PKP069	627	0	breve	breve	_	_	_	_	_	linguistic	_	_	_	Begin=1550.149	_	_	_	_
+ 627-1	PKP069	627	1	trattato	trattato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 627-2	PKP069	627	2	sulla	sulla	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -4555,7 +4555,7 @@
+ 653-5	PKP069	653	5	della	della	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
+ 653-6	PKP069	653	6	te:rra°	terra	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1611.504	1x1	_	_	_
+ 654-0	PKP069	654	0	bau~	bau~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=1612.543	_	_	_	_
+-654-1	PKP069	654	1	((fa_una_pernacchia))	((fa_una_pernacchia))	_	_	_	_	_	nonverbalbehavior	_	_	_	_	_	_	_	_
++654-1	PKP069	654	1	((fa una pernacchia))	((fa una pernacchia))	_	_	_	_	_	nonverbalbehavior	_	_	_	_	_	_	_	_
+ 654-2	PKP069	654	2	°maronna°	maronna	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1615.407	_	_	_	_
+ 655-0	PKP063	655	0	n:~	n~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=1615.608	0x1	_	_	_
+ 655-1	PKP063	655	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -4574,8 +4574,8 @@
+ 658-5	PKP069	658	5	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	End=1623.223	_	_	_	_
+ 659-0	PKP069	659	0	questo	questo	_	_	_	_	_	linguistic	_	_	_	Begin=1624.776|End=1625.298	_	_	_	_
+ 660-0	PKP063	660	0	eccolo	eccolo	_	_	_	_	_	linguistic	_	_	_	Begin=1625.555	_	_	_	_
+-660-1	PKP063	660	1	buen	buen	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-660-2	PKP063	660	2	vivi[r	vivir	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-5(207)
++660-1	PKP063	660	1	buen	buen	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
++660-2	PKP063	660	2	vivi[r	vivir	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	4-5(207)
+ 660-3	PKP063	660	3	quel~]	quel~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=1627.461	_	_	_	0-5(207)
+ 661-0	PKP069	661	0	[de	de	_	_	_	_	_	linguistic	_	_	_	Begin=1626.854	_	_	_	0-2(207)
+ 661-1	PKP069	661	1	chi	chi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(207)
+@@ -4605,8 +4605,8 @@
+ 663-5	PKP069	663	5	vuoi	vuoi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 663-6	PKP069	663	6	scrivere	scrivere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 663-7	PKP069	663	7	sul	sul	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-663-8	PKP069	663	8	buen	buen	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-663-9	PKP069	663	9	vivir	vivir	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++663-8	PKP069	663	8	buen	buen	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
++663-9	PKP069	663	9	vivir	vivir	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
+ 663-10	PKP069	663	10	ti	ti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 663-11	PKP069	663	11	rifilo	rifilo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 663-12	PKP069	663	12	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -4674,7 +4674,7 @@
+ 674-6	PKP069	674	6	cosa	cosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 674-7	PKP069	674	7	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 674-8	PKP069	674	8	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-674-9	PKP069	674	9	((riceve_un_messaggio))	((riceve_un_messaggio))	_	_	_	_	_	nonverbalbehavior	_	_	_	_	_	_	_	_
++674-9	PKP069	674	9	((riceve un messaggio))	((riceve un messaggio))	_	_	_	_	_	nonverbalbehavior	_	_	_	_	_	_	_	_
+ 674-10	PKP069	674	10	chi	chi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 674-11	PKP069	674	11	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 674-12	PKP069	674	12	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -4746,8 +4746,8 @@
+ 681-1	PKP063	681	1	ok~	ok~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	0-3(215)
+ 681-2	PKP063	681	2	ques]to	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-4(215)
+ 681-3	PKP063	681	3	qua	qua	_	_	_	_	_	linguistic	_	_	_	End=1673.132	_	_	_	_
+-682-0	PKP069	682	0	[buen	buen	_	_	_	_	_	linguistic	_	_	_	Begin=1671.958	_	_	_	0-4(215)
+-682-1	PKP069	682	1	vivir]	vivir	_	_	_	_	_	linguistic	_	_	_	End=1672.762	_	_	_	0-5(215)
++682-0	PKP069	682	0	[buen	buen	_	_	_	_	_	linguistic	_	_	Lang=es	Begin=1671.958	_	_	_	0-4(215)
++682-1	PKP069	682	1	vivir]	vivir	_	_	_	_	_	linguistic	_	_	Lang=es	End=1672.762	_	_	_	0-5(215)
+ 683-0	PKP063	683	0	°ah	ah	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=1674.104	_	_	_	_
+ 683-1	PKP063	683	1	anche	anche	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
+ 683-2	PKP063	683	2	questo	questo	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
+@@ -4825,8 +4825,8 @@
+ 697-3	PKP069	697	3	m~	m~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=1715.264	_	_	_	_
+ 698-0	PKP069	698	0	addirittura	addirittura	_	_	_	_	_	linguistic	_	_	_	Begin=1716.435	_	_	_	_
+ 698-1	PKP069	698	1	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-698-2	PKP069	698	2	buen	buen	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-698-3	PKP069	698	3	vivir	vivir	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++698-2	PKP069	698	2	buen	buen	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
++698-3	PKP069	698	3	vivir	vivir	_	_	_	_	_	linguistic	_	_	Lang=es	_	_	_	_	_
+ 698-4	PKP069	698	4	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+ 698-5	PKP069	698	5	aveva	aveva	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 698-6	PKP069	698	6	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -4835,10 +4835,11 @@
+ 698-9	PKP069	698	9	derivazioni	derivazioni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 698-10	PKP069	698	10	molto:	molto	_	_	_	_	_	linguistic	_	_	_	_	4x1	_	_	_
+ 698-11	PKP069	698	11	m:::h	mh	_	_	_	_	_	linguistic	_	_	_	_	0x3	_	_	_
+-698-12	PKP069	698	12	new	new	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-698-13	PKP069	698	13	age	age	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++698-12	PKP069	698	12	new	new	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++698-13	PKP069	698	13	age	age	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+ 698-14	PKP069	698	14	tip[o::]	tipo	_	_	_	_	_	linguistic	_	_	_	End=1725.435	3x2	_	_	3-4(220)
+-699-0	PKP063	699	0	[sì:]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1724.996|End=1725.43	1x1	_	_	0-2(220)
++699-0	PKP063	699	0	[sì:	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1724.996	1x1	_	_	0-2(220)
++699-1	PKP063	699	1	]	x	_	_	_	_	_	unknown	_	_	_	End=1725.43	_	_	_	_
+ 700-0	PKP069	700	0	eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1726.634	_	_	_	_
+ 700-1	PKP069	700	1	°eh°	eh	_	_	_	_	_	linguistic	_	_	Volume=Low	End=1727.312	_	_	_	_
+ 701-0	PKP069	701	0	guarda	guarda	_	_	_	_	_	linguistic	_	_	_	Begin=1727.858	_	_	_	_
+@@ -5020,10 +5021,10 @@
+ 729-1	PKP063	729	1	infatti	infatti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 729-2	PKP063	729	2	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 729-3	PKP063	729	3	(co~)	co~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	0-3(0)	_
+-729-4	PKP063	729	4	migration	migration	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-729-5	PKP063	729	5	and	and	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-729-6	PKP063	729	6	climate	climate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-729-7	PKP063	729	7	change	change	_	_	_	_	_	linguistic	_	_	_	End=1794.038	_	_	_	_
++729-4	PKP063	729	4	migration	migration	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++729-5	PKP063	729	5	and	and	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++729-6	PKP063	729	6	climate	climate	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++729-7	PKP063	729	7	change	change	_	_	_	_	_	linguistic	_	_	Lang=en	End=1794.038	_	_	_	_
+ 730-0	PKP069	730	0	m:h	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1794.154|End=1794.551	0x1	_	_	_
+ 731-0	PKP063	731	0	poi	poi	_	_	_	_	_	linguistic	_	_	_	Begin=1796.319	_	_	_	_
+ 731-1	PKP063	731	1	ecco	ecco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -5127,7 +5128,7 @@
+ 747-12	PKP069	747	12	new	new	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 747-13	PKP069	747	13	yor[k::	york	_	_	_	_	_	linguistic	_	_	_	_	3x2	_	_	3-4(231)
+ 747-14	PKP069	747	14	è]	è	_	_	_	_	_	linguistic	_	_	_	End=1837.28	_	_	_	0-1(231)
+-748-0	PKP063	748	0	[>mhmh<],	mhmh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=1833.73|End=1834.14	_	Fast=0-4(0)	_	0-4(229)
++748-0	PKP063	748	0	[>mhmh<,]	mhmh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=1833.73|End=1834.14	_	Fast=0-4(0)	_	0-4(229)
+ 749-0	PKP063	749	0	((tossisce))	((tossisce))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=1834.804|End=1835.393	_	_	_	_
+ 750-0	PKP063	750	0	[m:h]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=1836.202|End=1836.62	0x1	_	_	0-2(231)
+ 751-0	PKP069	751	0	>è	è	_	_	_	_	_	linguistic	_	_	_	Begin=1837.28	_	Fast=0-1(0)	_	_
+@@ -5502,8 +5503,8 @@
+ 801-18	PKP069	801	18	miliare	miliare	_	_	_	_	_	linguistic	_	_	_	End=1952.97	_	_	_	_
+ 802-0	PKP069	802	0	naomi	naomi	_	_	_	_	_	linguistic	_	_	_	Begin=1952.97	_	_	_	_
+ 802-1	PKP069	802	1	klein?	klein	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	_
+-802-2	PKP069	802	2	this	this	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-802-3	PKP069	802	3	changes	changes	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++802-2	PKP069	802	2	this	this	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++802-3	PKP069	802	3	changes	changes	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+ 802-4	PKP069	802	4	e~	e~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
+ 802-5	PKP069	802	5	questa	questa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 802-6	PKP069	802	6	questa	questa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -5552,16 +5553,16 @@
+ 809-7	PKP069	809	7	harvey	harvey	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 809-8	PKP069	809	8	mi	mi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 809-9	PKP069	809	9	dispiace	dispiace	_	_	_	_	_	linguistic	_	_	_	End=1973.023	_	_	_	_
+-810-0	PKP069	810	0	climate	climate	_	_	_	_	_	linguistic	_	_	_	Begin=1975.061	_	_	_	_
+-810-1	PKP069	810	1	change	change	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-810-2	PKP069	810	2	and	and	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-810-3	PKP069	810	3	migration	migration	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-810-4	PKP069	810	4	climate	climate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-810-5	PKP069	810	5	change	change	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-810-6	PKP069	810	6	[and	and	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(257)
++810-0	PKP069	810	0	climate	climate	_	_	_	_	_	linguistic	_	_	Lang=en	Begin=1975.061	_	_	_	_
++810-1	PKP069	810	1	change	change	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++810-2	PKP069	810	2	and	and	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++810-3	PKP069	810	3	migration	migration	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++810-4	PKP069	810	4	climate	climate	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++810-5	PKP069	810	5	change	change	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++810-6	PKP069	810	6	[and	and	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	0-3(257)
+ 810-7	PKP069	810	7	(tourism),	tourism	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	0-7(0)	0-7(257)
+-810-8	PKP069	810	8	climate	climate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-7(257)
+-810-9	PKP069	810	9	change	change	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-6(257)
++810-8	PKP069	810	8	climate	climate	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	0-7(257)
++810-9	PKP069	810	9	change	change	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	0-6(257)
+ 810-10	PKP069	810	10	debate],	debate	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1980.062	_	_	_	0-6(257)
+ 811-0	PKP063	811	0	[(°and	and	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=1977.64	_	_	_	0-3(257)
+ 811-1	PKP063	811	1	tourism,	tourism	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|PauseAfter=Yes|Volume=Low	_	_	_	_	0-7(257)
+@@ -5570,8 +5571,8 @@
+ 811-4	PKP063	811	4	fine	fine	_	_	_	_	_	linguistic	_	_	_	End=1980.943	_	_	_	_
+ 812-0	PKP069	812	0	ah	ah	_	_	_	_	_	linguistic	_	_	_	Begin=1982.222	_	_	_	_
+ 812-1	PKP069	812	1	tutto	tutto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-812-2	PKP069	812	2	climate	climate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-812-3	PKP069	812	3	change	change	_	_	_	_	_	linguistic	_	_	_	End=1983.693	_	_	_	_
++812-2	PKP069	812	2	climate	climate	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++812-3	PKP069	812	3	change	change	_	_	_	_	_	linguistic	_	_	Lang=en	End=1983.693	_	_	_	_
+ 813-0	PKP063	813	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1983.882	_	_	_	_
+ 813-1	PKP063	813	1	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 813-2	PKP063	813	2	sto	sto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -5580,8 +5581,8 @@
+ 813-5	PKP063	813	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 813-6	PKP063	813	6	incentrato	incentrato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 813-7	PKP063	813	7	sul	sul	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-813-8	PKP063	813	8	cl[imate	climate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	2-7(258)
+-813-9	PKP063	813	9	chan]ge	change	_	_	_	_	_	linguistic	_	_	_	End=1986.91	_	_	_	0-4(258)
++813-8	PKP063	813	8	cl[imate	climate	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	2-7(258)
++813-9	PKP063	813	9	chan]ge	change	_	_	_	_	_	linguistic	_	_	Lang=en	End=1986.91	_	_	_	0-4(258)
+ 814-0	PKP069	814	0	[°mh°]	mh	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=1986.271|End=1986.661	_	_	_	0-2(258)
+ 815-0	PKP063	815	0	invece	invece	_	_	_	_	_	linguistic	_	_	_	Begin=1986.91	_	_	_	_
+ 815-1	PKP063	815	1	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -5615,7 +5616,7 @@
+ 821-1	PKP069	821	1	vero	vero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 821-2	PKP069	821	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 821-3	PKP069	821	3	assolutamente	assolutamente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-821-4	PKP069	821	4	leggittimo	leggittimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++821-4	PKP069	821	4	legittimo	legittimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 821-5	PKP069	821	5	però	però	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
+ 821-6	PKP069	821	6	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 821-7	PKP069	821	7	m::h	mh	_	_	_	_	_	linguistic	_	_	_	End=2006.87	0x2	_	_	_
+@@ -5636,8 +5637,8 @@
+ 824-4	PKP069	824	4	parlare	parlare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 824-5	PKP069	824	5	solo	solo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 824-6	PKP069	824	6	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-824-7	PKP069	824	7	climate	climate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-824-8	PKP069	824	8	change	change	_	_	_	_	_	linguistic	_	_	_	End=2015.048	_	_	_	_
++824-7	PKP069	824	7	climate	climate	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++824-8	PKP069	824	8	change	change	_	_	_	_	_	linguistic	_	_	Lang=en	End=2015.048	_	_	_	_
+ 825-0	PKP063	825	0	mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=2015.048|End=2015.452	_	_	_	_
+ 826-0	PKP069	826	0	nel	nel	_	_	_	_	_	linguistic	_	_	_	Begin=2015.634	_	_	_	_
+ 826-1	PKP069	826	1	senso	senso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -5684,8 +5685,8 @@
+ 829-6	PKP069	829	6	complessi	complessi	_	_	_	_	_	linguistic	_	_	_	End=2030.84	_	_	_	_
+ 830-0	PKP063	830	0	mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=2030.985	_	_	_	_
+ 830-1	PKP063	830	1	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	End=2031.447	_	_	_	0-2(262)
+-831-0	PKP069	831	0	[cli]mate	climate	_	_	_	_	_	linguistic	_	_	_	Begin=2031.218	_	_	_	0-3(262)
+-831-1	PKP069	831	1	change	change	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++831-0	PKP069	831	0	[cli]mate	climate	_	_	_	_	_	linguistic	_	_	Lang=en	Begin=2031.218	_	_	_	0-3(262)
++831-1	PKP069	831	1	change	change	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+ 831-2	PKP069	831	2	focalizza	focalizza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 831-3	PKP069	831	3	uno	uno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 831-4	PKP069	831	4	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -5800,7 +5801,7 @@
+ 848-2	PKP069	848	2	concentri	concentri	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 848-3	PKP069	848	3	solo	solo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 848-4	PKP069	848	4	>sull'	sull'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-5(0)	_	_
+-848-5	PKP069	848	5	anidridide<	anidridide	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-10(0)	_	_
++848-5	PKP069	848	5	anidride<	anidride	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-10(0)	_	_
+ 848-6	PKP069	848	6	carbonica	carbonica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 848-7	PKP069	848	7	perdi	perdi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 848-8	PKP069	848	8	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -5816,7 +5817,7 @@
+ 848-18	PKP069	848	18	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 848-19	PKP069	848	19	esempio	esempio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 848-20	PKP069	848	20	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-848-21	PKP069	848	21	perdità	perdità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++848-21	PKP069	848	21	perdita	perdita	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 848-22	PKP069	848	22	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 848-23	PKP069	848	23	biodiversit[à:,	biodiversità	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	11x1	_	_	11-12(270)
+ 848-24	PKP069	848	24	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(270)
+@@ -6191,7 +6192,7 @@
+ 904-1	PKP069	904	1	[>teorie	teorie	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	0-6(290)
+ 904-2	PKP069	904	2	dello	dello	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	0-5(290)
+ 904-3	PKP069	904	3	sviluppo<]	sviluppo	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-8(0)	_	0-8(290)
+-904-4	PKP069	904	4	mainstream	mainstream	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++904-4	PKP069	904	4	mainstream	mainstream	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+ 904-5	PKP069	904	5	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 904-6	PKP069	904	6	alternative	alternative	_	_	_	_	_	linguistic	_	_	_	End=2201.37	_	_	_	_
+ 905-0	PKP063	905	0	[disugaglia:nze],	disugaglianze	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=2200.093|End=2201.355	9x1	_	_	0-13(290)
+@@ -6225,7 +6226,7 @@
+ 911-0	PKP063	911	0	e:h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=2212.54	0x1	_	_	_
+ 911-1	PKP063	911	1	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 911-2	PKP063	911	2	teorie	teorie	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-911-3	PKP063	911	3	mainstream	mainstream	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++911-3	PKP063	911	3	mainstream	mainstream	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+ 911-4	PKP063	911	4	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 911-5	PKP063	911	5	teorie	teorie	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 911-6	PKP063	911	6	neocla:ssiche	neoclassiche	_	_	_	_	_	linguistic	_	_	_	End=2215.325	5x1	_	_	_
+@@ -6258,18 +6259,18 @@
+ 915-4	PKP069	915	4	dipendenza::	dipendenza	_	_	_	_	_	linguistic	_	_	_	End=2228.736	9x2	_	_	_
+ 916-0	PKP063	916	0	[(sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2229.519	_	_	0-2(0)	0-2(294)
+ 916-1	PKP063	916	1	quell~)]	quell~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	End=2230.003	_	_	0-6(0)	0-6(294)
+-917-0	PKP069	917	0	[develop]mental	developmental	_	_	_	_	_	linguistic	_	_	_	Begin=2229.519	_	_	_	0-7(294)
+-917-1	PKP069	917	1	state	state	_	_	_	_	_	linguistic	_	_	_	End=2231.314	_	_	_	_
++917-0	PKP069	917	0	[develop]mental	developmental	_	_	_	_	_	linguistic	_	_	Lang=en	Begin=2229.519	_	_	_	0-7(294)
++917-1	PKP069	917	1	state	state	_	_	_	_	_	linguistic	_	_	Lang=en	End=2231.314	_	_	_	_
+ 918-0	PKP063	918	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2231.379|End=2231.759	_	_	_	_
+ 919-0	PKP069	919	0	come	come	_	_	_	_	_	linguistic	_	_	_	Begin=2232.502	_	_	_	_
+ 919-1	PKP069	919	1	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-919-2	PKP069	919	2	classficano	classficano	_	_	_	_	_	linguistic	_	_	_	End=2233.778	_	_	_	_
+-920-0	PKP063	920	0	mainstream	mainstream	_	_	_	_	_	linguistic	_	_	_	Begin=2234.022|End=2234.898	_	_	_	_
+-921-0	PKP069	921	0	mainstream	mainstream	_	_	_	_	_	linguistic	_	_	_	Begin=2234.898|End=2235.865	_	_	_	_
++919-2	PKP069	919	2	classificano	classificano	_	_	_	_	_	linguistic	_	_	_	End=2233.778	_	_	_	_
++920-0	PKP063	920	0	mainstream	mainstream	_	_	_	_	_	linguistic	_	_	Lang=en	Begin=2234.022|End=2234.898	_	_	_	_
++921-0	PKP069	921	0	mainstream	mainstream	_	_	_	_	_	linguistic	_	_	Lang=en	Begin=2234.898|End=2235.865	_	_	_	_
+ 922-0	PKP063	922	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2235.877|End=2236.279	_	_	_	_
+ 923-0	PKP069	923	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=2238.352	_	_	_	_
+ 923-1	PKP069	923	1	quelle	quelle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-923-2	PKP069	923	2	mainstream	mainstream	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++923-2	PKP069	923	2	mainstream	mainstream	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+ 923-3	PKP069	923	3	sostanzialmente	sostanzialmente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 923-4	PKP069	923	4	sono:::	sono	_	_	_	_	_	linguistic	_	_	_	End=2241.309	3x3	_	_	_
+ 924-0	PKP069	924	0	l:e:	le	_	_	_	_	_	linguistic	_	_	_	Begin=2241.591	0x1,1x1	_	_	_
+@@ -6311,7 +6312,7 @@
+ 927-1	PKP063	927	1	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
+ 927-2	PKP063	927	2	detto	detto	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-5(0)	_	_
+ 927-3	PKP063	927	3	quelle<	quelle	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-6(0)	_	_
+-927-4	PKP063	927	4	mainstream	mainstream	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++927-4	PKP063	927	4	mainstream	mainstream	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+ 927-5	PKP063	927	5	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 927-6	PKP063	927	6	basano	basano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 927-7	PKP063	927	7	tutte	tutte	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -6410,7 +6411,7 @@
+ 939-7	PKP069	939	7	sui::	sui	_	_	_	_	_	linguistic	_	_	_	_	2x2	_	_	_
+ 939-8	PKP069	939	8	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 939-9	PKP069	939	9	e::h	eh	_	_	_	_	_	linguistic	_	_	_	End=2296.69	0x2	_	_	_
+-940-0	PKP063	940	0	((si_schiarisce_la_gola))	((si_schiarisce_la_gola))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2297.023|End=2297.414	_	_	_	_
++940-0	PKP063	940	0	((si schiarisce la gola))	((si schiarisce la gola))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2297.023|End=2297.414	_	_	_	_
+ 941-0	PKP069	941	0	genere	genere	_	_	_	_	_	linguistic	_	_	_	Begin=2297.479|End=2298.315	_	_	_	_
+ 942-0	PKP069	942	0	sono	sono	_	_	_	_	_	linguistic	_	_	_	Begin=2299.557	_	_	_	_
+ 942-1	PKP069	942	1	varie	varie	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

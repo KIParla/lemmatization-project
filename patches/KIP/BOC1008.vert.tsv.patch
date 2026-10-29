@@ -1,0 +1,176 @@
+--- a/tsv/BOC1008.vert.tsv
++++ b/tsv/BOC1008.vert.tsv
+@@ -103,17 +103,17 @@
+ 13-8	BO141	13	8	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 13-9	BO141	13	9	esempio	esempio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 13-10	BO141	13	10	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-13-11	BO141	13	11	playdowns,	playdowns	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=50.409	_	_	_	_
++13-11	BO141	13	11	playdowns,	playdowns	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|Lang=en	End=50.409	_	_	_	_
+ 14-0	BO141	14	0	gli	gli	_	_	_	_	_	linguistic	_	_	_	Begin=50.462	_	_	_	_
+-14-1	BO141	14	1	understaters	understaters	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++14-1	BO141	14	1	understaters	understaters	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+ 14-2	BO141	14	2	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 14-3	BO141	14	3	oppure	oppure	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 14-4	BO141	14	4	gli	gli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-14-5	BO141	14	5	scope	scope	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-14-6	BO141	14	6	staters,	staters	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
++14-5	BO141	14	5	scope	scope	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++14-6	BO141	14	6	staters,	staters	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|Lang=en	_	_	_	_	_
+ 14-7	BO141	14	7	gli	gli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-14-8	BO141	14	8	agent	agent	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-14-9	BO141	14	9	devicers	devicers	_	_	_	_	_	linguistic	_	_	_	End=54.716	_	_	_	_
++14-8	BO141	14	8	agent	agent	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++14-9	BO141	14	9	devicers	devicers	_	_	_	_	_	linguistic	_	_	Lang=en	End=54.716	_	_	_	_
+ 15-0	BO141	15	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=54.782	_	_	_	_
+ 15-1	BO141	15	1	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 15-2	BO141	15	2	comunque	comunque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -197,8 +197,8 @@
+ 22-7	BO141	22	7	p~	p~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
+ 22-8	BO141	22	8	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 22-9	BO141	22	9	gli	gli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-22-10	BO141	22	10	address	address	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-22-11	BO141	22	11	honorifics	honorifics	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++22-10	BO141	22	10	address	address	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++22-11	BO141	22	11	honorifics	honorifics	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+ 22-12	BO141	22	12	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 22-13	BO141	22	13	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 22-14	BO141	22	14	quelli	quelli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -484,7 +484,7 @@
+ 50-11	BO141	50	11	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 50-12	BO141	50	12	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 50-13	BO141	50	13	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-50-14	BO141	50	14	politeness	politeness	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++50-14	BO141	50	14	politeness	politeness	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+ 50-15	BO141	50	15	perché	perché	_	_	_	_	_	linguistic	_	_	_	End=191.018	_	_	_	_
+ 51-0	BO141	51	0	principalmente	principalmente	_	_	_	_	_	linguistic	_	_	_	Begin=191.056	_	_	_	_
+ 51-1	BO141	51	1	la:	la	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
+@@ -640,7 +640,7 @@
+ 61-12	BO141	61	12	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 61-13	BO141	61	13	misurare	misurare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 61-14	BO141	61	14	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-61-15	BO141	61	15	politeness	politeness	_	_	_	_	_	linguistic	_	_	_	End=247.431	_	_	_	_
++61-15	BO141	61	15	politeness	politeness	_	_	_	_	_	linguistic	_	_	Lang=en	End=247.431	_	_	_	_
+ 62-0	BO141	62	0	attraverso	attraverso	_	_	_	_	_	linguistic	_	_	_	Begin=247.519	_	_	_	_
+ 62-1	BO141	62	1	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 62-2	BO141	62	2	scala	scala	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -1133,12 +1133,12 @@
+ 106-1	BO141	106	1	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 106-2	BO141	106	2	include	include	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 106-3	BO141	106	3	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-106-4	BO141	106	4	desidero	desidero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++106-4	BO141	106	4	desiderio	desiderio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 106-5	BO141	106	5	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 106-6	BO141	106	6	questa	questa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 106-7	BO141	106	7	immagine	immagine	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 106-8	BO141	106	8	[sia]	sia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-3(20)
+-106-9	BO141	106	9	riconusciuta	riconusciuta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++106-9	BO141	106	9	riconosciuta	riconosciuta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 106-10	BO141	106	10	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 106-11	BO141	106	11	apprezzata	apprezzata	_	_	_	_	_	linguistic	_	_	_	End=429.213	_	_	_	_
+ 107-0	BO117	107	0	[mh]	mh	_	_	_	_	_	linguistic	_	_	_	Begin=427.646|End=428.168	_	_	_	0-2(20)
+@@ -1174,7 +1174,7 @@
+ 110-5	BO141	110	5	negative	negative	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 110-6	BO141	110	6	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 110-7	BO141	110	7	negative	negative	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-110-8	BO141	110	8	polite	polite	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++110-8	BO141	110	8	polite	polite	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+ 110-9	BO141	110	9	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 110-10	BO141	110	10	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 110-11	BO141	110	11	faccia	faccia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -1301,7 +1301,7 @@
+ 122-8	BO141	122	8	inattivi,	inattivi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=485.613	_	_	_	_
+ 123-0	BO141	123	0	ehm	ehm	_	_	_	_	_	linguistic	_	_	_	Begin=485.647	_	_	_	_
+ 123-1	BO141	123	1	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-123-2	BO141	123	2	riferente	riferente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++123-2	BO141	123	2	referente	referente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 123-3	BO141	123	3	attivo	attivo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 123-4	BO141	123	4	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 123-5	BO141	123	5	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -1527,8 +1527,8 @@
+ 139-2	BO141	139	2	visto	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 139-3	BO141	139	3	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 139-4	BO141	139	4	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-139-5	BO141	139	5	brand-new	brand-new	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-139-6	BO141	139	6	ananchored	ananchored	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++139-5	BO141	139	5	brand-new	brand-new	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++139-6	BO141	139	6	ananchored	ananchored	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+ 139-7	BO141	139	7	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 139-8	BO141	139	8	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 139-9	BO141	139	9	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -1536,8 +1536,8 @@
+ 139-11	BO141	139	11	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 139-12	BO141	139	12	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 139-13	BO141	139	13	elemento	elemento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-139-14	BO141	139	14	ex	ex	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-139-15	BO141	139	15	novo	novo	_	_	_	_	_	linguistic	_	_	_	End=559.379	_	_	_	_
++139-14	BO141	139	14	ex	ex	_	_	_	_	_	linguistic	_	_	Lang=la	_	_	_	_	_
++139-15	BO141	139	15	novo	novo	_	_	_	_	_	linguistic	_	_	Lang=la	End=559.379	_	_	_	_
+ 140-0	BO141	140	0	è	è	_	_	_	_	_	linguistic	_	_	_	Begin=559.44	_	_	_	_
+ 140-1	BO141	140	1	que~	que~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
+ 140-2	BO141	140	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -1605,15 +1605,15 @@
+ 147-9	BO117	147	9	più?	più	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=584.999	_	_	_	_
+ 148-0	BO141	148	0	eh	eh	_	_	_	_	_	linguistic	_	_	_	Begin=585.013	_	_	_	_
+ 148-1	BO141	148	1	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-148-2	BO141	148	2	post~	post~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
++148-2	BO141	148	2	post~	post~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes|Lang=en	_	_	_	_	_
+ 148-3	BO141	148	3	e::h	eh	_	_	_	_	_	linguistic	_	_	_	_	0x2	_	_	_
+ 148-4	BO141	148	4	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 148-5	BO141	148	5	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-148-6	BO141	148	6	relevance	relevance	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-148-7	BO141	148	7	theory	theory	_	_	_	_	_	linguistic	_	_	_	End=587.772	_	_	_	_
++148-6	BO141	148	6	relevance	relevance	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++148-7	BO141	148	7	theory	theory	_	_	_	_	_	linguistic	_	_	Lang=en	End=587.772	_	_	_	_
+ 149-0	BO117	149	0	la	la	_	_	_	_	_	linguistic	_	_	_	Begin=587.84	_	_	_	_
+-149-1	BO117	149	1	relevance	relevance	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-149-2	BO117	149	2	theory,	theory	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
++149-1	BO117	149	1	relevance	relevance	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++149-2	BO117	149	2	theory,	theory	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|Lang=en	_	_	_	_	_
+ 149-3	BO117	149	3	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 149-4	BO117	149	4	mai?	mai	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=590.289	_	_	_	_
+ 150-0	BO141	150	0	perché::	perché	_	_	_	_	_	linguistic	_	_	_	Begin=590.35	5x2	_	_	_
+@@ -1775,7 +1775,7 @@
+ 160-2	BO141	160	2	ciò	ciò	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 160-3	BO141	160	3	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 160-4	BO141	160	4	m'	m'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+-160-5	BO141	160	5	(attira	attira	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++160-5	BO141	160	5	attira	attira	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 160-6	BO141	160	6	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+ 160-7	BO141	160	7	attenzione	attenzione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 160-8	BO141	160	8	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -1810,7 +1810,7 @@
+ 162-8	BO141	162	8	po'	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 162-9	BO141	162	9	(ama~)	ama~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	0-4(0)	_
+ 162-10	BO141	162	10	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-162-11	BO141	162	11	marketing	marketing	_	_	_	_	_	linguistic	_	_	_	End=648.6	_	_	_	_
++162-11	BO141	162	11	marketing	marketing	_	_	_	_	_	linguistic	_	_	Lang=en	End=648.6	_	_	_	_
+ 163-0	BO141	163	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=648.626	_	_	_	_
+ 163-1	BO141	163	1	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 163-2	BO141	163	2	qualche	qualche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2188,7 +2188,7 @@
+ 200-5	BO141	200	5	a~	a~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
+ 200-6	BO141	200	6	attivano	attivano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 200-7	BO141	200	7	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-200-8	BO141	200	8	frames	frames	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++200-8	BO141	200	8	frames	frames	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+ 200-9	BO141	200	9	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 200-10	BO141	200	10	qualche	qualche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 200-11	BO141	200	11	modo	modo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2302,7 +2302,7 @@
+ 207-9	BO141	207	9	puoi	puoi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 207-10	BO141	207	10	rinnegare	rinnegare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 207-11	BO141	207	11	te	te	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-207-12	BO141	207	12	stresso	stresso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++207-12	BO141	207	12	stesso	stesso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 207-13	BO141	207	13	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 207-14	BO141	207	14	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 207-15	BO141	207	15	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2338,7 +2338,7 @@
+ 209-10	BO141	209	10	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 209-11	BO141	209	11	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 209-12	BO141	209	12	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-209-13	BO141	209	13	frames,	frames	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=836.151	_	_	_	_
++209-13	BO141	209	13	frames,	frames	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|Lang=en	End=836.151	_	_	_	_
+ 210-0	BO141	210	0	o	o	_	_	_	_	_	linguistic	_	_	_	Begin=836.188	_	_	_	_
+ 210-1	BO141	210	1	sulle	sulle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 210-2	BO141	210	2	presupposizioni,	presupposizioni	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_

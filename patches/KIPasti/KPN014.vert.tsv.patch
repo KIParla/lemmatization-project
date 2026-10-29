@@ -1,0 +1,195 @@
+--- a/tsv/KPN014.vert.tsv
++++ b/tsv/KPN014.vert.tsv
+@@ -106,7 +106,7 @@
+ 21-0	PKP057	21	0	esatto	esatto	_	_	_	_	_	linguistic	_	_	_	Begin=58.86	_	_	_	_
+ 21-1	PKP057	21	1	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=60.6	_	_	_	_
+ 22-0	PKP060	22	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=59.55|End=60.36	_	_	_	_
+-23-0	PKP057	23	0	((si_schiarisce_la_gola))	((si_schiarisce_la_gola))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=65.0|End=65.3	_	_	_	_
++23-0	PKP057	23	0	((si schiarisce la gola))	((si schiarisce la gola))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=65.0|End=65.3	_	_	_	_
+ 24-0	PKP057	24	0	ti	ti	_	_	_	_	_	linguistic	_	_	_	Begin=67.33	_	_	_	_
+ 24-1	PKP057	24	1	lascio	lascio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 24-2	PKP057	24	2	uno	uno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -332,7 +332,8 @@
+ 74-1	PKP060	74	1	porteresti	porteresti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 74-2	PKP060	74	2	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 74-3	PKP060	74	3	bottiglia	bottiglia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-74-4	PKP060	74	4	di:vino,	divino	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=188.74	1x1	_	_	_
++74-4	PKP060	74	4	di:	di	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
++74-5	PKP060	74	5	vino,	vino	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=188.74	_	_	_	_
+ 75-0	PKP060	75	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=189.18|End=189.42	_	_	_	_
+ 76-0	PKP057	76	0	grazie	grazie	_	_	_	_	_	linguistic	_	_	_	Begin=189.52|End=189.86	_	_	_	_
+ 77-0	PKP060	77	0	fatto	fatto	_	_	_	_	_	linguistic	_	_	_	Begin=191.05|End=191.35	_	_	_	_
+@@ -462,7 +463,7 @@
+ 106-8	PKP060	106	8	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 106-9	PKP060	106	9	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 106-10	PKP060	106	10	riusi	riusi	_	_	_	_	_	linguistic	_	_	_	End=297.73	_	_	_	_
+-107-0	PKP057	107	0	((canta_sottovoce))	((canta_sottovoce))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=301.39|End=307.49	_	_	_	_
++107-0	PKP057	107	0	((canta sottovoce))	((canta sottovoce))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=301.39|End=307.49	_	_	_	_
+ 108-0	PKP057	108	0	non	non	_	_	_	_	_	linguistic	_	_	_	Begin=316.3	_	_	_	_
+ 108-1	PKP057	108	1	sa	sa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 108-2	PKP057	108	2	di?	di	_	_	_	_	_	linguistic	_	_	Intonation=Rising	_	_	_	_	_
+@@ -676,8 +677,8 @@
+ 143-1	PKP057	143	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(21)
+ 143-2	PKP057	143	2	messo	messo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-5(21)
+ 143-3	PKP057	143	3	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-1(21)
+-143-4	PKP057	143	4	piangere],	piangere	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-8(21)
+-143-5	PKP057	143	5	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=415.84	_	_	_	_
++143-4	PKP057	143	4	piangere,	piangere	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	0-8(21)
++143-5	PKP057	143	5	]{ride}	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=415.84	_	_	_	_
+ 144-0	PKP060	144	0	dai	dai	_	_	_	_	_	linguistic	_	_	_	Begin=415.613	_	_	_	_
+ 144-1	PKP060	144	1	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 144-2	PKP060	144	2	riesci	riesci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -832,11 +833,12 @@
+ 166-8	PKP060	166	8	modo	modo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 166-9	PKP060	166	9	chiaro	chiaro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 166-10	PKP060	166	10	[limpido]	limpido	_	_	_	_	_	linguistic	_	_	_	End=479.84	_	_	_	0-7(27)
+-167-0	PKP057	167	0	[sto]malissimo	stomalissimo	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=479.59	_	_	_	0-3(27)
+-167-1	PKP057	167	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+-167-2	PKP057	167	2	facci	facci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-167-3	PKP057	167	3	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-167-4	PKP057	167	4	foto	foto	_	_	_	_	_	linguistic	_	_	_	End=481.36	_	_	_	_
++167-0	PKP057	167	0	[sto]	sto	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=479.59	_	_	_	0-3(27)
++167-5	PKP057	167	1	malissimo	malissimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++167-1	PKP057	167	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
++167-2	PKP057	167	3	facci	facci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++167-3	PKP057	167	4	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++167-4	PKP057	167	5	foto	foto	_	_	_	_	_	linguistic	_	_	_	End=481.36	_	_	_	_
+ 168-0	PKP060	168	0	adesso	adesso	_	_	_	_	_	linguistic	_	_	_	Begin=481.36	_	_	_	_
+ 168-1	PKP060	168	1	gliela	gliela	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 168-2	PKP060	168	2	mando	mando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -1065,11 +1067,10 @@
+ 212-1	PKP060	212	1	di:	di	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
+ 212-2	PKP060	212	2	sua	sua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 212-3	PKP060	212	3	n~	n~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
+-212-4	PKP060	212	4	ex	ex	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-212-5	PKP060	212	5	casa	casa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-212-6	PKP060	212	6	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-212-7	PKP060	212	7	sua	sua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-212-8	PKP060	212	8	nonna	nonna	_	_	_	_	_	linguistic	_	_	_	End=621.24	_	_	_	_
++212-4	PKP060	212	4	excasa	ex-casa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++212-6	PKP060	212	5	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++212-7	PKP060	212	6	sua	sua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++212-8	PKP060	212	7	nonna	nonna	_	_	_	_	_	linguistic	_	_	_	End=621.24	_	_	_	_
+ 213-0	PKP060	213	0	ehm:	ehm	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=623.16	2x1	_	_	_
+ 213-1	PKP060	213	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 213-2	PKP060	213	2	>si	si	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	_
+@@ -1402,10 +1403,9 @@
+ 270-2	PKP060	270	2	con:	con	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
+ 270-3	PKP060	270	3	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 270-4	PKP060	270	4	mio	mio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-270-5	PKP060	270	5	ex	ex	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-270-6	PKP060	270	6	compagno	compagno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-270-7	PKP060	270	7	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-270-8	PKP060	270	8	liceo	liceo	_	_	_	_	_	linguistic	_	_	_	End=771.19	_	_	_	_
++270-5	PKP060	270	5	excompagno	excompagno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++270-7	PKP060	270	6	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++270-8	PKP060	270	7	liceo	liceo	_	_	_	_	_	linguistic	_	_	_	End=771.19	_	_	_	_
+ 271-0	PKP057	271	0	°mh°	mh	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=771.19|End=771.58	_	_	_	_
+ 272-0	PKP060	272	0	marco	marco	_	_	_	_	_	linguistic	_	_	_	Begin=771.63	_	_	_	_
+ 272-1	PKP060	272	1	rossi	rossi	_	_	_	_	_	linguistic	_	_	_	End=772.34	_	_	_	_
+@@ -1788,7 +1788,7 @@
+ 324-7	PKP060	324	7	chiacchiere	chiacchiere	_	_	_	_	_	linguistic	_	_	_	End=930.98	_	_	_	_
+ 325-0	PKP057	325	0	hai	hai	_	_	_	_	_	linguistic	_	_	_	Begin=931.16	_	_	_	_
+ 325-1	PKP057	325	1	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-325-2	PKP057	325	2	poì	poì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++325-2	PKP057	325	2	po'	po'	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 325-3	PKP057	325	3	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 325-4	PKP057	325	4	patata	patata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 325-5	PKP057	325	5	sul:	sul	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
+@@ -1808,7 +1808,7 @@
+ 332-2	PKP060	332	2	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 332-3	PKP060	332	3	risposto	risposto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 332-4	PKP060	332	4	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	End=961.44	_	_	_	_
+-333-0	PKP057	333	0	((ride_e_sbuffa))	((ride_e_sbuffa))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=965.07|End=966.72	_	_	_	_
++333-0	PKP057	333	0	((ride e sbuffa))	((ride e sbuffa))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=965.07|End=966.72	_	_	_	_
+ 334-0	PKP060	334	0	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=965.16	_	_	_	_
+ 334-1	PKP060	334	1	dal	dal	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 334-2	PKP060	334	2	millenovecentocinquantaquattro	millenovecentocinquantaquattro	_	_	_	_	_	linguistic	_	_	_	End=969.37	_	_	_	_
+@@ -1909,19 +1909,18 @@
+ 355-4	PKP060	355	4	erano	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 355-5	PKP060	355	5	tagliati	tagliati	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 355-6	PKP060	355	6	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-355-7	PKP060	355	7	zig	zig	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-355-8	PKP060	355	8	zag	zag	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-355-9	PKP060	355	9	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-355-10	PKP060	355	10	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-355-11	PKP060	355	11	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-355-12	PKP060	355	12	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-355-13	PKP060	355	13	classica	classica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-355-14	PKP060	355	14	rotella	rotella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-355-15	PKP060	355	15	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-355-16	PKP060	355	16	sfoglia	sfoglia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-355-17	PKP060	355	17	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-355-18	PKP060	355	18	eran	eran	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-355-19	PKP060	355	19	dritti	dritti	_	_	_	_	_	linguistic	_	_	_	End=1044.31	_	_	_	_
++355-7	PKP060	355	7	zigzag	zigzag	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++355-9	PKP060	355	8	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++355-10	PKP060	355	9	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++355-11	PKP060	355	10	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++355-12	PKP060	355	11	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++355-13	PKP060	355	12	classica	classica	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++355-14	PKP060	355	13	rotella	rotella	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++355-15	PKP060	355	14	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++355-16	PKP060	355	15	sfoglia	sfoglia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++355-17	PKP060	355	16	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++355-18	PKP060	355	17	eran	eran	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++355-19	PKP060	355	18	dritti	dritti	_	_	_	_	_	linguistic	_	_	_	End=1044.31	_	_	_	_
+ 356-0	PKP057	356	0	mhmh	mhmh	_	_	_	_	_	linguistic	_	_	_	Begin=1044.31|End=1044.72	_	_	_	_
+ 357-0	PKP060	357	0	dopo	dopo	_	_	_	_	_	linguistic	_	_	_	Begin=1046.4	_	_	_	_
+ 357-1	PKP060	357	1	me	me	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2018,7 +2017,7 @@
+ 376-2	PKP060	376	2	fino	fino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 376-3	PKP060	376	3	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 376-4	PKP060	376	4	uno	uno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-376-5	PKP060	376	5	circia	circia	_	_	_	_	_	linguistic	_	_	_	End=1094.506	_	_	_	_
++376-5	PKP060	376	5	circia	circa	_	_	_	_	_	linguistic	_	_	_	End=1094.506	_	_	_	_
+ 377-0	PKP057	377	0	beh	beh	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=1094.64	_	_	_	_
+ 377-1	PKP057	377	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 377-2	PKP057	377	2	dipende	dipende	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2131,7 +2130,7 @@
+ 399-3	PKP057	399	3	bene	bene	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 399-4	PKP057	399	4	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 399-5	PKP057	399	5	tuo	tuo	_	_	_	_	_	linguistic	_	_	_	End=1179.985	_	_	_	_
+-400-0	PKP057	400	0	# perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1179.985	_	_	_	_
++400-0	PKP057	400	0	#perché	perché	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=1179.985	_	_	_	_
+ 400-1	PKP057	400	1	i	i	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+ 400-2	PKP057	400	2	tuoi	tuoi	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+ 400-3	PKP057	400	3	sono	sono	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+@@ -3157,8 +3156,8 @@
+ 615-9	PKP060	615	9	puoi	puoi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 615-10	PKP060	615	10	guardare	guardare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 615-11	PKP060	615	11	internet	internet	_	_	_	_	_	linguistic	_	_	_	End=2221.39	_	_	_	_
+-616-0	PKP057	616	0	((fa_il_verso))	((fa_il_verso))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2221.395|End=2222.14	_	_	_	_
+-617-0	PKP060	617	0	((fa_il_verso))	((fa_il_verso))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2222.15|End=2223.05	_	_	_	_
++616-0	PKP057	616	0	((fa il verso))	((fa il verso))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2221.395|End=2222.14	_	_	_	_
++617-0	PKP060	617	0	((fa il verso))	((fa il verso))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2222.15|End=2223.05	_	_	_	_
+ 618-0	PKP057	618	0	mi	mi	_	_	_	_	_	linguistic	_	_	_	Begin=2231.5	_	_	_	_
+ 618-1	PKP057	618	1	passi	passi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 618-2	PKP057	618	2	la:	la	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	1x1	_	_	_
+@@ -3327,7 +3326,7 @@
+ 643-10	PKP057	643	10	li	li	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 643-11	PKP057	643	11	metti	metti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 643-12	PKP057	643	12	dentro	dentro	_	_	_	_	_	linguistic	_	_	_	End=2375.133	_	_	_	_
+-644-0	PKP057	644	0	# subito	subito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2376.047	_	_	_	_
++644-0	PKP057	644	0	#subito	subito	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	Begin=2376.047	_	_	_	_
+ 644-1	PKP057	644	1	metti	metti	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+ 644-2	PKP057	644	2	le	le	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+ 644-3	PKP057	644	3	verdure	verdure	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+@@ -3340,7 +3339,7 @@
+ 644-10	PKP057	644	10	eccetera	eccetera	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	_	_	_	_	_	_
+ 644-11	PKP057	644	11	eh,	eh	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=WeaklyRising	End=2379.74	_	_	_	_
+ 645-0	PKP057	645	0	ehm:	ehm	_	_	_	_	_	linguistic	_	_	_	Begin=2380.74|End=2381.96	2x1	_	_	_
+-646-0	PKP060	646	0	# padire?	padire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Rising	Begin=2382.56|End=2383.25	_	_	_	_
++646-0	PKP060	646	0	#padire?	padire	_	_	_	_	_	linguistic	_	ContainsVariation=Yes|Code=Underspecified	Intonation=Rising	Begin=2382.56|End=2383.25	_	_	_	_
+ 647-0	PKP057	647	0	sì	sì	_	_	_	_	_	linguistic	_	_	_	Begin=2383.45	_	_	_	_
+ 647-1	PKP057	647	1	ehm:	ehm	_	_	_	_	_	linguistic	_	_	_	End=2385.47	2x1	_	_	_
+ 648-0	PKP057	648	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=2387.127	_	_	_	_
+@@ -3632,7 +3631,7 @@
+ 706-1	PKP060	706	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 706-2	PKP060	706	2	già	già	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 706-3	PKP060	706	3	finita	finita	_	_	_	_	_	linguistic	_	_	_	End=2757.04	_	_	_	_
+-707-0	PKP057	707	0	((si_schiarisce_la_voce))	((si_schiarisce_la_voce))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2779.42	_	_	_	_
++707-0	PKP057	707	0	((si schiarisce la voce))	((si schiarisce la voce))	_	_	_	_	_	nonverbalbehavior	_	_	_	Begin=2779.42	_	_	_	_
+ 707-1	PKP057	707	1	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 707-2	PKP057	707	2	ravioli	ravioli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 707-3	PKP057	707	3	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
