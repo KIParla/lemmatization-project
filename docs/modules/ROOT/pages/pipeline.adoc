@@ -31,14 +31,21 @@ Lo script scrive in `patches/KIP/`:
 Apri `BOA1002.review.csv` e controlla le righe con `WARN` o `FAIL` e le voci `[ ]` del recap.
 Tipicamente: forma non derivabile dallo span (`WARN`), token duplicati, `overlaps`/`prolongations` da sistemare.
 
-Si possono correggere le *celle* direttamente nel review (`span`, `form`, `lemma`, `upos`, ...): alla rigenerazione `make_patch.py` le riporta nel `wip/` con un merge a tre vie (se la stessa cella è cambiata sia nel review sia nel `wip/` vince il `wip/` e viene segnalato un `CONFLITTO`).
+Il review è l'unico posto in cui si lavora: si possono correggere celle (`span`, `form`, `lemma`, `upos`, ...) e anche aggiungere, togliere o spostare righe, unire token (`elle` + `due` → `elledue`) e creare righe `a`/`b` per i token multiparola.
+Alla rigenerazione `make_patch.py` riporta tutto nel `wip/` (stampa `Riportate in <codice>.csv le modifiche …`) e rigenera patch, recap e review.
 
 [WARNING]
 ====
-Righe aggiunte, eliminate o riordinate nel review *non* vengono riportate: lo script stampa `righe o colonne cambiate, modifiche NON riportate in wip` e *riscrive il review dal `wip/`, perdendo le tue modifiche*.
-Prima di rigenerare, fai una copia del review.
-Le unioni e le eliminazioni di token (es. `elle` + `due` → `elledue`) si fanno nel `wip/<modulo>/<codice>.csv`, non nel review.
+Non modificare lo stesso file contemporaneamente in `wip/` e nel review.
+Se il `wip/` è cambiato dopo la generazione del review *e* nel review hai cambiato le righe, le due versioni non si possono unire: lo script stampa `ERRORE … NON riportate` e non tocca né il review né il `wip/` (nessun lavoro va perso).
+In questo caso porta a mano le modifiche in un solo dei due file e rigenera il review.
+Se hai cambiato solo celle, le due versioni si uniscono cella per cella (se la stessa cella è cambiata in entrambi vince il `wip/` e viene segnalato un `CONFLITTO`).
 ====
+
+Le righe con `FAIL` o `WARN` e le voci `[ ]` del recap indicano cosa guardare:
+
+* `WARN`: forma non derivabile dallo span; `overlaps`/`prolongations` di un token eliminato da riassegnare a mano nel TSV dopo l'applicazione;
+* `FAIL`: token_id duplicato nel CSV (da correggere); oppure conflitto di timestamp su un token eliminato (avviso, non blocca la patch: i timestamp del token eliminato si perdono).
 
 Dopo ogni correzione rilancia il comando del passo 1 finché il recap indica *0 da verificare*.
 Se il recap segnala cose strane nei dati (es. un token duplicato dopo un'aggiunta, `rispetto a quel quel programma`), correggi il `wip/` e rigenera.
