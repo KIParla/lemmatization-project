@@ -9,15 +9,42 @@
  81-0	BO026	81	0	[lingua	lingua	_	_	_	_	_	linguistic	_	_	_	Begin=143.175	_	_	_	0-6(26)
  81-1	BO026	81	1	spagnola	spagnola	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-8(26)
  81-2	BO026	81	2	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	0-2(26)
-@@ -1400,7 +1400,7 @@
+@@ -1089,7 +1089,7 @@
+ 172-3	BO038	172	3	a::	a	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	0x2	_	_	_
+ 172-4	BO038	172	4	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 172-5	BO038	172	5	sull'	sull'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+-172-6	BO038	172	6	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++172-6	BO038	172	6	a~	a~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
+ 172-7	BO038	172	7	sull'	sull'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+ 172-8	BO038	172	8	ammissione	ammissione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 172-9	BO038	172	9	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
+@@ -1400,9 +1400,9 @@
  217-6	BO038	217	6	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  217-7	BO038	217	7	con,	con	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
  217-8	BO038	217	8	cioè	cioè	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 -217-9	BO038	217	9	integibilities	integibilities	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-+217-9	BO038	217	9	intelligibility	intelligibility	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
- 217-10	BO038	217	10	of	of	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
- 217-11	BO038	217	11	englishes	englishes	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-217-10	BO038	217	10	of	of	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-217-11	BO038	217	11	englishes	englishes	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++217-9	BO038	217	9	intelligibility	intelligibility	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++217-10	BO038	217	10	of	of	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++217-11	BO038	217	11	englishes	englishes	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
  217-12	BO038	217	12	comunque	comunque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 217-13	BO038	217	13	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 217-14	BO038	217	14	interes[sante	interessante	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	7-12(82)
+@@ -1430,10 +1430,10 @@
+ 219-9	BO026	219	9	un	un	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
+ 219-10	BO026	219	10	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+ 219-11	BO026	219	11	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-219-12	BO026	219	12	lear[ning]	learning	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	4-8(84)
++219-12	BO026	219	12	lear[ning]	learning	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	4-8(84)
+ 219-13	BO026	219	13	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-219-14	BO026	219	14	learning	learning	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-219-15	BO026	219	15	agreement	agreement	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++219-14	BO026	219	14	learning	learning	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++219-15	BO026	219	15	agreement	agreement	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+ 219-16	BO026	219	16	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 219-17	BO026	219	17	può	può	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 219-18	BO026	219	18	essere	essere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 @@ -1589,7 +1589,7 @@
  238-1	BO039	238	1	dei	dei	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  238-2	BO039	238	2	po~	po~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
@@ -97,6 +124,21 @@
  249-0	BO039	249	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=522.711|End=522.928	_	_	_	0-2(101)
  250-0	BO026	250	0	[°mh.°]	mh	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Volume=Low	Begin=523.03|End=523.289	_	_	_	0-2(102)
  251-0	BO026	251	0	sì.	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=529.165|End=529.511	_	_	_	_
+@@ -1709,10 +1709,10 @@
+ 252-9	BO038	252	9	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 252-10	BO038	252	10	dipartimento	dipartimento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 252-11	BO038	252	11	di::	di	_	_	_	_	_	linguistic	_	_	_	_	1x2	_	_	_
+-252-12	BO038	252	12	german	german	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-252-13	BO038	252	13	and	and	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-252-14	BO038	252	14	rom[ance	romance	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	3-7(104)
+-252-15	BO038	252	15	studies].	studies	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=535.937	_	_	_	0-7(104)
++252-12	BO038	252	12	german	german	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++252-13	BO038	252	13	and	and	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++252-14	BO038	252	14	rom[ance	romance	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	3-7(104)
++252-15	BO038	252	15	studies].	studies	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Lang=en	End=535.937	_	_	_	0-7(104)
+ 253-0	BO026	253	0	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=530.978|End=531.243	_	_	_	0-2(103)
+ 254-0	BO026	254	0	[verificatelo]	verificatelo	_	_	_	_	_	linguistic	_	_	_	Begin=535.07	_	_	_	0-12(104)
+ 254-1	BO026	254	1	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 @@ -1875,7 +1875,7 @@
  276-3	BO026	276	3	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  276-4	BO026	276	4	materia	materia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -138,6 +180,32 @@
  299-0	BO039	299	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=631.466	_	_	_	_
  299-1	BO039	299	1	leggendo	leggendo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  299-2	BO039	299	2	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2163,16 +2162,16 @@
+ 308-7	BO039	308	7	tema,	tema	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=669.71	_	_	_	_
+ 309-0	BO039	309	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=670.001	_	_	_	_
+ 309-1	BO039	309	1	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-309-2	BO039	309	2	writing	writing	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-309-3	BO039	309	3	and	and	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-309-4	BO039	309	4	foreign	foreign	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-309-5	BO039	309	5	language,	language	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=672.039	_	_	_	_
++309-2	BO039	309	2	writing	writing	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++309-3	BO039	309	3	and	and	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++309-4	BO039	309	4	foreign	foreign	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++309-5	BO039	309	5	language,	language	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|Lang=en	End=672.039	_	_	_	_
+ 310-0	BO039	310	0	e::h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=672.516	0x2	_	_	_
+-310-1	BO039	310	1	plus	plus	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-310-2	BO039	310	2	cross	cross	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-310-3	BO039	310	3	cultural	cultural	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-310-4	BO039	310	4	and	and	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-310-5	BO039	310	5	pragmatics.	pragmatics	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=675.675	_	_	_	_
++310-1	BO039	310	1	plus	plus	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++310-2	BO039	310	2	cross	cross	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++310-3	BO039	310	3	cultural	cultural	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++310-4	BO039	310	4	and	and	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++310-5	BO039	310	5	pragmatics.	pragmatics	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Lang=en	End=675.675	_	_	_	_
+ 311-0	BO026	311	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=676.763	_	_	_	_
+ 311-1	BO026	311	1	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 311-2	BO026	311	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 @@ -2191,8 +2190,9 @@
  312-1	BO039	312	1	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	0-2(126)
  312-2	BO039	312	2	no<	no	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-2(0)	_	0-2(126)
@@ -150,6 +218,17 @@
  313-0	BO039	313	0	nel	nel	_	_	_	_	_	linguistic	_	_	_	Begin=682.021	_	_	_	_
  313-1	BO039	313	1	dipartimen[to	dipartimento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	10-12(127)
  313-2	BO039	313	2	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	0-2(127)
+@@ -2394,8 +2394,8 @@
+ 342-2	BO039	342	2	scelto	scelto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 342-3	BO039	342	3	qui	qui	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
+ 342-4	BO039	342	4	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+-342-5	BO039	342	5	humanitarian	humanitarian	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-342-6	BO039	342	6	communication,	communication	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=750.253	_	_	_	_
++342-5	BO039	342	5	humanitarian	humanitarian	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++342-6	BO039	342	6	communication,	communication	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|Lang=en	End=750.253	_	_	_	_
+ 343-0	BO039	343	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=750.495	_	_	_	_
+ 343-1	BO039	343	1	leggendo	leggendo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 343-2	BO039	343	2	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 @@ -2406,9 +2406,7 @@
  343-7	BO039	343	7	sull'	sull'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
  343-8	BO039	343	8	organizzazione	organizzazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -161,6 +240,32 @@
  344-0	BO026	344	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=756.013	_	_	_	_
  344-1	BO026	344	1	lì	lì	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
  344-2	BO026	344	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
+@@ -2429,9 +2427,9 @@
+ 345-12	BO039	345	12	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 345-13	BO039	345	13	media	media	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 345-14	BO039	345	14	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-345-15	BO039	345	15	language	language	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-345-16	BO039	345	16	and	and	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-345-17	BO039	345	17	communication	communication	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++345-15	BO039	345	15	language	language	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++345-16	BO039	345	16	and	and	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++345-17	BO039	345	17	communication	communication	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
+ 345-18	BO039	345	18	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 345-19	BO039	345	19	molti	molti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 345-20	BO039	345	20	esami	esami	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+@@ -2439,9 +2437,9 @@
+ 345-22	BO039	345	22	questo,	questo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=764.07	_	_	_	_
+ 346-0	BO039	346	0	ci	ci	_	_	_	_	_	linguistic	_	_	_	Begin=764.259	_	_	_	_
+ 346-1	BO039	346	1	sarebbe	sarebbe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-346-2	BO039	346	2	digital	digital	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-346-3	BO039	346	3	strategic	strategic	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-346-4	BO039	346	4	communication.	communication	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=766.976	_	_	_	_
++346-2	BO039	346	2	digital	digital	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++346-3	BO039	346	3	strategic	strategic	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
++346-4	BO039	346	4	communication.	communication	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Lang=en	End=766.976	_	_	_	_
+ 347-0	BO039	347	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=767.184	_	_	_	_
+ 347-1	BO039	347	1	però	però	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 347-2	BO039	347	2	vedendo	vedendo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 @@ -2456,9 +2454,7 @@
  347-11	BO039	347	11	proprio	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  347-12	BO039	347	12	specificamente	specificamente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
