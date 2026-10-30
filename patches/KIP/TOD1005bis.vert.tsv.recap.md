@@ -1,5 +1,5 @@
 # Patch recap — TOD1005bis.vert.tsv
-CSV `TOD1005bis.csv` · 2026-10-27 · 286 modifiche · 40 eliminazioni · 37 aggiunte · **107 da verificare** (3 conflitti)
+CSV `TOD1005bis.csv` · 2026-10-30 · 287 modifiche · 41 eliminazioni · 37 aggiunte · **109 da verificare** (4 conflitti)
 
 - [ ] `5-1` mod form `altrim~` → `altrimenti` — ⚠️ forma non derivabile dallo span — verifica manuale
 - [ ] `11-3` mod form `richierebbe` → `richiederebbe` — ⚠️ forma non derivabile dallo span — verifica manuale
@@ -67,6 +67,8 @@ CSV `TOD1005bis.csv` · 2026-10-27 · 286 modifiche · 40 eliminazioni · 37 agg
 - [x] `327-5` mod span `pre-islamico?` → `preislamico?` · form `pre-islamico` → `preislamico`
 - [x] `331-2` mod `seice~` → `seicentonovantadue` — jefferson_feats: `Interrupted=Yes` → `_`
 - [ ] `332-0` del `~ntonovantadue` — speaker: `??` · type: `linguistic` · jefferson_feats: `Interrupted=Yes` · align: `Begin=812.187|End=813.329` · ❌ End conflict: End=813.329 but `331-2` already has End=812.072 · ❌ Begin=812.187 conflict: `333-0` already has Begin=813.329 · nel CSV vicino a `331-2`
+- [ ] `333-2` mod form `seicento` → `seicentodieci` — ⚠️ forma non derivabile dallo span — verifica manuale
+- [ ] `334-0` del span `dieci,` · form `dieci` — speaker: `TO017` · type: `linguistic` · jefferson_feats: `Intonation=WeaklyRising` · align: `Begin=816.48|End=816.91` · ❌ End conflict: End=816.91 but `333-2` already has End=814.721 · ❌ Begin=816.48 conflict: `335-0` already has Begin=816.974 · nel CSV vicino a `333-2`
 - [ ] `336-3` mod form `caledario` → `calendario` — ⚠️ forma non derivabile dallo span — verifica manuale
 - [x] `341-0` mod span `islamico` → `=islamico`
 - [ ] `342-2` mod form `pri~` → `prima` — ⚠️ forma non derivabile dallo span — verifica manuale

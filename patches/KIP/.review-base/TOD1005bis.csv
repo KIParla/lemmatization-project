@@ -1577,7 +1577,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 246-0,TO017,246,246,1,invece,invece,invece,ADV,_,_
 246-1,TO017,246,246,2,che,che,che,DET,_,_
 246-2,TO017,246,246,3,cos',cos',cosa,PRON,_,SpaceAfter=No
-246-3,TO017,246,246,4,è,è,essere,VERB,_,_
+246-3,TO017,246,246,4,è,è,essere,AUX,_,_
 246-4,TO017,246,246,5,l',l',il,DET,_,SpaceAfter=No
 246-5,TO017,246,246,6,"arabo,",arabo,arabo,NOUN,_,_
 246-6,TO017,246,246,7,l',l',il,DET,_,SpaceAfter=No
@@ -1677,7 +1677,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 266-6,TO017,266,266,7,lingua,lingua,lingua,NOUN,_,_
 266-7,TO017,266,266,8,araba.,araba,araba,ADJ,_,_
 267-0,TO017,267,267,1,o,o,o,CCONJ,_,_
-267-1,TO017,267,267,2,qual,qual,quale,PRON,_,_
+267-1,TO017,267,267,2,qual,qual,quale,ADV,_,_
 267-2,TO017,267,267,3,è,è,essere,AUX,_,_
 267-3,TO017,267,267,4,la,la,il,DET,_,_
 267-4,TO017,267,267,5,prima,prima,primo,NUM,_,_
@@ -2107,8 +2107,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 331-2,???,331,331,3,seicentonovantadue,seicentonovantadue,seicentonovantadue,X,_,_
 333-0,TO017,333,333,1,prima,prima,primo,ADJ,_,_
 333-1,TO017,333,333,2,"sura,",sura,sura,NOUN,_,_
-333-2,TO017,333,333,3,"seicento,",seicento,seicento,NUM,_,_
-334-0,TO017,334,334,1,"dieci,",dieci,dieci,NUM,_,_
+333-2,TO017,333,333,3,"seicento,",seicentodieci,seicentodieci,NUM,_,_
 335-0,???,335,335,1,dieci.,dieci,dieci,NUM,_,_
 336-0,TO017,336,336,1,dopo,dopo,dopo,ADV,_,_
 336-1,TO017,336,336,2,cristo,cristo,Cristo,PROPN,_,_
@@ -3957,7 +3956,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 587-0,TO017,587,587,1,quindi,quindi,quindi,CCONJ,_,_
 587-1,TO017,587,587,2,è,è,essere,AUX,_,_
 587-2,TO017,587,587,3,di,di,di,ADP,_,_
-587-3,TO017,587,587,4,nuovo,nuovo,nuovo,ADV,_,_
+587-3,TO017,587,587,4,nuovo,nuovo,nuovo,ADJ,_,_
 587-4,TO017,587,587,_,(.),[PAUSE],[PAUSE],X,_,_
 587-8,TO017,587,587,_,_,è,essere,AUX,_,_
 587-5,TO017,587,587,6,scritto,scritto,scrivere,VERB,_,_
@@ -4242,7 +4241,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 635-4,TO017,635,635,5,antichi,antichi,antico,ADJ,_,_
 635-5,TO017,635,635,6,regni::,regni,regno,NOUN,_,_
 635-6,TO017,635,635,7,sudarabici.,sudarabici,sudarabico,ADJ,_,_
-636-0,TO017,636,636,1,che,che,che,SCONJ,_,_
+636-0,TO017,636,636,1,che,che,che,PRON,_,_
 637-0,TO017,637,637,1,alcuni,alcuni,alcuno,PRON,_,_
 637-1,TO017,637,637,2-3,dei,dei,_,_,_,_
 637-1a,_,_,637,2,_,di,di,ADP,_,_
@@ -5703,7 +5702,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 872-4,TO017,872,872,5,erano,erano,essere,AUX,_,_
 872-5,TO017,872,872,6,queste,queste,questo,PRON,_,_
 872-6,TO017,872,872,7,le::,le,il,DET,_,_
-872-7,TO017,872,872,8,il~,il,il,X,_,_
+872-7,TO017,872,872,8,il~,il,il,DET,_,_
 872-8,TO017,872,872,9,di,di,di,X,_,_
 873-0,TO017,873,873,10,tenore,tenore,tenore,NOUN,_,_
 873-1,TO017,873,873,11-12,delle,delle,_,_,_,_
@@ -6440,8 +6439,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 970-7,TO017,970,970,8,"vecchie,",vecchie,vecchio,ADJ,_,_
 971-0,TO017,971,971,1,(allora),al,_,_,_,_
 971-0a,_,_,971,_,_,a,a,ADV,_,_
-971-0b,_,_,971,_,_,il,il,ADV,_,_
-971-1,TO017,971,971,2,primo,primo,primo,ADJ,_,_
+971-0b,_,_,971,_,_,il,il,DET,_,_
+971-1,TO017,971,971,2,primo,primo,primo,NUM,_,_
 971-2,TO017,971,971,3,"secolo,",secolo,secolo,NOUN,_,_
 972-0,TO017,972,972,4,avanti,avanti,avanti,ADV,_,_
 972-1,TO017,972,972,5,"cristo,",cristo,Cristo,PROPN,_,_
@@ -6501,7 +6500,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 981-7,TO017,981,981,8,è,è,essere,AUX,_,_
 981-8,TO017,981,981,9,più,più,più,ADV,_,_
 981-9,TO017,981,981,10,vecchia.,vecchia,vecchio,ADJ,_,_
-982-0,TO017,982,982,1,che,che,che,PRON,_,_
+982-0,TO017,982,982,1,che,che,che,SCONJ,_,_
 982-1,TO017,982,982,2,si,si,si,PRON,_,_
 982-2,TO017,982,982,3,<pensa>,pensa,pensare,VERB,_,_
 983-0,TO017,983,983,1,il~,il~,il~,X,_,_
@@ -7115,7 +7114,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1082-9,TO017,1082,1082,11,civiltà,civiltà,civiltà,NOUN,_,_
 1082-10,TO017,1082,1082,12,sedentarie>.,sedentarie,sedentario,ADJ,_,_
 1083-0,TO017,1083,1083,1,"okay,",okay,okay,INTJ,_,_
-1084-0,TO017,1084,1084,1,dove,dove,dove,PRON,_,_
+1084-0,TO017,1084,1084,1,dove,dove,dove,ADV,_,_
 1084-1,TO017,1084,1084,2,non,non,non,ADV,_,_
 1084-2,TO017,1084,1084,3,è,è,essere,AUX,_,_
 1084-3,TO017,1084,1084,4,"verde,",verde,verde,ADJ,_,_

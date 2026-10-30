@@ -1,5 +1,5 @@
 token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
-0-0,BO026,0,0,1,ha,ha,avere,VERB,_,_
+0-0,BO026,0,0,1,ha,ha,avere,AUX,_,_
 0-1,BO026,0,0,2,dimentica~,dimentica~,dimentica~,X,_,_
 0-2,BO026,0,0,3,ah,ah,ah,INTJ,_,_
 0-3,BO026,0,0,4,non,non,non,ADV,_,_
@@ -1178,7 +1178,6 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 143-3,BO026,143,143,4,essermi,essermi,_,_,_,_
 143-3a,_,_,143,_,_,esser,essere,AUX,_,_
 143-3b,_,_,143,_,_,mi,mi,PRON,_,_
-143-3,BO026,143,143,_,_,mi,mi,PRON,_,_
 143-4,BO026,143,143,5,imbattu]ta,imbattuta,imbattere,VERB,_,_
 143-5,BO026,143,143,6,in,in,in,ADP,_,_
 143-6,BO026,143,143,7,alcuni,alcuni,alcuno,DET,_,_
@@ -1222,7 +1221,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 147-8,BO037,147,147,9,sono,sono,essere,AUX,_,_
 147-9,BO037,147,147,10,stati,stati,essere,AUX,_,_
 147-10,BO037,147,147,11,scritti,scritti,scrivere,VERB,_,_
-147-11,BO037,147,147,12,dei,dei,dei,DET,_,_
+147-11,BO037,147,147,12,dei,dei,del,DET,_,_
 147-12,BO037,147,147,13,libri,libri,libro,NOUN,_,_
 147-13,BO037,147,147,14,proprio,proprio,proprio,ADV,_,_
 147-14,BO037,147,147,15,quasi,quasi,quasi,ADV,_,_
@@ -1457,7 +1456,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 172-14,BO026,172,172,15-16,glielo,glielo,_,_,_,_
 172-14a,_,_,172,15,_,glie,gli,PRON,_,_
 172-14b,_,_,172,16,_,lo,lo,PRON,_,_
-172-15,BO026,172,172,17,inoltro,inoltro,inoltro,PRON,_,_
+172-15,BO026,172,172,17,inoltro,inoltro,inoltrare,VERB,_,_
 172-16,BO026,172,172,18-19,glie[lo,glielo,_,_,_,_
 172-16a,_,_,172,18,_,glie,gli,PRON,_,_
 172-16b,_,_,172,19,_,lo,lo,PRON,_,_

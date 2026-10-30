@@ -451,7 +451,7 @@
  328-0	??	328	0	°seicento:,°	seicento	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|Volume=Low	Begin=806.162|End=806.937	7x1	_	_	_
  329-0	??	329	0	e:::h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=807.253	0x3	_	_	_
  329-1	??	329	1	xxx	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	End=808.781	_	_	_	_
-@@ -1945,8 +1935,7 @@
+@@ -1945,17 +1935,15 @@
  330-2	TO017	330	2	quindi?	quindi	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=810.853	_	_	_	_
  331-0	??	331	0	e::h	eh	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=811.029	0x2	_	_	_
  331-1	??	331	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
@@ -460,8 +460,10 @@
 +331-2	??	331	2	seicentonovantadue	seicentonovantadue	_	_	_	_	_	linguistic	_	_	_	End=812.072	_	_	_	_
  333-0	TO017	333	0	prima	prima	_	_	_	_	_	linguistic	_	_	_	Begin=813.329	_	_	_	_
  333-1	TO017	333	1	sura,	sura	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
- 333-2	TO017	333	2	seicento,	seicento	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=814.721	_	_	_	_
-@@ -1955,7 +1944,7 @@
+-333-2	TO017	333	2	seicento,	seicento	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=814.721	_	_	_	_
+-334-0	TO017	334	0	dieci,	dieci	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=816.48|End=816.91	_	_	_	_
++333-2	TO017	333	2	seicento,	seicentodieci	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=814.721	_	_	_	_
+ 335-0	??	335	0	dieci.	dieci	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=816.974|End=817.459	_	_	_	_
  336-0	TO017	336	0	dopo	dopo	_	_	_	_	_	linguistic	_	_	_	Begin=817.79	_	_	_	_
  336-1	TO017	336	1	cristo	cristo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  336-2	TO017	336	2	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -470,7 +472,7 @@
  337-0	TO017	337	0	gregoriano	gregoriano	_	_	_	_	_	linguistic	_	_	_	Begin=819.645	_	_	_	_
  337-1	TO017	337	1	(e)	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-1(0)	_
  337-2	TO017	337	2	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -1974,20 +1963,20 @@
+@@ -1974,20 +1962,20 @@
  340-2	TO017	340	2	corrispondenza	corrispondenza	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  340-3	TO017	340	3	col	col	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  340-4	TO017	340	4	calendario,	calendario	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=827.544	_	_	_	_
@@ -495,7 +497,7 @@
  342-12	TO017	342	12	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  342-13	TO017	342	13	grumo	grumo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  342-14	TO017	342	14	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -2057,14 +2046,20 @@
+@@ -2057,14 +2045,20 @@
  353-1	TO017	353	1	primi	primi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  353-2	TO017	353	2	quattro	quattro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  353-3	TO017	353	3	califfi,	califfi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
@@ -522,7 +524,7 @@
  357-0	TO017	357	0	okay	okay	_	_	_	_	_	linguistic	_	_	_	Begin=869.467	_	_	_	_
  357-1	TO017	357	1	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  357-2	TO017	357	2	diciamo	diciamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -2100,9 +2095,8 @@
+@@ -2100,9 +2094,8 @@
  359-13	TO017	359	13	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  359-14	TO017	359	14	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  359-15	TO017	359	15	periodo	periodo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -534,7 +536,7 @@
  360-0	TO017	360	0	eh,	eh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=878.811	_	_	_	_
  360-1	TO017	360	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  360-2	TO017	360	2	soltanto	soltanto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -2124,7 +2118,7 @@
+@@ -2124,7 +2117,7 @@
  362-0	TO017	362	0	okay,	okay	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=885.19|End=885.701	_	_	_	_
  363-0	TO017	363	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=886.398	_	_	_	_
  363-1	TO017	363	1	vediamo	vediamo	_	_	_	_	_	linguistic	_	_	_	End=887.206	_	_	_	_
@@ -543,7 +545,7 @@
  364-1	TO017	364	1	queste	queste	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  364-2	TO017	364	2	tre	tre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  364-3	TO017	364	3	fasi	fasi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -2173,7 +2167,7 @@
+@@ -2173,7 +2166,7 @@
  373-1	TO017	373	1	iscrizione	iscrizione	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
  373-2	TO017	373	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
  373-3	TO017	373	3	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -552,7 +554,7 @@
  374-0	TO017	374	0	è	è	_	_	_	_	_	linguistic	_	_	_	Begin=914.246	_	_	_	_
  374-1	TO017	374	1	datata	datata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  374-2	TO017	374	2	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -2181,7 +2175,7 @@
+@@ -2181,7 +2174,7 @@
  375-0	TO017	375	0	mi	mi	_	_	_	_	_	linguistic	_	_	_	Begin=916.335	_	_	_	_
  375-1	TO017	375	1	sem:bra.	sembra	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=917.202	2x1	_	_	_
  376-0	TO017	376	0	°avanti°	avanti	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=917.365	_	_	_	_
@@ -561,7 +563,7 @@
  376-2	TO017	376	2	dopo	dopo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  376-3	TO017	376	3	cristo.	cristo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=918.956	_	_	_	_
  377-0	TO017	377	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=919.47	_	_	_	_
-@@ -2193,7 +2187,7 @@
+@@ -2193,7 +2186,7 @@
  379-2	TO017	379	2	(le)	le	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	0-2(0)	_
  379-3	TO017	379	3	iscrizione°	iscrizione	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
  379-4	TO017	379	4	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -570,7 +572,7 @@
  379-6	TO017	379	6	non:	non	_	_	_	_	_	linguistic	_	_	_	_	2x1	_	_	_
  379-7	TO017	379	7	state	state	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  379-8	TO017	379	8	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -2257,20 +2251,19 @@
+@@ -2257,20 +2250,19 @@
  390-4	TO017	390	4	risalire	risalire	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  390-5	TO017	390	5	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  390-6	TO017	390	6	nostro	nostro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -604,7 +606,7 @@
  391-0	TO017	391	0	perché.	perché	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=966.459	_	_	_	_
  391-1	TO017	391	1	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  391-2	TO017	391	2	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -2477,8 +2470,8 @@
+@@ -2477,8 +2469,8 @@
  414-10	TO017	414	10	caso	caso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  414-11	TO017	414	11	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  414-12	TO017	414	12	iscrizioni	iscrizioni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -615,7 +617,7 @@
  415-0	TO017	415	0	poteva	poteva	_	_	_	_	_	linguistic	_	_	_	Begin=1058.662	_	_	_	_
  415-1	TO017	415	1	essere	essere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  415-2	TO017	415	2	uno	uno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -2500,12 +2493,8 @@
+@@ -2500,12 +2492,8 @@
  416-2	TO017	416	2	>miau	miau	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
  416-3	TO017	416	3	miau	miau	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
  416-4	TO017	416	4	miau	miau	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-4(0)	_	_
@@ -630,7 +632,7 @@
  417-0	TO017	417	0	cose	cose	_	_	_	_	_	linguistic	_	_	_	Begin=1066.392	_	_	_	_
  417-1	TO017	417	1	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  417-2	TO017	417	2	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -2551,8 +2540,8 @@
+@@ -2551,8 +2539,8 @@
  421-5	TO017	421	5	del	del	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  421-6	TO017	421	6	passato,	passato	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1081.19	_	_	_	_
  422-0	??	422	0	xxx	xxx	_	_	_	_	_	unknown	_	_	Syllables=3	Begin=1081.705|End=1083.64	_	_	_	_
@@ -641,7 +643,7 @@
  423-2	TO017	423	2	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  423-3	TO017	423	3	poesia	poesia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  423-4	TO017	423	4	okay.	okay	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
-@@ -2625,15 +2614,14 @@
+@@ -2625,15 +2613,14 @@
  432-3	TO017	432	3	proprio	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  432-4	TO017	432	4	fortuna	fortuna	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  432-5	TO017	432	5	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -665,7 +667,7 @@
  434-0	TO017	434	0	poi	poi	_	_	_	_	_	linguistic	_	_	_	Begin=1121.334	_	_	_	_
  434-1	TO017	434	1	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  434-2	TO017	434	2	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-@@ -2644,7 +2632,7 @@
+@@ -2644,7 +2631,7 @@
  434-7	TO017	434	7	usare,	usare	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1124.056	_	_	_	_
  435-0	TO017	435	0	a	a	_	_	_	_	_	linguistic	_	_	_	Begin=1124.353	_	_	_	_
  435-1	TO017	435	1	qualcuno	qualcuno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -674,7 +676,7 @@
  435-3	TO017	435	3	viene	viene	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  435-4	TO017	435	4	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
  435-5	TO017	435	5	altra	altra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -2656,9 +2644,9 @@
+@@ -2656,9 +2643,9 @@
  436-4	TO017	436	4	massimo	massimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  436-5	TO017	436	5	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  436-6	TO017	436	6	dici	dici	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -686,7 +688,7 @@
  436-10	TO017	436	10	(albicocche)	albicocche	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-10(0)	_
  436-11	TO017	436	11	no	no	_	_	_	_	_	linguistic	_	_	_	End=1133.071	_	_	_	_
  437-0	TO017	437	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=1133.726	_	_	_	_
-@@ -2692,7 +2680,8 @@
+@@ -2692,7 +2679,8 @@
  440-6	TO017	440	6	corano	corano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  440-7	TO017	440	7	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  440-8	TO017	440	8	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -696,7 +698,7 @@
  441-0	TO017	441	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1150.287	_	_	_	_
  441-1	TO017	441	1	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  441-2	TO017	441	2	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
-@@ -2769,10 +2758,9 @@
+@@ -2769,10 +2757,9 @@
  451-2	TO017	451	2	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  451-3	TO017	451	3	chiama	chiama	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  451-4	TO017	451	4	solo	solo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -709,7 +711,7 @@
  454-0	TO017	454	0	e::h,	eh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=1186.948|End=1187.393	0x2	_	_	_
  455-0	TO017	455	0	(lo)	lo	_	_	_	_	_	linguistic	_	_	_	Begin=1193.776	_	_	0-2(0)	_
  455-1	TO017	455	1	potete	potete	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -2782,7 +2770,7 @@
+@@ -2782,7 +2769,7 @@
  455-5	TO017	455	5	diciottomila	diciottomila	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  455-6	TO017	455	6	modi	modi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  455-7	TO017	455	7	diversi,	diversi	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
@@ -718,7 +720,7 @@
  455-9	TO017	455	9	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  455-10	TO017	455	10	tra	tra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  455-11	TO017	455	11	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-@@ -2793,7 +2781,7 @@
+@@ -2793,7 +2780,7 @@
  456-1	TO017	456	1	era	era	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
  456-2	TO017	456	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
  456-3	TO017	456	3	eh,	eh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1199.961	_	_	_	_
@@ -727,7 +729,7 @@
  458-0	TO017	458	0	per	per	_	_	_	_	_	linguistic	_	_	_	Begin=1202.198	_	_	_	_
  458-1	TO017	458	1	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  458-2	TO017	458	2	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -2971,33 +2959,31 @@
+@@ -2971,33 +2958,31 @@
  482-0	TO017	482	0	il	il	_	_	_	_	_	linguistic	_	_	_	Begin=1274.558	_	_	_	_
  482-1	TO017	482	1	monolito	monolito	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  482-2	TO017	482	2	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -781,7 +783,7 @@
  486-0	TO017	486	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=1286.45	_	_	_	_
  486-1	TO017	486	1	comunque	comunque	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  486-2	TO017	486	2	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -3008,13 +2994,12 @@
+@@ -3008,13 +2993,12 @@
  486-7	TO017	486	7	quelli	quelli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  486-8	TO017	486	8	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  486-9	TO017	486	9	parlavano	parlavano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -801,7 +803,7 @@
  487-0	TO017	487	0	e	e	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=1291.368	_	_	_	_
  487-1	TO017	487	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
  487-2	TO017	487	2	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -3027,10 +3012,10 @@
+@@ -3027,10 +3011,10 @@
  488-4	TO017	488	4	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  488-5	TO017	488	5	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  488-6	TO017	488	6	certo	certo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -814,7 +816,7 @@
  490-0	TO017	490	0	anche	anche	_	_	_	_	_	linguistic	_	_	_	Begin=1298.462	_	_	_	_
  490-1	TO017	490	1	qua	qua	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
  490-2	TO017	490	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-@@ -3052,7 +3037,7 @@
+@@ -3052,7 +3036,7 @@
  492-6	TO017	492	6	pronuncia	pronuncia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  492-7	TO017	492	7	esatta	esatta	_	_	_	_	_	linguistic	_	_	_	End=1305.312	_	_	_	_
  493-0	TO017	493	0	comunque	comunque	_	_	_	_	_	linguistic	_	_	_	Begin=1306.043	_	_	_	_
@@ -823,7 +825,7 @@
  493-2	TO017	493	2	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
  493-3	TO017	493	3	arabo,	arabo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1307.7	_	_	_	_
  494-0	TO017	494	0	è	è	_	_	_	_	_	linguistic	_	_	_	Begin=1308.056	_	_	_	_
-@@ -3061,7 +3046,7 @@
+@@ -3061,7 +3045,7 @@
  494-3	TO017	494	3	questa	questa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  494-4	TO017	494	4	battaglia,	battaglia	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1309.5	_	_	_	_
  495-0	TO017	495	0	di	di	_	_	_	_	_	linguistic	_	_	_	Begin=1309.718	_	_	_	_
@@ -832,7 +834,7 @@
  495-2	TO017	495	2	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  495-3	TO017	495	3	nord	nord	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  495-4	TO017	495	4	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -3076,21 +3061,23 @@
+@@ -3076,21 +3060,23 @@
  497-3	TO017	497	3	st:erminato.	sterminato	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	1x1	_	_	_
  497-4	TO017	497	4	dal	dal	_	_	_	_	_	linguistic	_	_	_	End=1315.485	_	_	_	_
  498-0	TO017	498	0	potentissimo	potentissimo	_	_	_	_	_	linguistic	_	_	_	Begin=1315.743	_	_	_	_
@@ -866,7 +868,7 @@
  500-6	TO017	500	6	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  500-7	TO017	500	7	traduzione	traduzione	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
  500-8	TO017	500	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-@@ -3106,24 +3093,22 @@
+@@ -3106,24 +3092,22 @@
  502-3	TO017	502	3	stato	stato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  502-4	TO017	502	4	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  502-5	TO017	502	5	trovato	trovato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -901,7 +903,7 @@
  503-1	TO017	503	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
  503-2	TO017	503	2	e:::h	eh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	0x3	_	_	_
  503-3	TO017	503	3	mh.	mh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1336.669	_	_	_	_
-@@ -3148,8 +3133,8 @@
+@@ -3148,8 +3132,8 @@
  507-4	TO017	507	4	nord	nord	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  507-5	TO017	507	5	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  507-6	TO017	507	6	siria	siria	_	_	_	_	_	linguistic	_	_	_	End=1345.243	_	_	_	_
@@ -912,7 +914,7 @@
  508-2	TO017	508	2	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  508-3	TO017	508	3	(allora)	allora	_	_	_	_	_	linguistic	_	_	_	End=1346.899	_	_	0-6(0)	_
  509-0	TO017	509	0	da	da	_	_	_	_	_	linguistic	_	_	_	Begin=1347.256	_	_	_	_
-@@ -3166,7 +3151,7 @@
+@@ -3166,7 +3150,7 @@
  510-1	TO017	510	1	senso	senso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  510-2	TO017	510	2	che	che	_	_	_	_	_	linguistic	_	_	_	End=1350.487	_	_	_	_
  511-0	TO017	511	0	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=1351.328	_	_	_	_
@@ -921,7 +923,7 @@
  511-2	TO017	511	2	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  511-3	TO017	511	3	tipo	tipo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  511-4	TO017	511	4	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -3175,7 +3160,7 @@
+@@ -3175,7 +3159,7 @@
  511-7	TO017	511	7	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
  511-8	TO017	511	8	arabo.	arabo	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1353.209	_	_	_	_
  512-0	TO017	512	0	però	però	_	_	_	_	_	linguistic	_	_	_	Begin=1353.333	_	_	_	_
@@ -930,7 +932,7 @@
  512-2	TO017	512	2	potete	potete	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  512-3	TO017	512	3	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  512-4	TO017	512	4	chiamare	chiamare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -3211,8 +3196,8 @@
+@@ -3211,8 +3195,8 @@
  516-8	TO017	516	8	matteo	matteo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  516-9	TO017	516	9	è:	è	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
  516-10	TO017	516	10	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -941,7 +943,7 @@
  517-1	TO017	517	1	fra	fra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  517-2	TO017	517	2	duemila	duemila	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  517-3	TO017	517	3	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -3227,7 +3212,7 @@
+@@ -3227,7 +3211,7 @@
  518-5	TO017	518	5	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  518-6	TO017	518	6	matteo	matteo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  518-7	TO017	518	7	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -950,7 +952,7 @@
  518-9	TO017	518	9	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  518-10	TO017	518	10	invece	invece	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  518-11	TO017	518	11	no.	no	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1368.588	_	_	_	_
-@@ -3247,7 +3232,7 @@
+@@ -3247,7 +3231,7 @@
  519-13	TO017	519	13	parlasse	parlasse	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
  519-14	TO017	519	14	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
  519-15	TO017	519	15	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -959,7 +961,7 @@
  520-0	TO017	520	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=1374.03	_	_	_	_
  520-1	TO017	520	1	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  520-2	TO017	520	2	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -3284,16 +3269,17 @@
+@@ -3284,16 +3268,17 @@
  526-4	TO017	526	4	fonti	fonti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  526-5	TO017	526	5	su	su	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  526-6	TO017	526	6	pietra	pietra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -987,7 +989,7 @@
  527-0	TO017	527	0	con	con	_	_	_	_	_	linguistic	_	_	_	Begin=1392.838	_	_	_	_
  527-1	TO017	527	1	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  527-2	TO017	527	2	carbonio	carbonio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -3314,7 +3300,7 @@
+@@ -3314,7 +3299,7 @@
  528-13	TO017	528	13	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  528-14	TO017	528	14	qualcuno	qualcuno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  528-15	TO017	528	15	potete	potete	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -996,7 +998,7 @@
  528-17	TO017	528	17	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  528-18	TO017	528	18	pezzettino,	pezzettino	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1400.233	_	_	_	_
  529-0	TO017	529	0	fare	fare	_	_	_	_	_	linguistic	_	_	_	Begin=1400.399	_	_	_	_
-@@ -3438,9 +3424,9 @@
+@@ -3438,9 +3423,9 @@
  550-2	TO017	550	2	eh	eh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  550-3	TO017	550	3	scusate	scusate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  550-4	TO017	550	4	milleseicento	milleseicento	_	_	_	_	_	linguistic	_	_	_	End=1449.498	_	_	_	_
@@ -1008,7 +1010,7 @@
  551-3	TO017	551	3	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  551-4	TO017	551	4	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  551-5	TO017	551	5	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -3448,26 +3434,26 @@
+@@ -3448,26 +3433,26 @@
  551-7	TO017	551	7	prima	prima	_	_	_	_	_	linguistic	_	_	_	End=1453.266	_	_	_	_
  552-0	TO017	552	0	e::h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1453.343|End=1453.825	0x2	_	_	_
  553-0	TO017	553	0	della	della	_	_	_	_	_	linguistic	_	_	_	Begin=1454.187|End=1454.843	_	_	_	_
@@ -1053,7 +1055,7 @@
  555-0	TO017	555	0	della	della	_	_	_	_	_	linguistic	_	_	_	Begin=1460.431	_	_	_	_
  555-1	TO017	555	1	lingua	lingua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  555-2	TO017	555	2	araba.	araba	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
-@@ -3475,28 +3461,28 @@
+@@ -3475,28 +3460,28 @@
  556-0	TO017	556	0	(da)	da	_	_	_	_	_	linguistic	_	_	_	Begin=1463.064	_	_	0-2(0)	_
  556-1	TO017	556	1	passato,	passato	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1464.123	_	_	_	_
  557-0	TO017	557	0	remoto.	remoto	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1464.32|End=1464.902	_	_	_	_
@@ -1104,7 +1106,7 @@
  558-22	TO017	558	22	terzo,	terzo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1473.637	_	_	_	_
  559-0	TO017	559	0	anche	anche	_	_	_	_	_	linguistic	_	_	_	Begin=1474.315	_	_	_	_
  559-1	TO017	559	1	qua	qua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -3608,7 +3594,7 @@
+@@ -3608,7 +3593,7 @@
  571-12	TO017	571	12	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  571-13	TO017	571	13	<s:acco>	sacco	_	_	_	_	_	linguistic	_	_	_	_	0x1	Slow=0-5(0)	_	_
  571-14	TO017	571	14	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1113,7 +1115,7 @@
  571-16	TO017	571	16	fa.	fa	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1512.756	_	_	_	_
  572-0	TO017	572	0	quest~	quest~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=1513.691	_	_	_	_
  572-1	TO017	572	1	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -3630,9 +3616,9 @@
+@@ -3630,9 +3615,9 @@
  575-1	TO017	575	1	cammelli>	cammelli	_	_	_	_	_	linguistic	_	_	_	End=1522.149	_	Slow=0-8(0)	_	_
  576-0	TO017	576	0	okay,	okay	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=1522.343|End=1522.957	_	_	_	_
  577-0	TO017	577	0	ora	ora	_	_	_	_	_	linguistic	_	_	_	Begin=1523.262|End=1523.818	_	_	_	_
@@ -1125,7 +1127,7 @@
  580-0	TO017	580	0	sono	sono	_	_	_	_	_	linguistic	_	_	_	Begin=1525.993	_	_	_	_
  580-1	TO017	580	1	due	due	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  580-2	TO017	580	2	parole	parole	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -3643,10 +3629,10 @@
+@@ -3643,10 +3628,10 @@
  580-7	TO017	580	7	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  580-8	TO017	580	8	arabo	arabo	_	_	_	_	_	linguistic	_	_	_	End=1527.849	_	_	_	_
  581-0	TO017	581	0	okay,	okay	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=1527.9|End=1528.267	_	_	_	_
@@ -1138,7 +1140,7 @@
  585-0	TO017	585	0	vitello	vitello	_	_	_	_	_	linguistic	_	_	_	Begin=1531.187	_	_	_	_
  585-1	TO017	585	1	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  585-2	TO017	585	2	cammello	cammello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -3658,9 +3644,10 @@
+@@ -3658,9 +3643,10 @@
  587-2	TO017	587	2	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  587-3	TO017	587	3	nuovo	nuovo	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
  587-4	TO017	587	4	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
@@ -1152,7 +1154,7 @@
  588-0	TO017	588	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=1536.655	_	_	_	_
  588-1	TO017	588	1	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  588-2	TO017	588	2	so~	so~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
-@@ -3698,9 +3685,10 @@
+@@ -3698,9 +3684,10 @@
  590-8	TO017	590	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
  590-9	TO017	590	9	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  590-10	TO017	590	10	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1166,7 +1168,7 @@
  592-1	TO017	592	1	cammello	cammello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  592-2	TO017	592	2	maschio	maschio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  592-3	TO017	592	3	giovane.	giovane	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1551.981	_	_	_	_
-@@ -3733,7 +3721,7 @@
+@@ -3733,7 +3720,7 @@
  595-5	TO017	595	5	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
  595-6	TO017	595	6	tempo,	tempo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
  595-7	TO017	595	7	prima,	prima	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1565.668	_	_	_	_
@@ -1175,7 +1177,7 @@
  596-1	TO017	596	1	e:::h	eh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	0x3	_	_	_
  596-2	TO017	596	2	mh	mh	_	_	_	_	_	linguistic	_	_	_	End=1567.293	_	_	_	_
  597-0	TO017	597	0	di	di	_	_	_	_	_	linguistic	_	_	_	Begin=1568.718	_	_	_	_
-@@ -3787,14 +3775,14 @@
+@@ -3787,14 +3774,14 @@
  604-9	TO017	604	9	dei::	dei	_	_	_	_	_	linguistic	_	_	_	End=1587.741	2x2	_	_	_
  605-0	TO017	605	0	delle	delle	_	_	_	_	_	linguistic	_	_	_	Begin=1588.43	_	_	_	_
  605-1	TO017	605	1	dispute	dispute	_	_	_	_	_	linguistic	_	_	_	End=1589.463	_	_	_	_
@@ -1192,7 +1194,7 @@
  608-1	TO017	608	1	quasi	quasi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  608-2	TO017	608	2	niente.	niente	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1595.087	_	_	_	_
  609-0	TO017	609	0	e:::h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1595.831	0x3	_	_	_
-@@ -3844,7 +3832,7 @@
+@@ -3844,7 +3831,7 @@
  620-0	TO017	620	0	e:::h	eh	_	_	_	_	_	linguistic	_	_	_	Begin=1620.443	0x3	_	_	_
  620-1	TO017	620	1	mesopotamia	mesopotamia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  620-2	TO017	620	2	levan:te	levante	_	_	_	_	_	linguistic	_	_	_	End=1622.793	4x1	_	_	_
@@ -1201,7 +1203,7 @@
  621-1	TO017	621	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	End=1624.446	_	_	_	_
  622-0	TO017	622	0	nell:a	nella	_	_	_	_	_	linguistic	_	_	_	Begin=1626.099	3x1	_	_	_
  622-1	TO017	622	1	prima	prima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -4008,7 +3996,7 @@
+@@ -4008,7 +3995,7 @@
  659-0	TO017	659	0	ancient	ancient	_	_	_	_	_	linguistic	_	_	_	Begin=1692.749|End=1693.214	_	_	_	_
  660-0	TO017	660	0	south	south	_	_	_	_	_	linguistic	_	_	_	Begin=1693.442|End=1693.964	_	_	_	_
  661-0	TO017	661	0	arabian	arabian	_	_	_	_	_	linguistic	_	_	_	Begin=1694.465|End=1695.001	_	_	_	_
@@ -1210,7 +1212,7 @@
  663-0	TO017	663	0	(sud)	sud	_	_	_	_	_	linguistic	_	_	_	Begin=1695.846|End=1696.105	_	_	0-3(0)	_
  664-0	TO017	664	0	arabico,	arabico	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=1696.295|End=1696.872	_	_	_	_
  665-0	TO017	665	0	antico,	antico	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=1697.353|End=1697.903	_	_	_	_
-@@ -4039,7 +4027,7 @@
+@@ -4039,7 +4026,7 @@
  672-0	TO017	672	0	south	south	_	_	_	_	_	linguistic	_	_	_	Begin=1709.571	_	_	_	_
  672-1	TO017	672	1	arabian	arabian	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  672-2	TO017	672	2	(script)	script	_	_	_	_	_	linguistic	_	_	_	End=1710.814	_	_	0-6(0)	_
@@ -1219,7 +1221,7 @@
  673-1	TO017	673	1	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  673-2	TO017	673	2	loro	loro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  673-3	TO017	673	3	scrivevano	scrivevano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -4072,20 +4060,21 @@
+@@ -4072,20 +4059,21 @@
  676-1	TO017	676	1	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  676-2	TO017	676	2	alfabeto.	alfabeto	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1720.117	_	_	_	_
  677-0	TO017	677	0	pare:ntesi	parentesi	_	_	_	_	_	linguistic	_	_	_	Begin=1720.999|End=1721.676	3x1	_	_	_
@@ -1244,7 +1246,7 @@
  681-1	TO017	681	1	se~	se~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
  681-2	TO017	681	2	ottocento	ottocento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  681-3	TO017	681	3	anni	anni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -4105,7 +4094,7 @@
+@@ -4105,7 +4093,7 @@
  682-12	TO017	682	12	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  682-13	TO017	682	13	quello	quello	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  682-14	TO017	682	14	che	che	_	_	_	_	_	linguistic	_	_	_	End=1736.664	_	_	_	_
@@ -1253,7 +1255,7 @@
  683-1	TO017	683	1	e:h	eh	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
  683-2	TO017	683	2	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  683-3	TO017	683	3	medio	medio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -4309,11 +4298,11 @@
+@@ -4309,11 +4297,11 @@
  717-8	TO017	717	8	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
  717-9	TO017	717	9	innanzitutto	innanzitutto	_	_	_	_	_	linguistic	_	_	_	End=1831.476	_	_	_	_
  718-0	TO017	718	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=1832.535	_	_	_	_
@@ -1267,7 +1269,7 @@
  719-0	TO017	719	0	in	in	_	_	_	_	_	linguistic	_	_	_	Begin=1834.521	_	_	_	_
  719-1	TO017	719	1	arabo	arabo	_	_	_	_	_	linguistic	_	_	_	End=1835.176	_	_	_	_
  720-0	TO017	720	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=1836.782	_	_	_	_
-@@ -4325,8 +4314,8 @@
+@@ -4325,8 +4313,8 @@
  721-0	TO017	721	0	luban,	luban	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=1840.424|End=1841.063	_	_	_	_
  722-0	TO017	722	0	ci	ci	_	_	_	_	_	linguistic	_	_	_	Begin=1841.161	_	_	_	_
  722-1	TO017	722	1	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1278,7 +1280,7 @@
  722-4	TO017	722	4	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  722-5	TO017	722	5	parole,	parole	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
  722-6	TO017	722	6	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -4339,35 +4328,37 @@
+@@ -4339,35 +4327,37 @@
  722-13	TO017	722	13	cosa?	cosa	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=1844.396	_	_	_	_
  723-0	TO017	723	0	in	in	_	_	_	_	_	linguistic	_	_	_	Begin=1844.538	_	_	_	_
  723-1	TO017	723	1	arabo,	arabo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1845.143	_	_	_	_
@@ -1324,7 +1326,7 @@
  729-0	TO017	729	0	per	per	_	_	_	_	_	linguistic	_	_	_	Begin=1861.672	_	_	_	_
  729-1	TO017	729	1	via	via	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  729-2	TO017	729	2	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -4428,7 +4419,7 @@
+@@ -4428,7 +4418,7 @@
  738-0	TO017	738	0	lo	lo	_	_	_	_	_	linguistic	_	_	_	Begin=1880.295	_	_	_	_
  738-1	TO017	738	1	potete	potete	_	_	_	_	_	linguistic	_	_	_	End=1880.968	_	_	_	_
  739-0	TO017	739	0	lo	lo	_	_	_	_	_	linguistic	_	_	_	Begin=1881.356	_	_	_	_
@@ -1333,7 +1335,7 @@
  739-2	TO017	739	2	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  739-3	TO017	739	3	mettete	mettete	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  739-4	TO017	739	4	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -4473,7 +4464,7 @@
+@@ -4473,7 +4463,7 @@
  742-5	TO017	742	5	perché	perché	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  742-6	TO017	742	6	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  742-7	TO017	742	7	resina.	resina	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=1893.263	_	_	_	_
@@ -1342,7 +1344,7 @@
  743-1	TO017	743	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	End=1894.926	_	_	_	_
  744-0	TO017	744	0	ma.	ma	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1895.296	_	_	_	_
  744-1	TO017	744	1	ne	ne	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -4510,7 +4501,7 @@
+@@ -4510,7 +4500,7 @@
  746-2	TO017	746	2	sciogliere	sciogliere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  746-3	TO017	746	3	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  746-4	TO017	746	4	acqua	acqua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1351,7 +1353,7 @@
  746-6	TO017	746	6	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  746-7	TO017	746	7	potete	potete	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  746-8	TO017	746	8	masticare	masticare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -4521,7 +4512,7 @@
+@@ -4521,7 +4511,7 @@
  746-13	TO017	746	13	bocca	bocca	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  746-14	TO017	746	14	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  746-15	TO017	746	15	potete	potete	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1360,7 +1362,7 @@
  747-0	TO017	747	0	giuro.	giuro	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=1909.38|End=1909.735	_	_	_	_
  748-0	TO017	748	0	potete	potete	_	_	_	_	_	linguistic	_	_	_	Begin=1909.8	_	_	_	_
  748-1	TO017	748	1	farlo	farlo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -4606,7 +4597,7 @@
+@@ -4606,7 +4596,7 @@
  761-11	TO017	761	11	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  761-12	TO017	761	12	romani.	romani	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
  761-13	TO017	761	13	tutti	tutti	_	_	_	_	_	linguistic	_	_	_	End=1940.109	_	_	_	_
@@ -1369,7 +1371,7 @@
  762-1	TO017	762	1	compravano	compravano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  762-2	TO017	762	2	i	i	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  762-3	TO017	762	3	copti.	copti	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
-@@ -4634,7 +4625,7 @@
+@@ -4634,7 +4624,7 @@
  766-7	TO017	766	7	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  766-8	TO017	766	8	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  766-9	TO017	766	9	parlava	parlava	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1378,7 +1380,7 @@
  766-11	TO017	766	11	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  766-12	TO017	766	12	parlava	parlava	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  766-13	TO017	766	13	sudarabico	sudarabico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -4750,7 +4741,7 @@
+@@ -4750,7 +4740,7 @@
  787-0	TO017	787	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=2009.592	_	_	_	_
  787-1	TO017	787	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  787-2	TO017	787	2	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1387,7 +1389,7 @@
  787-4	TO017	787	4	anche	anche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  787-5	TO017	787	5	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  787-6	TO017	787	6	geez	geez	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -4810,7 +4801,7 @@
+@@ -4810,7 +4800,7 @@
  793-1	TO017	793	1	qui	qui	_	_	_	_	_	linguistic	_	_	_	End=2028.081	_	_	_	_
  794-0	TO017	794	0	sotto	sotto	_	_	_	_	_	linguistic	_	_	_	Begin=2030.459|End=2031.083	_	_	_	_
  795-0	TO017	795	0	si	si	_	_	_	_	_	linguistic	_	_	_	Begin=2031.421	_	_	_	_
@@ -1396,7 +1398,7 @@
  795-2	TO017	795	2	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  795-3	TO017	795	3	parla	parla	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
  795-4	TO017	795	4	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
-@@ -4825,7 +4816,7 @@
+@@ -4825,7 +4815,7 @@
  795-13	TO017	795	13	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  795-14	TO017	795	14	vengono	vengono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  795-15	TO017	795	15	ancora	ancora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1405,7 +1407,7 @@
  795-17	TO017	795	17	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
  795-18	TO017	795	18	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  795-19	TO017	795	19	numeri	numeri	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -4837,24 +4828,25 @@
+@@ -4837,24 +4827,25 @@
  796-3	TO017	796	3	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  796-4	TO017	796	4	viene	viene	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  796-5	TO017	796	5	scritta	scritta	_	_	_	_	_	linguistic	_	_	_	End=2039.727	_	_	_	_
@@ -1445,7 +1447,7 @@
  799-0	TO017	799	0	così.	così	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=2046.019|End=2046.289	_	_	_	_
  800-0	TO017	800	0	questo	questo	_	_	_	_	_	linguistic	_	_	_	Begin=2046.393	_	_	_	_
  800-1	TO017	800	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -4930,12 +4922,13 @@
+@@ -4930,12 +4921,13 @@
  812-4	TO017	812	4	poteva	poteva	_	_	_	_	_	linguistic	_	_	_	End=2076.21	_	_	_	_
  813-0	TO017	813	0	pensare	pensare	_	_	_	_	_	linguistic	_	_	_	Begin=2076.484	_	_	_	_
  813-1	TO017	813	1	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1462,7 +1464,7 @@
  815-0	TO017	815	0	indovinate	indovinate	_	_	_	_	_	linguistic	_	_	_	Begin=2081.389	_	_	_	_
  815-1	TO017	815	1	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  815-2	TO017	815	2	po'	po'	_	_	_	_	_	linguistic	_	_	_	End=2082.225	_	_	_	_
-@@ -4981,8 +4974,8 @@
+@@ -4981,8 +4973,8 @@
  823-0	TO017	823	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=2101.594	_	_	_	_
  823-1	TO017	823	1	venivano	venivano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  823-2	TO017	823	2	<scritte>	scritte	_	_	_	_	_	linguistic	_	_	_	End=2103.187	_	Slow=0-7(0)	_	_
@@ -1473,7 +1475,7 @@
  824-2	TO017	824	2	nell'	nell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
  824-3	TO017	824	3	area	area	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  824-4	TO017	824	4	enorme:	enorme	_	_	_	_	_	linguistic	_	_	_	End=2105.139	5x1	_	_	_
-@@ -5006,7 +4999,7 @@
+@@ -5006,7 +4998,7 @@
  827-4	TO017	827	4	sì	sì	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  827-5	TO017	827	5	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  827-6	TO017	827	6	<forse>	forse	_	_	_	_	_	linguistic	_	_	_	End=2112.225	_	Slow=0-5(0)	_	_
@@ -1482,7 +1484,7 @@
  828-1	TO017	828	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  828-2	TO017	828	2	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  828-3	TO017	828	3	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5015,7 +5008,7 @@
+@@ -5015,7 +5007,7 @@
  829-0	TO017	829	0	alcune	alcune	_	_	_	_	_	linguistic	_	_	_	Begin=2113.927	_	_	_	_
  829-1	TO017	829	1	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  829-2	TO017	829	2	queste	queste	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1491,7 +1493,7 @@
  830-0	TO017	830	0	iscrizioni	iscrizioni	_	_	_	_	_	linguistic	_	_	_	Begin=2115.221	_	_	_	_
  830-1	TO017	830	1	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  830-2	TO017	830	2	indecifrabili	indecifrabili	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5031,7 +5024,7 @@
+@@ -5031,7 +5023,7 @@
  831-1	TO017	831	1	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  831-2	TO017	831	2	comodità	comodità	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  831-3	TO017	831	3	gli	gli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1500,7 +1502,7 @@
  831-5	TO017	831	5	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  831-6	TO017	831	6	detto	detto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  831-7	TO017	831	7	vabbé	vabbé	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5051,7 +5044,7 @@
+@@ -5051,7 +5043,7 @@
  832-4	TO017	832	4	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  832-5	TO017	832	5	oggi	oggi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  832-6	TO017	832	6	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1509,7 +1511,7 @@
  832-8	TO017	832	8	yemen	yemen	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  832-9	TO017	832	9	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  832-10	TO017	832	10	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
-@@ -5063,7 +5056,7 @@
+@@ -5063,7 +5055,7 @@
  834-0	TO017	834	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=2126.88	_	_	_	_
  834-1	TO017	834	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  834-2	TO017	834	2	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1518,7 +1520,7 @@
  834-4	TO017	834	4	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  834-5	TO017	834	5	definizione	definizione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  834-6	TO017	834	6	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5098,7 +5091,7 @@
+@@ -5098,7 +5090,7 @@
  838-3	TO017	838	3	nordarabiche	nordarabiche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  838-4	TO017	838	4	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  838-5	TO017	838	5	sudarabiche	sudarabiche	_	_	_	_	_	linguistic	_	_	_	End=2140.674	_	_	_	_
@@ -1527,7 +1529,7 @@
  839-1	TO017	839	1	m:::h	mh	_	_	_	_	_	linguistic	_	_	_	End=2143.379	0x3	_	_	_
  840-0	TO017	840	0	la	la	_	_	_	_	_	linguistic	_	_	_	Begin=2144.704	_	_	_	_
  840-1	TO017	840	1	cosa	cosa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5189,9 +5182,10 @@
+@@ -5189,9 +5181,10 @@
  853-4	TO017	853	4	sudarabico,	sudarabico	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2178.116	_	_	_	_
  854-0	TO017	854	0	dov'	dov'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	Begin=2179.746	_	_	_	_
  854-1	TO017	854	1	è,	è	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2179.976	_	_	_	_
@@ -1541,7 +1543,7 @@
  856-0	TO017	856	0	m:h,	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=2181.616|End=2181.836	0x1	_	_	_
  857-0	TO017	857	0	e	e	_	_	_	_	_	linguistic	_	_	_	Begin=2182.691	_	_	_	_
  857-1	TO017	857	1	scrivevano	scrivevano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5285,7 +5279,7 @@
+@@ -5285,7 +5278,7 @@
  872-4	TO017	872	4	erano	erano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  872-5	TO017	872	5	queste	queste	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  872-6	TO017	872	6	le::	le	_	_	_	_	_	linguistic	_	_	_	_	1x2	_	_	_
@@ -1550,7 +1552,7 @@
  872-8	TO017	872	8	di	di	_	_	_	_	_	linguistic	_	_	_	End=2222.482	_	_	_	_
  873-0	TO017	873	0	tenore	tenore	_	_	_	_	_	linguistic	_	_	_	Begin=2222.534	_	_	_	_
  873-1	TO017	873	1	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5297,7 +5291,7 @@
+@@ -5297,7 +5290,7 @@
  874-4	TO017	874	4	scrivere	scrivere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  874-5	TO017	874	5	questi?	questi	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2226.817	_	_	_	_
  875-0	TO017	875	0	(allora)	allora	_	_	_	_	_	linguistic	_	_	_	Begin=2226.832	_	_	0-6(0)	_
@@ -1559,7 +1561,7 @@
  875-2	TO017	875	2	l(a)	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	1-2(1)	_
  875-3	TO017	875	3	spiegazione	spiegazione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  875-4	TO017	875	4	migliore	migliore	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5307,12 +5301,12 @@
+@@ -5307,12 +5300,12 @@
  875-8	TO017	875	8	trovata	trovata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  875-9	TO017	875	9	finora	finora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  875-10	TO017	875	10	è,	è	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2229.373	_	_	_	_
@@ -1574,7 +1576,7 @@
  876-6	TO017	876	6	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  876-7	TO017	876	7	forse	forse	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  876-8	TO017	876	8	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5352,7 +5346,7 @@
+@@ -5352,7 +5345,7 @@
  879-15	TO017	879	15	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
  879-16	TO017	879	16	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  879-17	TO017	879	17	questa,	questa	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2244.638	_	_	_	_
@@ -1583,7 +1585,7 @@
  880-1	TO017	880	1	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  880-2	TO017	880	2	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  880-3	TO017	880	3	qualche	qualche	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5360,7 +5354,7 @@
+@@ -5360,7 +5353,7 @@
  881-0	TO017	881	0	(allora)	allora	_	_	_	_	_	linguistic	_	_	_	Begin=2247.381	_	_	0-6(0)	_
  881-1	TO017	881	1	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  881-2	TO017	881	2	sicuro	sicuro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1592,7 +1594,7 @@
  881-4	TO017	881	4	ne~	ne~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
  881-5	TO017	881	5	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  881-6	TO017	881	6	era	era	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5368,7 +5362,7 @@
+@@ -5368,7 +5361,7 @@
  881-8	TO017	881	8	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  881-9	TO017	881	9	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  881-10	TO017	881	10	contabilità:	contabilità	_	_	_	_	_	linguistic	_	_	_	_	10x1	_	_	_
@@ -1601,7 +1603,7 @@
  881-12	TO017	881	12	o	o	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  881-13	TO017	881	13	cose	cose	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  881-14	TO017	881	14	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5549,20 +5543,24 @@
+@@ -5549,20 +5542,24 @@
  906-2	TO017	906	2	della	della	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  906-3	TO017	906	3	lingua	lingua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  906-4	TO017	906	4	araba	araba	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1639,7 +1641,7 @@
  909-0	TO017	909	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=2324.594|End=2325.241	_	_	_	_
  910-0	TO017	910	0	quella	quella	_	_	_	_	_	linguistic	_	_	_	Begin=2325.52	_	_	_	_
  910-1	TO017	910	1	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5627,7 +5625,7 @@
+@@ -5627,7 +5624,7 @@
  913-2	TO017	913	2	presente	presente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  913-3	TO017	913	3	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  913-4	TO017	913	4	nostre	nostre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1648,7 +1650,7 @@
  913-6	TO017	913	6	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  913-7	TO017	913	7	nostre	nostre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  913-8	TO017	913	8	conoscenze	conoscenze	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5663,7 +5661,7 @@
+@@ -5663,7 +5660,7 @@
  919-3	TO017	919	3	sacco	sacco	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  919-4	TO017	919	4	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  919-5	TO017	919	5	sassi.	sassi	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2357.482	_	_	_	_
@@ -1657,7 +1659,7 @@
  920-1	TO017	920	1	se	se	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  920-2	TO017	920	2	vai	vai	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  920-3	TO017	920	3	al	al	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5680,12 +5678,12 @@
+@@ -5680,12 +5677,12 @@
  921-0	TO017	921	0	eh,	eh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=2362.517	_	_	_	_
  921-1	TO017	921	1	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  921-2	TO017	921	2	delle	delle	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1672,7 +1674,7 @@
  921-9	TO017	921	9	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  921-10	TO017	921	10	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  921-11	TO017	921	11	talmente	talmente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5698,7 +5696,7 @@
+@@ -5698,7 +5695,7 @@
  921-18	TO017	921	18	nemmeno	nemmeno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  921-19	TO017	921	19	decifrate	decifrate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  921-20	TO017	921	20	tutte.	tutte	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2367.705	_	_	_	_
@@ -1681,7 +1683,7 @@
  922-1	TO017	922	1	m:h	mh	_	_	_	_	_	linguistic	_	_	_	End=2368.856	0x1	_	_	_
  923-0	TO017	923	0	okay.	okay	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=2373.414|End=2373.926	_	_	_	_
  924-0	TO017	924	0	in	in	_	_	_	_	_	linguistic	_	_	_	Begin=2375.72	_	_	_	_
-@@ -5728,14 +5726,14 @@
+@@ -5728,14 +5725,14 @@
  935-0	TO017	935	0	ovest	ovest	_	_	_	_	_	linguistic	_	_	_	Begin=2391.84	_	_	_	_
  935-1	TO017	935	1	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
  935-2	TO017	935	2	<iraq>,	iraq	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2393.487	_	Slow=0-4(0)	_	_
@@ -1704,7 +1706,7 @@
  936-8	TO017	936	8	saudita,	saudita	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2397.674	_	_	_	_
  937-0	TO017	937	0	si	si	_	_	_	_	_	linguistic	_	_	_	Begin=2397.899	_	_	_	_
  937-1	TO017	937	1	trovano	trovano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5791,7 +5789,7 @@
+@@ -5791,7 +5788,7 @@
  945-5	TO017	945	5	hanno	hanno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  945-6	TO017	945	6	chiamato	chiamato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  945-7	TO017	945	7	safa~	safa~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
@@ -1713,7 +1715,7 @@
  946-0	TO017	946	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=2421.371	_	_	_	_
  946-1	TO017	946	1	>l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	Fast=0-2(0)	_	_
  946-2	TO017	946	2	han	han	_	_	_	_	_	linguistic	_	_	_	_	_	Fast=0-3(0)	_	_
-@@ -5859,14 +5857,14 @@
+@@ -5859,14 +5856,14 @@
  954-3	TO017	954	3	dicono	dicono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  954-4	TO017	954	4	loro	loro	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  954-5	TO017	954	5	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1730,7 +1732,7 @@
  956-1	TO017	956	1	m:h	mh	_	_	_	_	_	linguistic	_	_	_	End=2447.996	0x1	_	_	_
  957-0	TO017	957	0	perché	perché	_	_	_	_	_	linguistic	_	_	_	Begin=2449.4	_	_	_	_
  957-1	TO017	957	1	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5952,7 +5950,7 @@
+@@ -5952,7 +5949,7 @@
  969-6	TO017	969	6	idea	idea	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  969-7	TO017	969	7	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  969-8	TO017	969	8	quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1739,7 +1741,7 @@
  969-10	TO017	969	10	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  969-11	TO017	969	11	quando	quando	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  969-12	TO017	969	12	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -5965,7 +5963,7 @@
+@@ -5965,7 +5962,7 @@
  970-5	TO017	970	5	le	le	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  970-6	TO017	970	6	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  970-7	TO017	970	7	vecchie,	vecchie	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2486.551	_	_	_	_
@@ -1748,7 +1750,7 @@
  971-1	TO017	971	1	primo	primo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  971-2	TO017	971	2	secolo,	secolo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2490.39	_	_	_	_
  972-0	TO017	972	0	avanti	avanti	_	_	_	_	_	linguistic	_	_	_	Begin=2490.736	_	_	_	_
-@@ -6018,7 +6016,7 @@
+@@ -6018,7 +6015,7 @@
  981-7	TO017	981	7	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  981-8	TO017	981	8	più	più	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  981-9	TO017	981	9	vecchia.	vecchia	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=2512.194	_	_	_	_
@@ -1757,7 +1759,7 @@
  982-1	TO017	982	1	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  982-2	TO017	982	2	<pensa>	pensa	_	_	_	_	_	linguistic	_	_	_	End=2514.176	_	Slow=0-5(0)	_	_
  983-0	TO017	983	0	il~	il~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	Begin=2514.384	_	_	_	_
-@@ -6034,18 +6032,18 @@
+@@ -6034,18 +6031,18 @@
  984-3	TO017	984	3	sembra	sembra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  984-4	TO017	984	4	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  984-5	TO017	984	5	siano	siano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1780,7 +1782,7 @@
  985-7	TO017	985	7	vecchia	vecchia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  985-8	TO017	985	8	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  985-9	TO017	985	9	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6065,8 +6063,7 @@
+@@ -6065,8 +6062,7 @@
  987-3	TO017	987	3	la	la	_	_	_	_	_	linguistic	_	_	Volume=Low	_	_	_	_	_
  987-4	TO017	987	4	slide°	slide	_	_	_	_	_	linguistic	_	_	Volume=Low	End=2524.78	_	_	_	_
  988-0	TO017	988	0	<°di	di	_	_	_	_	_	linguistic	_	_	Volume=Low	Begin=2525.253	_	Slow=0-2(0)	_	_
@@ -1790,7 +1792,7 @@
  990-0	TO017	990	0	questo	questo	_	_	_	_	_	linguistic	_	_	_	Begin=2529.397|End=2529.95	_	_	_	_
  991-0	TO017	991	0	questa	questa	_	_	_	_	_	linguistic	_	_	_	Begin=2530.182	_	_	_	_
  991-1	TO017	991	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6078,7 +6075,7 @@
+@@ -6078,7 +6074,7 @@
  992-2	TO017	992	2	assomiglia	assomiglia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  992-3	TO017	992	3	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  992-4	TO017	992	4	quell'	quell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -1799,7 +1801,7 @@
  992-6	TO017	992	6	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  992-7	TO017	992	7	diversa.	diversa	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
  992-8	TO017	992	8	ma	ma	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6094,7 +6091,7 @@
+@@ -6094,7 +6090,7 @@
  992-18	TO017	992	18	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
  992-19	TO017	992	19	alfabeto	alfabeto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  992-20	TO017	992	20	sudarabico,	sudarabico	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2537.183	_	_	_	_
@@ -1808,7 +1810,7 @@
  993-1	TO017	993	1	m::h,	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2539.081	0x2	_	_	_
  994-0	TO017	994	0	io	io	_	_	_	_	_	linguistic	_	_	_	Begin=2539.836	_	_	_	_
  994-1	TO017	994	1	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6108,18 +6105,18 @@
+@@ -6108,18 +6104,18 @@
  994-9	TO017	994	9	c'	c'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
  994-10	TO017	994	10	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  994-11	TO017	994	11	un'	un'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
@@ -1836,7 +1838,7 @@
  996-0	TO017	996	0	in	in	_	_	_	_	_	linguistic	_	_	_	Begin=2552.324	_	_	_	_
  996-1	TO017	996	1	giordania,	giordania	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2553.407	_	_	_	_
  997-0	TO017	997	0	al	al	_	_	_	_	_	linguistic	_	_	_	Begin=2554.209	_	_	_	_
-@@ -6174,11 +6171,10 @@
+@@ -6174,11 +6170,10 @@
  1005-0	TO017	1005	0	il	il	_	_	_	_	_	linguistic	_	_	_	Begin=2578.881	_	_	_	_
  1005-1	TO017	1005	1	regno	regno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1005-2	TO017	1005	2	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1852,7 +1854,7 @@
  1006-0	TO017	1006	0	e::h,	eh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=2581.383|End=2581.852	0x2	_	_	_
  1007-0	TO017	1007	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=2582.531	_	_	_	_
  1007-1	TO017	1007	1	esistevano	esistevano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6209,7 +6205,7 @@
+@@ -6209,7 +6204,7 @@
  1011-3	TO017	1011	3	addirittura	addirittura	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1011-4	TO017	1011	4	questa	questa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1011-5	TO017	1011	5	potrebbe	potrebbe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1861,7 +1863,7 @@
  1011-7	TO017	1011	7	questa	questa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1011-8	TO017	1011	8	iscrizione	iscrizione	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1011-9	TO017	1011	9	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6217,16 +6213,17 @@
+@@ -6217,16 +6212,17 @@
  1011-11	TO017	1011	11	stata	stata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1011-12	TO017	1011	12	trovata	trovata	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1011-13	TO017	1011	13	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1887,7 +1889,7 @@
  1012-4	TO017	1012	4	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1012-5	TO017	1012	5	alcuni	alcuni	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1012-6	TO017	1012	6	dicono	dicono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6316,7 +6313,7 @@
+@@ -6316,7 +6312,7 @@
  1029-4	TO017	1029	4	l'	l'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
  1029-5	TO017	1029	5	egitto	egitto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1029-6	TO017	1029	6	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1896,7 +1898,7 @@
  1029-8	TO017	1029	8	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1029-9	TO017	1029	9	deserto	deserto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1029-10	TO017	1029	10	egiziano	egiziano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6372,7 +6369,7 @@
+@@ -6372,7 +6368,7 @@
  1042-7	TO017	1042	7	noi	noi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1042-8	TO017	1042	8	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1042-9	TO017	1042	9	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1905,7 +1907,7 @@
  1042-11	TO017	1042	11	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1042-12	TO017	1042	12	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1042-13	TO017	1042	13	prima	prima	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6385,7 +6382,7 @@
+@@ -6385,7 +6381,7 @@
  1043-3	TO017	1043	3	dell'	dell'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
  1043-4	TO017	1043	4	arabo,	arabo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2697.779	_	_	_	_
  1044-0	TO017	1044	0	m:h,	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=2698.047|End=2698.426	0x1	_	_	_
@@ -1914,7 +1916,7 @@
  1046-0	TO017	1046	0	le	le	_	_	_	_	_	linguistic	_	_	_	Begin=2700.665	_	_	_	_
  1046-1	TO017	1046	1	altre	altre	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1046-2	TO017	1046	2	lingue	lingue	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6400,16 +6397,17 @@
+@@ -6400,16 +6396,17 @@
  1047-2	TO017	1047	2	qua	qua	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1047-3	TO017	1047	3	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1047-4	TO017	1047	4	safaitico	safaitico	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1936,7 +1938,7 @@
  1049-5	TO017	1049	5	questa	questa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1049-6	TO017	1049	6	sarebbe	sarebbe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1049-7	TO017	1049	7	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6428,7 +6426,7 @@
+@@ -6428,7 +6425,7 @@
  1050-7	TO017	1050	7	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1050-8	TO017	1050	8	cos'	cos'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
  1050-9	TO017	1050	9	è?	è	_	_	_	_	_	linguistic	_	_	Intonation=Rising	End=2714.053	_	_	_	_
@@ -1945,7 +1947,7 @@
  1052-0	TO017	1052	0	divinità	divinità	_	_	_	_	_	linguistic	_	_	_	Begin=2720.349	_	_	_	_
  1052-1	TO017	1052	1	nel	nel	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1052-2	TO017	1052	2	senso	senso	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6437,12 +6435,13 @@
+@@ -6437,12 +6434,13 @@
  1052-5	TO017	1052	5	questa	questa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1052-6	TO017	1052	6	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1052-7	TO017	1052	7	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1961,7 +1963,7 @@
  1056-0	TO017	1056	0	femminile	femminile	_	_	_	_	_	linguistic	_	_	_	Begin=2727.912|End=2728.477	_	_	_	_
  1057-0	TO017	1057	0	okay,	okay	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=2728.617|End=2728.985	_	_	_	_
  1058-0	TO017	1058	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=2729.232|End=2729.602	_	_	_	_
-@@ -6488,7 +6487,7 @@
+@@ -6488,7 +6486,7 @@
  1065-5	TO017	1065	5	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1065-6	TO017	1065	6	dimenticato	dimenticato	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1065-7	TO017	1065	7	la,	la	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2747.147	_	_	_	_
@@ -1970,7 +1972,7 @@
  1066-1	TO017	1066	1	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1066-2	TO017	1066	2	però	però	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1066-3	TO017	1066	3	comunque	comunque	_	_	_	_	_	linguistic	_	_	_	End=2748.755	_	_	_	_
-@@ -6501,7 +6500,7 @@
+@@ -6501,7 +6499,7 @@
  1070-0	TO017	1070	0	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	Begin=2753.257	_	_	_	_
  1070-1	TO017	1070	1	questa	questa	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1070-2	TO017	1070	2	potrebbe	potrebbe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1979,7 +1981,7 @@
  1070-4	TO017	1070	4	quindi	quindi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1070-5	TO017	1070	5	erodoto	erodoto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1070-6	TO017	1070	6	sembra	sembra	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6529,7 +6528,7 @@
+@@ -6529,7 +6527,7 @@
  1072-8	TO017	1072	8	lo	lo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1072-9	TO017	1072	9	troviamo	troviamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1072-10	TO017	1072	10	come	come	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1988,7 +1990,7 @@
  1072-12	TO017	1072	12	visto	visto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1072-13	TO017	1072	13	negli	negli	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1072-14	TO017	1072	14	scritti	scritti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6735,7 +6734,7 @@
+@@ -6735,7 +6733,7 @@
  1109-4	TO017	1109	4	materiale	materiale	_	_	_	_	_	linguistic	_	_	_	End=2855.97	_	_	_	_
  1110-0	TO017	1110	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=2856.211	_	_	_	_
  1110-1	TO017	1110	1	abbiamo	abbiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -1997,7 +1999,7 @@
  1110-3	TO017	1110	3	che	che	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1110-4	TO017	1110	4	parlassero	parlassero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1110-5	TO017	1110	5	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6765,17 +6764,16 @@
+@@ -6765,17 +6763,16 @@
  1114-2	TO017	1114	2	questo	questo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1114-3	TO017	1114	3	per	per	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1114-4	TO017	1114	4	dire	dire	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2025,7 +2027,7 @@
  1115-0	TO017	1115	0	se	se	_	_	_	_	_	linguistic	_	_	_	Begin=2871.929	_	_	_	_
  1115-1	TO017	1115	1	noi	noi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1115-2	TO017	1115	2	ci	ci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6836,10 +6834,10 @@
+@@ -6836,10 +6833,10 @@
  1131-0	TO017	1131	0	in	in	_	_	_	_	_	linguistic	_	_	_	Begin=2904.561	_	_	_	_
  1131-1	TO017	1131	1	queste	queste	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1131-2	TO017	1131	2	z:one	zone	_	_	_	_	_	linguistic	_	_	_	_	0x1	_	_	_
@@ -2038,7 +2040,7 @@
  1132-1	TO017	1132	1	(probabilmente)	probabilmente	_	_	_	_	_	linguistic	_	_	_	_	_	_	0-13(0)	_
  1132-2	TO017	1132	2	parlavano	parlavano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1132-3	TO017	1132	3	una	una	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6864,13 +6862,12 @@
+@@ -6864,13 +6861,12 @@
  1135-1	TO017	1135	1	possiamo	possiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1135-2	TO017	1135	2	fermare	fermare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1135-3	TO017	1135	3	qui	qui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -2058,7 +2060,7 @@
  1136-0	TO017	1136	0	rimane	rimane	_	_	_	_	_	linguistic	_	_	_	Begin=2924.846	_	_	_	_
  1136-1	TO017	1136	1	naturalmente	naturalmente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1136-2	TO017	1136	2	aperta	aperta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6903,8 +6900,8 @@
+@@ -6903,8 +6899,8 @@
  1140-0	TO017	1140	0	nel	nel	_	_	_	_	_	linguistic	_	_	_	Begin=2939.114	_	_	_	_
  1140-1	TO017	1140	1	sesto	sesto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1140-2	TO017	1140	2	secolo,	secolo	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=2940.491	_	_	_	_
@@ -2069,7 +2071,7 @@
  1141-2	TO017	1141	2	sesto	sesto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1141-3	TO017	1141	3	settimo	settimo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1141-4	TO017	1141	4	secolo	secolo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -6942,7 +6939,7 @@
+@@ -6942,7 +6938,7 @@
  1146-8	TO017	1146	8	scrivere	scrivere	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1146-9	TO017	1146	9	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  1146-10	TO017	1146	10	sono	sono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
