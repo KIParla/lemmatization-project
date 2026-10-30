@@ -96,16 +96,18 @@
  151-1	BO026	151	1	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  151-2	BO026	151	2	divide	divide	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  151-3	BO026	151	3	proprio	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -1002,7 +1000,7 @@
+@@ -1002,8 +1000,8 @@
  179-3	BO026	179	3	su]::	su	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	1x2	_	_	0-2(59)
  179-4	BO026	179	4	m:h	mh	_	_	_	_	_	linguistic	_	_	_	End=464.101	0x1	_	_	_
  180-0	BO026	180	0	e:	e	_	_	_	_	_	linguistic	_	_	_	Begin=466.163	0x1	_	_	_
 -180-1	BO026	180	1	applied	applied	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-180-2	BO026	180	2	linguistics.	linguistics	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=467.755	_	_	_	_
 +180-1	BO026	180	1	applied	applied	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
- 180-2	BO026	180	2	linguistics.	linguistics	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=467.755	_	_	_	_
++180-2	BO026	180	2	linguistics.	linguistics	_	_	_	_	_	linguistic	_	_	Intonation=Falling|Lang=en	End=467.755	_	_	_	_
  181-0	BO033	181	0	mh.	mh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	Begin=467.92|End=468.151	_	_	_	_
  182-0	BO026	182	0	mh,	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=468.151|End=468.375	_	_	_	_
-@@ -1023,21 +1021,21 @@
+ 183-0	BO026	183	0	le	le	_	_	_	_	_	linguistic	_	_	_	Begin=468.736	_	_	_	_
+@@ -1023,23 +1021,23 @@
  184-0	BO033	184	0	mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=473.285	_	_	_	_
  184-1	BO033	184	1	mh.	mh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=473.606	_	_	_	_
  185-0	BO026	185	0	mh,	mh	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	Begin=473.646|End=473.808	_	_	_	_
@@ -123,9 +125,10 @@
  186-6	BO026	186	6	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 -186-7	BO026	186	7	english	english	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 -186-8	BO026	186	8	language	language	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-186-9	BO026	186	9	teaching,	teaching	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=480.436	_	_	_	_
 +186-7	BO026	186	7	english	english	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
 +186-8	BO026	186	8	language	language	_	_	_	_	_	linguistic	_	_	Lang=en	_	_	_	_	_
- 186-9	BO026	186	9	teaching,	teaching	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=480.436	_	_	_	_
++186-9	BO026	186	9	teaching,	teaching	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|Lang=en	End=480.436	_	_	_	_
  187-0	BO033	187	0	mh	mh	_	_	_	_	_	linguistic	_	_	_	Begin=481.495	_	_	_	_
  187-1	BO033	187	1	mh.	mh	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=481.778	_	_	_	_
  188-0	BO026	188	0	e::h	eh	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	Begin=482.54	0x2	_	_	_
@@ -133,8 +136,11 @@
 -189-0	BO026	189	0	discourse	discourse	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	Begin=486.796	_	_	_	_
 +189-0	BO026	189	0	discourse	discourse	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes|Lang=en	Begin=486.796	_	_	_	_
  189-1	BO026	189	1	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
- 189-2	BO026	189	2	processes,	processes	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=488.81	_	_	_	_
+-189-2	BO026	189	2	processes,	processes	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=488.81	_	_	_	_
++189-2	BO026	189	2	processes,	processes	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising|Lang=en	End=488.81	_	_	_	_
  190-0	BO026	190	0	lì	lì	_	_	_	_	_	linguistic	_	_	_	Begin=489.191	_	_	_	_
+ 190-1	BO026	190	1	potrebbe	potrebbe	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+ 190-2	BO026	190	2	trovare	trovare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 @@ -1058,7 +1056,7 @@
  191-11	BO026	191	11	la:	la	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
  191-12	BO026	191	12	bibliografia	bibliografia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_

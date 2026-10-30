@@ -19,8 +19,9 @@ _,_,2-4a,_,_,2,6,_,chieder,chiedere,VERB,_,_
 _,_,2-4b,_,_,2,7,_,le,le,PRON,_,_
 _,_,2-5,BO037,2,2,8,se,se,se,SCONJ,_,_
 _,_,2-6,BO037,2,2,9,voleva,voleva,volere,AUX,_,_
-FAIL,"span _ nel CSV: da compilare, span del TSV non toccato | forma non derivabile dallo span — verifica manuale | token_id duplicato nel CSV",2-7,BO037,2,2,_,_,far,fare,VERB,_,_
-FAIL,"span _ nel CSV: da compilare, span del TSV non toccato | forma non derivabile dallo span — verifica manuale | token_id duplicato nel CSV",2-7,BO037,2,2,_,_,mi,mi,PRON,_,_
+_,_,2-7,BO037,2,2,10,farmi,farmi,fare+mi,VERB+PRON,_,_
+FAIL,"span _ nel CSV: da compilare, span del TSV non toccato | forma non derivabile dallo span — verifica manuale | token_id duplicato nel CSV",2-7a,BO037,2,2,_,_,far,fare,VERB,_,_
+FAIL,"span _ nel CSV: da compilare, span del TSV non toccato | forma non derivabile dallo span — verifica manuale | token_id duplicato nel CSV",2-7b,BO037,2,2,_,_,mi,mi,PRON,_,_
 _,_,2-8,BO037,2,2,11,da,da,da,ADP,_,_
 _,_,2-9,BO037,2,2,12,correlatrice,correlatrice,correlatore,NOUN,_,_
 _,_,2-10,BO037,2,2,13,io,io,io,PRON,_,_
@@ -30,7 +31,7 @@ _,_,2-13,BO037,2,2,16,relatrice,relatrice,relatore,NOUN,_,_
 _,_,2-14,BO037,2,2,17,la,la,il,DET,_,_
 _,_,2-15,BO037,2,2,18,professoressa,professoressa,professore,NOUN,_,_
 _,_,2-16,BO037,2,2,19,rossi.,rossi,Rossi,PROPN,_,_
-OK,_,3-0,BO037,3,3,1,=e::h,eh,eh,INTJ,_,_
+OK,_,3-0,BO037,3,3,1,e::h,eh,eh,INTJ,_,_
 _,_,3-1,BO037,3,3,2,mh,mh,mh,INTJ,_,_
 _,_,4-0,BO037,4,4,1,volevo,volevo,volere,AUX,_,_
 _,_,4-1,BO037,4,4,2-3,farla,farla,_,_,_,_
@@ -350,11 +351,11 @@ _,_,41-14,BO037,41,41,16-17,dell',dell',_,_,_,_
 _,_,41-14a,_,_,41,16,_,di,di,ADP,_,_
 _,_,41-14b,_,_,41,17,_,l',il,DET,_,_
 _,_,41-15,BO037,41,41,18,italiano,italiano,italiano,NOUN,_,_
-WARN,forma non derivabile dallo span — verifica manuale | del 41-17: overlaps=0-3(21),41-16,BO037,41,41,19,[elle,L2,L2,NOUN,_,_
+WARN,forma non derivabile dallo span — verifica manuale | del 41-17: overlaps=0-3(21),41-16,BO037,41,41,19,[elledue,elledue,L2,NOUN,_,_
 _,_,42-0,BO026,42,42,1,[le,le,il,DET,_,_
 _,_,42-1,BO026,42,42,2,lingue:],lingue,lingua,NOUN,_,_
 _,_,43-0,BO026,43,43,1,[mh].,mh,mh,INTJ,_,_
-OK,_,44-0,BO026,44,44,2,=[e::]h,eh,eh,INTJ,_,_
+OK,_,44-0,BO026,44,44,2,[e::]h,eh,eh,INTJ,_,_
 _,_,44-1,BO026,44,44,3,mh,mh,mh,INTJ,_,_
 _,_,45-0,BO026,45,45,1,però,però,però,ADV,_,_
 _,_,45-1,BO026,45,45,2,non,non,non,ADV,_,_
@@ -819,7 +820,7 @@ _,_,97-18b,_,_,97,21,_,i,il,DET,_,_
 _,_,97-19,BO037,97,97,22,coda,coda,coda,NOUN,_,_
 _,_,97-20,BO037,97,97,23,che,che,che,PRON,_,_
 _,_,97-21,BO037,97,97,24,sono,sono,essere,AUX,_,_
-WARN,forma non derivabile dallo span — verifica manuale,97-22,BO037,97,97,25,appunti,appunto,appunto,ADV,_,_
+WARN,forma non derivabile dallo span — verifica manuale,97-22,BO037,97,97,25,appunto,appunto,appunto,ADV,_,_
 _,_,97-23,BO037,97,97,26,questi:,questi,questo,PRON,_,_
 _,_,98-0,BO026,98,98,1,sì.,sì,sì,ADV,_,_
 _,_,99-0,BO037,99,99,27,eh,eh,eh,INTJ,_,_
@@ -858,7 +859,7 @@ _,_,101-10,BO026,101,101,11,è,è,essere,AUX,_,_
 _,_,101-11,BO026,101,101,12,in,in,in,ADP,_,_
 OK,_,101-12,BO026,101,101,13,pensione,pensione,pensione,NOUN,_,_
 _,_,102-0,BO037,102,102,1,mh,mh,mh,INTJ,_,_
-OK,_,103-0,BO026,103,103,1,=e:h,eh,eh,INTJ,_,_
+OK,_,103-0,BO026,103,103,1,e:h,eh,eh,INTJ,_,_
 _,_,103-1,BO026,103,103,2,mh,mh,mh,INTJ,_,_
 _,_,104-0,BO026,104,104,14,più,più,più,ADV,_,_
 _,_,104-1,BO026,104,104,15,un,un,uno,DET,_,_
@@ -913,7 +914,7 @@ _,_,107-9a,_,_,107,56,_,di,di,ADP,_,_
 _,_,107-9b,_,_,107,57,_,le,il,DET,_,_
 _,_,107-10,BO026,107,107,58,"disabilità,",disabilità,disabilità,NOUN,_,_
 _,_,108-0,BO037,108,108,1,[mh],mh,mh,INTJ,_,_
-OK,_,109-0,BO026,109,109,1,=e:h,eh,eh,INTJ,_,_
+OK,_,109-0,BO026,109,109,1,e:h,eh,eh,INTJ,_,_
 _,_,109-1,BO026,109,109,2,mh,mh,mh,INTJ,_,_
 _,_,109-2,BO026,109,109,3,ma,ma,ma,CCONJ,_,_
 _,_,109-3,BO026,109,109,4,siamo,siamo,essere,AUX,_,_
@@ -1175,10 +1176,9 @@ _,_,142-10,BO037,142,142,11,"excursus],",excursus,excursus,NOUN,_,_
 _,_,143-0,BO026,143,143,1,[credo,credo,credere,VERB,_,_
 _,_,143-1,BO026,143,143,2,anche,anche,anche,ADV,_,_
 _,_,143-2,BO026,143,143,3,di,di,di,ADP,_,_
-FAIL,"span _ nel CSV: da compilare, span del TSV non toccato | forma non derivabile dallo span — verifica manuale | token_id duplicato nel CSV",143-3,BO026,143,143,4,essermi,essermi,_,_,_,_
+FAIL,"span _ nel CSV: da compilare, span del TSV non toccato | forma non derivabile dallo span — verifica manuale | token_id duplicato nel CSV",143-3,BO026,143,143,4,essermi,essermi,essere+mi,VERB+PRON,_,_
 FAIL,"span _ nel CSV: da compilare, span del TSV non toccato | forma non derivabile dallo span — verifica manuale | token_id duplicato nel CSV",143-3a,_,_,143,_,_,esser,essere,AUX,_,_
 FAIL,"span _ nel CSV: da compilare, span del TSV non toccato | forma non derivabile dallo span — verifica manuale | token_id duplicato nel CSV",143-3b,_,_,143,_,_,mi,mi,PRON,_,_
-FAIL,"span _ nel CSV: da compilare, span del TSV non toccato | forma non derivabile dallo span — verifica manuale | token_id duplicato nel CSV",143-3,BO026,143,143,_,_,mi,mi,PRON,_,_
 _,_,143-4,BO026,143,143,5,imbattu]ta,imbattuta,imbattere,VERB,_,_
 _,_,143-5,BO026,143,143,6,in,in,in,ADP,_,_
 _,_,143-6,BO026,143,143,7,alcuni,alcuni,alcuno,DET,_,_
@@ -1209,7 +1209,7 @@ _,_,145-0,BO026,145,145,1,[pensavo,pensavo,pensare,VERB,_,_
 _,_,145-1,BO026,145,145,2,che,che,che,SCONJ,_,_
 _,_,145-2,BO026,145,145,3,fosse,fosse,essere,AUX,_,_
 _,_,145-3,BO026,145,145,4,in,in,in,ADP,_,_
-OK,_,145-4,BO026,145,145,5,language].,language,language,NOUN,Lang=en,_
+OK,_,145-4,BO026,145,145,5,language].,language,Language,PROPN,Lang=en,_
 _,_,146-0,BO026,146,146,1,s[ì].,sì,sì,ADV,_,_
 _,_,147-0,BO037,147,147,1,[q]ualcosa,qualcosa,qualcosa,PRON,_,_
 _,_,147-1,BO037,147,147,2,viene,viene,venire,AUX,_,_
@@ -1291,7 +1291,7 @@ _,_,152-15,BO037,152,152,17-18,dei,dei,_,_,_,_
 _,_,152-15a,_,_,152,17,_,di,di,ADP,_,_
 _,_,152-15b,_,_,152,18,_,i,il,DET,_,_
 _,_,152-16,BO037,152,152,19,segni,segni,segno,NOUN,_,_
-WARN,forma non derivabile dallo span — verifica manuale,152-17,BO037,152,152,20,l',di,di,ADP,_,_
+WARN,forma non derivabile dallo span — verifica manuale,152-17,BO037,152,152,20,di,di,di,ADP,_,_
 _,_,152-18,BO037,152,152,21,insegnanti:,insegnanti,insegnante,NOUN,_,_
 _,_,152-19,BO037,152,152,22,sia,sia,sia,CCONJ,_,_
 _,_,152-20,BO037,152,152,23,sordi,sordi,sordare,VERB,_,_
@@ -1322,7 +1322,7 @@ OK,_,154-16,BO026,154,154,19,la,la,il,DET,_,_
 OK,_,154-17,BO026,154,154,20,vol[terra,volterra,Volterra,PROPN,_,_
 _,_,154-18,BO026,154,154,21,e,e,e,CCONJ,_,_
 _,_,154-19,BO026,154,154,22,la:],la,il,DET,_,_
-WARN,"span _ nel CSV: da compilare, span del TSV non toccato | forma non derivabile dallo span — verifica manuale",157-2,BO026,157,157,_,_,cienneerre,CNR,PROPN,_,_
+WARN,"span _ nel CSV: da compilare, span del TSV non toccato | forma non derivabile dallo span — verifica manuale",157-2,BO026,157,157,_,cienneerre,cienneerre,CNR,PROPN,_,_
 _,_,155-0,BO037,155,155,1,[sì].,sì,sì,ADV,_,_
 _,_,156-0,BO037,156,156,1,[e:,e,e,CCONJ,_,_
 _,_,156-1,BO037,156,156,2,volevo,volevo,volere,AUX,_,_
