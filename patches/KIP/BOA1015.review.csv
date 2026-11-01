@@ -9,13 +9,15 @@ _,_,3-0,BO045,3,[s]ì,sì,sì,ADV,_,_
 _,_,3-1,BO045,3,sono,sono,essere,AUX,_,_
 _,_,3-2,BO045,3,l',l',il,DET,_,_
 OK,_,3-3,BO045,3,ultima.,ultima,ultimo,ADJ,_,_
+_,_,3-4,BO045,3,((ride)),((ride)),[LAUGH],X,_,_
 _,_,4-0,BO045,4,perché,perché,perché,SCONJ,_,_
 _,_,4-1,BO045,4,eravamo,eravamo,essere,AUX,_,_
 _,_,4-2,BO045,4,in,in,in,ADP,_,_
 _,_,4-3,BO045,4,cinque,cinque,cinque,NUM,_,_
 _,_,4-4,BO045,4,che,che,che,PRON,_,_
 _,_,4-5,BO045,4,stavamo,stavamo,essere,AUX,_,_
-OK,_,4-6,BO045,4,a~,a~,a~,X,_,_
+_,_,4-6,BO045,4,a~,a~,a~,X,_,_
+_,_,4-7,BO045,4,(.),[PAUSE],[PAUSE],X,_,_
 _,_,4-8,BO045,4,aspettando,aspettando,aspettare,VERB,_,_
 _,_,4-9,BO045,4,"su,",su,su,ADP,_,_
 _,_,5-0,BO045,5,e,e,e,CCONJ,_,_
@@ -25,7 +27,8 @@ _,_,5-3,BO045,5,alle,alle,_,_,_,_
 _,_,5-3a,_,_,_,a,a,ADP,_,_
 _,_,5-3b,_,_,_,le,il,DET,_,_
 _,_,5-4,BO045,5,quattro:],quattro,quattro,NUM,_,_
-WARN,del 6-1: overlaps=X(2),6-0,BO026,6,[ah,ah,ah,INTJ,_,_
+_,_,6-0,BO026,6,[ah,ah,ah,INTJ,_,_
+_,_,6-1,BO026,6,(.),[PAUSE],[PAUSE],X,_,_
 _,_,6-2,BO026,6,quin~,quin~,quin~,X,_,_
 _,_,6-3,BO026,6,e,e,e,CCONJ,_,_
 _,_,6-4,BO026,6,non,non,non,ADV,_,_
@@ -120,6 +123,7 @@ _,_,22-13,BO045,22,fatta,fatta,fare,VERB,_,_
 _,_,22-14,BO045,22,"praticamente,",praticamente,praticamente,ADV,_,_
 _,_,23-0,BO045,23,i:l,il,il,DET,_,_
 OK,_,23-1,BO045,23,venticinque,venticinque,venticinque,NUM,_,_
+OK,_,23-2,BO045,23,(.),[PAUSE],[PAUSE],X,_,_
 _,_,23-4,BO045,23,maggio.,maggio,maggio,NOUN,_,_
 _,_,24-0,BO026,24,quindi,quindi,quindi,ADV,_,_
 _,_,24-1,BO026,24,in,in,in,ADP,_,_
@@ -164,7 +168,8 @@ _,_,28-3,BO026,28,tutto,tutto,tutto,DET,_,_
 _,_,28-4,BO026,28,"aprile,",aprile,aprile,NOUN,_,_
 _,_,29-0,BO045,29,s~,s~,s~,X,_,_
 _,_,29-1,BO045,29,e::h,eh,eh,INTJ,_,_
-OK,_,29-2,BO045,29,mh,mh,mh,INTJ,_,_
+_,_,29-2,BO045,29,mh,mh,mh,INTJ,_,_
+_,_,29-3,BO045,29,(.),[PAUSE],[PAUSE],X,_,_
 _,_,29-4,BO045,29,ad,ad,a,ADP,_,_
 _,_,29-5,BO045,29,esempio,esempio,esempio,NOUN,_,_
 _,_,29-6,BO045,29,io,io,io,PRON,_,_
@@ -175,7 +180,8 @@ _,_,30-2,BO026,30,ma[ggio.°],maggio,maggio,NOUN,_,_
 _,_,31-0,BO045,31,[gioved]ì::,giovedì,giovedì,NOUN,_,_
 _,_,31-1,BO045,31,"po:i,",poi,poi,ADV,_,_
 _,_,32-0,BO045,32,anche,anche,anche,ADV,_,_
-OK,_,32-1,BO045,32,perché,perché,perché,SCONJ,_,_
+_,_,32-1,BO045,32,perché,perché,perché,SCONJ,_,_
+_,_,32-2,BO045,32,(.),[PAUSE],[PAUSE],X,_,_
 _,_,32-3,BO045,32,si,si,si,PRON,_,_
 _,_,32-4,BO045,32,stancano,stancano,stancare,VERB,_,_
 OK,_,32-5,BO045,32,sennò,sennò,sennò,ADV,_,_
@@ -187,7 +193,8 @@ _,_,32-10,BO045,32,dirmi,dirmi,_,_,_,_
 _,_,32-10a,_,_,_,dir,dire,VERB,_,_
 _,_,32-10b,_,_,_,mi,mi,PRON,_,_
 _,_,32-11,BO045,32,no,no,no,ADV,_,_
-OK,_,32-12,BO045,32,oggi,oggi,oggi,ADV,_,_
+_,_,32-12,BO045,32,oggi,oggi,oggi,ADV,_,_
+_,_,32-13,BO045,32,(.),[PAUSE],[PAUSE],X,_,_
 _,_,32-14,BO045,32,n~,n~,n~,X,_,_
 _,_,32-15,BO045,32,abbiamo,abbiamo,avere,AUX,_,_
 _,_,32-16,BO045,32,fatto,fatto,fare,VERB,_,_
@@ -251,8 +258,10 @@ _,_,40-15,BO045,40,anno,anno,anno,NOUN,_,_
 _,_,40-16,BO045,40,poi,poi,poi,ADV,_,_
 _,_,40-17,BO045,40,loro,loro,loro,PRON,_,_
 _,_,40-18,BO045,40,vanno,vanno,andare,VERB,_,_
-OK,_,40-19,BO045,40,direttamente,direttamente,direttamente,ADV,_,_
-OK,_,40-21,BO045,40,a,a,a,ADP,_,_
+_,_,40-19,BO045,40,direttamente,direttamente,direttamente,ADV,_,_
+_,_,40-20,BO045,40,(.),[PAUSE],[PAUSE],X,_,_
+_,_,40-21,BO045,40,a,a,a,ADP,_,_
+_,_,40-22,BO045,40,(.),[PAUSE],[PAUSE],X,_,_
 _,_,40-23,BO045,40,[new,new,New,NOUN,_,_
 _,_,40-24,BO045,40,yo]rk.,york,York,NOUN,_,_
 _,_,41-0,BO026,41,[°mh,mh,mh,INTJ,_,_
@@ -290,7 +299,8 @@ _,_,45-5,BO045,45,[le]i.,lei,lei,PRON,_,_
 _,_,46-0,BO026,46,[sì].,sì,sì,ADV,_,_
 _,_,47-0,BO026,47,n~,n~,n~,X,_,_
 _,_,47-1,BO026,47,eh,eh,eh,INTJ,_,_
-OK,_,47-2,BO026,47,"cioè,",cioè,cioè,CCONJ,_,_
+_,_,47-2,BO026,47,"cioè,",cioè,cioè,CCONJ,_,_
+_,_,47-3,BO026,47,(.),[PAUSE],[PAUSE],X,_,_
 _,_,47-4,BO026,47,può,può,potere,AUX,_,_
 _,_,47-5,BO026,47,svolgersi,svolgersi,_,_,_,_
 _,_,47-5a,_,_,_,svolger,svolgere,VERB,_,_
@@ -371,11 +381,13 @@ _,_,65-1,BO026,65,lingua,lingua,lingua,NOUN,_,_
 _,_,65-2,BO026,65,"italia[na],",italiana,italiano,ADJ,_,_
 _,_,66-0,BO045,66,[o]kay,okay,okay,INTJ,_,_
 _,_,66-1,BO045,66,quindi,quindi,quindi,ADV,_,_
-OK,_,66-2,BO045,66,posso,posso,potere,AUX,_,_
+_,_,66-2,BO045,66,posso,posso,potere,AUX,_,_
+_,_,66-3,BO045,66,(.),[PAUSE],[PAUSE],X,_,_
 _,_,66-4,BO045,66,i[ndirizzare,indirizzare,indirizzare,VERB,_,_
 _,_,66-5,BO045,66,su,su,su,ADP,_,_
 _,_,66-6,BO045,66,quello].,quello,quello,PRON,_,_
-WARN,del 67-1: overlaps=X(26),67-0,BO026,67,[sì,sì,sì,ADV,_,_
+_,_,67-0,BO026,67,[sì,sì,sì,ADV,_,_
+_,_,67-1,BO026,67,(.),[PAUSE],[PAUSE],X,_,_
 _,_,67-2,BO026,67,in,in,in,ADP,_,_
 _,_,67-3,BO026,67,maniera,maniera,maniera,NOUN,_,_
 _,_,67-4,BO026,67,li]bera,libera,libero,ADJ,_,_
@@ -505,7 +517,8 @@ _,_,86-7,BO026,86,italiana,italiana,italiano,ADJ,_,_
 _,_,86-8,BO026,86,studiata,studiata,studiare,VERB,_,_
 _,_,86-9,BO026,86,a,a,a,ADP,_,_
 _,_,86-10,BO026,86,sc[uola,scuola,scuola,NOUN,_,_
-OK,_,86-11,BO026,86,che],che,che,PRON,_,_
+_,_,86-11,BO026,86,che],che,che,PRON,_,_
+_,_,86-12,BO026,86,(.),[PAUSE],[PAUSE],X,_,_
 _,_,86-13,BO026,86,per,per,per,ADP,_,_
 _,_,86-14,BO026,86,loro,loro,loro,PRON,_,_
 _,_,86-15,BO026,86,è,è,essere,AUX,_,_
@@ -696,7 +709,8 @@ _,_,116-12,BO026,116,tipo,tipo,tipo,NOUN,_,_
 _,_,116-13,BO026,116,di,di,di,ADP,_,_
 _,_,116-14,BO026,116,dial[oghi:],dialoghi,dialogo,NOUN,_,_
 _,_,117-0,BO045,117,"[allora],",allora,allora,ADV,_,_
-OK,_,118-0,BO045,118,[io:],io,io,PRON,_,_
+_,_,118-0,BO045,118,[io:],io,io,PRON,_,_
+_,_,118-1,BO045,118,(.),[PAUSE],[PAUSE],X,_,_
 _,_,118-2,BO045,118,ho,ho,avere,AUX,_,_
 _,_,118-3,BO045,118,"no[tato],",notato,notare,VERB,_,_
 _,_,119-0,BO026,119,[come,come,come,PRON,_,_
@@ -737,8 +751,9 @@ _,_,125-1,BO026,125,più,più,più,ADV,_,_
 _,_,125-2,BO026,125,"fl[uenti],",fluenti,fluente,ADJ,_,_
 _,_,126-0,BO045,126,[molto,molto,molto,ADV,_,_
 OK,_,126-1,BO045,126,più],più,più,ADV,_,_
-OK,_,126-2,BO045,126,fluente,fluente,fluente,ADJ,_,_
-OK,_,126-3,BO045,126,soprattutto,soprattutto,soprattutto,ADV,_,_
+OK,_,126-6,BO045,126,fluente,fluente,fluente,ADJ,_,_
+_,_,126-2,BO045,126,soprattutto,soprattutto,soprattutto,ADV,_,_
+_,_,126-3,BO045,126,(.),[PAUSE],[PAUSE],X,_,_
 _,_,126-4,BO045,126,la,la,il,DET,_,_
 _,_,126-5,BO045,126,bambina.,bambina,bambino,NOUN,_,_
 _,_,127-0,BO045,127,soprat[tutto,soprattutto,soprattutto,ADV,_,_
@@ -752,7 +767,8 @@ _,_,129-1,BO045,129,sì,sì,sì,ADV,_,_
 _,_,129-2,BO045,129,perché,perché,perché,SCONJ,_,_
 _,_,129-3,BO045,129,siamo,siamo,essere,AUX,_,_
 _,_,129-4,BO045,129,partiti,partiti,partire,VERB,_,_
-OK,_,129-5,BO045,129,da,da,da,ADP,_,_
+_,_,129-5,BO045,129,da,da,da,ADP,_,_
+_,_,129-6,BO045,129,(.),[PAUSE],[PAUSE],X,_,_
 _,_,129-7,BO045,129,una,una,uno,DET,_,_
 _,_,129-8,BO045,129,fase,fase,fase,NOUN,_,_
 _,_,129-9,BO045,129,in,in,in,ADP,_,_
@@ -800,7 +816,8 @@ _,_,136-9,BO045,136,"chi,",chi,chi,PRON,_,_
 _,_,137-0,BO026,137,tra,tra,tra,ADP,_,_
 _,_,137-1,BO026,137,i,i,il,DET,_,_
 _,_,137-2,BO026,137,due,due,due,NUM,_,_
-OK,_,137-3,BO026,137,"fratelli,",fratelli,fratello,NOUN,_,_
+_,_,137-3,BO026,137,"fratelli,",fratelli,fratello,NOUN,_,_
+_,_,137-4,BO026,137,((ride)),((ride)),[LAUGH],X,_,_
 _,_,138-0,BO045,138,[esatto],esatto,esatto,ADJ,_,_
 _,_,138-1,BO045,138,e,e,e,CCONJ,_,_
 _,_,138-2,BO045,138,lei,lei,lei,PRON,_,_
@@ -847,7 +864,8 @@ _,_,141-5,BO045,141,passati,passati,passare,VERB,_,_
 _,_,141-6,BO045,141,ad,ad,a,ADP,_,_
 _,_,141-7,BO045,141,"esempio,",esempio,esempio,NOUN,_,_
 _,_,142-0,BO045,142,e::h,eh,eh,INTJ,_,_
-OK,_,142-1,BO045,142,da,da,da,ADP,_,_
+_,_,142-1,BO045,142,da,da,da,ADP,_,_
+_,_,142-2,BO045,142,(.),[PAUSE],[PAUSE],X,_,_
 _,_,142-3,BO045,142,appunto,appunto,appunto,ADV,_,_
 _,_,142-4,BO045,142,lui,lui,lui,PRON,_,_
 _,_,142-5,BO045,142,"che,",che,che,PRON,_,_
@@ -856,9 +874,11 @@ _,_,143-1,BO045,143,italiano,italiano,italiano,ADJ,_,_
 _,_,143-2,BO045,143,e,e,e,CCONJ,_,_
 _,_,143-3,BO045,143,basta,basta,bastare,VERB,_,_
 _,_,143-4,BO045,143,e,e,e,CCONJ,_,_
-OK,_,143-5,BO045,143,lei,lei,lei,PRON,_,_
+_,_,143-5,BO045,143,lei,lei,lei,PRON,_,_
+_,_,143-6,BO045,143,(.),[PAUSE],[PAUSE],X,_,_
 _,_,143-7,BO045,143,[non,non,non,ADV,_,_
-OK,_,143-8,BO045,143,la],la,la,PRON,_,_
+_,_,143-8,BO045,143,la],la,la,PRON,_,_
+_,_,143-9,BO045,143,(.),[PAUSE],[PAUSE],X,_,_
 _,_,143-10,BO045,143,considerava,considerava,considerare,VERB,_,_
 _,_,143-11,BO045,143,proprio,proprio,proprio,ADV,_,_
 _,_,143-12,BO045,143,"ora,",ora,ora,ADV,_,_
@@ -873,7 +893,8 @@ _,_,145-3b,_,_,_,l',il,DET,_,_
 _,_,145-4,BO045,145,"ultima,",ultima,ultimo,ADJ,_,_
 _,_,146-0,BO045,146,e::h,eh,eh,INTJ,_,_
 _,_,146-1,BO045,146,lui,lui,lui,PRON,_,_
-OK,_,146-2,BO045,146,chiede,chiede,chiedere,VERB,_,_
+_,_,146-2,BO045,146,chiede,chiede,chiedere,VERB,_,_
+_,_,146-3,BO045,146,(.),[PAUSE],[PAUSE],X,_,_
 _,_,146-4,BO045,146,a,a,a,ADP,_,_
 _,_,146-5,BO045,146,lei,lei,lei,PRON,_,_
 _,_,146-6,BO045,146,come,come,come,PRON,_,_
@@ -1028,7 +1049,8 @@ _,_,171-3,BO045,171,su:,su,su,ADP,_,_
 _,_,171-4,BO045,171,alla,alla,_,_,_,_
 _,_,171-4a,_,_,_,a,a,ADP,_,_
 _,_,171-4b,_,_,_,la,il,DET,_,_
-OK,_,171-5,BO045,171,fine,fine,fine,NOUN,_,_
+_,_,171-5,BO045,171,fine,fine,fine,NOUN,_,_
+_,_,171-6,BO045,171,(.),[PAUSE],[PAUSE],X,_,_
 _,_,171-7,BO045,171,[<l',l',il,DET,_,_
 _,_,171-8,BO045,171,esperienza:>,esperienza,esperienza,NOUN,_,_
 _,_,171-9,BO045,171,una,una,uno,DET,_,_
@@ -1132,7 +1154,8 @@ _,_,184-0,BO026,184,[mh],mh,mh,NOUN,_,_
 _,_,185-0,BO045,185,"[per]ò,",però,però,ADV,_,_
 _,_,186-0,BO045,186,a,a,a,ADP,_,_
 _,_,186-1,BO045,186,volte,volte,volta,NOUN,_,_
-WARN,del 186-3: overlaps=X(89),186-2,BO045,186,inv[ece,invece,invece,ADV,_,_
+_,_,186-2,BO045,186,inv[ece,invece,invece,ADV,_,_
+_,_,186-3,BO045,186,(.),[PAUSE],[PAUSE],X,_,_
 _,_,186-4,BO045,186,"(hanno,)]",hanno,avere,VERB,_,_
 _,_,187-0,BO026,187,[però,però,però,ADV,_,_
 _,_,187-1,BO026,187,con,con,con,ADP,_,_
@@ -1204,7 +1227,8 @@ _,_,199-1,BO026,199,situazione,situazione,situazione,NOUN,_,_
 _,_,199-2,BO026,199,in,in,in,ADP,_,_
 _,_,199-3,BO026,199,"cl[asse,",classe,classe,NOUN,_,_
 _,_,199-4,BO026,199,quali,quali,quale,PRON,_,_
-WARN,del 199-6: overlaps=X(97),199-5,BO026,199,sono,sono,essere,VERB,_,_
+_,_,199-5,BO026,199,sono,sono,essere,VERB,_,_
+_,_,199-6,BO026,199,(.),[PAUSE],[PAUSE],X,_,_
 _,_,199-7,BO026,199,mh].,mh,mh,INTJ,_,_
 _,_,200-0,BO045,200,[sì,sì,sì,ADV,_,_
 _,_,200-1,BO045,200,sì,sì,sì,ADV,_,_
@@ -1255,7 +1279,8 @@ _,_,208-1,BO026,208,è,è,essere,VERB,_,_
 _,_,208-2,BO026,208,molto,molto,molto,ADV,_,_
 _,_,208-3,BO026,208,p]iù,più,più,ADV,_,_
 _,_,208-4,BO026,208,"piccol[a],",piccola,piccolo,ADJ,_,_
-OK,_,209-0,BO045,209,[e],e,e,CCONJ,_,_
+_,_,209-0,BO045,209,[e],e,e,CCONJ,_,_
+_,_,209-1,BO045,209,(.),[PAUSE],[PAUSE],X,_,_
 _,_,209-2,BO045,209,mh,mh,mh,INTJ,_,_
 _,_,209-3,BO045,209,nov[e,nove,nove,NUM,_,_
 _,_,209-4,BO045,209,ann]i.,anni,anno,NOUN,_,_
@@ -1265,7 +1290,8 @@ _,_,212-0,BO045,212,lui,lui,lui,PRON,_,_
 _,_,212-1,BO045,212,fa,fa,fare,VERB,_,_
 _,_,212-2,BO045,212,il,il,il,DET,_,_
 _,_,212-3,BO045,212,tre,tre,tre,NUM,_,_
-OK,_,212-4,BO045,212,giugno,giugno,giugno,NOUN,_,_
+_,_,212-4,BO045,212,giugno,giugno,giugno,NOUN,_,_
+_,_,212-5,BO045,212,(.),[PAUSE],[PAUSE],X,_,_
 _,_,212-6,BO045,212,[tre]dici,tredici,tredici,NUM,_,_
 _,_,212-7,BO045,212,anni.,anni,anno,NOUN,_,_
 _,_,213-0,BO026,213,[°mh°],mh,mh,INTJ,_,_
@@ -1346,7 +1372,8 @@ _,_,226-1,BO026,226,qui,qui,qui,ADV,_,_
 _,_,226-2,BO026,226,in,in,in,ADP,_,_
 _,_,226-3,BO026,226,giug[no::],giugno,giugno,NOUN,_,_
 _,_,227-0,BO045,227,[e::h],eh,eh,INTJ,_,_
-OK,_,227-1,BO045,227,sì,sì,sì,ADV,_,_
+_,_,227-1,BO045,227,sì,sì,sì,ADV,_,_
+_,_,227-2,BO045,227,(.),[PAUSE],[PAUSE],X,_,_
 _,_,227-3,BO045,227,devo,devo,dovere,AUX,_,_
 _,_,227-4,BO045,227,fare::,fare,fare,VERB,_,_
 _,_,227-5,BO045,227,l~,l~,il,DET,_,_
@@ -1366,7 +1393,8 @@ _,_,227-16,BO045,227,posso,posso,potere,AUX,_,_
 _,_,227-17,BO045,227,farle,farle,_,_,_,_
 _,_,227-17a,_,_,_,far,fare,VERB,_,_
 _,_,227-17b,_,_,_,le,le,PRON,_,_
-OK,_,227-18,BO045,227,una<,una,uno,DET,_,_
+_,_,227-18,BO045,227,una<,una,uno,DET,_,_
+_,_,227-19,BO045,227,(.),[PAUSE],[PAUSE],X,_,_
 _,_,227-20,BO045,227,doman[da,domanda,domanda,NOUN,_,_
 _,_,227-21,BO045,227,e:h],eh,eh,INTJ,_,_
 _,_,228-0,BO026,228,[l',l',il,DET,_,_
@@ -1413,7 +1441,8 @@ _,_,239-3,BO026,239,più,più,più,ADV,_,_
 _,_,239-4,BO026,239,estesa,estesa,esteso,ADJ,_,_
 _,_,239-5,BO026,239,e,e,e,CCONJ,_,_
 _,_,239-6,BO026,239,due,due,due,NUM,_,_
-OK,_,239-7,BO026,239,no,no,no,ADV,_,_
+_,_,239-7,BO026,239,no,no,no,ADV,_,_
+_,_,239-8,BO026,239,(.),[PAUSE],[PAUSE],X,_,_
 _,_,239-9,BO026,239,l',l',il,DET,_,_
 _,_,239-10,BO026,239,incontrario,incontrario,incontrario,NOUN,_,_
 _,_,239-11,BO026,239,[mi,mi,mi,PRON,_,_
@@ -1498,7 +1527,8 @@ _,_,255-0,BO026,255,entrare,entrare,entrare,VERB,_,_
 _,_,255-1,BO026,255,più,più,più,ADV,_,_
 _,_,255-2,BO026,255,in,in,in,ADP,_,_
 _,_,255-3,BO026,255,dettaglio,dettaglio,dettaglio,NOUN,_,_
-OK,_,255-4,BO026,255,fornire,fornire,fornire,VERB,_,_
+_,_,255-4,BO026,255,fornire,fornire,fornire,VERB,_,_
+_,_,255-5,BO026,255,(.),[PAUSE],[PAUSE],X,_,_
 _,_,255-6,BO026,255,informazioni,informazioni,informazione,NOUN,_,_
 _,_,255-7,BO026,255,[che,che,che,PRON,_,_
 _,_,255-8,BO026,255,non,non,non,ADV,_,_
@@ -1566,7 +1596,8 @@ _,_,266-3,BO045,266,m]i,mi,mi,PRON,_,_
 _,_,266-4,BO045,266,pare,pare,parere,VERB,_,_
 _,_,266-5,BO045,266,di,di,di,ADP,_,_
 _,_,266-6,BO045,266,s~,s~,sì,INTJ,_,_
-OK,_,266-7,BO045,266,vabbè.,vabbè,vabbè,INTJ,_,_
+_,_,266-7,BO045,266,vabbè.,vabbè,vabbè,INTJ,_,_
+_,_,267-0,BO045,267,((ride)),((ride)),[LAUGH],X,_,_
 _,_,267-1,BO045,267,non,non,non,ADV,_,_
 _,_,267-2,BO045,267,ci,ci,ci,PRON,_,_
 _,_,267-3,BO045,267,son,son,essere,VERB,_,_
@@ -1642,7 +1673,8 @@ _,_,277-3,BO045,277,al,al,_,_,_,_
 _,_,277-3a,_,_,_,a,a,ADP,_,_
 _,_,277-3b,_,_,_,il,il,DET,_,_
 _,_,277-4,BO045,277,suo],suo,suo,DET,_,_
-OK,_,277-5,BO045,277,pross[imo],prossimo,prossimo,ADJ,_,_
+_,_,277-5,BO045,277,pross[imo],prossimo,prossimo,ADJ,_,_
+_,_,277-6,BO045,277,(.),[PAUSE],[PAUSE],X,_,_
 _,_,277-7,BO045,277,"[ricevimento],",ricevimento,ricevimento,NOUN,_,_
 _,_,278-0,BO026,278,[sì].,sì,sì,ADV,_,_
 _,_,279-0,BO026,279,[ricevimento,ricevimento,ricevimento,NOUN,_,_
@@ -1684,7 +1716,8 @@ _,_,285-0,BO026,285,mi:,mi,mi,PRON,_,_
 _,_,285-1,BO026,285,mi,mi,mi,PRON,_,_
 _,_,285-2,BO026,285,più,più,più,ADV,_,_
 _,_,285-3,BO026,285,che,che,che,ADP,_,_
-OK,_,285-4,BO026,285,altro,altro,altro,PRON,_,_
+_,_,285-4,BO026,285,altro,altro,altro,PRON,_,_
+_,_,285-5,BO026,285,(.),[PAUSE],[PAUSE],X,_,_
 _,_,285-6,BO026,285,m::h,mh,mh,INTJ,_,_
 _,_,285-7,BO026,285,per,per,per,ADP,_,_
 _,_,285-8,BO026,285,capire,capire,capire,VERB,_,_

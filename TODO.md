@@ -22,11 +22,11 @@ Each conversation moves through four states (see `docs/modules/ROOT/pages/pipeli
 
 | Module | Total conversations | Integrated | Patch ready | In progress | Not started |
 |---|---|---|---|---|---|
-| KIP | 121 | 14 | 32 | 0 | 75 |
+| KIP | 121 | 15 | 31 | 0 | 75 |
 | KIPasti | 63 | 0 | 4 | 0 | 59 |
 | ParlaBO | 85 | 0 | 2 | 0 | 83 |
 | ParlaTO | 67 | 0 | 2 | 0 | 65 |
-| **Total** | **336** | **14** | **40** | **0** | **282** |
+| **Total** | **336** | **15** | **39** | **0** | **282** |
 
 ## Integrated
 
@@ -46,8 +46,11 @@ Applied on KIP `dev` (commits of `moduli/KIP`; "—" = nothing to do for that st
 | BOA1010 | 2026-10-30 | `3e5dfa6` | `dea2d38` | `3725f87` |
 | BOA1012 | 2026-11-01 | `f1e1fc8` | `64848fd` | `3d1cac7` |
 | BOA1014 | 2026-11-01 | `415d5af` | `64848fd` | `3d1cac7` |
+| BOA1015 | 2026-11-01 | `c3be461` | `804d79f` | `d914303` |
 | BOA1017 | 2026-11-01 | — | `64848fd` | — |
 | BOA1025 | 2026-11-01 | `6db7a59` | `64848fd` | `3d1cac7` |
+
+BOA1015: `23-2` (a pause that was between `venti` and `cinque`, now merged into `venticinque`) comes after the word; the overlaps of the deleted `24-7` and `176-13` have to be assigned by hand.
 
 BOA1009: the overlaps of `17-1` (group 6, whose other member `18-0` is gone) and of the deleted `156-4`, `157-0`, `157-1` still have to be assigned by hand in the tsv.
 
@@ -85,7 +88,6 @@ Items still to check by hand in each recap (`da verificare`) and timestamp confl
 | BOD2005 | KIP | 4 | 0 |
 | BOA3015 | KIP | 5 | 0 |
 | TOD1002 | KIP | 5 | 1 |
-| BOA1015 | KIP | 6 | 0 |
 | BOC1009 | KIP | 6 | 0 |
 | BOA3010 | KIP | 16 | 0 |
 | PBC007 | ParlaBO | 22 | 0 |
