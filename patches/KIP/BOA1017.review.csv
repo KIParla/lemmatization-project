@@ -598,11 +598,10 @@ _,_,94-1,BO082,94,facciamo,facciamo,fare,VERB,_,_
 _,_,94-2,BO082,94,una,una,uno,DET,_,_
 _,_,94-3,BO082,94,"tesi,",tesi,tesi,NOUN,Intonation=weakly_rising,_
 _,_,95-0,BO082,95,"diciamo,",diciamo,dire,VERB,Intonation=weakly_rising,_
-FAIL,token_id duplicato nel CSV,96-0,_,_,_,su,su,ADP,_,_
-FAIL,token_id duplicato nel CSV,96-0,BO082,96,su,su,su,ADP,_,_
+_,_,96-0,BO082,96,su,su,su,ADP,_,_
 _,_,96-1,BO082,96,sul,sul,_,_,_,_
-OK,_,,,_,_,su ,su,ADP,_,_
-_,_,96-1a,_,_,_,il,il,DET,_,_
+_,_,96-1a,,_,_,su,su,ADP,_,_
+_,_,96-1b,_,_,_,il,il,DET,_,_
 _,_,96-2,BO082,96,genere,genere,genere,NOUN,_,_
 _,_,96-3,BO082,96,in,in,in,ADP,_,_
 _,_,96-4,BO082,96,generale,generale,generale,ADV,_,_

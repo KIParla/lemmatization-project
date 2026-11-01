@@ -598,11 +598,10 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 94-2,BO082,94,una,una,uno,DET,_,_
 94-3,BO082,94,"tesi,",tesi,tesi,NOUN,Intonation=weakly_rising,_
 95-0,BO082,95,"diciamo,",diciamo,dire,VERB,Intonation=weakly_rising,_
-96-0,_,_,_,su,su,ADP,_,_
 96-0,BO082,96,su,su,su,ADP,_,_
 96-1,BO082,96,sul,sul,_,_,_,_
-,,_,_,su ,su,ADP,_,_
-96-1a,_,_,_,il,il,DET,_,_
+96-1a,,_,_,su,su,ADP,_,_
+96-1b,_,_,_,il,il,DET,_,_
 96-2,BO082,96,genere,genere,genere,NOUN,_,_
 96-3,BO082,96,in,in,in,ADP,_,_
 96-4,BO082,96,generale,generale,generale,ADV,_,_
@@ -1704,8 +1703,4 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 265-0,BO084,265,[buona,buona,buono,ADJ,_,_
 265-1,BO084,265,giornata],giornata,giornata,NOUN,_,_
 266-0,BO082,266,[arrivederci].,arrivederci,arrivederci,INTJ,Intonation=falling,_
-266-0a,_,_,_,,,,_,_
-266-0b,_,_,_,,,,_,_
 267-0,BO084,267,arrivederci.,arrivederci,arrivederci,INTJ,Intonation=falling,_
-267-0a,_,_,_,,,,_,_
-267-0b,_,_,_,,,,_,_

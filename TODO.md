@@ -22,11 +22,11 @@ Each conversation moves through four states (see `docs/modules/ROOT/pages/pipeli
 
 | Module | Total conversations | Integrated | Patch ready | In progress | Not started |
 |---|---|---|---|---|---|
-| KIP | 121 | 10 | 36 | 0 | 75 |
+| KIP | 121 | 14 | 32 | 0 | 75 |
 | KIPasti | 63 | 0 | 4 | 0 | 59 |
 | ParlaBO | 85 | 0 | 2 | 0 | 83 |
 | ParlaTO | 67 | 0 | 2 | 0 | 65 |
-| **Total** | **336** | **10** | **44** | **0** | **282** |
+| **Total** | **336** | **14** | **40** | **0** | **282** |
 
 ## Integrated
 
@@ -44,6 +44,10 @@ Applied on KIP `dev` (commits of `moduli/KIP`; "—" = nothing to do for that st
 | BOA1008 | 2026-10-30 | — | `54f767e` | — |
 | BOA1009 | 2026-10-30 | `4c32806` | `d43655b` | `62c1ffd` |
 | BOA1010 | 2026-10-30 | `3e5dfa6` | `dea2d38` | `3725f87` |
+| BOA1012 | 2026-11-01 | `f1e1fc8` | `64848fd` | `3d1cac7` |
+| BOA1014 | 2026-11-01 | `415d5af` | `64848fd` | `3d1cac7` |
+| BOA1017 | 2026-11-01 | — | `64848fd` | — |
+| BOA1025 | 2026-11-01 | `6db7a59` | `64848fd` | `3d1cac7` |
 
 BOA1009: the overlaps of `17-1` (group 6, whose other member `18-0` is gone) and of the deleted `156-4`, `157-0`, `157-1` still have to be assigned by hand in the tsv.
 
@@ -53,9 +57,6 @@ Items still to check by hand in each recap (`da verificare`) and timestamp confl
 
 | Conversation | Module | To check | Conflicts |
 |---|---|---|---|
-| BOA1012 | KIP | 0 | 0 |
-| BOA1017 | KIP | 0 | 0 |
-| BOA1025 | KIP | 0 | 0 |
 | BOA3001 | KIP | 0 | 0 |
 | BOA3011 | KIP | 0 | 0 |
 | BOA3013 | KIP | 0 | 0 |
@@ -67,7 +68,6 @@ Items still to check by hand in each recap (`da verificare`) and timestamp confl
 | KPC008 | KIPasti | 0 | 0 |
 | PTA002 | ParlaTO | 0 | 0 |
 | PTB005 | ParlaTO | 0 | 0 |
-| BOA1014 | KIP | 1 | 0 |
 | BOC1001 | KIP | 1 | 0 |
 | BOC1005 | KIP | 1 | 0 |
 | BOD1011 | KIP | 1 | 0 |
