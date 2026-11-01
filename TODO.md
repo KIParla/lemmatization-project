@@ -22,11 +22,11 @@ Each conversation moves through four states (see `docs/modules/ROOT/pages/pipeli
 
 | Module | Total conversations | Integrated | Patch ready | In progress | Not started |
 |---|---|---|---|---|---|
-| KIP | 121 | 17 | 29 | 0 | 75 |
+| KIP | 121 | 18 | 28 | 0 | 75 |
 | KIPasti | 63 | 0 | 4 | 0 | 59 |
 | ParlaBO | 85 | 0 | 2 | 0 | 83 |
 | ParlaTO | 67 | 0 | 2 | 0 | 65 |
-| **Total** | **336** | **17** | **37** | **0** | **282** |
+| **Total** | **336** | **18** | **36** | **0** | **282** |
 
 ## Integrated
 
@@ -51,6 +51,7 @@ Applied on KIP `dev` (commits of `moduli/KIP`; "—" = nothing to do for that st
 | BOA1025 | 2026-11-01 | `6db7a59` | `64848fd` | `3d1cac7` |
 | BOA3001 | 2026-11-01 | `78775cf` | `ff23e61` | `6bb111a` |
 | BOA3004 | 2026-11-01 | `0828b93` | `ff23e61` | `6bb111a` |
+| BOA3010 | 2026-11-01 | `ad2c5af` | `3a3501d` | `28d41ea` |
 
 BOA3004: `525-0` is now a `((ride))`; the overlap group 136 now has the whole-token overlap `X(136)` on it, check it. The overlaps of the deleted `6-3` (guesses) have to be assigned by hand.
 
@@ -91,7 +92,6 @@ Items still to check by hand in each recap (`da verificare`) and timestamp confl
 | BOA3015 | KIP | 5 | 0 |
 | TOD1002 | KIP | 5 | 1 |
 | BOC1009 | KIP | 6 | 0 |
-| BOA3010 | KIP | 16 | 0 |
 | PBC007 | ParlaBO | 22 | 0 |
 | BOA3021 | KIP | 23 | 0 |
 | TOD1016 | KIP | 33 | 0 |
