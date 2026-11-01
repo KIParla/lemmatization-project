@@ -301,7 +301,7 @@ _,_,33-3,BO021,33,33,4,buttare,buttare,buttare,VERB,_,_
 _,_,34-0,BO047,34,34,1,giu[stamente],giustamente,giustamente,ADV,_,_
 OK,_,35-0,BO021,35,35,1,[a,a,la,DET,Lang=und|Dialect=Yes,_
 OK,_,35-1,BO021,35,35,2,fess,fess,fessa,NOUN,Lang=und|Dialect=Yes,_
-OK,_,35-2,BO021,35,35,3,r'],r',di,ADP,Truncated=Yes|Lang=und|Dialect=Yes,_
+OK,_,35-2,BO021,35,35,3,r'],r',di,ADP,Lang=und|Dialect=Yes,_
 OK,_,35-3,BO021,35,35,4-5,mammete,mammete,_,_,Lang=und|Dialect=Yes,_
 OK,_,35-3a,_,_,35,4,_,mamm,mamma,NOUN,Lang=und|Dialect=Yes,_
 OK,_,35-3b,_,_,35,5,_,te,tua,DET,Lang=und|Dialect=Yes,_
@@ -364,7 +364,7 @@ _,_,41-19,BO046,41,41,21,mollo,mollo,molle,ADJ,_,_
 _,_,42-0,BO021,42,42,1,no,no,no,ADV,_,_
 _,_,42-1,BO021,42,42,2,ma,ma,ma,CCONJ,_,_
 _,_,42-2,BO021,42,42,3,poi,poi,poi,ADV,_,_
-OK,_,42-3,BO021,42,42,4,capiì,capiì,capire,VERB,Lang=und|Dialect=Yes,_
+OK,_,42-3,BO021,42,42,4,capi',capi',capire,VERB,Truncated=Yes,_
 _,_,42-4,BO021,42,42,5,cioè,cioè,cioè,CCONJ,_,_
 _,_,42-5,BO021,42,42,6,cazzarola,cazzarola,cazzarola,INTJ,_,_
 _,_,42-6,BO021,42,42,7,è,è,essere,VERB,_,_
@@ -2290,8 +2290,7 @@ _,_,265-15,BO021,265,265,17,non,non,non,ADV,_,_
 _,_,265-16,BO021,265,265,18,cono~,cono~,conoscere,VERB,_,_
 _,_,265-17,BO021,265,265,19,[faccio,faccio,fare,VERB,_,_
 _,_,265-18,BO021,265,265,20,co]noscenza.,conoscenza,conoscenza,NOUN,_,_
-OK,_,266-0,???,266,266,1,[a,a,a,ADP,_,_
-OK,_,266-1,???,266,266,2,voglia],voglia,voglia,NOUN,_,_
+OK,_,266-0,???,266,266,1,[avoglia,avoglia,avoglia,ADV,_,_
 _,_,267-0,BO021,267,267,1,oh,oh,oh,INTJ,_,_
 _,_,267-1,BO021,267,267,2,sti,sti,questo,PRON,_,_
 _,_,267-2,BO021,267,267,3,"qua,",qua,qua,ADV,_,_
@@ -2796,8 +2795,9 @@ _,_,331-0,BO046,331,331,1,ciao.,ciao,ciao,INTJ,_,_
 _,_,332-0,BO046,332,332,1,no,no,no,INTJ,_,_
 _,_,332-1,BO046,332,332,2,"grazie,",grazie,grazie,INTJ,_,_
 _,_,332-2,BO046,332,332,3,[niente].,niente,niente,PRON,_,_
-OK,_,333-0,???,333,333,1,[do,do,do,VERB,Lang=en,_
-OK,_,333-1,???,333,333,2,n't],n't,not,ADV,Lang=en,_
+OK,_,333-0,???,333,333,1,[don't,don't,_,_,Lang=en,_
+OK,_,333-0a,???,333,333,1,_,do,do,VERB,Lang=en,_
+OK,_,333-0b,???,333,333,2,_,n't,not,ADV,Lang=en,_
 OK,_,333-2,???,333,333,3,worry.,worry,worry,VERB,Lang=en,_
 OK,_,333-3,???,333,333,4,be,be,be,VERB,Lang=en,_
 OK,_,333-4,???,333,333,5,[happy],happy,happy,ADJ,Lang=en,_
@@ -11627,7 +11627,7 @@ _,_,1548-2a,_,_,1548,3a,_,prender,prender,VERB,_,_
 _,_,1548-2b,_,_,1548,3b,_,te,te,PRON,_,_
 _,_,1548-2c,_,_,1548,3c,_,la,la,PRON,_,_
 _,_,1548-3,BO048,1548,1548,4,più,più,più,ADV,_,_
-OK,_,1548-4,BO048,1548,1548,5,polleg?,polleg,polleg,INTJ,_,_
+OK,_,1548-4,BO048,1548,1548,5,polleg?,polleg,polleg,INTJ,Lang=und|Dialect=Yes,_
 _,_,1549-0,BO048,1549,1549,1,e,e,e,CCONJ,_,_
 _,_,1549-1,BO048,1549,1549,2,andare,andare,andare,VERB,_,_
 _,_,1549-2,BO048,1549,1549,3,tipo:::,tipo,tipo,NOUN,_,_

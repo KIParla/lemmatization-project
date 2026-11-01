@@ -22,11 +22,11 @@ Each conversation moves through four states (see `docs/modules/ROOT/pages/pipeli
 
 | Module | Total conversations | Integrated | Patch ready | In progress | Not started |
 |---|---|---|---|---|---|
-| KIP | 121 | 15 | 31 | 0 | 75 |
+| KIP | 121 | 17 | 29 | 0 | 75 |
 | KIPasti | 63 | 0 | 4 | 0 | 59 |
 | ParlaBO | 85 | 0 | 2 | 0 | 83 |
 | ParlaTO | 67 | 0 | 2 | 0 | 65 |
-| **Total** | **336** | **15** | **39** | **0** | **282** |
+| **Total** | **336** | **17** | **37** | **0** | **282** |
 
 ## Integrated
 
@@ -49,6 +49,10 @@ Applied on KIP `dev` (commits of `moduli/KIP`; "—" = nothing to do for that st
 | BOA1015 | 2026-11-01 | `c3be461` | `804d79f` | `d914303` |
 | BOA1017 | 2026-11-01 | — | `64848fd` | — |
 | BOA1025 | 2026-11-01 | `6db7a59` | `64848fd` | `3d1cac7` |
+| BOA3001 | 2026-11-01 | `78775cf` | `ff23e61` | `6bb111a` |
+| BOA3004 | 2026-11-01 | `0828b93` | `ff23e61` | `6bb111a` |
+
+BOA3004: `525-0` is now a `((ride))`; the overlap group 136 now has the whole-token overlap `X(136)` on it, check it. The overlaps of the deleted `6-3` (guesses) have to be assigned by hand.
 
 BOA1015: `23-2` (a pause that was between `venti` and `cinque`, now merged into `venticinque`) comes after the word; the overlaps of the deleted `24-7` and `176-13` have to be assigned by hand.
 
@@ -60,7 +64,6 @@ Items still to check by hand in each recap (`da verificare`) and timestamp confl
 
 | Conversation | Module | To check | Conflicts |
 |---|---|---|---|
-| BOA3001 | KIP | 0 | 0 |
 | BOA3011 | KIP | 0 | 0 |
 | BOA3013 | KIP | 0 | 0 |
 | BOA3016 | KIP | 0 | 0 |
@@ -84,7 +87,6 @@ Items still to check by hand in each recap (`da verificare`) and timestamp confl
 | TOA3008 | KIP | 2 | 0 |
 | TOD1005 | KIP | 2 | 0 |
 | TOD1008 | KIP | 3 | 0 |
-| BOA3004 | KIP | 4 | 0 |
 | BOD2005 | KIP | 4 | 0 |
 | BOA3015 | KIP | 5 | 0 |
 | TOD1002 | KIP | 5 | 1 |
