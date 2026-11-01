@@ -50,7 +50,7 @@ _,_,3-11b,_,_,3,13,_,la,il,DET,_,_
 _,_,3-12,BO086,3,3,14,svizzera,svizzera,Svizzera,PROPN,_,_
 _,_,3-13,BO086,3,3,15,"italiana,",italiana,italiano,ADJ,_,_
 _,_,3-14,BO086,3,3,16,da,da,da,ADP,_,_
-WARN,forma non derivabile dallo span — verifica manuale,3-15,BO086,3,3,17-18,"@nomepaese,","@nomepaese,",[PLACE],NOUN,_,_
+_,_,3-15,BO086,3,3,17-18,"@nomepaese,",@nomepaese,[PLACE],NOUN,_,_
 _,_,4-0,BO086,4,4,1,che,che,che,PRON,_,_
 _,_,4-1,BO086,4,4,2,è,è,essere,VERB,_,_
 _,_,4-2,BO086,4,4,3,un,un,uno,DET,_,_
@@ -136,7 +136,7 @@ _,_,12-13,BO086,12,12,14,un,un,uno,DET,_,_
 _,_,12-14,BO086,12,12,15,anno,anno,anno,NOUN,_,_
 _,_,12-15,BO086,12,12,16,molto,molto,molto,ADV,_,_
 _,_,12-16,BO086,12,12,17,di~,di~,di~,X,_,_
-OK,_,12-17,BO086,12,12,18,m,m,m,X,_,_
+OK,_,12-17,BO086,12,12,18,m~,m~,m~,X,_,_
 _,_,12-18,BO086,12,12,19,molto,molto,molto,ADJ,_,_
 _,_,12-19,BO086,12,12,20,divertimento,divertimento,divertimento,NOUN,_,_
 _,_,12-20,BO086,12,12,21,con,con,con,ADP,_,_
@@ -293,8 +293,8 @@ _,_,20-17,BO086,20,20,18,venuta,venuta,venire,VERB,_,_
 _,_,20-18,BO086,20,20,19,io,io,io,PRON,_,_
 _,_,20-19,BO086,20,20,20,studiavo,studiavo,studiare,VERB,_,_
 _,_,20-20,BO086,20,20,21,anco~,anco~,anco~,X,_,_
-_,_,20-21,BO086,20,20,22,s,s,s,X,_,_
-OK,_,20-22,BO086,20,20,23,m,m,m,X,_,_
+OK,_,20-21,BO086,20,20,22,s~,s~,s~,X,_,_
+OK,_,20-22,BO086,20,20,23,m~,m~,m~,X,_,_
 _,_,20-23,BO086,20,20,24,facevo,facevo,fare,VERB,_,_
 _,_,20-24,BO086,20,20,25,ancora,ancora,ancora,ADV,_,_
 _,_,20-25,BO086,20,20,26,il,il,il,DET,_,_
@@ -776,7 +776,7 @@ _,_,57-12,BO086,57,57,13,adesso,adesso,adesso,ADV,_,_
 _,_,57-13,BO086,57,57,14,"guarda,",guarda,guardare,VERB,_,_
 _,_,57-14,BO086,57,57,15,((ride)),((ride)),[LAUGH],X,_,_
 _,_,57-15,BO086,57,57,16,ne,ne,ne,PRON,_,_
-WARN,forma non derivabile dallo span — verifica manuale,57-16,BO086,57,57,17,abbiam,abbiamo,avere,AUX,_,_
+_,_,57-16,BO086,57,57,17,abbiam,abbiam,avere,AUX,_,_
 _,_,57-17,BO086,57,57,18,passate,passate,passare,VERB,_,_
 _,_,57-18,BO086,57,57,19,di,di,di,ADP,_,_
 _,_,57-19,BO086,57,57,20,tutti,tutti,tutto,DET,_,_
@@ -1291,7 +1291,7 @@ _,_,100-5,BO086,100,100,6,po',po',poco,ADV,_,_
 _,_,100-6,BO086,100,100,7,(.),[PAUSE],[PAUSE],X,_,_
 _,_,100-7,BO086,100,100,8,appartata.,appartata,appartato,ADJ,_,_
 _,_,101-0,BO086,101,101,1,però::,però,però,ADV,_,_
-OK,_,101-1,BO086,101,101,2,m,m,m,INTJ,_,_
+OK,_,101-1,BO086,101,101,2,m~,m~,m~,INTJ,_,_
 _,_,101-2,BO086,101,101,3,[sì].,sì,sì,INTJ,_,_
 _,_,102-0,BO115,102,102,1,[invece]::,invece,invece,ADV,_,_
 _,_,102-1,BO115,102,102,2,la,la,il,DET,_,_
@@ -1821,7 +1821,7 @@ _,_,142-28,BO086,142,142,30,"teatro,",teatro,teatro,NOUN,_,_
 _,_,143-0,BO086,143,143,1,e::h,eh,eh,INTJ,_,_
 _,_,143-1,BO086,143,143,2,devi,devi,dovere,AUX,_,_
 OK,_,143-2,BO086,143,143,3,devi::,devi,dovere,AUX,_,_
-OK,_,143-12,,,,,_,mh,mh,INTJ,_,_
+OK,_,143-12,,,,,mh,mh,mh,INTJ,_,_
 _,_,143-3,BO086,143,143,4,(.),[PAUSE],[PAUSE],X,_,_
 _,_,143-4,BO086,143,143,5,poi,poi,poi,ADV,_,_
 _,_,143-5,BO086,143,143,6,"girare,",girare,girare,VERB,_,_
@@ -2151,16 +2151,12 @@ _,_,174-4,BO086,174,174,5,non,non,non,ADV,_,_
 _,_,174-5,BO086,174,174,6,son,son,essere,AUX,_,_
 _,_,174-6,BO086,174,174,7,proprio,proprio,proprio,ADV,_,_
 _,_,174-7,BO086,174,174,8,di,di,di,ADP,_,_
-WARN,forma non derivabile dallo span — verifica manuale,174-8,BO086,174,174,9-10,"@nomepaese,","@nomepaese,",_,_,_,_
-WARN,forma non derivabile dallo span — verifica manuale,174-8a,_,_,174,9,_,@nomepaese,@nomepaesa,NOUN,_,_
-WARN,forma non derivabile dallo span — verifica manuale,174-8b,_,_,174,10,_,",",",",PUNCT,_,_
+_,_,174-8,BO086,174,174,9-10,"@nomepaese,",@nomepaese,[PLACE],_,_,_
 _,_,174-9,BO086,174,174,11,però,però,però,ADV,_,_
 _,_,174-10,BO086,174,174,12,sto,sto,stare,VERB,_,_
 _,_,174-11,BO086,174,174,13,vicino,vicino,vicino,ADV,_,_
 _,_,174-12,BO086,174,174,14,a,a,a,ADP,_,_
-WARN,forma non derivabile dallo span — verifica manuale,174-13,BO086,174,174,15-16,@nomepaese.,@nomepaese.,_,_,_,_
-WARN,forma non derivabile dallo span — verifica manuale,174-13a,_,_,174,15,_,@nomepaese,@nomepaese,NOUN,_,_
-WARN,forma non derivabile dallo span — verifica manuale,174-13b,_,_,174,16,_,.,.,PUNCT,_,_
+_,_,174-13,BO086,174,174,15-16,@nomepaese.,@nomepaese,[PLACE],_,_,_
 _,_,175-0,BO086,175,175,1,io,io,io,PRON,_,_
 _,_,175-1,BO086,175,175,2,non,non,non,ADV,_,_
 _,_,175-2,BO086,175,175,3,(.),[PAUSE],[PAUSE],X,_,_
@@ -2887,7 +2883,7 @@ _,_,242-5,BO115,242,242,6,"no,",no,no,INTJ,_,_
 _,_,242-6,BO115,242,242,7,in,in,in,ADP,_,_
 _,_,242-7,BO115,242,242,8,"realtà,",realtà,realtà,NOUN,_,_
 _,_,242-8,BO115,242,242,9,si,si,si,PRON,_,_
-OK,_,242-9,BO115,242,242,10,m,m,m,X,_,_
+OK,_,242-9,BO115,242,242,10,m~,m~,m~,X,_,_
 _,_,242-10,BO115,242,242,11,mettono,mettono,mettere,VERB,_,_
 _,_,242-11,BO115,242,242,12,assieme,assieme,assieme,ADV,_,_
 _,_,242-12,BO115,242,242,13,e,e,e,CCONJ,_,_
@@ -3055,7 +3051,7 @@ _,_,256-2,BO086,256,256,3,"estate,",estate,estato,ADJ,_,_
 _,_,256-3,BO086,256,256,4,e:hm,ehm,ehm,INTJ,_,_
 _,_,256-4,BO086,256,256,5,quest',quest',questo,DET,_,_
 _,_,256-5,BO086,256,256,6,estate,estate,estate,NOUN,_,_
-OK,_,256-6,BO086,256,256,7,m,m,m,X,_,_
+OK,_,256-6,BO086,256,256,7,m~,m~,m~,X,_,_
 _,_,256-7,BO086,256,256,8,lui,lui,lui,PRON,_,_
 _,_,256-8,BO086,256,256,9,ha,ha,avere,AUX,_,_
 _,_,256-9,BO086,256,256,10,conosciuto::,conosciuto,conoscere,VERB,_,_
@@ -3296,7 +3292,7 @@ _,_,280-2,BO115,280,280,3,((ride)),((ride)),[LAUGH],X,_,_
 _,_,281-0,BO115,281,281,1,[ah,ah,ah,INTJ,_,_
 _,_,281-1,BO115,281,281,2,quindi],quindi,quindi,ADV,_,_
 OK,_,281-2,BO115,281,281,3,vivi:,vivi,vivere,VERB,_,_
-OK,_,281-6,,,,,tipo,tipo,tipo,ADV,_,_
+OK,_,281-6,,,,,tipo,tipo,tipo,NOUN,_,_
 _,_,281-3,BO115,281,281,4,in,in,in,ADP,_,_
 _,_,281-4,BO115,281,281,5-6,@nomeluogo.,@nomeluogo,[PLACE],PROPN,_,_
 _,_,281-5,BO115,281,281,7,l[ì:].,lì,lì,ADV,_,_
@@ -3364,10 +3360,8 @@ _,_,288-13a,_,_,288,15,_,da,da,ADP,_,_
 _,_,288-13b,_,_,288,16,_,il,il,DET,_,_
 _,_,288-14,BO086,288,288,17,toscano,toscano,toscano,NOUN,_,_
 _,_,288-15,BO086,288,288,18,in,in,in,ADP,_,_
-WARN,forma non derivabile dallo span — verifica manuale,288-16,BO086,288,288,19-20,@nomeluogo.,@nomeluogo.,_,_,_,_
-WARN,forma non derivabile dallo span — verifica manuale,288-16a,_,_,288,19,_,@nomeluogo,@nomeluogo,NOUN,_,_
-WARN,forma non derivabile dallo span — verifica manuale,288-16b,_,_,288,20,_,.,.,PUNCT,_,_
-_,_,289-0,BO086,289,289,1,gli,gli,il,DET,_,_
+_,_,288-16,BO086,288,288,19-20,@nomeluogo.,@nomeluogo,[PLACE],_,_,_
+_,_,289-0,BO086,289,289,1,gli,gli,gli,PRON,_,_
 _,_,289-1,BO086,289,289,2,faccio,faccio,faccio,NOUN,_,_
 _,_,289-2,BO086,289,289,3,"oddio,",oddio,oddio,INTJ,_,_
 _,_,289-3,BO086,289,289,4,ma,ma,ma,CCONJ,_,_
@@ -3599,7 +3593,7 @@ _,_,325-2,BO086,325,325,3,se,se,se,SCONJ,_,_
 _,_,325-3,BO086,325,325,4,ti,ti,ti,PRON,_,_
 _,_,325-4,BO086,325,325,5,"va,",va,andare,VERB,_,_
 _,_,325-5,BO086,325,325,6,se::,se,se,SCONJ,_,_
-OK,_,325-6,BO086,325,325,7,m,m,m,INTJ,_,_
+OK,_,325-6,BO086,325,325,7,m~,m~,m~,INTJ,_,_
 _,_,325-7,BO086,325,325,8,"perché,",perché,perché,SCONJ,_,_
 _,_,325-8,BO086,325,325,9,no,no,no,INTJ,_,_
 _,_,325-9,BO086,325,325,10,in,in,in,ADP,_,_
@@ -3628,7 +3622,7 @@ _,_,326-18,BO086,326,326,19,un,un,uno,DET,_,_
 _,_,326-19,BO086,326,326,20,"esame,",esame,esame,NOUN,_,_
 _,_,326-20,BO086,326,326,21,e,e,e,CCONJ,_,_
 _,_,326-21,BO086,326,326,22,stamattina:,stamattina,stamattina,NOUN,_,_
-OK,_,326-22,BO086,326,326,23,m,m,m,INTJ,_,_
+OK,_,326-22,BO086,326,326,23,m~,m~,m~,INTJ,_,_
 _,_,326-23,BO086,326,326,24,non,non,non,ADV,_,_
 _,_,326-24,BO086,326,326,25,ho,ho,avere,AUX,_,_
 _,_,326-25,BO086,326,326,26,dormito.,dormito,dormire,VERB,_,_
@@ -3881,12 +3875,12 @@ _,_,364-0,BO115,364,364,1,sì.,sì,sì,INTJ,_,_
 _,_,365-0,BO086,365,365,1,no.,no,no,INTJ,_,_
 _,_,365-1,BO086,365,365,2,allora,allora,allora,ADV,_,_
 _,_,365-2,BO086,365,365,3,la:,la,il,DET,_,_
-OK,_,365-3,BO086,365,365,4,m,m,m,X,_,_
+OK,_,365-3,BO086,365,365,4,m~,m~,~m,X,_,_
 _,_,365-4,BO086,365,365,5,(.),[PAUSE],[PAUSE],X,_,_
 _,_,365-5,BO086,365,365,6,tai.,tai,tai,X,_,_
 _,_,365-6,BO086,365,365,7,no,no,no,INTJ,_,_
 _,_,365-7,BO086,365,365,8,eh,eh,eh,INTJ,_,_
-_,_,365-8,BO086,365,365,9,tai.,tai,te,VERB,_,_
+_,_,365-8,BO086,365,365,9,tai.,tai,tai,X,_,_
 _,_,365-9,BO086,365,365,10,cazzo,cazzo,cazzo,INTJ,_,_
 _,_,365-10,BO086,365,365,11,dico,dico,dico,ADJ,_,_
 _,_,365-11,BO086,365,365,12,((ride)),((ride)),[LAUGH],X,_,_

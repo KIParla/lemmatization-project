@@ -22,11 +22,11 @@ Each conversation moves through four states (see `docs/modules/ROOT/pages/pipeli
 
 | Module | Total conversations | Integrated | Patch ready | In progress | Not started |
 |---|---|---|---|---|---|
-| KIP | 121 | 18 | 28 | 0 | 75 |
+| KIP | 121 | 22 | 24 | 0 | 75 |
 | KIPasti | 63 | 0 | 4 | 0 | 59 |
 | ParlaBO | 85 | 0 | 2 | 0 | 83 |
 | ParlaTO | 67 | 0 | 2 | 0 | 65 |
-| **Total** | **336** | **18** | **36** | **0** | **282** |
+| **Total** | **336** | **22** | **32** | **0** | **282** |
 
 ## Integrated
 
@@ -52,6 +52,10 @@ Applied on KIP `dev` (commits of `moduli/KIP`; "—" = nothing to do for that st
 | BOA3001 | 2026-11-01 | `78775cf` | `ff23e61` | `6bb111a` |
 | BOA3004 | 2026-11-01 | `0828b93` | `ff23e61` | `6bb111a` |
 | BOA3010 | 2026-11-01 | `ad2c5af` | `3a3501d` | `28d41ea` |
+| BOA3011 | 2026-11-01 | `dbb0741` | `18e3d37` | `c18e8dc` |
+| BOA3012 | 2026-11-01 | — | `18e3d37` | — |
+| BOA3013 | 2026-11-01 | `516410e` | `18e3d37` | `c18e8dc` |
+| BOA3015 | 2026-11-01 | `63ed8ca` | `18e3d37` | `c18e8dc` (+ `6cb4dc4`) |
 
 BOA3004: `525-0` is now a `((ride))`; the overlap group 136 now has the whole-token overlap `X(136)` on it, check it. The overlaps of the deleted `6-3` (guesses) have to be assigned by hand.
 
@@ -65,8 +69,6 @@ Items still to check by hand in each recap (`da verificare`) and timestamp confl
 
 | Conversation | Module | To check | Conflicts |
 |---|---|---|---|
-| BOA3011 | KIP | 0 | 0 |
-| BOA3013 | KIP | 0 | 0 |
 | BOA3016 | KIP | 0 | 0 |
 | BOC1008 | KIP | 0 | 0 |
 | BOD1001 | KIP | 0 | 0 |
@@ -89,7 +91,6 @@ Items still to check by hand in each recap (`da verificare`) and timestamp confl
 | TOD1005 | KIP | 2 | 0 |
 | TOD1008 | KIP | 3 | 0 |
 | BOD2005 | KIP | 4 | 0 |
-| BOA3015 | KIP | 5 | 0 |
 | TOD1002 | KIP | 5 | 1 |
 | BOC1009 | KIP | 6 | 0 |
 | PBC007 | ParlaBO | 22 | 0 |
@@ -100,7 +101,6 @@ Items still to check by hand in each recap (`da verificare`) and timestamp confl
 | BOD2009 | KIP | 53 | 0 |
 | BOA3017 | KIP | 72 | 12 |
 | TOD1005bis | KIP | 109 | 4 |
-| BOA3012 | KIP | — | — |
 
 ## In progress (finish these next)
 

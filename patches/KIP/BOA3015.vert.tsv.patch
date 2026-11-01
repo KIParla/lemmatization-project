@@ -1,20 +1,11 @@
 --- a/tsv/BOA3015.vert.tsv
 +++ b/tsv/BOA3015.vert.tsv
-@@ -48,7 +48,7 @@
- 3-12	BO086	3	12	svizzera	svizzera	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
- 3-13	BO086	3	13	italiana,	italiana	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
- 3-14	BO086	3	14	da	da	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
--3-15	BO086	3	15	@nomepaese,	@nomepaese	_	_	_	_	_	anonymized	_	_	Intonation=WeaklyRising|Anonymized=Yes	End=21.378	_	_	_	_
-+3-15	BO086	3	15	@nomepaese,	@nomepaese,	_	_	_	_	_	anonymized	_	_	Intonation=WeaklyRising|Anonymized=Yes	End=21.378	_	_	_	_
- 4-0	BO086	4	0	che	che	_	_	_	_	_	linguistic	_	_	_	Begin=21.976	_	_	_	_
- 4-1	BO086	4	1	è	è	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
- 4-2	BO086	4	2	un	un	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 @@ -130,7 +130,7 @@
  12-14	BO086	12	14	anno	anno	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  12-15	BO086	12	15	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  12-16	BO086	12	16	di~	di~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
 -12-17	BO086	12	17	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-+12-17	BO086	12	17	m	m	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++12-17	BO086	12	17	m~	m~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
  12-18	BO086	12	18	molto	molto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  12-19	BO086	12	19	divertimento	divertimento	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  12-20	BO086	12	20	con	con	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -27,12 +18,14 @@
  14-14	BO086	14	14	vengo	vengo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  14-15	BO086	14	15	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  14-16	BO086	14	16	studiare	studiare	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -282,7 +282,7 @@
+@@ -281,8 +281,8 @@
+ 20-18	BO086	20	18	io	io	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  20-19	BO086	20	19	studiavo	studiavo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  20-20	BO086	20	20	anco~	anco~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
- 20-21	BO086	20	21	s	s	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
+-20-21	BO086	20	21	s	s	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 -20-22	BO086	20	22	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-+20-22	BO086	20	22	m	m	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++20-21	BO086	20	21	s~	s~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
++20-22	BO086	20	22	m~	m~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
  20-23	BO086	20	23	facevo	facevo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  20-24	BO086	20	24	ancora	ancora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  20-25	BO086	20	25	il	il	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -45,15 +38,6 @@
  21-7	BO086	21	7	ed	ed	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  21-8	BO086	21	8	ero	ero	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  21-9	BO086	21	9	venuta	venuta	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -730,7 +730,7 @@
- 57-13	BO086	57	13	guarda,	guarda	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
- 57-14	BO086	57	14	((ride))	((ride))	_	_	_	_	_	nonverbalbehavior	_	_	_	_	_	_	_	_
- 57-15	BO086	57	15	ne	ne	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
--57-16	BO086	57	16	abbiam	abbiam	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-+57-16	BO086	57	16	abbiam	abbiamo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
- 57-17	BO086	57	17	passate	passate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
- 57-18	BO086	57	18	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
- 57-19	BO086	57	19	tutti	tutti	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 @@ -952,16 +952,17 @@
  78-15	BO115	78	15	voglia	voglia	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  78-16	BO115	78	16	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -96,7 +80,7 @@
  100-7	BO086	100	7	appartata.	appartata	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=414.13	_	_	_	_
  101-0	BO086	101	0	però::	però	_	_	_	_	_	linguistic	_	_	_	Begin=415.155	3x2	_	_	_
 -101-1	BO086	101	1	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-+101-1	BO086	101	1	m	m	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++101-1	BO086	101	1	m~	m~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
  101-2	BO086	101	2	[sì].	sì	_	_	_	_	_	linguistic	_	_	Intonation=Falling	End=417.958	_	_	_	0-2(14)
  102-0	BO115	102	0	[invece]::	invece	_	_	_	_	_	linguistic	_	_	_	Begin=417.658	5x2	_	_	0-6(14)
  102-1	BO115	102	1	la	la	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -124,7 +108,7 @@
 -143-10	BO086	143	10	movimento,	movimento	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 -143-11	BO086	143	11	non	non	_	_	_	_	_	linguistic	_	_	_	End=592.85	_	_	_	_
 +143-2	BO086	143	2	devi::	devi	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	3x2	_	_	_
-+143-12	BO086	143	3	_	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++143-12	BO086	143	3	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 +143-3	BO086	143	4	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 +143-4	BO086	143	5	poi	poi	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 +143-5	BO086	143	6	girare,	girare	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
@@ -168,21 +152,6 @@
  159-0	BO086	159	0	si	si	_	_	_	_	_	linguistic	_	_	_	Begin=654.973	_	_	_	_
  159-1	BO086	159	1	si	si	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  159-2	BO086	159	2	è::	è	_	_	_	_	_	linguistic	_	_	_	_	0x2	_	_	_
-@@ -2018,12 +2021,12 @@
- 174-5	BO086	174	5	son	son	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
- 174-6	BO086	174	6	proprio	proprio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
- 174-7	BO086	174	7	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
--174-8	BO086	174	8	@nomepaese,	@nomepaese	_	_	_	_	_	anonymized	_	_	Intonation=WeaklyRising|Anonymized=Yes	_	_	_	_	_
-+174-8	BO086	174	8	@nomepaese,	@nomepaese,	_	_	_	_	_	anonymized	_	_	Intonation=WeaklyRising|Anonymized=Yes	_	_	_	_	_
- 174-9	BO086	174	9	però	però	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
- 174-10	BO086	174	10	sto	sto	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
- 174-11	BO086	174	11	vicino	vicino	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
- 174-12	BO086	174	12	a	a	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
--174-13	BO086	174	13	@nomepaese.	@nomepaese	_	_	_	_	_	anonymized	_	_	Intonation=Falling|Anonymized=Yes	End=717.58	_	_	_	_
-+174-13	BO086	174	13	@nomepaese.	@nomepaese.	_	_	_	_	_	anonymized	_	_	Intonation=Falling|Anonymized=Yes	End=717.58	_	_	_	_
- 175-0	BO086	175	0	io	io	_	_	_	_	_	linguistic	_	_	_	Begin=719.016	_	_	_	_
- 175-1	BO086	175	1	non	non	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
- 175-2	BO086	175	2	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
 @@ -2031,7 +2034,7 @@
  175-4	BO086	175	4	assolutamente	assolutamente	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  175-5	BO086	175	5	tornarci	tornarci	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -253,7 +222,7 @@
  242-7	BO115	242	7	realtà,	realtà	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
  242-8	BO115	242	8	si	si	_	_	_	_	_	linguistic	_	_	ProsodicLink=Yes	_	_	_	_	_
 -242-9	BO115	242	9	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-+242-9	BO115	242	9	m	m	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++242-9	BO115	242	9	m~	m~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
  242-10	BO115	242	10	mettono	mettono	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  242-11	BO115	242	11	assieme	assieme	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  242-12	BO115	242	12	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -303,7 +272,7 @@
  256-4	BO086	256	4	quest'	quest'	_	_	_	_	_	linguistic	_	_	SpaceAfter=No	_	_	_	_	_
  256-5	BO086	256	5	estate	estate	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
 -256-6	BO086	256	6	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-+256-6	BO086	256	6	m	m	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++256-6	BO086	256	6	m~	m~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
  256-7	BO086	256	7	lui	lui	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  256-8	BO086	256	8	ha	ha	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  256-9	BO086	256	9	conosciuto::	conosciuto	_	_	_	_	_	linguistic	_	_	_	_	9x2	_	_	_
@@ -341,15 +310,6 @@
  282-0	BO086	282	0	[sì]	sì	_	_	_	_	_	linguistic	_	_	_	Begin=1082.75	_	_	_	0-2(54)
  282-1	BO086	282	1	sì,	sì	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
  282-2	BO086	282	2	vivo	vivo	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-@@ -3178,7 +3184,7 @@
- 288-13	BO086	288	13	dal	dal	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
- 288-14	BO086	288	14	toscano	toscano	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
- 288-15	BO086	288	15	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
--288-16	BO086	288	16	@nomeluogo.	@nomeluogo	_	_	_	_	_	anonymized	_	_	Intonation=Falling|Anonymized=Yes	End=1102.69	_	_	_	_
-+288-16	BO086	288	16	@nomeluogo.	@nomeluogo.	_	_	_	_	_	anonymized	_	_	Intonation=Falling|Anonymized=Yes	End=1102.69	_	_	_	_
- 289-0	BO086	289	0	gli	gli	_	_	_	_	_	linguistic	_	_	_	Begin=1102.761	_	_	_	_
- 289-1	BO086	289	1	faccio	faccio	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
- 289-2	BO086	289	2	oddio,	oddio	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
 @@ -3241,7 +3247,7 @@
  293-8	BO086	293	8	di	di	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  293-9	BO086	293	9	domande:,	domande	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	End=1123.34	6x1	_	_	_
@@ -391,7 +351,7 @@
  325-4	BO086	325	4	va,	va	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
  325-5	BO086	325	5	se::	se	_	_	_	_	_	linguistic	_	_	_	_	1x2	_	_	_
 -325-6	BO086	325	6	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-+325-6	BO086	325	6	m	m	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++325-6	BO086	325	6	m~	m~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
  325-7	BO086	325	7	perché,	perché	_	_	_	_	_	linguistic	_	_	Intonation=WeaklyRising	_	_	_	_	_
  325-8	BO086	325	8	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  325-9	BO086	325	9	in	in	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
@@ -400,7 +360,7 @@
  326-20	BO086	326	20	e	e	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  326-21	BO086	326	21	stamattina:	stamattina	_	_	_	_	_	linguistic	_	_	_	_	9x1	_	_	_
 -326-22	BO086	326	22	mh	mh	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
-+326-22	BO086	326	22	m	m	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
++326-22	BO086	326	22	m~	m~	_	_	_	_	_	linguistic	_	_	Interrupted=Yes	_	_	_	_	_
  326-23	BO086	326	23	non	non	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  326-24	BO086	326	24	ho	ho	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  326-25	BO086	326	25	dormito.	dormito	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
@@ -418,7 +378,7 @@
  365-1	BO086	365	1	allora	allora	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
  365-2	BO086	365	2	la:	la	_	_	_	_	_	linguistic	_	_	_	_	1x1	_	_	_
 -365-3	BO086	365	3	mh	mh	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
-+365-3	BO086	365	3	m	m	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes	_	_	_	_	_
++365-3	BO086	365	3	m~	m~	_	_	_	_	_	linguistic	_	_	PauseAfter=Yes|Interrupted=Yes	_	_	_	_	_
  365-4	BO086	365	4	(.)	(.)	_	_	_	_	_	shortpause	_	_	_	_	_	_	_	_
  365-5	BO086	365	5	tai.	tai	_	_	_	_	_	linguistic	_	_	Intonation=Falling	_	_	_	_	_
  365-6	BO086	365	6	no	no	_	_	_	_	_	linguistic	_	_	_	_	_	_	_	_
