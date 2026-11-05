@@ -110,5 +110,4 @@ if saltate or sospette:
 
 # TODO: automatizzare assegnazione nomi FILE_OUTPUT
 # TODO: come sopra per FILE_ANOMALIE
-# TODO: una volta scelte aggiungere tag preposizioni articolate e verbi pronominali in UPOS (riga 14)
 # TODO: correggere bug ch,e a cui viene assegnato tag COMPOSTO invece di pron o sconj
