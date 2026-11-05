@@ -1140,7 +1140,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 126-0,BO104,126,[mh,mh,mh,INTJ,_,_
 126-1,BO104,126,mh],mh,mh,INTJ,_,_
 127-0,BO105,127,[a,a,a,ADP,_,_
-127-1,BO105,127,"]{nome_luogo},","{nome_luogo},",_,_,_,_
+127-1,BO105,127,"@nomeluogo,]",@nomeluogo,PLACE_NAME,PROPN,_,_
 128-0,BO105,128,e:,e,e,CCONJ,_,_
 128-1,BO105,128,ho,ho,avere,AUX,_,_
 128-2,BO105,128,corretto::,corretto,corrire,VERB,_,_
