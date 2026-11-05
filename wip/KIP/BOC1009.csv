@@ -1,6 +1,6 @@
 token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 0-0,BO117,0,0,1,okay.,okay,ok,INTJ,Intonation=falling,_
-1-0,BO117,1,1,0,{tossisce},{tossisce},_,X,_,_
+1-0,BO117,1,1,0,((tossisce)),((tossisce)),_,X,_,_
 2-0,BO117,2,2,1,dunque,dunque,dunque,ADV,_,_
 2-1,BO117,2,2,2,lei,lei,lei,PRON,_,_
 2-2,BO117,2,2,3,su,su,su,ADP,_,_
@@ -27,7 +27,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 7-0,BO117,7,7,1,va,va,andare,VERB,_,_
 7-1,BO117,7,7,2,bene.,bene,bene,ADV,Intonation=falling,_
 8-0,BO117,8,8,1,e::h,eh,eh,INTJ,_,_
-8-1,BO117,8,8,2,{P},{P},_,_,_,_
+8-1,BO117,8,8,2,(.),(.),_,_,_,_
 8-2,BO117,8,8,3,partiamo,partiamo,partire,VERB,_,_
 8-3,BO117,8,8,4,da,da,da,ADP,_,_
 8-4,BO117,8,8,5,"voghera,",voghera,Voghera,PROPN,Intonation=weakly_rising,_
@@ -38,7 +38,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 9-4,BO117,9,9,5,per,per,per,ADP,_,_
 9-5,BO117,9,9,6,correlati,correlati,correlato,NOUN,_,_
 9-6,BO117,9,9,7,funzionali,funzionali,funzionale,ADJ,_,_
-9-7,BO117,9,9,8,{P},{P},_,_,_,_
+9-7,BO117,9,9,8,(.),(.),_,_,_,_
 9-8,BO117,9,9,9-10,del,del,_,_,_,_
 9-8a,_,_,9,9,_,di,di,ADP,_,_
 9-8b,_,_,9,10,_,il,il,DET,_,_
@@ -83,7 +83,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 16-0,BO142,16,16,1,comunque,comunque,comunque,ADV,_,_
 16-1,BO142,16,16,2,"e::hm::,",ehm,ehm,INTJ,Intonation=weakly_rising,_
 17-0,BO142,17,17,1,ehm,ehm,ehm,INTJ,_,_
-17-1,BO142,17,17,2,{P},{P},_,_,_,_
+17-1,BO142,17,17,2,(.),(.),_,_,_,_
 17-2,BO142,17,17,3,diciamo,diciamo,dire,VERB,_,_
 17-3,BO142,17,17,4,m:h,mh,mh,INTJ,_,_
 17-4,BO142,17,17,5,non,non,non,ADV,_,_
@@ -122,7 +122,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 21-7,BO142,21,21,8,che,che,che,PRON,_,_
 21-8,BO142,21,21,9,anche,anche,anche,ADV,_,_
 21-9,BO142,21,21,10,"se,",se,se,SCONJ,Intonation=weakly_rising,_
-22-0,???,22,22,0,{bussa},{bussa},_,X,_,_
+22-0,???,22,22,0,((bussa)),((bussa)),_,X,_,_
 23-0,BO142,23,23,1,"e:h,",eh,eh,INTJ,Intonation=weakly_rising,_
 24-0,BO117,24,24,1,avanti.,avanti,avanti,ADV,Intonation=falling,_
 25-0,???,25,25,1-2,°scusatemi°.,scusatemi,_,_,Intonation=falling|Volume=low,_
@@ -221,7 +221,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 40-1,BO142,40,40,2,categoria,categoria,categoria,NOUN,_,_
 40-2,BO142,40,40,3,meno,meno,meno,ADV,_,_
 40-3,BO142,40,40,4,e::h,eh,eh,INTJ,_,_
-40-4,BO142,40,40,5,{P},{P},_,_,_,_
+40-4,BO142,40,40,5,(.),(.),_,_,_,_
 40-5,BO142,40,40,6,degna,degna,degno,ADJ,_,_
 40-6,BO142,40,40,7,di,di,di,ADP,_,_
 40-7,BO142,40,40,8,attenzione.,attenzione,attenzione,NOUN,Intonation=falling,_
@@ -260,7 +260,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 45-0,BO142,45,45,1,in,in,in,ADP,_,_
 45-1,BO142,45,45,2,quanto,quanto,quanto,ADV,_,_
 45-2,BO142,45,45,3,e:h,eh,eh,INTJ,_,_
-45-3,BO142,45,45,4,{P},{P},_,_,_,_
+45-3,BO142,45,45,4,(.),(.),_,_,_,_
 45-4,BO142,45,45,5,formano,formano,formare,VERB,_,_
 45-5,BO142,45,45,6,una,una,uno,DET,_,_
 45-6,BO142,45,45,7,lingua:,lingua,lingua,NOUN,_,_
@@ -318,7 +318,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 52-1b,_,_,52,3,_,le,il,DET,_,_
 52-2,BO142,52,52,4,"e::h,",eh,eh,INTJ,Intonation=weakly_rising,_
 53-0,BO142,53,53,1,e:h,eh,eh,INTJ,_,_
-53-1,BO142,53,53,2,{P},{P},_,_,_,_
+53-1,BO142,53,53,2,(.),(.),_,_,_,_
 53-2,BO142,53,53,3,"modalità,",modalità,modalità,NOUN,Intonation=weakly_rising,_
 54-0,BO142,54,54,1,ottimali,ottimali,ottimale,ADJ,_,_
 54-1,BO142,54,54,2,per,per,per,ADP,_,_
@@ -340,7 +340,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 55-2,BO142,55,55,3,è,è,essere,AUX,_,_
 55-3,BO142,55,55,4,diverso.,diverso,diverso,ADJ,Intonation=falling,_
 56-0,BO142,56,56,1,però,però,però,CCONJ,_,_
-56-1,BO142,56,56,2,{P},{P},_,_,_,_
+56-1,BO142,56,56,2,(.),(.),_,_,_,_
 56-2,BO142,56,56,3,sono,sono,essere,AUX,_,_
 56-3,BO142,56,56,4,le,le,il,DET,_,_
 56-4,BO142,56,56,5,e:h,eh,eh,INTJ,_,_
@@ -370,7 +370,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 58-2,BO142,58,58,3,una:,una,uno,DET,_,_
 58-3,BO142,58,58,4,"dimensione>,",dimensione,dimensione,NOUN,Intonation=weakly_rising,_
 59-0,BO142,59,59,1,e::hm,ehm,ehm,INTJ,_,_
-59-1,BO142,59,59,2,{P},{P},_,_,_,_
+59-1,BO142,59,59,2,(.),(.),_,_,_,_
 59-2,BO142,59,59,3,regolata,regolata,regolare,VERB,_,_
 59-3,BO142,59,59,4,in,in,in,ADP,_,_
 59-4,BO142,59,59,5,un,un,uno,DET,_,_
@@ -422,7 +422,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 66-2,BO142,66,66,3,che,che,che,SCONJ,_,_
 66-3,BO142,66,66,4,gli,gli,il,DET,_,_
 66-4,BO142,66,66,5,utenti,utenti,utente,NOUN,_,_
-66-5,BO142,66,66,6,{P},{P},_,_,_,_
+66-5,BO142,66,66,6,(.),(.),_,_,_,_
 66-6,BO142,66,66,7,eh,eh,eh,INTJ,_,_
 66-7,BO142,66,66,8,sottostiano,sottostiano,sottostare,VERB,_,_
 66-8,BO142,66,66,9,a,a,a,ADP,_,_
@@ -439,7 +439,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 67-5,BO142,67,67,6,da,da,da,ADP,_,_
 67-6,BO142,67,67,7,"punti:,",punti,punto,NOUN,Intonation=weakly_rising,_
 68-0,BO142,68,68,1,e::h,eh,eh,INTJ,_,_
-68-1,BO142,68,68,2,{P},{P},_,_,_,_
+68-1,BO142,68,68,2,(.),(.),_,_,_,_
 68-2,BO142,68,68,3,dove,dove,dove,ADV,_,_
 68-3,BO142,68,68,4,è,è,essere,AUX,_,_
 68-4,BO142,68,68,5,possibile,possibile,possibile,ADJ,_,_
@@ -457,7 +457,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 71-4,BO142,71,71,5,"e::hm,",ehm,ehm,INTJ,Intonation=weakly_rising,_
 72-0,BO117,72,72,1,[ti,ti,ti,PRON,_,_
 72-1,BO117,72,72,2,ricordi]?,ricordi,ricordare,VERB,Intonation=rising,_
-73-0,???,73,73,1,{bussa},{bussa},_,_,_,_
+73-0,???,73,73,1,((bussa)),((bussa)),_,_,_,_
 74-0,???,74,74,1,"avanti,",avanti,avanti,ADV,Intonation=weakly_rising,_
 75-0,BO142,75,75,1,(posisc~),posisc~,posisc~,X,Interrupted=Yes,_
 75-1,BO142,75,75,2,no.,no,no,ADV,Intonation=falling,_
@@ -466,7 +466,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 76-2,BO117,76,76,3,"rilevanza,",rilevanza,rilevanza,NOUN,Intonation=weakly_rising,_
 77-0,BO142,77,77,1,transizionale.,transizionale,transizionale,ADJ,Intonation=falling,_
 78-0,BO117,78,78,1,[e:::h,eh,eh,INTJ,_,_
-78-1,BO117,78,78,2,{P},{P},_,_,_,_
+78-1,BO117,78,78,2,(.),(.),_,_,_,_
 78-2,BO117,78,78,3,sì].,sì,sì,INTJ,Intonation=falling,_
 79-0,BO142,79,79,1,[punti,punti,punto,NOUN,_,_
 79-1,BO142,79,79,2,di,di,di,ADP,_,_
@@ -485,10 +485,10 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 80-6,BO142,80,80,7,la,la,il,DET,_,_
 80-7,BO142,80,80,8,"paro:la,",parola,parola,NOUN,Intonation=weakly_rising,_
 81-0,BO142,81,81,1,poi,poi,poi,ADV,_,_
-81-1,BO142,81,81,2,{P},{P},_,_,_,_
+81-1,BO142,81,81,2,(.),(.),_,_,_,_
 81-2,BO142,81,81,3,ci,ci,ci,PRON,_,_
 81-3,BO142,81,81,4,sono,sono,essere,VERB,_,_
-81-4,BO142,81,81,5,{P},{P},_,_,_,_
+81-4,BO142,81,81,5,(.),(.),_,_,_,_
 81-5,BO142,81,81,6,molte,molte,molto,DET,_,_
 81-6,BO142,81,81,7,altre,altre,altro,ADJ,_,_
 81-7,BO142,81,81,8,regole,regole,regola,NOUN,_,_
@@ -547,7 +547,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 88-8,BO142,88,88,9,e::h,eh,eh,INTJ,_,_
 88-9,BO142,88,88,10,una,una,uno,DET,_,_
 88-10,BO142,88,88,11,persona,persona,persona,NOUN,_,_
-88-11,BO142,88,88,12,{P},{P},_,_,_,_
+88-11,BO142,88,88,12,(.),(.),_,_,_,_
 88-12,BO142,88,88,13,si,si,si,PRON,_,_
 88-13,BO142,88,88,14,"può,",può,potere,AUX,Intonation=weakly_rising,_
 89-0,BO142,89,89,1,eh,eh,eh,INTJ,_,_
@@ -573,7 +573,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 93-6,BO142,93,93,7,un::a,una,uno,DET,_,_
 93-7,BO142,93,93,8,"persona,",persona,persona,NOUN,Intonation=weakly_rising,_
 94-0,BO142,94,94,1,(cui),cui,cui,DET,_,_
-94-1,BO142,94,94,2,{P},{P},_,_,_,_
+94-1,BO142,94,94,2,(.),(.),_,_,_,_
 94-2,BO142,94,94,3,mh,mh,mh,INTJ,_,_
 94-3,BO142,94,94,4,incaricata,incaricata,incaricare,VERB,_,_
 94-4,BO142,94,94,5,di,di,di,ADP,_,_
@@ -719,7 +719,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 115-1,BO142,115,115,2,a,a,a,ADP,_,_
 115-2,BO142,115,115,3,un,un,uno,DET,_,_
 115-3,BO142,115,115,4,saluto,saluto,saluto,NOUN,_,_
-115-4,BO142,115,115,5,{P},{P},_,_,_,_
+115-4,BO142,115,115,5,(.),(.),_,_,_,_
 115-5,BO142,115,115,6,sappiamo,sappiamo,sapere,VERB,_,_
 115-6,BO142,115,115,7,che,che,che,SCONJ,_,_
 115-7,BO142,115,115,8,e:h,eh,eh,INTJ,_,_
@@ -745,7 +745,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 119-1,BO142,119,119,2,condizionano,condizionano,condizionare,VERB,_,_
 119-2,BO142,119,119,3,"il:,",il,il,DET,Intonation=weakly_rising,_
 120-0,BO142,120,120,1,e::h,eh,eh,INTJ,_,_
-120-1,BO142,120,120,2,{P},{P},_,_,_,_
+120-1,BO142,120,120,2,(.),(.),_,_,_,_
 120-2,BO142,120,120,3,il,il,il,DET,_,_
 120-3,BO142,120,120,4,parlato.,parlato,parlato,NOUN,Intonation=falling,_
 121-0,BO142,121,121,1,"e::hm::,",ehm,ehm,INTJ,Intonation=weakly_rising,_
@@ -776,7 +776,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 125-0,BO142,125,125,1,il::,il,il,DET,_,_
 125-1,BO142,125,125,2,un,un,uno,DET,_,_
 125-2,BO142,125,125,3,enuciato,enuciato,enuciato,NOUN,_,_
-125-3,BO142,125,125,4,{P},{P},_,_,_,_
+125-3,BO142,125,125,4,(.),(.),_,_,_,_
 125-4,BO142,125,125,5,o,o,o,CCONJ,_,_
 125-5,BO142,125,125,6,comunque,comunque,comunque,ADV,_,_
 125-6,BO142,125,125,7,e::h,eh,eh,INTJ,_,_
@@ -811,7 +811,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 131-4,BO117,131,131,5,[non,non,non,ADV,_,_
 131-5,BO117,131,131,6,è,è,essere,AUX,_,_
 131-6,BO117,131,131,7,mo]lto,molto,molto,ADV,_,_
-131-7,BO117,131,131,8,{P},{P},_,_,_,_
+131-7,BO117,131,131,8,(.),(.),_,_,_,_
 131-8,BO117,131,131,9,preciso,preciso,preciso,ADJ,_,_
 131-9,BO117,131,131,10,effettivamente,effettivamente,effettivamente,ADV,_,_
 131-10,BO117,131,131,11,ma,ma,ma,CCONJ,_,_
@@ -821,7 +821,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 131-14,BO117,131,131,15,[meglio,meglio,meglio,ADV,_,_
 131-15,BO117,131,131,16,la,la,il,DET,_,_
 131-16,BO117,131,131,17,seconda,seconda,secondo,ADJ,_,_
-131-17,BO117,131,131,18,{P},{P},_,_,_,_
+131-17,BO117,131,131,18,(.),(.),_,_,_,_
 131-18,BO117,131,131,19,mh].,mh,mh,INTJ,Intonation=falling,_
 132-0,BO142,132,132,1,[sì,sì,sì,ADV,_,_
 132-1,BO142,132,132,2,no].,no,no,ADV,Intonation=falling,_
@@ -901,7 +901,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 142-3,BO142,142,142,4,tutte,tutte,tutto,DET,_,_
 142-4,BO142,142,142,5,le,le,il,DET,_,_
 142-5,BO142,142,142,6,variabili,variabili,variabile,NOUN,_,_
-142-6,BO142,142,142,7,{P},{P},_,_,_,_
+142-6,BO142,142,142,7,(.),(.),_,_,_,_
 142-7,BO142,142,142,8,che,che,che,PRON,_,_
 142-8,BO142,142,142,9,lo,lo,lo,PRON,_,_
 142-9,BO142,142,142,10,compongono,compongono,comporre,VERB,_,_
@@ -979,7 +979,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 153-7,BO142,153,153,10,"ovvero,",ovvero,ovvero,CCONJ,Intonation=weakly_rising,_
 154-0,BO142,154,154,1,e::h,eh,eh,INTJ,_,_
 154-1,BO142,154,154,2,che,che,che,SCONJ,_,_
-154-2,BO142,154,154,3,{P},{P},_,_,_,_
+154-2,BO142,154,154,3,(.),(.),_,_,_,_
 154-3,BO142,154,154,4,in,in,in,ADP,_,_
 154-4,BO142,154,154,5,un,un,uno,DET,_,_
 154-5,BO142,154,154,6,certo,certo,certo,ADJ,_,_
@@ -988,7 +988,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 154-8,BO142,154,154,9,una,una,uno,DET,_,_
 154-9,BO142,154,154,10,"e::hm,",ehm,ehm,INTJ,Intonation=weakly_rising,_
 155-0,BO142,155,155,1,e:h,eh,eh,INTJ,_,_
-155-1,BO142,155,155,2,{P},{P},_,_,_,_
+155-1,BO142,155,155,2,(.),(.),_,_,_,_
 155-2,BO142,155,155,3,una,una,uno,DET,_,_
 155-3,BO142,155,155,4,cul~,cultura,cultura,NOUN,Interrupted=Yes,_
 155-4,BO142,155,155,5,non,non,non,ADV,_,_
@@ -999,7 +999,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 155-9,BO142,155,155,10,conoscenza,conoscenza,conoscenza,NOUN,_,_
 155-10,BO142,155,155,11,"generale,",generale,generale,ADJ,Intonation=weakly_rising,_
 156-0,BO142,156,156,1,e::h,eh,eh,INTJ,_,_
-156-1,BO142,156,156,2,{P},{P},_,_,_,_
+156-1,BO142,156,156,2,(.),(.),_,_,_,_
 156-2,BO142,156,156,3,in,in,in,ADP,_,_
 156-3,BO142,156,156,4,"sintonia,",sintonia,sintonia,NOUN,Intonation=weakly_rising,_
 157-0,BO142,157,157,1,che,che,che,SCONJ,_,_
@@ -1015,9 +1015,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 159-3,BO142,159,159,4,conoscenza,conoscenza,conoscenza,NOUN,_,_
 159-4,BO142,159,159,5,"condivisa,",condivisa,condivisa,ADJ,Intonation=weakly_rising,_
 160-0,BO142,160,160,1,e,e,e,CCONJ,_,_
-160-1,BO142,160,160,2,{P},{P},_,_,_,_
+160-1,BO142,160,160,2,(.),(.),_,_,_,_
 160-2,BO142,160,160,3,che,che,che,SCONJ,_,_
-160-3,BO142,160,160,4,{P},{P},_,_,_,_
+160-3,BO142,160,160,4,(.),(.),_,_,_,_
 160-4,BO142,160,160,5,e:::h,eh,eh,INTJ,_,_
 160-5,BO142,160,160,6,abbiano,abbiano,avere,VERB,_,_
 160-6,BO142,160,160,7,presente,presente,presente,ADJ,_,_
@@ -1084,7 +1084,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 169-0,BO142,169,169,1,che,che,che,PRON,_,_
 169-1,BO142,169,169,2,rendono,rendono,rendere,VERB,_,_
 169-2,BO142,169,169,3,appunto,appunto,appunto,ADV,_,_
-169-3,BO142,169,169,4,{P},{P},_,_,_,_
+169-3,BO142,169,169,4,(.),(.),_,_,_,_
 169-4,BO142,169,169,5,"e::hm,",ehm,ehm,INTJ,Intonation=weakly_rising,_
 170-0,BO142,170,170,1,possibile,possibile,possibile,ADJ,_,_
 170-1,BO142,170,170,2,la,la,il,DET,_,_
@@ -1092,7 +1092,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 170-3,BO142,170,170,4,secondo,secondo,secondo,ADP,_,_
 170-4,BO142,170,170,5,la,la,il,DET,_,_
 170-5,BO142,170,170,6,relevance,relevance,relevance,NOUN,_,_
-170-6,BO142,170,170,7,{P},{P},_,_,_,_
+170-6,BO142,170,170,7,(.),(.),_,_,_,_
 170-7,BO142,170,170,8,theory.,theory,theory,NOUN,Intonation=falling,_
 171-0,BO142,171,171,1,e:h,eh,eh,INTJ,_,_
 171-1,BO142,171,171,2,infatti,infatti,infatti,ADV,_,_
@@ -1133,7 +1133,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 178-3,BO142,178,178,4,una,una,uno,DET,_,_
 178-4,BO142,178,178,5,nuova,nuova,nuovo,ADJ,_,_
 178-5,BO142,178,178,6,informazione,informazione,informazione,NOUN,_,_
-178-6,BO142,178,178,7,{P},{P},_,_,_,_
+178-6,BO142,178,178,7,(.),(.),_,_,_,_
 178-7,BO142,178,178,8,devo,devo,dovere,AUX,_,_
 178-8,BO142,178,178,9,"trovare,",trovare,trovare,VERB,Intonation=weakly_rising,_
 179-0,BO142,179,179,1,e::h,eh,eh,INTJ,_,_
@@ -1145,9 +1145,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 179-3a,_,_,179,5,_,di,di,ADP,_,_
 179-3b,_,_,179,6,_,il,il,DET,_,_
 179-4,BO142,179,179,7,mio,mio,mio,DET,_,_
-179-5,BO142,179,179,8,{P},{P},_,_,_,_
+179-5,BO142,179,179,8,(.),(.),_,_,_,_
 179-6,BO142,179,179,9,e::h,eh,eh,INTJ,_,_
-179-7,BO142,179,179,10,{P},{P},_,_,_,_
+179-7,BO142,179,179,10,(.),(.),_,_,_,_
 179-8,BO142,179,179,11,ambiente,ambiente,ambiente,NOUN,_,_
 179-9,BO142,179,179,12,"cognitivo,",cognitivo,cognitivo,ADJ,Intonation=weakly_rising,_
 180-0,BO142,180,180,1,e:h,eh,eh,INTJ,_,_
@@ -1239,7 +1239,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 190-0,BO142,190,190,1,"per::,",per,per,ADP,Intonation=weakly_rising,_
 191-0,BO142,191,191,1,m:::h,mh,mh,INTJ,_,_
 191-1,BO142,191,191,2,diciamo,diciamo,dire,VERB,_,_
-191-2,BO142,191,191,3,{P},{P},_,_,_,_
+191-2,BO142,191,191,3,(.),(.),_,_,_,_
 191-3,BO142,191,191,4,decodific~,decodificare,decodificare,VERB,Interrupted=Yes,_
 191-4,BO142,191,191,5,decodificare,decodificare,decodificare,VERB,_,_
 191-5,BO142,191,191,6,un:,un,uno,DET,_,_
@@ -1336,7 +1336,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 205-1,BO142,205,205,2,quella,quella,quello,PRON,_,_
 205-2,BO142,205,205,3,di:,di,di,ADP,_,_
 205-3,BO142,205,205,4,e:hm,ehm,ehm,INTJ,_,_
-205-4,BO142,205,205,5,{P},{P},_,_,_,_
+205-4,BO142,205,205,5,(.),(.),_,_,_,_
 205-5,BO142,205,205,6,brown,brown,Brown,PROPN,_,_
 205-6,BO142,205,205,7,e,e,e,CCONJ,_,_
 205-7,BO142,205,205,8,"levinson,",levinson,Levinson,PROPN,Intonation=weakly_rising,_
@@ -1357,7 +1357,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 207-6,BO142,207,207,8,di,di,di,ADP,_,_
 207-7,BO142,207,207,9,"faccia,",faccia,faccia,NOUN,Intonation=weakly_rising,_
 208-0,BO142,208,208,1,ovvero,ovvero,ovvero,CCONJ,_,_
-208-1,BO142,208,208,2,{P},{P},_,_,_,_
+208-1,BO142,208,208,2,(.),(.),_,_,_,_
 208-2,BO142,208,208,3,che,che,che,PRON,_,_
 208-3,BO142,208,208,4,comunque,comunque,comunque,ADV,_,_
 208-4,BO142,208,208,5,differisce,differisce,differire,VERB,_,_
@@ -1410,9 +1410,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 212-7,BO142,212,212,8,eh,eh,eh,INTJ,_,_
 212-8,BO142,212,212,9,modificabile,modificabile,modificabile,ADJ,_,_
 212-9,BO142,212,212,10,"impersistente,",impersistente,impersistente,ADJ,Intonation=weakly_rising,_
-213-0,BO117,213,213,0,{tossisce},{tossisce},_,-,_,_
+213-0,BO117,213,213,0,((tossisce)),((tossisce)),_,-,_,_
 214-0,BO142,214,214,1,che,che,che,SCONJ,_,_
-214-1,BO142,214,214,2,{P},{P},_,_,_,_
+214-1,BO142,214,214,2,(.),(.),_,_,_,_
 214-2,BO142,214,214,3,cambiava,cambiava,cambiare,VERB,_,_
 214-3,BO142,214,214,4,da,da,da,ADP,_,_
 214-4,BO142,214,214,5,conversazione,conversazione,conversazione,NOUN,_,_
@@ -1429,7 +1429,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 215-7,BO142,215,215,8,era,era,essere,AUX,_,_
 215-8,BO142,215,215,9,un,un,uno,DET,_,_
 215-9,BO142,215,215,10,qualcosa,qualcosa,qualcosa,PRON,_,_
-215-10,BO142,215,215,11,{P},{P},_,_,_,_
+215-10,BO142,215,215,11,(.),(.),_,_,_,_
 215-11,BO142,215,215,12,era,era,essere,AUX,_,_
 215-12,BO142,215,215,13,la,la,il,DET,_,_
 215-13,BO142,215,215,14,concezione,concezione,concezione,NOUN,_,_
@@ -1455,7 +1455,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 216-15,BO142,216,216,17,"voleva,",voleva,volere,AUX,Intonation=weakly_rising,_
 217-0,BO142,217,217,1,e:h,eh,eh,INTJ,_,_
 217-1,BO142,217,217,2,difendere,difendere,difendere,VERB,_,_
-217-2,BO142,217,217,3,{P},{P},_,_,_,_
+217-2,BO142,217,217,3,(.),(.),_,_,_,_
 217-3,BO142,217,217,4,durante,durante,durante,ADP,_,_
 217-4,BO142,217,217,5,la,la,il,DET,_,_
 217-5,BO142,217,217,6,conversazione.,conversazione,conversazione,NOUN,Intonation=falling,_
@@ -1468,14 +1468,14 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 218-6,BO142,218,218,7,punto,punto,punto,NOUN,_,_
 218-7,BO142,218,218,8,di,di,di,ADP,_,_
 218-8,BO142,218,218,9,vista,vista,vista,NOUN,_,_
-218-9,BO142,218,218,10,{P},{P},_,_,_,_
+218-9,BO142,218,218,10,(.),(.),_,_,_,_
 218-10,BO142,218,218,11,"e:::h,",eh,eh,INTJ,Intonation=weakly_rising,_
 219-0,BO142,219,219,1,difensivo,difensivo,difensivo,ADJ,_,_
 219-1,BO142,219,219,2,diciamo,diciamo,dire,VERB,_,_
 219-2,BO142,219,219,3,la,la,il,DET,_,_
 219-3,BO142,219,219,4,conversazione,conversazione,conversazione,NOUN,_,_
 219-4,BO142,219,219,5,ovvero,ovvero,ovvero,CCONJ,_,_
-219-5,BO142,219,219,6,{P},{P},_,_,_,_
+219-5,BO142,219,219,6,(.),(.),_,_,_,_
 219-6,BO142,219,219,7,"e:::h,",eh,eh,INTJ,Intonation=weakly_rising,_
 220-0,BO142,220,220,1,tutti,tutti,tutto,ADJ,_,_
 220-1,BO142,220,220,2,quei,quei,quello,DET,_,_
@@ -1584,7 +1584,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 231-4,BO142,231,231,5,di,di,di,ADP,_,_
 231-5,BO142,231,231,6,azione::,azione,azione,NOUN,_,_
 231-6,BO142,231,231,7,insomma,insomma,insomma,ADV,_,_
-231-7,BO142,231,231,8,{P},{P},_,_,_,_
+231-7,BO142,231,231,8,(.),(.),_,_,_,_
 231-8,BO142,231,231,9,globale,globale,globale,ADJ,_,_
 231-9,BO142,231,231,10,°ecco°.,ecco,ecco,ADV,Intonation=falling|Volume=low,_
 232-0,BO117,232,232,1,va,va,andare,VERB,_,_

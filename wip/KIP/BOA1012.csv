@@ -72,7 +72,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 14-1a,_,_,14,2,_,iscriver,iscrivere,VERB,_,_
 14-1b,_,_,14,3,_,mi,mi,PRON,_,_
 15-0,BO026,15,15,1,[e::],e,e,CCONJ,_,_
-15-1,BO026,15,15,2,(.),[PAUSE],[PAUSE],X,_,_
+15-1,BO026,15,15,2,(.),(.),[PAUSE],X,_,_
 15-2,BO026,15,15,3,come,come,come,ADV,_,_
 15-3,BO026,15,15,4,si,si,si,PRON,_,_
 15-4,BO026,15,15,5,chiama,chiama,chiamare,VERB,_,_
@@ -83,7 +83,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 18-0,BO042,18,18,1,verdi.,verdi,Verdi,PROPN,_,_
 19-0,BO026,19,19,1,°verdi.°,verdi,Verdi,PROPN,_,_
 20-0,BO026,20,20,1,quindi,quindi,quindi,CCONJ,_,_
-20-1,BO026,20,20,2,(.),[PAUSE],[PAUSE],X,_,_
+20-1,BO026,20,20,2,(.),(.),[PAUSE],X,_,_
 20-2,BO026,20,20,3,lei,lei,lei,PRON,_,_
 20-3,BO026,20,20,4,si,si,si,PRON,_,_
 20-4,BO026,20,20,5,iscrive,iscrive,iscrivere,VERB,_,_
@@ -97,7 +97,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 21-1,BO042,21,21,2,sono,sono,essere,AUX,_,_
 21-2,BO042,21,21,3,già,già,già,ADV,_,_
 21-3,BO042,21,21,4,iscritta,iscritta,iscrivere,VERB,_,_
-21-4,BO042,21,21,5,(.),[PAUSE],[PAUSE],X,_,_
+21-4,BO042,21,21,5,(.),(.),[PAUSE],X,_,_
 21-5,BO042,21,21,6,esa]tto.,esatto,esatto,ADV,_,_
 22-0,BO026,22,22,1,[e::],e,e,CCONJ,_,_
 23-0,BO042,23,23,1,[anche,anche,anche,ADV,_,_
@@ -196,7 +196,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 36-0,BO042,36,36,1,e::h,eh,eh,INTJ,_,_
 36-1,BO042,36,36,2,mh,mh,mh,INTJ,_,_
 37-0,BO042,37,37,1,quindi,quindi,quindi,CCONJ,_,_
-37-1,BO042,37,37,2,(.),[PAUSE],[PAUSE],X,_,_
+37-1,BO042,37,37,2,(.),(.),[PAUSE],X,_,_
 37-2,BO042,37,37,3,per,per,per,ADP,_,_
 37-3,BO042,37,37,4,l',l',il,DET,_,_
 37-4,BO042,37,37,5,"orale,",orale,orale,NOUN,_,_
@@ -312,7 +312,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 53-0,BO026,53,53,1,[sì,sì,sì,ADV,_,_
 53-1,BO026,53,53,2,er~,er~,x,X,_,_
 53-2,BO026,53,53,3,me],me,me,PRON,_,_
-53-3,BO026,53,53,4,(.),[PAUSE],[PAUSE],X,_,_
+53-3,BO026,53,53,4,(.),(.),[PAUSE],X,_,_
 53-4,BO026,53,53,5,mi,mi,mi,PRON,_,_
 53-5,BO026,53,53,6,ricordo,ricordo,ricordare,VERB,_,_
 53-6,BO026,53,53,7,che,che,che,SCONJ,_,_
@@ -320,7 +320,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 53-8,BO026,53,53,9,lo,lo,lo,PRON,_,_
 53-9,BO026,53,53,10,aveva,aveva,avere,AUX,_,_
 53-10,BO026,53,53,11,già,già,già,ADV,_,_
-53-11,BO026,53,53,12,(.),[PAUSE],[PAUSE],X,_,_
+53-11,BO026,53,53,12,(.),(.),[PAUSE],X,_,_
 53-12,BO026,53,53,13,chiesto.,chiesto,chiedere,VERB,_,_
 54-0,BO026,54,54,1,e,e,e,CCONJ,_,_
 54-1,BO026,54,54,2,poi,poi,poi,ADV,_,_
@@ -334,7 +334,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 54-9,BO026,54,54,10,sarà,sarà,essere,VERB,_,_
 54-10,BO026,54,54,11,il,il,il,DET,_,_
 54-11,BO026,54,54,12,dieci,dieci,dieci,NUM,_,_
-54-12,BO026,54,54,13,(.),[PAUSE],[PAUSE],X,_,_
+54-12,BO026,54,54,13,(.),(.),[PAUSE],X,_,_
 54-13,BO026,54,54,14,"lu[glio],",luglio,luglio,NOUN,_,_
 55-0,BO042,55,55,1,[lo,lo,lo,PRON,_,_
 55-1,BO042,55,55,2,so].,so,sapere,VERB,_,_
@@ -344,7 +344,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 56-3,BO026,56,56,4,giorno,giorno,giorno,NOUN,_,_
 56-4,BO026,56,56,5,dopo.°,dopo,dopo,ADV,_,_
 57-0,BO042,57,57,1,io,io,io,PRON,_,_
-57-1,BO042,57,57,2,(.),[PAUSE],[PAUSE],X,_,_
+57-1,BO042,57,57,2,(.),(.),[PAUSE],X,_,_
 57-2,BO042,57,57,3,ho,ho,avere,VERB,_,_
 57-3,BO042,57,57,4,l',l',il,DET,_,_
 57-4,BO042,57,57,5,esame,esame,esame,NOUN,_,_
@@ -385,7 +385,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 63-4,BO042,63,63,5,professore,professore,professore,NOUN,_,_
 63-5,BO042,63,63,6,rossi,rossi,Rossi,PROPN,_,_
 63-6,BO042,63,63,7,ha,ha,avere,VERB,_,_
-63-7,BO042,63,63,8,(.),[PAUSE],[PAUSE],X,_,_
+63-7,BO042,63,63,8,(.),(.),[PAUSE],X,_,_
 63-8,BO042,63,63,9,più,più,più,ADV,_,_
 63-9,BO042,63,63,10,possibil~,possibil~,possibilità,NOUN,_,_
 63-10,BO042,63,63,11,di,di,di,ADP,_,_
@@ -540,7 +540,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 92-3,BO042,92,92,4,ci,ci,ci,PRON,_,_
 92-4,BO042,92,92,5,siano,siano,essere,VERB,_,_
 92-5,BO042,92,92,6,problemi:,problemi,problema,NOUN,_,_
-92-6,BO042,92,92,7,(.),[PAUSE],[PAUSE],X,_,_
+92-6,BO042,92,92,7,(.),(.),[PAUSE],X,_,_
 92-7,BO042,92,92,8,(allora),allora,allora,ADV,_,_
 92-8,BO042,92,92,9,le,le,le,PRON,_,_
 92-9,BO042,92,92,10,scrivo,scrivo,scrivere,VERB,_,_

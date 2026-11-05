@@ -1,6 +1,6 @@
 token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 0-0,BO117,0,okay.,okay,okay,INTJ,Intonation=falling,_
-0-1,BO117,0,{P},{P},_,_,_,_
+0-1,BO117,0,(.),(.),_,_,_,_
 0-2,BO117,0,sì.,sì,sì,INTJ,Intonation=falling,_
 0-3,BO117,0,mi,mi,mi,PRON,_,_
 0-4,BO117,0,dica.,dica,dire,VERB,Intonation=falling,_
@@ -77,7 +77,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 10-0b,_,_,_,il,il,DET,_,_
 10-1,BO005,10,fatto,fatto,fatto,NOUN,_,_
 10-2,BO005,10,di,di,di,ADP,_,_
-10-3,BO005,10,{P},{P},_,_,_,_
+10-3,BO005,10,(.),(.),_,_,_,_
 10-4,BO005,10,usted,usted,usted,PRON,Lang=es,_
 10-5,BO005,10,e,e,e,CCONJ,_,_
 10-6,BO005,10,"tu,",tu,tu,PRON,Intonation=WeaklyRising,_
@@ -179,7 +179,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 31-1b,_,_,_,l',il,DET,_,_
 31-2,BO005,31,età,età,età,NOUN,_,_
 31-3,BO005,31,genere,genere,genere,NOUN,_,_
-31-4,BO005,31,{P},{P},_,_,_,_
+31-4,BO005,31,(.),(.),_,_,_,_
 31-5,BO005,31,e::,e,e,CCONJ,_,_
 32-0,BO005,32,un,un,uno,DET,_,_
 32-1,BO005,32,po',po',poco,ADV,_,_
@@ -423,7 +423,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 74-3,BO005,74,tanto,tanto,tanto,ADV,_,_
 74-4,BO005,74,se,se,se,SCONJ,_,_
 74-5,BO005,74,trovo,trovo,trovare,VERB,_,_
-74-6,BO005,74,{P},{P},_,_,_,_
+74-6,BO005,74,(.),(.),_,_,_,_
 74-7,BO005,74,esempi,esempi,esempo,NOUN,_,_
 74-8,BO005,74,[va,va,andare,VERB,_,_
 74-9,BO005,74,be]ne,bene,bene,ADV,_,_
@@ -600,11 +600,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 119-7,BO005,119,perfetto].,perfetto,perfetto,ADJ,Intonation=falling,_
 120-0,BO117,120,[ha,ha,avere,AUX,_,_
 120-1,BO117,120,vist]o?,visto,vedere,VERB,Intonation=rising,_
-120-2,BO117,120,{ride},{ride},_,_,_,_
+120-2,BO117,120,((ride)),((ride)),_,_,_,_
 121-0,BO005,121,sì::,sì,sì,ADV,_,_
 121-1,BO005,121,grazie.,grazie,grazie,INTJ,Intonation=falling,_
 122-0,BO005,122,e,e,e,CCONJ,_,_
-122-1,BO005,122,{P},{P},_,_,_,_
+122-1,BO005,122,(.),(.),_,_,_,_
 122-2,BO005,122,questo,questo,questo,PRON,_,_
 122-3,BO005,122,lo,lo,lo,PRON,_,_
 122-4,BO005,122,devo,devo,dovere,AUX,_,_
@@ -636,7 +636,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 127-1,BO117,127,anche,anche,anche,ADV,_,_
 127-2,BO117,127,poter,poter,potere,AUX,_,_
 127-3,BO117,127,comparar]e,comparare,comparare,VERB,_,_
-127-4,BO117,127,{P},{P},_,_,_,_
+127-4,BO117,127,(.),(.),_,_,_,_
 127-5,BO117,127,i,i,il,DET,_,_
 127-6,BO117,127,d[ue,due,due,NUM,_,_
 127-7,BO117,127,corpora,corpora,corpora,NOUN,_,_
@@ -810,7 +810,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 150-0,BO117,150,una,una,uno,DET,_,_
 150-1,BO117,150,piccola,piccola,piccolo,ADJ,_,_
 150-2,BO117,150,[ricerca,ricerca,ricerca,NOUN,_,_
-150-3,BO117,150,{P},{P},_,_,_,_
+150-3,BO117,150,(.),(.),_,_,_,_
 150-4,BO117,150,a::h],ah,ah,INTJ,_,_
 150-5,BO117,150,bene.,bene,bene,ADV,Intonation=falling,_
 151-0,TO999,151,[ho,ho,avere,AUX,_,_
