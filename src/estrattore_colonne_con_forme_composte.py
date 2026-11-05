@@ -1,4 +1,5 @@
-"""Estrae form, lemma e upos da un CSV/TSV di lemmatizzazione (uno per riga, senza intestazione).
+"""Legge un CSV/TSV di lemmatizzazione (con intestazione) e scrive form, lemma e upos,
+una riga per token e senza intestazione.
 
 Si può usare da riga di comando oppure importando la funzione estrai().
 
@@ -14,11 +15,11 @@ segnate con "# MODIFICA:".
   5. Forme composte: le parti si cercano dal token_id (7-5 -> 7-5a, 7-5b), non
      dall'intervallo della colonna "id" (che in alcuni file non c'è).
   6. Pause e comportamenti non verbali: lemma e upos diventano PAUSE / NVB.
+  7. Tutto il lavoro è nella funzione estrai(), così altri script possono importarla
+     (es. generatore_tabella_occorrenze.py) senza lanciare un processo a parte.
   8. Lista chiara di cosa è ammesso (UPOS_AMMESSE e COMPOSTI_AMMESSI in cima al file):
      le righe con una upos o un composto non in lista, o con un campo "_", vanno nel file
      delle anomalie e NON vengono scritte nell'output (prima erano segnalate ma scritte).
-  7. Tutto il lavoro è nella funzione estrai(), così altri script possono importarla
-     (es. generatore_tabella_occorrenze.py) senza lanciare un processo a parte.
 """
 import argparse
 import csv
@@ -77,7 +78,10 @@ def estrai(nome_file_csv, file_output=None, file_anomalie=None, dir_output=DIR_O
            salta_intestazione=SALTA_INTESTAZIONE, n_col=None):
     """Legge il csv, scrive form-lemma-upos in file_output e le anomalie in file_anomalie.
 
-    Restituisce (righe, saltate, sospette): saltate e sospette sono le righe finite nelle anomalie; righe è la lista di tuple (form, lemma, upos).
+    Restituisce (righe, saltate, sospette):
+      righe    lista di tuple (form, lemma, upos) scritte nell'output
+      saltate  quante righe hanno un numero di campi sbagliato
+      sospette quante righe sono finite nelle anomalie (e non nell'output)
     """
     # MODIFICA (2): nomi di output ricavati dal nome del file di input
     dir_output = Path(dir_output)
@@ -119,7 +123,9 @@ def estrai(nome_file_csv, file_output=None, file_anomalie=None, dir_output=DIR_O
                 raise SystemExit(f"{nome_file_csv}: nell'intestazione mancano token_id, form, "
                                  f"lemma o upos: {intest}")
 
-        # tengo tutte le righe in memoria per guardare quelle successive
+        # tengo tutte le righe in memoria per guardare quelle successive: le parti di un
+        # composto (7-5a, 7-5b) stanno nelle righe DOPO la riga del composto (7-5), e
+        # nel ciclo sotto "idx" è la posizione della riga che stiamo elaborando.
         # (MODIFICA (3): lista di coppie (numero di riga, campi) invece delle righe di testo)
         linee = [(lettore.line_num, [c.strip() for c in r]) for r in lettore if r]
 
@@ -127,6 +133,8 @@ def estrai(nome_file_csv, file_output=None, file_anomalie=None, dir_output=DIR_O
             riga_testo = delimitatore.join(campi)
 
             if len(campi) != n_col:
+                # riga con un numero di colonne diverso dall'intestazione: la scarto
+                # (continue) e la scrivo nel log come SALTATA
                 saltate += 1
                 f_log.write(f"SALTATA riga {n_riga}: {len(campi)} campi invece di {n_col}: "
                             f"{riga_testo}\n")
@@ -136,10 +144,22 @@ def estrai(nome_file_csv, file_output=None, file_anomalie=None, dir_output=DIR_O
 
             form, lemma = pulisci(form), pulisci(lemma)
 
-            # caso di preposizione articolate, verbi riflessivi ecc.
+            # Token composto (preposizioni articolate, verbi con clitici ecc.):
+            # nel file la riga "padre" ha lemma e upos "_" e le sue parti sono scritte nelle
+            # righe successive, ognuna con un proprio lemma e una propria upos, es.:
+            #     7-5,  ..., nel, _,  _      <- composto (lemma e upos "_")
+            #     7-5a, ..., in,  in, ADP    <- prima parte
+            #     7-5b, ..., il,  il, DET    <- seconda parte
             # MODIFICA (6): pause e non verbali hanno lemma e upos "_" come i composti,
             # quindi vanno riconosciuti prima ed esclusi da questo ramo
             e_pausa = form in ("(.)", "[PAUSE]", "{P}")
+            # Comportamento non verbale: la form è tra doppie parentesi tonde, "((ride))",
+            # oppure, nei vecchi file, tra graffe, "{ride}".
+            #   \(\(  e  \)\)  le parentesi sono precedute da \ perché in una regex sono
+            #                  caratteri speciali
+            #   .*             qualsiasi testo in mezzo
+            #   |              "oppure"
+            # fullmatch richiede che l'INTERA form abbia questa forma, non solo una parte.
             e_nvb = bool(re.fullmatch(r"\(\(.*\)\)|\{.*\}", form))
             if lemma == "_" and upos == "_" and not (e_pausa or e_nvb):
                 lemma = form
@@ -152,6 +172,11 @@ def estrai(nome_file_csv, file_output=None, file_anomalie=None, dir_output=DIR_O
                 lemmi_parti = []
                 upos_parti = []
                 for _, c in linee[idx + 1:]:
+                    # La riga successiva è una parte di questo composto solo se il suo
+                    # token_id è quello del composto seguito da una o più lettere:
+                    # "7-5" -> "7-5a", "7-5b" sì; "7-6" no.
+                    # re.escape protegge il "-" e gli altri caratteri speciali del token_id;
+                    # [a-z]+ significa "una o più lettere minuscole".
                     if len(c) <= max(I_TOKEN, I_LEMMA, I_UPOS) or not re.fullmatch(
                             re.escape(campi[I_TOKEN]) + r"[a-z]+", c[I_TOKEN]):
                         break
@@ -163,6 +188,8 @@ def estrai(nome_file_csv, file_output=None, file_anomalie=None, dir_output=DIR_O
                     # TODO in un secondo momento: ADP+DET -> ADPART, VERB/AUX+PRON -> VERBPRON
                 else:
                     sospette += 1
+                    # nessuna parte trovata: non si può costruire il lemma, quindi la
+                    # riga va nelle anomalie e non nell'output
                     f_log.write(f"ANOMALIA riga {n_riga}: parti della forma composta "
                                 f"non trovate: {riga_testo}\n")
                     continue
@@ -179,9 +206,9 @@ def estrai(nome_file_csv, file_output=None, file_anomalie=None, dir_output=DIR_O
             elif e_nvb:
                 lemma = upos = "NVB"
 
-            # MODIFICA (8): controllo di sicurezza spostato qui, dopo aver costruito upos finale:
-            # ogni upos (anche le parti di un composto "ADP+DET") deve essere un tag valido;
-            # altrimenti la riga va nelle anomalie e non nell'output
+            # MODIFICA (8): controllo finale, fatto dopo aver costruito lemma e upos definitivi.
+            # La riga è anomala se: ha un campo "_"; è un composto non in COMPOSTI_AMMESSI;
+            # oppure è una upos singola non in UPOS_AMMESSE.
             motivo = None
             parti = upos.split("+")    # "ADP+DET" -> ["ADP", "DET"]; "NOUN" -> ["NOUN"]
 
@@ -203,6 +230,7 @@ def estrai(nome_file_csv, file_output=None, file_anomalie=None, dir_output=DIR_O
             elif len(parti) == 1 and upos not in UPOS_AMMESSE:
                 motivo = f"upos '{upos}' non valida"
             if motivo:
+                # riga anomala: nel log con il motivo, ma non nell'output
                 sospette += 1
                 f_log.write(f"ANOMALIA riga {n_riga}: {motivo}: {riga_testo}\n")
                 continue
