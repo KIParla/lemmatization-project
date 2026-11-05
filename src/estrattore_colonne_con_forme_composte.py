@@ -12,7 +12,7 @@ FILE_ANOMALIE = "righe_anomale_5_con_prep_art.txt"      # righe saltate o da con
 
 N_COL = 20
 UPOS = {"ADJ", "ADP", "ADV", "AUX", "CCONJ", "DET", "INTJ", "NOUN", "NUM",
-        "PART", "PRON", "PROPN", "PUNCT", "SCONJ", "SYM", "VERB", "X", "_"}
+        "PART", "PRON", "PROPN", "PUNCT", "SCONJ", "SYM", "VERB", "X", "_", "VERBPRON", "ADPART"}
 
 scritte = 0
 saltate = 0
