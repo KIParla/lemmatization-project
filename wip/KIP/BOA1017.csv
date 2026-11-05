@@ -54,12 +54,12 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 15-1,BO082,15,okay,okay,okay,INTJ,_,_
 15-2,BO082,15,sì,sì,sì,ADV,_,_
 15-3,BO082,15,perché,perché,perché,SCONJ,_,_
-15-4,BO082,15,xx,xx,x,SYM,_,_
+15-4,BO082,15,xx,xx,x,X,_,_
 15-5,BO082,15,di,di,di,ADP,_,_
 15-6,BO082,15,email,email,email,DET,_,_
 15-7,BO082,15,ne,ne,ne,PRON,_,_
 15-8,BO082,15,ho,ho,avere,VERB,_,_
-15-9,BO082,15,xx,xx,x,SYM,_,_
+15-9,BO082,15,xx,xx,x,X,_,_
 15-10,BO082,15,un,un,uno,DET,_,_
 15-11,BO082,15,milione,milione,milione,NUM,_,_
 15-12,BO082,15,ma,ma,ma,CCONJ,_,_
@@ -531,7 +531,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 85-1,BO084,85,quindi,quindi,quindi,ADV,_,_
 85-2,BO084,85,eventualmente,eventualmente,eventualmente,ADV,_,_
 85-3,BO084,85,non,non,non,ADV,_,_
-85-4,BO084,85,[xxx,xxx,x,SYM,_,_
+85-4,BO084,85,[xxx,xxx,x,X,_,_
 85-5,BO084,85,"linguistico],",linguistico,linguistico,ADJ,Intonation=weakly_rising,_
 86-0,BO082,86,[allora,allora,allora,ADV,_,_
 86-1,BO082,86,le,le,il,PRON,_,_
@@ -611,7 +611,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 97-0,BO084,97,m::,m,m,X,_,_
 98-0,BO082,98,e,e,e,CCONJ,_,_
 98-1,BO082,98,quindi,quindi,quindi,ADV,_,_
-98-2,BO082,98,xx,xx,x,SYM,_,_
+98-2,BO082,98,xx,xx,x,X,_,_
 98-3,BO082,98,oppure,oppure,oppure,CCONJ,_,_
 98-4,BO082,98,facciamo,facciamo,fare,VERB,_,_
 98-5,BO082,98,questo,questo,questo,DET,_,_
@@ -980,7 +980,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 147-2,BO084,147,che,che,che,SCONJ,_,_
 147-3,BO084,147,ad,ad,a,ADP,_,_
 147-4,BO084,147,ogni,ogni,ogni,DET,_,_
-147-5,BO084,147,xx,xx,x,NOUN,_,_
+147-5,BO084,147,xx,xx,x,X,_,_
 147-6,BO084,147,ad,ad,a,ADP,_,_
 147-7,BO084,147,ogni,ogni,ogni,DET,_,_
 147-8,BO084,147,genere,genere,genere,NOUN,_,_
@@ -1114,7 +1114,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 168-0,BO082,168,okay,okay,okay,INTJ,_,_
 168-1,BO082,168,allora,allora,allora,ADV,_,_
 168-2,BO082,168,lei,lei,lei,PRON,_,_
-168-3,BO082,168,x,x,x,SYM,_,_
+168-3,BO082,168,x,x,x,X,_,_
 168-4,BO082,168,deve,deve,dovere,AUX,_,_
 168-5,BO082,168,intanto,intanto,intanto,ADV,_,_
 168-6,BO082,168,chiarirsi,chiarirsi,_,_,_,_
@@ -1580,7 +1580,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 243-7,BO082,243,andare,andare,andare,VERB,_,_
 243-8,BO082,243,vero?,vero,vero,ADJ,Intonation=rising,_
 244-0,BO084,244,[sì,sì,sì,ADV,_,_
-244-1,BO084,244,xx].,xx,xx,SYM,Intonation=falling,_
+244-1,BO084,244,xx].,xx,x,X,Intonation=falling,_
 245-0,BO082,245,[luglio],luglio,luglio,NOUN,_,_
 245-1,BO082,245,allora,allora,allora,ADV,_,_
 245-2,BO082,245,luglio,luglio,luglio,NOUN,_,_

@@ -39,7 +39,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 7-1,BO097,7,7,2,letto,letto,letto,NOUN,_,_
 7-2,BO097,7,7,3,vent',vent',venti,NUM,_,_
 7-3,BO097,7,7,4,anni,anni,anno,NOUN,_,_
-8-0,BO095,8,8,1,xxxx,xxxx,x,SYM,_,_
+8-0,BO095,8,8,1,xxxx,xxxx,x,X,_,_
 8-1,BO095,8,8,2,non,non,non,ADV,_,_
 8-2,BO095,8,8,3,lo,lo,lo,PRON,_,_
 8-3,BO095,8,8,4,conosco,conosco,conoscere,VERB,_,_
@@ -1155,7 +1155,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 177-3,BO095,177,177,4,la,la,il,DET,_,_
 177-4,BO095,177,177,5,testa,testa,testa,NOUN,_,_
 178-0,BO097,178,178,1,xxxx,xxxx,x,X,_,_
-179-0,BO097,179,179,1,xxx[x]x?,xxxxx,xxx,X,_,_
+179-0,BO097,179,179,1,xxx[x]x?,xxxxx,x,X,_,_
 180-0,BO095,180,180,1,[no::],no,no,INTJ,_,_
 181-0,BO095,181,181,1,no,no,no,INTJ,_,_
 181-1,BO095,181,181,2,non,non,non,ADV,_,_

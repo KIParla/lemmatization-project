@@ -670,7 +670,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 108-4,BO142,108,108,5,contemplate,contemplate,contemplato,VERB,_,_
 108-5,BO142,108,108,6,in,in,in,ADP,_,_
 108-6,BO142,108,108,7,una,una,uno,DET,_,_
-108-7,BO142,108,108,8,xxx,xxx,x,-,_,_
+108-7,BO142,108,108,8,xxx,xxx,x,X,_,_
 108-8,BO142,108,108,9,"[(e:)],",e,e,CCONJ,Intonation=weakly_rising,_
 109-0,BO117,109,109,1,[migliore].,migliore,migliore,ADJ,Intonation=falling,_
 110-0,BO117,110,110,1,[ma,ma,ma,CCONJ,_,_
@@ -1029,7 +1029,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 161-1,BO142,161,161,2,extralinguistico,extralinguistico,extralinguistico,ADJ,_,_
 161-2,BO142,161,161,3,a,a,a,ADP,_,_
 161-3,BO142,161,161,4,cui:,cui,cui,PRON,_,_
-161-4,BO142,161,161,5,"[xx],",xx,x,-,Intonation=weakly_rising,_
+161-4,BO142,161,161,5,"[xx],",xx,x,X,Intonation=weakly_rising,_
 162-0,BO117,162,162,1,[ecco,ecco,ecco,ADV,_,_
 162-1,BO117,162,162,2,lei,lei,lei,PRON,_,_
 162-2,BO117,162,162,3,ha,ha,avere,AUX,_,_
@@ -1111,7 +1111,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 173-2,BO117,173,174,3,par]lano,parlano,parlare,VERB,_,_
 173-3,BO117,173,174,4,di,di,di,ADP,_,_
 173-4,BO117,173,174,5,"contesto,",contesto,contesto,NOUN,Intonation=weakly_rising,_
-174-0,BO142,174,173,1,[xx].,xx,x,-,Intonation=falling,_
+174-0,BO142,174,173,1,[xx].,xx,x,X,Intonation=falling,_
 175-0,BO117,175,175,1,in,in,in,ADP,_,_
 175-1,BO117,175,175,2,un:,un,uno,DET,_,_
 175-2,BO117,175,175,3,senso,senso,senso,NOUN,_,_

@@ -55,7 +55,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 8-0,TO024,8,8,1,[il,il,il,DET,_,_
 8-1,TO024,8,8,2,penultimo].,penultimo,penultimo,NOUN,_,_
 9-0,TO024,9,9,1,[no.,no,no,ADV,_,_
-9-1,TO024,9,9,2,xx],xx,x,SYM,_,_
+9-1,TO024,9,9,2,xx],xx,x,X,_,_
 9-2,TO024,9,9,3,allora,allora,allora,ADV,_,_
 9-3,TO024,9,9,4,è,è,essere,AUX,_,_
 9-4,TO024,9,9,5,mancata,mancata,mancare,VERB,_,_
@@ -74,7 +74,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 9-17,TO024,9,9,18,scegliere,scegliere,scegliere,VERB,_,_
 9-18,TO024,9,9,19,una,una,uno,DET,_,_
 9-19,TO024,9,9,20,doman[da].,domanda,domanda,NOUN,_,_
-10-0,TO022,10,10,1,[xx],xx,x,SYM,_,_
+10-0,TO022,10,10,1,[xx],xx,x,X,_,_
 11-0,TO022,11,11,1,[no.,no,no,ADV,_,_
 11-1,TO022,11,11,2,no].,no,no,ADV,_,_
 11-2,TO022,11,11,3,((ride)),((ride)),[LAUGH],X,_,_
@@ -104,7 +104,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 13-9,TO024,13,13,11,e:h,eh,eh,INTJ,_,_
 13-10,TO024,13,13,12,germania,germania,Germania,PROPN,_,_
 13-11,TO024,13,13,13,"o:ggi:,",oggi,oggi,ADV,_,_
-14-0,TO022,14,14,1,[xx],xx,x,SYM,_,_
+14-0,TO022,14,14,1,[xx],xx,x,X,_,_
 15-0,TO024,15,15,1,[non,non,non,ADV,_,_
 15-1,TO024,15,15,2,mi],mi,mi,PRON,_,_
 15-2,TO024,15,15,3,può,può,potere,AUX,_,_
@@ -793,8 +793,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 64-35,TO024,64,64,38,idea,idea,idea,NOUN,_,_
 64-36,TO024,64,64,39,di,di,di,ADP,_,_
 64-37,TO024,64,64,40,popolo.,popolo,popolo,NOUN,_,_
-65-0,TO022,65,65,1,[x,x,x,SYM,_,_
-65-1,TO022,65,65,2,x,x,x,SYM,_,_
+65-0,TO022,65,65,1,[x,x,x,X,_,_
+65-1,TO022,65,65,2,x,x,x,X,_,_
 65-2,TO022,65,65,3,sì].,sì,sì,ADV,_,_
 66-0,TO022,66,66,1,"[codice],",codice,codice,NOUN,_,_
 67-0,TO022,67,67,1,[sì].,sì,sì,ADV,_,_

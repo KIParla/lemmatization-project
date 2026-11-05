@@ -824,7 +824,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 126-1b,_,_,126,3,_,la,il,DET,_,_
 126-2,BO020,126,126,4,mia,mia,mio,DET,_,_
 126-3,BO020,126,126,5,scuola,scuola,scuola,NOUN,_,_
-126-4,BO020,126,126,6,xxx,xxx,x,SYM,_,_
+126-4,BO020,126,126,6,xxx,xxx,x,X,_,_
 126-5,BO020,126,126,7,sia,sia,sia,CCONJ,_,_
 126-6,BO020,126,126,8,l',l',il,DET,_,_
 126-7,BO020,126,126,9,indirizzo,indirizzo,indirizzo,NOUN,_,_
@@ -5101,7 +5101,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 720-3,BO020,720,720,4,"il,",il,il,DET,_,_
 721-0,BO020,721,721,1,dia[letto,dialetto,dialetto,NOUN,_,_
 721-1,BO020,721,721,2,che,che,che,PRON,_,_
-721-2,BO020,721,721,3,xxx].,xxx,x,NOUN,_,_
+721-2,BO020,721,721,3,xxx].,xxx,x,X,_,_
 722-0,BO026,722,722,1,[eh,eh,eh,INTJ,_,_
 722-1,BO026,722,722,2,i,i,il,DET,_,_
 722-2,BO026,722,722,3,ragazzi,ragazzi,ragazzo,NOUN,_,_
@@ -5461,7 +5461,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 785-2,BO026,785,785,3,qui].,qui,qui,ADV,_,_
 786-0,BO020,786,786,1,e:h,eh,eh,INTJ,_,_
 786-1,BO020,786,786,2,sì,sì,sì,ADV,_,_
-786-2,BO020,786,786,3,[xx,xx,x,SYM,_,_
+786-2,BO020,786,786,3,[xx,xx,x,X,_,_
 786-3,BO020,786,786,4,"ricevimenti:],",ricevimenti,ricevimento,NOUN,_,_
 787-0,BO026,787,787,1,[sì,sì,sì,ADV,_,_
 787-1,BO026,787,787,2,sì,sì,sì,ADV,_,_
@@ -5608,8 +5608,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 809-1,BO020,809,809,2,ess[ere].,essere,essere,VERB,_,_
 810-0,BO026,810,810,1,[va,va,andare,VERB,_,_
 810-1,BO026,810,810,2,be]ne,bene,bene,ADV,_,_
-810-2,BO026,810,810,3,°xx,xx,x,SYM,_,_
-810-3,BO026,810,810,4,[xx°,xx,x,SYM,_,_
+810-2,BO026,810,810,3,°xx,xx,x,X,_,_
+810-3,BO026,810,810,4,[xx°,xx,x,X,_,_
 810-4,BO026,810,810,5,non,non,non,ADV,_,_
 810-5,BO026,810,810,6,s~,s~,s~,X,_,_
 810-6,BO026,810,810,7,non,non,non,ADV,_,_

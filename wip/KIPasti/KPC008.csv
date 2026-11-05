@@ -1787,7 +1787,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 242-6,PKP069,242,metti,metti,mettere,VERB,_,_
 242-7,PKP069,242,pure,pure,pure,ADV,_,_
 242-8,PKP069,242,(.),(.),_,_,_,_
-242-9,PKP069,242,°x°,x,x,SYM,Volume=low,_
+242-9,PKP069,242,°x°,x,x,X,Volume=low,_
 243-0,PKP069,243,più:,più,più,ADV,_,_
 243-1,PKP069,243,austerità,austerità,austerità,NOUN,_,_
 243-2,PKP069,243,è,è,essere,AUX,_,_
@@ -3357,8 +3357,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 439-5,PKP069,439,paese,paese,Paese,NOUN,_,_
 439-6,PKP069,439,mega,mega,mega,ADJ,_,_
 439-7,PKP069,439,diverso,diverso,diverso,ADJ,_,_
-439-8,PKP069,439,°x[xxx],xxxx,x,SYM,Volume=low,_
-439-9,PKP069,439,xxx°,xxx,x,SYM,Volume=low,_
+439-8,PKP069,439,°x[xxx],xxxx,x,X,Volume=low,_
+439-9,PKP069,439,xxx°,xxx,x,X,Volume=low,_
 440-0,PKP063,440,[mh],mh,mh,INTJ,_,_
 441-0,PKP063,441,[e,e,e,CCONJ,_,_
 441-1,PKP063,441,sì],sì,sì,ADV,_,_
@@ -3708,7 +3708,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 500-0,PKP069,500,mh,mh,mh,INTJ,_,_
 500-1,PKP069,500,libro,libro,libro,NOUN,_,_
 500-2,PKP069,500,articolo,articolo,articolo,NOUN,_,_
-500-3,PKP069,500,[°xxxx°],xxxx,x,SYM,Volume=low,_
+500-3,PKP069,500,[°xxxx°],xxxx,x,X,Volume=low,_
 500-4,PKP069,500,libri,libri,libro,NOUN,_,_
 501-0,PKP063,501,[libri],libri,libro,NOUN,_,_
 502-0,PKP063,502,e,e,e,CCONJ,_,_
@@ -5085,7 +5085,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 685-11,PKP069,685,esquivel,esquivel,Esquivel,PROPN,_,_
 685-12,PKP069,685,mh,mh,mh,INTJ,_,_
 686-0,PKP063,686,[mh],mh,mh,INTJ,_,_
-687-0,PKP063,687,>xxxxx,xxxxx,x,SYM,_,_
+687-0,PKP063,687,>xxxxx,xxxxx,x,X,_,_
 687-1,PKP063,687,(pasquazione,pasquazione,pasquazione,NOUN,_,_
 687-2,PKP063,687,di,di,di,ADP,_,_
 687-3,PKP063,687,là,là,là,ADV,_,_
@@ -5165,7 +5165,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 698-13,PKP069,698,age,age,age,NOUN,Lang=en,_
 698-14,PKP069,698,tip[o::],tipo,tipo,NOUN,_,_
 699-0,PKP063,699,[sì:,sì,sì,ADV,_,_
-699-1,PKP063,699,],x,x,SYM,_,_
+699-1,PKP063,699,],x,x,X,_,_
 700-0,PKP069,700,eh,eh,eh,INTJ,_,_
 700-1,PKP069,700,°eh°,eh,eh,INTJ,Volume=low,_
 701-0,PKP069,701,guarda,guarda,guardare,VERB,_,_

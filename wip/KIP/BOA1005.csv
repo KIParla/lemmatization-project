@@ -643,7 +643,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 91-2,BO026,91,91,3,una,una,uno,DET,_,_
 91-3,BO026,91,91,4,car[te]lla,cartella,cartella,NOUN,_,_
 91-4,BO026,91,91,5,su,su,su,ADP,_,_
-91-5,BO026,91,91,6,xx,xx,x,SYM,_,_
+91-5,BO026,91,91,6,xx,xx,x,X,_,_
 91-6,BO026,91,91,7,writing.,writing,writing,NOUN,_,_
 92-0,BO033,92,92,1,[mh],mh,mh,INTJ,_,_
 93-0,BO026,93,93,1,e:h,eh,eh,INTJ,_,_
@@ -696,7 +696,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 100-9,BO026,100,100,10,(mh)<,mh,mh,INTJ,_,_
 101-0,BO033,101,101,1,sì.,sì,sì,ADV,_,_
 101-1,BO033,101,101,2,(.),(.),[PAUSE],X,_,_
-101-2,BO033,101,101,3,(xx,xx,x,SYM,_,_
+101-2,BO033,101,101,3,(xx,xx,x,X,_,_
 101-3,BO033,101,101,4,inizio).,inizio,inizio,NOUN,_,_
 102-0,BO026,102,102,1,su,su,su,ADP,_,_
 102-1,BO026,102,102,2,academic,academic,academic,ADJ,Lang=en,_
@@ -903,7 +903,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 138-4,BO026,138,138,5,[posso?,posso,potere,AUX,_,_
 138-5,BO026,138,138,6,po]sso?,posso,potere,AUX,_,_
 139-0,BO033,139,139,1,[grand,grand,grand,ADJ,_,_
-139-1,BO033,139,139,2,xx],xx,x,SYM,_,_
+139-1,BO033,139,139,2,xx],xx,x,X,_,_
 140-0,BO033,140,140,1,certo.,certo,certo,ADV,_,_
 141-0,BO026,141,141,1,in,in,in,ADP,_,_
 141-1,BO026,141,141,2,questo,questo,questo,DET,_,_
@@ -1099,7 +1099,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 182-0,BO026,182,182,1,"mh,",mh,mh,INTJ,_,_
 183-0,BO026,183,183,1,le,le,il,DET,_,_
 183-1,BO026,183,183,2,riviste,riviste,rivista,NOUN,_,_
-183-2,BO026,183,183,3,xx,xx,x,SYM,_,_
+183-2,BO026,183,183,3,xx,xx,x,X,_,_
 183-3,BO026,183,183,4,tutte,tutte,tutto,DET,_,_
 183-4,BO026,183,183,5,le,le,il,DET,_,_
 183-5,BO026,183,183,6,riviste::,riviste,rivista,NOUN,_,_

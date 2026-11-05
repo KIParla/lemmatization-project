@@ -295,7 +295,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 51-1,TO085,51,51,2,bene,bene,bene,ADV,_,_
 52-0,TO086,52,52,1,no,no,no,ADV,_,_
 52-1,TO086,52,52,2,io,io,io,PRON,_,_
-52-2,TO086,52,52,3,x,x,x,SYM,_,_
+52-2,TO086,52,52,3,x,x,x,X,_,_
 52-3,TO086,52,52,4,sembra,sembra,sembrare,VERB,_,_
 52-4,TO086,52,52,5,che,che,che,SCONJ,_,_
 52-5,TO086,52,52,6,lui,lui,lui,PRON,_,_
@@ -352,7 +352,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 60-0,TO086,60,60,1,no::,no,no,ADV,_,_
 60-1,TO086,60,60,2,è,è,essere,VERB,_,_
 60-2,TO086,60,60,3,[che,che,che,SCONJ,_,_
-60-3,TO086,60,60,4,x],x,x,SYM,_,_
+60-3,TO086,60,60,4,x],x,x,X,_,_
 61-0,TO085,61,61,1,[ma,ma,ma,CCONJ,_,_
 61-1,TO085,61,61,2,di],di,di,ADP,_,_
 61-2,TO085,61,61,3,chi,chi,chi,PRON,_,_
@@ -1495,7 +1495,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 262-2,TO086,262,262,3,c',c',ci,PRON,_,_
 262-3,TO086,262,262,4,eri,eri,erare,VERB,_,_
 262-4,TO086,262,262,5,quando,quando,quando,SCONJ,_,_
-262-5,TO086,262,262,6,x?,x,x,SYM,_,_
+262-5,TO086,262,262,6,x?,x,x,X,_,_
 263-0,TO085,263,263,1,la,la,il,DET,_,_
 263-1,TO085,263,263,2,lavastoviglie?,lavastoviglie,lavastoviglie,NOUN,_,_
 264-0,TO086,264,264,1,sì,sì,sì,ADV,_,_
@@ -2792,7 +2792,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 481-2,TO085,481,481,3,giorno,giorno,giorno,NOUN,_,_
 482-0,TO085,482,482,0,((ride)),((ride)),[LAUGH],X,_,_
 483-0,TO086,483,483,1,cosa?,cosa,cosa,PRON,_,_
-484-0,TO086,484,484,1,[xx,xx,x,SYM,_,_
+484-0,TO086,484,484,1,[xx,xx,x,X,_,_
 484-1,TO086,484,484,2,sono],sono,essere,AUX,_,_
 484-2,TO086,484,484,3,(.),(.),[PAUSE],X,_,_
 484-3,TO086,484,484,4,sono,sono,essere,AUX,_,_

@@ -403,7 +403,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 58-1,BO095,58,58,2,meglio],meglio,meglio,ADV,_,_
 59-0,BO097,59,59,1,in,in,in,ADP,_,_
 59-1,BO097,59,59,2,generale,generale,generale,NOUN,_,_
-60-0,BO097,60,60,1,xxx,xxx,x,SYM,_,_
+60-0,BO097,60,60,1,xxx,xxx,x,X,_,_
 60-1,BO097,60,60,2,c',c',ci,PRON,_,_
 60-2,BO097,60,60,3,è,è,essere,VERB,_,_
 60-3,BO097,60,60,4,questo,questo,questo,DET,_,_
@@ -1318,7 +1318,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 210-6,BO097,210,210,7,adesso,adesso,adesso,ADV,_,_
 210-7,BO097,210,210,8,"ormai,",ormai,ormai,ADV,_,_
 211-0,BO097,211,211,1,cioè,cioè,cioè,CCONJ,_,_
-211-1,BO097,211,211,2,xx,xx,x,SYM,_,_
+211-1,BO097,211,211,2,xx,xx,x,X,_,_
 212-0,BO097,212,212,1,bisognerebbe,bisognerebbe,bisognare,VERB,_,_
 212-1,BO097,212,212,2-3,farlo,farlo,_,_,_,_
 212-1a,_,_,212,2,_,far,fare,VERB,_,_
@@ -1336,7 +1336,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 214-2,BO097,214,214,3,capace,capace,capace,ADJ,_,_
 214-3,BO097,214,214,4,a,a,a,ADP,_,_
 214-4,BO097,214,214,5,fare,fare,fare,VERB,_,_
-214-5,BO097,214,214,6,xxx,xxx,x,SYM,_,_
+214-5,BO097,214,214,6,xxx,xxx,x,X,_,_
 215-0,BO095,215,215,1,guarda,guarda,guardare,VERB,_,_
 215-1,BO095,215,215,2,siamo,siamo,essere,AUX,_,_
 215-2,BO095,215,215,3-4,sulla,sulla,_,_,_,_
@@ -1690,8 +1690,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 283-0,BO097,283,283,1,mamma,mamma,mamma,NOUN,_,_
 283-1,BO097,283,283,2,mia,mia,mio,ADJ,_,_
 284-0,BO097,284,284,1,non,non,non,ADV,_,_
-284-1,BO097,284,284,2,xx,xx,x,SYM,_,_
-284-2,BO097,284,284,3,xxx,xxx,x,SYM,_,_
+284-1,BO097,284,284,2,xx,xx,x,X,_,_
+284-2,BO097,284,284,3,xxx,xxx,x,X,_,_
 284-3,BO097,284,284,4,andare,andare,andare,VERB,_,_
 284-4,BO097,284,284,5,a,a,a,ADP,_,_
 284-5,BO097,284,284,6,studiare,studiare,studiare,VERB,_,_
@@ -1706,7 +1706,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 287-0,BO097,287,287,1,chissà,chissà,chissà,ADV,_,_
 287-1,BO097,287,287,2,perché,perché,perché,SCONJ,_,_
 287-2,BO097,287,287,3,poi,poi,poi,ADV,_,_
-287-3,BO097,287,287,4,xxx,xxx,x,SYM,_,_
+287-3,BO097,287,287,4,xxx,xxx,x,X,_,_
 288-0,BO095,288,288,1,c',c',ci,PRON,_,_
 288-1,BO095,288,288,2,è,è,essere,VERB,_,_
 288-2,BO095,288,288,3,freddo,freddo,freddo,NOUN,_,_
@@ -1750,7 +1750,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 294-3,BO095,294,294,4,sta,sta,stare,VERB,_,_
 295-0,BO097,295,295,1,e,e,e,CCONJ,_,_
 295-1,BO097,295,295,2,poi,poi,poi,ADV,_,_
-295-2,BO097,295,295,3,xx,xx,x,SYM,_,_
+295-2,BO097,295,295,3,xx,xx,x,X,_,_
 296-0,BO097,296,296,1,sì,sì,sì,INTJ,_,_
 296-1,BO097,296,296,2,(.),(.),[PAUSE],X,_,_
 296-2,BO097,296,296,3,i,i,il,DET,_,_
@@ -1799,7 +1799,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 307-0,BO097,307,307,1,xxxx,xxxx,x,X,_,_
 308-0,BO095,308,308,1,ho,ho,avere,AUX,_,_
 308-1,BO095,308,308,2,capito,capito,capire,VERB,_,_
-309-0,BO095,309,309,1,xxx,xxx,x,SYM,_,_
+309-0,BO095,309,309,1,xxx,xxx,x,X,_,_
 309-1,BO095,309,309,2,una,una,uno,DET,_,_
 309-2,BO095,309,309,3,cosina?,cosina,cosa,NOUN,_,_
 310-0,BO097,310,310,1,xxx,xxx,x,X,_,_

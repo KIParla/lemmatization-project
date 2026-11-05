@@ -288,7 +288,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 51-1,BO005,51,la,la,il,DET,Volume=low,_
 51-2,BO005,51,freque]nza.,frequenza,frequenza,NOUN,Intonation=falling|Volume=low,_
 51-3,BO005,51,[cox,cox,cox,x,Volume=low,_
-51-4,BO005,51,xx°],xx,x,SYM,Volume=low,_
+51-4,BO005,51,xx°],xx,x,X,Volume=low,_
 52-0,BO117,52,[esatto.,esatto,esatto,ADJ,Intonation=falling,_
 52-1,BO117,52,la,la,il,DET,_,_
 52-2,BO117,52,"fre]quenza,",frequenza,frequenza,NOUN,Intonation=weakly_rising,_
@@ -794,7 +794,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 146-4,BO005,146,sui,sui,_,_,_,_
 146-4a,_,_,_,su,su,ADP,_,_
 146-4b,_,_,_,i,il,DET,_,_
-146-5,BO005,146,xxx],xxx,x,NOUN,_,_
+146-5,BO005,146,xxx],xxx,x,X,_,_
 147-0,BO117,147,[farvi,farvi,_,_,_,_
 147-0a,_,_,_,far,fare,VERB,_,_
 147-0b,_,_,_,vi,vi,PRON,_,_
@@ -835,7 +835,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 157-0,BO005,157,ah,ah,ah,INTJ,_,_
 157-1,BO005,157,[okay,okay,okay,INTJ,_,_
 157-2,BO005,157,quindi,quindi,quindi,ADV,_,_
-157-3,BO005,157,xxx],xxx,x,x,_,_
+157-3,BO005,157,xxx],xxx,x,X,_,_
 157-4,BO005,157,grazie,grazie,grazie,NOUN,_,_
 157-5,BO005,157,mille,mille,mille,NUM,_,_
 158-0,BO117,158,[niente,niente,niente,PRON,_,_

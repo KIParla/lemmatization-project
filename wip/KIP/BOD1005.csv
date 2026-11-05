@@ -98,7 +98,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 17-1,BO094,17,17,2,posso,posso,potere,AUX,_,_
 17-2,BO094,17,17,3,concludere,concludere,concludere,VERB,_,_
 17-3,BO094,17,17,4,per,per,per,ADP,_,_
-17-4,BO094,17,17,5,xx,xx,x,SYM,_,_
+17-4,BO094,17,17,5,xx,xx,x,X,_,_
 17-5,BO094,17,17,6,ics,ics,ics,NOUN,_,_
 17-6,BO094,17,17,7,a,a,a,NOUN,_,_
 18-0,BO094,18,18,1,allora,allora,allora,ADV,_,_
@@ -366,13 +366,13 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 59-1,BO094,59,59,2,i,i,il,DET,_,_
 59-2,BO094,59,59,3,seguenti,seguenti,seguente,NOUN,_,_
 59-3,BO094,59,59,4,in,in,in,ADP,_,_
-59-4,BO094,59,59,5,xx,xx,x,SYM,_,_
+59-4,BO094,59,59,5,xx,xx,x,X,_,_
 60-0,BO094,60,60,1,si,si,si,PRON,_,_
 60-1,BO094,60,60,2,può,può,potere,AUX,_,_
 60-2,BO094,60,60,3,fare.,fare,fare,VERB,Intonation=falling,_
 61-0,???,61,61,0,((forte_brusio)),((forte_brusio)),_,X,_,_
 62-0,BO094,62,62,1,guarda,guarda,guardare,VERB,_,_
-62-1,BO094,62,62,2,xxx,xxx,x,SYM,_,_
+62-1,BO094,62,62,2,xxx,xxx,x,X,_,_
 63-0,BO094,63,63,1,va,va,andare,VERB,_,_
 63-1,BO094,63,63,2,bene.,bene,bene,ADV,Intonation=falling,_
 64-0,BO094,64,64,1,però,però,però,ADV,_,_
@@ -517,7 +517,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 83-8,BO094,83,83,9,tre,tre,tre,NUM,_,_
 83-9,BO094,83,83,10,concetti,concetti,concetto,NOUN,_,_
 83-10,BO094,83,83,11,a,a,a,ADP,_,_
-83-11,BO094,83,83,12,"xxxx,",xxxx,xxxx,X,Intonation=weakly_rising,_
+83-11,BO094,83,83,12,"xxxx,",xxxx,x,X,Intonation=weakly_rising,_
 84-0,BO094,84,84,1,a,a,a,ADP,_,_
 84-1,BO094,84,84,2,è,è,essere,AUX,_,_
 84-2,BO094,84,84,3,conseguente,conseguente,conseguente,ADJ,_,_
@@ -568,7 +568,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 89-5,BO094,89,89,6,ormai,ormai,ormai,ADV,_,_
 89-6,BO094,89,89,7,ci,ci,ci,PRON,_,_
 89-7,BO094,89,89,8,siamo,siamo,essere,AUX,_,_
-89-8,BO094,89,89,9,xxxx,xxxx,x,SYM,_,_
+89-8,BO094,89,89,9,xxxx,xxxx,x,X,_,_
 89-9,BO094,89,89,10,"abbastanza,",abbastanza,abbastanza,ADV,Intonation=weakly_rising,_
 90-0,BO094,90,90,1,vorrei,vorrei,volere,AUX,_,_
 90-1,BO094,90,90,2-3,farvi,farvi,_,_,_,_
@@ -1019,7 +1019,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 165-2,BO094,165,165,3,per,per,per,ADP,_,_
 165-3,BO094,165,165,4,ogni,ogni,ogni,DET,_,_
 165-4,BO094,165,165,5,allora,allora,allora,ADV,_,_
-166-0,BO094,166,166,1,xx,xx,x,SYM,_,_
+166-0,BO094,166,166,1,xx,xx,x,X,_,_
 166-1,BO094,166,166,2,almeno,almeno,almeno,ADV,_,_
 166-2,BO094,166,166,3,due,due,due,NUM,_,_
 167-0,BO094,167,167,1,presi,presi,prendere,VERB,_,_
@@ -1801,7 +1801,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 276-0,BO094,276,276,1,però,però,però,ADV,_,_
 276-1,BO094,276,276,2,m:h,mh,mh,INTJ,ProsodicLink=Yes,_
 276-2,BO094,276,276,3,e::h,eh,eh,INTJ,_,_
-277-0,BO094,277,277,1,xxx,xxx,X,X,_,_
+277-0,BO094,277,277,1,xxx,xxx,x,X,_,_
 278-0,BO094,278,278,1,e,e,e,CCONJ,_,_
 278-1,BO094,278,278,2,potrei,potrei,potere,AUX,_,_
 278-2,BO094,278,278,3-4,analizzarla,analizzarla,_,_,_,_
@@ -1929,7 +1929,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 293-13,BO094,293,293,14,uguali,uguali,uguale,ADJ,_,_
 293-14,BO094,293,293,15,a,a,a,ADP,_,_
 293-15,BO094,293,293,16,lui,lui,lui,PRON,_,_
-294-0,BO094,294,294,1,xxxxx,xxxxx,X,X,_,_
+294-0,BO094,294,294,1,xxxxx,xxxxx,x,X,_,_
 295-0,BO094,295,295,1,ecco,ecco,ecco,ADV,_,_
 296-0,BO094,296,296,1,e::h,eh,eh,INTJ,_,_
 296-1,BO094,296,296,2,tenete,tenete,tenere,VERB,_,_
@@ -2094,7 +2094,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 320-1,BO094,320,320,2,ics,ics,ics,NOUN,_,_
 320-2,BO094,320,320,3,che,che,che,PRON,_,_
 320-3,BO094,320,320,4,voglio,voglio,volere,VERB,_,_
-320-4,BO094,320,320,5,xx,xx,x,SYM,_,_
+320-4,BO094,320,320,5,xx,xx,x,X,_,_
 321-0,BO094,321,321,1,va,va,andare,VERB,_,_
 321-1,BO094,321,321,2,bene,bene,bene,ADV,_,_
 321-2,BO094,321,321,3,è,è,essere,AUX,_,_
@@ -3030,7 +3030,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 435-0,BO094,435,435,1,a,a,a,ADP,_,_
 435-1,BO094,435,435,2,questo,questo,questo,PRON,_,_
 435-2,BO094,435,435,3,a::,a,a,ADP,_,_
-435-3,BO094,435,435,4,xx,xx,x,SYM,_,_
+435-3,BO094,435,435,4,xx,xx,x,X,_,_
 435-4,BO094,435,435,5,come,come,come,ADP,_,_
 435-5,BO094,435,435,6,dire,dire,dire,VERB,_,_
 436-0,BO094,436,436,1,questo,questo,questo,PRON,_,_
@@ -4193,7 +4193,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 569-2,BO094,569,569,3,una,una,uno,DET,_,_
 569-3,BO094,569,569,4,banala,banala,banala,NOUN,_,_
 569-4,BO094,569,569,5,gamma,gamma,gammo,ADJ,_,_
-569-5,BO094,569,569,6,xx,xx,x,SYM,_,_
+569-5,BO094,569,569,6,xx,xx,x,X,_,_
 569-6,BO094,569,569,7,"delta,",delta,delta,NOUN,Intonation=weakly_rising,_
 570-0,BO094,570,570,1,"a:,",a,a,ADP,Intonation=weakly_rising,_
 571-0,BO094,571,571,1,"e:,",e,e,CCONJ,Intonation=weakly_rising,_
@@ -4205,7 +4205,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 572-5,BO094,572,572,6,male,male,male,ADV,_,_
 572-6,BO094,572,572,7,aspettate,aspettate,aspettare,VERB,_,_
 572-7,BO094,572,572,8,non,non,non,ADV,_,_
-572-8,BO094,572,572,9,xx,xx,x,SYM,_,_
+572-8,BO094,572,572,9,xx,xx,x,X,_,_
 572-9,BO094,572,572,10,ho,ho,avere,AUX,_,_
 572-10,BO094,572,572,11,scelto,scelto,scegliere,VERB,_,_
 572-11,BO094,572,572,12,la,la,il,DET,_,_
@@ -4292,14 +4292,14 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 586-3,BO094,586,586,4,"congiunzione,",congiunzione,congiunzione,NOUN,Intonation=weakly_rising,_
 587-0,BO094,587,587,1,allora,allora,allora,ADV,_,_
 587-1,BO094,587,587,2,ho,ho,avere,VERB,_,_
-587-2,BO094,587,587,3,xx,xx,x,SYM,_,_
+587-2,BO094,587,587,3,xx,xx,x,X,_,_
 587-3,BO094,587,587,4-5,al,al,_,_,_,_
 587-3a,_,_,587,4,_,a,a,ADP,_,_
 587-3b,_,_,587,5,_,il,il,DET,_,_
 587-4,BO094,587,587,6,primo,primo,primo,ADJ,_,_
 587-5,BO094,587,587,7,congiunto,congiunto,congiunto,NOUN,_,_
 587-6,BO094,587,587,8,o,o,o,CCONJ,_,_
-587-7,BO094,587,587,9,xx,xx,x,SYM,_,_
+587-7,BO094,587,587,9,xx,xx,x,X,_,_
 587-8,BO094,587,587,10-11,al,al,_,_,_,_
 587-8a,_,_,587,10,_,a,a,ADP,_,_
 587-8b,_,_,587,11,_,il,il,DET,_,_
@@ -4448,14 +4448,14 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 601-7,BO094,601,601,9,prettamente,prettamente,prettamente,ADV,_,_
 601-8,BO094,601,601,10,deduttiva,deduttiva,deduttivo,ADJ,_,_
 601-9,BO094,601,601,11,in,in,in,ADP,_,_
-601-10,BO094,601,601,12,xx,xx,x,NOUN,_,_
+601-10,BO094,601,601,12,xx,xx,x,X,_,_
 601-11,BO094,601,601,13,di,di,di,ADP,_,_
 601-12,BO094,601,601,14,dimostrazione.,dimostrazione,dimostrazione,NOUN,Intonation=falling,_
 602-0,BO094,602,602,1,questo,questo,questo,PRON,_,_
 602-1,BO094,602,602,2,è,è,essere,AUX,_,_
 602-2,BO094,602,602,3,quello,quello,quello,PRON,_,_
 602-3,BO094,602,602,4,che,che,che,PRON,_,_
-602-4,BO094,602,602,5,xx,xx,x,SYM,_,_
+602-4,BO094,602,602,5,xx,xx,x,X,_,_
 602-5,BO094,602,602,6,"raddoppia,",raddoppia,raddoppiare,VERB,Intonation=weakly_rising,_
 603-0,BO094,603,603,1,la,la,il,DET,_,_
 603-1,BO094,603,603,2,doppia,doppia,doppio,ADJ,_,_
@@ -4469,7 +4469,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 603-7,BO094,603,603,9,una,una,uno,DET,_,_
 603-8,BO094,603,603,10,potenza,potenza,potenza,NOUN,_,_
 603-9,BO094,603,603,11,straordinaria,straordinaria,straordinario,ADJ,_,_
-603-10,BO094,603,603,12,xx,xx,x,SYM,_,_
+603-10,BO094,603,603,12,xx,xx,x,X,_,_
 604-0,BO094,604,604,1,bene.,bene,bene,ADV,Intonation=falling,_
 605-0,BO094,605,605,1,e::h,eh,eh,INTJ,_,_
 605-1,BO094,605,605,2,allora,allora,allora,ADV,_,_
@@ -4550,7 +4550,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 614-6,BO094,614,614,7,>attenzione<,attenzione,attenzione,NOUN,_,_
 615-0,BO094,615,615,1,però,però,però,ADV,_,_
 615-1,BO094,615,615,2,aspettate,aspettate,aspettare,VERB,_,_
-615-2,BO094,615,615,3,xx,xx,x,SYM,_,_
+615-2,BO094,615,615,3,xx,xx,x,X,_,_
 615-3,BO094,615,615,4,riesce,riesce,riuscire,VERB,_,_
 615-4,BO094,615,615,5,a,a,a,ADP,_,_
 615-5,BO094,615,615,6,dimostrare,dimostrare,dimostrare,VERB,_,_
@@ -4561,7 +4561,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 616-3,BO094,616,616,4,sequenze,sequenze,sequenza,NOUN,_,_
 617-0,BO094,617,617,1,utilizzando,utilizzando,utilizzare,VERB,_,_
 617-1,BO094,617,617,2,però,però,però,ADV,_,_
-617-2,BO094,617,617,3,xx,xx,x,SYM,_,_
+617-2,BO094,617,617,3,xx,xx,x,X,_,_
 617-3,BO094,617,617,4-5,sul,sul,_,_,_,_
 617-3a,_,_,617,4,_,su,su,ADP,_,_
 617-3b,_,_,617,5,_,il,il,DET,_,_
@@ -5712,7 +5712,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 797-2,BO094,797,797,3,ogni,ogni,ogni,DET,_,_
 797-3,BO094,797,797,4,ics,ics,ics,NOUN,_,_
 797-4,BO094,797,797,5,a,a,a,ADP,_,_
-797-5,BO094,797,797,6,xx,xx,x,SYM,_,_
+797-5,BO094,797,797,6,xx,xx,x,X,_,_
 798-0,BO094,798,798,1,anche,anche,anche,ADV,_,_
 798-1,BO094,798,798,2,qui,qui,qui,ADV,_,_
 798-2,BO094,798,798,3,eh,eh,eh,NOUN,_,_
@@ -6622,7 +6622,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 912-18,BO094,912,912,21,non,non,non,ADV,_,_
 912-19,BO094,912,912,22,ho,ho,avere,VERB,_,_
 912-20,BO094,912,912,23,altro,altro,altro,PRON,_,_
-912-21,BO094,912,912,24,xx.,xx,xx,X,Intonation=falling,_
+912-21,BO094,912,912,24,xx.,xx,x,X,Intonation=falling,_
 913-0,BO094,913,913,1,quindi,quindi,quindi,ADV,_,_
 913-1,BO094,913,913,2,è,è,essere,AUX,_,_
 913-2,BO094,913,913,3,esiste,esiste,esistere,VERB,_,_
@@ -6682,7 +6682,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 921-3,BO094,921,921,4,o,o,o,CCONJ,_,_
 921-4,BO094,921,921,5,erre,erre,erre,NOUN,_,_
 921-5,BO094,921,921,6,di,di,di,ADP,_,_
-921-6,BO094,921,921,7,xx.,xx,xx,X,Intonation=falling,_
+921-6,BO094,921,921,7,xx.,xx,x,X,Intonation=falling,_
 922-0,BO094,922,922,1,quindi,quindi,quindi,ADV,_,_
 922-1,BO094,922,922,2,manca,manca,mancare,VERB,_,_
 922-2,BO094,922,922,3,solo,solo,solo,ADV,_,_
