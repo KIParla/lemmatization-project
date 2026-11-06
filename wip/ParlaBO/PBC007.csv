@@ -390,7 +390,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 65-0,BOI019,65,65,1,con,con,con,ADP,_,_
 65-1,BOI019,65,65,2,la,la,il,DET,_,_
 65-2,BOI019,65,65,3,città:,città,città,NOUN,_,_
-65-3,BOI019,65,65,6,dal,dal,-,-,_,_
+65-3,BOI019,65,65,6,dal,dal,_,_,_,_
 65-3a,_,_,65,4,_,da,da,ADP,_,_
 65-3b,_,_,65,5,_,il,il,DET,_,_
 65-5,BOI019,65,65,9-9,dal,dal,_,_,_,_
@@ -1394,7 +1394,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 225-18,BOI019,225,225,20,altri,altri,altro,PRON,_,_
 226-0,BOR005,226,226,1,mh,mh,mh,INTJ,_,_
 227-0,BOI019,227,227,1,ancor,ancor,ancora,ADV,_,_
-227-1,BOI019,227,227,2-3,della,della,_,-,_,_
+227-1,BOI019,227,227,2-3,della,della,_,_,_,_
 227-1a,_,_,227,2,_,di,di,ADP,_,_
 227-1b,_,_,227,3,_,la,il,DET,_,_
 227-2,BOI019,227,227,4,mia,mia,mio,ADJ,_,_
@@ -1742,7 +1742,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 289-7,BOR005,289,289,8,che,che,che,PRON,_,_
 289-8,BOR005,289,289,9,di,di,di,ADP,_,_
 289-9,BOR005,289,289,10,solito:,solito,solito,NOUN,_,_
-290-0,BOR005,290,290,1,che,che,che,CONJ,_,_
+290-0,BOR005,290,290,1,che,che,che,CCONJ,_,_
 290-1,BOR005,290,290,2,appunto,appunto,appunto,ADV,_,_
 291-0,BOR005,291,291,1-2,nelle,nelle,_,_,_,_
 291-0a,_,_,291,1,_,in,in,ADP,_,_
@@ -1824,7 +1824,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 301-2a,_,_,301,3,_,in,in,ADP,_,_
 301-2b,_,_,301,4,_,il,il,DET,_,_
 301-3,BOI019,301,301,5,senso,senso,senso,NOUN,_,_
-301-4,BOI019,301,301,6,che,che,che,CONJ,_,_
+301-4,BOI019,301,301,6,che,che,che,CCONJ,_,_
 301-5,BOI019,301,301,7,le,le,il,DET,_,_
 301-6,BOI019,301,301,8,classi,classi,classe,NOUN,_,_
 302-0,BOI019,302,302,1,i,i,il,DET,_,_
@@ -2020,9 +2020,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 335-0,BOI019,335,335,1,dove,dove,dove,ADV,_,_
 335-1,BOI019,335,335,2,viviamo,viviamo,vivere,VERB,_,_
 336-0,BOI019,336,336,1,e,e,e,CCONJ,_,_
-336-1,BOI019,336,336,2,darne,darne,-,-,_,_
+336-1,BOI019,336,336,2,darne,darne,_,_,_,_
 336-1a,,,,,,dar,dare,VERB,_,_
-336-1b,,,,,,ne,,PRON,_,_
+336-1b,,,,,,ne,ne,PRON,_,_
 336-2,BOI019,336,336,3,trasmissione,trasmissione,trasmissione,NOUN,_,_
 336-3,BOI019,336,336,4-5,agli,agli,_,_,_,_
 336-3a,_,_,336,4,_,a,a,ADP,_,_
@@ -3182,7 +3182,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 525-9,BOI019,525,525,11,biblioteca,biblioteca,biblioteca,NOUN,_,_
 526-0,BOI019,526,526,1-2,alla::,alla,_,_,_,_
 526-0a,_,_,526,1,_,a,a,ADP,_,_
-526-0b,_,_,526,2,_,la,la,PRON,_,_
+526-0b,_,_,526,2,_,la,il,DET,_,_
 526-1,BOI019,526,526,3,a,a,a,ADP,_,_
 526-2,BOI019,526,526,4,una,una,uno,DET,_,_
 526-3,BOI019,526,526,5,partigiana,partigiana,partigiano,NOUN,_,_
@@ -4973,7 +4973,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 782-5a,_,_,782,6,_,con,con,ADP,_,_
 782-5b,_,_,782,7,_,il,il,DET,_,_
 782-6,BOI019,782,782,8-9,col,col,_,_,_,_
-782-6a,_,_,782,8,_,con,con,NOUN,_,_
+782-6a,_,_,782,8,_,con,con,ADP,_,_
 782-6b,_,_,782,9,_,il,il,DET,_,_
 782-7,BOI019,782,782,10-11,col::,col,_,_,_,_
 782-7a,_,_,782,10,_,con,con,ADP,_,_
@@ -6542,7 +6542,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 999-2,BOI019,999,999,3,bisogna,bisogna,bisognare,VERB,_,_
 999-3,BOI019,999,999,4-5,portarle,portarle,_,_,_,_
 999-3a,_,_,999,4,_,portar,portare,VERB,_,_
-999-3b,_,_,999,5,_,le,le,DET,_,_
+999-3b,_,_,999,5,_,le,le,PRON,_,_
 999-4,BOI019,999,999,6,queste,queste,questo,DET,_,_
 999-5,BOI019,999,999,7,testimonia~,testimonia~,testimonia~,PROPN,Interrupted=Yes,_
 999-6,BOI019,999,999,8,anche,anche,anche,ADV,_,_
@@ -8557,7 +8557,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1283-0,BOI019,1283,1283,1,la,la,il,DET,_,_
 1283-1,BOI019,1283,1283,2,la,la,il,DET,_,_
 1283-2,BOI019,1283,1283,3,croce,croce,croce,NOUN,_,_
-1283-3,BOI019,1283,1283,4,"rossal,a","rossal,a",_,_,_,_
+1283-3,BOI019,1283,1283,4,rossa,rossa,rossa,ADJ,_,_
+1283-12,BOI019,1283,1283,4,la,la,il,DET,_,_
 1283-4,BOI019,1283,1283,5,croce,croce,croce,NOUN,_,_
 1283-5,BOI019,1283,1283,6,anche,anche,anche,ADV,_,_
 1283-6,BOI019,1283,1283,7,internazionale,internazionale,internazionale,ADJ,_,_
@@ -8798,7 +8799,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1320-7b,_,_,1320,13,_,il,il,DET,_,_
 1320-8,BOI019,1320,1320,14-15,nella,nella,_,_,_,_
 1320-8a,_,_,1320,14,_,in,in,ADP,_,_
-1320-8b,_,_,1320,15,_,la,la,PRON,_,_
+1320-8b,_,_,1320,15,_,la,il,DET,_,_
 1320-9,BOI019,1320,1320,16-17,nell',nell',_,_,_,SpaceAfter=No
 1320-9a,_,_,1320,16,_,in,in,ADP,_,_
 1320-9b,_,_,1320,17,_,l',il,DET,_,_
@@ -8973,7 +8974,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1345-2a,_,_,1345,4,_,di,di,ADP,_,_
 1345-2b,_,_,1345,5,_,l',il,DET,_,_
 1345-3,BOI019,1345,1345,6-7,interessarsi,interessarsi,_,_,_,_
-1345-3a,_,_,1345,6,_,interessar,interessar,NOUN,_,_
+1345-3a,_,_,1345,6,_,interessar,interessare,VERB,_,_
 1345-3b,_,_,1345,7,_,si,si,PRON,_,_
 1346-0,BOI019,1346,1346,1,perché,perché,perché,SCONJ,_,_
 1346-1,BOI019,1346,1346,2,l',l',il,DET,_,SpaceAfter=No
