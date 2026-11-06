@@ -371,7 +371,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 60-0,PKP093,60,impossibile,impossibile,impossibile,ADJ,_,_
 60-1,PKP093,60,così,così,così,ADV,_,_
 60-2,PKP093,60,tanta,tanta,tanto,PRON,_,_
-61-0,PKP024,61,fidati,fidati,_,NOUN,_,_
+61-0,PKP024,61,fidati,fidati,_,_,_,_
 61-0a,_,_,_,fida,fidare,VERB,_,_
 61-0b,_,_,_,ti,ti,PRON,_,_
 61-1,PKP024,61,è,è,essere,VERB,_,_
@@ -394,8 +394,6 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 63-11,PKP093,63,dopo,dopo,dopo,ADV,_,_
 64-0,PKP093,64,((ride)),((ride)),_,X,_,_
 65-0,PKP024,65,dai,dai,dare,VERB,_,_
-65-0a,_,_,_,,,,_,_
-65-0b,_,_,_,,,,_,_
 66-0,PKP024,66,a,a,a,ADP,_,_
 66-1,PKP024,66,me,me,me,PRON,_,_
 66-2,PKP024,66,me,me,me,PRON,_,_
@@ -1284,8 +1282,6 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 213-5,PKP093,213,((ride)),((ride)),_,_,_,_
 214-0,PKP024,214,((ride)),((ride)),_,_,_,_
 214-1,PKP024,214,dai:,dai,dare,VERB,_,_
-214-1a,_,_,_,,,,_,_
-214-1b,_,_,_,,,,_,_
 215-0,PKP024,215,ho,ho,avere,AUX,_,_
 215-1,PKP024,215,già,già,già,ADV,_,_
 215-2,PKP024,215,chiesto,chiesto,chiedere,VERB,_,_
@@ -1865,8 +1861,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 285-2,PKP024,285,che,che,che,SCONJ,_,_
 285-3,PKP024,285,non,non,non,ADV,_,_
 285-4,PKP024,285,riuscivo,riuscivo,riuscire,VERB,_,_
-285-5,PKP024,285,ad,ad,di,ADP,_,_
-285-6,PKP024,285,alzarmi,alzarmi,_,NOUN,_,_
+285-5,PKP024,285,ad,ad,a,ADP,_,_
+285-6,PKP024,285,alzarmi,alzarmi,_,_,_,_
 285-6a,_,_,_,alzar,alzare,VERB,_,_
 285-6b,_,_,_,mi,mi,PRON,_,_
 285-7,PKP024,285,con,con,con,ADP,_,_
@@ -2797,8 +2793,6 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 402-12,PKP024,402,cenci,cenci,cencio,NOUN,_,_
 403-0,PKP093,403,[vabbè,vabbè,vabbè,INTJ,_,_
 403-1,PKP093,403,dai],dai,dare,VERB,_,_
-403-1a,_,_,_,,,,_,_
-403-1b,_,_,_,,,,_,_
 404-0,PKP093,404,va,va,andare,VERB,_,_
 404-1,PKP093,404,bene,bene,bene,ADV,_,_
 404-2,PKP093,404,va,va,andare,VERB,_,_
@@ -2844,8 +2838,6 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 410-2,PKP024,410,l',l',lo,PRON,_,SpaceAfter=No
 410-3,PKP024,410,uva,uva,uva,NOUN,_,_
 410-4,PKP024,410,dai,dai,dare,VERB,_,_
-410-4a,_,_,_,,,,_,_
-410-4b,_,_,_,,,,_,_
 411-0,PKP093,411,pensavo,pensavo,pensare,VERB,_,_
 411-1,PKP093,411,s',s',si,PRON,_,SpaceAfter=No
 411-2,PKP093,411,aspettasse,aspettasse,aspettare,VERB,_,_
@@ -3342,7 +3334,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 487-10,PKP093,487,faccio,faccio,fare,VERB,_,_
 487-11,PKP093,487,il,il,il,DET,_,_
 487-12,PKP093,487,riassunto,riassunto,riassunto,NOUN,_,_
-488-0,PKP024,488,eh,eh,eh,i,_,_
+488-0,PKP024,488,eh,eh,eh,INTJ,_,_
 488-1,PKP024,488,ma,ma,ma,CCONJ,_,_
 488-2,PKP024,488,allora,allora,allora,ADV,_,_
 488-3,PKP024,488,domani,domani,domani,ADV,_,_
