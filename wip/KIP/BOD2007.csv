@@ -110,9 +110,8 @@
 21-3,BO049,4,sono,sono,essere,AUX,_
 21-4,BO049,5,due,due,due,NUM,_
 21-5,BO049,6,appartamenti,appartamenti,appartamento,NOUN,_
-22-0,BO052,1,[si::mh],simh,_,_,_
-22-0a,_,,_,sì,sì,ADV,
-22-0b,_,,_,mh,mh,INTJ,
+22-0,BO052,1,[si::,sì,sì,ADV,_
+22-11,BO052,1,mh],mh,mh,INTJ,_
 22-1,BO052,2,diciamo,diciamo,dire,VERB,_
 22-2,BO052,3,intorno,intorno,intorno,ADV,_
 22-3,BO052,4-5,agli,agli,_,_,_
@@ -1116,7 +1115,7 @@
 158-0,BO052,1,[no,no,no,ADV,_
 158-1,BO052,2,no,no,no,ADV,_
 158-2,BO052,3,ma::],ma,ma,CCONJ,_
-159-0,BO052,1,[la]~la,la~la,_,_,_
+159-0,BO052,1,[la~],la~,x,X,_
 159-1,BO052,2,bicicletta,bicicletta,bicicletta,NOUN,_
 159-2,BO052,3,mi,mi,mi,PRON,_
 159-3,BO052,4,piace,piace,piacere,VERB,_
@@ -2463,8 +2462,7 @@
 313-11,BO049,12,oppure,oppure,oppure,CCONJ,_
 313-12,BO049,13,una,una,uno,DET,_
 313-13,BO049,14,baracca::,baracca,baracca,NOUN,_
-313-14,BO049,15,[(gigante,gigante,gigante,ADJ,ProsodicLink=Yes
-313-15,BO049,16,)]?,?,_,_,_
+313-14,BO049,15,[(gigante?)],gigante,gigante,ADJ,ProsodicLink=Yes
 313-16,BO049,17,((ride)),((ride)),_,_,_
 314-0,BO052,1,[°però°],però,però,ADV,Volume=low
 315-0,BO052,1,e::h,eh,eh,INTJ,_
@@ -5279,11 +5277,8 @@
 610-10,BO052,11,una,una,uno,DET,_
 610-11,BO052,12,città,città,città,NOUN,_
 610-12,BO052,13,dalle::,dalle,_,_,_
-610-12a,_,,_,da,da,ADP,
-610-12b,_,,_,le,il,DET,
-610-12c,BO052,,dalle,dalle,_,_,
-610-12cd,_,,da,da,da,ADP,
-610-12ce,_,,le,le,il,DET,
+610-12a,_,,_,da,da,ADP,_
+610-12b,_,,_,le,il,DET,_
 610-13,BO052,14,giuste,giuste,giusto,ADJ,_
 610-14,BO052,15,grandezze,grandezze,grandezza,NOUN,_
 610-15,BO052,16,secondo,secondo,secondo,ADP,_
