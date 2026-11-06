@@ -47,7 +47,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 8-0,TOR004,8,8,1,[ec]co.,ecco,ecco,ADV,_,_
 9-0,TOI019,9,9,1,prendendo,prendendo,prendere,VERB,_,_
 9-1,TOI019,9,9,2,l',l',il,DET,_,_
-9-2,TOI019,9,9,3,euto~,euto~,_,X,_,_
+9-2,TOI019,9,9,3,euto~,euto~,x,X,_,_
 9-3,TOI019,9,9,4,l',l',il,DET,_,_
 9-4,TOI019,9,9,5,eurostar,eurostar,Eurostar,PROPN,_,_
 10-0,TOI019,10,10,1,a,a,a,ADP,_,_
@@ -112,7 +112,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 22-1,TOI019,22,22,2,(io,io,io,PRON,_,_
 22-2,TOI019,22,22,3,non,non,non,ADV,_,_
 22-3,TOI019,22,22,4,sto,sto,stare,VERB,_,_
-22-4,TOI019,22,22,5,l~),l~,_,X,_,_
+22-4,TOI019,22,22,5,l~),l~,x,X,_,_
 23-0,TOI019,23,23,1,GUARDO,guardo,guardare,VERB,_,_
 23-1,TOI019,23,23,2,lì,lì,lì,ADV,_,_
 23-2,TOI019,23,23,3,ma,ma,ma,CCONJ,_,_
@@ -121,7 +121,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 24-2,TOI019,24,24,3,ma,ma,ma,CCONJ,_,_
 24-3,TOI019,24,24,4,siamo,siamo,essere,AUX,_,_
 24-4,TOI019,24,24,5,già,già,già,ADV,_,_
-24-5,TOI019,24,24,6,arriv~,arriv~,_,X,_,_
+24-5,TOI019,24,24,6,arriv~,arriv~,x,X,_,_
 24-6,TOI019,24,24,7,seme,seme,essere,AUX,Lang=und|Dialect=Yes,_
 24-7,TOI019,24,24,8,già,già,già,ADV,_,_
 24-8,TOI019,24,24,9,arruate,arruate,arrivare,VERB,Lang=und|Dialect=Yes,_
@@ -170,7 +170,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 35-0,TOI019,35,35,1,e,e,e,CCONJ,_,_
 35-1,TOI019,35,35,2,poi,poi,poi,ADV,_,_
 35-2,TOI019,35,35,3,e,e,e,CCONJ,_,_
-35-3,TOI019,35,35,4,po~,po~,_,X,_,_
+35-3,TOI019,35,35,4,po~,po~,x,X,_,_
 35-4,TOI019,35,35,5,aspett(a),aspetta,aspettare,VERB,_,_
 35-5,TOI019,35,35,6,che,che,che,SCONJ,_,_
 35-6,TOI019,35,35,7,parte,parte,partire,VERB,_,_
@@ -178,7 +178,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 35-8,TOI019,35,35,9,treno.,treno,treno,NOUN,_,_
 35-9,TOI019,35,35,10,però,però,però,CCONJ,_,_
 35-10,TOI019,35,35,11,non,non,non,ADV,_,_
-35-11,TOI019,35,35,12,sa~,sa~,_,X,_,_
+35-11,TOI019,35,35,12,sa~,sa~,x,X,_,_
 35-12,TOI019,35,35,13,non:,non,non,ADV,_,_
 36-0,TOI019,36,36,1,però,però,però,CCONJ,_,_
 36-1,TOI019,36,36,2,non,non,non,ADV,_,_
@@ -189,8 +189,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 36-5a,_,_,36,6,_,a,a,ADP,_,_
 36-5b,_,_,36,7,_,il,il,DET,_,_
 36-6,TOI019,36,36,8,treno,treno,treno,NOUN,_,_
-37-0,TOI019,37,37,1,p~,p~,_,X,_,_
-37-1,TOI019,37,37,2,c~,c~,_,X,_,_
+37-0,TOI019,37,37,1,p~,p~,x,X,_,_
+37-1,TOI019,37,37,2,c~,c~,x,X,_,_
 37-2,TOI019,37,37,3,paura,paura,paura,NOUN,_,_
 37-3,TOI019,37,37,4,che,che,che,SCONJ,_,_
 37-4,TOI019,37,37,5,il,il,il,DET,_,_
