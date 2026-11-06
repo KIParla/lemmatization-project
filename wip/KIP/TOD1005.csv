@@ -392,9 +392,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 60-4,???,60,60,6,[sarebbe,sarebbe,essere,AUX,_,_
 60-5,???,60,60,7,proprio::],proprio,proprio,ADV,_,_
 61-0,TO017,61,61,1,[allora,allora,allora,ADV,_,_
-61-1,TO017,61,61,2,"ragazze]no,n","ragazzeno,n",_,_,_,_
-61-1a,,,,,_,ragazze,ragazza,NOUN,_,_
-61-1b,,,,,_,non,non,ADV,_,_
+61-1,TO017,61,61,2,"ragazze]",ragazze,ragazza,NOUN,_,_
+61-22,TO017,61,61,2,"non,",non,non,ADV,_,_
 61-2,TO017,61,61,3,c',c',ci,PRON,_,_
 61-3,TO017,61,61,4,è,è,essere,VERB,_,_
 61-4,TO017,61,61,5,problema,problema,problema,NOUN,_,_
@@ -734,7 +733,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 105-2,TO017,105,105,3,di,di,di,ADP,_,_
 106-0,TO017,106,106,1-2,recarvi,recarvi,_,_,_,_
 106-0a,_,_,106,1,_,recar,recare,VERB,_,_
-106-0b,_,_,106,2,_,vi,vi,ADV,_,_
+106-0b,_,_,106,2,_,vi,vi,PRON,_,_
 106-1,TO017,106,106,3,(e),e,e,CCONJ,_,_
 106-2,TO017,106,106,4,di,di,di,ADP,_,_
 106-3,TO017,106,106,5,lavorare,lavorare,lavorare,VERB,_,_
@@ -2728,8 +2727,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 408-3,TO017,408,408,4,dimenticando.,dimenticando,dimenticare,VERB,_,_
 409-0,TO017,409,409,1,e::ccola,eccola,_,_,_,_
 409-0a,,,,,_,ecco,ecco,ADV,_,_
-409-0b,,,,,_,la,il,DET,_,_
-409-1,TO017,409,409,2,qua..,qua..,qua,ADV,_,_
+409-0b,,,,,_,la,la,PRON,_,_
+409-1,TO017,409,409,2,qua.,qua,qua,ADV,_,_
 410-0,TO017,410,410,1,allora,allora,allora,ADV,_,_
 411-0,TO017,411,411,1,la,la,il,DET,_,_
 411-1,TO017,411,411,2,lezione,lezione,lezione,NOUN,_,_
@@ -3333,7 +3332,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 525-1,TO017,525,525,2,cui,cui,cui,PRON,_,_
 525-2,TO017,525,525,3-4,"paragonarla,",paragonarla,_,_,_,_
 525-2a,_,_,525,3,_,paragonar,paragonare,VERB,_,_
-525-2b,_,_,525,4,_,la,il,DET,_,_
+525-2b,_,_,525,4,_,la,la,PRON,_,_
 526-0,TO017,526,526,1,"okay,",okay,ok,INTJ,_,_
 527-0,TO017,527,527,1,ogni,ogni,ogni,DET,_,_
 527-1,TO017,527,527,2,supereroe,supereroe,supereroe,NOUN,_,_
