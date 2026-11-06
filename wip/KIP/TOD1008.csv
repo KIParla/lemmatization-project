@@ -969,7 +969,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 179-2,TO062,179,179,3,eh,eh,eh,INTJ,_,_
 179-3,TO062,179,179,4-5,farvi,farvi,_,_,_,_
 179-3a,_,_,179,4,_,far,fare,VERB,_,_
-179-3b,_,_,179,5,_,vi,vi,ADV,_,_
+179-3b,_,_,179,5,_,vi,vi,PRON,_,_
 179-4,TO062,179,179,6,capi:re,capire,capire,VERB,_,_
 180-0,TO062,180,180,1,che,che,che,SCONJ,_,_
 181-0,TO062,181,181,1,e::h,eh,eh,INTJ,_,_
@@ -5036,7 +5036,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 864-1,TO062,864,864,2,complesso:::,complesso,complesso,NOUN,_,_
 864-2,TO062,864,864,3-4,della:::,della,_,_,_,_
 864-2a,_,_,864,3,_,di,di,ADP,_,_
-864-2b,_,_,864,4,_,la,la,PRON,_,_
+864-2b,_,_,864,4,_,la,il,DET,_,_
 864-3,TO062,864,864,5-6,de:l,del,_,_,_,_
 864-3a,_,_,864,5,_,di,di,ADP,_,_
 864-3b,_,_,864,6,_,il,il,DET,_,_
@@ -5300,7 +5300,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 918-0,TO062,918,918,1,eh,eh,eh,INTJ,_,_
 918-1,TO062,918,918,2-3,farvi,farvi,_,_,_,_
 918-1a,_,_,918,2,_,far,fare,VERB,_,_
-918-1b,_,_,918,3,_,vi,vi,ADV,_,_
+918-1b,_,_,918,3,_,vi,vi,PRON,_,_
 918-2,TO062,918,918,4,avere,avere,avere,VERB,_,_
 918-3,TO062,918,918,5-6,dei::,dei,_,_,_,_
 918-3a,_,_,918,5,_,di,di,ADP,_,_
@@ -8794,7 +8794,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1526-3,TO062,1526,1526,4,versione,versione,versione,NOUN,_,_
 1526-4,TO062,1526,1526,5,che,che,che,PRON,_,_
 1526-5,TO062,1526,1526,6,poteva,poteva,potere,AUX,_,_
-1526-6,TO062,1526,1526,7,soddisfarlo,_,_,_,_,_
+1526-6,TO062,1526,1526,7,soddisfarlo,soddisfarlo,_,_,_,_
 1526-6a,,,,,,soddisfar,soddisfare,VERB,_,_
 1526-6b,,,,,,lo,lo,PRON,_,_
 1527-0,TO062,1527,1527,1,vedete,vedete,vedere,VERB,_,_
@@ -12456,7 +12456,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 2168-5,TO062,2168,2168,6,allora,allora,allora,ADV,_,_
 2168-6,TO062,2168,2168,7,tu:,tu,tu,PRON,_,_
 2168-7,TO062,2168,2168,8,potevi,potevi,potere,AUX,_,_
-2169-0,TO062,2169,2169,1,mostrarmi,_,_,_,_,_
+2169-0,TO062,2169,2169,1,mostrarmi,mostrarmi,_,_,_,_
 2169-0a,,,,,,mostrar,mostrare,VERB,_,_
 2169-0b,,,,,,mi,mi,PRON,_,_
 2169-1,TO062,2169,2169,2,il,il,il,DET,_,_
