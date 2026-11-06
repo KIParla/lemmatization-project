@@ -25,7 +25,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 2-5,TO048,2,2,6,due,due,due,NUM,_,_
 2-6,TO048,2,2,7,giorni,giorni,giorno,NOUN,_,_
 2-7,TO048,2,2,8,(tranquilla[mente)].,tranquillamente,tranquillamente,ADV,Intonation=falling,_
-3-0,TO052,3,3,_,[(tranqu]illa.).,tranquilla..,_,_,_,_
+3-0,TO052,3,3,_,[(tranqu]illa.),tranquilla,tranquilla,ADJ,_,_
 4-0,TO048,4,4,1,xx,xx,x,X,_,_
 4-1,TO048,4,4,2,ti,ti,ti,PRON,_,_
 4-2,TO048,4,4,3,sei,sei,essere,AUX,_,_
@@ -359,7 +359,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 69-3,TO048,69,69,4,xx,xx,x,X,_,_
 69-4,TO048,69,69,5,xx,xx,x,X,_,_
 69-5,TO048,69,69,6,((ride)),((ride)),_,_,_,_
-70-0,TO052,70,70,1,"perxxzione,",perxxzione,_,X,Intonation=weakly_rising,_
+70-0,TO052,70,70,1,"perxxzione,",perxxzione,x,X,Intonation=weakly_rising,_
 70-1,TO052,70,70,2,((ride)),((ride)),_,_,_,_
 71-0,TO048,71,71,1,o,o,o,CCONJ,_,_
 71-1,TO048,71,71,2,mio,mio,mio,DET,_,_
@@ -483,7 +483,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 118-3,TO052,118,118,4,che,che,che,SCONJ,_,_
 118-4,TO052,118,118,5,io::,io,io,PRON,_,_
 118-5,TO052,118,118,6,xxx,xxx,x,X,_,_
-118-6,TO052,118,118,7,xxmente,xxmente,_,X,_,_
+118-6,TO052,118,118,7,xxmente,xxmente,x,X,_,_
 118-7,TO052,118,118,8,quando,quando,quando,SCONJ,_,_
 118-8,TO052,118,118,9,(ero,ero,essere,AUX,_,_
 118-9,TO052,118,118,10,piccolo),piccolo,piccolo,ADJ,_,_
@@ -631,7 +631,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 143-6,TO052,143,143,7,ho,ho,avere,AUX,_,_
 143-7,TO052,143,143,8,preso,preso,prendere,VERB,_,_
 143-8,TO052,143,143,9,il,il,il,DET,_,_
-143-9,TO052,143,143,10,bi~,bi~,_,X,Interrupted=Yes,_
+143-9,TO052,143,143,10,bi~,bi~,x,X,Interrupted=Yes,_
 143-10,TO052,143,143,11,l',l',il,DET,Truncated=Yes,_
 143-11,TO052,143,143,12,aereo,aereo,aereo,NOUN,_,_
 143-12,TO052,143,143,13,che,che,che,PRON,_,_
@@ -677,7 +677,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 145-1,TO052,145,145,2,come,come,come,ADP,_,_
 145-2,TO052,145,145,3,mai?,mai,mai,ADV,Intonation=rising,_
 146-0,TO052,146,146,1,e::h,eh,eh,INTJ,_,_
-146-1,TO052,146,146,2,pratica~,pratica~,_,X,Interrupted=Yes,_
+146-1,TO052,146,146,2,pratica~,pratica~,x,X,Interrupted=Yes,_
 146-2,TO052,146,146,3,po:i,poi,poi,ADV,_,_
 146-3,TO052,146,146,4,non,non,non,ADV,_,_
 146-4,TO052,146,146,5,sapevo,sapevo,sapere,VERB,_,_
@@ -1204,7 +1204,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 204-1,TO052,204,204,2,a,a,a,ADP,_,_
 204-2,TO052,204,204,3,è,è,essere,AUX,_,_
 204-3,TO052,204,204,4,è,è,essere,AUX,_,_
-204-4,TO052,204,204,5,pre~,pre~,_,X,Interrupted=Yes,_
+204-4,TO052,204,204,5,pre~,pre~,x,X,Interrupted=Yes,_
 204-5,TO052,204,204,6,è,è,essere,AUX,_,_
 204-6,TO052,204,204,7,presidente,presidente,presidente,NOUN,_,_
 204-7,TO052,204,204,8-9,del,del,_,_,_,_
@@ -1321,8 +1321,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 215-6,TO052,215,215,7,"[sta],",sta,stare,VERB,Intonation=weakly_rising,_
 216-0,TO048,216,216,1,[x]x,xx,x,X,_,_
 216-1,TO048,216,216,2,x[x],xx,x,X,_,_
-216-2,TO048,216,216,3,((ride)),((ride)),_,_,_,_
-216-3,TO048,216,216,4,.,.,_,_,_,_
+216-2,TO048,216,216,3,((ride)),((ride)),((ride)),NVB,_,_
 217-0,TO052,217,217,1,[non,non,non,ADV,_,_
 217-1,TO052,217,217,2,capisci],capisci,capire,VERB,_,_
 217-2,TO052,217,217,3,se,se,se,SCONJ,_,_
@@ -1571,7 +1570,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 254-10,TO052,254,254,11,avevo,avevo,avere,VERB,_,_
 254-11,TO052,254,254,12,paura::,paura,paura,NOUN,_,_
 254-12,TO052,254,254,13,perché,perché,perché,SCONJ,_,_
-254-13,TO052,254,254,14,sta~,sta~,_,X,Interrupted=Yes,_
+254-13,TO052,254,254,14,sta~,sta~,x,X,Interrupted=Yes,_
 255-0,TO052,255,255,1,e,e,e,CCONJ,_,_
 255-1,TO052,255,255,2,a,a,a,ADP,_,_
 255-2,TO052,255,255,3,un,un,uno,DET,_,_
@@ -2183,7 +2182,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 360-1,TO050,360,360,2,proprio,proprio,proprio,ADV,_,_
 360-2,TO050,360,360,3-4,farlo,farlo,_,_,_,_
 360-2a,_,_,360,3,_,far,fare,VERB,_,_
-360-2b,_,_,360,4,_,lo,il,DET,_,_
+360-2b,_,_,360,4,_,lo,lo,PRON,_,_
 360-3,TO050,360,360,5,male?,male,male,ADV,Intonation=rising,_
 361-0,TO048,361,361,1,e,e,e,CCONJ,_,_
 361-1,TO048,361,361,2,quindi,quindi,quindi,ADV,_,_
@@ -3105,8 +3104,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 488-13,TO052,488,488,14,era,era,essere,AUX,_,_
 488-14,TO052,488,488,15,chiaro,chiaro,chiaro,ADJ,_,_
 488-15,TO052,488,488,16,che,che,che,SCONJ,_,_
-488-16,TO052,488,488,17,tanto,tanto,tanto,ADV,_,_
-488-38,TO052,488,488,18,',',_,_,_,_
+488-16,TO052,488,488,17,"tanto,",tanto,tanto,ADV,_,_
 488-17,TO052,488,488,19,è,è,essere,AUX,_,_
 488-18,TO052,488,488,20,stato,stato,essere,AUX,_,_
 488-19,TO052,488,488,21,un,un,uno,DET,_,_
@@ -3497,7 +3495,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 532-6,TO052,532,532,7,no,no,no,ADV,_,_
 532-7,TO052,532,532,8-9,delle,delle,_,_,_,_
 532-7a,_,_,532,8,_,di,di,ADP,_,_
-532-7b,_,_,532,9,_,le,le,PRON,_,_
+532-7b,_,_,532,9,_,le,il,DET,_,_
 532-8,TO052,532,532,10-11,delle,delle,_,_,_,_
 532-8a,_,_,532,10,_,di,di,ADP,_,_
 532-8b,_,_,532,11,_,le,il,DET,_,_
@@ -3636,7 +3634,6 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 543-19,TO052,543,543,20,xxx,xxx,x,X,_,_
 543-20,TO052,543,543,21,che,che,che,PRON,_,_
 543-21,TO052,543,543,22,è,è,essere,VERB,_,_
-543-27,TO052,543,543,23,(~),~,_,_,_,_
 543-22,TO052,543,543,24,che,che,che,PRON,_,_
 543-23,TO052,543,543,25,è,è,essere,AUX,_,_
 543-24,TO052,543,543,26,un,un,uno,DET,_,_
@@ -4196,7 +4193,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 610-3,TO052,610,610,4,domande,domande,domanda,NOUN,_,_
 610-4,TO052,610,610,5,perché,perché,perché,SCONJ,_,_
 610-5,TO052,610,610,6,[non,non,non,ADV,_,_
-610-6,TO052,610,610,7-16,gliene],gliene,_,,_,_
+610-6,TO052,610,610,7-16,gliene],gliene,_,_,_,_
 610-6a,_,_,610,7,_,glie,gli,PRON,_,_
 610-6b,_,_,610,16,_,ne ,ne ,PRON,_,_
 610-7,TO052,610,610,8,fregava,fregava,fregare,VERB,_,_
@@ -4692,8 +4689,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 679-3,TO052,679,679,5,iperspecialismo,iperspecialismo,iperspecialismo,NOUN,_,_
 679-4,TO052,679,679,6,era,era,essere,AUX,_,_
 679-5,TO052,679,679,7,[(me~)],me~,me~,X,Interrupted=Yes,_
-680-0,TO050,680,680,1-5,[°scusami],scusami,_,NOUN,Volume=low,_
-680-0a,_,_,680,1,_,scusa ,scusare,VERB,_,_
+680-0,TO050,680,680,1-5,[°scusami],scusami,_,_,Volume=low,_
+680-0a,_,_,680,1,_,scusa,scusare,VERB,_,_
 680-0b,_,_,680,5,_,mi,mi,PRON,_,_
 680-1,TO050,680,680,2,mi,mi,mi,PRON,Volume=low,_
 680-2,TO050,680,680,3,fa,fa,fare,VERB,Volume=low,_
@@ -6205,7 +6202,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 942-0,TO052,942,942,1,e,e,e,CCONJ,_,_
 942-1,TO052,942,942,2,tutti,tutti,tutto,PRON,_,_
 942-2,TO052,942,942,3,quanti,quanti,quanto,DET,_,_
-942-3,TO052,942,942,4,pensiax,pensiax,_,X,_,_
+942-3,TO052,942,942,4,pensiax,pensiax,x,X,_,_
 942-4,TO052,942,942,5,"proprio:,",proprio,proprio,ADV,Intonation=weakly_rising,_
 943-0,TO052,943,943,1,è,è,essere,AUX,_,_
 943-1,TO052,943,943,2,la,la,il,DET,_,_
@@ -6685,10 +6682,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1016-1c,_,_,1016,4,_,lo,lo,PRON,_,_
 1017-0,TO048,1017,1017,1,potrebbe,potrebbe,potere,AUX,_,_
 1017-1,TO048,1017,1017,2-10,farglielo,farglielo,_,_,_,_
-1017-1a,_,_,1017,2,_,far ,fare,VERB,_,_
+1017-1a,_,_,1017,2,_,far,fare,VERB,_,_
 1017-1b,_,_,1017,9,_,glie,gli,PRON,_,_
 1017-1c,_,_,1017,10,_,lo,lo,PRON,_,_
-1017-1b,_,_,1017,3,_,lo,il,PRON,_,_
 1017-2,TO048,1017,1017,4,però,però,però,ADV,_,_
 1017-3,TO048,1017,1017,5,il,il,il,DET,_,_
 1017-4,TO048,1017,1017,6,barbiere,barbiere,barbiere,NOUN,_,_
@@ -11837,7 +11833,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1809-0,TO048,1809,1809,1,dovresti,dovresti,dovere,AUX,_,_
 1809-1,TO048,1809,1809,2-3,farvi,farvi,_,_,_,_
 1809-1a,_,_,1809,2,_,far,fare,VERB,_,_
-1809-1b,_,_,1809,3,_,vi,vi,ADV,_,_
+1809-1b,_,_,1809,3,_,vi,vi,PRON,_,_
 1809-2,TO048,1809,1809,4,facebook,facebook,facebook,NOUN,_,_
 1809-3,TO048,1809,1809,5,[solo,solo,solo,ADV,_,_
 1809-4,TO048,1809,1809,6,per,per,per,ADP,_,_
@@ -11983,8 +11979,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1837-2,TO052,1837,1837,3,guardo,guardo,guardare,VERB,_,_
 1837-3,TO052,1837,1837,4,poi,poi,poi,ADV,_,_
 1837-4,TO052,1837,1837,5,"dopo,",dopo,dopo,ADP,Intonation=weakly_rising,_
-1838-0,TO052,1838,1838,1-2,°sappilo.°,sappilo,sappilo,_,Intonation=falling|Volume=low,_
-1838-0a,_,_,1838,1,_,sappi ,sapere,VERB,_,_
+1838-0,TO052,1838,1838,1-2,°sappilo.°,sappilo,_,_,Intonation=falling|Volume=low,_
+1838-0a,_,_,1838,1,_,sappi,sapere,VERB,_,_
 1838-0b,_,_,1838,2,_,lo,lo,PRON,_,_
 1839-0,TO048,1839,1839,1,ma,ma,ma,CCONJ,_,_
 1839-1,TO048,1839,1839,2,quindi,quindi,quindi,ADV,_,_
