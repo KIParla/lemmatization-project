@@ -268,7 +268,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 48-21,BO084,48,possano,possano,potere,AUX,_,_
 48-22,BO084,48,"servire,",servire,servire,VERB,Intonation=weakly_rising,_
 49-0,BO082,49,[mhmh,mhmh,mhmh,INTJ,_,_
-49-1,BO082,49,"m:],",m,m,x,Intonation=weakly_rising,_
+49-1,BO082,49,"m:],",m,m,X,Intonation=weakly_rising,_
 50-0,BO082,50,"mhmh,",mhmh,mhmh,INTJ,Intonation=weakly_rising,_
 51-0,BO084,51,in,in,in,ADP,_,_
 51-1,BO084,51,ca:so,caso,caso,NOUN,_,_
@@ -468,7 +468,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 75-0,BO084,75,e,e,e,CCONJ,_,_
 75-1,BO084,75,quindi,quindi,quindi,ADV,_,_
 75-2,BO084,75,vedere,vedere,vedere,VERB,_,_
-75-3,BO084,75,come,come,come,AVV,_,_
+75-3,BO084,75,come,come,come,ADV,_,_
 75-4,BO084,75,le,le,il,DET,_,_
 75-5,BO084,75,strutture,strutture,struttura,NOUN,_,_
 75-6,BO084,75,linguistiche,linguistiche,linguistico,ADJ,_,_
@@ -1602,7 +1602,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 246-5,BO082,246,prima,prima,prima,ADV,_,_
 246-6,BO082,246,delle:,delle,_,_,_,_
 246-6a,_,_,_,di,di,ADP,_,_
-246-6b,_,_,_,le,le,PRON,_,_
+246-6b,_,_,_,le,il,DET,_,_
 246-7,BO082,246,delle,delle,_,_,_,_
 246-7a,_,_,_,di,di,ADP,_,_
 246-7b,_,_,_,le,il,DET,_,_

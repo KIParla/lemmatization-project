@@ -169,7 +169,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 30-1,BO005,30,quindi,quindi,quindi,ADV,_,_
 30-2,BO005,30,volevo,volevo,volere,VERB,_,_
 30-3,BO005,30,vederlo,vederlo,_,_,_,_
-30-3a,_,_,_,veder,vedere,CCONJ,_,_
+30-3a,_,_,_,veder,vedere,VERB,_,_
 30-3b,_,_,_,lo,lo,PRON,_,_
 30-4,BO005,30,un,un,uno,DET,_,_
 30-5,BO005,30,"po',",po',poco,ADV,Intonation=weakly_rising,_
@@ -287,7 +287,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 51-0,BO005,51,[°sì.,sì,sì,ADV,Intonation=falling|Volume=low,_
 51-1,BO005,51,la,la,il,DET,Volume=low,_
 51-2,BO005,51,freque]nza.,frequenza,frequenza,NOUN,Intonation=falling|Volume=low,_
-51-3,BO005,51,[cox,cox,cox,x,Volume=low,_
+51-3,BO005,51,[cox,cox,cox,X,Volume=low,_
 51-4,BO005,51,xx°],xx,x,X,Volume=low,_
 52-0,BO117,52,[esatto.,esatto,esatto,ADJ,Intonation=falling,_
 52-1,BO117,52,la,la,il,DET,_,_
@@ -647,7 +647,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 128-3,BO005,128,sì,sì,sì,ADV,_,_
 128-4,BO005,128,lei,lei,lei,PRON,_,_
 128-5,BO005,128,aveva,aveva,avere,VERB,_,_
-128-6,BO005,128,mo~,mo~,mo~,x,Interrupted=Yes,_
+128-6,BO005,128,mo~,mo~,mo~,X,Interrupted=Yes,_
 128-7,BO005,128,ci,ci,ci,PRON,_,_
 128-8,BO005,128,aveva,aveva,avere,AUX,_,_
 128-9,BO005,128,mostrato,mostrato,mostrare,VERB,_,_

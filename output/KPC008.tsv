@@ -172,6 +172,7 @@ sono	essere	AUX
 (.)	PAUSE	PAUSE
 inesistenti	inesistente	ADJ
 sì	sì	ADV
+mhmh	mhmh	INTJ
 esatto	esatto	ADV
 problematiche	problematica	NOUN
 ((ride))	NVB	NVB
@@ -1015,6 +1016,7 @@ con	con	ADP
 la	il	DET
 natura	natura	NOUN
 (.)	PAUSE	PAUSE
+una	uno	NUM
 due	due	NUM
 la	il	DET
 seconda	secondo	ADJ
@@ -1284,7 +1286,7 @@ succo	succo	NOUN
 sì	sì	ADV
 la	il	DET
 seco~	seco~	X
-l~	l~	X
+l~	x	X
 la	il	DET
 seconda	secondo	ADJ
 matrice	matore	NOUN
@@ -1812,6 +1814,7 @@ ingestibile	ingestibile	ADJ
 è	essere	AUX
 quello	quello	PRON
 è	essere	AUX
+l~	l~	X
 una	una	DET
 è	essere	AUX
 la	il	DET
@@ -2489,6 +2492,7 @@ altro	altro	ADJ
 (.)	PAUSE	PAUSE
 caso	caso	NOUN
 che	che	SCONJ
+a	a	ADP
 me	me	PRON
 piace	piacere	VERB
 fare	fare	VERB
@@ -3530,6 +3534,7 @@ anche	anche	ADV
 quella	quello	PRON
 perché	perché	SCONJ
 poi	poi	ADV
+s~	x	X
 io	io	PRON
 sono	essere	AUX
 sicura	sicuro	ADJ
@@ -3863,6 +3868,7 @@ dato	dare	VERB
 lei	lei	PRON
 o	o	CCONJ
 potete	potere	AUX
+sceglierne	scegliere+ne	VERB+PRON
 scegliere	scegliere	VERB
 ne	ne	PRON
 anche	anche	ADV
@@ -4063,8 +4069,9 @@ fin	fino	ADV
 qui	qui	ADV
 (.)	PAUSE	PAUSE
 per	per	ADP
+farlo	fare+lo	VERB+PRON
 far	fare	VERB
-lo	lo	DET
+lo	lo	PRON
 kate	Kate	PROPN
 raworth	Raworth	PROPN
 mh	mh	INTJ
@@ -4600,7 +4607,8 @@ nelle	in+il	ADP+DET
 in	in	ADP
 le	il	DET
 aree	area	NOUN
-ecco	ecco	INTJ
+eccola	ecco+la	ADV+PRON
+ecco	ecco	ADV
 la	la	PRON
 la	il	DET
 prof	prof	NOUN
@@ -5140,8 +5148,9 @@ vivir	vivir	VERB
 c'	ci	PRON
 aveva	avere	VERB
 anche	anche	ADV
+delle	di+il	ADP+DET
 di	di	ADP
-le	le	PRON
+le	il	DET
 delle	di+il	ADP+DET
 di	di	ADP
 le	il	DET
@@ -6028,8 +6037,9 @@ dei	di+il	ADP+DET
 di	di	ADP
 i	il	DET
 una	uno	PRON
+delle	di+il	ADP+DET
 di	di	ADP
-le	le	PRON
+le	il	DET
 delle	di+il	ADP+DET
 di	di	ADP
 le	il	DET
@@ -6065,6 +6075,7 @@ dei	di+il	ADP+DET
 di	di	ADP
 i	il	DET
 problemi	problema	NOUN
+che	che	SCONJ
 è	essere	AUX
 il	il	DET
 problema	problema	NOUN
@@ -7043,8 +7054,7 @@ ma	ma	CCONJ
 che	che	PRON
 stai	stare	VERB
 a	a	ADP
-di	dire	VERB
-'	'	PUNCT
+di'	dire	VERB
 ((ride))	NVB	NVB
 a	a	ADP
 ma	ma	CCONJ
@@ -7198,6 +7208,7 @@ dai	dai	INTJ
 interessante	interessante	ADJ
 questa	questo	DET
 cosa	cosa	NOUN
+mh	mh	INTJ
 ti	ti	PRON
 può	potere	AUX
 interessare	interessare	VERB

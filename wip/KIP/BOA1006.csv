@@ -76,7 +76,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 15-3,BO034,15,scritto,scritto,scrivere,VERB,_,_
 15-4,BO034,15,dicendole,dicendole,_,_,_,_
 15-4a,_,_,_,dicendo,dire,VERB,_,_
-15-4b,_,_,_,le,il,DET,_,_
+15-4b,_,_,_,le,le,PRON,_,_
 15-5,BO034,15,che,che,che,SCONJ,_,_
 15-6,BO034,15,no:n,non,non,ADV,_,_
 15-7,BO034,15,m:h,mh,mh,INTJ,_,_
@@ -452,7 +452,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 63-0,BO026,63,[pensando,pensando,pensare,VERB,_,_
 63-1,BO026,63,alla]::,alla,_,_,_,_
 63-1a,_,_,_,a,a,ADP,_,_
-63-1b,_,_,_,la,la,PRON,_,_
+63-1b,_,_,_,la,il,DET,_,_
 63-2,BO026,63,alla,alla,_,_,_,_
 63-2a,_,_,_,a,a,ADP,_,_
 63-2b,_,_,_,la,il,DET,_,_

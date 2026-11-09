@@ -389,6 +389,7 @@ xx	x	X
 con	con	ADP
 la	il	DET
 città	città	NOUN
+dal	da+il	ADP+DET
 da	da	ADP
 il	il	DET
 dal	da+il	ADP+DET
@@ -1392,6 +1393,7 @@ gli	il	DET
 altri	altro	PRON
 mh	mh	INTJ
 ancor	ancora	ADV
+della	di+il	ADP+DET
 di	di	ADP
 la	il	DET
 mia	mio	ADJ
@@ -1739,6 +1741,7 @@ mente	mente	NOUN
 che	che	PRON
 di	di	ADP
 solito	solito	NOUN
+che	che	CCONJ
 appunto	appunto	ADV
 nelle	in+il	ADP+DET
 in	in	ADP
@@ -1820,6 +1823,7 @@ nel	in+il	ADP+DET
 in	in	ADP
 il	il	DET
 senso	senso	NOUN
+che	che	CCONJ
 le	il	DET
 classi	classe	NOUN
 i	il	DET
@@ -2015,8 +2019,9 @@ mh	mh	INTJ
 dove	dove	ADV
 viviamo	vivere	VERB
 e	e	CCONJ
+darne	dare+ne	VERB+PRON
 dar	dare	VERB
-ne		PRON
+ne	ne	PRON
 trasmissione	trasmissione	NOUN
 agli	a+il	ADP+DET
 a	a	ADP
@@ -3174,8 +3179,9 @@ della	di+il	ADP+DET
 di	di	ADP
 la	il	DET
 biblioteca	biblioteca	NOUN
+alla	a+il	ADP+DET
 a	a	ADP
-la	la	PRON
+la	il	DET
 a	a	ADP
 una	uno	DET
 partigiana	partigiano	NOUN
@@ -4965,7 +4971,8 @@ disimpiazione	disimpiazione	NOUN
 col	con+il	ADP+DET
 con	con	ADP
 il	il	DET
-con	con	NOUN
+col	con+il	ADP+DET
+con	con	ADP
 il	il	DET
 col	con+il	ADP+DET
 con	con	ADP
@@ -6532,8 +6539,9 @@ io	io	PRON
 perché	perché	SCONJ
 mh	mh	INTJ
 bisogna	bisognare	VERB
+portarle	portare+le	VERB+PRON
 portar	portare	VERB
-le	le	DET
+le	le	PRON
 queste	questo	DET
 testimonia~	testimonia~	PROPN
 anche	anche	ADV
@@ -8548,6 +8556,8 @@ rossa	rosso	ADJ
 la	il	DET
 la	il	DET
 croce	croce	NOUN
+rossa	rossa	ADJ
+la	il	DET
 croce	croce	NOUN
 anche	anche	ADV
 internazionale	internazionale	ADJ
@@ -8786,8 +8796,9 @@ il	il	DET
 nel	in+il	ADP+DET
 in	in	ADP
 il	il	DET
+nella	in+il	ADP+DET
 in	in	ADP
-la	la	PRON
+la	il	DET
 nell'	in+il	ADP+DET
 in	in	ADP
 l'	il	DET
@@ -8961,7 +8972,8 @@ vedere	vedere	VERB
 dell'	di+il	ADP+DET
 di	di	ADP
 l'	il	DET
-interessar	interessar	NOUN
+interessarsi	interessare+si	VERB+PRON
+interessar	interessare	VERB
 si	si	PRON
 perché	perché	SCONJ
 l'	il	DET

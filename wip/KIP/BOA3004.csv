@@ -5857,11 +5857,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 735-2,BO046,735,735,3,"so,",so,sapere,VERB,_,_
 735-3,BO046,735,735,4,[so',so',essere,VERB,_,_
 735-4,BO046,735,735,5,minuscoli],minuscoli,minuscolo,NOUN,_,_
-736-0,BO047,736,736,1-2,[so',so',_,_,_,_
-736-0a,_,_,736,1,_,so,sapere,VERB,_,_
-736-0b,_,_,736,2,_,',',PUNCT,_,_
-736-1,BO047,736,736,3,piccolissimi,piccolissimi,piccole,ADJ,_,_
-736-2,BO047,736,736,4,quelli],quelli,quello,PRON,_,_
+736-0,BO047,736,736,1,[so',so',sapere,VERB,_,_
+736-1,BO047,736,736,2,piccolissimi,piccolissimi,piccole,ADJ,_,_
+736-2,BO047,736,736,3,quelli],quelli,quello,PRON,_,_
 737-0,BO047,737,737,1,sono,sono,essere,AUX,_,_
 737-1,BO047,737,737,2,minuscoli.,minuscoli,minuscolo,ADJ,_,_
 737-2,BO047,737,737,3,quelli,quelli,quello,PRON,_,_
@@ -7191,11 +7189,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 944-1,BO021,944,944,2,mo,mo,mo,ADV,_,_
 944-2,BO021,944,944,3,mi,mi,mi,PRON,_,_
 944-3,BO021,944,944,4,devi,devi,dovere,AUX,_,_
-944-4,BO021,944,944,5-6,firma',firma',_,_,_,_
-944-4a,_,_,944,5,_,firma,firmare,VERB,_,_
-944-4b,_,_,944,6,_,',',PUNCT,_,_
-944-5,BO021,944,944,7,le,le,il,DET,_,_
-944-6,BO021,944,944,8,liberatorie.,liberatorie,liberatoria,NOUN,_,_
+944-4,BO021,944,944,5,firma',firma',firmare,VERB,_,_
+944-5,BO021,944,944,6,le,le,il,DET,_,_
+944-6,BO021,944,944,7,liberatorie.,liberatorie,liberatoria,NOUN,_,_
 945-0,BO046,945,945,1,ormai,ormai,ormai,ADV,_,_
 945-1,BO046,945,945,2,emilio,emilio,Emilio,PROPN,_,_
 945-2,BO046,945,945,3,sei,sei,essere,VERB,_,_
@@ -8075,7 +8071,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1087-4,BO021,1087,1087,5,a,a,a,ADP,_,_
 1087-5,BO021,1087,1087,6-7,prendervi,prendervi,_,_,_,_
 1087-5a,_,_,1087,6,_,prender,prendere,VERB,_,_
-1087-5b,_,_,1087,7,_,vi,vi,ADV,_,_
+1087-5b,_,_,1087,7,_,vi,vi,PRON,_,_
 1087-6,BO021,1087,1087,8,la,la,il,DET,_,_
 1087-7,BO021,1087,1087,9,birra,birra,birra,NOUN,_,_
 1087-8,BO021,1087,1087,10,lunedì?,lunedì,lunedì,NOUN,_,_
@@ -12794,7 +12790,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1706-3,BO046,1706,1706,2,sì,sì,sì,ADV,_,_
 1706-1,BO046,1706,1706,3,dai,dai,dai,INTJ,_,_
 1706-2,BO046,1706,1706,4-5,finiscilo,finiscilo,_,_,_,_
-1706-2a,_,_,1706,4,_,finisci,finire,NOUN,_,_
+1706-2a,_,_,1706,4,_,finisci,finire,VERB,_,_
 1706-2b,_,_,1706,5,_,lo,lo,PRON,_,_
 1707-0,BO046,1707,1707,1,tanto,tanto,tanto,ADV,_,_
 1707-1,BO046,1707,1707,2,ormai,ormai,ormai,ADV,_,_

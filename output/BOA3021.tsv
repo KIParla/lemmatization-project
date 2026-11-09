@@ -870,6 +870,7 @@ tipo	tipo	NOUN
 ad	a	ADP
 esempio	esempio	NOUN
 (.)	PAUSE	PAUSE
+ehmh	ehmh	INTJ
 è	essere	AUX
 tutto	tutto	PRON
 al	a+il	ADP+DET
@@ -900,6 +901,8 @@ dalla	da+il	ADP+DET
 da	da	ADP
 la	il	DET
 competenza	competenza	NOUN
+mh	mh	INTJ
+mh	mh	INTJ
 così	così	ADV
 x	x	X
 faccio	fare	VERB
@@ -908,6 +911,7 @@ banchiere	banchiere	NOUN
 io	io	PRON
 (.)	PAUSE	PAUSE
 x	x	X
+oddio	oddio	INTJ
 adesso	adesso	ADV
 che	che	SCONJ
 sia	essere	AUX
@@ -931,6 +935,7 @@ c'	ci	PRON
 ho	avere	VERB
 il	il	DET
 resto	resto	NOUN
+beh	beh	INTJ
 eh	eh	INTJ
 ti	ti	PRON
 abbiam	abbiamo	AUX
@@ -4808,8 +4813,7 @@ il	il	DET
 gene~	gene~	X
 sì	sì	ADV
 ma	ma	CCONJ
-va	andare	VERB
-'	'	PUNCT
+va'	andare	VERB
 la	il	DET
 c'	ci	PRON
 ha	avere	VERB
@@ -5769,8 +5773,9 @@ delle	di+il	ADP+DET
 di	di	ADP
 le	il	DET
 peggiori	peggiore	NOUN
+delle	di+il	ADP+DET
 di	di	ADP
-le	le	PRON
+le	il	DET
 delle	di+il	ADP+DET
 di	di	ADP
 le	il	DET
@@ -7609,8 +7614,9 @@ dice	dire	VERB
 e	e	CCONJ
 invece	invece	ADV
 di	di	ADP
+dettarle	dettare+le	VERB+PRON
 dettar	dettare	VERB
-le	il	DET
+le	le	PRON
 piano	piano	NOUN
 (.)	PAUSE	PAUSE
 le	le	PRON
@@ -7706,8 +7712,9 @@ quattro	quattro	NUM
 volte	volta	NOUN
 ((ride))	NVB	NVB
 dopo	dopo	ADV
+averla	avere+la	VERB+PRON
 aver	avere	VERB
-la	il	DET
+la	la	PRON
 scritta	scritta	NOUN
 cioè	cioè	CCONJ
 ah	ah	INTJ
@@ -9303,6 +9310,7 @@ c'	ci	PRON
 è	essere	VERB
 il	il	DET
 formato	formato	NOUN
+apposta	apposta	ADV
 vabbè	vabbè	INTJ
 dai	dare	VERB
 comunque	comunque	ADV
@@ -12495,6 +12503,7 @@ lei	lei	PRON
 ha	avere	VERB
 problemi	problema	NOUN
 tipo	tipo	NOUN
+tiro~	tiro~	X
 sì	sì	ADV
 c'	ci	PRON
 ha	avere	VERB

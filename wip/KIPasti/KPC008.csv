@@ -1815,7 +1815,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 245-6,PKP069,245,è,è,essere,AUX,_,_
 245-7,PKP069,245,quello,quello,quello,PRON,_,_
 245-8,PKP069,245,è,è,essere,AUX,_,_
-245-9,PKP069,245,l~,l~,l~,x,Interrupted=Yes,_
+245-9,PKP069,245,l~,l~,l~,X,Interrupted=Yes,_
 245-10,PKP069,245,una,una,una,DET,_,_
 245-11,PKP069,245,è,è,essere,AUX,_,_
 245-12,PKP069,245,la,la,il,DET,_,_
@@ -4075,7 +4075,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 548-3,PKP069,548,per,per,per,ADP,_,_
 548-4,PKP069,548,farlo,farlo,_,_,_,_
 548-4a,_,_,_,far,fare,VERB,_,_
-548-4b,_,_,_,lo,il,DET,_,_
+548-4b,_,_,_,lo,lo,PRON,_,_
 548-5,PKP069,548,kate,kate,Kate,PROPN,_,_
 548-6,PKP069,548,rawor[th],raworth,Raworth,PROPN,_,_
 549-0,PKP063,549,[mh],mh,mh,INTJ,_,_
@@ -4612,7 +4612,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 613-2b,_,_,_,le,il,DET,_,_
 613-3,PKP063,613,aree:,aree,area,NOUN,_,_
 613-4,PKP063,613,eccola,eccola,_,_,_,_
-613-4a,,,ecco,ecco,ecco,INTJ,_,_
+613-4a,,,ecco,ecco,ecco,ADV,_,_
 613-4b,,,la,la,la,PRON,_,_
 613-5,PKP063,613,la,la,il,DET,_,_
 613-6,PKP063,613,prof,prof,prof,NOUN,_,_

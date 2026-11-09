@@ -871,7 +871,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 142-1,BO156,142,ad],ad,a,ADP,_,_
 142-2,BO156,142,esempio,esempio,esempio,NOUN,_,_
 142-3,BO156,142,(.),(.),_,_,_,_
-142-4,BO156,142,e:hm:h,ehmh,ehmh,iNTJ,_,_
+142-4,BO156,142,e:hm:h,ehmh,ehmh,INTJ,_,_
 143-0,BO156,143,è,è,essere,AUX,_,_
 143-1,BO156,143,tutto,tutto,tutto,PRON,_,_
 143-2,BO156,143,al,al,_,_,_,_
@@ -902,8 +902,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 146-6a,_,_,_,da,da,ADP,_,_
 146-6b,_,_,_,la,il,DET,_,_
 146-7,BO155,146,[competenza:],competenza,competenza,NOUN,_,_
-147-0,BO156,147,[mh,mh,mh,iNTJ,_,_
-147-1,BO156,147,mh],mh,mh,iNTJ,_,_
+147-0,BO156,147,[mh,mh,mh,INTJ,_,_
+147-1,BO156,147,mh],mh,mh,INTJ,_,_
 148-0,BO158,148,così,così,così,ADV,_,_
 149-0,BO155,149,x,x,x,X,_,_
 150-0,BO158,150,faccio,faccio,fare,VERB,_,_
@@ -912,7 +912,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 150-3,BO158,150,io,io,io,PRON,_,_
 150-4,BO158,150,(.),(.),_,_,_,_
 150-5,BO158,150,[x],x,x,X,_,_
-151-0,BO155,151,[oddio,oddio,oddio,iNTJ,_,_
+151-0,BO155,151,[oddio,oddio,oddio,INTJ,_,_
 151-1,BO155,151,adesso,adesso,adesso,ADV,_,_
 151-2,BO155,151,che,che,che,SCONJ,_,_
 151-3,BO155,151,sia,sia,essere,AUX,_,_
@@ -936,7 +936,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 157-2,BO158,157,ho,ho,avere,VERB,_,_
 157-3,BO158,157,il,il,il,DET,_,_
 157-4,BO158,157,resto],resto,resto,NOUN,_,_
-158-0,BO155,158,[beh],beh,beh,iNTJ,_,_
+158-0,BO155,158,[beh],beh,beh,INTJ,_,_
 159-0,BO157,159,[e]:h,eh,eh,INTJ,_,_
 160-0,BO157,160,ti,ti,ti,PRON,_,_
 160-1,BO157,160,abbiam,abbiam,abbiamo,AUX,_,_
@@ -4814,9 +4814,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 820-15,BO158,820,gene~,gene~,gene~,X,Interrupted=Yes,_
 820-16,BO158,820,sì,sì,sì,ADV,_,_
 821-0,BO156,821,ma,ma,ma,CCONJ,_,_
-821-1,BO156,821,va',va',_,_,Truncated=Yes,_
-821-1a,_,_,_,va,andare,VERB,_,_
-821-1b,_,_,_,',',PUNCT,_,_
+821-1,BO156,821,va',va',andare,VERB,Truncated=Yes,_
 821-2,BO156,821,la:,la,il,DET,_,_
 822-0,BO158,822,c',c',ci,PRON,Truncated=Yes,_
 822-1,BO158,822,ha,ha,avere,VERB,_,_
@@ -5778,7 +5776,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 975-3,BO156,975,peggiori,peggiori,peggiore,NOUN,_,_
 975-4,BO156,975,delle,delle,_,_,_,_
 975-4a,_,_,_,di,di,ADP,_,_
-975-4b,_,_,_,le,le,PRON,_,_
+975-4b,_,_,_,le,il,DET,_,_
 975-5,BO156,975,delle,delle,_,_,_,_
 975-5a,_,_,_,di,di,ADP,_,_
 975-5b,_,_,_,le,il,DET,_,_
@@ -7619,7 +7617,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1250-2,BO158,1250,di,di,di,ADP,_,_
 1250-3,BO158,1250,dettarle,dettarle,_,_,_,_
 1250-3a,_,_,_,dettar,dettare,VERB,_,_
-1250-3b,_,_,_,le,il,DET,_,_
+1250-3b,_,_,_,le,le,PRON,_,_
 1250-4,BO158,1250,piano,piano,piano,NOUN,_,_
 1250-5,BO158,1250,(.),(.),_,_,_,_
 1250-6,BO158,1250,le,le,le,PRON,_,_
@@ -7717,7 +7715,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1263-0,BO157,1263,dopo,dopo,dopo,ADV,_,_
 1263-1,BO157,1263,averla,averla,_,_,_,_
 1263-1a,_,_,_,aver,avere,VERB,_,_
-1263-1b,_,_,_,la,il,DET,_,_
+1263-1b,_,_,_,la,la,PRON,_,_
 1263-2,BO157,1263,scritta,scritta,scritta,NOUN,_,_
 1263-3,BO157,1263,cioè,cioè,cioè,CCONJ,_,_
 1264-0,BO158,1264,ah,ah,ah,INTJ,_,_
@@ -9315,7 +9313,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1478-1,BO158,1478,è,è,essere,VERB,_,_
 1478-2,BO158,1478,il,il,il,DET,_,_
 1478-3,BO158,1478,formato,formato,formato,NOUN,_,_
-1478-4,BO158,1478,apposta,apposta,apposta,AVV,_,_
+1478-4,BO158,1478,apposta,apposta,apposta,ADV,_,_
 1479-0,BO157,1479,vabbè,vabbè,vabbè,INTJ,_,_
 1479-1,BO157,1479,dai,dai,dare,VERB,_,_
 1479-2,BO157,1479,comunque,comunque,comunque,ADV,_,_
@@ -12508,7 +12506,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 2026-13,BO155,2026,ha,ha,avere,VERB,_,_
 2026-14,BO155,2026,problemi::,problemi,problema,NOUN,_,_
 2026-15,BO155,2026,tip[o:::],tipo,tipo,NOUN,_,_
-2027-0,BO157,2027,[tiro~,tiro~,tiro~,XX,Interrupted=Yes,_
+2027-0,BO157,2027,[tiro~,tiro~,tiro~,X,Interrupted=Yes,_
 2027-1,BO157,2027,sì],sì,sì,ADV,_,_
 2027-2,BO157,2027,c',c',ci,PRON,Truncated=Yes,_
 2027-3,BO157,2027,h[a::,ha,avere,VERB,_,_

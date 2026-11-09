@@ -76,7 +76,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 7-1,BO112,7,7,2,soprattutto,soprattutto,soprattutto,ADV,_,_
 7-2,BO112,7,7,3,(.),(.),_,_,_,_
 7-3,BO112,7,7,4-5,nell',nell',_,_,Truncated=Yes,_
-7-3a,_,_,7,4,_,in,in,PRON,_,_
+7-3a,_,_,7,4,_,in,in,ADP,_,_
 7-3b,_,_,7,5,_,l',il,DET,_,_
 7-4,BO112,7,7,6,"intervallo,",intervallo,intervallo,NOUN,Intonation=weakly_rising,_
 8-0,BO112,8,8,1,faccio,faccio,fare,VERB,_,_
@@ -4908,7 +4908,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 558-14,BO112,558,558,16,posso,posso,potere,AUX,_,_
 558-15,BO112,558,558,17-18,chiedervi,chiedervi,_,_,_,_
 558-15a,_,_,558,17,_,chieder,chiedere,VERB,_,_
-558-15b,_,_,558,18,_,vi,vi,ADV,_,_
+558-15b,_,_,558,18,_,vi,vi,PRON,_,_
 558-16,BO112,558,558,19,infatti,infatti,infatti,ADV,_,_
 558-17,BO112,558,558,20-21,all',all',_,_,Truncated=Yes,_
 558-17a,_,_,558,20,_,a,a,ADP,_,_
@@ -5133,7 +5133,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 585-2,BO112,585,585,3,quelli,quelli,quello,PRON,_,_
 585-3,BO112,585,585,4-5,delle,delle,_,_,_,_
 585-3a,_,_,585,4,_,di,di,ADP,_,_
-585-3b,_,_,585,5,_,le,le,PRON,_,_
+585-3b,_,_,585,5,_,le,il,DET,_,_
 585-4,BO112,585,585,6,(.),(.),_,_,_,_
 585-5,BO112,585,585,7-8,della,della,_,_,_,_
 585-5a,_,_,585,7,_,di,di,ADP,_,_
@@ -5872,7 +5872,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 672-7b,_,_,672,9,_,la,il,DET,_,_
 672-8,BO112,672,672,10,mia.,mia,mio,DET,Intonation=falling,_
 673-0,BO112,673,673,1,perché,perché,perché,SCONJ,_,_
-673-1,BO112,673,673,2,sennò,sennò,sennò,AVV,_,_
+673-1,BO112,673,673,2,sennò,sennò,sennò,ADV,_,_
 673-2,BO112,673,673,3,perdo,perdo,perdere,VERB,_,_
 673-3,BO112,673,673,4,la,la,il,DET,_,_
 673-4,BO112,673,673,5,mia,mia,mio,DET,_,_
@@ -7685,7 +7685,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 914-3,BO112,914,914,4,perso,perso,perdere,VERB,_,_
 914-4,BO112,914,914,5,la,la,il,DET,_,_
 914-5,BO112,914,914,6,testa?,testa,testa,NOUN,Intonation=rising,_
-915-0,BO112,915,915,1,mh?,mh,mh,INTJ],Intonation=rising,_
+915-0,BO112,915,915,1,mh?,mh,mh,INTJ,Intonation=rising,_
 916-0,BO112,916,916,1,quindi,quindi,quindi,ADV,_,_
 916-1,BO112,916,916,2,la,la,il,DET,_,_
 916-2,BO112,916,916,3,concezione,concezione,concezione,NOUN,_,_
@@ -8821,7 +8821,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1066-6,???,1066,1066,7,d',d',di,ADP,_,SpaceAfter=No
 1066-7,???,1066,1066,8,amore,amore,amore,NOUN,_,_
 1066-8,???,1066,1066,9,perché::,perché,perché,SCONJ,_,_
-1067-0,???,1067,1067,1,e::hm,ehm,ehm,INTj,_,_
+1067-0,???,1067,1067,1,e::hm,ehm,ehm,INTJ,_,_
 1068-0,???,1068,1068,1,secondo,secondo,secondo,ADP,_,_
 1068-1,???,1068,1068,2,>diciamo<,diciamo,dire,VERB,_,_
 1068-2,???,1068,1068,3,quella,quella,quello,PRON,_,_
@@ -12041,7 +12041,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1504-1,BO112,1504,1504,3,"idea,",idea,idea,NOUN,Intonation=weakly_rising,_
 1505-0,BO112,1505,1505,1-2,"della,",della,_,_,Intonation=weakly_rising,_
 1505-0a,_,_,1505,1,_,di,di,ADP,_,_
-1505-0b,_,_,1505,2,_,la,la,PRON,_,_
+1505-0b,_,_,1505,2,_,la,il,DET,_,_
 1505-1,BO112,1505,1505,3-4,del,del,_,_,_,_
 1505-1a,_,_,1505,3,_,di,di,ADP,_,_
 1505-1b,_,_,1505,4,_,il,il,DET,_,_

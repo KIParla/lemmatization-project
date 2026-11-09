@@ -573,7 +573,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 90-0,BO094,90,90,1,vorrei,vorrei,volere,AUX,_,_
 90-1,BO094,90,90,2-3,farvi,farvi,_,_,_,_
 90-1a,_,_,90,2,_,far,fare,VERB,_,_
-90-1b,_,_,90,3,_,vi,vi,ADV,_,_
+90-1b,_,_,90,3,_,vi,vi,PRON,_,_
 90-2,BO094,90,90,4,invece,invece,invece,ADV,_,_
 91-0,BO094,91,91,1,e::h,eh,eh,INTJ,_,_
 92-0,BO094,92,92,1,un,un,uno,DET,_,_
@@ -1600,7 +1600,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 253-8,BO094,253,253,10,linguaggio,linguaggio,linguaggio,NOUN,_,_
 253-9,BO094,253,253,11,costanti,costanti,costante,ADJ,_,_
 253-10,BO094,253,253,12,individuali.,individuali,individuale,ADJ,Intonation=falling,_
-254-0,BO094,254,254,1,presento,presento,presentare,VEBR,_,_
+254-0,BO094,254,254,1,presento,presento,presentare,VERB,_,_
 254-1,BO094,254,254,2-3,coi,coi,_,_,_,_
 254-1a,_,_,254,2,_,con,con,ADP,_,_
 254-1b,_,_,254,3,_,i,il,DET,_,_
@@ -1943,7 +1943,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 297-2,BO094,297,297,3-4,alla,alla,_,_,_,_
 297-2a,_,_,297,3,_,a,a,ADP,_,_
 297-2b,_,_,297,4,_,la,il,DET,_,_
-297-3,BO094,297,297,5,russell,russell,Russel,RROPN,_,_
+297-3,BO094,297,297,5,russell,russell,Russel,PROPN,_,_
 298-0,BO094,298,298,1,di,di,di,ADP,_,_
 298-1,BO094,298,298,2,trattare,trattare,trattare,VERB,_,_
 298-2,BO094,298,298,3,descrizioni,descrizioni,descrizione,NOUN,_,_
@@ -2553,7 +2553,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 391-4,BO094,391,391,5,di,di,di,ADP,_,_
 391-5,BO094,391,391,6-7,darvi,darvi,_,_,_,_
 391-5a,_,_,391,6,_,dar,dare,VERB,_,_
-391-5b,_,_,391,7,_,vi,vi,ADV,_,_
+391-5b,_,_,391,7,_,vi,vi,PRON,_,_
 391-6,BO094,391,391,8,un,un,uno,DET,_,_
 391-7,BO094,391,391,9,risultato,risultato,risultato,NOUN,_,_
 391-8,BO094,391,391,10,pochissimi,pochissimi,poco,DET,_,_
@@ -3191,7 +3191,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 452-6,BO094,452,452,7,per,per,per,ADP,_,_
 452-7,BO094,452,452,8,un,un,uno,DET,_,_
 452-8,BO094,452,452,9,linguaggio,linguaggio,linguaggio,NOUN,_,_
-452-9,BO094,452,452,10,ics,ics,ics,NOUNS,_,_
+452-9,BO094,452,452,10,ics,ics,ics,NOUN,_,_
 452-10,BO094,452,452,11,"zero,",zero,zero,NUM,Intonation=weakly_rising,_
 453-0,BO094,453,453,1,e,e,e,CCONJ,_,_
 453-1,BO094,453,453,2,avete,avete,avere,VERB,_,_
@@ -3264,7 +3264,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 460-13,BO094,460,460,14,per,per,per,ADP,_,_
 460-14,BO094,460,460,15,un,un,uno,DET,_,_
 460-15,BO094,460,460,16,linguaggio,linguaggio,linguaggio,NOUN,_,_
-460-16,BO094,460,460,17,erre,erre,erre,NOUNS,_,_
+460-16,BO094,460,460,17,erre,erre,erre,NOUN,_,_
 460-17,BO094,460,460,18,"zero,",zero,zero,NUM,Intonation=weakly_rising,_
 461-0,BO094,461,461,1,semantica,semantica,semantica,ADJ,_,_
 461-1,BO094,461,461,2,per,per,per,ADP,_,_
@@ -3686,7 +3686,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 517-6,BO094,517,517,7,teoria,teoria,teoria,NOUN,_,_
 517-7,BO094,517,517,8,matematica,matematica,matematica,ADJ,_,_
 517-8,BO094,517,517,9,"basilare,",basilare,basilare,VERB,Intonation=weakly_rising,_
-518-0,BO094,518,518,1,xx,xx,decimo,x,_,_
+518-0,BO094,518,518,1,xx,xx,decimo,X,_,_
 518-1,BO094,518,518,2,posto,posto,posto,NOUN,_,_
 518-2,BO094,518,518,3,in,in,in,ADP,_,_
 518-3,BO094,518,518,4,cui,cui,cui,PRON,_,_
@@ -5269,7 +5269,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 733-2,BO094,733,733,3,>cioè<,cioè,cioè,ADV,_,_
 733-3,BO094,733,733,4-5,nella:,nella,_,_,_,_
 733-3a,_,_,733,4,_,in,in,ADP,_,_
-733-3b,_,_,733,5,_,la,la,PRON,_,_
+733-3b,_,_,733,5,_,la,il,DET,_,_
 733-4,BO094,733,733,6-7,nella,nella,_,_,_,_
 733-4a,_,_,733,6,_,in,in,ADP,_,_
 733-4b,_,_,733,7,_,la,il,DET,_,_
@@ -7877,7 +7877,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1083-25,???,1083,1083,26,come,come,come,SCONJ,_,_
 1083-26,???,1083,1083,27-28,recuperarlo,recuperarlo,_,_,_,_
 1083-26a,_,_,1083,27,_,recuperar,recuperare,VERB,_,_
-1083-26b,_,_,1083,28,_,lo,il,DET,_,_
+1083-26b,_,_,1083,28,_,lo,lo,PRON,_,_
 1083-27,???,1083,1083,29,punto,punto,punto,NOUN,_,_
 1083-28,???,1083,1083,30,due,due,due,NUM,_,_
 1083-29,???,1083,1083,31,xxx,xxx,x,X,_,_
