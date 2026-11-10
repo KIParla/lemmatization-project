@@ -561,8 +561,9 @@ meno	meno	ADV
 mh	mh	INTJ
 duecentocinquanta	duecentocinquanta	NUM
 trecento	trecento	NUM
-emme	emme	NOUN
-elle	elle	NOUN
+emme	M	NOUN
+elle	L	NOUN
+ve	V	NOUN
 ma	ma	CCONJ
 (.)	PAUSE	PAUSE
 l'	il	DET
@@ -1912,7 +1913,8 @@ patata	patata	NOUN
 sul	su+il	ADP+DET
 su	su	ADP
 il	il	DET
-su	su	NOUN
+sul	su+il	ADP+DET
+su	su	ADP
 il	il	DET
 lì	lì	ADV
 ((ride))	NVB	NVB

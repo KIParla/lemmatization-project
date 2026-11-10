@@ -176,8 +176,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 28-4,TO017,28,28,5,standard,standard,standard,ADJ,_,_
 28-5,TO017,28,28,6,sarebbe?,sarebbe,essere,VERB,_,_
 29-0,???,29,29,1,madha,madha,x,X,_,_
-29-1,???,29,29,_,_,turid,_,X,_,_
-29-2,???,29,29,_,_,alan,_,X,_,_
+29-1,???,29,29,_,_,turid,turid,X,_,_
+29-2,???,29,29,_,_,alan,alan,X,_,_
 30-0,TO017,30,30,1,°bravissimo,bravissimo,bravo,ADJ,_,_
 30-1,TO017,30,30,2,lui.°,lui,egli,PRON,_,_
 31-0,TO017,31,31,1,beh,beh,beh,INTJ,_,_
@@ -1288,8 +1288,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 212-0,TO017,212,212,1,proto,proto,proto,PART,_,_
 212-1,TO017,212,212,2,vuol,vuol,volere,AUX,_,_
 212-2,TO017,212,212,3,dire,dire,dire,VERB,_,_
-212-3,TO017,212,212,4,gli,degli,_,_,_,_
-212-3a,_,_,212,_,_,de,di,DET,_,_
+212-3,TO017,212,212,4,degli,degli,_,_,_,_
+212-3a,_,_,212,_,_,de,di,ADP,_,_
 212-3b,_,_,212,_,_,gli,il,DET,_,_
 212-4,TO017,212,212,5,inizi.,inizi,inizo,NOUN,_,_
 213-0,TO017,213,213,1,"okay,",okay,okay,INTJ,_,_
@@ -2082,8 +2082,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 325-0,TO017,325,325,16,per,per,per,ADP,_,_
 325-1,TO017,325,325,17,raccontarvela,raccontarvela,_,_,_,_
 325-1a,_,_,325,_,_,raccontar,raccontar,VERB,_,_
-325-1b,_,_,325,_,_,ve,ve,VERB,_,_
-325-1c,_,_,325,_,_,la,la,VERB,_,_
+325-1b,_,_,325,_,_,ve,ve,PRON,_,_
+325-1c,_,_,325,_,_,la,la,PRON,_,_
 326-0,TO017,326,326,1,partiamo,partiamo,partire,VERB,_,_
 326-1,TO017,326,326,2-3,dal,dal,_,_,_,_
 326-1a,_,_,326,2,_,da,da,ADP,_,_
@@ -4884,7 +4884,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 748-0,TO017,748,748,1,potete,potete,potere,AUX,_,_
 748-1,TO017,748,748,2-3,farlo,farlo,_,_,_,_
 748-1a,_,_,748,2,_,far,fare,VERB,_,_
-748-1b,_,_,748,3,_,lo,il,DET,_,_
+748-1b,_,_,748,3,_,lo,lo,PRON,_,_
 748-2,TO017,748,748,4,io,io,io,PRON,_,_
 748-3,TO017,748,748,5,l',l',lo,PRON,_,SpaceAfter=No
 748-4,TO017,748,748,6,ho,ho,avere,AUX,_,_
@@ -6437,8 +6437,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 970-5,TO017,970,970,6,le,le,il,DET,_,_
 970-6,TO017,970,970,7,più,più,più,ADV,_,_
 970-7,TO017,970,970,8,"vecchie,",vecchie,vecchio,ADJ,_,_
-971-0,TO017,971,971,1,(allora),al,_,_,_,_
-971-0a,_,_,971,_,_,a,a,ADV,_,_
+971-0,TO017,971,971,1,(al),al,_,_,_,_
+971-0a,_,_,971,_,_,a,a,ADP,_,_
 971-0b,_,_,971,_,_,il,il,DET,_,_
 971-1,TO017,971,971,2,primo,primo,primo,NUM,_,_
 971-2,TO017,971,971,3,"secolo,",secolo,secolo,NOUN,_,_
@@ -7473,7 +7473,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1140-1,TO017,1140,1140,4,sesto,sesto,sesto,DET,_,_
 1140-2,TO017,1140,1140,5,"secolo,",secolo,secolo,NOUN,_,_
 1141-0,TO017,1141,1141,6,sel,nel,_,_,_,_
-1141-0a,_,_,1141,_,_,in,in,DET,_,_
+1141-0a,_,_,1141,_,_,in,in,ADP,_,_
 1141-0b,_,_,1141,_,_,il,il,DET,_,_
 1141-1,TO017,1141,1141,7,setti~,settimo,settimo,X,_,_
 1141-2,TO017,1141,1141,8,sesto,sesto,sesto,DET,_,_

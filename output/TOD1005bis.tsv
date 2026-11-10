@@ -175,6 +175,8 @@ arabo	arabo	NOUN
 standard	standard	ADJ
 sarebbe	essere	VERB
 madha	x	X
+turid	turid	X
+alan	alan	X
 bravissimo	bravo	ADJ
 lui	egli	PRON
 beh	beh	INTJ
@@ -1285,7 +1287,8 @@ arabo	arabo	NOUN
 proto	proto	PART
 vuol	volere	AUX
 dire	dire	VERB
-de	di	DET
+degli	di+il	ADP+DET
+de	di	ADP
 gli	il	DET
 inizi	inizo	NOUN
 okay	okay	INTJ
@@ -2076,9 +2079,10 @@ comodo	comodo	ADJ
 a	a	ADP
 me	me	PRON
 per	per	ADP
+raccontarvela	raccontar+ve+la	VERB+PRON+PRON
 raccontar	raccontar	VERB
-ve	ve	VERB
-la	la	VERB
+ve	ve	PRON
+la	la	PRON
 partiamo	partire	VERB
 dal	da+il	ADP+DET
 da	da	ADP
@@ -4877,8 +4881,9 @@ potete	potere	AUX
 masticare	masticare	VERB
 giuro	giurare	VERB
 potete	potere	AUX
+farlo	fare+lo	VERB+PRON
 far	fare	VERB
-lo	il	DET
+lo	lo	PRON
 io	io	PRON
 l'	lo	PRON
 ho	avere	AUX
@@ -6431,7 +6436,8 @@ datate	datare	VERB
 le	il	DET
 più	più	ADV
 vecchie	vecchio	ADJ
-a	a	ADV
+al	a+il	ADP+DET
+a	a	ADP
 il	il	DET
 primo	primo	NUM
 secolo	secolo	NOUN
@@ -7465,7 +7471,8 @@ in	in	ADP
 il	il	DET
 sesto	sesto	DET
 secolo	secolo	NOUN
-in	in	DET
+nel	in+il	ADP+DET
+in	in	ADP
 il	il	DET
 settimo	settimo	X
 sesto	sesto	DET

@@ -109,9 +109,9 @@ domenica	domenica	NOUN
 (.)	PAUSE	PAUSE
 me	mi	PRON
 devo	dovere	AUX
-sveglia	svegliare	VERB
-'	'	PUNCT
+sveglia'	svegliare	VERB
 (.)	PAUSE	PAUSE
+quindi	quindi	CCONJ
 c'	ci	PRON
 hai	avere	VERB
 il	il	DET
@@ -1158,6 +1158,7 @@ se	se	SCONJ
 devo	dovere	AUX
 fa	fare	VERB
 fiori	fiore	NOUN
+che	che	SCONJ
 manco	manco	ADV
 ma	ma	CCONJ
 no	no	INTJ
@@ -1667,8 +1668,7 @@ il	il	DET
 boh	boh	INTJ
 prima	prima	ADV
 de	di	ADP
-anda	andare	VERB
-'	'	PUNCT
+anda'	andare	VERB
 via	via	ADV
 (.)	PAUSE	PAUSE
 andiamo	andare	VERB
@@ -1808,8 +1808,7 @@ era	essere	VERB
 lui	lui	PRON
 che	che	SCONJ
 doveva	dovere	AUX
-entra	entrare	VERB
-'	'	PUNCT
+entra'	entrare	VERB
 eh	eh	INTJ
 (.)	PAUSE	PAUSE
 io	io	PRON
@@ -1819,7 +1818,6 @@ capito	capire	VERB
 che	che	SCONJ
 intendesse	intendere	VERB
 chiude	chiudere	VERB
-'	'	PUNCT
 a	a	ADP
 chiave	chiave	NOUN
 e	e	CCONJ
@@ -1989,8 +1987,7 @@ fuori	fuori	ADV
 (.)	PAUSE	PAUSE
 per	per	ADP
 non	non	ADV
-paga	pagare	VERB
-'	'	PUNCT
+paga'	pagare	VERB
 il	il	DET
 parcheggio	parcheggio	NOUN
 ma	ma	CCONJ
@@ -2061,8 +2058,7 @@ faceva	fare	VERB
 pagare	pagare	VERB
 lo	lo	PRON
 fa	fare	VERB
-paga	pagare	VERB
-'	'	PUNCT
+paga'	pagare	VERB
 tre	tre	NUM
 euro	euro	NOUN
 sì	sì	INTJ
@@ -2524,8 +2520,7 @@ fine	fine	NOUN
 abbiam	avere	AUX
 deciso	decidere	VERB
 de	di	ADP
-anda	andare	VERB
-'	'	PUNCT
+anda'	andare	VERB
 a	a	ADP
 casa	casa	NOUN
 ma	ma	CCONJ
@@ -3262,8 +3257,7 @@ glieli	gli+li	PRON+PRON
 glie	gli	PRON
 li	li	PRON
 fa	fare	VERB
-paga	pagare	VERB
-'	'	PUNCT
+paga'	pagare	VERB
 cinque	cinque	NUM
 euro	euro	NOUN
 e	e	CCONJ
@@ -3576,8 +3570,7 @@ non	non	ADV
 è	essere	AUX
 riuscito	riuscire	VERB
 a	a	ADP
-entra	entrare	VERB
-'	'	PUNCT
+entra'	entrare	VERB
 si	si	PRON
 vede	vedere	VERB
 che	che	SCONJ
@@ -3605,8 +3598,7 @@ cioè	cioè	CCONJ
 ci	ci	PRON
 si	si	PRON
 può	potere	AUX
-anda	andare	VERB
-'	'	PUNCT
+anda'	andare	VERB
 mascherati	mascherare	VERB
 si	si	PRON
 può	potere	AUX
@@ -4028,8 +4020,7 @@ di	di	ADP
 continuo	continuo	NOUN
 cosa	cosa	PRON
 devi	dovere	AUX
-blocca	bloccare	VERB
-'	'	PUNCT
+blocca'	bloccare	VERB
 il	il	DET
 prezzo	prezzo	NOUN
 fissiamo	fissare	VERB
@@ -4046,8 +4037,7 @@ ufficio	ufficio	NOUN
 non	non	ADV
 so	sapere	VERB
 cosa	cosa	PRON
-mangia	mangiare	VERB
-'	'	PUNCT
+mangia'	mangiare	VERB
 ahia	ahia	INTJ
 i	il	DET
 biscotti	biscotto	NOUN
@@ -4280,12 +4270,10 @@ ho	avere	AUX
 rovesciato	rovesciare	VERB
 tutto	tutto	PRON
 oddio	oddio	INTJ
-so	essere	VERB
-'	'	PUNCT
+so'	essere	AUX
 andata	andare	VERB
 a	a	ADP
-cammina	camminare	VERB
-'	'	PUNCT
+cammina'	camminare	VERB
 stamattina	stamattina	NOUN
 alle	a+il	ADP+DET
 a	a	ADP
@@ -4362,8 +4350,7 @@ ieri	ieri	ADV
 era	essere	AUX
 freddo	freddo	ADJ
 per	per	ADP
-anda	andare	VERB
-'	'	PUNCT
+anda'	andare	VERB
 a	a	ADP
 camminare	camminare	VERB
 ieri	ieri	ADV
@@ -4457,12 +4444,10 @@ fatta	fare	VERB
 ieri	ieri	ADV
 ma	ma	CCONJ
 mh	mh	INTJ
-so	essere	AUX
-'	'	PUNCT
+so'	essere	AUX
 andata	andare	VERB
 a	a	ADP
-cammina	camminare	VERB
-'	'	PUNCT
+cammina'	camminare	VERB
 quindi	quindi	CCONJ
 senza	senza	ADP
 i	il	DET
@@ -4698,8 +4683,7 @@ ah	ah	INTJ
 io	io	PRON
 adesso	adesso	ADV
 devo	dovere	AUX
-anda	andare	VERB
-'	'	PUNCT
+anda'	andare	VERB
 anche	anche	ADV
 a	a	ADP
 gioca	giocare	VERB
@@ -4707,6 +4691,7 @@ i	il	DET
 numeri	numero	NOUN
 li	li	PRON
 devo	dovere	AUX
+gioca'	giocare	VERB
 gioca	giocare	VERB
 '	'	PUNCT
 ((sospira))	NVB	NVB

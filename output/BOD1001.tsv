@@ -601,7 +601,7 @@ per	per	ADP
 fini	fine	NOUN
 scolastici	scolastico	ADJ
 xxx	x	X
-'ste	questo	ADJ
+'ste	questo	DET
 cose	cosa	NOUN
 non	non	ADV
 gliene	gli+ne	PRON+PRON
@@ -2814,8 +2814,7 @@ mezz'	mezzo	ADJ
 orata	orata	NOUN
 e	e	CCONJ
 a	a	DET
-mamma	mamma	NOUN
-'	'	PUNCT
+mamma'	mamma	NOUN
 ancora	ancora	ADV
 non	non	ADV
 si	si	PRON
@@ -2950,8 +2949,7 @@ che	che	SCONJ
 alla	a+il	ADP+DET
 a	a	ADP
 la	il	DET
-mamma	mamma	NOUN
-'	'	PUNCT
+mamma'	mamma	NOUN
 c'	ci	PRON
 amancavano	amancavano	VERB
 du	du	NUM
@@ -7228,8 +7226,7 @@ eh	eh	INTJ
 la	la	PRON
 si	si	PRON
 chiama	chiamare	VERB
-'	'	PUNCT
-ngiuria	ngiuria	NOUN
+'ngiuria	ingiuria	NOUN
 dico	dire	VERB
 bene	bene	ADV
 il	il	DET
@@ -7379,8 +7376,7 @@ comunista	comunista	NOUN
 stavano	stare	AUX
 mangiando	mangiare	VERB
 ((legge))	NVB	NVB
-'	'	PUNCT
-somma	somma	ADV
+'somma	insomma	ADV
 sentendo	sentire	VERB
 mangiare	mangiare	VERB
 uno	uno	PRON
@@ -7409,7 +7405,7 @@ chi	chi	PRON
 ti	ti	PRON
 ha	avere	AUX
 insignato	insignato	VERB
-'sta	questo	ADJ
+'sta	questo	DET
 parola	parola	NOUN
 spiò	spiò	VERB
 u	u	DET
@@ -8031,8 +8027,7 @@ erba	erba	NOUN
 tinta	tinta	ADJ
 non	non	ADV
 mori	mori	VERB
-ma	ma	ADV
-'	'	PUNCT
+ma'	ma	ADV
 ((legge))	NVB	NVB
 prima	prima	ADV
 o	o	CCONJ
@@ -10999,8 +10994,8 @@ bill	Bill	PROPN
 gorgerino	Gorgerino	PROPN
 arridì	arridì	VERB
 sempre	sempre	ADV
-taliandolo	tagliare+lo	VERB+PRON
-taliando	tagliare	VERB
+taliandolo	taliando+lo	VERB+PRON
+taliando	taliando	VERB
 lo	lo	PRON
 fisso	fisso	ADJ
 co	co	ADP
@@ -14430,6 +14425,7 @@ attaccate	attaccare	VERB
 bandierine	bandierina	NOUN
 italiane	italiano	ADJ
 ((legge))	NVB	NVB
+'taliane	italiano	ADJ
 ((legge))	NVB	NVB
 spiegò	spiegare	VERB
 a	a	ADP

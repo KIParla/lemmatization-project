@@ -20,6 +20,8 @@ segnate con "# MODIFICA:".
   8. Lista chiara di cosa è ammesso (UPOS_AMMESSE e COMPOSTI_AMMESSI in cima al file):
      le righe con una upos o un composto non in lista, o con un campo "_", vanno nel file
      delle anomalie e NON vengono scritte nell'output (prima erano segnalate ma scritte).
+  9. Form/lemma/upos vuoti (e upos "-") vengono normalizzati a "_", quindi segnalati come
+     "campo '_' (non annotato)" invece che come upos '' non valida.
 """
 import argparse
 import csv
@@ -112,6 +114,7 @@ def estrai(nome_file_csv, file_output=None, file_anomalie=None, dir_output=DIR_O
         # N_COL fisso a 20; ora vengono lette dall'intestazione
         # posizioni delle colonne: dall'intestazione se c'è, altrimenti quelle di default
         I_TOKEN, I_FORM, I_LEMMA, I_UPOS = 0, 6, 7, 8
+        I_SPAN = None
         if salta_intestazione:
             intest = [c.strip() for c in next(lettore, [])]
             if intest and n_col_arg is None:
@@ -122,6 +125,8 @@ def estrai(nome_file_csv, file_output=None, file_anomalie=None, dir_output=DIR_O
             except ValueError:
                 raise SystemExit(f"{nome_file_csv}: nell'intestazione mancano token_id, form, "
                                  f"lemma o upos: {intest}")
+
+            I_SPAN = intest.index("span") if "span" in intest else None
 
         # tengo tutte le righe in memoria per guardare quelle successive: le parti di un
         # composto (7-5a, 7-5b) stanno nelle righe DOPO la riga del composto (7-5), e
@@ -144,6 +149,17 @@ def estrai(nome_file_csv, file_output=None, file_anomalie=None, dir_output=DIR_O
 
             form, lemma = pulisci(form), pulisci(lemma)
 
+            # MODIFICA (9): campi vuoti o con un segnaposto ("-", "–", "—") diventano "_"
+            # (= non annotato). Per form e lemma solo il campo vuoto: "-" può essere un
+            # trattino vero (punteggiatura); per la upos "-" non è mai valido.
+            if not form: form = "_"
+            # MODIFICA (10): se la form è "_" ma la colonna span ha il testo (tipico dei
+            # composti: "farteli,_,_,_"), si usa span come form
+            if form == "_" and I_SPAN is not None and campi[I_SPAN] not in ("", "_"):
+                form = pulisci(campi[I_SPAN])
+            if not lemma: lemma = "_"
+            if upos in ("", "-", "–", "—"): upos = "_"
+
             # Token composto (preposizioni articolate, verbi con clitici ecc.):
             # nel file la riga "padre" ha lemma e upos "_" e le sue parti sono scritte nelle
             # righe successive, ognuna con un proprio lemma e una propria upos, es.:
@@ -161,7 +177,7 @@ def estrai(nome_file_csv, file_output=None, file_anomalie=None, dir_output=DIR_O
             #   |              "oppure"
             # fullmatch richiede che l'INTERA form abbia questa forma, non solo una parte.
             e_nvb = bool(re.fullmatch(r"\(\(.*\)\)|\{.*\}", form))
-            if lemma == "_" and upos == "_" and not (e_pausa or e_nvb):
+            if form != "_" and lemma == "_" and upos == "_" and not (e_pausa or e_nvb):
                 lemma = form
                 upos = "COMPOSTO"
 

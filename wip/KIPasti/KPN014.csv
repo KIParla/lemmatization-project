@@ -562,9 +562,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 120-0,PKP057,120,mh,mh,mh,INTJ,_,_
 121-0,PKP060,121,duecentocinquanta,duecentocinquanta,duecentocinquanta,NUM,_,_
 121-1,PKP060,121,trecento,trecento,trecento,NUM,_,_
-121-2,PKP060,121,emme,emme,emme,NOUN,_,_
-121-3,PKP060,121,elle,elle,elle,NOUN,_,_
-122-0,PKP057,122,ve,ve,vi,x,_,_
+121-2,PKP060,121,emme,emme,M,NOUN,_,_
+121-3,PKP060,121,elle,elle,L,NOUN,_,_
+122-0,PKP057,122,ve,ve,V,NOUN,_,_
 122-1,PKP057,122,ma:,ma,ma,CCONJ,_,_
 122-2,PKP057,122,(.),(.),_,X,_,_
 122-3,PKP057,122,l',l',il,DET,_,SpaceAfter=No
@@ -1915,7 +1915,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 325-5a,_,_,_,su,su,ADP,_,_
 325-5b,_,_,_,il,il,DET,_,_
 325-6,PKP057,325,sul,sul,_,_,_,_
-325-6a,_,_,_,su,su,NOUN,_,_
+325-6a,_,_,_,su,su,ADP,_,_
 325-6b,_,_,_,il,il,DET,_,_
 325-7,PKP057,325,lì,lì,lì,ADV,_,_
 325-8,PKP057,325,((ride)),((ride)),_,X,_,_

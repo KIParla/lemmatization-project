@@ -817,6 +817,7 @@ costruire	costruire	VERB
 questa	questo	DET
 casa	casa	NOUN
 mhmh	mhmh	INTJ
+coll'	con+il	ADP+DET
 con	con	ADP
 l'	il	DET
 ide~	x	X
@@ -1284,8 +1285,7 @@ tossico	tossico	ADJ
 che	che	PRON
 cazzo	cazzo	NOUN
 vuol	volere	VERB
-di	di	ADP
-'	'	PUNCT
+di'	dire	VERB
 cioè	cioè	ADV
 l'	il	DET
 amore	amore	NOUN
@@ -2137,7 +2137,8 @@ dovrebbe	dovere	AUX
 esse'	essere	AUX
 lei	lei	PRON
 sì	sì	ADV
-fa'	fare	VERB
+fammela	fare+me+la	VERB+PRON+PRON
+fa	fare	VERB
 me	me	PRON
 la	la	PRON
 vedere	vedere	VERB
@@ -3385,8 +3386,7 @@ ma	ma	CCONJ
 che	che	DET
 cazzo	cazzo	NOUN
 vor	vor	ADJ
-di	di	ADP
-'	'	PUNCT
+di'	dire	VERB
 ora	ora	ADV
 te	te	PRON
 la	la	PRON
@@ -3546,6 +3546,7 @@ mi	mi	PRON
 ricordo	ricordare	VERB
 sì	sì	ADV
 i~	x	X
+((canta))	NVB	NVB
 io	io	PRON
 sogno	sogno	NOUN
 i	il	DET
@@ -4612,6 +4613,8 @@ no	no	ADV
 davan~	x	X
 non	non	ADV
 ho	avere	VERB
+capi~	x	X
+((ride))	NVB	NVB
 non	non	ADV
 ti	ti	PRON
 faccio	fare	VERB

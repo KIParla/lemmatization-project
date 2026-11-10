@@ -818,7 +818,7 @@
 125-7,PKP028,125,questa,questa,questo,DET,_
 125-8,PKP028,125,casa::,casa,casa,NOUN,_
 126-0,PKP027,126,mhmh,mhmh,mhmh,INTJ,_
-127-0,PKP028,127,coll',_,_,_,SpaceAfter=No
+127-0,PKP028,127,coll',coll',_,_,SpaceAfter=No
 127-0a,_,_,_,con,con,ADP,
 127-0b,_,_,_,l',il,DET,
 127-1,PKP028,127,ide~,ide~,x,X,Interrupted=Yes
@@ -1286,9 +1286,7 @@
 183-16,PKP027,183,che,che,che,PRON,_
 183-17,PKP027,183,cazzo,cazzo,cazzo,NOUN,_
 183-18,PKP027,183,vuol,vuol,volere,VERB,_
-183-19,PKP027,183,di',di',_,_,Truncated=Yes
-183-19a,_,_,_,di,di,ADP,_
-183-19b,_,_,_,',',PUNCT,_
+183-19,PKP027,183,di',di',dire,VERB,Truncated=Yes
 184-0,PKP027,184,cioè,cioè,cioè,ADV,_
 184-1,PKP027,184,l',l',il,DET,SpaceAfter=No
 184-2,PKP027,184,amore,amore,amore,NOUN,_
@@ -2140,10 +2138,10 @@
 305-1,PKP028,305,esse',esse',essere,AUX,Truncated=Yes
 305-2,PKP028,305,lei,lei,lei,PRON,_
 305-3,PKP028,305,sì,sì,sì,ADV,_
-306-0,PKP028,306,>fammela,_,_,_,_
-306-0a,_,_,_,fa',fare,VERB,
-306-0b,_,_,_,me,me,PRON,
-306-0c,_,_,_,la,la,PRON,
+306-0,PKP028,306,>fammela,fammela,_,_,_
+306-0a,_,_,_,fa,fare,VERB,_
+306-0b,_,_,_,me,me,PRON,_
+306-0c,_,_,_,la,la,PRON,_
 306-1,PKP028,306,vedere<,vedere,vedere,VERB,_
 307-0,PKP027,307,sì:,sì,sì,ADV,_
 307-1,PKP027,307,sì,sì,sì,ADV,_
@@ -3389,9 +3387,7 @@
 509-1,PKP027,509,che,che,che,DET,_
 509-2,PKP027,509,cazzo,cazzo,cazzo,NOUN,_
 509-3,PKP027,509,vor,vor,vor,ADJ,_
-509-4,PKP027,509,di',di',_,_,Truncated=Yes
-509-4a,_,_,_,di,di,ADP,_
-509-4b,_,_,_,',',PUNCT,_
+509-4,PKP027,509,di',di',dire,VERB,Truncated=Yes
 510-0,PKP028,510,ora,ora,ora,ADV,_
 510-1,PKP028,510,te,te,te,PRON,_
 510-2,PKP028,510,la,la,la,PRON,_
@@ -3551,7 +3547,7 @@
 539-7,PKP027,539,ricordo<,ricordo,ricordare,VERB,_
 540-0,PKP028,540,sì,sì,sì,ADV,_
 540-1,PKP028,540,[i~],i~,x,X,Interrupted=Yes
-541-0,PKP027,541,{canta),{canta,_,_,_
+541-0,PKP027,541,((canta)),((canta)),((canta)),NVB,_
 541-1,PKP027,541,>io,io,io,PRON,_
 541-2,PKP027,541,sogno,sogno,sogno,NOUN,_
 541-3,PKP027,541,i,i,il,DET,_
@@ -4618,7 +4614,8 @@
 713-0,PKP028,713,davan~,davan~,x,X,Interrupted=Yes
 714-0,PKP028,714,°non,non,non,ADV,Volume=low
 714-1,PKP028,714,ho,ho,avere,VERB,Volume=low
-714-2,PKP028,714,capi~°{ride},capi~{ride},_,_,Volume=low
+714-2,PKP028,714,capi~°,capi~,x,X,Volume=low
+714-3,PKP028,714,((ride)),((ride)),((ride)),NVB,Volume=low
 715-0,PKP027,715,non,non,non,ADV,_
 715-1,PKP027,715,ti,ti,ti,PRON,_
 715-2,PKP027,715,faccio,faccio,fare,VERB,_
