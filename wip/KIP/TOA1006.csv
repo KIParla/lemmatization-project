@@ -37,7 +37,7 @@
 8-9     , TO074  , 10   , usi:                  , usi                   , uso                  , NOUN , ProsodicLink=Yes
 8-10    , TO074  , 11   , il                    , il                    , il                   , DET  , _
 9-0     , TO078  , 1    , registra[tore         , registratore          , registratore         , NOUN , _
-9-1     , TO078  , 2    , (.)                   , (.)                   , _                    , _    , _
+9-1     , TO078  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 9-2     , TO078  , 3    , quello                , quello                , quello               , PRON , _
 9-3     , TO078  , 4    , c'                    , c'                    , ci                   , PRON , SpaceAfter=No
 9-4     , TO078  , 5    , è                     , è                     , essere               , VERB , _
@@ -68,7 +68,7 @@
 16-3    , TO078  , 4    , non                   , non                   , non                  , ADV  , _
 16-4    , TO078  , 5    , si                    , si                    , si                   , PRON , _
 16-5    , TO078  , 6    , blocca:               , blocca                , bloccare             , VERB , _
-16-6    , TO078  , 7    , (.)                   , (.)                   , _                    , _    , _
+16-6    , TO078  , 7    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 16-7    , TO078  , 8    , eh                    , eh                    , eh                   , INTJ , _
 16-8    , TO078  , 9    , perché                , perché                , perché               , SCONJ, _
 16-9    , TO078  , 10   , ormai                 , ormai                 , ormai                , ADV  , _
@@ -112,7 +112,7 @@
 23-5    , TO078  , 6    , rimessa               , rimessa               , rimettere            , VERB , _
 23-6    , TO078  , 7    , a                     , a                     , a                    , ADP  , _
 23-7    , TO078  , 8    , posto                 , posto                 , posto                , NOUN , _
-23-8    , TO078  , 9    , (.)                   , (.)                   , _                    , _    , _
+23-8    , TO078  , 9    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 23-9    , TO078  , 10   , per                   , per                   , per                  , ADP  , _
 23-10   , TO078  , 11   , andare                , andare                , andare               , VERB , _
 23-11   , TO078  , 12   , "avanti,"             , avanti                , avanti               , ADV  , Intonation=weakly_rising
@@ -134,7 +134,7 @@
 28-3    , TO078  , 4    , scritto               , scritto               , scrivere             , VERB , _
 28-4    , TO078  , 5    , che                   , che                   , che                  , SCONJ, _
 28-5    , TO078  , 6    , dovevo                , dovevo                , dovere               , AUX  , _
-28-6    , TO078  , 7    , (.)                   , (.)                   , _                    , _    , _
+28-6    , TO078  , 7    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 28-7    , TO078  , 8    , indicare              , indicare              , indicare             , VERB , _
 28-8    , TO078  , 9    , la                    , la                    , il                   , DET  , _
 28-9    , TO078  , 10   , pagina                , pagina                , pagina               , NOUN , _
@@ -142,11 +142,11 @@
 28-11   , TO078  , 12   , andata                , andata                , andare               , VERB , _
 28-12   , TO078  , 13   , a                     , a                     , a                    , ADP  , _
 28-13   , TO078  , 14   , ricercarmelo          , ricercarmelo          , _                    , _    , _
-28-13a  , _      ,      , _                     , ricercar              , ricercare            , VERB , 
-28-13b  , _      ,      , _                     , me                    , me                   , PRON , 
-28-13c  , _      ,      , _                     , lo                    , lo                   , PRON , 
+28-13a  , _      ,      , _                     , ricercar              , ricercare            , VERB ,
+28-13b  , _      ,      , _                     , me                    , me                   , PRON ,
+28-13c  , _      ,      , _                     , lo                    , lo                   , PRON ,
 28-14   , TO078  , 15   , perché                , perché                , perché               , SCONJ, _
-28-15   , TO078  , 16   , (.)                   , (.)                   , _                    , _    , _
+28-15   , TO078  , 16   , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 28-16   , TO078  , 17   , mi                    , mi                    , mi                   , PRON , _
 28-17   , TO078  , 18   , ero                   , ero                   , essere               , AUX  , _
 28-18   , TO078  , 19   , proprio               , proprio               , proprio              , ADV  , _
@@ -216,7 +216,7 @@
 39-5    , TO078  , 6    , parte                 , parte                 , parte                , NOUN , _
 39-6    , TO078  , 7    , proprio               , proprio               , proprio              , ADV  , _
 39-7    , TO078  , 8    , una                   , una                   , uno                  , DET  , _
-39-8    , TO078  , 9    , (.)                   , (.)                   , _                    , _    , _
+39-8    , TO078  , 9    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 39-9    , TO078  , 10   , piccola               , piccola               , piccolo              , ADJ  , _
 39-10   , TO078  , 11   , "[digre]ss[ione],"    , digressione           , digressione          , NOUN , Intonation=weakly_rising
 40-0    , TO074  , 1    , [sì].                 , sì                    , sì                   , ADV  , Intonation=falling
@@ -251,7 +251,7 @@
 44-0    , TO078  , 1    , sì                    , sì                    , sì                   , ADV  , _
 45-0    , TO074  , 1    , cioè                  , cioè                  , cioè                 , CCONJ, _
 45-1    , TO074  , 2    , questo                , questo                , questo               , PRON , _
-45-2    , TO074  , 3    , (.)                   , (.)                   , _                    , _    , _
+45-2    , TO074  , 3    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 45-3    , TO074  , 4    , io                    , io                    , io                   , PRON , _
 45-4    , TO074  , 5    , non                   , non                   , non                  , ADV  , _
 45-5    , TO074  , 6    , sono                  , sono                  , essere               , AUX  , _
@@ -331,8 +331,8 @@
 59-8    , TO074  , 9    , stiamo                , stiamo                , stare                , VERB , _
 59-9    , TO074  , 10   , a                     , a                     , a                    , ADP  , _
 59-10   , TO074  , 11   , discuterne.           , discuterne            , _                    , _    , Intonation=falling
-59-10a  , _      ,      , _                     , discuter              , discutere            , VERB , 
-59-10b  , _      ,      , _                     , ne                    , ne                   , PRON , 
+59-10a  , _      ,      , _                     , discuter              , discutere            , VERB ,
+59-10b  , _      ,      , _                     , ne                    , ne                   , PRON ,
 59-11   , TO074  , 12   , l'                    , l'                    , il                   , DET  , SpaceAfter=No
 59-12   , TO074  , 13   , islam                 , islam                 , islam                , NOUN , _
 59-13   , TO074  , 14   , africano              , africano              , africano             , ADJ  , _
@@ -342,16 +342,16 @@
 60-3    , TO074  , 4    , almeno                , almeno                , almeno               , ADV  , _
 60-4    , TO074  , 5    , "tradizionalmente,"   , tradizionalmente      , tradizionalmente     , ADV  , Intonation=weakly_rising
 61-0    , TO074  , 1    , era                   , era                   , essere               , AUX  , _
-61-1    , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+61-1    , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 61-2    , TO074  , 3    , molto                 , molto                 , molto                , ADV  , _
 61-3    , TO074  , 4    , influenzato           , influenzato           , influenzato          , ADJ  , _
-61-4    , TO074  , 5    , (.)                   , (.)                   , _                    , _    , _
+61-4    , TO074  , 5    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 61-5    , TO074  , 6-7  , "dalle,"              , dalle                 , _                    , _    , Intonation=weakly_rising
 61-5a   , _      , 6    , _                     , da                    , da                   , ADP  , _
 61-5b   , _      , 7    , _                     , le                    , il                   , DET  , _
 62-0    , TO074  , 1    , concezioni            , concezioni            , concezione           , NOUN , _
 62-1    , TO074  , 2    , invece                , invece                , invece               , ADV  , _
-62-2    , TO074  , 3    , (.)                   , (.)                   , _                    , _    , _
+62-2    , TO074  , 3    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 62-3    , TO074  , 4-5  , dalle                 , dalle                 , _                    , _    , _
 62-3a   , _      , 4    , _                     , da                    , da                   , ADP  , _
 62-3b   , _      , 5    , _                     , le                    , il                   , DET  , _
@@ -367,7 +367,7 @@
 62-9    , TO074  , 13   , "religiosità,"        , religiosità           , religiosità          , NOUN , Intonation=weakly_rising
 63-0    , TO074  , 1    , nativa                , nativa                , nativo               , ADJ  , _
 63-1    , TO074  , 2    , indigena.             , indigena              , indigeno             , ADJ  , Intonation=falling
-63-2    , TO074  , 3    , (.)                   , (.)                   , _                    , _    , _
+63-2    , TO074  , 3    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 63-3    , TO074  , 4    , [no]?                 , no                    , no                   , ADV  , Intonation=rising
 64-0    , TO078  , 1    , [mh].                 , mh                    , mh                   , INTJ , Intonation=falling
 65-0    , TO078  , 1    , sì.                   , sì                    , sì                   , ADV  , Intonation=falling
@@ -375,13 +375,13 @@
 66-1    , TO074  , 2    , islam                 , islam                 , islam                , NOUN , _
 66-2    , TO074  , 3    , è                     , è                     , essere               , AUX  , _
 66-3    , TO074  , 4    , arrivato              , arrivato              , arrivare             , VERB , _
-66-4    , TO074  , 5    , (.)                   , (.)                   , _                    , _    , _
+66-4    , TO074  , 5    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 66-5    , TO074  , 6-7  , nel                   , nel                   , _                    , _    , _
 66-5a   , _      , 6    , _                     , in                    , in                   , ADP  , _
 66-5b   , _      , 7    , _                     , il                    , il                   , DET  , _
 66-6    , TO074  , 8    , senegal               , senegal               , Senegal              , PROPN, _
 67-0    , TO074  , 1    , ah                    , ah                    , ah                   , INTJ , _
-67-1    , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+67-1    , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 67-2    , TO074  , 3-4  , nel                   , nel                   , _                    , _    , _
 67-2a   , _      , 3    , _                     , in                    , in                   , ADP  , _
 67-2b   , _      , 4    , _                     , il                    , il                   , DET  , _
@@ -412,7 +412,7 @@
 69-14   , TO074  , 15   , cui                   , cui                   , cui                  , PRON , _
 70-0    , TO074  , 1    , era                   , era                   , essere               , AUX  , _
 70-1    , TO074  , 2    , fondamentale          , fondamentale          , fondamentale         , ADJ  , _
-70-2    , TO074  , 3    , (.)                   , (.)                   , _                    , _    , _
+70-2    , TO074  , 3    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 70-3    , TO074  , 4    , e::h                  , eh                    , eh                   , INTJ , _
 70-4    , TO074  , 5    , la                    , la                    , il                   , DET  , _
 70-5    , TO074  , 6    , venerazione           , venerazione           , venerazione          , NOUN , _
@@ -428,9 +428,9 @@
 73-0    , TO074  , 1    , un                    , un                    , uno                  , DET  , _
 73-1    , TO074  , 2    , mondo                 , mondo                 , mondo                , NOUN , _
 73-2    , TO074  , 3    , invisibile            , invisibile            , invisibile           , ADJ  , _
-73-3    , TO074  , 4    , (.)                   , (.)                   , _                    , _    , _
+73-3    , TO074  , 4    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 73-4    , TO074  , 5    , che:                  , che                   , che                  , PRON , _
-73-5    , TO074  , 6    , (.)                   , (.)                   , _                    , _    , _
+73-5    , TO074  , 6    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 73-6    , TO074  , 7    , mh                    , mh                    , mh                   , INTJ , _
 73-7    , TO074  , 8    , è                     , è                     , essere               , AUX  , _
 73-8    , TO074  , 9    , legato                , legato                , legato               , ADJ  , _
@@ -483,7 +483,7 @@
 79-4    , TO074  , 5    , lavori                , lavori                , lavoro               , NOUN , _
 79-5    , TO074  , 6    , ne~                   , ne~                   , x                    , X    , Interrupted=Yes
 80-0    , TO074  , 1    , perché                , perché                , perché               , SCONJ, _
-80-1    , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+80-1    , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 80-2    , TO074  , 3    , ci                    , ci                    , ci                   , PRON , _
 80-3    , TO074  , 4    , sono                  , sono                  , essere               , VERB , _
 80-4    , TO074  , 5    , queste                , queste                , questo               , DET  , _
@@ -547,17 +547,17 @@
 91-2    , TO074  , 4    , islam                 , islam                 , islam                , NOUN , _
 91-3    , TO074  , 5    , "scritturale,"        , scritturale           , scritturale          , ADJ  , Intonation=weakly_rising
 91-4    , TO074  , 6    , quello                , quello                , quello               , PRON , _
-91-5    , TO074  , 7    , (.)                   , (.)                   , _                    , _    , _
+91-5    , TO074  , 7    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 91-6    , TO074  , 8    , più                   , più                   , più                  , ADV  , _
 91-7    , TO074  , 9    , e::hm                 , ehm                   , ehm                  , INTJ , _
 91-8    , TO074  , 10   , "ufficiale,"          , ufficiale             , ufficiale            , ADJ  , Intonation=weakly_rising
 91-9    , TO074  , 11   , "dogmatico,"          , dogmatico             , dogmatico            , ADJ  , Intonation=weakly_rising
-91-10   , TO074  , 12   , (.)                   , (.)                   , _                    , _    , _
+91-10   , TO074  , 12   , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 91-11   , TO074  , 13   , basato                , basato                , basato               , ADJ  , _
 91-12   , TO074  , 14-15, sulla                 , sulla                 , _                    , _    , _
 91-12a  , _      , 14   , _                     , su                    , su                   , ADP  , _
 91-12b  , _      , 15   , _                     , la                    , il                   , DET  , _
-91-13   , TO074  , 16   , (.)                   , (.)                   , _                    , _    , _
+91-13   , TO074  , 16   , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 91-14   , TO074  , 17   , parola                , parola                , parola               , NOUN , _
 91-15   , TO074  , 18-19, del                   , del                   , _                    , _    , _
 91-15a  , _      , 18   , _                     , di                    , di                   , ADP  , _
@@ -864,14 +864,14 @@
 133-0   , TO074  , 1    , [eh                   , eh                    , eh                   , INTJ , _
 133-1   , TO074  , 2    , no].                  , no                    , no                   , ADV  , Intonation=falling
 134-0   , TO074  , 1    , [se                   , se                    , se                   , SCONJ, _
-134-1   , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+134-1   , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 134-2   , TO074  , 3    , perché                , perché                , perché               , SCONJ, _
 134-3   , TO074  , 4    , xx]                   , x                     , x                    , X    , _
 134-4   , TO074  , 5    , parla                 , parla                 , parlare              , VERB , _
 134-5   , TO074  , 6    , di                    , di                    , di                   , ADP  , _
 134-6   , TO074  , 7    , questo?               , questo                , questo               , DET  , Intonation=rising
 135-0   , TO078  , 1    , [perché               , perché                , perché               , SCONJ, _
-135-1   , TO078  , 2    , (.)                   , (.)                   , _                    , _    , _
+135-1   , TO078  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 135-2   , TO078  , 3    , >allora<]             , allora                , allora               , ADV  , _
 136-0   , TO078  , 1    , s::~                  , s~                    , x                    , X    , Interrupted=Yes
 136-1   , TO078  , 2    , [allora               , allora                , allora               , ADV  , _
@@ -1021,7 +1021,7 @@
 160-4   , TO074  , 5    , realtà                , realtà                , realtà               , NOUN , _
 161-0   , TO074  , 1    , la                    , la                    , il                   , DET  , _
 161-1   , TO074  , 2    , concezione            , concezione            , concezione           , NOUN , _
-161-2   , TO074  , 3    , (.)                   , (.)                   , _                    , _    , _
+161-2   , TO074  , 3    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 161-3   , TO074  , 4    , prevalente            , prevalente            , prevalente           , ADJ  , _
 161-4   , TO074  , 5    , è                     , è                     , essere               , AUX  , _
 161-5   , TO074  , 6    , ancora                , ancora                , ancora               , ADV  , _
@@ -1121,7 +1121,7 @@
 173-4   , TO074  , 5    , se                    , se                    , se                   , SCONJ, _
 173-5   , TO074  , 6    , no                    , no                    , no                   , ADV  , _
 173-6   , TO074  , 7    , risulta               , risulta               , risultare            , VERB , _
-173-7   , TO074  , 8    , (.)                   , (.)                   , _                    , _    , _
+173-7   , TO074  , 8    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 173-8   , TO074  , 9    , cer~]                 , cer~                  , x                    , X    , Interrupted=Yes
 174-0   , TO074  , 1    , [certo                , certo                 , certo                , ADJ  , _
 174-1   , TO074  , 2    , certo]                , certo                 , certo                , ADJ  , _
@@ -1305,7 +1305,7 @@
 205-0   , TO074  , 1    , gli                   , gli                   , il                   , DET  , _
 205-1   , TO074  , 2    , x                     , x                     , x                    , X    , _
 206-0   , TO074  , 1    , ah                    , ah                    , ah                   , INTJ , _
-206-1   , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+206-1   , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 206-2   , TO074  , 3    , i                     , i                     , il                   , DET  , _
 206-3   , TO074  , 4    , geni                  , geni                  , gene                 , NOUN , _
 207-0   , TO074  , 1    , che:                  , che                   , che                  , PRON , _
@@ -1326,11 +1326,11 @@
 210-6   , TO074  , 7    , esistono              , esistono              , esistere             , VERB , _
 210-7   , TO074  , 8    , diverse               , diverse               , diverso              , ADJ  , _
 211-0   , TO074  , 1    , e~                    , e~                    , x                    , X    , Interrupted=Yes
-211-1   , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+211-1   , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 211-2   , TO074  , 3    , lin~                  , lin~                  , x                    , X    , Interrupted=Yes
 211-4   , TO074  , 5    , linee                 , linee                 , linea                , NOUN , _
 212-0   , TO074  , 1    , famiglie              , famiglie              , famiglia             , NOUN , _
-212-1   , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+212-1   , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 212-2   , TO074  , 3    , di                    , di                    , di                   , ADP  , _
 212-3   , TO074  , 4    , jinn                  , jinn                  , jinn                 , NOUN , Lang=ara
 213-0   , TO074  , 1    , >ci                   , ci                    , ci                   , PRON , _
@@ -1398,7 +1398,7 @@
 220-2   , TO074  , 3    , è                     , è                     , essere               , AUX  , _
 220-3   , TO074  , 4    , la                    , la                    , il                   , DET  , _
 220-4   , TO074  , 5    , concezione            , concezione            , concezione           , NOUN , _
-220-5   , TO074  , 6    , (.)                   , (.)                   , _                    , _    , _
+220-5   , TO074  , 6    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 220-6   , TO074  , 7    , di                    , di                    , di                   , ADP  , _
 220-7   , TO074  , 8    , malattia              , malattia              , malattia             , NOUN , _
 220-8   , TO074  , 9    , mentale               , mentale               , mentale              , ADJ  , _
@@ -1423,7 +1423,7 @@
 223-8   , TO074  , 9    , arabo                 , arabo                 , arabo                , NOUN , _
 224-0   , TO074  , 1    , (masnun)              , masnun                , masnun               , ADJ  , Lang=ara
 225-0   , TO074  , 1    , posseduti             , posseduti             , posseduto            , ADJ  , _
-225-1   , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+225-1   , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 225-2   , TO074  , 3-4  , dal:                  , dal                   , _                    , _    , _
 225-2a  , _      , 3    , _                     , da                    , da                   , ADP  , _
 225-2b  , _      , 4    , _                     , il                    , il                   , DET  , _
@@ -1522,7 +1522,7 @@
 240-12  , TO074  , 13   , paradiso              , paradiso              , paradiso             , NOUN , _
 240-13  , TO074  , 14   , l'                    , l'                    , il                   , DET  , Truncated=Yes
 240-14  , TO074  , 15   , aldilà                , aldilà                , aldilà               , NOUN , _
-240-15  , TO074  , 16   , (.)                   , (.)                   , _                    , _    , _
+240-15  , TO074  , 16   , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 240-16  , TO074  , 17   , no?                   , no                    , no                   , ADV  , Intonation=rising
 241-0   , TO074  , 1    , perché                , perché                , perché               , SCONJ, _
 241-1   , TO074  , 2    , è                     , è                     , essere               , VERB , _
@@ -1574,7 +1574,7 @@
 246-2   , TO074  , 3    , concezione            , concezione            , concezione           , NOUN , _
 246-3   , TO074  , 4    , cattolica             , cattolica             , cattolico            , ADJ  , _
 247-0   , TO074  , 1    , perché                , perché                , perché               , SCONJ, _
-247-1   , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+247-1   , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 247-2   , TO074  , 3    , deve                  , deve                  , dovere               , AUX  , _
 247-3   , TO074  , 4-5  , esserci               , esserci               , _                    , _    , _
 247-3a  , _      , 4    , _                     , esser                 , essere               , VERB , _
@@ -1735,7 +1735,7 @@
 267-10  , TO074  , 13-14, (al)                  , al                    , _                    , _    , _
 267-10a , _      , 13   , _                     , a                     , a                    , ADP  , _
 267-10b , _      , 14   , _                     , il                    , il                   , DET  , _
-267-11  , TO074  , 15   , (.)                   , (.)                   , _                    , _    , _
+267-11  , TO074  , 15   , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 267-12  , TO074  , 16   , purgatorio            , purgatorio            , purgatorio           , NOUN , _
 268-0   , TO074  , 1    , a                     , a                     , a                    , ADP  , _
 268-1   , TO074  , 2    , napoli                , napoli                , Napoli               , PROPN, _
@@ -1743,7 +1743,7 @@
 268-3   , TO074  , 4    , ma                    , ma                    , ma                   , CCONJ, _
 269-0   , TO078  , 1    , ah                    , ah                    , ah                   , INTJ , _
 269-1   , TO078  , 2    , sì                    , sì                    , sì                   , ADV  , _
-269-2   , TO078  , 3    , (.)                   , (.)                   , _                    , _    , _
+269-2   , TO078  , 3    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 269-3   , TO078  , 4    , [non                  , non                   , non                  , ADV  , _
 269-4   , TO078  , 5    , sapevo]               , sapevo                , sapere               , VERB , _
 270-0   , TO074  , 1    , [a                    , a                     , a                    , ADP  , _
@@ -1799,7 +1799,7 @@
 280-0   , TO078  , 1    , (non)                 , non                   , non                  , ADV  , _
 280-1   , TO078  , 2    , sono                  , sono                  , essere               , AUX  , _
 280-2   , TO078  , 3    , molto:                , molto                 , molto                , ADV  , _
-280-3   , TO078  , 4    , (.)                   , (.)                   , _                    , _    , _
+280-3   , TO078  , 4    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 280-4   , TO078  , 5    , ferrata               , ferrata               , ferrato              , ADJ  , _
 280-5   , TO078  , 6    , [in                   , in                    , in                   , ADP  , _
 280-6   , TO078  , 7    , (una)                 , una                   , uno                  , DET  , _
@@ -1809,14 +1809,14 @@
 281-0   , TO074  , 1    , [no                   , no                    , no                   , ADV  , _
 281-1   , TO074  , 2    , certo                 , certo                 , certo                , ADJ  , _
 281-2   , TO074  , 3    , però]                 , però                  , però                 , ADV  , _
-281-3   , TO074  , 4    , (.)                   , (.)                   , _                    , _    , _
+281-3   , TO074  , 4    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 281-4   , TO074  , 5    , sto                   , sto                   , stare                , VERB , _
 281-5   , TO074  , 6    , solo                  , solo                  , solo                 , ADV  , _
 281-6   , TO074  , 7    , dice~                 , dice~                 , x                    , X    , Interrupted=Yes
 281-7   , TO074  , 8    , questo                , questo                , questo               , PRON , _
 281-8   , TO074  , 9    , deve                  , deve                  , dovere               , AUX  , _
 281-9   , TO074  , 10   , chiarire              , chiarire              , chiarire             , VERB , _
-281-10  , TO074  , 11   , (.)                   , (.)                   , _                    , _    , _
+281-10  , TO074  , 11   , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 281-11  , TO074  , 12   , [questo               , questo                , questo               , DET  , _
 281-12  , TO074  , 13   , pun]to                , punto                 , punto                , NOUN , _
 281-13  , TO074  , 14   , qua                   , qua                   , qua                  , ADV  , _
@@ -1927,7 +1927,7 @@
 301-0   , TO074  , 1    , però                  , però                  , però                 , ADV  , _
 302-0   , TO074  , 1    , un'                   , un'                   , uno                  , DET  , Truncated=Yes
 302-1   , TO074  , 2    , idea                  , idea                  , idea                 , NOUN , _
-302-2   , TO074  , 3    , (.)                   , (.)                   , _                    , _    , _
+302-2   , TO074  , 3    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 302-3   , TO074  , 4    , un                    , un                    , uno                  , DET  , _
 302-4   , TO074  , 5    , articolo              , articolo              , articolo             , NOUN , _
 303-0   , TO074  , 1    , un                    , un                    , uno                  , DET  , _
@@ -1938,7 +1938,7 @@
 303-5   , TO074  , 6    , articolo              , articolo              , articolo             , NOUN , _
 304-0   , TO074  , 1    , un'                   , un'                   , uno                  , DET  , Truncated=Yes
 304-1   , TO074  , 2    , altra:                , altra                 , altro                , ADJ  , _
-304-2   , TO074  , 3    , (.)                   , (.)                   , _                    , _    , _
+304-2   , TO074  , 3    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 304-3   , TO074  , 4    , spunto                , spunto                , spunto               , NOUN , _
 304-4   , TO074  , 5    , "teorico,"            , teorico               , teorico              , ADJ  , Intonation=weakly_rising
 304-5   , TO074  , 6    , un                    , un                    , uno                  , DET  , _
@@ -1971,10 +1971,10 @@
 310-1   , TO074  , 2    , possono               , possono               , potere               , AUX  , _
 310-2   , TO074  , 3    , affrontare            , affrontare            , affrontare           , VERB , _
 310-3   , TO074  , 4    , anche                 , anche                 , anche                , ADV  , _
-310-4   , TO074  , 5    , (.)                   , (.)                   , _                    , _    , _
+310-4   , TO074  , 5    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 310-5   , TO074  , 6    , temi                  , temi                  , tema                 , NOUN , _
 310-6   , TO074  , 7    , prospettive           , prospettive           , prospettiva          , NOUN , _
-310-7   , TO074  , 8    , (.)                   , (.)                   , _                    , _    , _
+310-7   , TO074  , 8    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 310-8   , TO074  , 9    , differenti            , differenti            , differente           , ADJ  , _
 311-0   , TO074  , 1    , mh?                   , mh                    , mh                   , INTJ , Intonation=rising
 312-0   , TO078  , 1    , okay                  , okay                  , okay                 , INTJ , _
@@ -2006,13 +2006,13 @@
 316-4a  , _      , 5    , _                     , di                    , di                   , ADP  , _
 316-4b  , _      , 6    , _                     , i                     , il                   , DET  , _
 316-5   , TO074  , 7    , bambini               , bambini               , bambino              , NOUN , _
-316-6   , TO074  , 8    , (.)                   , (.)                   , _                    , _    , _
+316-6   , TO074  , 8    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 316-7   , TO074  , 9    , e                     , e                     , e                    , CCONJ, _
 316-8   , TO074  , 10-11, della:                , della                 , _                    , _    , _
 316-8a  , _      , 10   , _                     , di                    , di                   , ADP  , _
 316-8b  , _      , 11   , _                     , la                    , il                   , DET  , _
 317-0   , TO074  , 1    , diversità             , diversità             , diversità            , NOUN , _
-317-1   , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+317-1   , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 317-2   , TO074  , 3    , non                   , non                   , non                  , ADV  , _
 317-3   , TO074  , 4    , in                    , in                    , in                   , ADP  , _
 317-4   , TO074  , 5    , generale              , generale              , generale             , ADJ  , _
@@ -2109,7 +2109,7 @@
 334-3   , TO078  , 4    , scritto               , scritto               , scrivere             , VERB , _
 334-4   , TO078  , 5    , di                    , di                    , di                   , ADP  , _
 334-5   , TO078  , 6    , collegare::           , collegare             , collegare            , VERB , _
-334-6   , TO078  , 7    , (.)                   , (.)                   , _                    , _    , _
+334-6   , TO078  , 7    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 334-7   , TO078  , 8    , [le                   , le                    , il                   , DET  , _
 334-8   , TO078  , 9    , due                   , due                   , due                  , NUM  , _
 334-9   , TO078  , 10   , parti]                , parti                 , parte                , NOUN , _
@@ -2159,7 +2159,7 @@
 337-6   , TO074  , 7    , fa]re                 , fare                  , fare                 , VERB , _
 337-7   , TO074  , 8    , attenzione            , attenzione            , attenzione           , NOUN , _
 338-0   , TO078  , 1    , [x                    , x                     , x                    , X    , _
-338-1   , TO078  , 2    , (.)                   , (.)                   , _                    , _    , _
+338-1   , TO078  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 338-2   , TO078  , 3    , sì]                   , sì                    , sì                   , ADV  , _
 339-0   , TO074  , 1-2  , [al                   , al                    , _                    , _    , _
 339-0a  , _      , 1    , _                     , a                     , a                    , ADP  , _
@@ -2361,7 +2361,7 @@
 368-4   , TO074  , 5    , a                     , a                     , a                    , ADP  , _
 368-5   , TO074  , 6    , scrivere              , scrivere              , scrivere             , VERB , _
 368-6   , TO074  , 7    , libri                 , libri                 , libro                , NOUN , _
-368-7   , TO074  , 8    , (.)                   , (.)                   , _                    , _    , _
+368-7   , TO074  , 8    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 368-8   , TO074  , 9    , anche                 , anche                 , anche                , ADV  , _
 369-0   , TO074  , 1    , in                    , in                    , in                   , ADP  , _
 369-1   , TO074  , 2    , teoria                , teoria                , teoria               , NOUN , _
@@ -2381,7 +2381,7 @@
 372-2   , TO074  , 3    , e                     , e                     , e                    , CCONJ, _
 372-3   , TO074  , 4    , mezza                 , mezza                 , mezzo                , ADJ  , _
 373-0   , TO074  , 1    , "introduzione,"       , introduzione          , introduzione         , NOUN , Intonation=weakly_rising
-373-1   , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+373-1   , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 373-2   , TO074  , 3    , una                   , una                   , uno                  , DET  , _
 373-3   , TO074  , 4    , pagina                , pagina                , pagina               , NOUN , _
 373-4   , TO074  , 5    , e                     , e                     , e                    , CCONJ, _
@@ -2515,7 +2515,7 @@
 402-2   , TO078  , 3    , compresa::            , compresa              , comprendere          , VERB , _
 402-3   , TO078  , 4    , la                    , la                    , il                   , DET  , _
 402-4   , TO078  , 5    , la                    , la                    , il                   , DET  , _
-402-5   , TO078  , 6    , (.)                   , (.)                   , _                    , _    , _
+402-5   , TO078  , 6    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 402-6   , TO078  , 7    , [pri~]                , pri~                  , x                    , X    , Interrupted=Yes
 403-0   , TO074  , 1    , [ah                   , ah                    , ah                   , INTJ , _
 403-1   , TO074  , 2    , no                    , no                    , no                   , ADV  , _
@@ -2616,7 +2616,7 @@
 420-3   , TO074  , 5    , cinquantamila         , cinquantamila         , cinquantamila        , NUM  , _
 420-4   , TO074  , 6    , sì]                   , sì                    , sì                   , ADV  , _
 421-0   , TO078  , 1    , [cinquantamila        , cinquantamila         , cinquantamila        , NUM  , _
-421-1   , TO078  , 2    , (.)                   , (.)                   , _                    , _    , _
+421-1   , TO078  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 421-2   , TO078  , 3    , okay]                 , okay                  , okay                 , INTJ , _
 422-0   , TO074  , 1    , va                    , va                    , andare               , VERB , _
 422-1   , TO074  , 2    , bene?                 , bene                  , bene                 , ADV  , Intonation=rising
@@ -2663,7 +2663,7 @@
 432-2   , TO074  , 4    , vede~                 , vede~                 , x                    , X    , Interrupted=Yes
 432-3   , TO074  , 5    , aspetti]              , aspetti               , aspettare            , VERB , _
 433-0   , TO074  , 1    , ecco                  , ecco                  , ecco                 , ADV  , _
-433-1   , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+433-1   , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 433-2   , TO074  , 3    , deve?                 , deve                  , dovere               , AUX  , Intonation=rising
 434-0   , TO074  , 1    , una                   , una                   , uno                  , DET  , _
 434-1   , TO074  , 2    , curiosità             , curiosità             , curiosità            , NOUN , _
@@ -2760,7 +2760,7 @@
 446-9   , TO074  , 10   , corsivo?              , corsivo               , corsivo              , NOUN , Intonation=rising
 447-0   , TO078  , 1    , [no                   , no                    , no                   , ADV  , _
 447-1   , TO078  , 2    , infatti               , infatti               , infatti              , ADV  , _
-447-2   , TO078  , 3    , (.)                   , (.)                   , _                    , _    , _
+447-2   , TO078  , 3    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 447-3   , TO078  , 4    , giusto]               , giusto                , giusto               , ADJ  , _
 448-0   , TO074  , 1    , i                     , i                     , il                   , DET  , _
 448-1   , TO074  , 2    , "libri,"              , libri                 , libro                , NOUN , Intonation=weakly_rising
@@ -2790,7 +2790,7 @@
 450-1   , TO074  , 2    , xxx                   , x                     , x                    , X    , _
 450-2   , TO074  , 3    , (interessante)        , interessante          , interessante         , ADJ  , _
 451-0   , TO074  , 1    , QUA                   , qua                   , qua                  , ADV  , Volume=high
-451-1   , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+451-1   , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 451-2   , TO074  , 3    , una                   , una                   , uno                  , DET  , _
 451-3   , TO074  , 4    , frase                 , frase                 , frase                , NOUN , _
 451-4   , TO074  , 5    , così                  , così                  , così                 , ADV  , _
@@ -3076,7 +3076,7 @@
 501-10  , TO074  , 11   , abbastanza            , abbastanza            , abbastanza           , ADV  , _
 501-11  , TO074  , 12   , famoso                , famoso                , famoso               , ADJ  , _
 502-0   , TO078  , 1    , [no                   , no                    , no                   , ADV  , _
-502-1   , TO078  , 2    , (.)                   , (.)                   , _                    , _    , _
+502-1   , TO078  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 502-2   , TO078  , 3    , °e::h°]               , eh                    , eh                   , INTJ , Volume=low
 503-0   , TO074  , 1    , [che                  , che                   , che                  , PRON , _
 503-1   , TO074  , 2    , ne                    , ne                    , ne                   , PRON , _
@@ -3297,7 +3297,7 @@
 539-6   , TO074  , 8    , africano              , africano              , africano             , ADJ  , _
 540-0   , TO074  , 1    , è::                   , è                     , essere               , AUX  , _
 540-1   , TO074  , 2    , d~                    , d~                    , x                    , X    , Interrupted=Yes
-540-2   , TO074  , 3    , (.)                   , (.)                   , _                    , _    , _
+540-2   , TO074  , 3    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 540-3   , TO074  , 4    , a                     , a                     , a                    , ADP  , _
 540-4   , TO074  , 5    , a                     , a                     , a                    , ADP  , _
 540-5   , TO074  , 6    , causa                 , causa                 , causa                , NOUN , _
@@ -3387,8 +3387,8 @@
 551-2   , TO074  , 3    , af[ferma]zione        , affermazione          , affermazione         , NOUN , _
 551-3   , TO074  , 4    , deve                  , deve                  , dovere               , AUX  , _
 551-4   , TO074  , 5    , sfumarla              , sfumarla              , _                    , _    , _
-551-4a  , _      ,      , _                     , sfumar                , sfumare              , VERB , 
-551-4b  , _      ,      , _                     , la                    , la                   , PRON , 
+551-4a  , _      ,      , _                     , sfumar                , sfumare              , VERB ,
+551-4b  , _      ,      , _                     , la                    , la                   , PRON ,
 552-0   , TO078  , 1    , [mh]                  , mh                    , mh                   , INTJ , _
 553-0   , TO074  , 1    , no?                   , no                    , no                   , ADV  , Intonation=rising
 554-0   , TO074  , 1    , bisogna               , bisogna               , bisognare            , VERB , _
@@ -3503,7 +3503,7 @@
 577-2   , TO078  , 3    , essere                , essere                , essere               , AUX  , _
 577-3   , TO078  , 4    , pronta                , pronta                , pronto               , ADJ  , _
 577-4   , TO078  , 5    , diciamo               , diciamo               , dire                 , VERB , _
-577-5   , TO078  , 6    , (.)                   , (.)                   , _                    , _    , _
+577-5   , TO078  , 6    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 577-6   , TO078  , 7    , per                   , per                   , per                  , ADP  , _
 577-7   , TO078  , 8    , fine                  , fine                  , fine                 , NOUN , _
 577-8   , TO078  , 9    , gennaio               , gennaio               , gennaio              , NOUN , _
@@ -3516,7 +3516,7 @@
 580-1   , TO074  , 2    , dopo                  , dopo                  , dopo                 , ADP  , _
 581-0   , TO078  , 1    , no                    , no                    , no                   , ADV  , _
 581-1   , TO078  , 2    , per                   , per                   , per                  , ADP  , _
-581-2   , TO078  , 3    , (.)                   , (.)                   , _                    , _    , _
+581-2   , TO078  , 3    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 581-3   , TO078  , 4    , (di)ciamo:            , diciamo               , dire                 , VERB , _
 582-0   , TO074  , 1    , sì                    , sì                    , sì                   , ADV  , _
 582-1   , TO074  , 2    , sì                    , sì                    , sì                   , ADV  , _
@@ -3541,7 +3541,7 @@
 583-13  , TO078  , 15   , giorni]               , giorni                , giorno               , NOUN , _
 584-0   , TO074  , 1    , [sì]                  , sì                    , sì                   , ADV  , _
 585-0   , TO074  , 1    , [c(io)è               , cioè                  , cioè                 , CCONJ, _
-585-1   , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+585-1   , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 585-2   , TO074  , 3    , giusto                , giusto                , giusto               , ADJ  , _
 585-3   , TO074  , 4    , per]                  , per                   , per                  , ADP  , _
 586-0   , TO074  , 1    , [sì                   , sì                    , sì                   , ADV  , _
@@ -3574,7 +3574,7 @@
 591-1   , TO074  , 2    , mh]?                  , mh                    , mh                   , INTJ , Intonation=rising
 592-0   , TO078  , 1    , [va                   , va                    , andare               , VERB , _
 592-1   , TO078  , 2    , bene                  , bene                  , bene                 , ADV  , _
-592-2   , TO078  , 3    , (.)                   , (.)                   , _                    , _    , _
+592-2   , TO078  , 3    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 592-3   , TO078  , 4    , perfetto]             , perfetto              , perfetto             , ADJ  , _
 593-0   , TO078  , 1    , [va                   , va                    , andare               , VERB , _
 593-1   , TO078  , 2    , bene]                 , bene                  , bene                 , ADV  , _
@@ -3864,7 +3864,7 @@
 658-7a  , _      , 9    , _                     , in                    , in                   , ADP  , _
 658-7b  , _      , 10   , _                     , il                    , il                   , DET  , _
 658-8   , TO079  , 11   , senso                 , senso                 , senso                , NOUN , _
-658-9   , TO079  , 12   , (.)                   , (.)                   , _                    , _    , _
+658-9   , TO079  , 12   , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 658-10  , TO079  , 13   , intendo               , intendo               , intendere            , VERB , _
 658-11  , TO079  , 14   , dire                  , dire                  , dire                 , VERB , _
 658-12  , TO079  , 15   , questo                , questo                , questo               , PRON , _
@@ -3874,7 +3874,7 @@
 660-2   , TO079  , 3    , che                   , che                   , che                  , SCONJ, _
 660-3   , TO079  , 4    , e:h                   , eh                    , eh                   , INTJ , _
 661-0   , TO079  , 1    , chiaramente           , chiaramente           , chiaramente          , ADV  , _
-661-1   , TO079  , 2    , (.)                   , (.)                   , _                    , _    , _
+661-1   , TO079  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 661-2   , TO079  , 3    , freire                , freire                , Freire               , PROPN, _
 661-3   , TO079  , 4    , è                     , è                     , essere               , AUX  , _
 661-4   , TO079  , 5    , un                    , un                    , uno                  , DET  , _
@@ -3907,7 +3907,7 @@
 664-1   , TO079  , 2-3  , del                   , del                   , _                    , _    , _
 664-1a  , _      , 2    , _                     , di                    , di                   , ADP  , _
 664-1b  , _      , 3    , _                     , il                    , il                   , DET  , _
-664-2   , TO079  , 4    , (.)                   , (.)                   , _                    , _    , _
+664-2   , TO079  , 4    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 664-3   , TO079  , 5    , in                    , in                    , in                   , ADP  , _
 664-4   , TO079  , 6    , questo                , questo                , questo               , DET  , _
 664-5   , TO079  , 7    , senso                 , senso                 , senso                , NOUN , _
@@ -4132,14 +4132,14 @@
 700-0   , TO074  , 1    , [che                  , che                   , che                  , SCONJ, _
 700-1   , TO074  , 2    , eviden]temente        , evidentemente         , evidentemente        , ADV  , _
 700-2   , TO074  , 3    , è                     , è                     , essere               , AUX  , _
-700-3   , TO074  , 4    , (.)                   , (.)                   , _                    , _    , _
+700-3   , TO074  , 4    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 700-4   , TO074  , 5    , fortemente            , fortemente            , fortemente           , ADV  , _
 700-5   , TO074  , 6    , influenzato           , influenzato           , influenzare          , VERB , _
 701-0   , TO074  , 1-2  , dall'                 , dall'                 , _                    , _    , Truncated=Yes
 701-0a  , _      , 1    , _                     , da                    , da                   , ADP  , _
 701-0b  , _      , 2    , _                     , l'                    , il                   , DET  , _
 701-1   , TO074  , 3    , esistenzialismo       , esistenzialismo       , esistenzialismo      , NOUN , _
-701-2   , TO074  , 4    , (.)                   , (.)                   , _                    , _    , _
+701-2   , TO074  , 4    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 701-3   , TO074  , 5    , o                     , o                     , o                    , CCONJ, _
 701-4   , TO074  , 6-7  , dalla                 , dalla                 , _                    , _    , _
 701-4a  , _      , 6    , _                     , da                    , da                   , ADP  , _
@@ -4150,13 +4150,13 @@
 704-0   , TO074  , 1    , mh                    , mh                    , mh                   , INTJ , _
 705-0   , TO074  , 1    , qua                   , qua                   , qua                  , ADV  , _
 705-1   , TO074  , 2    , sta                   , sta                   , stare                , VERB , _
-705-2   , TO074  , 3    , (.)                   , (.)                   , _                    , _    , _
+705-2   , TO074  , 3    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 705-3   , TO074  , 4    , traducendo            , traducendo            , tradurre             , VERB , _
 705-4   , TO074  , 5    , il                    , il                    , il                   , DET  , _
 705-5   , TO074  , 6    , pensiero              , pensiero              , pensiero             , NOUN , _
 705-6   , TO074  , 7    , di                    , di                    , di                   , ADP  , _
 705-7   , TO074  , 8    , freire                , freire                , Freire               , PROPN, _
-705-8   , TO074  , 9    , (.)                   , (.)                   , _                    , _    , _
+705-8   , TO074  , 9    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 705-9   , TO074  , 10   , io                    , io                    , io                   , PRON , _
 705-10  , TO074  , 11   , non                   , non                   , non                  , ADV  , _
 705-11  , TO074  , 12   , adesso                , adesso                , adesso               , ADV  , _
@@ -4344,14 +4344,14 @@
 734-3   , TO074  , 4    , stato                 , stato                 , essere               , AUX  , _
 735-0   , TO074  , 1    , m::h                  , mh                    , mh                   , INTJ , _
 735-1   , TO074  , 2    , sviluppato            , sviluppato            , sviluppare           , VERB , _
-735-2   , TO074  , 3    , (.)                   , (.)                   , _                    , _    , _
+735-2   , TO074  , 3    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 735-3   , TO074  , 4    , in                    , in                    , in                   , ADP  , _
 735-4   , TO074  , 5    , "antropologia,"       , antropologia          , antropologia         , NOUN , Intonation=weakly_rising
 735-5   , TO074  , 6    , per                   , per                   , per                  , ADP  , _
 735-6   , TO074  , 7    , esempio               , esempio               , esempio              , NOUN , _
 735-7   , TO074  , 8    , per                   , per                   , per                  , ADP  , _
 735-8   , TO074  , 9    , esempio               , esempio               , esempio              , NOUN , _
-735-9   , TO074  , 10   , (.)                   , (.)                   , _                    , _    , _
+735-9   , TO074  , 10   , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 735-10  , TO074  , 11   , concetto              , concetto              , concetto             , ADJ  , _
 736-0   , TO074  , 1    , e                     , e                     , e                    , CCONJ, _
 736-1   , TO074  , 2    , termine               , termine               , termine              , NOUN , _
@@ -4362,7 +4362,7 @@
 736-6   , TO074  , 7    , in                    , in                    , in                   , ADP  , _
 736-7   , TO074  , 8    , antropologia          , antropologia          , antropologia         , NOUN , _
 737-0   , TO074  , 1    , da:                   , da                    , da                   , ADP  , _
-737-1   , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+737-1   , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 737-2   , TO074  , 3    , eh                    , eh                    , eh                   , INTJ , _
 737-3   , TO074  , 4    , ernesto               , ernesto               , Ernesto              , PROPN, _
 737-4   , TO074  , 5    , de                    , de                    , di                   , ADP  , _
@@ -4436,7 +4436,7 @@
 750-1   , TO074  , 2    , una                   , una                   , uno                  , DET  , _
 750-2   , TO074  , 3    , sua                   , sua                   , suo                  , DET  , _
 750-3   , TO074  , 4    , sua                   , sua                   , suo                  , DET  , _
-750-4   , TO074  , 5    , (.)                   , (.)                   , _                    , _    , _
+750-4   , TO074  , 5    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 750-5   , TO074  , 6    , visione               , visione               , visione              , NOUN , _
 750-6   , TO074  , 7-8  , dell'                 , dell'                 , _                    , _    , Truncated=Yes
 750-6a  , _      , 7    , _                     , di                    , di                   , ADP  , _
@@ -4464,7 +4464,7 @@
 753-15  , TO074  , 16   , persona               , persona               , persona              , NOUN , _
 754-0   , TO074  , 1    , e::hm                 , ehm                   , ehm                  , INTJ , _
 755-0   , TO074  , 1    , ma                    , ma                    , ma                   , CCONJ, _
-755-1   , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+755-1   , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 755-2   , TO074  , 3    , sono                  , sono                  , essere               , AUX  , _
 755-3   , TO074  , 4    , concezioni:           , concezioni            , concezione           , NOUN , _
 756-0   , TO074  , 1    , antropologiche        , antropologiche        , antropologico        , ADJ  , _
@@ -4472,7 +4472,7 @@
 756-1a  , _      , 2    , _                     , in                    , in                   , ADP  , _
 756-1b  , _      , 3    , _                     , il                    , il                   , DET  , _
 756-2   , TO074  , 4    , senso                 , senso                 , senso                , NOUN , _
-756-3   , TO074  , 5    , (.)                   , (.)                   , _                    , _    , _
+756-3   , TO074  , 5    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 756-4   , TO074  , 6    , lato                  , lato                  , lato                 , NOUN , _
 756-5   , TO074  , 7-8  , del                   , del                   , _                    , _    , _
 756-5a  , _      , 7    , _                     , di                    , di                   , ADP  , _
@@ -4735,7 +4735,7 @@
 796-3   , TO079  , 4    , da                    , da                    , da                   , ADP  , _
 796-4   , TO079  , 5    , un'                   , un'                   , uno                  , DET  , Truncated=Yes
 796-5   , TO079  , 6    , altra                 , altra                 , altro                , PRON , _
-796-6   , TO079  , 7    , (.)                   , (.)                   , _                    , _    , _
+796-6   , TO079  , 7    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 796-7   , TO079  , 8    , da                    , da                    , da                   , ADP  , _
 796-8   , TO079  , 9    , un                    , un                    , uno                  , DET  , _
 796-9   , TO079  , 10   , [altro                , altro                 , altro                , ADJ  , _
@@ -4808,7 +4808,7 @@
 804-2   , TO074  , 3    , a                     , a                     , a                    , ADP  , _
 804-3   , TO074  , 4    , arancioni             , arancioni             , Arancioni            , PROPN, _
 804-4   , TO074  , 5    , s[e:                  , se                    , se                   , SCONJ, _
-804-5   , TO074  , 6    , (.)                   , (.)                   , _                    , _    , _
+804-5   , TO074  , 6    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 804-6   , TO074  , 7    , vale]                 , vale                  , valere               , VERB , _
 804-7   , TO074  , 8    , la                    , la                    , il                   , DET  , _
 804-8   , TO074  , 9    , pena:                 , pena                  , pena                 , NOUN , _
@@ -4864,7 +4864,7 @@
 814-1   , TO074  , 2    , c'                    , c'                    , ci                   , PRON , Truncated=Yes
 814-2   , TO074  , 3    , è]                    , è                     , essere               , VERB , _
 814-3   , TO074  , 4    , la                    , la                    , il                   , DET  , _
-814-4   , TO074  , 5    , (.)                   , (.)                   , _                    , _    , _
+814-4   , TO074  , 5    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 814-5   , TO074  , 6    , questo::              , questo                , questo               , PRON , _
 815-0   , TO074  , 1    , un::                  , un                    , uno                  , DET  , _
 815-1   , TO074  , 2    , bravo:                , bravo                 , bravo                , NOUN , _
@@ -4934,7 +4934,7 @@
 831-0   , TO074  , 1    , che                   , che                   , che                  , SCONJ, _
 831-1   , TO074  , 2    , il                    , il                    , il                   , DET  , _
 831-2   , TO074  , 3    , mio:                  , mio                   , mio                  , DET  , _
-831-3   , TO074  , 4    , (.)                   , (.)                   , _                    , _    , _
+831-3   , TO074  , 4    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 831-4   , TO074  , 5    , collega               , collega               , collega              , NOUN , _
 831-5   , TO074  , 6    , sia                   , sia                   , essere               , AUX  , _
 831-6   , TO074  , 7    , d'                    , d'                    , di                   , ADP  , SpaceAfter=No
@@ -5016,7 +5016,7 @@
 847-6   , TO079  , 7    , anche                 , anche                 , anche                , ADV  , _
 847-7   , TO079  , 8    , an[tropologico]       , antropologico         , antropologico        , ADJ  , _
 848-0   , TO074  , 1    , [sì]                  , sì                    , sì                   , ADV  , _
-848-1   , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+848-1   , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 848-2   , TO074  , 3    , ce[rto]               , certo                 , certo                , ADJ  , _
 849-0   , TO079  , 1    , [che                  , che                   , che                  , SCONJ, _
 849-1   , TO079  , 2    , però]                 , però                  , però                 , ADV  , _
@@ -5218,7 +5218,7 @@
 883-4   , TO074  , 5    , io                    , io                    , io                   , PRON , _
 883-5   , TO074  , 6    , dico                  , dico                  , dire                 , VERB , _
 883-6   , TO074  , 7    , sempre                , sempre                , sempre               , ADV  , _
-883-7   , TO074  , 8    , (.)                   , (.)                   , _                    , _    , _
+883-7   , TO074  , 8    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 883-8   , _      , 9    , _                     , a                     , a                    , ADP  , _
 883-8   , TO074  , 10   , a::                   , a                     , a                    , ADP  , _
 883-9   , TO074  , 11-11, ai                    , ai                    , _                    , _    , _
@@ -5385,7 +5385,7 @@
 904-5   , TO074  , 7    , mia                   , mia                   , mio                  , DET  , _
 905-0   , TO074  , 1    , che                   , che                   , che                  , PRON , _
 905-1   , TO074  , 2    , vede                  , vede                  , vedere               , VERB , _
-905-2   , TO074  , 3    , (.)                   , (.)                   , _                    , _    , _
+905-2   , TO074  , 3    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 905-3   , TO074  , 4    , l'                    , l'                    , il                   , DET  , Truncated=Yes
 905-4   , TO074  , 5    , essere                , essere                , essere               , NOUN , _
 905-5   , TO074  , 6    , umano                 , umano                 , umano                , ADJ  , _
@@ -5633,7 +5633,7 @@
 940-12  , TO074  , 13   , paulo                 , paulo                 , Paulo                , PROPN, _
 940-13  , TO074  , 14   , freire                , freire                , Freire               , PROPN, _
 941-0   , TO074  , 1    , per[ché               , perché                , perché               , SCONJ, _
-941-1   , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+941-1   , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 941-2   , TO074  , 3    , così]                 , così                  , così                 , ADV  , _
 942-0   , TO079  , 1    , [no::                 , no                    , no                   , ADV  , _
 942-1   , TO079  , 2    , ma                    , ma                    , ma                   , CCONJ, _
@@ -5645,7 +5645,7 @@
 943-4   , TO074  , 5    , il                    , il                    , il                   , DET  , _
 943-5   , TO074  , 6    , mondo                 , mondo                 , mondo                , NOUN , _
 943-6   , TO074  , 7    , da~                   , da~                   , x                    , X    , Interrupted=Yes
-943-7   , TO074  , 8    , (.)                   , (.)                   , _                    , _    , _
+943-7   , TO074  , 8    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 943-8   , TO074  , 9    , accademico            , accademico            , accademico           , ADJ  , _
 944-0   , TO074  , 1    , da                    , da                    , da                   , ADP  , _
 944-1   , TO074  , 2    , questo                , questo                , questo               , DET  , _
@@ -5931,7 +5931,7 @@
 986-2   , TO079  , 3    , que~                  , que~                  , x                    , X    , Interrupted=Yes
 986-3   , TO079  , 4    , e                     , e                     , e                    , CCONJ, _
 986-4   , TO079  , 5    , quindi                , quindi                , quindi               , ADV  , _
-986-5   , TO079  , 6    , (.)                   , (.)                   , _                    , _    , _
+986-5   , TO079  , 6    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 986-6   , TO079  , 7    , questo                , questo                , questo               , PRON , _
 986-7   , TO079  , 8    , era]                  , era                   , essere               , AUX  , _
 986-8   , TO079  , 9    , è                     , è                     , essere               , AUX  , _
@@ -6148,7 +6148,7 @@
 1024-7  , TO079  , 8    , mia                   , mia                   , mio                  , DET  , _
 1024-8  , TO079  , 9    , im~<                  , im~                   , x                    , X    , Interrupted=Yes
 1025-0  , TO079  , 1    , questo                , questo                , questo               , PRON , _
-1025-1  , TO079  , 2    , (.)                   , (.)                   , _                    , _    , _
+1025-1  , TO079  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 1025-2  , TO079  , 3    , è                     , è                     , essere               , AUX  , _
 1025-3  , TO079  , 4    , quello                , quello                , quello               , PRON , _
 1025-4  , TO079  , 5    , che                   , che                   , che                  , PRON , _
@@ -6284,7 +6284,7 @@
 1051-5  , TO079  , 6    , se                    , se                    , se                   , SCONJ, Volume=low
 1051-6  , TO079  , 7    , posso°                , posso                 , potere               , AUX  , Volume=low
 1052-0  , TO074  , 1    , sì                    , sì                    , sì                   , ADV  , _
-1052-1  , TO074  , 2    , (.)                   , (.)                   , _                    , _    , _
+1052-1  , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 1052-2  , TO074  , 3    , gialli                , gialli                , Gialli               , PROPN, _
 1052-3  , TO074  , 4    , era::                 , era                   , essere               , AUX  , _
 1053-0  , TO079  , 1    , °(è                   , è                     , essere               , AUX  , Volume=low
@@ -6372,7 +6372,7 @@
 1069-3  , TO074  , 4    , venti                 , venti                 , venti                , NUM  , _
 1069-4  , TO074  , 5    , volte                 , volte                 , volta                , NOUN , _
 1070-0  , TO074  , 1    , °però                 , però                  , però                 , ADV  , Volume=low
-1070-1  , TO074  , 2    , (.)                   , (.)                   , _                    , _    , Volume=low
+1070-1  , TO074  , 2    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 1070-2  , TO074  , 3    , sta:°                 , sta                   , stare                , VERB , Volume=low
 1071-0  , TO074  , 1    , °perché               , perché                , perché               , SCONJ, Volume=low
 1071-1  , TO074  , 2    , non                   , non                   , non                  , ADV  , Volume=low
@@ -6495,7 +6495,7 @@
 1094-5  , TO074  , 6    , è                     , è                     , essere               , AUX  , _
 1094-6  , TO074  , 7    , furore                , furore                , furore               , NOUN , _
 1094-7  , TO074  , 8    , simbolo               , simbolo               , simbolo              , NOUN , _
-1094-8  , TO074  , 9    , (.)                   , (.)                   , _                    , _    , _
+1094-8  , TO074  , 9    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 1094-9  , TO074  , 10   , valore                , valore                , valore               , NOUN , _
 1095-0  , TO074  , 1    , di:                   , di                    , di                   , ADP  , _
 1095-1  , TO074  , 2    , ernesto               , ernesto               , Ernesto              , PROPN, _
@@ -6589,7 +6589,7 @@
 1115-0  , TO079  , 1    , [ave~]                , ave~                  , x                    , X    , Interrupted=Yes
 1116-0  , TO074  , 1    , che                   , che                   , che                  , SCONJ, _
 1116-1  , TO074  , 2    , che                   , che                   , che                  , SCONJ, _
-1116-2  , TO074  , 3    , (.)                   , (.)                   , _                    , _    , _
+1116-2  , TO074  , 3    , (.)                   , (.)                   , PAUSE                , PAUSE, _                                  , _
 1116-3  , TO074  , 4    , si                    , si                    , si                   , PRON , _
 1116-4  , TO074  , 5    , interessa:            , interessa             , interessare          , VERB , _
 1116-5  , TO074  , 6    , e                     , e                     , e                    , CCONJ, _

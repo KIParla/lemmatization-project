@@ -67,7 +67,7 @@ token_id, speaker, tu_id, unit, id   , span           , form         , lemma    
 12-1    , BO026  , 12   ,   12, 2    , si             , si           , si           , PRON , _              , _
 12-2    , BO026  , 12   ,   12, 3    , chia[ma?°]     , chiama       , chiamare     , VERB , _              , _
 13-0    , BO036  , 13   ,   13, 1    , [per]          , per          , per          , ADP  , _              , _
-13-1    , BO036  , 13   ,   13, 2    , (.)            , (.)          , [PAUSE]      , X    , _              , _
+13-1    , BO036  , 13   ,   13, 2    , (.)            , (.)          , PAUSE        , PAUSE, _              , _
 13-2    , BO036  , 13   ,   13, 3    , luca           , luca         , Luca         , PROPN, _              , _
 13-3    , BO036  , 13   ,   13, 4    , rossi.         , rossi        , Rossi        , PROPN, _              , _
 14-0    , BO026  , 14   ,   14, 1    , ah.            , ah           , ah           , INTJ , _              , _
@@ -107,7 +107,7 @@ token_id, speaker, tu_id, unit, id   , span           , form         , lemma    
 23-0    , BO036  , 23   ,   23, 1    , [sì]           , sì           , sì           , ADV  , _              , _
 23-1    , BO036  , 23   ,   23, 2    , però           , però         , però         , ADV  , _              , _
 23-2    , BO036  , 23   ,   23, 3    , [poi           , poi          , poi          , ADV  , _              , _
-23-3    , BO036  , 23   ,   23, 4    , (.)            , (.)          , [PAUSE]      , X    , _              , _
+23-3    , BO036  , 23   ,   23, 4    , (.)            , (.)          , PAUSE        , PAUSE, _              , _
 23-4    , BO036  , 23   ,   23, 5-6  , nel            , nel          , _            , _    , _              , _
 23-4a   , _      , _    ,   23, 5    , _              , in           , in           , ADP  , _              , _
 23-4b   , _      , _    ,   23, 6    , _              , il           , il           , DET  , _              , _
@@ -136,7 +136,7 @@ token_id, speaker, tu_id, unit, id   , span           , form         , lemma    
 27-0    , BO036  , 27   ,   27, 1    , sì             , sì           , sì           , ADV  , _              , _
 27-1    , BO036  , 27   ,   27, 2    , [l'            , l'           , il           , DET  , _              , SpaceAfter=No
 27-2    , BO036  , 27   ,   27, 3    , argomento      , argomento    , argomento    , NOUN , _              , _
-27-3    , BO036  , 27   ,   27, 4    , (.)            , (.)          , [PAUSE]      , X    , _              , _
+27-3    , BO036  , 27   ,   27, 4    , (.)            , (.)          , PAUSE        , PAUSE, _              , _
 27-4    , BO036  , 27   ,   27, 5    , sì             , sì           , sì           , ADV  , _              , _
 27-5    , BO036  , 27   ,   27, 6    , sì             , sì           , sì           , ADV  , _              , _
 27-6    , BO036  , 27   ,   27, 7    , sì].           , sì           , sì           , ADV  , _              , _
@@ -211,7 +211,7 @@ token_id, speaker, tu_id, unit, id   , span           , form         , lemma    
 42-3    , BO036  , 42   ,   42, 4    , fase           , fase         , fase         , NOUN , _              , _
 42-4    , BO036  , 42   ,   42, 5    , di             , di           , di           , ADP  , _              , _
 42-5    , BO036  , 42   ,   42, 6    , °sì°           , sì           , sì           , ADV  , _              , _
-42-6    , BO036  , 42   ,   42, 7    , (.)            , (.)          , [PAUSE]      , X    , _              , _
+42-6    , BO036  , 42   ,   42, 7    , (.)            , (.)          , PAUSE        , PAUSE, _              , _
 42-7    , BO036  , 42   ,   42, 8    , (ultimazione)  , ultimazione  , ultimazione  , NOUN , _              , _
 42-8    , BO036  , 42   ,   42, 9    , o[kay          , okay         , okay         , INTJ , _              , _
 42-9    , BO036  , 42   ,   42, 10   , quindi         , quindi       , quindi       , ADV  , _              , _
@@ -222,11 +222,11 @@ token_id, speaker, tu_id, unit, id   , span           , form         , lemma    
 42-13a  , _      , _    ,   42, 14   , _              , di           , di           , ADP  , _              , _
 42-13b  , _      , _    ,   42, 15   , _              , la           , il           , DET  , _              , _
 43-0    , BO026  , 43   ,   43, 1    , [sì            , sì           , sì           , ADV  , _              , _
-43-1    , BO026  , 43   ,   43, 2    , (.)            , (.)          , [PAUSE]      , X    , _              , _
+43-1    , BO026  , 43   ,   43, 2    , (.)            , (.)          , PAUSE        , PAUSE, _              , _
 43-2    , BO026  , 43   ,   43, 3    , consideri:     , consideri    , considerare  , VERB , _              , _
 43-3    , BO026  , 43   ,   43, 4    , "che],"        , che          , che          , SCONJ, _              , _
 44-0    , BO026  , 44   ,   44, 1    , [sì]           , sì           , sì           , ADV  , _              , _
-44-1    , BO026  , 44   ,   44, 2    , (.)            , (.)          , [PAUSE]      , X    , _              , _
+44-1    , BO026  , 44   ,   44, 2    , (.)            , (.)          , PAUSE        , PAUSE, _              , _
 44-2    , BO026  , 44   ,   44, 3    , sì.            , sì           , sì           , ADV  , _              , _
 45-0    , BO036  , 45   ,   45, 1    , okay.          , okay         , okay         , INTJ , _              , _
 46-0    , BO026  , 46   ,   46, 1    , consideri      , consideri    , considerare  , VERB , _              , _
@@ -295,7 +295,7 @@ token_id, speaker, tu_id, unit, id   , span           , form         , lemma    
 51-0    , BO036  , 51   ,   51, 1    , [sì].          , sì           , sì           , ADV  , _              , _
 52-0    , BO036  , 52   ,   52, 1    , °okay.°        , okay         , okay         , INTJ , _              , _
 53-0    , BO026  , 53   ,   53, 1    , però           , però         , però         , ADV  , _              , _
-53-1    , BO026  , 53   ,   53, 2    , (.)            , (.)          , [PAUSE]      , X    , _              , _
+53-1    , BO026  , 53   ,   53, 2    , (.)            , (.)          , PAUSE        , PAUSE, _              , _
 53-2    , BO026  , 53   ,   53, 3    , vorrei         , vorrei       , volere       , AUX  , _              , _
 53-3    , BO026  , 53   ,   53, 4    , vedere         , vedere       , vedere       , VERB , _              , _
 53-4    , BO026  , 53   ,   53, 5    , il             , il           , il           , DET  , _              , _
@@ -368,7 +368,7 @@ token_id, speaker, tu_id, unit, id   , span           , form         , lemma    
 66-0    , BO026  , 66   ,   66, 1    , [quindi        , quindi       , quindi       , ADV  , _              , _
 66-1    , BO026  , 66   ,   66, 2    , "comunicher]ò,", comunicherò  , comunicherare, VERB , _              , _
 67-0    , BO026  , 67   ,   67, 1    , però           , però         , però         , ADV  , _              , _
-67-1    , BO026  , 67   ,   67, 2    , (.)            , (.)          , [PAUSE]      , X    , _              , _
+67-1    , BO026  , 67   ,   67, 2    , (.)            , (.)          , PAUSE        , PAUSE, _              , _
 67-2    , BO026  , 67   ,   67, 3-4  , nel            , nel          , _            , _    , _              , _
 67-2a   , _      , _    ,   67, 3    , _              , in           , in           , ADP  , _              , _
 67-2b   , _      , _    ,   67, 4    , _              , il           , il           , DET  , _              , _
@@ -382,7 +382,7 @@ token_id, speaker, tu_id, unit, id   , span           , form         , lemma    
 67-8    , BO026  , 67   ,   67, 11   , la             , la           , il           , DET  , _              , _
 67-9    , BO026  , 67   ,   67, 12   , valutazione    , valutazione  , valutazione  , NOUN , _              , _
 67-10   , BO026  , 67   ,   67, 13   , scritta        , scritta      , scritto      , ADJ  , _              , _
-67-11   , BO026  , 67   ,   67, 14   , (.)            , (.)          , [PAUSE]      , X    , _              , _
+67-11   , BO026  , 67   ,   67, 14   , (.)            , (.)          , PAUSE        , PAUSE, _              , _
 67-12   , BO026  , 67   ,   67, 15   , [sono]         , sono         , essere       , AUX  , _              , _
 67-13   , BO026  , 67   ,   67, 16   , già            , già          , già          , ADV  , _              , _
 67-14   , BO026  , 67   ,   67, 17   , d'             , d'           , di           , ADP  , _              , SpaceAfter=No
@@ -394,7 +394,7 @@ token_id, speaker, tu_id, unit, id   , span           , form         , lemma    
 68-1    , BO036  , 68   ,   68, 2    , mh].           , mh           , mh           , INTJ , _              , _
 69-0    , BO026  , 69   ,   69, 1    , se             , se           , se           , SCONJ, _              , _
 69-1    , BO026  , 69   ,   69, 2    , il             , il           , il           , DET  , _              , _
-69-2    , BO026  , 69   ,   69, 3    , (.)            , (.)          , [PAUSE]      , X    , _              , _
+69-2    , BO026  , 69   ,   69, 3    , (.)            , (.)          , PAUSE        , PAUSE, _              , _
 69-3    , BO026  , 69   ,   69, 4    , riescono       , riescono     , riuscire     , VERB , _              , _
 69-4    , BO026  , 69   ,   69, 5    , a              , a            , a            , ADP  , _              , _
 69-5    , BO026  , 69   ,   69, 6    , inserire       , inserire     , inserire     , VERB , _              , _

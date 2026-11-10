@@ -61,7 +61,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 12-2    , BO026  , 12   ,   12, 3    , che                   , che               , che               , SCONJ, _              , _
 12-3    , BO026  , 12   ,   12, 4    , devo                  , devo              , dovere            , AUX  , _              , _
 12-4    , BO026  , 12   ,   12, 5    , ricostruir~           , ricostruir~       , X                 , X    , _              , _
-12-5    , BO026  , 12   ,   12, 6    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+12-5    , BO026  , 12   ,   12, 6    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 12-6    , BO026  , 12   ,   12, 7    , marzo                 , marzo             , marzo             , NOUN , _              , _
 12-7    , BO026  , 12   ,   12, 8    , duemiladiciotto.°     , duemiladiciotto   , duemiladiciotto   , NUM  , _              , _
 13-0    , BO033  , 13   ,   13, 1    , sì                    , sì                , sì                , ADV  , _              , _
@@ -119,7 +119,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 21-0    , BO026  , 21   ,   21, 1    , [<ah                  , ah                , ah                , INTJ , _              , _
 21-1    , BO026  , 21   ,   21, 2    , sì.                   , sì                , sì                , ADV  , _              , _
 21-2    , BO026  , 21   ,   21, 3    , sì].                  , sì                , sì                , ADV  , _              , _
-21-3    , BO026  , 21   ,   21, 4    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+21-3    , BO026  , 21   ,   21, 4    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 21-4    , BO026  , 21   ,   21, 5    , sì>.                  , sì                , sì                , ADV  , _              , _
 22-0    , BO033  , 22   ,   22, 1    , e                     , e                 , e                 , CCONJ, _              , _
 22-1    , BO033  , 22   ,   22, 2    , lei                   , lei               , lei               , PRON , _              , _
@@ -135,7 +135,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 22-11   , BO033  , 22   ,   22, 12   , mh                    , mh                , mh                , INTJ , _              , _
 22-12   , BO033  , 22   ,   22, 13   , [vedere]              , vedere            , vedere            , VERB , _              , _
 22-13   , BO033  , 22   ,   22, 14   , se:                   , se                , se                , SCONJ, _              , _
-22-14   , BO033  , 22   ,   22, 15   , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+22-14   , BO033  , 22   ,   22, 15   , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 22-15   , BO033  , 22   ,   22, 16   , era                   , era               , essere            , AUX  , _              , _
 22-16   , BO033  , 22   ,   22, 17   , possibile             , possibile         , possibile         , ADJ  , _              , _
 22-17   , BO033  , 22   ,   22, 18   , raccogliere           , raccogliere       , raccogliere       , VERB , _              , _
@@ -200,7 +200,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 35-4    , BO033  , 35   ,   35, 5    , sia                   , sia               , essere            , CCONJ, _              , _
 35-5    , BO033  , 35   ,   35, 6    , il                    , il                , il                , DET  , _              , _
 35-6    , BO033  , 35   ,   35, 7    , "tirocinio,"          , tirocinio         , tirocinio         , NOUN , _              , _
-35-7    , BO033  , 35   ,   35, 8    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+35-7    , BO033  , 35   ,   35, 8    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 35-8    , BO033  , 35   ,   35, 9    , e::                   , e                 , e                 , CCONJ, _              , _
 35-9    , BO033  , 35   ,   35, 10   , la                    , la                , il                , DET  , _              , _
 35-10   , BO033  , 35   ,   35, 11   , professoressa         , professoressa     , professore        , NOUN , _              , _
@@ -286,7 +286,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 43-8    , BO026  , 43   ,   43, 9    , particolare           , particolare       , particolare       , NOUN , _              , _
 43-9    , BO026  , 43   ,   43, 10   , [lavorare].           , lavorare          , lavorare          , VERB , _              , _
 44-0    , BO033  , 44   ,   44, 1    , [e::]                 , e                 , e                 , CCONJ, _              , _
-44-1    , BO033  , 44   ,   44, 2    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+44-1    , BO033  , 44   ,   44, 2    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 44-2    , BO033  , 44   ,   44, 3    , pensavo               , pensavo           , pensare           , VERB , _              , _
 44-3    , BO033  , 44   ,   44, 4    , di                    , di                , di                , ADP  , _              , _
 44-4    , BO033  , 44   ,   44, 5-6  , farlo                 , farlo             , _                 , _    , _              , _
@@ -355,7 +355,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 50-0    , BO033  , 50   ,   50, 1    , [sì].                 , sì                , sì                , ADV  , _              , _
 51-0    , BO033  , 51   ,   51, 1    , [sì                   , sì                , sì                , ADV  , _              , _
 51-1    , BO033  , 51   ,   51, 2    , sì].                  , sì                , sì                , ADV  , _              , _
-51-2    , BO033  , 51   ,   51, 3    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+51-2    , BO033  , 51   ,   51, 3    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 51-3    , BO033  , 51   ,   51, 4    , loro                  , loro              , loro              , PRON , _              , _
 51-4    , BO033  , 51   ,   51, 5    , lavorano              , lavorano          , lavorare          , VERB , _              , _
 51-5    , BO033  , 51   ,   51, 6    , m[olto]               , molto             , molto             , ADV  , _              , _
@@ -414,7 +414,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 61-4    , BO033  , 61   ,   61, 4    , questo                , questo            , questo            , PRON , _              , _
 61-5    , BO033  , 61   ,   61, 5    , doveva                , doveva            , dovere            , AUX  , _              , _
 61-6    , BO033  , 61   ,   61, 6    , essere                , essere            , essere            , AUX  , _              , _
-61-7    , BO033  , 61   ,   61, 7    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+61-7    , BO033  , 61   ,   61, 7    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 61-8    , BO033  , 61   ,   61, 9    , una                   , una               , uno               , DET  , _              , _
 61-9    , BO033  , 61   ,   61, 10   , bozza                 , bozza             , bozza             , NOUN , _              , _
 61-10   , BO033  , 61   ,   61, 11-12, degli                 , degli             , _                 , _    , _              , _
@@ -462,7 +462,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 67-12   , BO033  , 67   ,   67, 13   , aveva                 , aveva             , avere             , AUX  , _              , _
 67-13   , BO033  , 67   ,   67, 14   , fatto                 , fatto             , fare              , VERB , _              , _
 67-14   , BO033  , 67   ,   67, 15   , correggere            , correggere        , correggere        , VERB , _              , _
-67-15   , BO033  , 67   ,   67, 16   , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+67-15   , BO033  , 67   ,   67, 16   , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 67-16   , BO033  , 67   ,   67, 17-18, de:gli                , degli             , _                 , _    , _              , _
 67-16a  , _      , _    ,   67, 17   , _                     , di                , di                , ADP  , _              , _
 67-16b  , _      , _    ,   67, 18   , _                     , gli               , il                , DET  , _              , _
@@ -534,7 +534,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 75-2    , BO033  , 75   ,   75, 3    , sì.                   , sì                , sì                , ADV  , _              , _
 75-3    , BO033  , 75   ,   75, 4    , io                    , io                , io                , PRON , _              , _
 75-4    , BO033  , 75   ,   75, 5    , poi                   , poi               , poi               , ADV  , _              , _
-75-5    , BO033  , 75   ,   75, 6    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+75-5    , BO033  , 75   ,   75, 6    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 75-6    , BO033  , 75   ,   75, 7    , lì                    , lì                , lì                , ADV  , _              , _
 75-7    , BO033  , 75   ,   75, 8    , c'                    , c'                , ci                , PRON , _              , _
 75-8    , BO033  , 75   ,   75, 9    , è]                    , è                 , essere            , VERB , _              , _
@@ -586,7 +586,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 83-12   , BO026  , 83   ,   83, 13   , lo                    , lo                , lo                , PRON , _              , _
 83-13   , BO026  , 83   ,   83, 14   , trova                 , trova             , trovare           , VERB , _              , _
 83-14   , BO026  , 83   ,   83, 15   , ken                   , ken               , Ken               , PROPN, _              , _
-83-15   , BO026  , 83   ,   83, 16   , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+83-15   , BO026  , 83   ,   83, 16   , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 83-16   , BO026  , 83   ,   83, 18   , hyland.               , hyland            , Hyland            , PROPN, _              , _
 84-0    , BO033  , 84   ,   84, 1    , [okay].               , okay              , okay              , INTJ , _              , _
 85-0    , BO026  , 85   ,   85, 1    , sia                   , sia               , essere            , CCONJ, _              , _
@@ -695,7 +695,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 100-8   , BO026  , 100  ,  100, 9    , "scritto,"            , scritto           , scrivere          , VERB , _              , _
 100-9   , BO026  , 100  ,  100, 10   , (mh)<                 , mh                , mh                , INTJ , _              , _
 101-0   , BO033  , 101  ,  101, 1    , sì.                   , sì                , sì                , ADV  , _              , _
-101-1   , BO033  , 101  ,  101, 2    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+101-1   , BO033  , 101  ,  101, 2    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 101-2   , BO033  , 101  ,  101, 3    , (xx                   , xx                , x                 , X    , _              , _
 101-3   , BO033  , 101  ,  101, 4    , inizio).              , inizio            , inizio            , NOUN , _              , _
 102-0   , BO026  , 102  ,  102, 1    , su                    , su                , su                , ADP  , _              , _
@@ -703,7 +703,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 102-2   , BO026  , 102  ,  102, 3    , writing               , writing           , writing           , NOUN , Lang=en        , _
 102-3   , BO026  , 102  ,  102, 4    , c'                    , c'                , ci                , PRON , _              , _
 102-4   , BO026  , 102  ,  102, 5    , è                     , è                 , essere            , VERB , _              , _
-102-5   , BO026  , 102  ,  102, 6    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+102-5   , BO026  , 102  ,  102, 6    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 102-6   , BO026  , 102  ,  102, 7    , e                     , e                 , e                 , CCONJ, _              , _
 102-7   , BO026  , 102  ,  102, 8    , mh                    , mh                , mh                , INTJ , _              , _
 102-8   , BO026  , 102  ,  102, 9    , un                    , un                , uno               , DET  , _              , _
@@ -732,7 +732,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 106-0   , BO026  , 106  ,  106, 1    , [ce]rto.              , certo             , certo             , ADV  , _              , _
 107-0   , BO033  , 107  ,  107, 1    , e:                    , e                 , e                 , CCONJ, _              , _
 107-1   , BO033  , 107  ,  107, 2    , perché                , perché            , perché            , SCONJ, _              , _
-107-2   , BO033  , 107  ,  107, 3    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+107-2   , BO033  , 107  ,  107, 3    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 107-3   , BO033  , 107  ,  107, 4    , e                     , e                 , e                 , CCONJ, _              , _
 107-4   , BO033  , 107  ,  107, 5    , insomma               , insomma           , insomma           , ADV  , _              , _
 107-5   , BO033  , 107  ,  107, 6    , che                   , che               , che               , DET  , _              , _
@@ -752,7 +752,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 111-0   , BO026  , 111  ,  111, 1    , e::                   , e                 , e                 , CCONJ, _              , _
 111-1   , BO026  , 111  ,  111, 2    , et                    , et                , et                , CCONJ, _              , _
 111-2   , BO026  , 111  ,  111, 3-4  , al                    , al                , alii              , PRON , _              , _
-111-3   , BO026  , 111  ,  111, 5    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+111-3   , BO026  , 111  ,  111, 5    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 111-4   , BO026  , 111  ,  111, 6    , e                     , e                 , e                 , CCONJ, _              , _
 111-5   , BO026  , 111  ,  111, 7    , questo                , questo            , questo            , PRON , _              , _
 111-6   , BO026  , 111  ,  111, 8    , lo                    , lo                , lo                , PRON , _              , _
@@ -819,7 +819,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 122-2   , BO026  , 122  ,  122, 3    , un                    , un                , uno               , DET  , _              , _
 122-3   , BO026  , 122  ,  122, 4    , po'                   , po'               , poco              , ADV  , _              , _
 122-4   , BO026  , 122  ,  122, 5    , più                   , più               , più               , ADV  , _              , _
-122-5   , BO026  , 122  ,  122, 6    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+122-5   , BO026  , 122  ,  122, 6    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 122-6   , BO026  , 122  ,  122, 7    , °di                   , di                , di                , ADP  , _              , _
 122-7   , BO026  , 122  ,  122, 8    , "stretta,°"           , stretta           , stretta           , ADJ  , _              , _
 122-8   , BO026  , 122  ,  122, 9    , vediamo.              , vediamo           , vedere            , VERB , _              , _
@@ -1016,7 +1016,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 163-4   , BO026  , 163  ,  163, 5    , questa                , questa            , questo            , DET  , _              , _
 163-5   , BO026  , 163  ,  163, 6    , parte                 , parte             , parte             , NOUN , _              , _
 163-6   , BO026  , 163  ,  163, 7    , entra                 , entra             , entrare           , VERB , _              , _
-163-7   , BO026  , 163  ,  163, 8    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+163-7   , BO026  , 163  ,  163, 8    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 163-8   , BO026  , 163  ,  163, 9-10 , nella:                , nella             , _                 , _    , _              , _
 163-8a  , _      , _    ,  163, 9    , _                     , in                , in                , ADP  , _              , _
 163-8b  , _      , _    ,  163, 10   , _                     , la                , il                , DET  , _              , _
@@ -1028,16 +1028,16 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 165-2   , BO026  , 165  ,  165, 3    , teorica               , teorica           , teorico           , ADJ  , _              , _
 165-3   , BO026  , 165  ,  165, 4    , dipende               , dipende           , dipendere         , VERB , _              , _
 165-4   , BO026  , 165  ,  165, 5    , da                    , da                , da                , ADP  , _              , _
-165-5   , BO026  , 165  ,  165, 6    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+165-5   , BO026  , 165  ,  165, 6    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 165-6   , BO026  , 165  ,  165, 7    , come                  , come              , come              , SCONJ, _              , _
 165-7   , BO026  , 165  ,  165, 8    , la                    , la                , la                , PRON , _              , _
 165-8   , BO026  , 165  ,  165, 9    , vuole                 , vuole             , volere            , AUX  , _              , _
 165-9   , BO026  , 165  ,  165, 10   , sviluppare.           , sviluppare        , sviluppare        , VERB , _              , _
 166-0   , BO026  , 166  ,  166, 1    , se                    , se                , se                , SCONJ, _              , _
-166-1   , BO026  , 166  ,  166, 2    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+166-1   , BO026  , 166  ,  166, 2    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 166-2   , BO026  , 166  ,  166, 3    , approfondire          , approfondire      , approfondire      , VERB , _              , _
 166-3   , BO026  , 166  ,  166, 4    , "oppure,"             , oppure            , oppure            , CCONJ, _              , _
-166-4   , BO026  , 166  ,  166, 5    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+166-4   , BO026  , 166  ,  166, 5    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 166-5   , BO026  , 166  ,  166, 6    , presentare            , presentare        , presentare        , VERB , _              , _
 166-6   , BO026  , 166  ,  166, 7    , "una,"                , una               , uno               , DET  , _              , _
 167-0   , BO026  , 167  ,  167, 1    , uno                   , uno               , uno               , DET  , _              , _
@@ -1119,7 +1119,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 186-2   , BO026  , 186  ,  186, 3    , of                    , of                , of                , ADP  , Lang=en        , _
 186-3   , BO026  , 186  ,  186, 4    , applied               , applied           , applied           , ADJ  , Lang=en        , _
 186-4   , BO026  , 186  ,  186, 5    , linguistics           , linguistics       , linguistics       , NOUN , Lang=en        , _
-186-5   , BO026  , 186  ,  186, 6    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+186-5   , BO026  , 186  ,  186, 6    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 186-6   , BO026  , 186  ,  186, 7    , poi                   , poi               , poi               , ADV  , _              , _
 186-7   , BO026  , 186  ,  186, 8    , english               , english           , english           , ADJ  , Lang=en        , _
 186-8   , BO026  , 186  ,  186, 9    , language              , language          , language          , NOUN , Lang=en        , _
@@ -1129,7 +1129,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 188-0   , BO026  , 188  ,  188, 1    , e::h                  , eh                , eh                , INTJ , _              , _
 188-1   , BO026  , 188  ,  188, 2    , mh                    , mh                , mh                , INTJ , _              , _
 189-0   , BO026  , 189  ,  189, 1    , discourse             , discourse         , discourse         , NOUN , Lang=en        , _
-189-1   , BO026  , 189  ,  189, 2    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+189-1   , BO026  , 189  ,  189, 2    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 189-2   , BO026  , 189  ,  189, 3    , "processes,"          , processes         , process           , NOUN , Lang=en        , _
 190-0   , BO026  , 190  ,  190, 1    , lì                    , lì                , lì                , ADV  , _              , _
 190-1   , BO026  , 190  ,  190, 2    , potrebbe              , potrebbe          , potere            , AUX  , _              , _
@@ -1255,11 +1255,11 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 201-3   , BO033  , 201  ,  201, 4-5  , fornirmi              , fornirmi          , _                 , _    , _              , _
 201-3a  , _      , _    ,  201, 4    , _                     , fornire           , fornire           , VERB , _              , _
 201-3b  , _      , _    ,  201, 5    , _                     , mi                , mi                , PRON , _              , _
-201-4   , BO033  , 201  ,  201, 6    , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+201-4   , BO033  , 201  ,  201, 6    , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 201-5   , BO033  , 201  ,  201, 7    , tutto.                , tutto             , tutto             , PRON , _              , _
 201-6   , BO033  , 201  ,  201, 8    , [sia]                 , sia               , essere            , CCONJ, _              , _
 201-7   , BO033  , 201  ,  201, 9    , composition           , composition       , composition       , NOUN , Lang=en        , _
-201-8   , BO033  , 201  ,  201, 10   , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+201-8   , BO033  , 201  ,  201, 10   , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 201-9   , BO033  , 201  ,  201, 11   , su                    , su                , su                , ADP  , _              , _
 201-10  , BO033  , 201  ,  201, 12   , [temi]:               , temi              , tema              , NOUN , _              , _
 201-11  , BO033  , 201  ,  201, 13   , che                   , che               , che               , PRON , _              , _
@@ -1270,7 +1270,7 @@ token_id, speaker, tu_id, unit, id   , span                  , form             
 201-16  , BO033  , 201  ,  201, 18   , sp[azian]o            , spaziano          , spaziare          , VERB , _              , _
 201-17  , BO033  , 201  ,  201, 19   , molto                 , molto             , molto             , ADV  , _              , _
 201-18  , BO033  , 201  ,  201, 20   , da                    , da                , da                , ADP  , _              , _
-201-19  , BO033  , 201  ,  201, 21   , (.)                   , (.)               , [PAUSE]           , X    , _              , _
+201-19  , BO033  , 201  ,  201, 21   , (.)                   , (.)               , PAUSE             , PAUSE, _              , _
 201-20  , BO033  , 201  ,  201, 22   , argomenti             , argomenti         , argomento         , NOUN , _              , _
 201-21  , BO033  , 201  ,  201, 23   , "personali,"          , personali         , personale         , ADJ  , _              , _
 202-0   , BO026  , 202  ,  202, 1    , [sì].                 , sì                , sì                , ADV  , _              , _

@@ -31,7 +31,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 6-4     , TOI002 , 6    ,    6, 6    , "pa:dre,"       , padre           , padre           , NOUN , _              , _
 7-0     , TOI002 , 7    ,    7, 1    , (questa         , questa          , questo          , PRON , _              , _
 7-1     , TOI002 , 7    ,    7, 2    , è)              , è               , essere          , AUX  , _              , _
-7-2     , TOI002 , 7    ,    7, 3    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+7-2     , TOI002 , 7    ,    7, 3    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 7-3     , TOI002 , 7    ,    7, 4    , una             , una             , uno             , DET  , _              , _
 7-4     , TOI002 , 7    ,    7, 5    , domanda         , domanda         , domanda         , NOUN , _              , _
 7-5     , TOI002 , 7    ,    7, 6    , un              , un              , uno             , DET  , _              , _
@@ -68,7 +68,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 15-6    , TOI003 , 15   ,   15, 8    , estero          , estero          , estero          , NOUN , _              , _
 15-7    , TOI003 , 15   ,   15, 9    , parlo           , parlo           , parlare         , VERB , _              , _
 15-8    , TOI003 , 15   ,   15, 10   , [eh             , eh              , eh              , INTJ , _              , _
-15-9    , TOI003 , 15   ,   15, 11   , (.)             , (.)             , [PAUSE]         , X    , _              , _
+15-9    , TOI003 , 15   ,   15, 11   , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 15-10   , TOI003 , 15   ,   15, 12   , mi              , mi              , mi              , PRON , _              , _
 15-11   , TOI003 , 15   ,   15, 13   , faccio          , faccio          , fare            , VERB , _              , _
 15-12   , TOI003 , 15   ,   15, 14   , capi]re         , capire          , capire          , VERB , _              , _
@@ -197,7 +197,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 49-9    , TOI003 , 49   ,   49, 10   , prima?          , prima           , prima           , ADV  , _              , _
 50-0    , TOI002 , 50   ,   50, 1    , okay            , okay            , ok              , INTJ , _              , _
 51-0    , TOR001 , 51   ,   51, 1    , okay            , okay            , ok              , INTJ , _              , _
-51-1    , TOR001 , 51   ,   51, 2    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+51-1    , TOR001 , 51   ,   51, 2    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 51-2    , TOR001 , 51   ,   51, 3    , grazie          , grazie          , grazie          , NOUN , _              , _
 52-0    , TOI002 , 52   ,   52, 1    , °grazie         , grazie          , grazie          , NOUN , _              , _
 52-1    , TOI002 , 52   ,   52, 2    , a               , a               , a               , ADP  , _              , _
@@ -211,7 +211,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 54-2    , TOR001 , 54   ,   54, 3    , abitudini       , abitudini       , abitudine       , NOUN , _              , _
 54-3    , TOR001 , 54   ,   54, 4    , di              , di              , di              , ADP  , _              , _
 54-4    , TOR001 , 54   ,   54, 5    , giovani         , giovani         , giovane         , ADJ  , _              , _
-54-5    , TOR001 , 54   ,   54, 6    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+54-5    , TOR001 , 54   ,   54, 6    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 54-6    , TOR001 , 54   ,   54, 7    , lavoratori      , lavoratori      , lavoratore      , NOUN , _              , _
 54-7    , TOR001 , 54   ,   54, 8    , torinesi        , torinesi        , torinese        , ADJ  , _              , _
 54-8    , TOR001 , 54   ,   54, 9    , quindi          , quindi          , quindi          , ADV  , _              , _
@@ -239,7 +239,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 62-1    , TOR001 , 62   ,   62, 2    , quanto          , quanto          , quanto          , DET  , _              , _
 62-2    , TOR001 , 62   ,   62, 3    , tempo?          , tempo           , tempo           , NOUN , _              , _
 63-0    , TOI003 , 63   ,   63, 1    , m::h            , mh              , mh              , INTJ , _              , _
-63-1    , TOI003 , 63   ,   63, 2    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+63-1    , TOI003 , 63   ,   63, 2    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 63-2    , TOI003 , 63   ,   63, 3    , questo          , questo          , questo          , DET  , _              , _
 63-3    , TOI003 , 63   ,   63, 4    , lavoro          , lavoro          , lavoro          , NOUN , _              , _
 63-4    , TOI003 , 63   ,   63, 5    , o               , o               , o               , CCONJ, _              , _
@@ -273,7 +273,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 75-7    , TOR001 , 75   ,   75, 8    , fate?           , fate            , fare            , VERB , _              , _
 76-0    , TOI003 , 76   ,   76, 1    , allora          , allora          , allora          , ADV  , _              , _
 76-1    , TOI003 , 76   ,   76, 2    , noi             , noi             , noi             , PRON , _              , _
-76-2    , TOI003 , 76   ,   76, 3    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+76-2    , TOI003 , 76   ,   76, 3    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 76-3    , TOI003 , 76   ,   76, 4    , produciamo      , produciamo      , produrre        , VERB , _              , _
 76-4    , TOI003 , 76   ,   76, 5    , bulloneria      , bulloneria      , bulloneria      , NOUN , _              , _
 76-5    , TOI003 , 76   ,   76, 6    , e               , e               , e               , CCONJ, _              , _
@@ -282,7 +282,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 77-0    , TOR001 , 77   ,   77, 1    , mh              , mh              , mh              , INTJ , _              , _
 77-1    , TOR001 , 77   ,   77, 2    , mh              , mh              , mh              , INTJ , _              , _
 78-0    , TOI003 , 78   ,   78, 1    , esportiamo      , esportiamo      , esportare       , VERB , _              , _
-78-1    , TOI003 , 78   ,   78, 2    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+78-1    , TOI003 , 78   ,   78, 2    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 78-2    , TOI003 , 78   ,   78, 3    , in              , in              , in              , ADP  , _              , _
 78-3    , TOI003 , 78   ,   78, 4    , tutto           , tutto           , tutto           , DET  , _              , _
 78-4    , TOI003 , 78   ,   78, 5    , il              , il              , il              , DET  , _              , _
@@ -293,18 +293,18 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 80-1    , TOI003 , 80   ,   80, 2    , è::             , è               , essere          , AUX  , _              , _
 80-2    , TOI003 , 80   ,   80, 3    , mh              , mh              , mh              , INTJ , _              , _
 81-0    , TOI003 , 81   ,   81, 1    , praticamente    , praticamente    , praticamente    , ADV  , _              , _
-81-1    , TOI003 , 81   ,   81, 2    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+81-1    , TOI003 , 81   ,   81, 2    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 81-2    , TOI003 , 81   ,   81, 3    , ci              , ci              , ci              , PRON , _              , _
 81-3    , TOI003 , 81   ,   81, 4    , sono            , sono            , essere          , AUX  , _              , _
-81-4    , TOI003 , 81   ,   81, 5    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+81-4    , TOI003 , 81   ,   81, 5    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 81-5    , TOI003 , 81   ,   81, 6    , eh              , eh              , eh              , INTJ , _              , _
 81-6    , TOI003 , 81   ,   81, 7    , ditte           , ditte           , ditta           , NOUN , _              , _
 81-7    , TOI003 , 81   ,   81, 8    , come            , come            , come            , ADP  , _              , _
 81-8    , TOI003 , 81   ,   81, 9    , noi             , noi             , noi             , PRON , _              , _
-81-9    , TOI003 , 81   ,   81, 10   , (.)             , (.)             , [PAUSE]         , X    , _              , _
+81-9    , TOI003 , 81   ,   81, 10   , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 81-10   , TOI003 , 81   ,   81, 11   , che             , che             , che             , PRON , _              , _
 81-11   , TOI003 , 81   ,   81, 12   , producono       , producono       , prudurre        , VERB , _              , _
-81-12   , TOI003 , 81   ,   81, 13   , (.)             , (.)             , [PAUSE]         , X    , _              , _
+81-12   , TOI003 , 81   ,   81, 13   , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 81-13   , TOI003 , 81   ,   81, 14   , le:             , le              , il              , DET  , _              , _
 81-14   , TOI003 , 81   ,   81, 15   , bulloneria      , bulloneria      , bulloneria      , NOUN , _              , _
 81-15   , TOI003 , 81   ,   81, 16   , e               , e               , e               , CCONJ, _              , _
@@ -326,13 +326,13 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 84-0    , TOR001 , 84   ,   84, 1    , okay            , okay            , ok              , INTJ , _              , _
 85-0    , TOI003 , 85   ,   85, 1    , quindi          , quindi          , quindi          , ADV  , _              , _
 85-1    , TOI003 , 85   ,   85, 2    , siamo:          , siamo           , essere          , VERB , _              , _
-85-2    , TOI003 , 85   ,   85, 3    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+85-2    , TOI003 , 85   ,   85, 3    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 85-3    , TOI003 , 85   ,   85, 4    , un'             , un'             , uno             , DET  , _              , _
 85-4    , TOI003 , 85   ,   85, 5    , azienda         , azienda         , azienda         , NOUN , _              , _
 85-5    , TOI003 , 85   ,   85, 6    , unica           , unica           , unico           , ADJ  , _              , _
 85-6    , TOI003 , 85   ,   85, 7    , in              , in              , in              , ADP  , _              , _
 85-7    , TOI003 , 85   ,   85, 8    , italia          , italia          , italia          , NOUN , _              , _
-85-8    , TOI003 , 85   ,   85, 9    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+85-8    , TOI003 , 85   ,   85, 9    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 85-9    , TOI003 , 85   ,   85, 10   , [che            , che             , che             , PRON , _              , _
 85-10   , TOI003 , 85   ,   85, 11   , fa]             , fa              , fare            , VERB , _              , _
 85-11   , TOI003 , 85   ,   85, 12   , questa          , questa          , questo          , DET  , _              , _
@@ -344,7 +344,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 88-0    , TOR001 , 88   ,   88, 1    , e               , e               , e               , CCONJ, _              , _
 88-1    , TOR001 , 88   ,   88, 2    , di              , di              , di              , ADP  , _              , _
 88-2    , TOR001 , 88   ,   88, 3    , concreto        , concreto        , concreto        , ADJ  , _              , _
-88-3    , TOR001 , 88   ,   88, 4    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+88-3    , TOR001 , 88   ,   88, 4    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 88-4    , TOR001 , 88   ,   88, 5    , cioè            , cioè            , cioé            , ADV  , _              , _
 88-5    , TOR001 , 88   ,   88, 6    , durante         , durante         , durante         , ADP  , _              , _
 88-6    , TOR001 , 88   ,   88, 7    , il              , il              , il              , DET  , _              , _
@@ -388,7 +388,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 94-1    , TOI003 , 94   ,   94, 2    , funzionalità.   , funzionalità    , funzionalità    , NOUN , _              , _
 95-0    , TOR001 , 95   ,   95, 1    , mh              , mh              , mh              , INTJ , _              , _
 95-1    , TOR001 , 95   ,   95, 2    , mh              , mh              , mh              , INTJ , _              , _
-95-2    , TOR001 , 95   ,   95, 3    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+95-2    , TOR001 , 95   ,   95, 3    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 95-3    , TOR001 , 95   ,   95, 4    , okay            , okay            , ok              , INTJ , _              , _
 96-0    , TOR001 , 96   ,   96, 1    , tu              , tu              , tu              , PRON , _              , _
 96-1    , TOR001 , 96   ,   96, 2    , invece?         , invece          , invece          , ADV  , _              , _
@@ -405,7 +405,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 99-2    , TOI002 , 99   ,   99, 3    , più             , più             , più             , ADV  , _              , _
 99-3    , TOI002 , 99   ,   99, 4    , che             , che             , che             , SCONJ, _              , _
 99-4    , TOI002 , 99   ,   99, 5    , al[tro]         , altro           , altro           , PRON , _              , _
-99-5    , TOI002 , 99   ,   99, 6    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+99-5    , TOI002 , 99   ,   99, 6    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 99-6    , TOI002 , 99   ,   99, 7    , la              , la              , il              , DET  , _              , _
 99-7    , TOI002 , 99   ,   99, 8    , ritrutturazione , ritrutturazione , ritrutturazione , NOUN , _              , _
 99-8    , TOI002 , 99   ,   99, 9    , in              , in              , in              , ADP  , _              , _
@@ -432,7 +432,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 106-5a  , _      , _    ,  106, 6    , _               , su              , su              , ADP  , _              , _
 106-5b  , _      , _    ,  106, 7    , _               , i               , il              , DET  , _              , _
 106-6   , TOI002 , 106  ,  106, 8    , cantieri        , cantieri        , cantiere        , NOUN , _              , _
-106-7   , TOI002 , 106  ,  106, 9    , [(.)            , (.)             , [PAUSE]         , X    , _              , _
+106-7   , TOI002 , 106  ,  106, 9    , [(.)            , (.)             , PAUSE           , PAUSE, _              , _
 106-8   , TOI002 , 106  ,  106, 10   , noi]            , noi             , noi             , PRON , _              , _
 106-9   , TOI002 , 106  ,  106, 11   , siamo:          , siamo           , essere          , VERB , _              , _
 106-10  , TOI002 , 106  ,  106, 12   , un'             , un'             , uno             , DET  , _              , _
@@ -469,12 +469,12 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 113-0   , TOR003 , 113  ,  113, 1    , [però]          , però            , però            , ADV  , _              , _
 114-0   , TOI002 , 114  ,  114, 1    , il              , il              , il              , DET  , _              , _
 114-1   , TOI002 , 114  ,  114, 2    , t~              , t~              , X               , X    , _              , _
-114-2   , TOI002 , 114  ,  114, 3    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+114-2   , TOI002 , 114  ,  114, 3    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 114-3   , TOI002 , 114  ,  114, 4    , il              , il              , il              , DET  , _              , _
 114-4   , TOI002 , 114  ,  114, 5    , tempo           , tempo           , tempo           , NOUN , _              , _
 114-5   , TOI002 , 114  ,  114, 6    , lo              , lo              , lo              , PRON , _              , _
 114-6   , TOI002 , 114  ,  114, 7    , passo           , passo           , passare         , VERB , _              , _
-114-7   , TOI002 , 114  ,  114, 8    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+114-7   , TOI002 , 114  ,  114, 8    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 114-8   , TOI002 , 114  ,  114, 9    , più             , più             , più             , ADV  , _              , _
 114-9   , TOI002 , 114  ,  114, 10   , che             , che             , che             , SCONJ, _              , _
 114-10  , TOI002 , 114  ,  114, 11   , altro           , altro           , altro           , PRON , _              , _
@@ -529,7 +529,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 126-5   , TOR001 , 126  ,  126, 6    , lavori          , lavori          , lavorare        , VERB , _              , _
 126-6   , TOR001 , 126  ,  126, 7    , in              , in              , in              , ADP  , _              , _
 126-7   , TOR001 , 126  ,  126, 8    , "proprio,"      , proprio         , proprio         , ADJ  , _              , _
-126-8   , TOR001 , 126  ,  126, 9    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+126-8   , TOR001 , 126  ,  126, 9    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 126-9   , TOR001 , 126  ,  126, 10   , okay            , okay            , ok              , INTJ , _              , _
 127-0   , TOI003 , 127  ,  127, 1    , [mh             , mh              , mh              , INTJ , _              , _
 127-1   , TOI003 , 127  ,  127, 2    , mh]             , mh              , mh              , INTJ , _              , _
@@ -541,7 +541,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 128-5   , TOR001 , 128  ,  128, 6    , lavoro?         , lavoro          , lavoro          , NOUN , _              , _
 129-0   , TOI003 , 129  ,  129, 1    , [no].           , no              , no              , ADV  , _              , _
 130-0   , TOR001 , 130  ,  130, 1    , [o]             , o               , o               , CCONJ, _              , _
-130-1   , TOR001 , 130  ,  130, 2    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+130-1   , TOR001 , 130  ,  130, 2    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 130-2   , TOR001 , 130  ,  130, 3    , prima           , prima           , prima           , ADV  , _              , _
 130-3   , TOR001 , 130  ,  130, 4    , ne              , ne              , ne              , PRON , _              , _
 130-4   , TOR001 , 130  ,  130, 5    , facevate        , facevate        , fare            , VERB , _              , _
@@ -558,7 +558,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 133-0   , TOI003 , 133  ,  133, 1    , il              , il              , il              , DET  , _              , _
 133-1   , TOI003 , 133  ,  133, 2    , responsabile    , responsabile    , responsabile    , NOUN , _              , _
 133-2   , TOI003 , 133  ,  133, 3    , tecnico         , tecnico         , tecnico         , ADJ  , _              , _
-133-3   , TOI003 , 133  ,  133, 4    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+133-3   , TOI003 , 133  ,  133, 4    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 133-4   , TOI003 , 133  ,  133, 5-6  , alle            , alle            , _               , _    , _              , _
 133-4a  , _      , _    ,  133, 5    , _               , a               , a               , ADP  , _              , _
 133-4b  , _      , _    ,  133, 6    , _               , le              , il              , DET  , _              , _
@@ -591,13 +591,13 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 137-13  , TOI003 , 137  ,  137, 14   , di              , di              , di              , ADP  , _              , _
 137-14  , TOI003 , 137  ,  137, 15   , meccanica<      , meccanica       , meccanica       , NOUN , _              , _
 137-15  , TOI003 , 137  ,  137, 16   , però            , però            , però            , ADV  , _              , _
-137-16  , TOI003 , 137  ,  137, 17   , (.)             , (.)             , [PAUSE]         , X    , _              , _
+137-16  , TOI003 , 137  ,  137, 17   , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 137-17  , TOI003 , 137  ,  137, 18   , la              , la              , il              , DET  , _              , _
 137-18  , TOI003 , 137  ,  137, 19   , mia             , mia             , mio             , DET  , _              , _
 137-19  , TOI003 , 137  ,  137, 20   , mansione        , mansione        , mansione        , NOUN , _              , _
 137-20  , TOI003 , 137  ,  137, 21   , era             , era             , essere          , AUX  , _              , _
 137-21  , TOI003 , 137  ,  137, 22   , quella          , quella          , quello          , PRON , _              , _
-137-22  , TOI003 , 137  ,  137, 23   , (.)             , (.)             , [PAUSE]         , X    , _              , _
+137-22  , TOI003 , 137  ,  137, 23   , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 137-23  , TOI003 , 137  ,  137, 24-25, del             , del             , _               , _    , _              , _
 137-23a , _      , _    ,  137, 24   , _               , di              , di              , ADP  , _              , _
 137-23b , _      , _    ,  137, 25   , _               , il              , il              , DET  , _              , _
@@ -620,21 +620,21 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 141-4a  , _      , _    ,  141, 5    , _               , di              , di              , ADP  , _              , _
 141-4b  , _      , _    ,  141, 6    , _               , l'              , il              , DET  , _              , _
 141-5   , TOR001 , 141  ,  141, 7    , auto            , auto            , auto            , NOUN , _              , _
-141-6   , TOR001 , 141  ,  141, 8    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+141-6   , TOR001 , 141  ,  141, 8    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 141-7   , TOR001 , 141  ,  141, 9    , certo           , certo           , certo           , ADV  , _              , _
 141-8   , TOR001 , 141  ,  141, 10   , certo           , certo           , certo           , ADV  , _              , _
 141-9   , TOR001 , 141  ,  141, 11   , sì              , sì              , sì              , INTJ , _              , _
 141-10  , TOR001 , 141  ,  141, 12   , sì]             , sì              , sì              , INTJ , _              , _
 142-0   , TOI003 , 142  ,  142, 1    , [la             , la              , il              , DET  , _              , _
 142-1   , TOI003 , 142  ,  142, 2    , re~             , re~             , X               , X    , _              , _
-142-2   , TOI003 , 142  ,  142, 3    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+142-2   , TOI003 , 142  ,  142, 3    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 142-3   , TOI003 , 142  ,  142, 4    , la              , la              , il              , DET  , _              , _
 142-4   , TOI003 , 142  ,  142, 5    , revisione       , revisione       , revisione       , NOUN , _              , _
 142-5   , TOI003 , 142  ,  142, 6-7  , dell'           , dell'           , _               , _    , _              , _
 142-5a  , _      , _    ,  142, 6    , _               , di              , di              , ADP  , _              , _
 142-5b  , _      , _    ,  142, 7    , _               , l'              , il              , DET  , _              , _
 142-6   , TOI003 , 142  ,  142, 8    , auto            , auto            , auto            , NOUN , _              , _
-142-7   , TOI003 , 142  ,  142, 9    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+142-7   , TOI003 , 142  ,  142, 9    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 142-8   , TOI003 , 142  ,  142, 10   , io              , io              , io              , PRON , _              , _
 142-9   , TOI003 , 142  ,  142, 11   , dovevo          , dovevo          , dovere          , AUX  , _              , _
 142-10  , TOI003 , 142  ,  142, 12   , fare:           , fare            , fare            , VERB , _              , _
@@ -671,19 +671,19 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 146-10  , TOR002 , 146  ,  146, 11   , l'              , l'              , il              , DET  , _              , _
 146-11  , TOR002 , 146  ,  146, 12   , "assicurazione,", assicurazione   , assicurazione   , NOUN , _              , _
 147-0   , TOI003 , 147  ,  147, 1    , m:h             , mh              , mh              , INTJ , _              , _
-147-1   , TOI003 , 147  ,  147, 2    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+147-1   , TOI003 , 147  ,  147, 2    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 147-2   , TOI003 , 147  ,  147, 3    , MAGARI          , magari          , magari          , ADV  , _              , _
 148-0   , TOI003 , 148  ,  148, 1    , sai             , sai             , sapere          , VERB , _              , _
 148-1   , TOI003 , 148  ,  148, 2    , quanta          , quanta          , quanta          , DET  , _              , _
 148-2   , TOI003 , 148  ,  148, 3    , corruzione      , corruzione      , corruzione      , NOUN , _              , _
-148-3   , TOI003 , 148  ,  148, 4    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+148-3   , TOI003 , 148  ,  148, 4    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 148-4   , TOI003 , 148  ,  148, 5    , sai             , sai             , sapere          , VERB , _              , _
 148-5   , TOI003 , 148  ,  148, 6    , quanti          , quanti          , quanto          , DET  , _              , _
 148-6   , TOI003 , 148  ,  148, 7    , soldi           , soldi           , soldo           , NOUN , _              , _
 148-7   , TOI003 , 148  ,  148, 8    , no              , no              , no              , ADV  , _              , _
 148-8   , TOI003 , 148  ,  148, 9    , purtroppo       , purtroppo       , purtroppo       , ADV  , _              , _
 148-9   , TOI003 , 148  ,  148, 10   , no              , no              , no              , ADV  , _              , _
-148-10  , TOI003 , 148  ,  148, 11   , (.)             , (.)             , [PAUSE]         , X    , _              , _
+148-10  , TOI003 , 148  ,  148, 11   , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 148-11  , TOI003 , 148  ,  148, 12   , hanno           , hanno           , avere           , AUX  , _              , _
 148-12  , TOI003 , 148  ,  148, 13   , provato         , provato         , provare         , VERB , _              , _
 148-13  , TOI003 , 148  ,  148, 14   , a               , a               , a               , ADP  , _              , _
@@ -702,7 +702,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 153-2   , TOI003 , 153  ,  153, 3    , più             , più             , più             , ADV  , _              , _
 153-3   , TOI003 , 153  ,  153, 4    , quello          , quello          , quello          , PRON , _              , _
 153-4   , TOI003 , 153  ,  153, 5    , che             , che             , che             , PRON , _              , _
-153-5   , TOI003 , 153  ,  153, 6    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+153-5   , TOI003 , 153  ,  153, 6    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 153-6   , TOI003 , 153  ,  153, 7    , che             , che             , che             , PRON , _              , _
 153-7   , TOI003 , 153  ,  153, 8    , perdevi         , perdevi         , perdere         , VERB , _              , _
 153-8   , TOI003 , 153  ,  153, 9    , che             , che             , che             , SCONJ, _              , _
@@ -715,7 +715,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 153-15  , TOI003 , 153  ,  153, 16   , anche           , anche           , anche           , ADV  , _              , _
 153-16  , TOI003 , 153  ,  153, 17   , gli             , gli             , il              , DET  , _              , _
 153-17  , TOI003 , 153  ,  153, 18   , ispettori       , ispettori       , ispettore       , NOUN , _              , _
-153-18  , TOI003 , 153  ,  153, 19   , (.)             , (.)             , [PAUSE]         , X    , _              , _
+153-18  , TOI003 , 153  ,  153, 19   , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 153-19  , TOI003 , 153  ,  153, 20-21, della           , della           , _               , _    , _              , _
 153-19a , _      , _    ,  153, 20   , _               , di              , di              , ADP  , _              , _
 153-19b , _      , _    ,  153, 21   , _               , la              , il              , DET  , _              , _
@@ -724,7 +724,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 155-0   , TOI003 , 155  ,  155, 1    , eh              , eh              , eh              , INTJ , _              , _
 155-1   , TOI003 , 155  ,  155, 2    , cammuffati      , cammuffati      , cammuffare      , VERB , _              , _
 155-2   , TOI003 , 155  ,  155, 3    , da::            , da              , da              , ADP  , _              , _
-155-3   , TOI003 , 155  ,  155, 4    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+155-3   , TOI003 , 155  ,  155, 4    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 155-4   , TOI003 , 155  ,  155, 5    , da              , da              , da              , ADP  , _              , _
 155-5   , TOI003 , 155  ,  155, 6    , un              , un              , uno             , DET  , _              , _
 155-6   , TOI003 , 155  ,  155, 7    , privato         , privato         , privato         , NOUN , _              , _
@@ -771,9 +771,9 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 159-3a  , _      , _    ,  159, 4    , _               , di              , di              , ADP  , _              , _
 159-3b  , _      , _    ,  159, 5    , _               , le              , il              , DET  , _              , _
 159-4   , TOI003 , 159  ,  159, 6    , cagate          , cagate          , cagata          , NOUN , _              , _
-159-5   , TOI003 , 159  ,  159, 7    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+159-5   , TOI003 , 159  ,  159, 7    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 159-6   , TOI003 , 159  ,  159, 8    , e::h            , eh              , eh              , INTJ , _              , _
-159-7   , TOI003 , 159  ,  159, 9    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+159-7   , TOI003 , 159  ,  159, 9    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 159-8   , TOI003 , 159  ,  159, 10   , ti              , ti              , ti              , PRON , _              , _
 159-9   , TOI003 , 159  ,  159, 11   , mandavano       , mandavano       , mandare         , VERB , _              , _
 159-10  , TOI003 , 159  ,  159, 12-13, dal(la)         , dalla           , _               , _    , _              , _
@@ -793,14 +793,14 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 161-6   , TOI003 , 161  ,  161, 7    , e               , e               , e               , CCONJ, _              , _
 161-7   , TOI003 , 161  ,  161, 8    , penale.         , penale          , penale          , ADJ  , _              , _
 162-0   , TOI003 , 162  ,  162, 1    , sì              , sì              , sì              , ADV  , _              , _
-162-1   , TOI003 , 162  ,  162, 2    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+162-1   , TOI003 , 162  ,  162, 2    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 162-2   , TOI003 , 162  ,  162, 3    , (dopo           , dopo            , dopo            , ADP  , _              , _
 162-3   , TOI003 , 162  ,  162, 4    , sì)             , sì              , sì              , ADV  , _              , _
 162-4   , TOI003 , 162  ,  162, 5    , metti           , metti           , mettere         , VERB , _              , _
 162-5   , TOI003 , 162  ,  162, 6    , una             , una             , uno             , DET  , _              , _
 162-6   , TOI003 , 162  ,  162, 7    , firma           , firma           , firma           , NOUN , _              , _
 162-7   , TOI003 , 162  ,  162, 8    , quindi          , quindi          , quindi          , ADV  , _              , _
-162-8   , TOI003 , 162  ,  162, 9    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+162-8   , TOI003 , 162  ,  162, 9    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 162-9   , TOI003 , 162  ,  162, 10   , hai             , hai             , avere           , VERB , _              , _
 162-10  , TOI003 , 162  ,  162, 11   , la              , la              , il              , DET  , _              , _
 162-11  , TOI003 , 162  ,  162, 12   , repsonsabilità  , repsonsabilità  , repsonsabilità  , NOUN , _              , _
@@ -847,7 +847,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 167-20  , TOI003 , 167  ,  167, 21   , aveva           , aveva           , avere           , VERB , _              , _
 167-21  , TOI003 , 167  ,  167, 22   , un              , un              , uno             , DET  , _              , _
 167-22  , TOI003 , 167  ,  167, 23   , problema        , problema        , problema        , NOUN , _              , _
-167-23  , TOI003 , 167  ,  167, 24   , (.)             , (.)             , [PAUSE]         , X    , _              , _
+167-23  , TOI003 , 167  ,  167, 24   , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 167-24  , TOI003 , 167  ,  167, 25-26, ai              , ai              , _               , _    , _              , _
 167-24a , _      , _    ,  167, 25   , _               , a               , a               , ADP  , _              , _
 167-24b , _      , _    ,  167, 26   , _               , i               , il              , DET  , _              , _
@@ -858,7 +858,7 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 169-0   , TOI003 , 169  ,  169, 1    , [e              , e               , e               , CCONJ, _              , _
 169-1   , TOI003 , 169  ,  169, 2    , ti              , ti              , ti              , PRON , _              , _
 169-2   , TOI003 , 169  ,  169, 3    , inves]tiva      , investiva       , investire       , VERB , _              , _
-169-3   , TOI003 , 169  ,  169, 4    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+169-3   , TOI003 , 169  ,  169, 4    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 169-4   , TOI003 , 169  ,  169, 5    , io              , io              , io              , PRON , _              , _
 169-5   , TOI003 , 169  ,  169, 6    , andavo          , andavo          , andare          , VERB , _              , _
 169-6   , TOI003 , 169  ,  169, 7    , in              , in              , in              , ADP  , _              , _
@@ -884,9 +884,9 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 173-6   , TOI003 , 173  ,  173, 7    , e               , e               , e               , CCONJ, _              , _
 173-7   , TOI003 , 173  ,  173, 8    , processi        , processi        , processo        , NOUN , _              , _
 173-8   , TOI003 , 173  ,  173, 9    , magari          , magari          , magari          , ADV  , _              , _
-173-9   , TOI003 , 173  ,  173, 10   , (.)             , (.)             , [PAUSE]         , X    , _              , _
+173-9   , TOI003 , 173  ,  173, 10   , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 173-10  , TOI003 , 173  ,  173, 11   , però            , però            , però            , ADV  , _              , _
-173-11  , TOI003 , 173  ,  173, 12   , (.)             , (.)             , [PAUSE]         , X    , _              , _
+173-11  , TOI003 , 173  ,  173, 12   , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 173-12  , TOI003 , 173  ,  173, 13   , sei             , sei             , essere          , AUX  , _              , _
 173-13  , TOI003 , 173  ,  173, 14   , rovinato.       , rovinato        , rovinare        , VERB , _              , _
 174-0   , TOR003 , 174  ,  174, 1-2  , nel             , nel             , _               , _    , _              , _
@@ -931,18 +931,18 @@ token_id, speaker, tu_id, unit, id   , span            , form            , lemma
 186-1   , TOI002 , 186  ,  186, 2    , ho              , ho              , avere           , AUX  , _              , _
 186-2   , TOI002 , 186  ,  186, 3    , fatto::         , fatto           , fare            , VERB , _              , _
 186-3   , TOI002 , 186  ,  186, 4    , mh              , mh              , mh              , INTJ , _              , _
-186-4   , TOI002 , 186  ,  186, 5    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+186-4   , TOI002 , 186  ,  186, 5    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 186-5   , TOI002 , 186  ,  186, 6    , pavimenti       , pavimenti       , pavimento       , NOUN , _              , _
 186-6   , TOI002 , 186  ,  186, 7    , in              , in              , in              , ADP  , _              , _
 186-7   , TOI002 , 186  ,  186, 8    , resina          , resina          , resina          , NOUN , _              , _
-186-8   , TOI002 , 186  ,  186, 9    , (.)             , (.)             , [PAUSE]         , X    , _              , _
+186-8   , TOI002 , 186  ,  186, 9    , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 186-9   , TOI002 , 186  ,  186, 10   , da              , da              , da              , ADP  , _              , _
 186-10  , TOI002 , 186  ,  186, 11   , operaio         , operaio         , operaio         , NOUN , _              , _
-186-11  , TOI002 , 186  ,  186, 12   , (.)             , (.)             , [PAUSE]         , X    , _              , _
+186-11  , TOI002 , 186  ,  186, 12   , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 186-12  , TOI002 , 186  ,  186, 13   , [in             , in              , in              , ADP  , _              , _
 186-13  , TOI002 , 186  ,  186, 14   , una             , una             , uno             , DET  , _              , _
 186-14  , TOI002 , 186  ,  186, 15   , ditta]:         , ditta           , ditta           , NOUN , _              , _
-186-15  , TOI002 , 186  ,  186, 16   , (.)             , (.)             , [PAUSE]         , X    , _              , _
+186-15  , TOI002 , 186  ,  186, 16   , (.)             , (.)             , PAUSE           , PAUSE, _              , _
 186-16  , TOI002 , 186  ,  186, 17   , che             , che             , che             , PRON , _              , _
 186-17  , TOI002 , 186  ,  186, 18   , conoscevamo     , conoscevamo     , conoscere       , VERB , _              , _
 187-0   , TOR001 , 187  ,  187, 1    , [okay]          , okay            , ok              , INTJ , _              , _

@@ -16,7 +16,7 @@ token_id, speaker, tu_id, unit, id   , span                                     
 2-4     , BO094  , 2    ,    2, 6    , naturale.                                      , naturale                                       , naturale                          , ADJ  , Intonation=falling      , _
 3-0     , BO094  , 3    ,    3, 1    , la                                             , la                                             , il                                , DET  , _                       , _
 3-1     , BO094  , 3    ,    3, 2    , lezione                                        , lezione                                        , lezione                           , NOUN , _                       , _
-3-2     , BO094  , 3    ,    3, 3    , (.)                                            , (.)                                            , _                                 , _    , _                       , _
+3-2     , BO094  , 3    ,    3, 3    , (.)                                            , (.)                                            , PAUSE                             , PAUSE, _                       , _
 3-3     , BO094  , 3    ,    3, 4    , sta                                            , sta                                            , stare                             , AUX  , _                       , _
 3-4     , BO094  , 3    ,    3, 5    , riprendendo.                                   , riprendendo                                    , riprendere                        , VERB , Intonation=falling      , _
 4-0     , BO094  , 4    ,    4, 1    , allora                                         , allora                                         , allora                            , ADV  , _                       , _
@@ -341,7 +341,7 @@ token_id, speaker, tu_id, unit, id   , span                                     
 55-2    , BO094  , 55   ,   55, 3    , anche                                          , anche                                          , anche                             , ADV  , _                       , _
 55-3    , BO094  , 55   ,   55, 4    , una                                            , una                                            , uno                               , DET  , _                       , _
 55-4    , BO094  , 55   ,   55, 5    , derivazione                                    , derivazione                                    , derivazione                       , NOUN , _                       , _
-55-5    , BO094  , 55   ,   55, 6    , (.)                                            , (.)                                            , _                                 , _    , _                       , _
+55-5    , BO094  , 55   ,   55, 6    , (.)                                            , (.)                                            , PAUSE                             , PAUSE, _                       , _
 55-6    , BO094  , 55   ,   55, 7    , in                                             , in                                             , in                                , ADP  , _                       , _
 55-7    , BO094  , 55   ,   55, 8    , deduzione                                      , deduzione                                      , deduzione                         , NOUN , _                       , _
 55-8    , BO094  , 55   ,   55, 9    , xxx.                                           , xxx                                            , x                                 , X    , Intonation=falling      , _
@@ -597,7 +597,7 @@ token_id, speaker, tu_id, unit, id   , span                                     
 94-2    , BO094  , 94   ,   94, 3    , credo                                          , credo                                          , credere                           , VERB , _                       , _
 94-3    , BO094  , 94   ,   94, 4    , di                                             , di                                             , di                                , ADP  , _                       , _
 94-4    , BO094  , 94   ,   94, 5    , non                                            , non                                            , non                               , ADV  , _                       , _
-94-5    , BO094  , 94   ,   94, 6    , avervene                                       , avervene                                       , _                          , _    , _                       , _
+94-5    , BO094  , 94   ,   94, 6    , avervene                                       , avervene                                       , _                                 , _    , _                       , _
 94-5a   ,        ,      ,     ,      ,                                                , aver                                           , avere                             , AUX  , _                       , _
 94-5b   ,        ,      ,     ,      ,                                                , ve                                             , ve                                , PRON , _                       , _
 94-5c   ,        ,      ,     ,      ,                                                , ne                                             , ne                                , PRON , _                       , _
@@ -1469,7 +1469,7 @@ token_id, speaker, tu_id, unit, id   , span                                     
 229-0   , BO094  , 229  ,  229, 1    , o                                              , o                                              , o                                 , CCONJ, _                       , _
 229-1   , BO094  , 229  ,  229, 2    , lo                                             , lo                                             , il                                , DET  , _                       , _
 230-0   , BO094  , 230  ,  230, 1    , l'                                             , l'                                             , il                                , DET  , Truncated=Yes           , _
-230-1   , BO094  , 230  ,  230, 2    , arti~                                         , arti~                                         , x                                 , X    , _                       , _
+230-1   , BO094  , 230  ,  230, 2    , arti~                                          , arti~                                          , x                                 , X    , _                       , _
 230-2   , BO094  , 230  ,  230, 3    , determinativo                                  , determinativo                                  , determinativo                     , NOUN , _                       , _
 230-3   , BO094  , 230  ,  230, 4    , il                                             , il                                             , il                                , DET  , _                       , _
 231-0   , BO094  , 231  ,  231, 1    , e::hm                                          , ehm                                            , ehm                               , INTJ , _                       , _
@@ -3090,7 +3090,7 @@ token_id, speaker, tu_id, unit, id   , span                                     
 441-5   , BO094  , 441  ,  441, 6    , che                                            , che                                            , che                               , ADP  , _                       , _
 441-6   , BO094  , 441  ,  441, 7    , xx                                             , xx                                             , x                                 , X    , _                       , _
 441-7   , BO094  , 441  ,  441, 8    , di                                             , di                                             , di                                , ADP  , _                       , _
-441-9        ,        ,      ,     ,      , un                                             , un                                             , uno                               , DET  , _                       , _
+441-9   ,        ,      ,     ,      , un                                             , un                                             , uno                               , DET  , _                       , _
 441-8   , BO094  , 441  ,  441, 9    , xxx                                            , xxx                                            , x                                 , X    , _                       , _
 442-0   , BO094  , 442  ,  442, 1    , quindi                                         , quindi                                         , quindi                            , ADV  , _                       , _
 442-1   , BO094  , 442  ,  442, 2    , studiare                                       , studiare                                       , studiare                          , VERB , _                       , _
@@ -3470,7 +3470,7 @@ token_id, speaker, tu_id, unit, id   , span                                     
 490-0   , BO094  , 490  ,  490, 1    , è                                              , è                                              , essere                            , AUX  , _                       , _
 490-1   , BO094  , 490  ,  490, 2    , chiaro                                         , chiaro                                         , chiaro                            , ADJ  , _                       , _
 490-2   , BO094  , 490  ,  490, 3    , che                                            , che                                            , che                               , SCONJ, _                       , _
-490-3   , BO094  , 490  ,  490, 4    , (.)                                            , (.)                                            , _                                 , _    , _                       , _
+490-3   , BO094  , 490  ,  490, 4    , (.)                                            , (.)                                            , PAUSE                             , PAUSE, _                       , _
 490-4   , BO094  , 490  ,  490, 5    , i                                              , i                                              , il                                , DET  , _                       , _
 490-5   , BO094  , 490  ,  490, 6    , "matematici,"                                  , matematici                                     , matematico                        , NOUN , Intonation=weakly_rising, _
 491-0   , BO094  , 491  ,  491, 1    , da                                             , da                                             , da                                , ADP  , _                       , _
@@ -4913,9 +4913,9 @@ token_id, speaker, tu_id, unit, id   , span                                     
 671-4   , BO094  , 671  ,  671, 5    , di                                             , di                                             , di                                , ADP  , _                       , _
 671-5   , BO094  , 671  ,  671, 6    , tempo                                          , tempo                                          , tempo                             , NOUN , _                       , _
 671-6   , BO094  , 671  ,  671, 7    , per                                            , per                                            , per                               , ADP  , _                       , _
-671-7   , BO094  , 671  ,  671, 8    , leggervi                                       , leggervi                                       , _                          , _     , _                       , _
-671-7a        ,        ,      ,     ,      , _                                              , legger                                         , leggere                           , VERB , _                       , _
-671-7b        ,        ,      ,     ,      , _                                              , vi                                             , vi                                , PRON , _                       , _
+671-7   , BO094  , 671  ,  671, 8    , leggervi                                       , leggervi                                       , _                                 , _    , _                       , _
+671-7a  ,        ,      ,     ,      , _                                              , legger                                         , leggere                           , VERB , _                       , _
+671-7b  ,        ,      ,     ,      , _                                              , vi                                             , vi                                , PRON , _                       , _
 671-8   , BO094  , 671  ,  671, 9    , i                                              , i                                              , il                                , DET  , _                       , _
 671-9   , BO094  , 671  ,  671, 10   , "foglietti,"                                   , foglietti                                      , foglietto                         , NOUN , Intonation=weakly_rising, _
 672-0   , BO094  , 672  ,  672, 1    , a                                              , a                                              , a                                 , ADP  , _                       , _
@@ -5335,9 +5335,9 @@ token_id, speaker, tu_id, unit, id   , span                                     
 743-2   , BO094  , 743  ,  743, 3    , esempio                                        , esempio                                        , esempio                           , NOUN , _                       , _
 743-3   , BO094  , 743  ,  743, 4    , potrebbe                                       , potrebbe                                       , potere                            , AUX  , _                       , _
 743-4   , BO094  , 743  ,  743, 5    , essere                                         , essere                                         , essere                            , AUX  , _                       , _
-743-5   , BO094  , 743  ,  743, 6    , limitiamoci                                    , limitiamoci                                    , _                                  , _     , _                       , _
-743-5a        ,        ,      ,     ,      , _                                              , limitiamo                                       , limitare                          , VERB , _                       , _
-743-5b        ,        ,      ,     ,      ,                                                , ci                                             , ci                                , PRON , _                       , _
+743-5   , BO094  , 743  ,  743, 6    , limitiamoci                                    , limitiamoci                                    , _                                 , _    , _                       , _
+743-5a  ,        ,      ,     ,      , _                                              , limitiamo                                      , limitare                          , VERB , _                       , _
+743-5b  ,        ,      ,     ,      ,                                                , ci                                             , ci                                , PRON , _                       , _
 743-6   , BO094  , 743  ,  743, 7    , a                                              , a                                              , a                                 , ADP  , _                       , _
 743-7   , BO094  , 743  ,  743, 8    , questo.                                        , questo                                         , questo                            , PRON , Intonation=falling      , _
 744-0   , BO094  , 744  ,  744, 1    , potrebbe                                       , potrebbe                                       , potere                            , AUX  , _                       , _
@@ -7690,7 +7690,7 @@ token_id, speaker, tu_id, unit, id   , span                                     
 1063-8  , BO094  , 1063 , 1063, 9    , alta                                           , alta                                           , alto                              , ADJ  , _                       , _
 1063-9  , BO094  , 1063 , 1063, 10   , la                                             , la                                             , il                                , DET  , _                       , _
 1063-10 , BO094  , 1063 , 1063, 11   , dica                                           , dica                                           , dica                              , NOUN , _                       , _
-1063-11 , BO094  , 1063 , 1063, 12   , (.)                                            , (.)                                            , _                                 , _    , _                       , _
+1063-11 , BO094  , 1063 , 1063, 12   , (.)                                            , (.)                                            , PAUSE                             , PAUSE, _                       , _
 1063-12 , BO094  , 1063 , 1063, 13   , de                                             , de                                             , di                                , ADP  , _                       , _
 1063-13 , BO094  , 1063 , 1063, 14   , morgan                                         , morgan                                         , morgano                           , NOUN , _                       , _
 1063-14 , BO094  , 1063 , 1063, 15   , è                                              , è                                              , essere                            , AUX  , _                       , _
@@ -7847,7 +7847,7 @@ token_id, speaker, tu_id, unit, id   , span                                     
 1082-1  , BO094  , 1082 , 1082, 2    , cinque                                         , cinque                                         , cinque                            , NUM  , _                       , _
 1082-2  , BO094  , 1082 , 1082, 3    , minuti                                         , minuti                                         , minuto                            , NOUN , _                       , _
 1082-3  , BO094  , 1082 , 1082, 4    , di                                             , di                                             , di                                , ADP  , _                       , _
-1082-6        ,        ,      ,     ,      , intervallo                                     , intervallo                                     , intervallo                        , NOUN , _                       , _
+1082-6  ,        ,      ,     ,      , intervallo                                     , intervallo                                     , intervallo                        , NOUN , _                       , _
 1082-4  , BO094  , 1082 , 1082, 5    , poi                                            , poi                                            , poi                               , ADV  , _                       , _
 1082-5  , BO094  , 1082 , 1082, 6    , riprendiamo.                                   , riprendiamo                                    , riprendare                        , VERB , Intonation=falling      , _
 1083-0  , ???    , 1083 , 1083, 1    , io                                             , io                                             , io                                , PRON , _                       , _

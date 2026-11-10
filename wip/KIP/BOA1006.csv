@@ -82,13 +82,13 @@ token_id, speaker, tu_id, span              , form            , lemma           
 15-7    , BO034  , 15   , m:h               , mh              , mh              , INTJ , _              , _
 15-8    , BO034  , 15   , che               , che             , che             , SCONJ, _              , _
 15-9    , BO034  , 15   , praticamente      , praticamente    , praticamente    , ADV  , _              , _
-15-10   , BO034  , 15   , (.)               , (.)             , [PAUSE]         , X    , _              , _
+15-10   , BO034  , 15   , (.)               , (.)             , PAUSE           , PAUSE, _              , _
 15-11   , BO034  , 15   , h[a               , ha              , avere           , AUX  , _              , _
 15-12   , BO034  , 15   , trovat]o          , trovato         , trovare         , VERB , _              , _
 15-13   , BO034  , 15   , un'               , un'             , uno             , DET  , _              , _
 15-14   , BO034  , 15   , altra             , altra           , altro           , ADJ  , _              , _
 15-15   , BO034  , 15   , re~               , re~             , re~             , X    , _              , _
-15-16   , BO034  , 15   , (.)               , (.)             , [PAUSE]         , X    , _              , _
+15-16   , BO034  , 15   , (.)               , (.)             , PAUSE           , PAUSE, _              , _
 15-17   , BO034  , 15   , un'               , un'             , uno             , DET  , _              , _
 15-18   , BO034  , 15   , altra             , altra           , altro           , ADJ  , _              , _
 15-19   , BO034  , 15   , "[relatric(e)],"  , relatrice       , relatore        , NOUN , _              , _
@@ -195,7 +195,7 @@ token_id, speaker, tu_id, span              , form            , lemma           
 27-10   , BO034  , 27   , "SE,"             , se              , se              , SCONJ, _              , _
 28-0    , BO034  , 28   , è                 , è               , essere          , AUX  , _              , _
 28-1    , BO034  , 28   , possib[ile]       , possibile       , possibile       , ADJ  , _              , _
-28-2    , BO034  , 28   , (.)               , (.)             , [PAUSE]         , X    , _              , _
+28-2    , BO034  , 28   , (.)               , (.)             , PAUSE           , PAUSE, _              , _
 28-3    , BO034  , 28   , s~                , s~              , s~              , X    , _              , _
 28-4    , BO034  , 28   , se                , se              , se              , SCONJ, _              , _
 28-5    , BO034  , 28   , "[possibile],"    , possibile       , possibile       , ADJ  , _              , _
@@ -218,7 +218,7 @@ token_id, speaker, tu_id, span              , form            , lemma           
 35-1    , BO026  , 35   , in                , in              , in              , ADP  , _              , _
 35-2    , BO026  , 35   , sostituzione      , sostituzione    , sostituzione    , NOUN , _              , _
 35-3    , BO026  , 35   , di                , di              , di              , ADP  , _              , _
-35-4    , BO026  , 35   , (.)               , (.)             , [PAUSE]         , X    , _              , _
+35-4    , BO026  , 35   , (.)               , (.)             , PAUSE           , PAUSE, _              , _
 35-5    , BO026  , 35   , licia.            , licia           , Licia           , PROPN, _              , _
 36-0    , BO034  , 36   , se                , se              , se              , SCONJ, _              , _
 36-1    , BO034  , 36   , possib[ile        , possibile       , possibile       , ADJ  , _              , _
@@ -438,7 +438,7 @@ token_id, speaker, tu_id, span              , form            , lemma           
 60-5    , BO034  , 60   , questa            , questa          , questo          , DET  , _              , _
 60-6    , BO034  , 60   , idea              , idea            , idea            , NOUN , _              , _
 60-7    , BO034  , 60   , di:               , di              , di              , ADP  , _              , _
-60-8    , BO034  , 60   , (.)               , (.)             , [PAUSE]         , X    , _              , _
+60-8    , BO034  , 60   , (.)               , (.)             , PAUSE           , PAUSE, _              , _
 60-9    , BO034  , 60   , magari            , magari          , magari          , ADV  , _              , _
 60-10   , BO034  , 60   , anal~             , anal~           , anal~           , X    , _              , _
 60-11   , BO034  , 60   , mh                , mh              , mh              , INTJ , _              , _
@@ -484,7 +484,7 @@ token_id, speaker, tu_id, span              , form            , lemma           
 64-1    , BO026  , 64   , nella::           , nella           , _               , _    , _              , _
 64-1a   , _      , _    , _                 , in              , in              , ADP  , _              , _
 64-1b   , _      , _    , _                 , la              , il              , DET  , _              , _
-64-2    , BO026  , 64   , (.)               , (.)             , [PAUSE]         , X    , _              , _
+64-2    , BO026  , 64   , (.)               , (.)             , PAUSE           , PAUSE, _              , _
 64-3    , BO026  , 64   , e:h               , eh              , eh              , INTJ , _              , _
 64-4    , BO026  , 64   , m:h               , mh              , mh              , NOUN , _              , _
 65-0    , BO026  , 65   , nel               , nel             , _               , _    , _              , _
@@ -507,7 +507,7 @@ token_id, speaker, tu_id, span              , form            , lemma           
 65-15   , BO026  , 65   , codice            , codice          , codice          , NOUN , _              , _
 65-16   , BO026  , 65   , marcato           , marcato         , marcato         , ADJ  , _              , _
 65-17   , BO026  , 65   , perché            , perché          , perché          , SCONJ, _              , _
-65-18   , BO026  , 65   , (.)               , (.)             , [PAUSE]         , X    , _              , _
+65-18   , BO026  , 65   , (.)               , (.)             , PAUSE           , PAUSE, _              , _
 65-19   , BO026  , 65   , è                 , è               , essere          , AUX  , _              , _
 65-20   , BO026  , 65   , parlato           , parlato         , parlare         , VERB , _              , _
 65-21   , BO026  , 65   , quotidianamente   , quotidianamente , quotidianamente , ADV  , _              , _
@@ -590,7 +590,7 @@ token_id, speaker, tu_id, span              , form            , lemma           
 75-5a   , _      , _    , _                 , su              , su              , ADP  , _              , _
 75-5b   , _      , _    , _                 , il              , il              , DET  , _              , _
 75-6    , BO026  , 75   , i::               , i               , il              , DET  , _              , _
-75-7    , BO026  , 75   , (.)               , (.)             , [PAUSE]         , X    , _              , _
+75-7    , BO026  , 75   , (.)               , (.)             , PAUSE           , PAUSE, _              , _
 75-8    , BO026  , 75   , non               , non             , non             , ADV  , _              , _
 75-9    , BO026  , 75   , nativi            , nativi          , nativo          , NOUN , _              , _
 75-10   , BO026  , 75   , di                , di              , di              , ADP  , _              , _
@@ -613,7 +613,7 @@ token_id, speaker, tu_id, span              , form            , lemma           
 76-7    , BO026  , 76   , "stranieri,"      , stranieri       , straniero       , ADJ  , _              , _
 77-0    , BO034  , 77   , sì                , sì              , sì              , ADV  , _              , _
 77-1    , BO034  , 77   , io                , io              , io              , PRON , _              , _
-77-2    , BO034  , 77   , (.)               , (.)             , [PAUSE]         , X    , _              , _
+77-2    , BO034  , 77   , (.)               , (.)             , PAUSE           , PAUSE, _              , _
 77-3    , BO034  , 77   , al~               , al~             , al~             , X    , _              , _
 77-4    , BO034  , 77   , allora            , allora          , allora          , ADV  , _              , _
 77-5    , BO034  , 77   , questo            , questo          , questo          , PRON , _              , _
@@ -625,7 +625,7 @@ token_id, speaker, tu_id, span              , form            , lemma           
 77-11   , BO034  , 77   , mi                , mi              , mi              , PRON , _              , _
 77-12   , BO034  , 77   , era               , era             , essere          , AUX  , _              , _
 77-13   , BO034  , 77   , venuta            , venuta          , venire          , VERB , _              , _
-77-14   , BO034  , 77   , (.)               , (.)             , [PAUSE]         , X    , _              , _
+77-14   , BO034  , 77   , (.)               , (.)             , PAUSE           , PAUSE, _              , _
 77-15   , BO034  , 77   , più               , più             , più             , ADV  , _              , _
 77-16   , BO034  , 77   , una               , una             , uno             , DET  , _              , _
 77-17   , BO034  , 77   , una               , una             , una             , DET  , _              , _
@@ -694,7 +694,7 @@ token_id, speaker, tu_id, span              , form            , lemma           
 87-2    , BO034  , 87   , studenti          , studenti        , studente        , NOUN , _              , _
 87-3    , BO034  , 87   , di                , di              , di              , ADP  , _              , _
 87-4    , BO034  , 87   , italiano::        , italiano        , italiano        , NOUN , _              , _
-87-5    , BO034  , 87   , (.)               , (.)             , [PAUSE]         , X    , _              , _
+87-5    , BO034  , 87   , (.)               , (.)             , PAUSE           , PAUSE, _              , _
 87-6    , BO034  , 87   , (ho)              , ho              , avere           , VERB , _              , _
 87-7    , BO034  , 87   , studenti          , studenti        , studente        , NOUN , _              , _
 87-8    , BO034  , 87   , stranieri         , stranieri       , straniero       , ADJ  , _              , _
@@ -720,7 +720,7 @@ token_id, speaker, tu_id, span              , form            , lemma           
 89-4b   , _      , _    , _                 , il              , il              , DET  , _              , _
 89-5    , BO026  , 89   , suo               , suo             , suo             , DET  , _              , _
 89-6    , BO026  , 89   , contesto          , contesto        , contesto        , NOUN , _              , _
-89-7    , BO026  , 89   , (.)               , (.)             , [PAUSE]         , X    , _              , _
+89-7    , BO026  , 89   , (.)               , (.)             , PAUSE           , PAUSE, _              , _
 89-8    , BO026  , 89   , a:                , a               , a               , ADP  , _              , _
 89-9    , BO026  , 89   , una               , una             , uno             , DET  , _              , _
 89-10   , BO026  , 89   , provenienza       , provenienza     , provenienza     , NOUN , _              , _
@@ -816,7 +816,7 @@ token_id, speaker, tu_id, span              , form            , lemma           
 101-0   , BO026  , 101  , o                 , o               , o               , CCONJ, _              , _
 101-1   , BO026  , 101  , extrascolastico   , extrascolastico , extrascolastico , ADJ  , _              , _
 101-2   , BO026  , 101  , oppure            , oppure          , oppure          , CCONJ, _              , _
-101-3   , BO026  , 101  , (.)               , (.)             , [PAUSE]         , X    , _              , _
+101-3   , BO026  , 101  , (.)               , (.)             , PAUSE           , PAUSE, _              , _
 101-4   , BO026  , 101  , nelle             , nelle           , _               , _    , _              , _
 101-4a  , _      , _    , _                 , in              , in              , ADP  , _              , _
 101-4b  , _      , _    , _                 , le              , il              , DET  , _              , _
@@ -884,7 +884,7 @@ token_id, speaker, tu_id, span              , form            , lemma           
 114-5   , BO034  , 114  , documento         , documento       , documento       , VERB , _              , _
 114-6   , BO034  , 114  , e::               , e               , e               , CCONJ, _              , _
 115-0   , BO026  , 115  , perché            , perché          , perché          , SCONJ, _              , _
-115-1   , BO026  , 115  , (.)               , (.)             , [PAUSE]         , X    , _              , _
+115-1   , BO026  , 115  , (.)               , (.)             , PAUSE           , PAUSE, _              , _
 115-2   , BO026  , 115  , n~                , n~              , n~              , X    , _              , _
 115-3   , BO026  , 115  , un                , un              , uno             , DET  , _              , _
 115-4   , BO026  , 115  , un                , un              , uno             , DET  , _              , _
@@ -899,7 +899,7 @@ token_id, speaker, tu_id, span              , form            , lemma           
 115-13  , BO026  , 115  , hanno             , hanno           , avere           , VERB , _              , _
 115-14  , BO026  , 115  , gli               , gli             , il              , DET  , _              , _
 115-15  , BO026  , 115  , alunni            , alunni          , alunno          , NOUN , _              , _
-115-16  , BO026  , 115  , (.)               , (.)             , [PAUSE]         , X    , _              , _
+115-16  , BO026  , 115  , (.)               , (.)             , PAUSE           , PAUSE, _              , _
 115-17  , BO026  , 115  , stranieri.        , stranieri       , straniero       , ADJ  , _              , _
 116-0   , BO034  , 116  , o[ka~]            , oka~            , oka~            , X    , _              , _
 117-0   , BO026  , 117  , [della            , della           , _               , _    , _              , _
@@ -1020,7 +1020,7 @@ token_id, speaker, tu_id, span              , form            , lemma           
 137-0   , BO026  , 137  , e                 , e               , e               , CCONJ, _              , _
 137-1   , BO026  , 137  , poi::             , poi             , poi             , ADV  , _              , _
 137-2   , BO026  , 137  , definiamo         , definiamo       , definire        , VERB , _              , _
-137-3   , BO026  , 137  , (.)               , (.)             , [PAUSE]         , X    , _              , _
+137-3   , BO026  , 137  , (.)               , (.)             , PAUSE           , PAUSE, _              , _
 137-4   , BO026  , 137  , quale             , quale           , quale           , DET  , _              , _
 137-5   , BO026  , 137  , argomento.        , argomento       , argomento       , NOUN , _              , _
 138-0   , BO034  , 138  , okay.             , okay            , okay            , INTJ , _              , _

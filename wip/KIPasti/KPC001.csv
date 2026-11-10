@@ -57,7 +57,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 20-0    , PKP026 , 20   ,   20, 1    , sabato:            , sabato            , sabato         , NOUN , _              , _
 20-1    , PKP026 , 20   ,   20, 2    , <ho                , ho                , avere          , AUX  , _              , _
 20-2    , PKP026 , 20   ,   20, 3    , prenotato:>        , prenotato         , prenotare      , VERB , _              , _
-20-3    , PKP026 , 20   ,   20, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+20-3    , PKP026 , 20   ,   20, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 20-4    , PKP026 , 20   ,   20, 5    , in                 , in                , in             , ADP  , _              , _
 20-5    , PKP026 , 20   ,   20, 6    , un                 , un                , uno            , DET  , _              , _
 20-6    , PKP026 , 20   ,   20, 7    , ristorante         , ristorante        , ristorante     , NOUN , _              , _
@@ -91,7 +91,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 23-1    , PKP025 , 23   ,   23, 2    , dove               , dove              , dove           , ADV  , _              , _
 24-0    , PKP026 , 24   ,   24, 1    , a                  , a                 , a              , ADP  , _              , _
 24-1    , PKP026 , 24   ,   24, 2    , senigallia:::      , senigallia        , Senigallia     , PROPN, _              , _
-24-2    , PKP026 , 24   ,   24, 3    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+24-2    , PKP026 , 24   ,   24, 3    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 24-3    , PKP026 , 24   ,   24, 4    , verso              , verso             , verso          , ADP  , _              , _
 24-4    , PKP026 , 24   ,   24, 5    , sant'              , sant'             , Sant'          , PROPN, _              , _
 24-5    , PKP026 , 24   ,   24, 6    , angelo             , angelo            , Angelo         , PROPN, _              , _
@@ -107,11 +107,11 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 28-0    , PKP025 , 28   ,   28, 1    , allora             , allora            , allora         , ADV  , _              , _
 28-1    , PKP025 , 28   ,   28, 2    , io                 , io                , io             , PRON , _              , _
 28-2    , PKP025 , 28   ,   28, 3    , domenica           , domenica          , domenica       , NOUN , _              , _
-28-3    , PKP025 , 28   ,   28, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+28-3    , PKP025 , 28   ,   28, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 28-4    , PKP025 , 28   ,   28, 5    , me                 , me                , mi             , PRON , _              , _
 28-5    , PKP025 , 28   ,   28, 6    , devo               , devo              , dovere         , AUX  , _              , _
 28-6    , PKP025 , 28   ,   28, 7-8  , sveglia'           , sveglia'          , svegliare      , VERB , _              , _
-28-7    , PKP025 , 28   ,   28, 9    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+28-7    , PKP025 , 28   ,   28, 9    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 28-8    , PKP025 , 28   ,   28, 10   , quindi             , quindi            , quindi         , CCONJ, _              , _
 29-0    , PKP026 , 29   ,   29, 1    , c'                 , c'                , ci             , PRON , _              , _
 29-1    , PKP026 , 29   ,   29, 2    , hai                , hai               , avere          , VERB , _              , _
@@ -137,7 +137,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 32-8    , PKP025 , 32   ,   32, 10   , che                , che               , che            , PRON , _              , _
 32-9    , PKP025 , 32   ,   32, 11   , ora:               , ora               , ora            , NOUN , _              , _
 32-10   , PKP025 , 32   ,   32, 12   , è                  , è                 , essere         , VERB , _              , _
-32-11   , PKP025 , 32   ,   32, 13   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+32-11   , PKP025 , 32   ,   32, 13   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 32-12   , PKP025 , 32   ,   32, 14   , se                 , se                , se             , SCONJ, _              , _
 32-13   , PKP025 , 32   ,   32, 15   , è                  , è                 , essere         , VERB , _              , _
 32-14   , PKP025 , 32   ,   32, 16-17, alle               , alle              , _              , _    , _              , _
@@ -148,9 +148,9 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 32-17   , PKP025 , 32   ,   32, 20   , bisogna            , bisogna           , bisogna        , VERB , _              , _
 32-18   , PKP025 , 32   ,   32, 21   , che:               , che               , che            , DET  , _              , _
 32-19   , PKP025 , 32   ,   32, 22   , sabato:            , sabato            , sabato         , NOUN , _              , _
-32-20   , PKP025 , 32   ,   32, 23   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+32-20   , PKP025 , 32   ,   32, 23   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 32-21   , PKP025 , 32   ,   32, 24   , boh                , boh               , boh            , INTJ , _              , _
-32-22   , PKP025 , 32   ,   32, 25   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+32-22   , PKP025 , 32   ,   32, 25   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 32-23   , PKP025 , 32   ,   32, 26   , andrò              , andrò             , andare         , VERB , _              , _
 32-24   , PKP025 , 32   ,   32, 27   , a                  , a                 , a              , ADP  , _              , _
 32-25   , PKP025 , 32   ,   32, 28   , cena               , cena              , cena           , NOUN , _              , _
@@ -190,7 +190,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 39-0    , PKP026 , 39   ,   39, 1    , mah::              , mah               , mah            , INTJ , _              , _
 40-0    , PKP025 , 40   ,   40, 1    , >eh                , eh                , eh             , INTJ , _              , _
 40-1    , PKP025 , 40   ,   40, 2    , tanto<             , tanto             , tanto          , ADV  , _              , _
-40-2    , PKP025 , 40   ,   40, 3    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+40-2    , PKP025 , 40   ,   40, 3    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 40-3    , PKP025 , 40   ,   40, 4    , o                  , o                 , o              , CCONJ, _              , _
 40-4    , PKP025 , 40   ,   40, 5    , il                 , il                , il             , DET  , _              , _
 40-5    , PKP025 , 40   ,   40, 6    , tris               , tris              , Tris           , PROPN, _              , _
@@ -220,7 +220,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 44-2    , PKP025 , 44   ,   44, 3    , è                  , è                 , essere         , VERB , _              , _
 44-3    , PKP025 , 44   ,   44, 4    , lunedì             , lunedì            , lunedì         , NOUN , _              , _
 45-0    , PKP025 , 45   ,   45, 1    , lunedì:            , lunedì            , lunedì         , NOUN , _              , _
-45-1    , PKP025 , 45   ,   45, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+45-1    , PKP025 , 45   ,   45, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 45-2    , PKP025 , 45   ,   45, 3    , che                , che               , che            , SCONJ, _              , _
 45-3    , PKP025 , 45   ,   45, 4    , è                  , è                 , essere         , AUX  , _              , _
 45-4    , PKP025 , 45   ,   45, 5    , proprio            , proprio           , proprio        , ADV  , _              , _
@@ -244,7 +244,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 48-3    , PKP025 , 48   ,   48, 4    , non                , non               , non            , ADV  , _              , _
 48-4    , PKP025 , 48   ,   48, 5    , è                  , è                 , essere         , VERB , _              , _
 48-5    , PKP025 , 48   ,   48, 6    , che:               , che               , che            , SCONJ, _              , _
-48-6    , PKP025 , 48   ,   48, 7    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+48-6    , PKP025 , 48   ,   48, 7    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 48-7    , PKP025 , 48   ,   48, 8    , posso              , posso             , potere         , AUX  , _              , _
 48-8    , PKP025 , 48   ,   48, 9    , fa'                , fa'               , fare           , VERB , _              , _
 48-9    , PKP025 , 48   ,   48, 10   , tardi              , tardi             , tardi          , ADV  , _              , _
@@ -259,13 +259,13 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 50-6a   , _      , _    ,   50, 7    , _                  , di                , di             , ADP  , _              , _
 50-6b   , _      , _    ,   50, 8    , _                  , il                , il             , DET  , _              , _
 50-7    , PKP026 , 50   ,   50, 9    , mattino            , mattino           , mattino        , NOUN , _              , _
-50-8    , PKP026 , 50   ,   50, 10   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+50-8    , PKP026 , 50   ,   50, 10   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 50-9    , PKP026 , 50   ,   50, 11   , è                  , è                 , essere         , AUX  , _              , _
 50-10   , PKP026 , 50   ,   50, 12   , bello              , bello             , bello          , ADJ  , _              , _
 50-11   , PKP026 , 50   ,   50, 13   , anche              , anche             , anche          , ADV  , _              , _
 50-12   , PKP026 , 50   ,   50, 14   , una                , una               , uno            , DET  , _              , _
 50-13   , PKP026 , 50   ,   50, 15   , serata:::          , serata            , serata         , NOUN , _              , _
-50-14   , PKP026 , 50   ,   50, 16   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+50-14   , PKP026 , 50   ,   50, 16   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 50-15   , PKP026 , 50   ,   50, 17   , così               , così              , così           , ADV  , _              , _
 50-16   , PKP026 , 50   ,   50, 18   , un                 , un                , uno            , DET  , _              , _
 50-17   , PKP026 , 50   ,   50, 19   , po'                , po'               , poco           , ADV  , _              , _
@@ -293,7 +293,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 57-0    , PKP026 , 57   ,   57, 1    , eh                 , eh                , eh             , INTJ , _              , _
 57-1    , PKP026 , 57   ,   57, 2    , ma                 , ma                , ma             , CCONJ, _              , _
 57-2    , PKP026 , 57   ,   57, 3    , là:                , là                , là             , ADV  , _              , _
-57-3    , PKP026 , 57   ,   57, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+57-3    , PKP026 , 57   ,   57, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 57-4    , PKP026 , 57   ,   57, 5    , ci                 , ci                , ci             , PRON , _              , _
 57-5    , PKP026 , 57   ,   57, 6    , vogli~             , vogli~            , vogli~         , X    , _              , _
 57-6    , PKP026 , 57   ,   57, 7    , ci                 , ci                , ci             , PRON , _              , _
@@ -382,14 +382,14 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 69-1    , PKP025 , 69   ,   69, 2    , poi                , poi               , poi            , ADV  , _              , _
 69-2    , PKP025 , 69   ,   69, 3    , che                , che               , che            , PRON , _              , _
 69-3    , PKP025 , 69   ,   69, 4    , regalo             , regalo            , regalo         , NOUN , _              , _
-69-4    , PKP025 , 69   ,   69, 5    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+69-4    , PKP025 , 69   ,   69, 5    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 69-5    , PKP025 , 69   ,   69, 6    , è                  , è                 , essere         , AUX  , _              , _
 69-6    , PKP025 , 69   ,   69, 7    , ora                , ora               , ora            , ADV  , _              , _
 70-0    , PKP026 , 70   ,   70, 1    , qualcosa           , qualcosa          , qualcosa       , PRON , _              , _
 70-1    , PKP026 , 70   ,   70, 2    , per                , per               , per            , ADP  , _              , _
 70-2    , PKP026 , 70   ,   70, 3    , la                 , la                , il             , DET  , _              , _
 70-3    , PKP026 , 70   ,   70, 4    , casa               , casa              , casa           , NOUN , _              , _
-70-4    , PKP026 , 70   ,   70, 5    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+70-4    , PKP026 , 70   ,   70, 5    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 70-5    , PKP026 , 70   ,   70, 6    , che                , che               , che            , SCONJ, _              , _
 70-6    , PKP026 , 70   ,   70, 7    , è                  , è                 , essere         , VERB , _              , _
 70-7    , PKP026 , 70   ,   70, 8    , [per               , per               , per            , ADP  , _              , _
@@ -408,7 +408,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 71-9    , PKP025 , 71   ,   71, 10   , non:               , non               , non            , ADV  , _              , _
 71-10   , PKP025 , 71   ,   71, 11   , vuole              , vuole             , volere         , VERB , _              , _
 71-11   , PKP025 , 71   ,   71, 12   , niente             , niente            , niente         , PRON , _              , _
-71-12   , PKP025 , 71   ,   71, 13   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+71-12   , PKP025 , 71   ,   71, 13   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 71-13   , PKP025 , 71   ,   71, 14   , poi                , poi               , poi            , CCONJ, _              , _
 71-14   , PKP025 , 71   ,   71, 15   , non                , non               , non            , ADV  , _              , _
 71-15   , PKP025 , 71   ,   71, 16   , è                  , è                 , essere         , AUX  , _              , _
@@ -428,7 +428,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 74-0    , PKP025 , 74   ,   74, 1    , [un                , un                , uno            , DET  , _              , _
 74-1    , PKP025 , 74   ,   74, 2    , pensiero]          , pensiero          , pensiero       , NOUN , _              , _
 74-2    , PKP025 , 74   ,   74, 3    , >però<             , però              , però           , CCONJ, _              , _
-74-3    , PKP025 , 74   ,   74, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+74-3    , PKP025 , 74   ,   74, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 74-4    , PKP025 , 74   ,   74, 5    , no(n)              , non               , non            , ADV  , _              , _
 74-5    , PKP025 , 74   ,   74, 6    , regalone           , regalone          , regalo         , NOUN , _              , _
 75-0    , PKP025 , 75   ,   75, 1    , #>co               , co                , co             , ADJ  , _              , _
@@ -439,7 +439,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 76-1a   , _      , _    ,   76, 2    , _                  , da                , da             , ADP  , _              , _
 76-1b   , _      , _    ,   76, 3    , _                  , il                , il             , DET  , _              , _
 76-2    , PKP026 , 76   ,   76, 4    , fioraio            , fioraio           , fioraio        , NOUN , _              , _
-76-3    , PKP026 , 76   ,   76, 5    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+76-3    , PKP026 , 76   ,   76, 5    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 76-4    , PKP026 , 76   ,   76, 6    , per                , per               , per            , ADP  , _              , _
 76-5    , PKP026 , 76   ,   76, 7    , la                 , la                , il             , DET  , _              , _
 76-6    , PKP026 , 76   ,   76, 8    , casa               , casa              , casa           , NOUN , _              , _
@@ -500,10 +500,10 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 93-0    , PKP025 , 93   ,   93, 1    , per                , per               , per            , ADP  , _              , _
 93-1    , PKP025 , 93   ,   93, 2    , loro               , loro              , loro           , PRON , _              , _
 93-2    , PKP025 , 93   ,   93, 3    , due                , due               , due            , NUM  , _              , _
-93-3    , PKP025 , 93   ,   93, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+93-3    , PKP025 , 93   ,   93, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 93-4    , PKP025 , 93   ,   93, 5    , >però<             , però              , però           , CCONJ, _              , _
 93-5    , PKP025 , 93   ,   93, 6    , costa              , costa             , costare        , VERB , _              , _
-93-6    , PKP025 , 93   ,   93, 7    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+93-6    , PKP025 , 93   ,   93, 7    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 93-7    , PKP025 , 93   ,   93, 8    , c'                 , c'                , ci             , PRON , _              , _
 93-8    , PKP025 , 93   ,   93, 9    , è                  , è                 , essere         , VERB , _              , _
 93-9    , PKP025 , 93   ,   93, 10   , anche              , anche             , anche          , ADV  , _              , _
@@ -589,7 +589,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 104-1   , PKP026 , 104  ,  104, 2    , te                 , te                , te             , PRON , _              , _
 104-2   , PKP026 , 104  ,  104, 3    , e::                , e                 , e              , CCONJ, _              , _
 104-3   , PKP026 , 104  ,  104, 4    , stefano            , stefano           , Stefano        , PROPN, _              , _
-104-4   , PKP026 , 104  ,  104, 5    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+104-4   , PKP026 , 104  ,  104, 5    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 104-5   , PKP026 , 104  ,  104, 6    , [insieme]          , insieme           , insieme        , ADV  , _              , _
 105-0   , PKP025 , 105  ,  105, 1    , [stefano           , stefano           , Stefano        , PROPN, _              , _
 105-1   , PKP025 , 105  ,  105, 2    , non                , non               , non            , ADV  , _              , _
@@ -632,16 +632,16 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 110-7   , PKP025 , 110  ,  110, 8    , pagano             , pagano            , pagare         , VERB , _              , _
 110-8   , PKP025 , 110  ,  110, 9    , il                 , il                , il             , DET  , _              , _
 110-9   , PKP025 , 110  ,  110, 10   , pranzo             , pranzo            , pranzo         , NOUN , _              , _
-110-10  , PKP025 , 110  ,  110, 11   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+110-10  , PKP025 , 110  ,  110, 11   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 110-11  , PKP025 , 110  ,  110, 12   , che                , che               , che            , SCONJ, _              , _
-110-12  , PKP025 , 110  ,  110, 13   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+110-12  , PKP025 , 110  ,  110, 13   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 110-13  , PKP025 , 110  ,  110, 14   , doveva             , doveva            , dovere         , AUX  , _              , _
 110-14  , PKP025 , 110  ,  110, 15   , essere             , essere            , essere         , VERB , _              , _
-110-15  , PKP025 , 110  ,  110, 16   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+110-15  , PKP025 , 110  ,  110, 16   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 110-16  , PKP025 , 110  ,  110, 17   , pesce              , pesce             , pesce          , NOUN , _              , _
-110-17  , PKP025 , 110  ,  110, 18   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+110-17  , PKP025 , 110  ,  110, 18   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 110-18  , PKP025 , 110  ,  110, 19   , lungomare          , lungomare         , lungomare      , NOUN , _              , _
-110-19  , PKP025 , 110  ,  110, 20   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+110-19  , PKP025 , 110  ,  110, 20   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 110-20  , PKP025 , 110  ,  110, 21   , ma                 , ma                , ma             , CCONJ, _              , _
 110-21  , PKP025 , 110  ,  110, 22   , pulcinella         , pulcinella        , Pulcinella     , PROPN, _              , _
 110-22  , PKP025 , 110  ,  110, 23   , è                  , è                 , essere         , AUX  , _              , _
@@ -650,15 +650,15 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 110-25  , PKP025 , 110  ,  110, 26   , detto              , detto             , dire           , VERB , _              , _
 110-26  , PKP025 , 110  ,  110, 27   , è                  , è                 , essere         , AUX  , _              , _
 110-27  , PKP025 , 110  ,  110, 28   , troppo:            , troppo            , troppo         , ADV  , _              , _
-110-28  , PKP025 , 110  ,  110, 29   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+110-28  , PKP025 , 110  ,  110, 29   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 110-29  , PKP025 , 110  ,  110, 30   , troppo             , troppo            , troppo         , ADV  , _              , _
 110-30  , PKP025 , 110  ,  110, 31   , appiccica:to       , appiccicato       , appiccicare    , VERB , _              , _
 110-31  , PKP025 , 110  ,  110, 32   , boh                , boh               , boh            , INTJ , _              , _
 111-0   , PKP025 , 111  ,  111, 1    , quindi             , quindi            , quindi         , CCONJ, _              , _
-111-1   , PKP025 , 111  ,  111, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+111-1   , PKP025 , 111  ,  111, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 111-2   , PKP025 , 111  ,  111, 3    , ha                 , ha                , avere          , AUX  , _              , _
 111-3   , PKP025 , 111  ,  111, 4    , cambiato           , cambiato          , cambiare       , VERB , _              , _
-111-4   , PKP025 , 111  ,  111, 5    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+111-4   , PKP025 , 111  ,  111, 5    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 111-5   , PKP025 , 111  ,  111, 6    , e                  , e                 , e              , CCONJ, _              , _
 111-6   , PKP025 , 111  ,  111, 7    , lo                 , lo                , lo             , PRON , _              , _
 111-7   , PKP025 , 111  ,  111, 8    , fa                 , fa                , fare           , VERB , _              , _
@@ -676,7 +676,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 115-3   , PKP026 , 115  ,  115, 4    , una                , una               , uno            , DET  , _              , _
 115-4   , PKP026 , 115  ,  115, 5    , bella              , bella             , bello          , ADJ  , _              , _
 115-5   , PKP026 , 115  ,  115, 6    , idea               , idea              , idea           , NOUN , _              , _
-115-6   , PKP026 , 115  ,  115, 7    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+115-6   , PKP026 , 115  ,  115, 7    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 115-7   , PKP026 , 115  ,  115, 8    , una                , una               , uno            , DET  , _              , _
 115-8   , PKP026 , 115  ,  115, 9    , spa::              , spa               , spa            , NOUN , _              , _
 115-9   , PKP026 , 115  ,  115, 10-11, glielo             , glielo            , _              , _    , _              , _
@@ -684,7 +684,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 115-9b  , _      , _    ,  115, 11   , _                  , lo                , lo             , PRON , _              , _
 115-10  , PKP026 , 115  ,  115, 12   , [regalate          , regalate          , regalare       , VERB , _              , _
 115-11  , PKP026 , 115  ,  115, 13   , tu]                , tu                , tu             , PRON , _              , _
-115-12  , PKP026 , 115  ,  115, 14   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+115-12  , PKP026 , 115  ,  115, 14   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 115-13  , PKP026 , 115  ,  115, 15   , <e                 , e                 , e              , CCONJ, _              , _
 115-14  , PKP026 , 115  ,  115, 16   , stefano>           , stefano           , Stefano        , PROPN, _              , _
 116-0   , PKP025 , 116  ,  116, 1    , [ma                , ma                , ma             , CCONJ, _              , _
@@ -718,7 +718,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 123-0   , PKP025 , 123  ,  123, 0    , ((ride))           , ((ride))          , [LAUGH]        , X    , _              , _
 124-0   , PKP025 , 124  ,  124, 1    , se                 , se                , se             , SCONJ, _              , _
 124-1   , PKP025 , 124  ,  124, 2    , no                 , no                , no             , ADV  , _              , _
-124-2   , PKP025 , 124  ,  124, 3    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+124-2   , PKP025 , 124  ,  124, 3    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 124-3   , PKP025 , 124  ,  124, 4    , i                  , i                 , il             , DET  , _              , _
 124-4   , PKP025 , 124  ,  124, 5    , fio:ri             , fiori             , fiore          , NOUN , _              , _
 125-0   , PKP025 , 125  ,  125, 0    , ((versa_il_tè))    , ((versa_il_tè))   , [OTHER]        , X    , _              , _
@@ -758,7 +758,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 130-2   , PKP025 , 130  ,  130, 3    , solo               , solo              , solo           , ADV  , _              , _
 130-3   , PKP025 , 130  ,  130, 4    , la:::              , la                , il             , DET  , _              , _
 130-4   , PKP025 , 130  ,  130, 5    , "sorella,"         , sorella           , sorella        , NOUN , _              , _
-130-5   , PKP025 , 130  ,  130, 6    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+130-5   , PKP025 , 130  ,  130, 6    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 130-6   , PKP025 , 130  ,  130, 7    , di                 , di                , di             , ADP  , _              , _
 130-7   , PKP025 , 130  ,  130, 8    , lui                , lui               , lui            , PRON , _              , _
 131-0   , PKP025 , 131  ,  131, 1    , la                 , la                , il             , DET  , _              , _
@@ -766,7 +766,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 131-2   , PKP025 , 131  ,  131, 3    , il                 , il                , il             , DET  , _              , _
 131-3   , PKP025 , 131  ,  131, 4    , padre              , padre             , padre          , NOUN , _              , _
 132-0   , PKP025 , 132  ,  132, 1    , e:                 , e                 , e              , CCONJ, _              , _
-132-1   , PKP025 , 132  ,  132, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+132-1   , PKP025 , 132  ,  132, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 132-2   , PKP025 , 132  ,  132, 3    , i                  , i                 , il             , DET  , _              , _
 132-3   , PKP025 , 132  ,  132, 4    , figli              , figli             , figlio         , NOUN , _              , _
 132-4   , PKP025 , 132  ,  132, 5-6  , della              , della             , _              , _    , _              , _
@@ -777,7 +777,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 133-1   , PKP025 , 133  ,  133, 2    , lei                , lei               , lei            , PRON , _              , _
 133-2   , PKP025 , 133  ,  133, 3    , c'                 , c'                , ci             , PRON , _              , _
 133-3   , PKP025 , 133  ,  133, 4    , è                  , è                 , essere         , VERB , _              , _
-133-4   , PKP025 , 133  ,  133, 5    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+133-4   , PKP025 , 133  ,  133, 5    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 133-5   , PKP025 , 133  ,  133, 6    , la                 , la                , il             , DET  , _              , _
 133-6   , PKP025 , 133  ,  133, 7    , madre              , madre             , madre          , NOUN , _              , _
 133-7   , PKP025 , 133  ,  133, 8    , il                 , il                , il             , DET  , _              , _
@@ -785,7 +785,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 133-9   , PKP025 , 133  ,  133, 10   , e                  , e                 , e              , CCONJ, _              , _
 133-10  , PKP025 , 133  ,  133, 11   , i                  , i                 , il             , DET  , _              , _
 133-11  , PKP025 , 133  ,  133, 12   , fratelli           , fratelli          , fratello       , NOUN , _              , _
-133-12  , PKP025 , 133  ,  133, 13   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+133-12  , PKP025 , 133  ,  133, 13   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 133-13  , PKP025 , 133  ,  133, 14   , e                  , e                 , e              , CCONJ, _              , _
 133-14  , PKP025 , 133  ,  133, 15   , basta              , basta             , bastare        , VERB , _              , _
 134-0   , PKP026 , 134  ,  134, 1    , ma                 , ma                , ma             , CCONJ, _              , _
@@ -803,7 +803,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 134-12  , PKP026 , 134  ,  134, 13   , un                 , un                , uno            , DET  , _              , _
 134-13  , PKP026 , 134  ,  134, 14   , proforma           , proforma          , proforma       , NOUN , _              , _
 134-14  , PKP026 , 134  ,  134, 15   , così               , così              , così           , ADV  , _              , _
-134-15  , PKP026 , 134  ,  134, 16   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+134-15  , PKP026 , 134  ,  134, 16   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 134-16  , PKP026 , 134  ,  134, 17   , [non               , non               , non            , ADV  , _              , _
 134-17  , PKP026 , 134  ,  134, 18   , è                  , è                 , essere         , AUX  , _              , _
 134-18  , PKP026 , 134  ,  134, 19   , un                 , un                , uno            , DET  , _              , _
@@ -811,7 +811,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 134-20  , PKP026 , 134  ,  134, 21   , vero               , vero              , vero           , ADJ  , _              , _
 134-21  , PKP026 , 134  ,  134, 22   , e                  , e                 , e              , CCONJ, _              , _
 134-22  , PKP026 , 134  ,  134, 23   , proprio:           , proprio           , proprio        , ADJ  , _              , _
-134-23  , PKP026 , 134  ,  134, 24   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+134-23  , PKP026 , 134  ,  134, 24   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 134-24  , PKP026 , 134  ,  134, 25   , [sfarzo]so         , sfarzoso          , sfarzoso       , ADJ  , _              , _
 134-25  , PKP026 , 134  ,  134, 26   , è                  , è                 , essere         , AUX  , _              , _
 134-26  , PKP026 , 134  ,  134, 27   , una                , una               , uno            , DET  , _              , _
@@ -827,7 +827,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 137-2   , PKP025 , 137  ,  137, 3    , i                  , i                 , il             , DET  , _              , _
 137-3   , PKP025 , 137  ,  137, 4    , cugini             , cugini            , cugine         , NOUN , _              , _
 137-4   , PKP025 , 137  ,  137, 5    , manco:             , manco             , manco          , ADV  , _              , _
-137-5   , PKP025 , 137  ,  137, 6    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+137-5   , PKP025 , 137  ,  137, 6    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 137-6   , PKP025 , 137  ,  137, 7    , li                 , li                , li             , PRON , _              , _
 137-7   , PKP025 , 137  ,  137, 8    , ha                 , ha                , avere          , AUX  , _              , _
 137-8   , PKP025 , 137  ,  137, 9    , invitati           , invitati          , invitare       , VERB , _              , _
@@ -835,10 +835,10 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 139-0   , PKP025 , 139  ,  139, 1    , io                 , io                , io             , PRON , _              , _
 139-1   , PKP025 , 139  ,  139, 2    , ho                 , ho                , avere          , AUX  , _              , _
 139-2   , PKP025 , 139  ,  139, 3    , pensato            , pensato           , pensare        , VERB , _              , _
-139-3   , PKP025 , 139  ,  139, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+139-3   , PKP025 , 139  ,  139, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 139-4   , PKP025 , 139  ,  139, 5    , °anche°            , anche             , anche          , ADV  , _              , _
 139-5   , PKP025 , 139  ,  139, 6    , magari             , magari            , magari         , ADV  , _              , _
-139-6   , PKP025 , 139  ,  139, 7    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+139-6   , PKP025 , 139  ,  139, 7    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 139-7   , PKP025 , 139  ,  139, 8    , sto                , sto               , stare          , VERB , _              , _
 139-8   , PKP025 , 139  ,  139, 9    , a                  , a                 , a              , ADP  , _              , _
 139-9   , PKP025 , 139  ,  139, 10   , casa               , casa              , casa           , NOUN , _              , _
@@ -863,10 +863,10 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 143-4   , PKP026 , 143  ,  143, 5    , lei?               , lei               , lei            , PRON , _              , _
 144-0   , PKP025 , 144  ,  144, 1    , s:ì                , sì                , sì             , INTJ , _              , _
 144-1   , PKP025 , 144  ,  144, 2    , [però]             , però              , però           , CCONJ, _              , _
-144-2   , PKP025 , 144  ,  144, 3    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+144-2   , PKP025 , 144  ,  144, 3    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 144-3   , PKP025 , 144  ,  144, 4    , perché             , perché            , perché         , SCONJ, _              , _
 144-4   , PKP025 , 144  ,  144, 5    , stefano            , stefano           , Stefano        , PROPN, _              , _
-144-5   , PKP025 , 144  ,  144, 6    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+144-5   , PKP025 , 144  ,  144, 6    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 144-6   , PKP025 , 144  ,  144, 7    , è                  , è                 , essere         , AUX  , _              , _
 144-7   , PKP025 , 144  ,  144, 8    , il                 , il                , il             , DET  , _              , _
 144-8   , PKP025 , 144  ,  144, 9    , fratello           , fratello          , fratello       , NOUN , _              , _
@@ -924,13 +924,13 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 154-9b  , _      , _    ,  155, 12   , _                  , lo                , lo             , PRON , _              , _
 154-10  , PKP026 , 154  ,  155, 13   , porta              , porta             , portare        , VERB , _              , _
 154-11  , PKP026 , 154  ,  155, 14   , "lui,"             , lui               , lui            , PRON , _              , _
-154-12  , PKP026 , 154  ,  155, 15   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+154-12  , PKP026 , 154  ,  155, 15   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 154-13  , PKP026 , 154  ,  155, 16   , da                 , da                , da             , ADP  , _              , _
 154-14  , PKP026 , 154  ,  155, 17   , parte              , parte             , parte          , NOUN , _              , _
 154-15  , PKP026 , 154  ,  155, 18   , tu:a               , tua               , tuo            , DET  , _              , _
 154-16  , PKP026 , 154  ,  155, 19   , e                  , e                 , e              , CCONJ, _              , _
 154-17  , PKP026 , 154  ,  155, 20   , stop               , stop              , stop           , NOUN , _              , _
-154-18  , PKP026 , 154  ,  155, 21   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+154-18  , PKP026 , 154  ,  155, 21   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 154-19  , PKP026 , 154  ,  155, 22   , per                , per               , per            , ADP  , _              , _
 154-20  , PKP026 , 154  ,  155, 23   , la                 , la                , il             , DET  , _              , _
 154-21  , PKP026 , 154  ,  155, 24   , casa               , casa              , casa           , NOUN , _              , _
@@ -969,7 +969,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 160-4a  , _      , _    ,  160, 5    , _                  , da                , da             , ADP  , _              , _
 160-4b  , _      , _    ,  160, 6    , _                  , il                , il             , DET  , _              , _
 160-5   , PKP026 , 160  ,  160, 7    , fioraio]           , fioraio           , fioraio        , NOUN , _              , _
-160-6   , PKP026 , 160  ,  160, 8    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+160-6   , PKP026 , 160  ,  160, 8    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 160-7   , PKP026 , 160  ,  160, 9    , lo                 , lo                , lo             , PRON , _              , _
 160-8   , PKP026 , 160  ,  160, 10   , porta              , porta             , portare        , VERB , _              , _
 160-9   , PKP026 , 160  ,  160, 11   , lui                , lui               , lui            , PRON , _              , _
@@ -979,14 +979,14 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 162-0   , PKP026 , 162  ,  162, 1    , scrivi             , scrivi            , scrivere       , VERB , _              , _
 162-1   , PKP026 , 162  ,  162, 2    , il                 , il                , il             , DET  , _              , _
 162-2   , PKP026 , 162  ,  162, 3    , bigliettino        , bigliettino       , biglietto      , NOUN , _              , _
-162-3   , PKP026 , 162  ,  162, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+162-3   , PKP026 , 162  ,  162, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 162-4   , PKP026 , 162  ,  162, 5    , e                  , e                 , e              , CCONJ, _              , _
 162-5   , PKP026 , 162  ,  162, 6    , fa                 , fa                , fare           , VERB , _              , _
 162-6   , PKP026 , 162  ,  162, 7    , tutto              , tutto             , tutto          , PRON , _              , _
 162-7   , PKP026 , 162  ,  162, 8    , lui                , lui               , lui            , PRON , _              , _
 163-0   , PKP025 , 163  ,  163, 1    , mh                 , mh                , mh             , INTJ , _              , _
 164-0   , PKP025 , 164  ,  164, 1    , eh                 , eh                , eh             , INTJ , _              , _
-164-1   , PKP025 , 164  ,  164, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+164-1   , PKP025 , 164  ,  164, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 164-2   , PKP025 , 164  ,  164, 3    , sì                 , sì                , sì             , INTJ , _              , _
 165-0   , PKP025 , 165  ,  165, 1    , o                  , o                 , o              , CCONJ, _              , _
 165-1   , PKP025 , 165  ,  165, 2    , che                , che               , che            , SCONJ, _              , _
@@ -1059,7 +1059,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 180-8   , PKP026 , 180  ,  180, 9    , di                 , di                , di             , ADP  , _              , _
 180-9   , PKP026 , 180  ,  180, 10   , carlotta<          , carlotta          , Carlotta       , PROPN, _              , _
 181-0   , PKP025 , 181  ,  181, 1    , sì                 , sì                , sì             , INTJ , _              , _
-181-1   , PKP025 , 181  ,  181, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+181-1   , PKP025 , 181  ,  181, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 181-2   , PKP025 , 181  ,  181, 3    , [so(no)            , sono              , essere         , AUX  , _              , _
 181-3   , PKP025 , 181  ,  181, 4    , ami]che            , amiche            , amico          , ADJ  , _              , _
 182-0   , PKP026 , 182  ,  182, 1    , [ah:               , ah                , ah             , INTJ , _              , _
@@ -1074,7 +1074,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 184-4   , PKP025 , 184  ,  184, 5    , lo                 , lo                , lo             , PRON , _              , _
 184-5   , PKP025 , 184  ,  184, 6    , fa                 , fa                , fare           , VERB , _              , _
 184-6   , PKP025 , 184  ,  184, 7    , uno                , uno               , uno            , PRON , _              , _
-184-7   , PKP025 , 184  ,  184, 8    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+184-7   , PKP025 , 184  ,  184, 8    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 184-8   , PKP025 , 184  ,  184, 9    , che                , che               , che            , SCONJ, _              , _
 184-9   , PKP025 , 184  ,  184, 10   , sta                , sta               , stare          , VERB , _              , _
 184-10  , PKP025 , 184  ,  184, 11   , a                  , a                 , a              , ADP  , _              , _
@@ -1083,7 +1083,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 185-1   , PKP025 , 185  ,  185, 2    , ha                 , ha                , avere          , AUX  , _              , _
 185-2   , PKP025 , 185  ,  185, 3    , chiamato           , chiamato          , chiamare       , VERB , _              , _
 185-3   , PKP025 , 185  ,  185, 4    , per::              , per               , per            , ADP  , _              , _
-185-4   , PKP025 , 185  ,  185, 5    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+185-4   , PKP025 , 185  ,  185, 5    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 185-5   , PKP025 , 185  ,  185, 6    , per                , per               , per            , ADP  , _              , _
 185-6   , PKP025 , 185  ,  185, 7    , chiedere           , chiedere          , chiedere       , VERB , _              , _
 185-7   , PKP025 , 185  ,  185, 8    , che                , che               , che            , PRON , _              , _
@@ -1091,7 +1091,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 185-9   , PKP025 , 185  ,  185, 10   , volesse            , volesse           , volere         , VERB , _              , _
 186-0   , PKP025 , 186  ,  186, 1    , ma                 , ma                , ma             , CCONJ, _              , _
 186-1   , PKP025 , 186  ,  186, 2    , lei:               , lei               , lei            , PRON , _              , _
-186-2   , PKP025 , 186  ,  186, 3    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+186-2   , PKP025 , 186  ,  186, 3    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 186-3   , PKP025 , 186  ,  186, 4    , francesca          , francesca         , Francesco      , PROPN, _              , _
 186-4   , PKP025 , 186  ,  186, 5    , >ha                , ha                , avere          , AUX  , _              , _
 186-5   , PKP025 , 186  ,  186, 6    , detto              , detto             , dire           , VERB , _              , _
@@ -1100,7 +1100,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 187-0   , PKP025 , 187  ,  187, 1    , >deve              , deve              , dovere         , AUX  , _              , _
 187-1   , PKP025 , 187  ,  187, 2    , fa'                , fa'               , fare           , VERB , _              , _
 187-2   , PKP025 , 187  ,  187, 3    , tipo<              , tipo              , tipo           , NOUN , _              , _
-187-3   , PKP025 , 187  ,  187, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+187-3   , PKP025 , 187  ,  187, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 187-4   , PKP025 , 187  ,  187, 5    , un                 , un                , uno            , DET  , _              , _
 187-5   , PKP025 , 187  ,  187, 6    , pensie:ro:         , pensiero          , pensiero       , NOUN , _              , _
 188-0   , PKP026 , 188  ,  188, 1    , [eh]               , eh                , eh             , INTJ , _              , _
@@ -1165,7 +1165,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 202-1   , PKP026 , 202  ,  202, 2    , no                 , no                , no             , INTJ , _              , _
 202-2   , PKP026 , 202  ,  202, 3    , una                , una               , uno            , DET  , _              , _
 202-3   , PKP026 , 202  ,  202, 4    , ro]:sa             , rosa              , rosa           , NOUN , _              , _
-202-4   , PKP026 , 202  ,  202, 5    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+202-4   , PKP026 , 202  ,  202, 5    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 202-5   , PKP026 , 202  ,  202, 6    , [una               , una               , uno            , DET  , _              , _
 202-6   , PKP026 , 202  ,  202, 7    , una                , una               , uno            , DET  , _              , _
 202-7   , PKP026 , 202  ,  202, 8    , <pia]nta>          , pianta            , pianta         , NOUN , _              , _
@@ -1179,7 +1179,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 204-3   , PKP025 , 204  ,  204, 4    , na                 , na                , uno            , DET  , _              , _
 204-4   , PKP025 , 204  ,  204, 5    , pianta             , pianta            , pianta         , NOUN , _              , _
 204-5   , PKP025 , 204  ,  204, 6    , ma                 , ma                , ma             , CCONJ, _              , _
-204-6   , PKP025 , 204  ,  204, 7    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+204-6   , PKP025 , 204  ,  204, 7    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 204-7   , PKP025 , 204  ,  204, 8    , mi                 , mi                , mi             , PRON , _              , _
 204-8   , PKP025 , 204  ,  204, 9    , sembra             , sembra            , sembrare       , VERB , _              , _
 204-9   , PKP025 , 204  ,  204, 10   , un                 , un                , uno            , DET  , _              , _
@@ -1272,7 +1272,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 219-0   , PKP026 , 219  ,  219, 1    , [<la               , la                , il             , DET  , _              , _
 219-1   , PKP026 , 219  ,  219, 2    , po]rta>            , porta             , portare        , VERB , _              , _
 219-2   , PKP026 , 219  ,  219, 3    , lui                , lui               , lui            , PRON , _              , _
-219-3   , PKP026 , 219  ,  219, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+219-3   , PKP026 , 219  ,  219, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 219-4   , PKP026 , 219  ,  219, 5    , è                  , è                 , essere         , AUX  , _              , _
 219-5   , PKP026 , 219  ,  219, 6    , di                 , di                , di             , ADP  , _              , _
 219-6   , PKP026 , 219  ,  219, 7    , corinaldo          , corinaldo         , Corinaldo      , PROPN, _              , _
@@ -1329,7 +1329,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 229-0   , PKP025 , 229  ,  229, 1    , eravamo            , eravamo           , essere         , VERB , _              , _
 229-1   , PKP025 , 229  ,  229, 2    , a                  , a                 , a              , ADP  , _              , _
 229-2   , PKP025 , 229  ,  229, 3    , marotta            , marotta           , Marotta        , PROPN, _              , _
-229-3   , PKP025 , 229  ,  229, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+229-3   , PKP025 , 229  ,  229, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 229-4   , PKP025 , 229  ,  229, 5    , prima              , prima             , prima          , ADJ  , _              , _
 229-5   , PKP025 , 229  ,  229, 6    , visto              , visto             , vedere         , VERB , _              , _
 229-6   , PKP025 , 229  ,  229, 7    , che                , che               , che            , SCONJ, _              , _
@@ -1356,7 +1356,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 233-0   , PKP025 , 233  ,  233, 1    , A                  , a                 , a              , ADP  , _              , _
 233-1   , PKP025 , 233  ,  233, 2    , PARTE              , parte             , parte          , NOUN , _              , _
 233-2   , PKP025 , 233  ,  233, 3    , CHE                , che               , che            , SCONJ, _              , _
-233-3   , PKP025 , 233  ,  233, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+233-3   , PKP025 , 233  ,  233, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 233-4   , PKP025 , 233  ,  233, 5    , la:                , la                , il             , DET  , _              , _
 233-5   , PKP025 , 233  ,  233, 6    , il                 , il                , il             , DET  , _              , _
 233-6   , PKP025 , 233  ,  233, 7    , sabato             , sabato            , sabato         , NOUN , _              , _
@@ -1400,7 +1400,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 237-11  , PKP026 , 237  ,  237, 12   , ade~<              , ade~              , ade~           , X    , _              , _
 238-0   , PKP025 , 238  ,  238, 1    , sì                 , sì                , sì             , INTJ , _              , _
 238-1   , PKP025 , 238  ,  238, 2    , ma                 , ma                , ma             , CCONJ, _              , _
-238-2   , PKP025 , 238  ,  238, 3    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+238-2   , PKP025 , 238  ,  238, 3    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 238-3   , PKP025 , 238  ,  238, 4    , sara               , sara              , Sara           , PROPN, _              , _
 238-4   , PKP025 , 238  ,  238, 5    , aveva              , aveva             , avere          , AUX  , _              , _
 238-5   , PKP025 , 238  ,  238, 6    , prenotato          , prenotato         , prenotare      , VERB , _              , _
@@ -1464,7 +1464,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 242-2   , PKP026 , 242  ,  242, 3    , perché             , perché            , perché         , SCONJ, _              , _
 242-3   , PKP026 , 242  ,  242, 4    , son]               , son               , essere         , AUX  , _              , _
 242-4   , PKP026 , 242  ,  242, 5    , due::              , due               , due            , NUM  , _              , _
-242-5   , PKP026 , 242  ,  242, 6    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+242-5   , PKP026 , 242  ,  242, 6    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 242-6   , PKP026 , 242  ,  242, 7    , la                 , la                , il             , DET  , _              , _
 242-7   , PKP026 , 242  ,  242, 8    , torta              , torta             , torta          , NOUN , _              , _
 242-8   , PKP026 , 242  ,  242, 9    , chi                , chi               , chi            , PRON , _              , _
@@ -1478,7 +1478,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 243-3   , PKP025 , 243  ,  243, 4    , portata            , portata           , portare        , VERB , _              , _
 243-4   , PKP025 , 243  ,  243, 5    , però<              , però              , però           , CCONJ, _              , _
 244-0   , PKP025 , 244  ,  244, 1    , >proprio<          , proprio           , proprio        , ADV  , _              , _
-244-1   , PKP025 , 244  ,  244, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+244-1   , PKP025 , 244  ,  244, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 244-2   , PKP025 , 244  ,  244, 3    , veloce             , veloce            , veloce         , ADV  , _              , _
 244-3   , PKP025 , 244  ,  244, 4    , manco:             , manco             , manco          , ADV  , _              , _
 244-4   , PKP025 , 244  ,  244, 5    , le                 , le                , il             , DET  , _              , _
@@ -1518,7 +1518,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 248-15  , PKP026 , 248  ,  248, 16   , siamo              , siamo             , essere         , AUX  , _              , _
 248-16  , PKP026 , 248  ,  248, 17   , an]dati            , andati            , andare         , VERB , _              , _
 248-17  , PKP026 , 248  ,  248, 18   , via                , via               , via            , ADV  , _              , _
-248-18  , PKP026 , 248  ,  248, 19   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+248-18  , PKP026 , 248  ,  248, 19   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 248-19  , PKP026 , 248  ,  248, 20   , <dopo              , dopo              , dopo           , ADP  , _              , _
 248-20  , PKP026 , 248  ,  248, 21   , cena               , cena              , cena           , NOUN , _              , _
 248-21  , PKP026 , 248  ,  248, 22   , non                , non               , non            , ADV  , _              , _
@@ -1540,7 +1540,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 250-2   , PKP025 , 250  ,  250, 3    , mezzogio~°]        , mezzogio~         , mezzogio~      , X    , _              , _
 251-0   , PKP025 , 251  ,  251, 1    , [dopo              , dopo              , dopo           , ADP  , _              , _
 251-1   , PKP025 , 251  ,  251, 2    , no]i::             , noi               , noi            , PRON , _              , _
-251-2   , PKP025 , 251  ,  251, 3    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+251-2   , PKP025 , 251  ,  251, 3    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 251-3   , PKP025 , 251  ,  251, 4    , tempo              , tempo             , tempo          , NOUN , _              , _
 251-4   , PKP025 , 251  ,  251, 5    , che                , che               , che            , SCONJ, _              , _
 251-5   , PKP025 , 251  ,  251, 6    , metti              , metti             , mettere        , VERB , _              , _
@@ -1548,7 +1548,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 251-7   , PKP025 , 251  ,  251, 8    , giubbetti          , giubbetti         , giubbetto      , NOUN , _              , _
 251-8   , PKP025 , 251  ,  251, 9    , e                  , e                 , e              , CCONJ, _              , _
 251-9   , PKP025 , 251  ,  251, 10   , tutto              , tutto             , tutto          , DET  , _              , _
-251-10  , PKP025 , 251  ,  251, 11   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+251-10  , PKP025 , 251  ,  251, 11   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 251-11  , PKP025 , 251  ,  251, 12   , guardaro:ba        , guardaroba        , guardaroba     , NOUN , _              , _
 252-0   , PKP025 , 252  ,  252, 1    , A                  , a                 , a              , ADP  , _              , _
 252-1   , PKP025 , 252  ,  252, 2    , MAROTTA            , marotta           , Marotta        , PROPN, _              , _
@@ -1571,7 +1571,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 256-2   , PKP025 , 256  ,  256, 3    , birra              , birra             , Birra          , PROPN, _              , _
 256-3   , PKP025 , 256  ,  256, 4    , da                 , da                , da             , ADP  , _              , _
 256-4   , PKP025 , 256  ,  256, 5    , peppe              , peppe             , Peppa          , PROPN, _              , _
-256-5   , PKP025 , 256  ,  256, 6    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+256-5   , PKP025 , 256  ,  256, 6    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 256-6   , PKP025 , 256  ,  256, 7    , sconosciuto        , sconosciuto       , sconosciuto    , ADJ  , _              , _
 257-0   , PKP025 , 257  ,  257, 1    , siccome            , siccome           , siccome        , SCONJ, _              , _
 257-1   , PKP025 , 257  ,  257, 2    , era                , era               , essere         , AUX  , _              , _
@@ -1581,7 +1581,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 257-5   , PKP025 , 257  ,  257, 6    , ha                 , ha                , avere          , AUX  , _              , _
 257-6   , PKP025 , 257  ,  257, 7    , messo              , messo             , mettere        , VERB , _              , _
 257-7   , PKP025 , 257  ,  257, 8    , dentro             , dentro            , dentro         , ADV  , _              , _
-257-8   , PKP025 , 257  ,  257, 9    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+257-8   , PKP025 , 257  ,  257, 9    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 257-9   , PKP025 , 257  ,  257, 10   , fuori              , fuori             , fuori          , ADV  , _              , _
 257-10  , PKP025 , 257  ,  257, 11   , era                , era               , essere         , AUX  , _              , _
 257-11  , PKP025 , 257  ,  257, 12   , pieno              , pieno             , pieno          , ADJ  , _              , _
@@ -1615,7 +1615,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 261-1   , PKP026 , 261  ,  261, 2    , ma[grolina         , magrolina         , magro          , ADJ  , _              , _
 261-2   , PKP026 , 261  ,  261, 3    , bionda]            , bionda            , biondo         , ADJ  , _              , _
 262-0   , PKP025 , 262  ,  262, 1    , [CHIARA            , chiara            , Chiara         , PROPN, _              , _
-262-1   , PKP025 , 262  ,  262, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+262-1   , PKP025 , 262  ,  262, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 262-2   , PKP025 , 262  ,  262, 3    , no                 , no                , no             , INTJ , _              , _
 262-3   , PKP025 , 262  ,  262, 4    , chiara]            , chiara            , Chiara         , PROPN, _              , _
 263-0   , PKP025 , 263  ,  263, 1    , sì                 , sì                , sì             , INTJ , _              , _
@@ -1631,13 +1631,13 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 268-1   , PKP025 , 268  ,  268, 2    , di                 , di                , di             , ADP  , _              , _
 268-2   , PKP025 , 268  ,  268, 3    , cognome<           , cognome           , cognome        , NOUN , _              , _
 268-3   , PKP025 , 268  ,  268, 4    , <bianchini>        , bianchini         , Bianchini      , PROPN, _              , _
-268-4   , PKP025 , 268  ,  268, 5    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+268-4   , PKP025 , 268  ,  268, 5    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 268-5   , PKP025 , 268  ,  268, 6    , ah                 , ah                , ah             , INTJ , _              , _
 268-6   , PKP025 , 268  ,  268, 7    , ludovica           , ludovica          , Ludovica       , PROPN, _              , _
 268-7   , PKP025 , 268  ,  268, 8    , MARIA              , maria             , Maria          , PROPN, _              , _
 268-8   , PKP025 , 268  ,  268, 9    , LUDOVICA           , ludovica          , Ludovica       , PROPN, _              , _
 268-9   , PKP025 , 268  ,  268, 10   , ludovica           , ludovica          , Ludovica       , PROPN, _              , _
-268-10  , PKP025 , 268  ,  268, 11   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+268-10  , PKP025 , 268  ,  268, 11   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 268-11  , PKP025 , 268  ,  268, 12   , [ludovica          , ludovica          , Ludovica       , PROPN, _              , _
 268-12  , PKP025 , 268  ,  268, 13   , °boh°]             , boh               , boh            , INTJ , _              , _
 269-0   , PKP026 , 269  ,  269, 1    , [ma                , ma                , ma             , CCONJ, _              , _
@@ -1650,7 +1650,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 269-7   , PKP026 , 269  ,  269, 8    , se[nigallia]       , senigallia        , Senigallia     , PROPN, _              , _
 270-0   , PKP025 , 270  ,  270, 1    , [san               , san               , San            , PROPN, _              , _
 270-1   , PKP025 , 270  ,  270, 2    , lorenz]o           , lorenzo           , Lorenzo        , PROPN, _              , _
-270-2   , PKP025 , 270  ,  270, 3    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+270-2   , PKP025 , 270  ,  270, 3    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 270-3   , PKP025 , 270  ,  270, 4    , [che               , che               , che            , SCONJ, _              , _
 270-4   , PKP025 , 270  ,  270, 5    , e]ra               , era               , essere         , VERB , _              , _
 270-5   , PKP025 , 270  ,  270, 6    , in                 , in                , in             , ADP  , _              , _
@@ -1671,19 +1671,19 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 273-3   , PKP025 , 273  ,  273, 5    , de                 , de                , di             , ADP  , _              , _
 273-4   , PKP025 , 273  ,  273, 6-7  , anda'              , anda'             , andare         , VERB , _              , _
 273-5   , PKP025 , 273  ,  273, 8    , via                , via               , via            , ADV  , _              , _
-273-6   , PKP025 , 273  ,  273, 9    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+273-6   , PKP025 , 273  ,  273, 9    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 273-7   , PKP025 , 273  ,  273, 10   , (a)nd(i)amo        , andiamo           , andare         , VERB , _              , _
 273-8   , PKP025 , 273  ,  273, 11-12, al                 , al                , _              , _    , _              , _
 273-8a  , _      , _    ,  273, 11   , _                  , a                 , a              , ADP  , _              , _
 273-8b  , _      , _    ,  273, 12   , _                  , il                , il             , DET  , _              , _
 273-9   , PKP025 , 273  ,  273, 13   , bagno              , bagno             , bagno          , NOUN , _              , _
-273-10  , PKP025 , 273  ,  273, 14   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+273-10  , PKP025 , 273  ,  273, 14   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 273-11  , PKP025 , 273  ,  273, 15   , che                , che               , che            , SCONJ, _              , _
 273-12  , PKP025 , 273  ,  273, 16   , era                , era               , essere         , VERB , _              , _
 273-13  , PKP025 , 273  ,  273, 17   , "proprio,"         , proprio           , proprio        , ADV  , _              , _
 274-0   , PKP025 , 274  ,  274, 1    , di                 , di                , di             , ADP  , _              , _
 274-1   , PKP025 , 274  ,  274, 2    , fronte:            , fronte            , fronte         , NOUN , _              , _
-274-2   , PKP025 , 274  ,  274, 3    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+274-2   , PKP025 , 274  ,  274, 3    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 274-3   , PKP025 , 274  ,  274, 4    , tutto              , tutto             , tutto          , PRON , _              , _
 274-4   , PKP025 , 274  ,  274, 5    , un                 , un                , uno            , DET  , _              , _
 274-5   , PKP025 , 274  ,  274, 6    , "buco,"            , buco              , buco           , NOUN , _              , _
@@ -1699,13 +1699,13 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 278-0   , PKP026 , 278  ,  278, 1    , mh                 , mh                , mh             , INTJ , _              , _
 279-0   , PKP025 , 279  ,  279, 0    , ((ride))           , ((ride))          , [LAUGH]        , X    , _              , _
 280-0   , PKP025 , 280  ,  280, 1    , quindi             , quindi            , quindi         , CCONJ, _              , _
-280-1   , PKP025 , 280  ,  280, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+280-1   , PKP025 , 280  ,  280, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 280-2   , PKP025 , 280  ,  280, 3    , entri              , entri             , entrare        , VERB , _              , _
 280-3   , PKP025 , 280  ,  280, 4-5  , al                 , al                , _              , _    , _              , _
 280-3a  , _      , _    ,  280, 4    , _                  , a                 , a              , ADP  , _              , _
 280-3b  , _      , _    ,  280, 5    , _                  , il                , il             , DET  , _              , _
 280-4   , PKP025 , 280  ,  280, 6    , bagno              , bagno             , bagno          , NOUN , _              , _
-280-5   , PKP025 , 280  ,  280, 7    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+280-5   , PKP025 , 280  ,  280, 7    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 280-6   , PKP025 , 280  ,  280, 8    , c'                 , c'                , ci             , PRON , _              , _
 280-7   , PKP025 , 280  ,  280, 9    , è:                 , è                 , essere         , VERB , _              , _
 280-8   , PKP025 , 280  ,  280, 10   , l'                 , l'                , il             , DET  , _              , _
@@ -1726,7 +1726,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 284-0   , PKP026 , 284  ,  284, 1    , [°okay°]           , okay              , okay           , INTJ , _              , _
 285-0   , PKP026 , 285  ,  285, 1    , eh                 , eh                , eh             , INTJ , _              , _
 286-0   , PKP025 , 286  ,  286, 1    , però               , però              , però           , CCONJ, _              , _
-286-1   , PKP025 , 286  ,  286, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+286-1   , PKP025 , 286  ,  286, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 286-2   , PKP025 , 286  ,  286, 3    , visto              , visto             , vedere         , VERB , _              , _
 286-3   , PKP025 , 286  ,  286, 4    , che                , che               , che            , SCONJ, _              , _
 286-4   , PKP025 , 286  ,  286, 5    , c'                 , c'                , ci             , PRON , _              , _
@@ -1738,10 +1738,10 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 288-1   , PKP025 , 288  ,  288, 2    , dietro             , dietro            , dietro         , ADV  , _              , _
 288-2   , PKP025 , 288  ,  288, 3    , di                 , di                , di             , ADP  , _              , _
 288-3   , PKP025 , 288  ,  288, 4    , noi                , noi               , noi            , PRON , _              , _
-288-4   , PKP025 , 288  ,  288, 5    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+288-4   , PKP025 , 288  ,  288, 5    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 288-5   , PKP025 , 288  ,  288, 6    , doveva             , doveva            , dovere         , AUX  , _              , _
 288-6   , PKP025 , 288  ,  288, 7    , entrare            , entrare           , entrare        , VERB , _              , _
-288-7   , PKP025 , 288  ,  288, 8    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+288-7   , PKP025 , 288  ,  288, 8    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 288-8   , PKP025 , 288  ,  288, 9    , [subito            , subito            , subito         , ADV  , _              , _
 288-9   , PKP025 , 288  ,  288, 10   , do~]               , do~               , do~            , X    , _              , _
 289-0   , PKP026 , 289  ,  289, 1    , poteva             , poteva            , potere         , AUX  , _              , _
@@ -1752,7 +1752,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 290-2   , PKP025 , 290  ,  290, 3    , fuori              , fuori             , fuori          , ADV  , _              , _
 291-0   , PKP026 , 291  ,  291, 1    , eh                 , eh                , eh             , INTJ , _              , _
 292-0   , PKP025 , 292  ,  292, 1    , quindi             , quindi            , quindi         , ADV  , _              , _
-292-1   , PKP025 , 292  ,  292, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+292-1   , PKP025 , 292  ,  292, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 292-2   , PKP025 , 292  ,  292, 3    , siamo              , siamo             , essere         , AUX  , _              , _
 292-3   , PKP025 , 292  ,  292, 4    , uscite             , uscite            , uscire         , VERB , _              , _
 293-0   , PKP026 , 293  ,  293, 1    , mh                 , mh                , mh             , INTJ , _              , _
@@ -1767,7 +1767,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 295-0   , PKP026 , 295  ,  295, 1    , mh                 , mh                , mh             , INTJ , _              , _
 296-0   , PKP025 , 296  ,  296, 1    , perché             , perché            , perché         , SCONJ, _              , _
 296-1   , PKP025 , 296  ,  296, 2    , tanto              , tanto             , tanto          , ADV  , _              , _
-296-2   , PKP025 , 296  ,  296, 3    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+296-2   , PKP025 , 296  ,  296, 3    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 296-3   , PKP025 , 296  ,  296, 4    , dieci              , dieci             , dieci          , NUM  , _              , _
 296-4   , PKP025 , 296  ,  296, 5    , secondi            , secondi           , secondo        , NOUN , _              , _
 296-5   , PKP025 , 296  ,  296, 6    , uno                , uno               , uno            , PRON , _              , _
@@ -1777,7 +1777,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 297-0   , PKP026 , 297  ,  297, 1    , eh                 , eh                , eh             , INTJ , _              , _
 298-0   , PKP025 , 298  ,  298, 1    , una                , una               , uno            , DET  , _              , _
 298-1   , PKP025 , 298  ,  298, 2    , signora            , signora           , signore        , NOUN , _              , _
-298-2   , PKP025 , 298  ,  298, 3    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+298-2   , PKP025 , 298  ,  298, 3    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 298-3   , PKP025 , 298  ,  298, 4    , si                 , si                , si             , PRON , _              , _
 298-4   , PKP025 , 298  ,  298, 5    , gira               , gira              , girare         , VERB , _              , _
 298-5   , PKP025 , 298  ,  298, 6    , ma:::              , ma                , ma             , CCONJ, _              , _
@@ -1811,7 +1811,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 301-10  , PKP025 , 301  ,  301, 11   , doveva             , doveva            , dovere         , AUX  , _              , _
 301-11  , PKP025 , 301  ,  301, 12-13, entra'             , entra'            , entrare        , VERB , _              , _
 302-0   , PKP025 , 302  ,  302, 1    , eh                 , eh                , eh             , INTJ , _              , _
-302-1   , PKP025 , 302  ,  302, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+302-1   , PKP025 , 302  ,  302, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 302-2   , PKP025 , 302  ,  302, 3    , io                 , io                , io             , PRON , _              , _
 302-3   , PKP025 , 302  ,  302, 4    , invece             , invece            , invece         , ADV  , _              , _
 302-4   , PKP025 , 302  ,  302, 5    , avevo              , avevo             , avere          , AUX  , _              , _
@@ -1825,7 +1825,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 303-1   , PKP025 , 303  ,  303, 2    , ho                 , ho                , avere          , AUX  , _              , _
 303-2   , PKP025 , 303  ,  303, 3    , risposto           , risposto          , rispondere     , VERB , _              , _
 303-3   , PKP025 , 303  ,  303, 4    , guarda             , guarda            , guardare       , VERB , _              , _
-303-4   , PKP025 , 303  ,  303, 5    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+303-4   , PKP025 , 303  ,  303, 5    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 303-5   , PKP025 , 303  ,  303, 6    , non                , non               , non            , ADV  , _              , _
 303-6   , PKP025 , 303  ,  303, 7    , fa                 , fa                , fare           , VERB , _              , _
 303-7   , PKP025 , 303  ,  303, 8    , la                 , la                , il             , DET  , _              , _
@@ -1867,12 +1867,12 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 308-2   , PKP026 , 308  ,  308, 3    , non                , non               , non            , ADV  , _              , _
 308-3   , PKP026 , 308  ,  308, 4    , è                  , è                 , essere         , AUX  , _              , _
 308-4   , PKP026 , 308  ,  308, 5    , proprio<           , proprio           , proprio        , ADV  , _              , _
-308-5   , PKP026 , 308  ,  308, 6    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+308-5   , PKP026 , 308  ,  308, 6    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 308-6   , PKP026 , 308  ,  308, 7    , PIACE]VOLE         , piacevole         , piacevole      , ADJ  , _              , _
 308-7   , PKP026 , 308  ,  308, 8    , ((sospira))        , ((sospira))       , [SIGH]         , X    , _              , _
 309-0   , PKP025 , 309  ,  309, 1    , >ho                , ho                , avere          , AUX  , _              , _
 309-1   , PKP025 , 309  ,  309, 2    , capito<            , capito            , capere         , VERB , _              , _
-309-2   , PKP025 , 309  ,  309, 3    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+309-2   , PKP025 , 309  ,  309, 3    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 309-3   , PKP025 , 309  ,  309, 4    , l'                 , l'                , il             , PRON , _              , _
 309-4   , PKP025 , 309  ,  309, 5    , hai                , hai               , avere          , AUX  , _              , _
 309-5   , PKP025 , 309  ,  309, 6    , scelto             , scelto            , scegliere      , VERB , _              , _
@@ -1888,7 +1888,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 310-6   , PKP026 , 310  ,  310, 8    , ti]tolare          , titolare          , titolare       , NOUN , _              , _
 311-0   , PKP025 , 311  ,  311, 1    , [eh]               , eh                , eh             , INTJ , _              , _
 312-0   , PKP025 , 312  ,  312, 1    , >cioè<             , cioè              , cioè           , CCONJ, _              , _
-312-1   , PKP025 , 312  ,  312, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+312-1   , PKP025 , 312  ,  312, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 312-2   , PKP025 , 312  ,  312, 3    , la                 , la                , la             , PRON , _              , _
 312-3   , PKP025 , 312  ,  312, 4    , CHIUDO             , chiudo            , chiudere       , VERB , _              , _
 312-4   , PKP025 , 312  ,  312, 5    , SE                 , se                , se             , SCONJ, _              , _
@@ -1899,7 +1899,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 312-9   , PKP025 , 312  ,  312, 10   , ALTRO              , altro             , altro          , PRON , _              , _
 312-10  , PKP025 , 312  ,  312, 11   , CHE                , che               , che            , SCONJ, _              , _
 312-11  , PKP025 , 312  ,  312, 12   , ENTRA              , entra             , entrare        , VERB , _              , _
-312-12  , PKP025 , 312  ,  312, 13   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+312-12  , PKP025 , 312  ,  312, 13   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 312-13  , PKP025 , 312  ,  312, 14   , no                 , no                , no             , INTJ , _              , _
 312-14  , PKP025 , 312  ,  312, 15   , che                , che               , che            , SCONJ, _              , _
 312-15  , PKP025 , 312  ,  312, 16   , la                 , la                , il             , DET  , _              , _
@@ -1948,7 +1948,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 318-6   , PKP025 , 318  ,  318, 7    , che                , che               , che            , SCONJ, _              , _
 318-7   , PKP025 , 318  ,  318, 8    , eravamo            , eravamo           , essere         , AUX  , _              , _
 318-8   , PKP025 , 318  ,  318, 9    , arrivati           , arrivati          , arrivare       , VERB , _              , _
-318-9   , PKP025 , 318  ,  318, 10   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+318-9   , PKP025 , 318  ,  318, 10   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 318-10  , PKP025 , 318  ,  318, 11   , quindi             , quindi            , quindi         , CCONJ, _              , _
 318-11  , PKP025 , 318  ,  318, 12   , hanno              , hanno             , avere          , AUX  , _              , _
 318-12  , PKP025 , 318  ,  318, 13   , an~                , an~               , an~            , X    , _              , _
@@ -1973,7 +1973,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 322-1   , PKP025 , 322  ,  322, 2    , l'                 , l'                , lo             , PRON , _              , _
 322-2   , PKP025 , 322  ,  322, 3    , ho                 , ho                , avere          , AUX  , _              , _
 322-3   , PKP025 , 322  ,  322, 4    , chiamata           , chiamata          , chiamare       , VERB , _              , _
-322-4   , PKP025 , 322  ,  322, 5    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+322-4   , PKP025 , 322  ,  322, 5    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 322-5   , PKP025 , 322  ,  322, 6    , guarda             , guarda            , guardare       , VERB , _              , _
 322-6   , PKP025 , 322  ,  322, 7    , che                , che               , che            , SCONJ, _              , _
 322-7   , PKP025 , 322  ,  322, 8    , noi                , noi               , noi            , PRON , _              , _
@@ -1985,7 +1985,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 323-2   , PKP025 , 323  ,  323, 3    , hanno              , hanno             , avere          , AUX  , _              , _
 323-3   , PKP025 , 323  ,  323, 4    , parcheggiato       , parcheggiato      , parcheggiare   , VERB , _              , _
 323-4   , PKP025 , 323  ,  323, 5    , fuori              , fuori             , fuori          , ADV  , _              , _
-323-5   , PKP025 , 323  ,  323, 6    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+323-5   , PKP025 , 323  ,  323, 6    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 323-6   , PKP025 , 323  ,  323, 7    , >per               , per               , per            , ADP  , _              , _
 323-7   , PKP025 , 323  ,  323, 8    , non                , non               , non            , ADV  , _              , _
 323-8   , PKP025 , 323  ,  323, 9-10 , paga'              , paga'             , pagare         , VERB , _              , _
@@ -2043,7 +2043,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 329-3   , PKP025 , 329  ,  329, 4    , se                 , se                , se             , SCONJ, _              , _
 329-4   , PKP025 , 329  ,  329, 5    , se:]               , se                , se             , SCONJ, _              , _
 330-0   , PKP026 , 330  ,  330, 1    , [<DOPO>]           , dopo              , dopo           , ADV  , _              , _
-330-1   , PKP026 , 330  ,  330, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+330-1   , PKP026 , 330  ,  330, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 330-2   , PKP026 , 330  ,  330, 3    , quando             , quando            , quando         , SCONJ, _              , _
 330-3   , PKP026 , 330  ,  330, 4    , siamo              , siamo             , essere         , AUX  , _              , _
 330-4   , PKP026 , 330  ,  330, 5    , andati             , andati            , andare         , VERB , _              , _
@@ -2065,7 +2065,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 333-0   , PKP026 , 333  ,  333, 1    , °sì°               , sì                , sì             , INTJ , _              , _
 334-0   , PKP025 , 334  ,  334, 1    , °eh                , eh                , eh             , INTJ , _              , _
 334-1   , PKP025 , 334  ,  334, 2    , infatti°           , infatti           , infatti        , CCONJ, _              , _
-334-2   , PKP025 , 334  ,  334, 3    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+334-2   , PKP025 , 334  ,  334, 3    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 334-3   , PKP025 , 334  ,  334, 4    , >ma                , ma                , ma             , CCONJ, _              , _
 334-4   , PKP025 , 334  ,  334, 5    , io                 , io                , io             , PRON , _              , _
 334-5   , PKP025 , 334  ,  334, 6    , non                , non               , non            , ADV  , _              , _
@@ -2088,28 +2088,28 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 339-3   , PKP025 , 339  ,  339, 4    , divertita          , divertita         , divertire      , VERB , _              , _
 340-0   , PKP025 , 340  ,  340, 1    , c'                 , c'                , ci             , PRON , _              , _
 340-1   , PKP025 , 340  ,  340, 2    , era                , era               , essere         , VERB , _              , _
-340-2   , PKP025 , 340  ,  340, 3    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+340-2   , PKP025 , 340  ,  340, 3    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 340-3   , PKP025 , 340  ,  340, 4    , la                 , la                , il             , DET  , _              , _
 340-4   , PKP025 , 340  ,  340, 5    , "sala,"            , sala              , sala           , NOUN , _              , _
-340-5   , PKP025 , 340  ,  340, 6    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+340-5   , PKP025 , 340  ,  340, 6    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 340-6   , PKP025 , 340  ,  340, 7    , è                  , è                 , essere         , AUX  , _              , _
 340-7   , PKP025 , 340  ,  340, 8    , piccolo            , piccolo           , piccolo        , ADJ  , _              , _
 341-0   , PKP025 , 341  ,  341, 1    , c'                 , c'                , ci             , PRON , _              , _
 341-1   , PKP025 , 341  ,  341, 2    , era                , era               , essere         , VERB , _              , _
 341-2   , PKP025 , 341  ,  341, 3    , la                 , la                , il             , DET  , _              , _
 341-3   , PKP025 , 341  ,  341, 4    , sala:              , sala              , sala           , NOUN , _              , _
-341-4   , PKP025 , 341  ,  341, 5    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+341-4   , PKP025 , 341  ,  341, 5    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 341-5   , PKP025 , 341  ,  341, 6    , e:hm               , ehm               , ehm            , INTJ , _              , _
 341-6   , PKP025 , 341  ,  341, 7    , >come              , come              , come           , ADP  , _              , _
 341-7   , PKP025 , 341  ,  341, 8    , si                 , si                , si             , PRON , _              , _
 341-8   , PKP025 , 341  ,  341, 9    , chiama<            , chiama            , chiamare       , VERB , _              , _
-341-9   , PKP025 , 341  ,  341, 10   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+341-9   , PKP025 , 341  ,  341, 10   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 341-10  , PKP025 , 341  ,  341, 11   , principale?        , principale        , principale     , ADJ  , _              , _
 342-0   , PKP026 , 342  ,  342, 1    , sì:                , sì                , sì             , INTJ , _              , _
 343-0   , PKP025 , 343  ,  343, 1    , bella              , bella             , bello          , ADJ  , _              , _
-343-1   , PKP025 , 343  ,  343, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+343-1   , PKP025 , 343  ,  343, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 343-2   , PKP025 , 343  ,  343, 3    , però               , però              , però           , CCONJ, _              , _
-343-3   , PKP025 , 343  ,  343, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+343-3   , PKP025 , 343  ,  343, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 343-4   , PKP025 , 343  ,  343, 5    , tutti              , tutti             , tutto          , PRON , _              , _
 343-5   , PKP025 , 343  ,  343, 6    , tavoli             , tavoli            , tavolo         , NOUN , _              , _
 343-6   , PKP025 , 343  ,  343, 7    , quindi             , quindi            , quindi         , CCONJ, _              , _
@@ -2117,7 +2117,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 343-8   , PKP025 , 343  ,  343, 9    , pista              , pista             , pista          , NOUN , _              , _
 343-9   , PKP025 , 343  ,  343, 10   , era                , era               , essere         , VERB , _              , _
 343-10  , PKP025 , 343  ,  343, 11   , tipo               , tipo              , tipo           , NOUN , _              , _
-343-11  , PKP025 , 343  ,  343, 12   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+343-11  , PKP025 , 343  ,  343, 12   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 343-12  , PKP025 , 343  ,  343, 13   , quanto             , quanto            , quanto         , ADP  , _              , _
 343-13  , PKP025 , 343  ,  343, 14   , il                 , il                , il             , DET  , _              , _
 343-14  , PKP025 , 343  ,  343, 15   , tavolino           , tavolino          , tavolo         , NOUN , _              , _
@@ -2143,7 +2143,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 348-0   , PKP026 , 348  ,  348, 1    , ah                 , ah                , ah             , INTJ , _              , _
 348-1   , PKP026 , 348  ,  348, 2    , e:c[co]            , ecco              , ecco           , ADV  , _              , _
 349-0   , PKP025 , 349  ,  349, 1    , [era]              , era               , essere         , AUX  , _              , _
-349-1   , PKP025 , 349  ,  349, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+349-1   , PKP025 , 349  ,  349, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 349-2   , PKP025 , 349  ,  349, 3    , quasi              , quasi             , quasi          , ADV  , _              , _
 349-3   , PKP025 , 349  ,  349, 4    , vuoto              , vuoto             , vuoto          , ADJ  , _              , _
 349-4   , PKP025 , 349  ,  349, 5    , >sol[o             , solo              , solo           , ADV  , _              , _
@@ -2186,7 +2186,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 356-7   , PKP025 , 356  ,  356, 8    , è                  , è                 , essere         , VERB , _              , _
 356-8   , PKP025 , 356  ,  356, 9    , è                  , è                 , essere         , VERB , _              , _
 356-9   , PKP025 , 356  ,  356, 10   , che<               , che               , che            , SCONJ, _              , _
-356-10  , PKP025 , 356  ,  356, 11   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+356-10  , PKP025 , 356  ,  356, 11   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 356-11  , PKP025 , 356  ,  356, 12   , [le                , le                , il             , DET  , _              , _
 356-12  , PKP025 , 356  ,  356, 13   , porte              , porte             , porta          , NOUN , _              , _
 356-13  , PKP025 , 356  ,  356, 14   , so                 , so                , essere         , AUX  , _              , _
@@ -2202,7 +2202,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 359-0   , PKP026 , 359  ,  359, 1    , eh                 , eh                , eh             , INTJ , _              , _
 360-0   , PKP025 , 360  ,  360, 1    , <bellissima>       , bellissima        , bello          , ADJ  , _              , _
 360-1   , PKP025 , 360  ,  360, 2    , però               , però              , però           , CCONJ, _              , _
-360-2   , PKP025 , 360  ,  360, 3    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+360-2   , PKP025 , 360  ,  360, 3    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 360-3   , PKP025 , 360  ,  360, 4    , era                , era               , essere         , AUX  , _              , _
 360-4   , PKP025 , 360  ,  360, 5    , [talmente          , talmente          , talmente       , ADV  , _              , _
 360-5   , PKP025 , 360  ,  360, 6    , piccola            , piccola           , piccolo        , ADJ  , _              , _
@@ -2212,10 +2212,10 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 361-1   , PKP026 , 361  ,  361, 2    , poi                , poi               , poi            , ADV  , _              , _
 361-2   , PKP026 , 361  ,  361, 3    , c'                 , c'                , ci             , PRON , _              , _
 361-3   , PKP026 , 361  ,  361, 4    , era::              , era               , essere         , VERB , _              , _
-361-4   , PKP026 , 361  ,  361, 5    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+361-4   , PKP026 , 361  ,  361, 5    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 361-5   , PKP026 , 361  ,  361, 6    , i]                 , i                 , il             , DET  , _              , _
 361-6   , PKP026 , 361  ,  361, 7    , latini             , latini            , latino         , ADJ  , _              , _
-361-7   , PKP026 , 361  ,  361, 8    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+361-7   , PKP026 , 361  ,  361, 8    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 361-8   , PKP026 , 361  ,  361, 9    , e                  , e                 , e              , CCONJ, _              , _
 361-9   , PKP026 , 361  ,  361, 10   , basta              , basta             , bastare        , VERB , _              , _
 362-0   , PKP025 , 362  ,  362, 1    , °i                 , i                 , il             , DET  , _              , _
@@ -2240,7 +2240,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 364-7   , PKP025 , 364  ,  364, 9    , latini             , latini            , latino         , ADJ  , _              , _
 365-0   , PKP026 , 365  ,  365, 1    , <sì                , sì                , sì             , INTJ , _              , _
 365-1   , PKP026 , 365  ,  365, 2    , però               , però              , però           , CCONJ, _              , _
-365-2   , PKP026 , 365  ,  365, 3    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+365-2   , PKP026 , 365  ,  365, 3    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 365-3   , PKP026 , 365  ,  365, 4-5  , nella              , nella             , _              , _    , _              , _
 365-3a  , _      , _    ,  365, 4    , _                  , in                , in             , ADP  , _              , _
 365-3b  , _      , _    ,  365, 5    , _                  , la                , il             , DET  , _              , _
@@ -2272,14 +2272,14 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 366-2   , PKP025 , 366  ,  366, 3    , ristorante         , ristorante        , ristorante     , NOUN , _              , _
 367-0   , PKP026 , 367  ,  367, 1    , eh                 , eh                , eh             , INTJ , _              , _
 368-0   , PKP025 , 368  ,  368, 1    , ristorante         , ristorante        , ristorante     , NOUN , _              , _
-368-1   , PKP025 , 368  ,  368, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+368-1   , PKP025 , 368  ,  368, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 368-2   , PKP025 , 368  ,  368, 3    , afro               , afro              , afro           , ADJ  , _              , _
-368-3   , PKP025 , 368  ,  368, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+368-3   , PKP025 , 368  ,  368, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 368-4   , PKP025 , 368  ,  368, 5    , pista              , pista             , pista          , NOUN , _              , _
 368-5   , PKP025 , 368  ,  368, 6    , base               , base              , base           , NOUN , _              , _
-368-6   , PKP025 , 368  ,  368, 7    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+368-6   , PKP025 , 368  ,  368, 7    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 368-7   , PKP025 , 368  ,  368, 8    , [lati]ni           , latini            , latino         , ADJ  , _              , _
-368-8   , PKP025 , 368  ,  368, 9    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+368-8   , PKP025 , 368  ,  368, 9    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 368-9   , PKP025 , 368  ,  368, 10   , tecno              , tecno             , tecno          , NOUN , _              , _
 368-10  , PKP025 , 368  ,  368, 11   , fuori              , fuori             , fuori          , ADV  , _              , _
 369-0   , PKP026 , 369  ,  369, 1    , eh                 , eh                , eh             , INTJ , _              , _
@@ -2340,7 +2340,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 381-0   , PKP025 , 381  ,  381, 1    , poi                , poi               , poi            , ADV  , _              , _
 381-1   , PKP025 , 381  ,  381, 2    , la::               , la                , il             , DET  , _              , _
 381-2   , PKP025 , 381  ,  381, 3    , stanza             , stanza            , stanza         , NOUN , _              , _
-381-3   , PKP025 , 381  ,  381, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+381-3   , PKP025 , 381  ,  381, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 381-4   , PKP025 , 381  ,  381, 5    , che                , che               , che            , SCONJ, _              , _
 381-5   , PKP025 , 381  ,  381, 6    , intendono          , intendono         , intendere      , VERB , _              , _
 381-6   , PKP025 , 381  ,  381, 7    , è                  , è                 , essere         , AUX  , _              , _
@@ -2370,7 +2370,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 384-5   , PKP026 , 384  ,  384, 6    , mettere<           , mettere           , mettere        , VERB , _              , _
 384-6   , PKP026 , 384  ,  384, 7    , SEI                , sei               , sei            , NUM  , _              , _
 384-7   , PKP026 , 384  ,  384, 8    , <loc[ali>]         , locali            , locale         , NOUN , _              , _
-384-8   , PKP026 , 384  ,  384, 9    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+384-8   , PKP026 , 384  ,  384, 9    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 384-9   , PKP026 , 384  ,  384, 10   , e                  , e                 , e              , CCONJ, _              , _
 384-10  , PKP026 , 384  ,  384, 11   , [in                , in                , in             , ADP  , _              , _
 384-11  , PKP026 , 384  ,  384, 12   , realtà             , realtà            , realtà         , NOUN , _              , _
@@ -2401,7 +2401,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 389-0   , PKP025 , 389  ,  389, 1    , >solo              , solo              , solo           , ADV  , _              , _
 389-1   , PKP025 , 389  ,  389, 2    , che                , che               , che            , SCONJ, _              , _
 389-2   , PKP025 , 389  ,  389, 3    , dopo<              , dopo              , dopo           , ADV  , _              , _
-389-3   , PKP025 , 389  ,  389, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+389-3   , PKP025 , 389  ,  389, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 389-4   , PKP025 , 389  ,  389, 5    , [ha:               , ha                , avere          , AUX  , _              , _
 389-5   , PKP025 , 389  ,  389, 6    , piovuto]           , piovuto           , piovere        , VERB , _              , _
 390-0   , PKP026 , 390  ,  390, 1    , [sì                , sì                , sì             , INTJ , _              , _
@@ -2409,7 +2409,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 390-2   , PKP026 , 390  ,  390, 3    , a                  , a                 , a              , ADP  , _              , _
 390-3   , PKP026 , 390  ,  390, 4    , febbra]io          , febbraio          , febbraio       , NOUN , _              , _
 390-4   , PKP026 , 390  ,  390, 5    , [eh                , eh                , eh             , INTJ , _              , _
-390-5   , PKP026 , 390  ,  390, 6    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+390-5   , PKP026 , 390  ,  390, 6    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 390-6   , PKP026 , 390  ,  390, 7    , febbraio           , febbraio          , febbraio       , NOUN , _              , _
 390-7   , PKP026 , 390  ,  390, 8    , non                , non               , non            , ADV  , _              , _
 390-8   , PKP026 , 390  ,  390, 9    , m]e                , me                , mi             , PRON , _              , _
@@ -2456,7 +2456,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 395-8   , PKP025 , 395  ,  395, 10   , era                , era               , essere         , AUX  , _              , _
 395-9   , PKP025 , 395  ,  395, 11   , aperto             , aperto            , aprire         , VERB , _              , _
 395-10  , PKP025 , 395  ,  395, 12   , >quindi<           , quindi            , quindi         , CCONJ, _              , _
-395-11  , PKP025 , 395  ,  395, 13   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+395-11  , PKP025 , 395  ,  395, 13   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 395-12  , PKP025 , 395  ,  395, 14   , più                , più               , più            , ADV  , _              , _
 395-13  , PKP025 , 395  ,  395, 15   , fresco             , fresco            , fresco         , ADJ  , _              , _
 395-14  , PKP025 , 395  ,  395, 16   , più                , più               , più            , ADV  , _              , _
@@ -2531,7 +2531,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 404-0   , PKP026 , 404  ,  404, 1    , °mezzanotte        , mezzanotte        , mezzanotte     , NOUN , _              , _
 404-1   , PKP026 , 404  ,  404, 2    , e                  , e                 , e              , CCONJ, _              , _
 404-2   , PKP026 , 404  ,  404, 3    , mezza°             , mezza             , mezzo          , ADJ  , _              , _
-404-3   , PKP026 , 404  ,  404, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+404-3   , PKP026 , 404  ,  404, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 404-4   , PKP026 , 404  ,  404, 5    , [mezzanotte        , mezzanotte        , mezzanotte     , NOUN , _              , _
 404-5   , PKP026 , 404  ,  404, 6    , e                  , e                 , e              , CCONJ, _              , _
 404-6   , PKP026 , 404  ,  404, 7    , un                 , un                , uno            , DET  , _              , _
@@ -2555,7 +2555,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 406-5a  , _      , _    ,  406, 6    , _                  , a                 , a              , ADP  , _              , _
 406-5b  , _      , _    ,  406, 7    , _                  , i                 , il             , DET  , _              , _
 406-6   , PKP026 , 406  ,  406, 8    , latini             , latini            , latino         , ADJ  , _              , _
-406-7   , PKP026 , 406  ,  406, 9    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+406-7   , PKP026 , 406  ,  406, 9    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 406-8   , PKP026 , 406  ,  406, 10   , però               , però              , però           , CCONJ, _              , _
 406-9   , PKP026 , 406  ,  406, 11   , noi                , noi               , noi            , PRON , _              , _
 406-10  , PKP026 , 406  ,  406, 12   , i                  , i                 , il             , DET  , _              , _
@@ -2651,12 +2651,12 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 418-3   , PKP026 , 418  ,  418, 4    , è                  , è                 , essere         , AUX  , _              , _
 418-4   , PKP026 , 418  ,  418, 5    , cena               , cena              , cena           , NOUN , _              , _
 419-0   , PKP025 , 419  ,  419, 1    , ma                 , ma                , ma             , CCONJ, _              , _
-419-1   , PKP025 , 419  ,  419, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+419-1   , PKP025 , 419  ,  419, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 419-2   , PKP025 , 419  ,  419, 3    , [la                , la                , il             , DET  , _              , _
 419-3   , PKP025 , 419  ,  419, 4    , vol]ta             , volta             , volta          , NOUN , _              , _
 419-4   , PKP025 , 419  ,  419, 5    , prima              , prima             , prima          , ADV  , _              , _
 419-5   , PKP025 , 419  ,  419, 6    , però               , però              , però           , CCONJ, _              , _
-419-6   , PKP025 , 419  ,  419, 7    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+419-6   , PKP025 , 419  ,  419, 7    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 419-7   , PKP025 , 419  ,  419, 8    , le                 , le                , il             , DET  , _              , _
 419-8   , PKP025 , 419  ,  419, 9    , trofie             , trofie            , trofia         , NOUN , _              , _
 420-0   , PKP026 , 420  ,  420, 1    , [>fai              , fai               , fare           , VERB , _              , _
@@ -2684,7 +2684,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 425-2   , PKP026 , 425  ,  425, 3    , gno]cchi           , gnocchi           , gnocco         , NOUN , _              , _
 425-3   , PKP026 , 425  ,  425, 4    , erano              , erano             , essere         , AUX  , _              , _
 425-4   , PKP026 , 425  ,  425, 5    , buoni              , buoni             , buono          , ADJ  , _              , _
-425-5   , PKP026 , 425  ,  425, 6    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+425-5   , PKP026 , 425  ,  425, 6    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 425-6   , PKP026 , 425  ,  425, 7    , [però°]            , però              , però           , CCONJ, _              , _
 426-0   , PKP025 , 426  ,  426, 1    , [mh]               , mh                , mh             , INTJ , _              , _
 427-0   , PKP025 , 427  ,  427, 1    , [no]               , no                , no             , INTJ , _              , _
@@ -2699,10 +2699,10 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 430-1   , PKP026 , 430  ,  430, 2    , carne              , carne             , carne          , NOUN , _              , _
 430-2   , PKP026 , 430  ,  430, 3    , era                , era               , essere         , AUX  , _              , _
 430-3   , PKP026 , 430  ,  430, 4    , [fre:dda           , fredda            , fredda         , ADJ  , _              , _
-430-4   , PKP026 , 430  ,  430, 5    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+430-4   , PKP026 , 430  ,  430, 5    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 430-5   , PKP026 , 430  ,  430, 6    , sì]                , sì                , sì             , INTJ , _              , _
 431-0   , PKP025 , 431  ,  431, 1    , [cioè              , cioè              , cioè           , CCONJ, _              , _
-431-1   , PKP025 , 431  ,  431, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+431-1   , PKP025 , 431  ,  431, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 431-2   , PKP025 , 431  ,  431, 3    , dopo               , dopo              , dopo           , ADP  , _              , _
 431-3   , PKP025 , 431  ,  431, 4    , giu]lia            , giulia            , Giulia         , PROPN, _              , _
 431-4   , PKP025 , 431  ,  431, 5    , infatti            , infatti           , infatti        , CCONJ, _              , _
@@ -2772,7 +2772,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 444-0   , PKP025 , 444  ,  444, 1    , a                  , a                 , a              , ADP  , _              , _
 444-1   , PKP025 , 444  ,  444, 2    , parte              , parte             , parte          , NOUN , _              , _
 444-2   , PKP025 , 444  ,  444, 3    , che                , che               , che            , SCONJ, _              , _
-444-3   , PKP025 , 444  ,  444, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+444-3   , PKP025 , 444  ,  444, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 444-4   , PKP025 , 444  ,  444, 5    , (i)l               , il                , il             , DET  , _              , _
 444-5   , PKP025 , 444  ,  444, 6    , servizio           , servizio          , servizio       , NOUN , _              , _
 444-6   , PKP025 , 444  ,  444, 7    , >°cioè°<           , cioè              , cioè           , CCONJ, _              , _
@@ -2787,7 +2787,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 445-8   , PKP026 , 445  ,  445, 9    , tanto              , tanto             , tanto          , ADV  , _              , _
 445-9   , PKP026 , 445  ,  445, 10   , carino]            , carino            , carino         , ADJ  , _              , _
 446-0   , PKP025 , 446  ,  446, 1    , [non:              , non               , non            , ADV  , _              , _
-446-1   , PKP025 , 446  ,  446, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+446-1   , PKP025 , 446  ,  446, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 446-2   , PKP025 , 446  ,  446, 3    , dieci              , dieci             , dieci          , NUM  , _              , _
 446-3   , PKP025 , 446  ,  446, 4    , minuti             , minuti            , minuto         , NOUN , _              , _
 446-4   , PKP025 , 446  ,  446, 5    , ti                 , ti                , ti             , PRON , _              , _
@@ -2808,7 +2808,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 447-10  , PKP025 , 447  ,  447, 11   , anche              , anche             , anche          , ADV  , _              , _
 447-11  , PKP025 , 447  ,  447, 12   , se                 , se                , se             , SCONJ, _              , _
 447-12  , PKP025 , 447  ,  447, 13   , ordini             , ordini            , ordinare       , VERB , _              , _
-447-13  , PKP025 , 447  ,  447, 14   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+447-13  , PKP025 , 447  ,  447, 14   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 447-14  , PKP025 , 447  ,  447, 15   , di                 , di                , di             , ADP  , _              , _
 447-15  , PKP025 , 447  ,  447, 16   , più                , più               , più            , DET  , _              , _
 447-16  , PKP025 , 447  ,  447, 17   , tipo:              , tipo              , tipo           , NOUN , _              , _
@@ -2852,7 +2852,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 452-7   , PKP026 , 452  ,  452, 9    , mezza              , mezza             , mezzo          , ADJ  , _              , _
 452-8   , PKP026 , 452  ,  452, 10   , l'                 , l'                , il             , DET  , _              , _
 452-9   , PKP026 , 452  ,  452, 11   , entrata            , entrata           , entrata        , NOUN , _              , _
-452-10  , PKP026 , 452  ,  452, 12   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+452-10  , PKP026 , 452  ,  452, 12   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 452-11  , PKP026 , 452  ,  452, 13   , costa              , costa             , costare        , VERB , _              , _
 452-12  , PKP026 , 452  ,  452, 14   , venti              , venti             , venti          , NUM  , _              , _
 452-13  , PKP026 , 452  ,  452, 15   , euro               , euro              , euro           , NOUN , _              , _
@@ -2869,7 +2869,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 455-5   , PKP025 , 455  ,  455, 6    , no                 , no                , no             , INTJ , _              , _
 455-6   , PKP025 , 455  ,  455, 7    , no                 , no                , no             , INTJ , _              , _
 456-0   , PKP026 , 456  ,  456, 1    , [no                , no                , no             , INTJ , _              , _
-456-1   , PKP026 , 456  ,  456, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+456-1   , PKP026 , 456  ,  456, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 456-2   , PKP026 , 456  ,  456, 3    , <venti>            , venti             , venti          , NUM  , _              , _
 457-0   , PKP025 , 457  ,  457, 1    , >infatti           , infatti           , infatti        , CCONJ, _              , _
 457-1   , PKP025 , 457  ,  457, 2    , lui                , lui               , lui            , PRON , _              , _
@@ -2977,7 +2977,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 475-1   , PKP025 , 475  ,  475, 2    , giri               , giri              , girare         , VERB , _              , _
 475-2   , PKP025 , 475  ,  475, 3    , sì                 , sì                , sì             , INTJ , _              , _
 476-0   , PKP026 , 476  ,  476, 1    , assolutamente      , assolutamente     , assolutamente  , ADV  , _              , _
-476-1   , PKP026 , 476  ,  476, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+476-1   , PKP026 , 476  ,  476, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 476-2   , PKP026 , 476  ,  476, 3    , è                  , è                 , essere         , AUX  , _              , _
 476-3   , PKP026 , 476  ,  476, 4    , anche              , anche             , anche          , ADV  , _              , _
 476-4   , PKP026 , 476  ,  476, 5    , giusto             , giusto            , giusto         , ADJ  , _              , _
@@ -3062,7 +3062,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 486-2   , PKP026 , 486  ,  486, 3    , lorenzo            , lorenzo           , Lorenzo        , PROPN, _              , _
 487-0   , PKP025 , 487  ,  487, 1    , il                 , il                , il             , DET  , _              , _
 487-1   , PKP025 , 487  ,  487, 2    , ragazzo            , ragazzo           , ragazzo        , NOUN , _              , _
-487-2   , PKP025 , 487  ,  487, 3    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+487-2   , PKP025 , 487  ,  487, 3    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 487-3   , PKP025 , 487  ,  487, 4    , [>quello<          , quello            , quello         , PRON , _              , _
 487-4   , PKP025 , 487  ,  487, 5    , vici]no            , vicino            , vicino         , ADV  , _              , _
 488-0   , PKP026 , 488  ,  488, 1    , eh                 , eh                , eh             , INTJ , _              , _
@@ -3088,7 +3088,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 493-4   , PKP026 , 493  ,  493, 5    , scura              , scura             , scuro          , ADJ  , _              , _
 493-5   , PKP026 , 493  ,  493, 6    , era                , era               , essere         , AUX  , _              , _
 493-6   , PKP026 , 493  ,  493, 7    , lorenzo            , lorenzo           , Lorenzo        , PROPN, _              , _
-493-7   , PKP026 , 493  ,  493, 8    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+493-7   , PKP026 , 493  ,  493, 8    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 493-8   , PKP026 , 493  ,  493, 9    , con                , con               , con            , ADP  , _              , _
 493-9   , PKP026 , 493  ,  493, 10   , la                 , la                , il             , DET  , _              , _
 493-10  , PKP026 , 493  ,  493, 11   , camicia            , camicia           , camicia        , NOUN , _              , _
@@ -3123,7 +3123,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 501-0   , PKP025 , 501  ,  501, 1    , gli                , gli               , il             , DET  , _              , _
 501-1   , PKP025 , 501  ,  501, 2    , amici              , amici             , amico          , NOUN , _              , _
 501-2   , PKP025 , 501  ,  501, 3    , di::               , di                , di             , ADP  , _              , _
-501-3   , PKP025 , 501  ,  501, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+501-3   , PKP025 , 501  ,  501, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 501-4   , PKP025 , 501  ,  501, 5    , quello             , quello            , quello         , PRON , _              , _
 501-5   , PKP025 , 501  ,  501, 6    , che                , che               , che            , SCONJ, _              , _
 501-6   , PKP025 , 501  ,  501, 7    , lavora             , lavora            , lavorare       , VERB , _              , _
@@ -3163,7 +3163,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 509-2   , PKP025 , 509  ,  509, 3    , bello              , bello             , bello          , ADJ  , _              , _
 510-0   , PKP026 , 510  ,  510, 1    , °cos[a°]           , cosa              , cosa           , PRON , _              , _
 511-0   , PKP025 , 511  ,  511, 1    , "[U]NO,"           , uno               , uno            , PRON , _              , _
-511-1   , PKP025 , 511  ,  511, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+511-1   , PKP025 , 511  ,  511, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 511-2   , PKP025 , 511  ,  511, 3    , m'                 , m'                , mi             , PRON , _              , _
 511-3   , PKP025 , 511  ,  511, 4    , ha                 , ha                , avere          , AUX  , _              , _
 511-4   , PKP025 , 511  ,  511, 5    , regalato           , regalato          , regalare       , VERB , _              , _
@@ -3226,7 +3226,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 525-1a  , _      , _    ,  525, 2    , _                  , con               , con            , ADP  , _              , _
 525-1b  , _      , _    ,  525, 3    , _                  , il                , il             , DET  , _              , _
 525-2   , PKP025 , 525  ,  525, 4    , basket             , basket            , basket         , NOUN , _              , _
-525-3   , PKP025 , 525  ,  525, 5    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+525-3   , PKP025 , 525  ,  525, 5    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 525-4   , PKP025 , 525  ,  525, 6    , la                 , la                , il             , DET  , _              , _
 525-5   , PKP025 , 525  ,  525, 7    , socie[tà:]         , società           , società        , NOUN , _              , _
 526-0   , PKP026 , 526  ,  526, 1    , [a:h]              , ah                , ah             , INTJ , _              , _
@@ -3283,7 +3283,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 536-6   , PKP025 , 536  ,  536, 7    , ha                 , ha                , avere          , AUX  , _              , _
 536-7   , PKP025 , 536  ,  536, 8    , passato            , passato           , passare        , VERB , _              , _
 536-8   , PKP025 , 536  ,  536, 9    , okay               , okay              , okay           , INTJ , _              , _
-536-9   , PKP025 , 536  ,  536, 10   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+536-9   , PKP025 , 536  ,  536, 10   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 536-10  , PKP025 , 536  ,  536, 11   , ma                 , ma                , ma             , CCONJ, _              , _
 536-11  , PKP025 , 536  ,  536, 12   , venerdì            , venerdì           , venerdì        , NOUN , _              , _
 536-12  , PKP025 , 536  ,  536, 13   , mado'::            , mado'::           , madonna        , INTJ , _              , _
@@ -3295,7 +3295,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 538-2   , PKP025 , 538  ,  538, 3    , ho                 , ho                , avere          , VERB , _              , _
 538-3   , PKP025 , 538  ,  538, 4    , paura              , paura             , paura          , NOUN , _              , _
 538-4   , PKP025 , 538  ,  538, 5    , >perché<           , perché            , perché         , SCONJ, _              , _
-538-5   , PKP025 , 538  ,  538, 6    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+538-5   , PKP025 , 538  ,  538, 6    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 538-6   , PKP025 , 538  ,  538, 7    , sabato             , sabato            , sabato         , NOUN , _              , _
 539-0   , PKP026 , 539  ,  539, 1    , a:h                , ah                , ah             , INTJ , _              , _
 540-0   , PKP025 , 540  ,  540, 1    , è                  , è                 , essere         , AUX  , _              , _
@@ -3316,7 +3316,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 542-1   , PKP025 , 542  ,  542, 2    , sì                 , sì                , sì             , INTJ , _              , _
 542-2   , PKP025 , 542  ,  542, 3    , eh]                , eh                , eh             , INTJ , _              , _
 543-0   , PKP025 , 543  ,  543, 1    , venerdì            , venerdì           , venerdì        , NOUN , _              , _
-543-1   , PKP025 , 543  ,  543, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+543-1   , PKP025 , 543  ,  543, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 543-2   , PKP025 , 543  ,  543, 3    , tra                , tra               , tra            , ADP  , _              , _
 543-3   , PKP025 , 543  ,  543, 4    , tre                , tre               , tre            , NUM  , _              , _
 543-4   , PKP025 , 543  ,  543, 5    , giorni             , giorni            , giorno         , NOUN , _              , _
@@ -3382,7 +3382,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 554-1   , PKP025 , 554  ,  554, 2    , ci                 , ci                , ci             , PRON , _              , _
 554-2   , PKP025 , 554  ,  554, 3    , credo              , credo             , credere        , VERB , _              , _
 555-0   , PKP025 , 555  ,  555, 1    , UNO                , uno               , uno            , PRON , _              , _
-555-1   , PKP025 , 555  ,  555, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+555-1   , PKP025 , 555  ,  555, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 555-2   , PKP025 , 555  ,  555, 3-4  , al                 , al                , _              , _    , _              , _
 555-2a  , _      , _    ,  555, 3    , _                  , a                 , a              , ADP  , _              , _
 555-2b  , _      , _    ,  555, 4    , _                  , il                , il             , DET  , _              , _
@@ -3392,7 +3392,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 555-4b  , _      , _    ,  555, 7    , _                  , le                , il             , DET  , _              , _
 555-5   , PKP025 , 555  ,  555, 8    , quattro            , quattro           , quattro        , NUM  , _              , _
 555-6   , PKP025 , 555  ,  555, 9    , sabato:            , sabato            , sabato         , NOUN , _              , _
-555-7   , PKP025 , 555  ,  555, 10   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+555-7   , PKP025 , 555  ,  555, 10   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 555-8   , PKP025 , 555  ,  555, 11   , tipo               , tipo              , tipo           , NOUN , _              , _
 555-9   , PKP025 , 555  ,  555, 12   , tre                , tre               , tre            , NUM  , _              , _
 555-10  , PKP025 , 555  ,  555, 13   , sabati             , sabati            , sabato         , NOUN , _              , _
@@ -3423,7 +3423,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 559-0   , PKP025 , 559  ,  559, 1    , la                 , la                , il             , DET  , _              , _
 559-1   , PKP025 , 559  ,  559, 2    , situazione         , situazione        , situazione     , NOUN , _              , _
 559-2   , PKP025 , 559  ,  559, 3    , è                  , è                 , essere         , AUX  , _              , _
-559-3   , PKP025 , 559  ,  559, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+559-3   , PKP025 , 559  ,  559, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 559-4   , PKP025 , 559  ,  559, 5    , peggio             , peggio            , peggio         , ADV  , _              , _
 559-5   , PKP025 , 559  ,  559, 6-7  , degli              , degli             , _              , _    , _              , _
 559-5a  , _      , _    ,  559, 6    , _                  , di                , di             , ADP  , _              , _
@@ -3725,7 +3725,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 614-6   , PKP025 , 614  ,  614, 7    , da:                , da                , da             , ADP  , _              , _
 614-7   , PKP025 , 614  ,  614, 8    , è                  , è                 , essere         , AUX  , _              , _
 614-8   , PKP025 , 614  ,  614, 9    , "giovedì,"         , giovedì           , giovedì        , NOUN , _              , _
-614-9   , PKP025 , 614  ,  614, 10   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+614-9   , PKP025 , 614  ,  614, 10   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 614-10  , PKP025 , 614  ,  614, 11   , il                 , il                , il             , DET  , _              , _
 614-11  , PKP025 , 614  ,  614, 12   , tre                , tre               , tre            , NUM  , _              , _
 615-0   , PKP026 , 615  ,  615, 1    , sì                 , sì                , sì             , INTJ , _              , _
@@ -4340,7 +4340,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 759-0   , PKP025 , 759  ,  759, 1    , >si                , si                , si             , PRON , _              , _
 759-1   , PKP025 , 759  ,  759, 2    , stava              , stava             , stare          , VERB , _              , _
 759-2   , PKP025 , 759  ,  759, 3    , bene<              , bene              , bene           , ADV  , _              , _
-759-3   , PKP025 , 759  ,  759, 4    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+759-3   , PKP025 , 759  ,  759, 4    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 759-4   , PKP025 , 759  ,  759, 5    , il                 , il                , il             , DET  , _              , _
 759-5   , PKP025 , 759  ,  759, 6    , vento              , vento             , vento          , NOUN , _              , _
 759-6   , PKP025 , 759  ,  759, 7    , non                , non               , non            , ADV  , _              , _
@@ -4495,7 +4495,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 796-2   , PKP025 , 796  ,  796, 3    , iniziato           , iniziato          , iniziare       , VERB , _              , _
 796-3   , PKP025 , 796  ,  796, 4    , eh]                , eh                , eh             , INTJ , _              , _
 797-0   , PKP025 , 797  ,  797, 1    , °eh°               , eh                , eh             , INTJ , _              , _
-797-1   , PKP025 , 797  ,  797, 2    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+797-1   , PKP025 , 797  ,  797, 2    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 797-2   , PKP025 , 797  ,  797, 3    , lì                 , lì                , lì             , ADV  , _              , _
 797-3   , PKP025 , 797  ,  797, 4    , c'                 , c'                , ci             , PRON , _              , _
 797-4   , PKP025 , 797  ,  797, 5    , è                  , è                 , essere         , AUX  , _              , _
@@ -4505,7 +4505,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 797-8   , PKP025 , 797  ,  797, 9    , prende             , prende            , prendere       , VERB , _              , _
 797-9   , PKP025 , 797  ,  797, 10   , due                , due               , due            , NUM  , _              , _
 797-10  , PKP025 , 797  ,  797, 11   , volte              , volte             , volta          , NOUN , _              , _
-797-11  , PKP025 , 797  ,  797, 12   , (.)                , (.)               , [PAUSE]        , X    , _              , _
+797-11  , PKP025 , 797  ,  797, 12   , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 797-12  , PKP025 , 797  ,  797, 13   , "<due>,"           , due               , due            , NUM  , _              , _
 798-0   , PKP025 , 798  ,  798, 1    , fino               , fino              , fino           , ADV  , _              , _
 798-1   , PKP025 , 798  ,  798, 2    , a                  , a                 , a              , ADP  , _              , _
@@ -4643,7 +4643,7 @@ token_id, speaker, tu_id, unit, id   , span               , form              , 
 821-3   , PKP026 , 821  ,  821, 4    , ha                 , ha                , avere          , AUX  , _              , _
 821-4   , PKP026 , 821  ,  821, 5    , fatto              , fatto             , fare           , VERB , _              , _
 821-5   , PKP026 , 821  ,  821, 6    , caldo]             , caldo             , caldo          , ADJ  , _              , _
-821-6   , PKP026 , 821  ,  821, 7    , (.)                , (.)               , [PAUSE]        , X    , _              , _
+821-6   , PKP026 , 821  ,  821, 7    , (.)                , (.)               , PAUSE          , PAUSE, _              , _
 821-7   , PKP026 , 821  ,  821, 8    , poi                , poi               , poi            , ADV  , _              , _
 821-8   , PKP026 , 821  ,  821, 9    , ha                 , ha                , avere          , AUX  , _              , _
 821-9   , PKP026 , 821  ,  821, 10   , fatto              , fatto             , fare           , VERB , _              , _

@@ -626,7 +626,7 @@ token_id, speaker, tu_id, unit, id   , span              , form            , lem
 55-3    , BO141  , 55   ,   55, 4    , invece            , invece          , invece          , ADV  , _                                  , _
 55-4    , BO141  , 55   ,   55, 5    , la                , la              , il              , DET  , _                                  , _
 55-5    , BO141  , 55   ,   55, 6    , cortesia          , cortesia        , cortesia        , NOUN , _                                  , _
-55-6    , BO141  , 55   ,   55, 7    , (.)               , (.)             , _               , _    , _                                  , _
+55-6    , BO141  , 55   ,   55, 7    , (.)               , (.)             , PAUSE           , PAUSE, _                                  , _
 55-7    , BO141  , 55   ,   55, 8    , di                , di              , di              , ADP  , _                                  , _
 55-8    , BO141  , 55   ,   55, 9    , leech             , leech           , Leech           , PROPN, _                                  , _
 56-0    , BO141  , 56   ,   56, 1    , che               , che             , che             , PRON , _                                  , _
@@ -1402,7 +1402,7 @@ token_id, speaker, tu_id, unit, id   , span              , form            , lem
 117-0   , BO117  , 117  ,  117, 1    , va                , va              , andare          , VERB , _                                  , _
 117-1   , BO117  , 117  ,  117, 2    , "bene,"           , bene            , bene            , ADV  , Intonation=weakly_rising           , _
 117-2   , BO117  , 117  ,  117, 3    , cambiamo:::       , cambiamo        , cambiare        , VERB , _                                  , _
-117-3   , BO117  , 117  ,  117, 4    , (.)               , (.)             , _               , _    , _                                  , _
+117-3   , BO117  , 117  ,  117, 4    , (.)               , (.)             , PAUSE           , PAUSE, _                                  , _
 117-4   , BO117  , 117  ,  117, 5    , ambito            , ambito          , ambito          , NOUN , _                                  , _
 118-0   , BO117  , 118  ,  118, 1    , e::h              , eh              , eh              , INTJ , _                                  , _
 118-1   , BO117  , 118  ,  118, 2    , e                 , e               , e               , CCONJ, _                                  , _
@@ -2367,7 +2367,7 @@ token_id, speaker, tu_id, unit, id   , span              , form            , lem
 189-3   , BO117  , 189  ,  189, 4    , cioè              , cioè            , cioè            , CCONJ, _                                  , _
 189-4   , BO117  , 189  ,  189, 5    , qual              , qual            , quale           , PRON , _                                  , _
 189-5   , BO117  , 189  ,  189, 6    , è                 , è               , essere          , AUX  , _                                  , _
-189-6   , BO117  , 189  ,  189, 7    , (.)               , (.)             , _               , _    , _                                  , _
+189-6   , BO117  , 189  ,  189, 7    , (.)               , (.)             , PAUSE           , PAUSE, _                                  , _
 189-7   , BO117  , 189  ,  189, 8    , il                , il              , il              , DET  , _                                  , _
 189-8   , BO117  , 189  ,  189, 9    , meccanismo        , meccanismo      , meccanismo      , NOUN , _                                  , _
 189-9   , BO117  , 189  ,  189, 10   , insomma?          , insomma         , insomma         , ADV  , Intonation=rising                  , _
@@ -2668,6 +2668,6 @@ token_id, speaker, tu_id, unit, id   , span              , form            , lem
 213-5   , BO141  , 213  ,  213, 6    , sono              , sono            , essere          , AUX  , _                                  , _
 214-0   , BO117  , 214  ,  214, 1    , mh                , mh              , mh              , INTJ , _                                  , _
 214-1   , BO117  , 214  ,  214, 2    , "mh,"             , mh              , mh              , INTJ , Intonation=weakly_rising           , _
-214-2   , BO117  , 214  ,  214, 3    , (.)               , (.)             , _               , _    , _                                  , _
+214-2   , BO117  , 214  ,  214, 3    , (.)               , (.)             , PAUSE           , PAUSE, _                                  , _
 214-3   , BO117  , 214  ,  214, 4    , va                , va              , andare          , VERB , _                                  , _
 214-4   , BO117  , 214  ,  214, 5    , "bene,"           , bene            , bene            , ADV  , Intonation=weakly_rising           , _

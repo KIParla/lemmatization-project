@@ -125,7 +125,7 @@ token_id, speaker, tu_id, span                          , form                  
 26-0    , PKP060 , 26   , comunque                      , comunque                      , comunque                      , ADV  , _                                     , _
 26-1    , PKP060 , 26   , ti                            , ti                            , ti                            , PRON , _                                     , _
 26-2    , PKP060 , 26   , avverto                       , avverto                       , avvertire                     , VERB , _                                     , _
-26-3    , PKP060 , 26   , (.)                           , (.)                           , _                             , X    , _                                     , _
+26-3    , PKP060 , 26   , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 26-4    , PKP060 , 26   , stasera                       , stasera                       , stasera                       , ADV  , _                                     , _
 26-5    , PKP060 , 26   , ho                            , ho                            , avere                         , VERB , _                                     , _
 26-6    , PKP060 , 26   , una                           , una                           , uno                           , DET  , _                                     , _
@@ -139,7 +139,7 @@ token_id, speaker, tu_id, span                          , form                  
 29-0    , PKP060 , 29   , oggi?                         , oggi                          , oggi                          , ADV  , Intonation=rising                     , _
 30-0    , PKP057 , 30   , mh                            , mh                            , mh                            , INTJ , _                                     , _
 31-0    , PKP060 , 31   , stamattina                    , stamattina                    , stamattina                    , ADV  , _                                     , _
-31-1    , PKP060 , 31   , (.)                           , (.)                           , _                             , X    , _                                     , _
+31-1    , PKP060 , 31   , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 31-2    , PKP060 , 31   , mi                            , mi                            , mi                            , PRON , _                                     , _
 31-3    , PKP060 , 31   , sono                          , sono                          , essere                        , AUX  , _                                     , _
 31-4    , PKP060 , 31   , alzato                        , alzato                        , alzare                        , VERB , _                                     , _
@@ -156,7 +156,7 @@ token_id, speaker, tu_id, span                          , form                  
 35-0    , PKP060 , 35   , e                             , e                             , e                             , CCONJ, _                                     , _
 35-1    , PKP060 , 35   , sono                          , sono                          , essere                        , AUX  , _                                     , _
 35-2    , PKP060 , 35   , andato                        , andato                        , andare                        , VERB , _                                     , _
-35-3    , PKP060 , 35   , (.)                           , (.)                           , _                             , X    , _                                     , _
+35-3    , PKP060 , 35   , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 35-4    , PKP060 , 35   , a                             , a                             , a                             , ADP  , _                                     , _
 35-5    , PKP060 , 35   , fare                          , fare                          , fare                          , VERB , _                                     , _
 35-6    , PKP060 , 35   , gpl                           , gpl                           , gpl                           , NOUN , _                                     , _
@@ -164,7 +164,7 @@ token_id, speaker, tu_id, span                          , form                  
 37-0    , PKP060 , 37   , per                           , per                           , per                           , ADP  , _                                     , _
 37-1    , PKP060 , 37   , venire                        , venire                        , venire                        , VERB , _                                     , _
 37-2    , PKP060 , 37   , qua                           , qua                           , qua                           , ADV  , _                                     , _
-37-3    , PKP060 , 37   , (.)                           , (.)                           , _                             , X    , _                                     , _
+37-3    , PKP060 , 37   , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 37-4    , PKP060 , 37   , se                            , se                            , se                            , SCONJ, _                                     , _
 37-5    , PKP060 , 37   , no                            , no                            , no                            , ADV  , _                                     , _
 37-6    , PKP060 , 37   , rimanevamo                    , rimanevamo                    , rimanere                      , VERB , _                                     , _
@@ -172,7 +172,7 @@ token_id, speaker, tu_id, span                          , form                  
 37-8    , PKP060 , 37   , piedi                         , piedi                         , piede                         , NOUN , _                                     , _
 38-0    , PKP057 , 38   , ((ride))                      , ((ride))                      , _                             , X    , _                                     , _
 39-0    , PKP060 , 39   , poi                           , poi                           , poi                           , ADV  , _                                     , _
-39-1    , PKP060 , 39   , (.)                           , (.)                           , _                             , X    , _                                     , _
+39-1    , PKP060 , 39   , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 39-2    , PKP060 , 39   , sono                          , sono                          , essere                        , AUX  , _                                     , _
 39-3    , PKP060 , 39   , tornato                       , tornato                       , tornare                       , VERB , _                                     , _
 39-4    , PKP060 , 39   , a                             , a                             , a                             , ADP  , _                                     , _
@@ -250,7 +250,7 @@ token_id, speaker, tu_id, span                          , form                  
 51-0    , PKP057 , 51   , mhmh                          , mhmh                          , mhmh                          , INTJ , _                                     , _
 52-0    , PKP057 , 52   , ((ride))                      , ((ride))                      , _                             , X    , _                                     , _
 53-0    , PKP060 , 53   , e:                            , e                             , e                             , CCONJ, _                                     , _
-53-1    , PKP060 , 53   , (.)                           , (.)                           , _                             , X    , _                                     , _
+53-1    , PKP060 , 53   , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 53-2    , PKP060 , 53   , e                             , e                             , e                             , CCONJ, _                                     , _
 53-3    , PKP060 , 53   , ho                            , ho                            , avere                         , AUX  , _                                     , _
 53-4    , PKP060 , 53   , perso                         , perso                         , perdere                       , VERB , _                                     , _
@@ -265,7 +265,7 @@ token_id, speaker, tu_id, span                          , form                  
 55-3    , PKP060 , 55   , ho                            , ho                            , avere                         , AUX  , _                                     , _
 55-4    , PKP060 , 55   , fatto                         , fatto                         , fare                          , VERB , _                                     , _
 55-5    , PKP060 , 55   , mh                            , mh                            , mh                            , INTJ , _                                     , _
-55-6    , PKP060 , 55   , (.)                           , (.)                           , _                             , X    , _                                     , _
+55-6    , PKP060 , 55   , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 55-7    , PKP060 , 55   , almeno                        , almeno                        , almeno                        , ADV  , _                                     , _
 55-8    , PKP060 , 55   , tre                           , tre                           , tre                           , NUM  , _                                     , _
 55-9    , PKP060 , 55   , conti                         , conti                         , conto                         , NOUN , _                                     , _
@@ -314,7 +314,7 @@ token_id, speaker, tu_id, span                          , form                  
 63-5    , PKP057 , 63   , teiera?                       , teiera                        , teiera                        , NOUN , Intonation=rising                     , _
 64-0    , PKP060 , 64   , eh                            , eh                            , eh                            , INTJ , _                                     , _
 65-0    , PKP057 , 65   , buonissimo                    , buonissimo                    , buono                         , ADJ  , _                                     , _
-65-1    , PKP057 , 65   , (.)                           , (.)                           , _                             , X    , _                                     , _
+65-1    , PKP057 , 65   , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 65-2    , PKP057 , 65   , è                             , è                             , essere                        , AUX  , _                                     , _
 65-3    , PKP057 , 65   , b~                            , b~                            , b~                            , X    , Interrupted=Yes                       , _
 65-4    , PKP057 , 65   , è                             , è                             , essere                        , AUX  , _                                     , _
@@ -344,7 +344,7 @@ token_id, speaker, tu_id, span                          , form                  
 68-9a   , _      , _    , _                             , a                             , a                             , ADP  , _                                     , _
 68-9b   , _      , _    , _                             , il                            , il                            , DET  , _                                     , _
 68-10   , PKP060 , 68   , giappo                        , giappo                        , giappo                        , NOUN , _                                     , _
-68-11   , PKP060 , 68   , (.)                           , (.)                           , _                             , X    , _                                     , _
+68-11   , PKP060 , 68   , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 68-12   , PKP060 , 68   , con                           , con                           , con                           , ADP  , _                                     , _
 68-13   , PKP060 , 68   , raffa                         , raffa                         , raffa                         , PROPN, _                                     , _
 69-0    , PKP057 , 69   , mh                            , mh                            , mh                            , INTJ , _                                     , _
@@ -379,11 +379,11 @@ token_id, speaker, tu_id, span                          , form                  
 80-2    , PKP057 , 80   , il                            , il                            , il                            , DET  , _                                     , _
 80-3    , PKP057 , 80   , primo                         , primo                         , primo                         , ADJ  , _                                     , _
 80-4    , PKP057 , 80   , secondo                       , secondo                       , secondo                       , ADJ  , _                                     , _
-80-5    , PKP057 , 80   , (.)                           , (.)                           , _                             , X    , _                                     , _
+80-5    , PKP057 , 80   , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 80-6    , PKP057 , 80   , mi                            , mi                            , mi                            , PRON , _                                     , _
 80-7    , PKP057 , 80   , sembra                        , sembra                        , sembrare                      , VERB , _                                     , _
 80-8    , PKP057 , 80   , di                            , di                            , di                            , ADP  , _                                     , _
-80-9    , PKP057 , 80   , (.)                           , (.)                           , _                             , X    , _                                     , _
+80-9    , PKP057 , 80   , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 80-10   , PKP057 , 80   , spezzare                      , spezzare                      , spezzare                      , VERB , _                                     , _
 80-11   , PKP057 , 80   , tipo                          , tipo                          , tipo                          , NOUN , _                                     , _
 80-12   , PKP057 , 80   , un                            , un                            , uno                           , DET  , _                                     , _
@@ -393,7 +393,7 @@ token_id, speaker, tu_id, span                          , form                  
 81-0    , PKP060 , 81   , dopo:                         , dopo                          , dopo                          , ADV  , _                                     , _
 82-0    , PKP057 , 82   , e                             , e                             , e                             , CCONJ, _                                     , _
 82-1    , PKP057 , 82   , poi                           , poi                           , poi                           , ADV  , _                                     , _
-82-2    , PKP057 , 82   , (.)                           , (.)                           , _                             , X    , _                                     , _
+82-2    , PKP057 , 82   , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 82-3    , PKP057 , 82   , sa                            , sa                            , sapere                        , VERB , _                                     , _
 82-4    , PKP057 , 82   , di                            , di                            , di                            , ADP  , _                                     , _
 82-5    , PKP057 , 82   , prugna                        , prugna                        , prugna                        , NOUN , _                                     , _
@@ -405,7 +405,7 @@ token_id, speaker, tu_id, span                          , form                  
 84-0    , PKP057 , 84   , e                             , e                             , e                             , CCONJ, _                                     , _
 84-1    , PKP057 , 84   , poi                           , poi                           , poi                           , ADV  , _                                     , _
 84-2    , PKP057 , 84   , però                          , però                          , però                          , ADV  , _                                     , _
-84-3    , PKP057 , 84   , (.)                           , (.)                           , _                             , X    , _                                     , _
+84-3    , PKP057 , 84   , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 84-4    , PKP057 , 84   , mh                            , mh                            , mh                            , INTJ , _                                     , _
 85-0    , PKP057 , 85   , xx                            , xx                            , x                             , X    , _                                     , _
 85-1    , PKP057 , 85   , è                             , è                             , essere                        , AUX  , _                                     , _
@@ -526,7 +526,7 @@ token_id, speaker, tu_id, span                          , form                  
 114-0   , PKP057 , 114  , di                            , di                            , di                            , ADP  , _                                     , _
 114-1   , PKP057 , 114  , vino                          , vino                          , vino                          , NOUN , _                                     , _
 114-2   , PKP057 , 114  , tipo                          , tipo                          , tipo                          , NOUN , _                                     , _
-114-3   , PKP057 , 114  , (.)                           , (.)                           , _                             , X    , _                                     , _
+114-3   , PKP057 , 114  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 114-4   , PKP057 , 114  , quando                        , quando                        , quando                        , SCONJ, _                                     , _
 114-5   , PKP057 , 114  , uno                           , uno                           , uno                           , PRON , _                                     , _
 114-6   , PKP057 , 114  , va                            , va                            , andare                        , VERB , _                                     , _
@@ -566,7 +566,7 @@ token_id, speaker, tu_id, span                          , form                  
 121-3   , PKP060 , 121  , elle                          , elle                          , L                             , NOUN , _                                     , _
 122-0   , PKP057 , 122  , ve                            , ve                            , V                             , NOUN , _                                     , _
 122-1   , PKP057 , 122  , ma:                           , ma                            , ma                            , CCONJ, _                                     , _
-122-2   , PKP057 , 122  , (.)                           , (.)                           , _                             , X    , _                                     , _
+122-2   , PKP057 , 122  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 122-3   , PKP057 , 122  , l'                            , l'                            , il                            , DET  , _                                     , SpaceAfter=No
 122-4   , PKP057 , 122  , hai:                          , hai                           , avere                         , NOUN , _                                     , _
 123-0   , PKP060 , 123  , che                           , che                           , che                           , ADV  , _                                     , _
@@ -669,7 +669,7 @@ token_id, speaker, tu_id, span                          , form                  
 137-8b  , _      , _    , _                             , gli                           , il                            , DET  , _                                     , _
 137-9   , PKP060 , 137  , animali                       , animali                       , animale                       , NOUN , _                                     , _
 138-0   , PKP057 , 138  , mh                            , mh                            , mh                            , INTJ , _                                     , _
-138-1   , PKP057 , 138  , (.)                           , (.)                           , _                             , X    , _                                     , _
+138-1   , PKP057 , 138  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 138-2   , PKP057 , 138  , e                             , e                             , e                             , CCONJ, _                                     , _
 138-3   , PKP057 , 138  , stefano                       , stefano                       , stefare                       , PROPN, _                                     , _
 139-0   , PKP060 , 139  , stefano:                      , stefano                       , stefare                       , PROPN, _                                     , _
@@ -704,7 +704,7 @@ token_id, speaker, tu_id, span                          , form                  
 140-19  , PKP060 , 140  , adesso                        , adesso                        , adesso                        , ADV  , _                                     , _
 141-0   , PKP057 , 141  , mh:                           , mh                            , mh                            , INTJ , _                                     , _
 142-0   , PKP060 , 142  , e:                            , e                             , e                             , CCONJ, _                                     , _
-142-1   , PKP060 , 142  , (.)                           , (.)                           , _                             , X    , _                                     , _
+142-1   , PKP060 , 142  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 142-2   , PKP060 , 142  , quando                        , quando                        , quando                        , SCONJ, _                                     , _
 142-3   , PKP060 , 142  , gli                           , gli                           , lo                            , PRON , _                                     , _
 142-4   , PKP060 , 142  , ho                            , ho                            , avere                         , AUX  , _                                     , _
@@ -746,7 +746,7 @@ token_id, speaker, tu_id, span                          , form                  
 145-3   , PKP060 , 145  , quale                         , quale                         , quale                         , ADV  , _                                     , _
 145-4   , PKP060 , 145  , e                             , e                             , e                             , CCONJ, _                                     , _
 145-5   , PKP060 , 145  , là                            , là                            , là                            , ADV  , _                                     , _
-145-6   , PKP060 , 145  , (.)                           , (.)                           , _                             , X    , _                                     , _
+145-6   , PKP060 , 145  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 145-7   , PKP060 , 145  , ho                            , ho                            , avere                         , AUX  , _                                     , _
 145-8   , PKP060 , 145  , detto:                        , detto                         , dire                          , VERB , _                                     , _
 145-9   , PKP060 , 145  , eh:                           , eh                            , eh                            , INTJ , _                                     , _
@@ -765,7 +765,7 @@ token_id, speaker, tu_id, span                          , form                  
 145-20  , PKP060 , 145  , ma                            , ma                            , ma                            , CCONJ, _                                     , _
 146-0   , PKP060 , 146  , comunque                      , comunque                      , comunque                      , ADV  , _                                     , _
 146-1   , PKP060 , 146  , ho:                           , ho                            , avere                         , AUX  , _                                     , _
-146-2   , PKP060 , 146  , (.)                           , (.)                           , _                             , X    , _                                     , _
+146-2   , PKP060 , 146  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 146-3   , PKP060 , 146  , sono                          , sono                          , essere                        , AUX  , _                                     , _
 146-4   , PKP060 , 146  , un                            , un                            , uno                           , DET  , _                                     , _
 146-5   , PKP060 , 146  , po'                           , po'                           , poco                          , ADV  , _                                     , _
@@ -829,7 +829,7 @@ token_id, speaker, tu_id, span                          , form                  
 158-2   , PKP057 , 158  , acqua                         , acqua                         , acqua                         , NOUN , _                                     , _
 158-3   , PKP057 , 158  , è?                            , è                             , essere                        , VERB , Intonation=rising                     , _
 159-0   , PKP060 , 159  , praticamente                  , praticamente                  , praticamente                  , ADV  , _                                     , _
-159-1   , PKP060 , 159  , (.)                           , (.)                           , _                             , X    , _                                     , _
+159-1   , PKP060 , 159  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 159-2   , PKP060 , 159  , sai                           , sai                           , sapere                        , VERB , _                                     , _
 159-3   , PKP060 , 159  , le                            , le                            , il                            , DET  , _                                     , _
 159-4   , PKP060 , 159  , interrogazioni                , interrogazioni                , interrogazione                , NOUN , _                                     , _
@@ -893,7 +893,7 @@ token_id, speaker, tu_id, span                          , form                  
 166-10  , PKP060 , 166  , [limpido]                     , limpido                       , limpido                       , ADJ  , _                                     , _
 167-0   , PKP057 , 167  , [sto]                         , sto                           , stare                         , VERB , _                                     , _
 167-5   , PKP057 , 167  , malissimo                     , malissimo                     , male                          , ADV  , _                                     , _
-167-1   , PKP057 , 167  , (.)                           , (.)                           , _                             , X    , _                                     , _
+167-1   , PKP057 , 167  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 167-2   , PKP057 , 167  , facci                         , facci                         , fare                          , VERB , _                                     , _
 167-3   , PKP057 , 167  , una                           , una                           , uno                           , DET  , _                                     , _
 167-4   , PKP057 , 167  , foto                          , foto                          , foto                          , NOUN , _                                     , _
@@ -1062,7 +1062,7 @@ token_id, speaker, tu_id, span                          , form                  
 201-1   , PKP057 , 201  , dici?°                        , dici                          , dire                          , VERB , Intonation=rising|Volume=low          , _
 202-0   , PKP060 , 202  , °sciocchino°                  , sciocchino                    , sciocchino                    , NOUN , Volume=low                            , _
 203-0   , PKP060 , 203  , mh                            , mh                            , mh                            , INTJ , _                                     , _
-203-1   , PKP060 , 203  , (.)                           , (.)                           , _                             , X    , _                                     , _
+203-1   , PKP060 , 203  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 203-2   , PKP060 , 203  , hai                           , hai                           , avere                         , AUX  , _                                     , _
 203-3   , PKP060 , 203  , visto                         , visto                         , vedere                        , VERB , _                                     , _
 203-4   , PKP060 , 203  , le                            , le                            , il                            , DET  , _                                     , _
@@ -1075,7 +1075,7 @@ token_id, speaker, tu_id, span                          , form                  
 203-11  , PKP060 , 203  , sera?                         , sera                          , sera                          , NOUN , Intonation=rising                     , _
 204-0   , PKP057 , 204  , sì                            , sì                            , sì                            , ADV  , _                                     , _
 205-0   , PKP057 , 205  , NO                            , no                            , no                            , ADV  , Volume=high                           , _
-205-1   , PKP057 , 205  , (.)                           , (.)                           , _                             , X    , _                                     , _
+205-1   , PKP057 , 205  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 205-2   , PKP057 , 205  , ho                            , ho                            , avere                         , AUX  , _                                     , _
 205-3   , PKP057 , 205  , visto                         , visto                         , vedere                        , VERB , _                                     , _
 205-4   , PKP057 , 205  , che                           , che                           , che                           , SCONJ, _                                     , _
@@ -1135,7 +1135,7 @@ token_id, speaker, tu_id, span                          , form                  
 211-5   , PKP060 , 211  , ristorante                    , ristorante                    , ristorante                    , NOUN , _                                     , _
 211-6   , PKP060 , 211  , e                             , e                             , e                             , CCONJ, _                                     , _
 211-7   , PKP060 , 211  , loro                          , loro                          , loro                          , PRON , _                                     , _
-211-8   , PKP060 , 211  , (.)                           , (.)                           , _                             , X    , _                                     , _
+211-8   , PKP060 , 211  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 211-9   , PKP060 , 211  , andando                       , andando                       , andare                        , VERB , _                                     , _
 211-10  , PKP060 , 211  , a                             , a                             , a                             , ADP  , _                                     , _
 211-11  , PKP060 , 211  , correggio                     , correggio                     , correggio                     , PROPN, _                                     , _
@@ -1144,9 +1144,9 @@ token_id, speaker, tu_id, span                          , form                  
 211-14  , PKP060 , 211  , a                             , a                             , a                             , ADP  , _                                     , _
 211-15  , PKP060 , 211  , continuare                    , continuare                    , continuare                    , VERB , _                                     , _
 211-16  , PKP060 , 211  , la                            , la                            , il                            , DET  , _                                     , _
-211-17  , PKP060 , 211  , (.)                           , (.)                           , _                             , X    , _                                     , _
+211-17  , PKP060 , 211  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 211-18  , PKP060 , 211  , °festa°                       , festa                         , festa                         , NOUN , Volume=low                            , _
-211-19  , PKP060 , 211  , (.)                           , (.)                           , _                             , X    , _                                     , _
+211-19  , PKP060 , 211  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 211-20  , PKP060 , 211  , in                            , in                            , in                            , ADP  , _                                     , _
 211-21  , PKP060 , 211  , via                           , via                           , via                           , NOUN , _                                     , _
 212-0   , PKP060 , 212  , casa                          , casa                          , casa                          , NOUN , _                                     , _
@@ -1158,7 +1158,7 @@ token_id, speaker, tu_id, span                          , form                  
 212-7   , PKP060 , 212  , sua                           , sua                           , suo                           , ADJ  , _                                     , _
 212-8   , PKP060 , 212  , nonna                         , nonna                         , nonno                         , NOUN , _                                     , _
 213-0   , PKP060 , 213  , ehm:                          , ehm                           , ehm                           , INTJ , _                                     , _
-213-1   , PKP060 , 213  , (.)                           , (.)                           , _                             , X    , _                                     , _
+213-1   , PKP060 , 213  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 213-2   , PKP060 , 213  , >si                           , si                            , si                            , PRON , _                                     , _
 213-3   , PKP060 , 213  , son<                          , son                           , essere                        , AUX  , _                                     , _
 213-4   , PKP060 , 213  , fermati                       , fermati                       , fermare                       , VERB , _                                     , _
@@ -1169,9 +1169,9 @@ token_id, speaker, tu_id, span                          , form                  
 213-9   , PKP060 , 213  , fatto                         , fatto                         , fare                          , VERB , _                                     , _
 213-10  , PKP060 , 213  , >visto                        , visto                         , visto                         , VERB , _                                     , _
 213-11  , PKP060 , 213  , che<:                         , che                           , che                           , SCONJ, _                                     , _
-213-12  , PKP060 , 213  , (.)                           , (.)                           , _                             , X    , _                                     , _
+213-12  , PKP060 , 213  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 213-13  , PKP060 , 213  , quella:                       , quella                        , quello                        , PRON , _                                     , _
-213-14  , PKP060 , 213  , (.)                           , (.)                           , _                             , X    , _                                     , _
+213-14  , PKP060 , 213  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 213-15  , PKP060 , 213  , quel:                         , quel                          , quello                        , DET  , _                                     , _
 213-16  , PKP060 , 213  , gli                           , gli                           , lo                            , PRON , _                                     , _
 213-17  , PKP060 , 213  , hanno                         , hanno                         , avere                         , AUX  , _                                     , _
@@ -1227,7 +1227,7 @@ token_id, speaker, tu_id, span                          , form                  
 220-2   , PKP060 , 220  , regalato:                     , regalato                      , regalare                      , VERB , _                                     , _
 220-3   , PKP060 , 220  , uno                           , uno                           , uno                           , DET  , _                                     , _
 220-4   , PKP060 , 220  , zaino                         , zaino                         , zaino                         , NOUN , _                                     , _
-220-5   , PKP060 , 220  , (.)                           , (.)                           , _                             , X    , _                                     , _
+220-5   , PKP060 , 220  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 220-6   , PKP060 , 220  , da                            , da                            , da                            , ADP  , _                                     , _
 220-7   , PKP060 , 220  , medico                        , medico                        , medico                        , NOUN , _                                     , _
 221-0   , PKP057 , 221  , mh                            , mh                            , mh                            , INTJ , _                                     , _
@@ -1282,9 +1282,9 @@ token_id, speaker, tu_id, span                          , form                  
 229-2   , PKP060 , 229  , [stetos~]                     , stetos~                       , X                             , X    , Interrupted=Yes                       , _
 230-0   , PKP057 , 230  , [°lo                          , lo                            , il                            , DET  , Volume=low                            , _
 230-1   , PKP057 , 230  , stet~°]                       , stet~                         , X                             , X    , Interrupted=Yes|Volume=low            , _
-230-2   , PKP057 , 230  , (.)                           , (.)                           , _                             , X    , _                                     , _
+230-2   , PKP057 , 230  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 230-3   , PKP057 , 230  , eh                            , eh                            , eh                            , INTJ , _                                     , _
-230-4   , PKP057 , 230  , (.)                           , (.)                           , _                             , XA   , _                                     , _
+230-4   , PKP057 , 230  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 230-5   , PKP057 , 230  , ma                            , ma                            , ma                            , CCONJ, _                                     , _
 230-6   , PKP057 , 230  , professionale?                , professionale                 , professionale                 , ADJ  , Intonation=rising                     , _
 231-0   , PKP060 , 231  , [°lo                          , lo                            , il                            , DET  , Volume=low                            , _
@@ -1298,7 +1298,7 @@ token_id, speaker, tu_id, span                          , form                  
 233-0   , PKP057 , 233  , uh:                           , uh                            , uh                            , INTJ , _                                     , _
 234-0   , PKP060 , 234  , il                            , il                            , il                            , DET  , _                                     , _
 234-1   , PKP060 , 234  , eh                            , eh                            , eh                            , INTJ , _                                     , _
-234-2   , PKP060 , 234  , (.)                           , (.)                           , _                             , X    , _                                     , _
+234-2   , PKP060 , 234  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 234-3   , PKP060 , 234  , il                            , il                            , il                            , DET  , _                                     , _
 234-4   , PKP060 , 234  , macchinino                    , macchinino                    , macchinino                    , NOUN , _                                     , _
 234-5   , PKP060 , 234  , per                           , per                           , per                           , ADP  , _                                     , _
@@ -1362,12 +1362,12 @@ token_id, speaker, tu_id, span                          , form                  
 246-4   , PKP060 , 246  , capann~                       , capann~                       , capann~                       , X    , Interrupted=Yes                       , _
 246-5   , PKP060 , 246  , un                            , un                            , uno                           , DET  , _                                     , _
 246-6   , PKP060 , 246  , capannone                     , capannone                     , capannone                     , NOUN , _                                     , _
-246-7   , PKP060 , 246  , (.)                           , (.)                           , _                             , X    , _                                     , _
+246-7   , PKP060 , 246  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 246-8   , PKP060 , 246  , sembra                        , sembra                        , sembrare                      , VERB , _                                     , _
 246-9   , PKP060 , 246  , più                           , più                           , più                           , ADV  , _                                     , _
 246-10  , PKP060 , 246  , una                           , una                           , uno                           , DET  , _                                     , _
 246-11  , PKP060 , 246  , palestra                      , palestra                      , palestra                      , NOUN , _                                     , _
-246-12  , PKP060 , 246  , (.)                           , (.)                           , _                             , X    , _                                     , _
+246-12  , PKP060 , 246  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 246-13  , PKP060 , 246  , mh                            , mh                            , mh                            , INTJ , _                                     , _
 246-14  , PKP060 , 246  , sì                            , sì                            , sì                            , ADV  , _                                     , _
 246-15  , PKP060 , 246  , una                           , una                           , uno                           , DET  , _                                     , _
@@ -1380,7 +1380,7 @@ token_id, speaker, tu_id, span                          , form                  
 247-2   , PKP060 , 247  , travi                         , travi                         , trave                         , NOUN , _                                     , _
 247-3   , PKP060 , 247  , in                            , in                            , in                            , ADP  , _                                     , _
 247-4   , PKP060 , 247  , legno                         , legno                         , legno                         , NOUN , _                                     , _
-247-5   , PKP060 , 247  , (.)                           , (.)                           , _                             , X    , _                                     , _
+247-5   , PKP060 , 247  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 247-6   , PKP060 , 247  , è                             , è                             , essere                        , AUX  , _                                     , _
 247-7   , PKP060 , 247  , un                            , un                            , uno                           , DET  , _                                     , _
 247-8   , PKP060 , 247  , salone.                       , salone                        , salone                        , NOUN , Intonation=falling                    , _
@@ -1443,9 +1443,9 @@ token_id, speaker, tu_id, span                          , form                  
 262-0   , PKP060 , 262  , abbiam                        , abbiam                        , abbiam                        , NOUN , _                                     , _
 262-1   , PKP060 , 262  , mangiato                      , mangiato                      , mangiare                      , VERB , _                                     , _
 262-2   , PKP060 , 262  , lasagne                       , lasagne                       , lasagna                       , NOUN , _                                     , _
-262-3   , PKP060 , 262  , (.)                           , (.)                           , _                             , X    , _                                     , _
+262-3   , PKP060 , 262  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 262-4   , PKP060 , 262  , e                             , e                             , e                             , CCONJ, _                                     , _
-262-5   , PKP060 , 262  , (.)                           , (.)                           , _                             , X    , _                                     , _
+262-5   , PKP060 , 262  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 262-6   , PKP060 , 262  , gnocco                        , gnocco                        , gnocco                        , NOUN , _                                     , _
 262-7   , PKP060 , 262  , fritto                        , fritto                        , fritto                        , ADJ  , _                                     , _
 262-8   , PKP060 , 262  , con                           , con                           , con                           , ADP  , _                                     , _
@@ -1453,7 +1453,7 @@ token_id, speaker, tu_id, span                          , form                  
 262-10  , PKP060 , 262  , "salumi,"                     , salumi                        , saluma                        , NOUN , Intonation=weakly_rising              , _
 263-0   , PKP057 , 263  , "mh,"                         , mh                            , mh                            , INTJ , Intonation=weakly_rising              , _
 264-0   , PKP060 , 264  , e:                            , e                             , e                             , CCONJ, _                                     , _
-264-1   , PKP060 , 264  , (.)                           , (.)                           , _                             , X    , _                                     , _
+264-1   , PKP060 , 264  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 264-2   , PKP060 , 264  , vino                          , vino                          , vino                          , VERB , _                                     , _
 264-3   , PKP060 , 264  , bianco                        , bianco                        , bianco                        , ADJ  , _                                     , _
 264-4   , PKP060 , 264  , vino                          , vino                          , vino                          , NOUN , _                                     , _
@@ -1554,12 +1554,12 @@ token_id, speaker, tu_id, span                          , form                  
 282-4   , PKP060 , 282  , una                           , una                           , uno                           , DET  , _                                     , _
 282-5   , PKP060 , 282  , ragazza                       , ragazza                       , ragazzo                       , NOUN , _                                     , _
 282-6   , PKP060 , 282  , molto                         , molto                         , molto                         , ADV  , _                                     , _
-282-7   , PKP060 , 282  , (.)                           , (.)                           , _                             , X    , _                                     , _
+282-7   , PKP060 , 282  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 282-8   , PKP060 , 282  , fine:                         , fine                          , fine                          , ADJ  , _                                     , _
 282-9   , PKP060 , 282  , garbata                       , garbata                       , garbato                       , ADJ  , _                                     , _
 282-10  , PKP060 , 282  , però                          , però                          , però                          , ADV  , _                                     , _
 283-0   , PKP060 , 283  , cioè                          , cioè                          , cioè                          , ADV  , _                                     , _
-283-1   , PKP060 , 283  , (.)                           , (.)                           , _                             , X    , _                                     , _
+283-1   , PKP060 , 283  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 283-2   , PKP060 , 283  , esplicitava                   , esplicitava                   , esplicitare                   , VERB , _                                     , _
 283-3   , PKP060 , 283  , sempre                        , sempre                        , sempre                        , ADV  , _                                     , _
 283-4   , PKP060 , 283  , il                            , il                            , il                            , DET  , _                                     , _
@@ -1578,7 +1578,7 @@ token_id, speaker, tu_id, span                          , form                  
 285-4   , PKP057 , 285  , che                           , che                           , che                           , ADV  , _                                     , _
 285-5   , PKP057 , 285  , senso?                        , senso                         , senso                         , NOUN , Intonation=rising                     , _
 285-6   , PKP057 , 285  , MA                            , ma                            , ma                            , CCONJ, Volume=high                           , _
-285-7   , PKP057 , 285  , (.)                           , (.)                           , _                             , X    , _                                     , _
+285-7   , PKP057 , 285  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 285-8   , PKP057 , 285  , c'                            , c'                            , ci                            , PRON , _                                     , SpaceAfter=No
 285-9   , PKP057 , 285  , è                             , è                             , essere                        , VERB , _                                     , _
 285-10  , PKP057 , 285  , scherzava                     , scherzava                     , scherzare                     , VERB , _                                     , _
@@ -1642,7 +1642,7 @@ token_id, speaker, tu_id, span                          , form                  
 295-2   , PKP060 , 295  , venire                        , venire                        , venire                        , VERB , _                                     , _
 295-3   , PKP060 , 295  , con                           , con                           , con                           , ADP  , _                                     , _
 295-4   , PKP060 , 295  , me:                           , me                            , me                            , PRON , _                                     , _
-295-5   , PKP060 , 295  , (.)                           , (.)                           , _                             , X    , _                                     , _
+295-5   , PKP060 , 295  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 295-6   , PKP060 , 295  , la                            , la                            , il                            , DET  , _                                     , _
 295-7   , PKP060 , 295  , settimana                     , settimana                     , settimana                     , NOUN , _                                     , _
 295-8   , PKP060 , 295  , prossima                      , prossima                      , prossimo                      , ADJ  , _                                     , _
@@ -1699,7 +1699,7 @@ token_id, speaker, tu_id, span                          , form                  
 298-17b , _      , _    , _                             , il                            , il                            , DET  , _                                     , _
 298-18  , PKP060 , 298  , genere                        , genere                        , genere                        , NOUN , _                                     , _
 299-0   , PKP057 , 299  , uh                            , uh                            , uh                            , INTJ , _                                     , _
-299-1   , PKP057 , 299  , (.)                           , (.)                           , _                             , X    , _                                     , _
+299-1   , PKP057 , 299  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 299-2   , PKP057 , 299  , e                             , e                             , e                             , CCONJ, _                                     , _
 299-3   , PKP057 , 299  , lui?                          , lui                           , lui                           , PRON , Intonation=rising                     , _
 300-0   , PKP060 , 300  , xx                            , xx                            , x                             , X    , _                                     , _
@@ -1740,7 +1740,7 @@ token_id, speaker, tu_id, span                          , form                  
 305-3   , PKP060 , 305  , compagni                      , compagni                      , compagno                      , NOUN , _                                     , _
 305-4   , PKP060 , 305  , di                            , di                            , di                            , ADP  , _                                     , _
 305-5   , PKP060 , 305  , corso                         , corso                         , corso                         , NOUN , _                                     , _
-305-6   , PKP060 , 305  , (.)                           , (.)                           , _                             , X    , _                                     , _
+305-6   , PKP060 , 305  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 305-7   , PKP060 , 305  , ehm:                          , ehm                           , ehm                           , INTJ , _                                     , _
 306-0   , PKP060 , 306  , io                            , io                            , io                            , PRON , _                                     , _
 306-1   , PKP060 , 306  , in                            , in                            , in                            , ADP  , _                                     , _
@@ -1774,7 +1774,7 @@ token_id, speaker, tu_id, span                          , form                  
 306-27  , PKP060 , 306  , meno°                         , meno                          , meno                          , ADV  , Volume=low                            , _
 307-0   , PKP060 , 307  , da                            , da                            , da                            , ADP  , _                                     , _
 307-1   , PKP060 , 307  , quando:                       , quando                        , quando                        , ADV  , _                                     , _
-307-2   , PKP060 , 307  , (.)                           , (.)                           , _                             , X    , _                                     , _
+307-2   , PKP060 , 307  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 307-3   , PKP060 , 307  , sono:                         , sono                          , essere                        , AUX  , _                                     , _
 307-4   , PKP060 , 307  , sono                          , sono                          , essere                        , AUX  , _                                     , _
 307-5   , PKP060 , 307  , uscito                        , uscito                        , uscire                        , VERB , _                                     , _
@@ -1839,7 +1839,7 @@ token_id, speaker, tu_id, span                          , form                  
 316-2   , PKP060 , 316  , niente                        , niente                        , niente                        , PRON , _                                     , _
 316-3   , PKP060 , 316  , di                            , di                            , di                            , ADP  , _                                     , _
 316-4   , PKP060 , 316  , che                           , che                           , che                           , PRON , _                                     , _
-316-5   , PKP060 , 316  , (.)                           , (.)                           , _                             , X    , _                                     , _
+316-5   , PKP060 , 316  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 316-6   , PKP060 , 316  , dopo                          , dopo                          , dopo                          , ADV  , _                                     , _
 316-7   , PKP060 , 316  , alla                          , alla                          , _                             , _    , _                                     , _
 316-7a  , _      , _    , _                             , a                             , a                             , ADP  , _                                     , _
@@ -1853,7 +1853,7 @@ token_id, speaker, tu_id, span                          , form                  
 317-3   , PKP060 , 317  , comunque                      , comunque                      , comunque                      , ADV  , _                                     , _
 317-4   , PKP060 , 317  , siamo                         , siamo                         , essere                        , AUX  , _                                     , _
 317-5   , PKP060 , 317  , usciti:                       , usciti                        , uscire                        , VERB , _                                     , _
-317-6   , PKP060 , 317  , (.)                           , (.)                           , _                             , X    , _                                     , _
+317-6   , PKP060 , 317  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 317-7   , PKP060 , 317  , siamo                         , siamo                         , essere                        , AUX  , _                                     , _
 317-8   , PKP060 , 317  , usciti                        , usciti                        , uscire                        , VERB , _                                     , _
 317-9   , PKP060 , 317  , dal                           , dal                           , _                             , _    , _                                     , _
@@ -1869,7 +1869,7 @@ token_id, speaker, tu_id, span                          , form                  
 317-17  , PKP060 , 317  , con                           , con                           , con                           , ADP  , _                                     , _
 317-18  , PKP060 , 317  , (loro)                        , loro                          , loro                          , PRON , _                                     , _
 318-0   , PKP060 , 318  , e:                            , e                             , e                             , CCONJ, _                                     , _
-318-1   , PKP060 , 318  , (.)                           , (.)                           , _                             , X    , _                                     , _
+318-1   , PKP060 , 318  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 318-2   , PKP060 , 318  , è                             , è                             , essere                        , AUX  , _                                     , _
 318-3   , PKP060 , 318  , stato                         , stato                         , essere                        , VERB , _                                     , _
 318-4   , PKP060 , 318  , gentilissimo                  , gentilissimo                  , gentile                       , ADJ  , _                                     , _
@@ -1963,7 +1963,7 @@ token_id, speaker, tu_id, span                          , form                  
 339-0   , PKP060 , 339  , sì                            , sì                            , sì                            , ADV  , _                                     , _
 339-1   , PKP060 , 339  , sì                            , sì                            , sì                            , ADV  , _                                     , _
 339-2   , PKP060 , 339  , sì                            , sì                            , sì                            , ADV  , _                                     , _
-339-3   , PKP060 , 339  , (.)                           , (.)                           , _                             , X    , _                                     , _
+339-3   , PKP060 , 339  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 339-4   , PKP060 , 339  , il                            , il                            , il                            , DET  , _                                     , _
 339-5   , PKP060 , 339  , gnocco                        , gnocco                        , gnocco                        , NOUN , _                                     , _
 339-6   , PKP060 , 339  , fritto                        , fritto                        , fritto                        , ADJ  , _                                     , _
@@ -1997,7 +1997,7 @@ token_id, speaker, tu_id, span                          , form                  
 348-4   , PKP057 , 348  , messo:                        , messo                         , mettere                       , VERB , _                                     , _
 349-0   , PKP060 , 349  , il:                           , il                            , il                            , DET  , _                                     , _
 349-1   , PKP060 , 349  , mh:                           , mh                            , mh                            , INTJ , _                                     , _
-349-2   , PKP060 , 349  , (.)                           , (.)                           , _                             , X    , _                                     , _
+349-2   , PKP060 , 349  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 349-3   , PKP060 , 349  , ti                            , ti                            , ti                            , PRON , _                                     , _
 349-4   , PKP060 , 349  , stavo                         , stavo                         , stare                         , AUX  , _                                     , _
 349-5   , PKP060 , 349  , dicendo                       , dicendo                       , dire                          , VERB , _                                     , _
@@ -2054,7 +2054,7 @@ token_id, speaker, tu_id, span                          , form                  
 357-1   , PKP060 , 357  , me                            , me                            , me                            , PRON , _                                     , _
 357-2   , PKP060 , 357  , la                            , la                            , il                            , PRON , _                                     , _
 357-3   , PKP060 , 357  , mandi?                        , mandi                         , mandare                       , VERB , Intonation=rising                     , _
-357-4   , PKP060 , 357  , (.)                           , (.)                           , _                             , X    , _                                     , _
+357-4   , PKP060 , 357  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 357-5   , PKP060 , 357  , così                          , così                          , così                          , ADV  , _                                     , _
 357-6   , PKP060 , 357  , evito                         , evito                         , evitare                       , VERB , _                                     , _
 357-7   , PKP060 , 357  , di:                           , di                            , di                            , ADP  , _                                     , _
@@ -2072,7 +2072,7 @@ token_id, speaker, tu_id, span                          , form                  
 361-1   , PKP060 , 361  , appetito                      , appetito                      , appetito                      , NOUN , _                                     , _
 362-0   , PKP057 , 362  , buon                          , buon                          , buono                         , ADJ  , _                                     , _
 362-1   , PKP057 , 362  , appetito                      , appetito                      , appetito                      , NOUN , _                                     , _
-362-2   , PKP057 , 362  , (.)                           , (.)                           , _                             , X    , _                                     , _
+362-2   , PKP057 , 362  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 362-3   , PKP057 , 362  , sorridi                       , sorridi                       , sorridere                     , VERB , _                                     , _
 363-0   , PKP060 , 363  , quindi                        , quindi                        , quindi                        , ADV  , _                                     , _
 363-1   , PKP060 , 363  , qua                           , qua                           , qua                           , ADV  , _                                     , _
@@ -2084,13 +2084,13 @@ token_id, speaker, tu_id, span                          , form                  
 363-7   , PKP060 , 363  , eh?                           , eh                            , eh                            , INTJ , Intonation=rising                     , _
 364-0   , PKP057 , 364  , eh:                           , eh                            , eh                            , INTJ , _                                     , _
 364-1   , PKP057 , 364  , NO                            , no                            , no                            , ADV  , Volume=high                           , _
-364-2   , PKP057 , 364  , (.)                           , (.)                           , _                             , X    , _                                     , _
+364-2   , PKP057 , 364  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 364-3   , PKP057 , 364  , nel                           , nel                           , _                             , _    , _                                     , _
 364-3a  , _      , _    , _                             , in                            , in                            , ADP  , _                                     , _
 364-3b  , _      , _    , _                             , il                            , il                            , DET  , _                                     , _
 364-4   , PKP057 , 364  , tuo                           , tuo                           , tuo                           , DET  , _                                     , _
 364-5   , PKP057 , 364  , no                            , no                            , no                            , ADV  , _                                     , _
-364-6   , PKP057 , 364  , (.)                           , (.)                           , _                             , X    , _                                     , _
+364-6   , PKP057 , 364  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 364-7   , PKP057 , 364  , neanche                       , neanche                       , neanche                       , ADV  , _                                     , _
 364-8   , PKP057 , 364  , nel                           , nel                           , _                             , _    , _                                     , _
 364-8a  , _      , _    , _                             , in                            , in                            , ADP  , _                                     , _
@@ -2135,7 +2135,7 @@ token_id, speaker, tu_id, span                          , form                  
 374-0   , PKP057 , 374  , fuma                          , fuma                          , fumare                        , VERB , _                                     , _
 374-1   , PKP057 , 374  , guarda                        , guarda                        , guardare                      , VERB , _                                     , _
 375-0   , PKP060 , 375  , con                           , con                           , con                           , ADP  , _                                     , _
-375-1   , PKP060 , 375  , (.)                           , (.)                           , _                             , X    , _                                     , _
+375-1   , PKP060 , 375  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 375-2   , PKP060 , 375  , settanta                      , settanta                      , settanta                      , NUM  , _                                     , _
 375-3   , PKP060 , 375  , gradi                         , gradi                         , grado                         , NOUN , _                                     , _
 375-4   , PKP060 , 375  , ci                            , ci                            , ci                            , PRON , _                                     , _
@@ -2153,7 +2153,7 @@ token_id, speaker, tu_id, span                          , form                  
 376-4   , PKP060 , 376  , uno                           , uno                           , uno                           , NUM  , _                                     , _
 376-5   , PKP060 , 376  , circia                        , circa                         , circa                         , NOUN , _                                     , _
 377-0   , PKP057 , 377  , beh                           , beh                           , beh                           , INTJ , _                                     , _
-377-1   , PKP057 , 377  , (.)                           , (.)                           , _                             , X    , _                                     , _
+377-1   , PKP057 , 377  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 377-2   , PKP057 , 377  , dipende                       , dipende                       , dipendere                     , VERB , _                                     , _
 377-3   , PKP057 , 377  , dalla                         , dalla                         , _                             , _    , _                                     , _
 377-3a  , _      , _    , _                             , da                            , da                            , ADP  , _                                     , _
@@ -2188,7 +2188,7 @@ token_id, speaker, tu_id, span                          , form                  
 383-3   , PKP060 , 383  , sta                           , sta                           , questo                        , DET  , _                                     , _
 383-4   , PKP060 , 383  , cosa?                         , cosa                          , cosa                          , NOUN , Intonation=rising                     , _
 384-0   , PKP057 , 384  , mh:                           , mh                            , mh                            , INTJ , _                                     , _
-384-1   , PKP057 , 384  , (.)                           , (.)                           , _                             , X    , _                                     , _
+384-1   , PKP057 , 384  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 384-2   , PKP057 , 384  , secondo                       , secondo                       , secondo                       , ADP  , _                                     , _
 384-3   , PKP057 , 384  , me                            , me                            , me                            , PRON , _                                     , _
 384-4   , PKP057 , 384  , la                            , la                            , la                            , PRON , _                                     , _
@@ -2203,7 +2203,7 @@ token_id, speaker, tu_id, span                          , form                  
 385-2   , PKP057 , 385  , un                            , un                            , uno                           , DET  , _                                     , _
 385-3   , PKP057 , 385  , pokè                          , pokè                          , pokè                          , NOUN , _                                     , _
 386-0   , PKP057 , 386  , "mh,"                         , mh                            , mh                            , INTJ , Intonation=weakly_rising              , _
-386-1   , PKP057 , 386  , (.)                           , (.)                           , _                             , X    , _                                     , _
+386-1   , PKP057 , 386  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 386-2   , PKP057 , 386  , non                           , non                           , non                           , ADV  , _                                     , _
 386-3   , PKP057 , 386  , ti                            , ti                            , ti                            , PRON , _                                     , _
 386-4   , PKP057 , 386  , piace                         , piace                         , piacere                       , VERB , _                                     , _
@@ -2237,7 +2237,7 @@ token_id, speaker, tu_id, span                          , form                  
 391-3   , PKP057 , 391  , sono                          , sono                          , essere                        , AUX  , _                                     , _
 391-4   , PKP057 , 391  , piccanti?                     , piccanti                      , piccante                      , ADJ  , Intonation=rising                     , _
 392-0   , PKP060 , 392  , sì                            , sì                            , sì                            , ADV  , _                                     , _
-392-1   , PKP060 , 392  , (.)                           , (.)                           , _                             , X    , _                                     , _
+392-1   , PKP060 , 392  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 392-2   , PKP060 , 392  , ma                            , ma                            , ma                            , CCONJ, _                                     , _
 392-3   , PKP060 , 392  , sopportabile                  , sopportabile                  , sopportabile                  , ADJ  , _                                     , _
 393-0   , PKP057 , 393  , mh                            , mh                            , mh                            , INTJ , _                                     , _
@@ -2251,7 +2251,7 @@ token_id, speaker, tu_id, span                          , form                  
 395-4   , PKP060 , 395  , salsa                         , salsa                         , salsa                         , NOUN , _                                     , _
 395-5   , PKP060 , 395  , di                            , di                            , di                            , ADP  , _                                     , _
 395-6   , PKP060 , 395  , soia                          , soia                          , soia                          , NOUN , _                                     , _
-395-7   , PKP060 , 395  , (.)                           , (.)                           , _                             , X    , _                                     , _
+395-7   , PKP060 , 395  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 395-8   , PKP060 , 395  , però                          , però                          , però                          , ADV  , _                                     , _
 395-9   , PKP060 , 395  , me                            , me                            , me                            , PRON , _                                     , _
 395-10  , PKP060 , 395  , l'                            , l'                            , lo                            , PRON , _                                     , SpaceAfter=No
@@ -2307,7 +2307,7 @@ token_id, speaker, tu_id, span                          , form                  
 404-2   , PKP057 , 404  , il                            , il                            , il                            , DET  , _                                     , _
 404-3   , PKP057 , 404  , cucchiaio                     , cucchiaio                     , cucchiaio                     , NOUN , _                                     , _
 404-4   , PKP057 , 404  , eh                            , eh                            , eh                            , INTJ , _                                     , _
-404-5   , PKP057 , 404  , (.)                           , (.)                           , _                             , X    , _                                     , _
+404-5   , PKP057 , 404  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 404-6   , PKP057 , 404  , se                            , se                            , se                            , SCONJ, _                                     , _
 404-7   , PKP057 , 404  , vuoi                          , vuoi                          , volere                        , AUX  , _                                     , _
 404-8   , PKP057 , 404  , mescolarli                    , mescolarli                    , _                             , _    , _                                     , _
@@ -2319,7 +2319,7 @@ token_id, speaker, tu_id, span                          , form                  
 405-2   , PKP060 , 405  , questi                        , questi                        , questo                        , PRON , _                                     , _
 405-3   , PKP060 , 405  , uso                           , uso                           , usare                         , VERB , _                                     , _
 405-4   , PKP060 , 405  , questi                        , questi                        , questo                        , PRON , _                                     , _
-405-5   , PKP060 , 405  , (.)                           , (.)                           , _                             , X    , _                                     , _
+405-5   , PKP060 , 405  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 405-6   , PKP060 , 405  , il                            , il                            , il                            , DET  , _                                     , _
 405-7   , PKP060 , 405  , cucchiaio                     , cucchiaio                     , cucchiaio                     , NOUN , _                                     , _
 405-8   , PKP060 , 405  , è                             , è                             , essere                        , AUX  , _                                     , _
@@ -2419,7 +2419,7 @@ token_id, speaker, tu_id, span                          , form                  
 420-3   , PKP057 , 420  , sono                          , sono                          , essere                        , AUX  , _                                     , _
 420-4   , PKP057 , 420  , buonissimi                    , buonissimi                    , buono                         , ADJ  , _                                     , _
 421-0   , PKP060 , 421  , sì                            , sì                            , sì                            , ADV  , _                                     , _
-421-1   , PKP060 , 421  , (.)                           , (.)                           , _                             , X    , _                                     , _
+421-1   , PKP060 , 421  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 421-2   , PKP060 , 421  , ho                            , ho                            , avere                         , AUX  , _                                     , _
 421-3   , PKP060 , 421  , sentito                       , sentito                       , sentire                       , VERB , _                                     , _
 422-0   , PKP057 , 422  , anche                         , anche                         , anche                         , ADV  , _                                     , _
@@ -2443,12 +2443,12 @@ token_id, speaker, tu_id, span                          , form                  
 423-14  , PKP060 , 423  , ogni                          , ogni                          , ogni                          , DET  , _                                     , _
 423-15  , PKP060 , 423  , sorso                         , sorso                         , sorso                         , NOUN , _                                     , _
 424-0   , PKP057 , 424  , ma                            , ma                            , ma                            , CCONJ, _                                     , _
-424-1   , PKP057 , 424  , (.)                           , (.)                           , _                             , X    , _                                     , _
+424-1   , PKP057 , 424  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 424-2   , PKP057 , 424  , no                            , no                            , no                            , ADV  , _                                     , _
 424-3   , PKP057 , 424  , riempiti:                     , riempiti                      , _                             , _    , _                                     , _
 424-3a  , _      , _    , _                             , riempi                        , riempire                      , VERB , _                                     , _
 424-3b  , _      , _    , _                             , ti                            , tu                            , PRON , _                                     , _
-424-4   , PKP057 , 424  , (.)                           , (.)                           , _                             , X    , _                                     , _
+424-4   , PKP057 , 424  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 424-5   , PKP057 , 424  , il                            , il                            , il                            , DET  , _                                     , _
 424-6   , PKP057 , 424  , grosso                        , grosso                        , grosso                        , ADJ  , _                                     , _
 425-0   , PKP060 , 425  , lo                            , lo                            , lo                            , PRON , _                                     , _
@@ -2493,13 +2493,13 @@ token_id, speaker, tu_id, span                          , form                  
 433-1   , PKP060 , 433  , invito                        , invito                        , invitare                      , VERB , _                                     , _
 433-2   , PKP060 , 433  , da                            , da                            , da                            , ADP  , _                                     , _
 433-3   , PKP060 , 433  , me                            , me                            , me                            , PRON , _                                     , _
-433-4   , PKP060 , 433  , (.)                           , (.)                           , _                             , X    , _                                     , _
+433-4   , PKP060 , 433  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 433-5   , PKP060 , 433  , una                           , una                           , uno                           , DET  , _                                     , _
 433-6   , PKP060 , 433  , sera                          , sera                          , sera                          , NOUN , _                                     , _
-433-7   , PKP060 , 433  , (.)                           , (.)                           , _                             , X    , _                                     , _
+433-7   , PKP060 , 433  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 433-8   , PKP060 , 433  , in                            , in                            , in                            , ADP  , _                                     , _
 433-9   , PKP060 , 433  , appartamento                  , appartamento                  , appartamento                  , NOUN , _                                     , _
-433-10  , PKP060 , 433  , (.)                           , (.)                           , _                             , X    , _                                     , _
+433-10  , PKP060 , 433  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 433-11  , PKP060 , 433  , facciamo                      , facciamo                      , fare                          , VERB , _                                     , _
 433-12  , PKP060 , 433  , il                            , il                            , il                            , DET  , _                                     , _
 433-13  , PKP060 , 433  , tailandese                    , tailandese                    , tailandese                    , NOUN , _                                     , _
@@ -2509,7 +2509,7 @@ token_id, speaker, tu_id, span                          , form                  
 435-2   , PKP057 , 435  , le                            , le                            , il                            , DET  , _                                     , _
 435-3   , PKP057 , 435  , ricette?                      , ricette                       , ricetta                       , NOUN , Intonation=rising                     , _
 436-0   , PKP060 , 436  , sì                            , sì                            , sì                            , ADV  , _                                     , _
-436-1   , PKP060 , 436  , (.)                           , (.)                           , _                             , X    , _                                     , _
+436-1   , PKP060 , 436  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 436-2   , PKP060 , 436  , ce                            , ce                            , ce                            , PRON , _                                     , _
 436-3   , PKP060 , 436  , le                            , le                            , le                            , PRON , _                                     , _
 436-4   , PKP060 , 436  , ho                            , ho                            , avere                         , VERB , _                                     , _
@@ -2526,13 +2526,13 @@ token_id, speaker, tu_id, span                          , form                  
 439-0a  , _      , _    , _                             , a                             , a                             , ADP  , _                                     , _
 439-0b  , _      , _    , _                             , il                            , il                            , DET  , _                                     , _
 439-1   , PKP060 , 439  , negozio                       , negozio                       , negozio                       , NOUN , _                                     , _
-439-2   , PKP060 , 439  , (.)                           , (.)                           , _                             , X    , _                                     , _
+439-2   , PKP060 , 439  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 439-3   , PKP060 , 439  , orientale                     , orientale                     , orientale                     , ADJ  , _                                     , _
 440-0   , PKP057 , 440  , negozio                       , negozio                       , negozio                       , NOUN , _                                     , _
 440-1   , PKP057 , 440  , dove?                         , dove                          , dove                          , ADV  , Intonation=rising                     , _
 441-0   , PKP060 , 441  , a                             , a                             , a                             , ADP  , _                                     , _
 441-1   , PKP060 , 441  , reggio                        , reggio                        , reggio                        , PROPN, _                                     , _
-441-2   , PKP060 , 441  , (.)                           , (.)                           , _                             , X    , _                                     , _
+441-2   , PKP060 , 441  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 441-3   , PKP060 , 441  , quello                        , quello                        , quello                        , PRON , _                                     , _
 441-4   , PKP060 , 441  , da                            , da                            , da                            , ADP  , _                                     , _
 441-5   , PKP060 , 441  , di                            , di                            , di                            , ADP  , _                                     , _
@@ -2632,7 +2632,7 @@ token_id, speaker, tu_id, span                          , form                  
 459-8   , PKP060 , 459  , in                            , in                            , in                            , ADP  , _                                     , _
 459-9   , PKP060 , 459  , maniera                       , maniera                       , maniera                       , NOUN , _                                     , _
 459-10  , PKP060 , 459  , semplicissima                 , semplicissima                 , semplice                      , ADJ  , _                                     , _
-459-11  , PKP060 , 459  , (.)                           , (.)                           , _                             , X    , _                                     , _
+459-11  , PKP060 , 459  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 459-12  , PKP060 , 459  , farina                        , farina                        , farina                        , NOUN , _                                     , _
 459-13  , PKP060 , 459  , e                             , e                             , e                             , CCONJ, _                                     , _
 459-14  , PKP060 , 459  , acqua                         , acqua                         , acqua                         , NOUN , _                                     , _
@@ -2940,7 +2940,7 @@ token_id, speaker, tu_id, span                          , form                  
 522-4   , PKP057 , 522  , salsa                         , salsa                         , salsa                         , NOUN , _                                     , _
 522-5   , PKP057 , 522  , costa                         , costa                         , costare                       , VERB , _                                     , _
 522-6   , PKP057 , 522  , un                            , un                            , uno                           , DET  , _                                     , _
-522-7   , PKP057 , 522  , (.)                           , (.)                           , _                             , X    , _                                     , _
+522-7   , PKP057 , 522  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 522-8   , PKP057 , 522  , fottio                        , fottio                        , fottio                        , NOUN , _                                     , _
 523-0   , PKP060 , 523  , davvero?                      , davvero                       , davvero                       , ADV  , Intonation=rising                     , _
 524-0   , PKP057 , 524  , eh:                           , eh                            , eh                            , INTJ , _                                     , _
@@ -2983,7 +2983,7 @@ token_id, speaker, tu_id, span                          , form                  
 533-11  , PKP057 , 533  , fa                            , fa                            , fare                          , VERB , _                                     , _
 533-12  , PKP057 , 533  , la                            , la                            , il                            , DET  , _                                     , _
 533-13  , PKP057 , 533  , crosta                        , crosta                        , crosta                        , NOUN , _                                     , _
-533-14  , PKP057 , 533  , (.)                           , (.)                           , _                             , X    , _                                     , _
+533-14  , PKP057 , 533  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 533-15  , PKP057 , 533  , e                             , e                             , e                             , CCONJ, _                                     , _
 533-16  , PKP057 , 533  , tipo                          , tipo                          , tipo                          , NOUN , _                                     , _
 533-17  , PKP057 , 533  , scrocchia                     , scrocchia                     , scrocchiare                   , VERB , _                                     , _
@@ -3005,7 +3005,7 @@ token_id, speaker, tu_id, span                          , form                  
 537-3   , PKP057 , 537  , abbuco                        , abbuco                        , abbuco                        , ADJ  , _                                     , _
 538-0   , PKP060 , 538  , sembra                        , sembra                        , sembrare                      , VERB , _                                     , _
 538-1   , PKP060 , 538  , crudo                         , crudo                         , crudo                         , ADJ  , _                                     , _
-538-2   , PKP060 , 538  , (.)                           , (.)                           , _                             , X    , _                                     , _
+538-2   , PKP060 , 538  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 538-3   , PKP060 , 538  , in                            , in                            , in                            , ADP  , _                                     , _
 538-4   , PKP060 , 538  , realtà                        , realtà                        , realtà                        , NOUN , _                                     , _
 538-5   , PKP060 , 538  , no                            , no                            , no                            , ADV  , _                                     , _
@@ -3052,10 +3052,10 @@ token_id, speaker, tu_id, span                          , form                  
 550-1   , PKP057 , 550  , ce                            , ce                            , ce                            , PRON , _                                     , _
 550-2   , PKP057 , 550  , n'                            , n'                            , ne                            , PRON , _                                     , SpaceAfter=No
 550-3   , PKP057 , 550  , erano?                        , erano                         , essere                        , VERB , Intonation=rising                     , _
-550-4   , PKP057 , 550  , (.)                           , (.)                           , _                             , X    , _                                     , _
+550-4   , PKP057 , 550  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 550-5   , PKP057 , 550  , sei                           , sei                           , sei                           , NUM  , _                                     , _
 551-0   , PKP060 , 551  , no                            , no                            , no                            , ADV  , _                                     , _
-551-1   , PKP060 , 551  , (.)                           , (.)                           , _                             , X    , _                                     , _
+551-1   , PKP060 , 551  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 551-2   , PKP060 , 551  , quattro                       , quattro                       , quattro                       , NUM  , _                                     , _
 552-0   , PKP057 , 552  , sei                           , sei                           , sei                           , NUM  , _                                     , _
 553-0   , PKP057 , 553  , sono                          , sono                          , essere                        , VERB , _                                     , _
@@ -3107,7 +3107,7 @@ token_id, speaker, tu_id, span                          , form                  
 566-2   , PKP060 , 566  , è                             , è                             , essere                        , AUX  , _                                     , _
 566-3   , PKP060 , 566  , spessa                        , spessa                        , spesso                        , ADJ  , _                                     , _
 567-0   , PKP057 , 567  , mh                            , mh                            , mh                            , INTJ , _                                     , _
-567-1   , PKP057 , 567  , (.)                           , (.)                           , _                             , X    , _                                     , _
+567-1   , PKP057 , 567  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 567-2   , PKP057 , 567  , sì                            , sì                            , sì                            , ADV  , _                                     , _
 568-0   , PKP057 , 568  , eh                            , eh                            , eh                            , INTJ , _                                     , _
 568-1   , PKP057 , 568  , poi                           , poi                           , poi                           , ADV  , _                                     , _
@@ -3125,7 +3125,7 @@ token_id, speaker, tu_id, span                          , form                  
 569-4   , PKP057 , 569  , un                            , un                            , uno                           , DET  , _                                     , _
 569-5   , PKP057 , 569  , sacco                         , sacco                         , sacco                         , NOUN , _                                     , _
 570-0   , PKP060 , 570  , già                           , già                           , già                           , ADV  , _                                     , _
-570-1   , PKP060 , 570  , (.)                           , (.)                           , _                             , X    , _                                     , _
+570-1   , PKP060 , 570  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 570-2   , PKP060 , 570  , fai                           , fai                           , fare                          , VERB , _                                     , _
 570-3   , PKP060 , 570  , un'                           , un'                           , uno                           , DET  , _                                     , SpaceAfter=No
 570-4   , PKP060 , 570  , analisi                       , analisi                       , analisi                       , NOUN , _                                     , _
@@ -3180,7 +3180,7 @@ token_id, speaker, tu_id, span                          , form                  
 585-3   , PKP060 , 585  , detto                         , detto                         , dire                          , VERB , _                                     , _
 586-0   , PKP057 , 586  , ERAN                          , eran                          , essere                        , VERB , Volume=high                           , _
 586-1   , PKP057 , 586  , SEI                           , sei                           , sei                           , NUM  , Volume=high                           , _
-586-2   , PKP057 , 586  , (.)                           , (.)                           , _                             , X    , _                                     , _
+586-2   , PKP057 , 586  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 586-3   , PKP057 , 586  , in                            , in                            , in                            , ADP  , _                                     , _
 586-4   , PKP057 , 586  , totale                        , totale                        , totale                        , NOUN , _                                     , _
 587-0   , PKP060 , 587  , ERAN                          , eran                          , essere                        , VERB , Volume=high                           , _
@@ -3237,7 +3237,7 @@ token_id, speaker, tu_id, span                          , form                  
 595-0   , PKP060 , 595  , erano                         , erano                         , essere                        , AUX  , _                                     , _
 595-1   , PKP060 , 595  , quattro                       , quattro                       , quattro                       , NUM  , _                                     , _
 596-0   , PKP057 , 596  , eran~                         , eran~                         , essere                        , VERB , Interrupted=Yes                       , _
-596-1   , PKP057 , 596  , (.)                           , (.)                           , _                             , X    , _                                     , _
+596-1   , PKP057 , 596  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 596-2   , PKP057 , 596  , ERAN                          , eran                          , essere                        , AUX  , Volume=high                           , _
 596-3   , PKP057 , 596  , QUATTRO                       , quattro                       , quattro                       , NUM  , Volume=high                           , _
 596-4   , PKP057 , 596  , chè                           , chè                           , perchè                        , SCONJ, _                                     , _
@@ -3252,14 +3252,14 @@ token_id, speaker, tu_id, span                          , form                  
 597-2   , PKP060 , 597  , le                            , le                            , il                            , DET  , _                                     , _
 597-3   , PKP060 , 597  , impronte                      , impronte                      , impronta                      , NOUN , _                                     , _
 598-0   , PKP057 , 598  , mh:                           , mh                            , mh                            , INTJ , _                                     , _
-598-1   , PKP057 , 598  , (.)                           , (.)                           , _                             , X    , _                                     , _
+598-1   , PKP057 , 598  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 598-2   , PKP057 , 598  , uno                           , uno                           , uno                           , NUM  , _                                     , _
 598-3   , PKP057 , 598  , due                           , due                           , due                           , NUM  , _                                     , _
 598-4   , PKP057 , 598  , tre                           , tre                           , tre                           , NUM  , _                                     , _
-598-5   , PKP057 , 598  , (.)                           , (.)                           , _                             , X    , _                                     , _
+598-5   , PKP057 , 598  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 598-6   , PKP057 , 598  , quattro                       , quattro                       , quattro                       , NUM  , _                                     , _
 598-7   , PKP057 , 598  , cinque                        , cinque                        , cinque                        , NUM  , _                                     , _
-598-8   , PKP057 , 598  , (.)                           , (.)                           , _                             , X    , _                                     , _
+598-8   , PKP057 , 598  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 598-9   , PKP057 , 598  , SEI                           , sei                           , sei                           , NUM  , Volume=high                           , _
 599-0   , PKP060 , 599  , ops                           , ops                           , ops                           , INTJ , _                                     , _
 600-0   , PKP057 , 600  , <ops>                         , ops                           , ops                           , INTJ , _                                     , _
@@ -3271,7 +3271,7 @@ token_id, speaker, tu_id, span                          , form                  
 602-4   , PKP057 , 602  , bruciati                      , bruciati                      , bruciare                      , VERB , _                                     , _
 602-5   , PKP057 , 602  , due                           , due                           , due                           , NUM  , _                                     , _
 603-0   , PKP060 , 603  , oh                            , oh                            , oh                            , INTJ , _                                     , _
-603-1   , PKP060 , 603  , (.)                           , (.)                           , _                             , X    , _                                     , _
+603-1   , PKP060 , 603  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 603-2   , PKP060 , 603  , mettiamo                      , mettiamo                      , mettere                       , VERB , _                                     , _
 603-3   , PKP060 , 603  , su                            , su                            , su                            , ADP  , _                                     , _
 603-4   , PKP060 , 603  , tutto                         , tutto                         , tutto                         , PRON , _                                     , _
@@ -3285,7 +3285,7 @@ token_id, speaker, tu_id, span                          , form                  
 604-5   , PKP060 , 604  , stessi                        , stessi                        , stare                         , AUX  , _                                     , _
 604-6   , PKP060 , 604  , dando                         , dando                         , dare                          , VERB , _                                     , _
 605-0   , PKP057 , 605  , no                            , no                            , no                            , ADV  , _                                     , _
-605-1   , PKP057 , 605  , (.)                           , (.)                           , _                             , X    , _                                     , _
+605-1   , PKP057 , 605  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 605-2   , PKP057 , 605  , vai                           , vai                           , andare                        , VERB , _                                     , _
 605-3   , PKP057 , 605  , uomo                          , uomo                          , uomo                          , NOUN , _                                     , _
 605-4   , PKP057 , 605  , della                         , della                         , _                             , _    , _                                     , _
@@ -3357,13 +3357,13 @@ token_id, speaker, tu_id, span                          , form                  
 618-0   , PKP057 , 618  , mi                            , mi                            , mi                            , PRON , _                                     , _
 618-1   , PKP057 , 618  , passi                         , passi                         , passare                       , VERB , _                                     , _
 618-2   , PKP057 , 618  , la:                           , la                            , la                            , DET  , _                                     , _
-618-3   , PKP057 , 618  , (.)                           , (.)                           , _                             , X    , _                                     , _
+618-3   , PKP057 , 618  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 618-4   , PKP057 , 618  , la                            , la                            , il                            , DET  , _                                     , _
 618-5   , PKP057 , 618  , pinza                         , pinza                         , pinza                         , NOUN , _                                     , _
 618-6   , PKP057 , 618  , per                           , per                           , per                           , ADP  , _                                     , _
 618-7   , PKP057 , 618  , "favore,"                     , favore                        , favore                        , NOUN , Intonation=weakly_rising              , _
 619-0   , PKP060 , 619  , verdi                         , verdi                         , verde                         , ADJ  , _                                     , _
-619-1   , PKP060 , 619  , (.)                           , (.)                           , _                             , X    , _                                     , _
+619-1   , PKP060 , 619  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 619-2   , PKP060 , 619  , in                            , in                            , in                            , ADP  , _                                     , _
 619-3   , PKP060 , 619  , australia                     , australia                     , australia                     , PROPN, _                                     , _
 619-4   , PKP060 , 619  , aveva                         , aveva                         , avere                         , VERB , _                                     , _
@@ -3425,7 +3425,7 @@ token_id, speaker, tu_id, span                          , form                  
 628-1   , PKP060 , 628  , no                            , no                            , no                            , ADV  , _                                     , _
 628-2   , PKP060 , 628  , quello                        , quello                        , quello                        , PRON , _                                     , _
 628-3   , PKP060 , 628  , grosso:                       , grosso                        , grosso                        , ADJ  , _                                     , _
-628-4   , PKP060 , 628  , (.)                           , (.)                           , _                             , X    , _                                     , _
+628-4   , PKP060 , 628  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 628-5   , PKP060 , 628  , appunto                       , appunto                       , appuntare                     , VERB , _                                     , _
 628-6   , PKP060 , 628  , ti                            , ti                            , ti                            , PRON , _                                     , _
 628-7   , PKP060 , 628  , stavo                         , stavo                         , stare                         , VERB , _                                     , _
@@ -3494,7 +3494,7 @@ token_id, speaker, tu_id, span                          , form                  
 640-4   , PKP057 , 640  , sotto                         , sotto                         , sotto                         , ADP  , _                                     , _
 640-5   , PKP057 , 640  , il                            , il                            , il                            , DET  , _                                     , _
 640-6   , PKP057 , 640  , fuoco                         , fuoco                         , fuoco                         , NOUN , _                                     , _
-640-7   , PKP057 , 640  , (.)                           , (.)                           , _                             , X    , _                                     , _
+640-7   , PKP057 , 640  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 640-8   , PKP057 , 640  , piena                         , piena                         , pieno                         , ADJ  , _                                     , _
 640-9   , PKP057 , 640  , di                            , di                            , di                            , ADP  , _                                     , _
 640-10  , PKP057 , 640  , brodo                         , brodo                         , brodo                         , NOUN , _                                     , _
@@ -3503,7 +3503,7 @@ token_id, speaker, tu_id, span                          , form                  
 641-2   , PKP057 , 641  , è                             , è                             , essere                        , VERB , _                                     , _
 641-3   , PKP057 , 641  , in                            , in                            , in                            , ADP  , _                                     , _
 641-4   , PKP057 , 641  , realtà                        , realtà                        , realtà                        , NOUN , _                                     , _
-641-5   , PKP057 , 641  , (.)                           , (.)                           , _                             , X    , _                                     , _
+641-5   , PKP057 , 641  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 641-6   , PKP057 , 641  , penso                         , penso                         , pensare                       , VERB , _                                     , _
 641-7   , PKP057 , 641  , sia:                          , sia                           , essere                        , VERB , _                                     , _
 642-0   , PKP057 , 642  , non                           , non                           , non                           , ADV  , _                                     , _
@@ -3552,7 +3552,7 @@ token_id, speaker, tu_id, span                          , form                  
 648-5   , PKP057 , 648  , la                            , la                            , il                            , DET  , _                                     , _
 648-6   , PKP057 , 648  , carne                         , carne                         , carne                         , NOUN , _                                     , _
 649-0   , PKP057 , 649  , quindi                        , quindi                        , quindi                        , ADV  , _                                     , _
-649-1   , PKP057 , 649  , (.)                           , (.)                           , _                             , X    , _                                     , _
+649-1   , PKP057 , 649  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 649-2   , PKP057 , 649  , l'                            , l'                            , il                            , DET  , _                                     , SpaceAfter=No
 649-3   , PKP057 , 649  , acqua                         , acqua                         , acqua                         , NOUN , _                                     , _
 649-4   , PKP057 , 649  , si                            , si                            , si                            , PRON , _                                     , _
@@ -3565,7 +3565,7 @@ token_id, speaker, tu_id, span                          , form                  
 651-1   , PKP057 , 651  , la                            , la                            , il                            , DET  , _                                     , _
 651-2   , PKP057 , 651  , roba                          , roba                          , roba                          , NOUN , _                                     , _
 651-3   , PKP057 , 651  , la                            , la                            , la                            , PRON , _                                     , _
-651-4   , PKP057 , 651  , (.)                           , (.)                           , _                             , X    , _                                     , _
+651-4   , PKP057 , 651  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 651-5   , PKP057 , 651  , la                            , la                            , la                            , PRON , _                                     , _
 651-6   , PKP057 , 651  , la                            , la                            , la                            , PRON , _                                     , _
 651-7   , PKP057 , 651  , fai                           , fai                           , fare                          , VERB , _                                     , _
@@ -3605,7 +3605,7 @@ token_id, speaker, tu_id, span                          , form                  
 654-1   , PKP060 , 654  , hai                           , hai                           , avere                         , AUX  , _                                     , _
 654-2   , PKP060 , 654  , assaggiato?                   , assaggiato                    , assaggiare                    , VERB , Intonation=rising                     , _
 655-0   , PKP057 , 655  , sì                            , sì                            , sì                            , ADV  , _                                     , _
-655-1   , PKP057 , 655  , (.)                           , (.)                           , _                             , X    , _                                     , _
+655-1   , PKP057 , 655  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 655-2   , PKP057 , 655  , l'                            , l'                            , lo                            , PRON , _                                     , SpaceAfter=No
 655-3   , PKP057 , 655  , abbiamo                       , abbiamo                       , avere                         , AUX  , _                                     , _
 655-4   , PKP057 , 655  , mangiato                      , mangiato                      , mangiare                      , VERB , _                                     , _
@@ -3648,7 +3648,7 @@ token_id, speaker, tu_id, span                          , form                  
 665-2   , PKP057 , 665  , che                           , che                           , che                           , SCONJ, _                                     , _
 665-3   , PKP057 , 665  , si                            , si                            , si                            , PRON , _                                     , _
 665-4   , PKP057 , 665  , fa<                           , fa                            , fare                          , VERB , _                                     , _
-665-5   , PKP057 , 665  , (.)                           , (.)                           , _                             , X    , _                                     , _
+665-5   , PKP057 , 665  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 665-6   , PKP057 , 665  , così?                         , così                          , così                          , ADV  , Intonation=rising                     , _
 666-0   , PKP060 , 666  , non                           , non                           , non                           , ADV  , _                                     , _
 666-1   , PKP060 , 666  , lo                            , lo                            , lo                            , PRON , _                                     , _
@@ -3689,7 +3689,7 @@ token_id, speaker, tu_id, span                          , form                  
 673-0   , PKP057 , 673  , non                           , non                           , non                           , ADV  , _                                     , _
 673-1   , PKP057 , 673  , è                             , è                             , essere                        , AUX  , _                                     , _
 673-2   , PKP057 , 673  , vero:                         , vero                          , vero                          , ADJ  , _                                     , _
-673-3   , PKP057 , 673  , (.)                           , (.)                           , _                             , X    , _                                     , _
+673-3   , PKP057 , 673  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 673-4   , PKP057 , 673  , dai:                          , dai                           , dare                          , VERB , _                                     , _
 674-0   , PKP060 , 674  , ((ride))                      , ((ride))                      , _                             , X    , _                                     , _
 675-0   , PKP057 , 675  , però                          , però                          , però                          , ADV  , _                                     , _
@@ -3712,12 +3712,12 @@ token_id, speaker, tu_id, span                          , form                  
 679-3   , PKP060 , 679  , su                            , su                            , su                            , ADP  , _                                     , _
 679-4   , PKP060 , 679  , questa                        , questa                        , questo                        , DET  , _                                     , _
 679-5   , PKP060 , 679  , salsa                         , salsa                         , salsa                         , NOUN , _                                     , _
-679-6   , PKP060 , 679  , (.)                           , (.)                           , _                             , X    , _                                     , _
+679-6   , PKP060 , 679  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 679-7   , PKP060 , 679  , ha                            , ha                            , avere                         , AUX  , _                                     , _
 679-8   , PKP060 , 679  , avuto                         , avuto                         , avere                         , VERB , _                                     , _
 679-9   , PKP060 , 679  , l'                            , l'                            , il                            , DET  , _                                     , SpaceAfter=No
 679-10  , PKP060 , 679  , effetto                       , effetto                       , effetto                       , NOUN , _                                     , _
-679-11  , PKP060 , 679  , (.)                           , (.)                           , _                             , X    , _                                     , _
+679-11  , PKP060 , 679  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 679-12  , PKP060 , 679  , previsto                      , previsto                      , previsto                      , ADJ  , _                                     , _
 680-0   , PKP060 , 680  , [sem~]                        , sem~                          , sem~                          , X    , Interrupted=Yes                       , _
 680-1   , PKP060 , 680  , sembra:                       , sembra                        , sembrare                      , VERB , _                                     , _
@@ -3762,7 +3762,7 @@ token_id, speaker, tu_id, span                          , form                  
 689-6   , PKP060 , 689  , sul:                          , sul                           , _                             , _    , _                                     , _
 689-6a  , _      , _    , _                             , su                            , su                            , ADP  , _                                     , _
 689-6b  , _      , _    , _                             , il                            , il                            , DET  , _                                     , _
-689-7   , PKP060 , 689  , (.)                           , (.)                           , _                             , X    , _                                     , _
+689-7   , PKP060 , 689  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 689-8   , PKP060 , 689  , sul                           , sul                           , _                             , _    , _                                     , _
 689-8a  , _      , _    , _                             , su                            , su                            , ADP  , _                                     , _
 689-8b  , _      , _    , _                             , il                            , il                            , DET  , _                                     , _
@@ -3770,7 +3770,7 @@ token_id, speaker, tu_id, span                          , form                  
 689-10  , PKP060 , 689  , d'                            , d'                            , di                            , ADP  , _                                     , SpaceAfter=No
 689-11  , PKP060 , 689  , accensione                    , accensione                    , accensione                    , NOUN , _                                     , _
 690-0   , PKP057 , 690  , ma                            , ma                            , ma                            , CCONJ, _                                     , _
-690-1   , PKP057 , 690  , (.)                           , (.)                           , _                             , X    , _                                     , _
+690-1   , PKP057 , 690  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 690-2   , PKP057 , 690  , dici                          , dici                          , dire                          , VERB , _                                     , _
 690-3   , PKP057 , 690  , che                           , che                           , che                           , SCONJ, _                                     , _
 690-4   , PKP057 , 690  , secondo                       , secondo                       , secondo                       , ADP  , _                                     , _
@@ -3881,10 +3881,10 @@ token_id, speaker, tu_id, span                          , form                  
 712-7   , PKP057 , 712  , non                           , non                           , non                           , ADV  , _                                     , _
 712-8   , PKP057 , 712  , ti                            , ti                            , ti                            , PRON , _                                     , _
 712-9   , PKP057 , 712  , piacciono                     , piacciono                     , piacere                       , VERB , _                                     , _
-712-10  , PKP057 , 712  , (.)                           , (.)                           , _                             , X    , _                                     , _
+712-10  , PKP057 , 712  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 712-11  , PKP057 , 712  , gli                           , gli                           , il                            , DET  , _                                     , _
 712-12  , PKP057 , 712  , altri                         , altri                         , altro                         , PRON , _                                     , _
-712-13  , PKP057 , 712  , (.)                           , (.)                           , _                             , X    , _                                     , _
+712-13  , PKP057 , 712  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 712-14  , PKP057 , 712  , che                           , che                           , che                           , PRON , _                                     , _
 712-15  , PKP057 , 712  , han                           , han                           , avere                         , VERB , _                                     , _
 712-16  , PKP057 , 712  , la                            , la                            , il                            , DET  , _                                     , _
@@ -3922,7 +3922,7 @@ token_id, speaker, tu_id, span                          , form                  
 718-2   , PKP057 , 718  , riprendiam                    , riprendiam                    , riprendere                    , VERB , _                                     , _
 718-3   , PKP057 , 718  , quelli                        , quelli                        , quello                        , PRON , _                                     , _
 718-4   , PKP057 , 718  , piuttosto                     , piuttosto                     , piuttosto                     , ADV  , _                                     , _
-718-5   , PKP057 , 718  , (.)                           , (.)                           , _                             , X    , _                                     , _
+718-5   , PKP057 , 718  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 718-6   , PKP057 , 718  , A                             , a                             , a                             , ADP  , Volume=high                           , _
 718-7   , PKP057 , 718  , PARTE                         , parte                         , parte                         , NOUN , Volume=high                           , _
 718-8   , PKP057 , 718  , CHE                           , che                           , che                           , SCONJ, Volume=high                           , _
@@ -4091,7 +4091,7 @@ token_id, speaker, tu_id, span                          , form                  
 749-4   , PKP060 , 749  , ho                            , ho                            , avere                         , AUX  , _                                     , _
 749-5   , PKP060 , 749  , detto                         , detto                         , dire                          , VERB , _                                     , _
 749-6   , PKP060 , 749  , prima                         , prima                         , prima                         , ADV  , _                                     , _
-749-7   , PKP060 , 749  , (.)                           , (.)                           , _                             , X    , _                                     , _
+749-7   , PKP060 , 749  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 749-8   , PKP060 , 749  , a                             , a                             , a                             , ADP  , _                                     , _
 749-9   , PKP060 , 749  , reggio                        , reggio                        , reggio                        , PROPN, _                                     , _
 750-0   , PKP057 , 750  , quindi                        , quindi                        , quindi                        , ADV  , _                                     , _
@@ -4154,7 +4154,7 @@ token_id, speaker, tu_id, span                          , form                  
 761-1   , PKP060 , 761  , sempre                        , sempre                        , sempre                        , ADV  , _                                     , _
 761-2   , PKP060 , 761  , colpa                         , colpa                         , colpa                         , NOUN , _                                     , _
 761-3   , PKP060 , 761  , tua                           , tua                           , tuo                           , ADJ  , _                                     , _
-761-4   , PKP060 , 761  , (.)                           , (.)                           , _                             , X    , _                                     , _
+761-4   , PKP060 , 761  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 761-5   , PKP060 , 761  , però                          , però                          , però                          , ADV  , _                                     , _
 761-6   , PKP060 , 761  , niente                        , niente                        , niente                        , PRON , _                                     , _
 761-7   , PKP060 , 761  , di                            , di                            , di                            , ADP  , _                                     , _
@@ -4163,7 +4163,7 @@ token_id, speaker, tu_id, span                          , form                  
 762-1   , PKP060 , 762  , scordato                      , scordato                      , scordare                      , VERB , _                                     , _
 762-2   , PKP060 , 762  , questo                        , questo                        , questo                        , PRON , _                                     , _
 763-0   , PKP057 , 763  , beh                           , beh                           , beh                           , INTJ , _                                     , _
-763-1   , PKP057 , 763  , (.)                           , (.)                           , _                             , X    , _                                     , _
+763-1   , PKP057 , 763  , (.)                           , (.)                           , PAUSE                         , PAUSE, _                                     , _
 763-2   , PKP057 , 763  , mi                            , mi                            , mi                            , PRON , _                                     , _
 763-3   , PKP057 , 763  , è                             , è                             , essere                        , AUX  , _                                     , _
 763-4   , PKP057 , 763  , piaciuto                      , piaciuto                      , piacere                       , VERB , _                                     , _

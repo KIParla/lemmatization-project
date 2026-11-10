@@ -159,7 +159,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 41-4    , BO146  , 41   ,   41, 7    , [xxxx]               , xxxx                 , x                , X    , _                   , _
 42-0    , BO145  , 42   ,   42, 1    , [cristobello]tti     , cristobellotti       , Cristobellotti   , PROPN, _                   , _
 43-0    , BO146  , 43   ,   43, 8    , x                    , x                    , x                , X    , _                   , _
-43-1    , BO146  , 43   ,   43, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+43-1    , BO146  , 43   ,   43, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 43-2    , BO146  , 43   ,   43, 9    , [m]:h                , mh                   , mh               , INTJ , _                   , _
 43-3    , BO146  , 43   ,   43, 10   , ce                   , ce                   , ce               , PRON , _                   , _
 43-4    , BO146  , 43   ,   43, 11   , n'                   , n'                   , ne               , PRON , _                   , SpaceAfter=No
@@ -430,7 +430,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 97-4    , BO139  , 97   ,   97, 5    , ore                  , ore                  , ora              , NOUN , _                   , _
 97-5    , BO139  , 97   ,   97, 6    , però                 , però                 , però             , CCONJ, _                   , _
 97-6    , BO139  , 97   ,   97, 7    , è                    , è                    , essere           , AUX  , _                   , _
-97-7    , BO139  , 97   ,   97, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+97-7    , BO139  , 97   ,   97, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 97-8    , BO139  , 97   ,   97, 8    , tosta                , tosta                , tosto            , ADJ  , _                   , _
 97-9    , BO139  , 97   ,   97, 9    , eh                   , eh                   , eh               , INTJ , _                   , _
 98-0    , BO147  , 98   ,   98, 1    , mh                   , mh                   , mh               , INTJ , _                   , _
@@ -510,7 +510,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 115-9   , BO139  , 115  ,  115, 30   , crei                 , crei                 , creare           , VERB , _                   , _
 115-10  , BO139  , 115  ,  115, 31   , per                  , per                  , per              , ADP  , _                   , _
 116-0   , BO139  , 116  ,  116, 32   , sincronizzare        , sincronizzare        , sincronizzare    , VERB , _                   , _
-116-1   , BO139  , 116  ,  116, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+116-1   , BO139  , 116  ,  116, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 116-2   , BO139  , 116  ,  116, 33   , il                   , il                   , il               , DET  , _                   , _
 116-3   , BO139  , 116  ,  116, 34   , testo                , testo                , testo            , NOUN , _                   , _
 116-4   , BO139  , 116  ,  116, 35   , s[cri]tto            , scritto              , scritto          , ADJ  , _                   , _
@@ -568,7 +568,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 127-0   , BO139  , 127  ,  127, 1    , esatto               , esatto               , esatto           , ADJ  , _                   , _
 128-0   , BO139  , 128  ,  128, 1    , infatti              , infatti              , infatti          , ADV  , _                   , _
 128-1   , BO139  , 128  ,  128, 2    , io                   , io                   , io               , PRON , _                   , _
-128-2   , BO139  , 128  ,  128, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+128-2   , BO139  , 128  ,  128, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 128-3   , BO139  , 128  ,  128, 3    , [sto]                , sto                  , stare            , VERB , _                   , _
 129-0   , BO147  , 129  ,  129, 1    , [>in<fatti           , infatti              , infatti          , ADV  , _                   , _
 129-1   , BO147  , 129  ,  129, 2    , te                   , te                   , te               , PRON , _                   , _
@@ -1099,7 +1099,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 230-1   , BO145  , 230  ,  230, 4    , sedia                , sedia                , sedia            , NOUN , _                   , _
 230-2   , BO145  , 230  ,  230, 5    , gi~                  , gi~                  , gi~              , X    , _                   , _
 230-3   , BO145  , 230  ,  230, 6    , mh                   , mh                   , mh               , INTJ , _                   , _
-230-4   , BO145  , 230  ,  230, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+230-4   , BO145  , 230  ,  230, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 230-5   , BO145  , 230  ,  230, 7    , [girevole            , girevole             , girevole         , ADJ  , _                   , _
 230-6   , BO145  , 230  ,  230, 8    , quindi]              , quindi               , quindi           , CCONJ, _                   , _
 231-0   , BO147  , 231  ,  231, 1    , [eh                  , eh                   , eh               , INTJ , _                   , _
@@ -1322,7 +1322,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 278-3   , BO145  , 278  ,  278, 15-16, del:                 , del                  , _                , _    , _                   , _
 278-3a  , _      , _    ,  278, 15   , _                    , di                   , di               , ADP  , _                   , _
 278-3b  , _      , _    ,  278, 16   , _                    , il                   , il               , DET  , _                   , _
-278-4   , BO145  , 278  ,  278, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+278-4   , BO145  , 278  ,  278, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 278-5   , BO145  , 278  ,  278, 17   , (di)                 , di                   , di               , ADP  , _                   , _
 278-6   , BO145  , 278  ,  278, 18   , roberto              , roberto              , Roberto          , PROPN, _                   , _
 278-7   , BO145  , 278  ,  278, 19   , ma                   , ma                   , ma               , CCONJ, _                   , _
@@ -1390,7 +1390,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 288-0   , BO145  , 288  ,  288, 1    , [vab]bè              , vabbè                , vabbè            , INTJ , _                   , _
 288-1   , BO145  , 288  ,  288, 2    , ma                   , ma                   , ma               , CCONJ, _                   , _
 288-2   , BO145  , 288  ,  288, 3    , tanto                , tanto                , tanto            , ADV  , _                   , _
-288-3   , BO145  , 288  ,  288, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+288-3   , BO145  , 288  ,  288, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 288-4   , BO145  , 288  ,  288, 4    , >cioè<               , cioè                 , cioè             , CCONJ, _                   , _
 289-0   , BO147  , 289  ,  289, 1    , vabbè                , vabbè                , vabbè            , INTJ , _                   , _
 290-0   , BO146  , 290  ,  290, 1    , no                   , no                   , no               , INTJ , _                   , _
@@ -1425,7 +1425,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 295-0   , BO139  , 295  ,  295, 1    , ((ride))             , ((ride))             , [LAUGH]          , X    , _                   , _
 296-0   , BO145  , 296  ,  296, 1    , ((ride))             , ((ride))             , [LAUGH]          , X    , _                   , _
 297-0   , BO147  , 297  ,  297, 1    , giuliano             , giuliano             , Giuliano         , PROPN, _                   , _
-297-1   , BO147  , 297  ,  297, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+297-1   , BO147  , 297  ,  297, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 297-2   , BO147  , 297  ,  297, 2    , com'                 , com'                 , com'             , ADV  , _                   , SpaceAfter=No
 297-3   , BO147  , 297  ,  297, 3    , è                    , è                    , essere           , VERB , _                   , _
 297-4   , BO147  , 297  ,  297, 4    , com'                 , com'                 , come             , ADV  , _                   , SpaceAfter=No
@@ -1444,7 +1444,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 303-0   , BO139  , 303  ,  303, 1    , ((ride))             , ((ride))             , [LAUGH]          , X    , _                   , _
 305-0   , BO145  , 305  ,  305, 1    , facciamo             , facciamo             , fare             , VERB , _                   , _
 305-1   , BO145  , 305  ,  305, 2    , pubblicità:          , pubblicità           , pubblicità       , NOUN , _                   , _
-305-2   , BO145  , 305  ,  305, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+305-2   , BO145  , 305  ,  305, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 305-3   , BO145  , 305  ,  305, 3    , occulta.             , occulta              , occulta          , ADJ  , _                   , _
 305-4   , BO145  , 305  ,  305, 4    , antichi              , antichi              , Antichi          , PROPN, _                   , _
 305-5   , BO145  , 305  ,  305, 5    , sapori               , sapori               , Sapori           , PROPN, _                   , _
@@ -1560,7 +1560,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 337-2   , BO147  , 337  ,  337, 3    , ((ride))             , ((ride))             , [LAUGH]          , X    , _                   , _
 338-0   , BO139  , 338  ,  338, 1    , [mh                  , mh                   , mh               , INTJ , _                   , _
 338-1   , BO139  , 338  ,  338, 2    , vabbè]               , vabbè                , vabbè            , INTJ , _                   , _
-338-2   , BO139  , 338  ,  338, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+338-2   , BO139  , 338  ,  338, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 338-3   , BO139  , 338  ,  338, 4    , secondo              , secondo              , secondo          , ADP  , _                   , _
 338-4   , BO139  , 338  ,  338, 5    , te                   , te                   , te               , PRON , _                   , _
 338-5   , BO139  , 338  ,  338, 6    , non                  , non                  , non              , ADV  , _                   , _
@@ -2052,7 +2052,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 464-0   , BO147  , 464  ,  464, 1    , lo                   , lo                   , lo               , PRON , _                   , _
 464-1   , BO147  , 464  ,  464, 2    , vuoi                 , vuoi                 , volere           , VERB , _                   , _
 464-2   , BO147  , 464  ,  464, 3    , un:                  , un                   , uno              , DET  , _                   , _
-464-3   , BO147  , 464  ,  464, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+464-3   , BO147  , 464  ,  464, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 464-4   , BO147  , 464  ,  464, 4    , un                   , un                   , uno              , DET  , _                   , _
 464-5   , BO147  , 464  ,  464, 5    , dolce?               , dolce                , dolce            , NOUN , _                   , _
 465-0   , BO145  , 465  ,  465, 1    , mangia               , mangia               , mangiare         , VERB , _                   , _
@@ -2225,7 +2225,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 517-2   , BO139  , 517  ,  517, 7    , vanga                , vanga                , vanga            , NOUN , _                   , _
 518-0   , BO146  , 518  ,  518, 1    , a::h                 , ah                   , ah               , INTJ , _                   , _
 519-0   , BO145  , 519  ,  519, 1    , è                    , è                    , essere           , AUX  , _                   , _
-519-1   , BO145  , 519  ,  519, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+519-1   , BO145  , 519  ,  519, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 519-2   , BO145  , 519  ,  519, 2    , [no                  , no                   , no               , INTJ , _                   , _
 519-3   , BO145  , 519  ,  519, 3    , è                    , è                    , essere           , AUX  , _                   , _
 519-4   , BO145  , 519  ,  519, 4    , l~                   , l~                   , l~               , X    , _                   , _
@@ -2638,7 +2638,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 620-3   , BO139  , 620  ,  620, _    , _                    , detto                , dire             , VERB , _                   , _
 620-4   , BO139  , 620  ,  620, _    , _                    , che                  , che              , SCONJ, _                   , _
 621-0   , BO145  , 621  ,  621, 16   , [x                   , x                    , x                , X    , _                   , _
-621-1   , BO145  , 621  ,  621, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+621-1   , BO145  , 621  ,  621, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 621-2   , BO145  , 621  ,  621, 17   , sei                  , sei                  , essere           , AUX  , _                   , _
 621-3   , BO145  , 621  ,  621, 18   , prep]otente          , prepotente           , prepotente       , ADJ  , _                   , _
 621-4   , BO145  , 621  ,  621, 19   , >proprio<            , proprio              , proprio          , ADV  , _                   , _
@@ -2966,7 +2966,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 674-0   , BO145  , 674  ,  674, 1    , io                   , io                   , io               , PRON , _                   , _
 674-1   , BO145  , 674  ,  674, 2    , [no]                 , no                   , no               , ADV  , _                   , _
 675-0   , BO146  , 675  ,  675, 1    , [xx]                 , xx                   , x                , X    , _                   , _
-675-3   , BO146  , 675  ,  675, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+675-3   , BO146  , 675  ,  675, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 675-1   , BO146  , 675  ,  675, 2    , xx                   , xx                   , x                , X    , _                   , _
 675-2   , BO146  , 675  ,  675, 3    , (disperata)          , disperata            , disperato        , ADJ  , _                   , _
 676-0   , BO146  , 676  ,  676, 1    , ((ride))             , ((ride))             , [LAUGH]          , X    , _                   , _
@@ -3013,7 +3013,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 685-1   , BO145  , 685  ,  685, 2    , pensavo              , pensavo              , pensare          , VERB , _                   , _
 685-2   , BO145  , 685  ,  685, 3    , (di)                 , di                   , di               , ADP  , _                   , _
 685-3   , BO145  , 685  ,  685, 4    , (tornare)            , tornare              , tornare          , VERB , _                   , _
-685-4   , BO145  , 685  ,  685, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+685-4   , BO145  , 685  ,  685, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 685-5   , BO145  , 685  ,  685, 5    , >cioè<               , cioè                 , cioè             , CCONJ, _                   , _
 685-6   , BO145  , 685  ,  685, 6    , non                  , non                  , non              , ADV  , _                   , _
 685-7   , BO145  , 685  ,  685, 7    , so                   , so                   , sapere           , VERB , _                   , _
@@ -3261,7 +3261,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 752-9   , BO147  , 752  ,  752, 10   , sì                   , sì                   , Sì               , PROPN, _                   , _
 753-0   , BO139  , 753  ,  753, 1    , ((ride))             , ((ride))             , [LAUGH]          , X    , _                   , _
 754-0   , BO145  , 754  ,  754, 1    , cioè                 , cioè                 , cioè             , CCONJ, _                   , _
-754-1   , BO145  , 754  ,  754, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+754-1   , BO145  , 754  ,  754, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 754-2   , BO145  , 754  ,  754, 2    , a                    , a                    , a                , ADP  , _                   , _
 754-3   , BO145  , 754  ,  754, 3    , parte                , parte                , parte            , NOUN , _                   , _
 754-4   , BO145  , 754  ,  754, 4    , me                   , me                   , me               , PRON , _                   , _
@@ -3723,10 +3723,10 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 886-0   , BO139  , 886  ,  886, 1    , [no                  , no                   , no               , ADV  , _                   , _
 886-1   , BO139  , 886  ,  886, 2    , no                   , no                   , no               , ADV  , _                   , _
 886-2   , BO139  , 886  ,  886, 3    , no                   , no                   , no               , ADV  , _                   , _
-886-3   , BO139  , 886  ,  886, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+886-3   , BO139  , 886  ,  886, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 886-4   , BO139  , 886  ,  886, 4    , io                   , io                   , io               , PRON , _                   , _
 886-5   , BO139  , 886  ,  886, 5    , non                  , non                  , non              , ADV  , _                   , _
-886-6   , BO139  , 886  ,  886, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+886-6   , BO139  , 886  ,  886, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 886-7   , BO139  , 886  ,  886, 6    , le                   , le                   , il               , DET  , _                   , _
 886-8   , BO139  , 886  ,  886, 7    , paro]lacce           , parolacce            , parolaccia       , NOUN , _                   , _
 886-9   , BO139  , 886  ,  886, 8    , non                  , non                  , non              , ADV  , _                   , _
@@ -3948,7 +3948,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 930-12b , _      , _    ,  930, 49   , _                    , il                   , il               , DET  , _                   , _
 930-13  , BO139  , 930  ,  930, 50   , sen[so               , senso                , senso            , NOUN , _                   , _
 930-14  , BO139  , 930  ,  930, 51   , >cioè<               , cioè                 , cioè             , CCONJ, _                   , _
-930-15  , BO139  , 930  ,  930, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+930-15  , BO139  , 930  ,  930, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 930-16  , BO139  , 930  ,  930, 52   , di                   , di                   , di               , ADP  , _                   , _
 930-17  , BO139  , 930  ,  930, 53   , antropologia]        , antropologia         , antropologia     , NOUN , _                   , _
 931-0   , BO145  , 931  ,  931, 1    , [a:h                 , ah                   , ah               , INTJ , _                   , _
@@ -4412,7 +4412,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 1011-4  , BO139  , 1011 , 1011, 5    , son                  , son                  , essere           , AUX  , _                   , _
 1011-5  , BO139  , 1011 , 1011, 6    , tipo                 , tipo                 , tipo             , NOUN , _                   , _
 1011-6  , BO139  , 1011 , 1011, 7    , qua][ttro            , quattro              , quattro          , NUM  , _                   , _
-1011-7  , BO139  , 1011 , 1011, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+1011-7  , BO139  , 1011 , 1011, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 1011-8  , BO139  , 1011 , 1011, 8    , righ]e               , righe                , riga             , NOUN , _                   , _
 1012-0  , BO145  , 1012 , 1012, 1    , [(capirai            , capirai              , capire           , VERB , _                   , _
 1012-1  , BO145  , 1012 , 1012, 2    , chi)]                , chi                  , chi              , PRON , _                   , _
@@ -4446,7 +4446,7 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 1022-5  , BO147  , 1022 , 1022, 6    , persone?             , persone              , persona          , NOUN , _                   , _
 1023-0  , BO139  , 1023 , 1023, 1    , [ah]                 , ah                   , ah               , INTJ , _                   , _
 1024-0  , BO147  , 1024 , 1024, 1    , [°cioè:°]            , cioè                 , cioè             , CCONJ, _                   , _
-1024-1  , BO147  , 1024 , 1024, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+1024-1  , BO147  , 1024 , 1024, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 1024-2  , BO147  , 1024 , 1024, 2    , >cio[è<              , cioè                 , cioè             , CCONJ, _                   , _
 1024-3  , BO147  , 1024 , 1024, 3-4  , nel                  , nel                  , _                , _    , _                   , _
 1024-3a , _      , _    , 1024, 3    , _                    , in                   , in               , ADP  , _                   , _
@@ -4582,9 +4582,9 @@ token_id, speaker, tu_id, unit, id   , span                 , form              
 1053-3  , BO139  , 1053 , 1053, 4    , ((ride))             , ((ride))             , [LAUGH]          , X    , _                   , _
 1054-0  , BO139  , 1054 , 1054, 1    , ((ride))             , ((ride))             , [LAUGH]          , X    , _                   , _
 1055-0  , BO147  , 1055 , 1055, 1    , [immaginavo]         , immaginavo           , immaginare       , VERB , _                   , _
-1055-1  , BO147  , 1055 , 1055, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+1055-1  , BO147  , 1055 , 1055, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 1056-0  , BO139  , 1056 , 1056, 11   , [no                  , no                   , no               , ADV  , _                   , _
-1056-1  , BO139  , 1056 , 1056, _    , (.)                  , (.)                  , [PAUSE]          , X    , _                   , _
+1056-1  , BO139  , 1056 , 1056, _    , (.)                  , (.)                  , PAUSE            , PAUSE, _                   , _
 1056-2  , BO139  , 1056 , 1056, 12   , era]                 , era                  , essere           , INTJ , _                   , _
 1057-0  , BO145  , 1057 , 1057, 1    , [una                 , una                  , uno              , DET  , _                   , _
 1057-1  , BO145  , 1057 , 1057, 2    , ca]gata              , cagata               , cagata           , NOUN , _                   , _
