@@ -49,7 +49,7 @@ la	il	DET
 svizzera	Svizzera	PROPN
 italiana	italiano	ADJ
 da	da	ADP
-@nomepaese	[PLACE]	NOUN
+@nomepaese	[PLACE]	PROPN
 che	che	PRON
 è	essere	VERB
 un	uno	DET
@@ -2139,7 +2139,7 @@ sto	stare	AUX
 meglio	meglio	ADV
 qui	qui	ADV
 eh	eh	INTJ
-@nomepaese	@nomepaesa	NOUN
+@nomepaese	[PLACE]	PROPN
 sì	sì	INTJ
 sì	sì	INTJ
 comunque	comunque	ADV
@@ -2150,10 +2150,12 @@ non	non	ADV
 son	essere	AUX
 proprio	proprio	ADV
 di	di	ADP
+@nomepaese	[PLACE]	PROPN
 però	però	ADV
 sto	stare	VERB
 vicino	vicino	ADV
 a	a	ADP
+@nomepaese	[PLACE]	PROPN
 io	io	PRON
 non	non	ADV
 (.)	PAUSE	PAUSE
@@ -3353,6 +3355,7 @@ da	da	ADP
 il	il	DET
 toscano	toscano	NOUN
 in	in	ADP
+@nomeluogo	[PLACE]	PROPN
 gli	gli	PRON
 faccio	faccio	NOUN
 oddio	oddio	INTJ
