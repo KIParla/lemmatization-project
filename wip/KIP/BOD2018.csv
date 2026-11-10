@@ -960,7 +960,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 84-9,BO140,84,84,12,spostamenti,spostamenti,spostamento,NOUN,_,_
 84-10,BO140,84,84,13,in,in,in,ADP,_,_
 84-11,BO140,84,84,14,[macchina],macchina,macchina,NOUN,_,_
-84-12,BO140,84,84,13,((ride)),((ride)),[LAUGH],X,_,_
+84-12,BO140,84,84,13,((ride)),((ride)),NVB,NVB,_,_
 85-0,BO118,85,85,1,[si:,si,sì,INTJ,_,_
 85-1,BO118,85,85,2,anch',anch',anche,ADV,_,SpaceAfter=No
 85-2,BO118,85,85,3,io],io,io,PRON,_,_
@@ -1096,7 +1096,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 95-0,BO140,95,95,1,[ah],ah,ah,INTJ,_,_
 95-1,BO140,95,95,2,ecco,ecco,ecco,INTJ,_,_
 95-2,BO140,95,95,3,vedi?,vedi,vedere,VERB,_,_
-95-3,BO140,95,95,4,((ride)),((ride)),[LAUGH],X,_,_
+95-3,BO140,95,95,4,((ride)),((ride)),NVB,NVB,_,_
 96-0,BO140,96,96,1,no,no,no,ADV,_,_
 96-1,BO140,96,96,2,io,io,io,PRON,_,_
 96-2,BO140,96,96,3,lo,lo,lo,PRON,_,_
@@ -1105,7 +1105,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 96-5,BO140,96,96,6,quando,quando,quando,SCONJ,_,_
 96-6,BO140,96,96,7,nevicava,nevicava,nevicare,VERB,_,_
 97-0,BO118,97,97,1,ma:do',mado',mado',INTJ,_,_
-97-1,BO118,97,97,2,((ride)),((ride)),[LAUGH],X,_,_
+97-1,BO118,97,97,2,((ride)),((ride)),NVB,NVB,_,_
 98-0,BO118,98,98,1,che,che,che,SCONJ,_,_
 98-1,BO118,98,98,2,po:i,poi,poi,ADV,_,_
 98-2,BO118,98,98,3,@nomepaese,[TOWN_NAME],@nomepaese,PROPN,_,_
@@ -1496,7 +1496,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 138-20,BO140,138,138,21,cinquanta,cinquanta,cinquanta,NUM,_,_
 138-21,BO140,138,138,22,credo.,credo,credere,VERB,_,_
 139-0,BO118,139,139,1,[sì],sì,sì,ADV,_,_
-139-1,BO118,139,139,_,(.),(.),PAUSE,PAUSE,_,_
+139-1,BO118,139,139,_,(.),(.),PAUSE,NVB,_,_
 139-2,BO118,139,139,2,penso,penso,pensare,VERB,_,_
 139-3,BO118,139,139,3,di,di,di,ADP,_,_
 139-4,BO118,139,139,4,sì.,sì,sì,ADV,_,_
@@ -4779,7 +4779,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 435-0,BO140,435,435,1,[sì],sì,sì,ADV,_,_
 436-0,BO140,436,436,1,a,a,a,ADP,_,_
 436-1,BO140,436,436,2,caso,caso,caso,NOUN,_,_
-436-2,BO140,436,436,3,((ride)),((ride)),[LAUGH],X,_,_
+436-2,BO140,436,436,3,((ride)),((ride)),NVB,NVB,_,_
 436-3,BO140,436,436,3,senza,senza,senza,ADP,_,_
 436-4,BO140,436,436,4,sapere,sapere,sapere,VERB,_,_
 437-0,BO118,437,437,1,no,no,no,ADV,_,_

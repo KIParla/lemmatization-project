@@ -50,7 +50,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 2-8,BO093,2,2,10,è,è,essere,AUX,_,_
 2-9,BO093,2,2,11,vero,vero,vero,ADJ,_,_
 2-10,BO093,2,2,12,"martedì,",martedì,martedì,NOUN,_,_
-3-0,BO093,3,3,1,((ride)),((ride)),((ride)),X,_,_
+3-0,BO093,3,3,1,((ride)),((ride)),NVB,NVB,_,_
 3-1,BO093,3,3,2,per,per,per,ADP,_,_
 3-2,BO093,3,3,3,"tu:tti,",tutti,tutto,PRON,_,_
 4-0,BO093,4,4,1,ehe,ehe,ehe,INTJ,_,_
@@ -3227,7 +3227,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 279-21,BO093,279,279,22,qui,qui,qui,ADV,_,_
 279-22,BO093,279,279,23,un,un,uno,DET,_,_
 279-23,BO093,279,279,24,po',po',poco,ADV,_,_
-279-24,BO093,279,279,25,((ride)),((ride)),[LAUGH],X,_,_
+279-24,BO093,279,279,25,((ride)),((ride)),NVB,NVB,_,_
 280-0,BO093,280,280,1,e::h,eh,eh,INTJ,_,_
 280-1,BO093,280,280,2,quello,quello,quello,PRON,_,_
 280-2,BO093,280,280,3,che,che,che,PRON,_,_
@@ -4524,10 +4524,10 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 390-7,BO093,390,390,8,non,non,non,ADV,_,_
 390-8,BO093,390,390,9,a,a,a,ADP,_,_
 390-9,BO093,390,390,10,me,me,me,PRON,_,_
-390-10,BO093,390,390,11,((ride)),((ride)),[LAUGH],X,_,_
+390-10,BO093,390,390,11,((ride)),((ride)),NVB,NVB,_,_
 390-11,BO093,390,390,12,perché,perché,perché,SCONJ,_,_
 390-12,BO093,390,390,13,cioè,cioè,cioè,ADV,_,_
-390-13,BO093,390,390,14,((ride)),((ride)),[LAUGH],X,_,_
+390-13,BO093,390,390,14,((ride)),((ride)),NVB,NVB,_,_
 390-14,BO093,390,390,15,per,per,per,ADP,_,_
 390-15,BO093,390,390,16,me,me,me,PRON,_,_
 390-16,BO093,390,390,17,poteva,poteva,potere,AUX,_,_
@@ -5484,7 +5484,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 441-8,BO093,441,441,9,cellulare.,cellulare,cellulare,ADJ,_,_
 442-0,BO093,442,442,1,allora,allora,allora,ADV,_,_
 443-0,BO093,443,443,1,qualcuno,qualcuno,qualcuno,PRON,_,_
-443-1,BO093,443,443,2,(.),(.),PAUSE,PAUSE,_,_
+443-1,BO093,443,443,2,(.),(.),PAUSE,NVB,_,_
 443-2,BO093,443,443,3,no,no,no,INTJ,_,_
 444-0,BO093,444,444,1,e::hm,ehm,ehm,INTJ,_,_
 444-1,BO093,444,444,2,l',l',il,DET,_,_

@@ -6,7 +6,9 @@ Uso:
 
 Per ogni csv usa la funzione estrai() di estrattore_colonne_con_forme_composte.py
 (che salva anche form, lemma, upos in output/estratti/), poi conta le triple e scrive
-output/tabella_occorrenze.tsv.
+due tabelle in ordine alfabetico: output/tabella_occorrenze_1.tsv (fino a "mazzuccato"
+compreso) e output/tabella_occorrenze_2.tsv (da "'mbare" in poi).
+L'ordine alfabetico ignora apostrofi e altra punteggiatura: "'mbare" va ordinata come "mbare".
 
 Le righe con upos non ammesse o campi "_" non entrano nella tabella ma finiscono nelle anomalie
 (output/estratti/*.anomalie.txt). Le upos e i composti ammessi sono elencati in
@@ -22,7 +24,14 @@ from estrattore_colonne_con_forme_composte import estrai
 
 CARTELLA_PROGETTO = Path(__file__).resolve().parent.parent
 CARTELLA_ESTRATTI = CARTELLA_PROGETTO / "output" / "estratti"
-FILE_TABELLA = CARTELLA_PROGETTO / "output" / "tabella_occorrenze.tsv"
+FILE_TABELLA_1 = CARTELLA_PROGETTO / "output" / "tabella_occorrenze_1.tsv"   # fino a ULTIMA_FORM_TABELLA_1
+FILE_TABELLA_2 = CARTELLA_PROGETTO / "output" / "tabella_occorrenze_2.tsv"   # il resto
+ULTIMA_FORM_TABELLA_1 = "mazzuccato"   # ultima form (inclusa) della prima tabella
+
+
+def chiave_alfabetica(form):
+    """Chiave di ordinamento: minuscolo e senza apostrofi/punteggiatura ("'mbare" -> "mbare")."""
+    return "".join(c for c in form.lower() if c.isalnum())
 
 
 def dispersione(per_upos):
@@ -56,13 +65,20 @@ for csv_in in file_csv:
 # 3. le colonne dei PoS sono quelle che compaiono nei dati
 tutte_le_upos = sorted({upos for c in conteggi.values() for upos in c})
 
-# 4. scrivo la tabella: form, lemma, frequenza totale, dispersione, una colonna per ogni PoS
-with open(FILE_TABELLA, "w", encoding="utf-8", newline="") as f:
-    scrittore = csv.writer(f, delimiter="\t")
-    scrittore.writerow(["form", "lemma", "frequenza", "dispersione_%"] + tutte_le_upos)
-    for (form, lemma), per_upos in sorted(conteggi.items()):
-        riga = [form, lemma, sum(per_upos.values()), round(dispersione(per_upos), 1)]
-        riga += [per_upos[u] or "" for u in tutte_le_upos]   # cella vuota se zero
-        scrittore.writerow(riga)
+# 4. ordino alfabeticamente (ignorando apostrofi e punteggiatura) e divido in due tabelle
+ordinati = sorted(conteggi.items(), key=lambda kv: (chiave_alfabetica(kv[0][0]), kv[0]))
+parte_1 = [kv for kv in ordinati if chiave_alfabetica(kv[0][0]) <= ULTIMA_FORM_TABELLA_1]
+parte_2 = [kv for kv in ordinati if chiave_alfabetica(kv[0][0]) > ULTIMA_FORM_TABELLA_1]
 
-print(f"Fatto! {len(conteggi)} coppie form-lemma da {len(file_csv)} file in {FILE_TABELLA}")
+# 5. scrivo le tabelle: form, lemma, frequenza totale, dispersione, una colonna per ogni PoS
+for file_tabella, parte in ((FILE_TABELLA_1, parte_1), (FILE_TABELLA_2, parte_2)):
+    with open(file_tabella, "w", encoding="utf-8", newline="") as f:
+        scrittore = csv.writer(f, delimiter="\t")
+        scrittore.writerow(["form", "lemma", "frequenza", "dispersione_%"] + tutte_le_upos)
+        for (form, lemma), per_upos in parte:
+            riga = [form, lemma, sum(per_upos.values()), round(dispersione(per_upos), 1)]
+            riga += [per_upos[u] or "" for u in tutte_le_upos]   # cella vuota se zero
+            scrittore.writerow(riga)
+
+print(f"Fatto! {len(conteggi)} coppie form-lemma da {len(file_csv)} file: "
+      f"{len(parte_1)} in {FILE_TABELLA_1}, {len(parte_2)} in {FILE_TABELLA_2}")

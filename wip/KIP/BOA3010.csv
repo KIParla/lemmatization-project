@@ -103,7 +103,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 17-2,BO096,17,17,3,persona,persona,persona,NOUN,_,_
 17-3,BO096,17,17,4,"istruita,",istruita,istruito,ADJ,_,_
 18-0,BO096,18,18,1,ma,ma,ma,CCONJ,_,_
-18-1,BO096,18,18,2,(.),(.),PAUSE,PAUSE,_,_
+18-1,BO096,18,18,2,(.),(.),PAUSE,NVB,_,_
 18-2,BO096,18,18,3,pecca,pecca,peccare,VERB,_,_
 18-3,BO096,18,18,4,di,di,di,ADP,_,_
 18-4,BO096,18,18,5,arroganza,arroganza,arroganza,NOUN,_,_
@@ -180,7 +180,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 30-17,BO096,30,30,18,che,che,che,SCONJ,_,_
 30-18,BO096,30,30,19,non,non,non,ADV,_,_
 30-19,BO096,30,30,20,aiuta,aiuta,aiutare,VERB,_,_
-30-20,BO096,30,30,21,completamente,completamente,completo,ADV,_,_
+30-20,BO096,30,30,21,completamente,completamente,completamente,ADV,_,_
 31-0,BO096,31,31,1,e,e,e,CCONJ,_,_
 31-1,BO096,31,31,2,fastidio,fastidio,fastidio,NOUN,_,_
 31-2,BO096,31,31,3,anche,anche,anche,ADV,_,_
@@ -213,7 +213,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 36-1,BO096,36,36,2,persona,persona,persona,NOUN,_,_
 36-2,BO096,36,36,3,di,di,di,ADP,_,_
 36-3,BO096,36,36,4,cultura,cultura,cultura,NOUN,_,_
-36-4,BO096,36,36,5,(.),(.),PAUSE,PAUSE,_,_
+36-4,BO096,36,36,5,(.),(.),PAUSE,NVB,_,_
 36-5,BO096,36,36,6,ma,ma,ma,CCONJ,_,_
 37-0,BO096,37,37,1,non,non,non,ADV,_,_
 37-1,BO096,37,37,2,è,è,essere,AUX,_,_
@@ -339,7 +339,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 55-8,BO095,55,55,9,è,è,essere,AUX,_,_
 56-0,BO096,56,56,1,perché,perché,perché,SCONJ,_,_
 56-1,BO096,56,56,2,comunque,comunque,comunque,ADV,_,_
-56-2,BO096,56,56,3,(.),(.),PAUSE,PAUSE,_,_
+56-2,BO096,56,56,3,(.),(.),PAUSE,NVB,_,_
 56-3,BO096,56,56,4,non,non,non,ADV,_,_
 56-4,BO096,56,56,5,(mostrano),mostrano,mostrare,VERB,_,_
 56-5,BO096,56,56,6,questa,questa,questo,DET,_,_
@@ -404,7 +404,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 63-12,BO095,63,63,13,pubblicano,pubblicano,pubblicare,VERB,_,_
 63-13,BO095,63,63,14,poi,poi,poi,ADV,_,_
 63-14,BO095,63,63,15,ha,ha,avere,VERB,_,_
-63-15,BO095,63,63,16,effettivamente,effettivamente,effettivo,ADV,_,_
+63-15,BO095,63,63,16,effettivamente,effettivamente,effettivamente,ADV,_,_
 63-16,BO095,63,63,17,ripercussio::ni,ripercussioni,ripercussione,NOUN,_,_
 64-0,BO095,64,64,1,e,e,e,CCONJ,_,_
 64-1,BO095,64,64,2,si,si,si,PRON,_,_
@@ -679,7 +679,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 98-4a,_,_,98,5,_,a,a,ADP,_,_
 98-4b,_,_,98,6,_,i,il,DET,_,_
 98-5,BO095,98,98,7,social,social,social,NOUN,_,_
-98-6,BO095,98,98,8,(.),(.),PAUSE,PAUSE,_,_
+98-6,BO095,98,98,8,(.),(.),PAUSE,NVB,_,_
 98-7,BO095,98,98,9,altr~,altr~,altr~,PROPN,_,_
 98-8,BO095,98,98,10,altrimenti?,altrimenti,altrimenti,CCONJ,_,_
 99-0,BO095,99,99,1,doma::ni,domani,domani,ADV,_,_
@@ -754,7 +754,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 106-3,BO096,106,106,4,così,così,così,ADV,_,_
 106-4,BO096,106,106,5,"aspri,",aspri,aspro,ADJ,_,_
 107-0,BO096,107,107,1,che,che,che,SCONJ,_,_
-107-1,BO096,107,107,2,(.),(.),PAUSE,PAUSE,_,_
+107-1,BO096,107,107,2,(.),(.),PAUSE,NVB,_,_
 107-2,BO096,107,107,3,gli,gli,il,DET,_,_
 107-3,BO096,107,107,4,uomini,uomini,uomo,NOUN,_,_
 107-4,BO096,107,107,5,sono,sono,essere,AUX,_,_
@@ -1084,7 +1084,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 168-0,BO096,168,168,1,ora,ora,ora,ADV,_,_
 169-0,BO096,169,169,1,dico,dico,dire,VERB,_,_
 169-1,BO096,169,169,2,io,io,io,PRON,_,_
-169-2,BO096,169,169,3,(.),(.),PAUSE,PAUSE,_,_
+169-2,BO096,169,169,3,(.),(.),PAUSE,NVB,_,_
 169-3,BO096,169,169,4,avete,avete,avere,AUX,_,_
 169-4,BO096,169,169,5,fatto,fatto,fare,VERB,_,_
 169-5,BO096,169,169,6,quest',quest',questo,DET,_,_
@@ -1213,18 +1213,18 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 193-6,BO096,193,193,7,di,di,di,ADP,_,_
 193-7,BO096,193,193,8,shameless,shameless,Shameless,PROPN,_,_
 193-8,BO096,193,193,9,è,è,essere,AUX,_,_
-193-9,BO096,193,193,10,(.),(.),PAUSE,PAUSE,_,_
+193-9,BO096,193,193,10,(.),(.),PAUSE,NVB,_,_
 193-10,BO096,193,193,11,leggermente,leggermente,leggermente,ADV,_,_
 193-11,BO096,193,193,12,meglio,meglio,meglio,ADV,_,_
 194-0,BO095,194,194,1,tornata,tornata,tornare,VERB,_,_
 194-1,BO095,194,194,2,svetlana,svetlana,Svetlana,PROPN,_,_
 194-2,BO095,194,194,3,dieci,dieci,dieci,NUM,_,_
 194-3,BO095,194,194,4,euro,euro,euro,NOUN,_,_
-195-0,BO095,195,195,1,((ride)),((ride)),[LAUGH],X,_,_
+195-0,BO095,195,195,1,((ride)),((ride)),NVB,NVB,_,_
 195-1,BO095,195,195,2,la,la,il,DET,_,_
 195-2,BO095,195,195,3,tua,tua,tuo,DET,_,_
 195-3,BO095,195,195,4,faccia,faccia,faccia,NOUN,_,_
-196-0,BO096,196,196,0,((ride)),((ride)),[LAUGH],X,_,_
+196-0,BO096,196,196,0,((ride)),((ride)),NVB,NVB,_,_
 197-0,BO096,197,197,1,però,però,però,ADV,_,_
 197-1,BO096,197,197,2,non,non,non,ADV,_,_
 197-2,BO096,197,197,3,so,so,sapere,VERB,_,_
@@ -1259,7 +1259,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 202-8,BO096,202,202,9,di,di,di,ADP,_,_
 203-0,BO096,203,203,1,sedano,sedano,sedano,NOUN,_,_
 203-1,BO096,203,203,2,qua,qua,qua,ADV,_,_
-204-0,BO095,204,204,0,((ride)),((ride)),[LAUGH],X,_,_
+204-0,BO095,204,204,0,((ride)),((ride)),NVB,NVB,_,_
 205-0,BO095,205,205,1,mi,mi,mi,PRON,_,_
 205-1,BO095,205,205,2,aiuti?,aiuti,aiutare,VERB,_,_
 206-0,BO095,206,206,1,non,non,non,ADV,_,_
@@ -1316,7 +1316,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 216-0,BO095,216,216,1,no,no,no,INTJ,_,_
 216-1,BO095,216,216,2,vabbè,vabbè,vabbè,INTJ,_,_
 216-2,BO095,216,216,3,ci,ci,ci,PRON,_,_
-216-3,BO095,216,216,4,credo,credo,credare,VERB,_,_
+216-3,BO095,216,216,4,credo,credo,credere,VERB,_,_
 216-4,BO095,216,216,5,ma,ma,ma,CCONJ,_,_
 216-5,BO095,216,216,6,ci,ci,ci,PRON,_,_
 216-6,BO095,216,216,7,sono,sono,essere,VERB,_,_
@@ -1361,7 +1361,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 225-2,BO096,225,225,3,telefilm,telefilm,telefilm,NOUN,_,_
 225-3,BO096,225,225,4,per,per,per,ADP,_,_
 225-4,BO096,225,225,5,un,un,uno,DET,_,_
-225-5,BO096,225,225,6,(.),(.),PAUSE,PAUSE,_,_
+225-5,BO096,225,225,6,(.),(.),PAUSE,NVB,_,_
 225-6,BO096,225,225,7,drama,drama,drama,NOUN,_,_
 225-7,BO096,225,225,8,di,di,di,ADP,_,_
 225-8,BO096,225,225,9,ragazzini,ragazzini,ragazzo,NOUN,_,_
@@ -1617,7 +1617,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 264-1,BO096,264,264,2,riversare,riversare,riversare,VERB,_,_
 264-2,BO096,264,264,3,la,la,il,DET,_,_
 264-3,BO096,264,264,4,senape,senape,senape,NOUN,_,_
-265-0,BO095,265,265,0,((ride)),((ride)),[LAUGH],X,_,_
+265-0,BO095,265,265,0,((ride)),((ride)),NVB,NVB,_,_
 266-0,BO095,266,266,1,ah,ah,ah,INTJ,_,_
 266-1,BO095,266,266,2,ma,ma,ma,CCONJ,_,_
 266-2,BO095,266,266,3,si,si,si,PRON,_,_
@@ -1715,7 +1715,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 286-7,BO096,286,286,8,sia,sia,essere,AUX,_,_
 286-8,BO096,286,286,9,diventata:::,diventata,diventare,VERB,_,_
 287-0,BO096,287,287,1,cioè,cioè,cioè,CCONJ,_,_
-287-1,BO096,287,287,2,(.),(.),PAUSE,PAUSE,_,_
+287-1,BO096,287,287,2,(.),(.),PAUSE,NVB,_,_
 287-2,BO096,287,287,3,è,è,essere,AUX,_,_
 287-3,BO096,287,287,4,comunque,comunque,comunque,ADV,_,_
 287-4,BO096,287,287,5,ragionevole,ragionevole,ragionevole,ADJ,_,_
@@ -1742,7 +1742,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 290-4,BO095,290,290,5,a,a,a,ADP,_,_
 290-5,BO095,290,290,6,pos]to,posto,posto,NOUN,_,_
 291-0,BO096,291,291,1,però::,però,però,ADV,_,_
-291-1,BO096,291,291,2,(.),(.),PAUSE,PAUSE,_,_
+291-1,BO096,291,291,2,(.),(.),PAUSE,NVB,_,_
 291-2,BO096,291,291,3,non,non,non,ADV,_,_
 291-3,BO096,291,291,4,mi,mi,mi,PRON,_,_
 291-4,BO096,291,291,5,sembra,sembra,sembrare,VERB,_,_
@@ -1861,7 +1861,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 307-0,BO096,307,307,1,sembra,sembra,sembrare,VERB,_,_
 307-1,BO096,307,307,2,forzato,forzato,forzato,ADJ,_,_
 308-0,BO096,308,308,1,carl,carl,Carl,PROPN,_,_
-308-1,BO096,308,308,2,(.),(.),PAUSE,PAUSE,_,_
+308-1,BO096,308,308,2,(.),(.),PAUSE,NVB,_,_
 308-2,BO096,308,308,3,carl,carl,Carl,PROPN,_,_
 308-3,BO096,308,308,4,è,è,essere,AUX,_,_
 308-4,BO096,308,308,5,assolutamente,assolutamente,assolutamente,ADV,_,_
@@ -1924,7 +1924,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 316-1,BO095,316,316,2,tu,tu,tu,PRON,_,_
 316-2,BO095,316,316,3,spiegami,spiegami,spiegare,VERB,_,_
 316-3,BO095,316,316,4,perché,perché,perché,SCONJ,_,_
-316-4,BO095,316,316,5,(.),(.),PAUSE,PAUSE,_,_
+316-4,BO095,316,316,5,(.),(.),PAUSE,NVB,_,_
 316-5,BO095,316,316,6,in,in,in,ADP,_,_
 316-6,BO095,316,316,7,sottofondo,sottofondo,sottofondo,NOUN,_,_
 316-7,BO095,316,316,8,ci,ci,ci,PRON,_,_
@@ -2326,8 +2326,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 372-5,BO096,372,372,6,colore,colore,colore,NOUN,_,_
 372-6,BO096,372,372,7,come,come,come,ADP,_,_
 372-7,BO096,372,372,8,cani,cani,cane,NOUN,_,_
-373-0,BO096,373,373,1,fondamentalmente,fondamentalmente,fondamentale,ADV,_,_
-374-0,BO095,374,374,0,((ride)),((ride)),[LAUGH],X,_,_
+373-0,BO096,373,373,1,fondamentalmente,fondamentalmente,fondamentalmente,ADV,_,_
+374-0,BO095,374,374,0,((ride)),((ride)),NVB,NVB,_,_
 375-0,BO096,375,375,1,eh,eh,eh,INTJ,_,_
 375-1,BO096,375,375,2,cioè,cioè,cioè,CCONJ,_,_
 375-2,BO096,375,375,3,gli,gli,il,DET,_,_
@@ -2412,7 +2412,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 384-16,BO096,384,384,17,combattere,combattere,combattere,VERB,_,_
 384-17,BO096,384,384,18,con,con,con,ADP,_,_
 384-18,BO096,384,384,19,lui,lui,lui,PRON,_,_
-384-19,BO096,384,384,20,(.),(.),PAUSE,PAUSE,_,_
+384-19,BO096,384,384,20,(.),(.),PAUSE,NVB,_,_
 384-20,BO096,384,384,21,però,però,però,CCONJ,_,_
 385-0,BO096,385,385,1,[era,era,essere,AUX,_,_
 385-1,BO096,385,385,2,chiaro],chiaro,chiaro,ADJ,_,_
@@ -2445,7 +2445,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 389-4,BO096,389,389,6,ku,ku,Ku,PROPN,_,_
 389-5,BO096,389,389,7,klux,klux,Klux,PRON,_,_
 389-6,BO096,389,389,8,klan,klan,Klan,PRON,_,_
-390-0,BO096,390,390,0,((ride)),((ride)),[LAUGH],X,_,_
+390-0,BO096,390,390,0,((ride)),((ride)),NVB,NVB,_,_
 391-0,BO095,391,391,1,wow,wow,wow,INTJ,_,_
 392-0,BO095,392,392,1,wo::w,wow,wow,INTJ,_,_
 393-0,BO096,393,393,1,e,e,e,CCONJ,_,_
@@ -2466,7 +2466,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 395-9,BO096,395,395,10,aspettavo,aspettavo,aspettare,VERB,_,_
 395-10,BO096,395,395,11,oh,oh,oh,INTJ,_,_
 395-11,BO096,395,395,12,no,no,no,ADV,_,_
-395-12,BO096,395,395,13,(.),(.),PAUSE,PAUSE,_,_
+395-12,BO096,395,395,13,(.),(.),PAUSE,NVB,_,_
 395-13,BO096,395,395,14,ora,ora,ora,ADV,_,_
 395-14,BO096,395,395,15,appena,appena,appena,ADV,_,_
 395-15,BO096,395,395,16,vedono,vedono,vedere,VERB,_,_
@@ -2496,7 +2496,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 397-17,BO096,397,397,18,io,io,io,PRON,_,_
 397-18,BO096,397,397,19,non,non,non,ADV,_,_
 397-19,BO096,397,397,20,capisco,capisco,capire,VERB,_,_
-398-0,BO095,398,398,0,((ride)),((ride)),[LAUGH],X,_,_
+398-0,BO095,398,398,0,((ride)),((ride)),NVB,NVB,_,_
 399-0,BO095,399,399,1,la,la,il,DET,_,_
 399-1,BO095,399,399,2,prima,prima,primo,ADJ,_,_
 399-2,BO095,399,399,3,hai,hai,avere,AUX,_,_
@@ -2593,7 +2593,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 415-6,BO096,415,415,7,di,di,di,ADP,_,_
 415-7,BO096,415,415,8,ricconi,ricconi,riccone,NOUN,_,_
 415-8,BO096,415,415,9,perché,perché,perché,SCONJ,_,_
-415-9,BO096,415,415,10,(.),(.),PAUSE,PAUSE,_,_
+415-9,BO096,415,415,10,(.),(.),PAUSE,NVB,_,_
 415-10,BO096,415,415,11,non,non,non,ADV,_,_
 415-11,BO096,415,415,12,lo,lo,lo,PRON,_,_
 415-12,BO096,415,415,13,so,so,sapere,VERB,_,_
@@ -2634,7 +2634,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 419-2,BO096,419,419,3,loro,loro,loro,PRON,_,_
 419-3,BO096,419,419,4,oh,oh,oh,INTJ,_,_
 419-4,BO096,419,419,5,no,no,re,VERB,_,_
-419-5,BO096,419,419,6,(.),(.),PAUSE,PAUSE,_,_
+419-5,BO096,419,419,6,(.),(.),PAUSE,NVB,_,_
 419-6,BO096,419,419,7,la,la,il,DET,_,_
 419-7,BO096,419,419,8,nostra,nostra,nostro,DET,_,_
 419-8,BO096,419,419,9,reputazione,reputazione,reputazione,NOUN,_,_
@@ -2665,7 +2665,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 421-12,BO096,421,421,14,scuola,scuola,scuola,NOUN,_,_
 421-13,BO096,421,421,15,è,è,essere,AUX,_,_
 421-14,BO096,421,421,16,multiculturale,multiculturale,multiculturale,ADJ,_,_
-422-0,BO095,422,422,0,((ride)),((ride)),[LAUGH],X,_,_
+422-0,BO095,422,422,0,((ride)),((ride)),NVB,NVB,_,_
 423-0,BO096,423,423,1,e,e,e,CCONJ,_,_
 423-1,BO096,423,423,2,questa,questa,questo,DET,_,_
 423-2,BO096,423,423,3,cosa,cosa,cosa,NOUN,_,_
@@ -2699,7 +2699,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 428-10b,_,_,428,13,_,i,il,DET,_,_
 428-11,BO096,428,428,14,genitori,genitori,genitore,NOUN,_,_
 429-0,BO096,429,429,1,e,e,e,CCONJ,_,_
-429-1,BO096,429,429,2,(.),(.),PAUSE,PAUSE,_,_
+429-1,BO096,429,429,2,(.),(.),PAUSE,NVB,_,_
 429-2,BO096,429,429,3,giustamente,giustamente,giusto,ADV,_,_
 429-3,BO096,429,429,4,gli,gli,il,DET,_,_
 429-4,BO096,429,429,5,"uomini,",uomini,uomo,NOUN,_,_
@@ -2752,8 +2752,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 438-11,BO096,438,438,12,impazendo,impazendo,impazzire,VERB,_,_
 438-12,BO096,438,438,13,per,per,per,ADP,_,_
 438-13,BO096,438,438,14,lui,lui,lui,PRON,_,_
-439-0,BO096,439,439,0,((ride)),((ride)),[LAUGH],X,_,_
-440-0,BO095,440,440,0,((ride)),((ride)),[LAUGH],X,_,_
+439-0,BO096,439,439,0,((ride)),((ride)),NVB,NVB,_,_
+440-0,BO095,440,440,0,((ride)),((ride)),NVB,NVB,_,_
 441-0,BO096,441,441,1,perché,perché,perché,SCONJ,_,_
 441-1,BO096,441,441,2,lui,lui,lui,PRON,_,_
 441-2,BO096,441,441,3,dice,dice,dire,VERB,_,_
@@ -2788,7 +2788,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 443-0,BO096,443,443,1,e,e,e,CCONJ,_,_
 443-1,BO096,443,443,2,tipo,tipo,tipo,NOUN,_,_
 443-2,BO096,443,443,3,loro,loro,loro,PRON,_,_
-444-0,BO095,444,444,0,((ride)),((ride)),[LAUGH],X,_,_
+444-0,BO095,444,444,0,((ride)),((ride)),NVB,NVB,_,_
 445-0,BO095,445,445,1-2,dai,dai,_,_,_,_
 445-0a,_,_,445,1,_,da,da,ADP,_,_
 445-0b,_,_,445,2,_,i,il,DET,_,_
@@ -2824,7 +2824,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 447-7,BO096,447,447,8,e,e,e,CCONJ,_,_
 447-8,BO096,447,447,9,tipo,tipo,tipo,NOUN,_,_
 448-0,BO095,448,448,1,eh?,eh,eh,INTJ,_,_
-448-1,BO095,448,448,2,(.),(.),PAUSE,PAUSE,_,_
+448-1,BO095,448,448,2,(.),(.),PAUSE,NVB,_,_
 448-2,BO095,448,448,3,okay,okay,okay,INTJ,_,_
 449-0,BO096,449,449,1,perché,perché,perché,SCONJ,_,_
 449-1,BO096,449,449,2,diceva,diceva,dire,VERB,_,_
@@ -2862,7 +2862,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 454-3,BO096,454,454,4,le,le,il,DET,_,_
 454-4,BO096,454,454,5,mogli,mogli,moglie,NOUN,_,_
 454-5,BO096,454,454,6,erano:,erano,essere,AUX,_,_
-455-0,BO095,455,455,0,((ride)),((ride)),[LAUGH],X,_,_
+455-0,BO095,455,455,0,((ride)),((ride)),NVB,NVB,_,_
 456-0,BO096,456,456,1,cioè,cioè,cioè,ADV,_,_
 456-1,BO096,456,456,2,xx,xx,x,X,_,_
 456-2,BO096,456,456,3,i,i,il,DET,_,_
@@ -3047,7 +3047,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 487-3,BO096,487,487,4,una,una,uno,DET,_,_
 487-4,BO096,487,487,5,tizia,tizia,tizia,NOUN,_,_
 487-5,BO096,487,487,6,lesbo,lesbo,lesbo,ADJ,_,_
-487-6,BO096,487,487,7,(.),(.),PAUSE,PAUSE,_,_
+487-6,BO096,487,487,7,(.),(.),PAUSE,NVB,_,_
 487-7,BO096,487,487,8,lì,lì,lì,ADV,_,_
 488-0,BO096,488,488,1,che,che,che,PRON,_,_
 488-1,BO096,488,488,2,però,però,però,CCONJ,_,_
@@ -3167,7 +3167,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 502-9,BO096,502,502,10,fare,fare,fare,VERB,_,_
 502-10,BO096,502,502,11,un,un,uno,DET,_,_
 502-11,BO096,502,502,12,plot,plot,plot,NOUN,_,_
-502-12,BO096,502,502,13,effettivamente,effettivamente,effettivo,ADV,_,_
+502-12,BO096,502,502,13,effettivamente,effettivamente,effettivamente,ADV,_,_
 502-13,BO096,502,502,14,in,in,in,ADP,_,_
 502-14,BO096,502,502,15,sottofondo,sottofondo,sottofondo,NOUN,_,_
 503-0,BO096,503,503,1,la,la,il,DET,_,_
@@ -3199,7 +3199,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 506-4,BO096,506,506,6,scorsa,scorsa,scorso,ADJ,_,_
 507-0,BO096,507,507,1,cartman,cartman,Cartman,PROPN,_,_
 507-1,BO096,507,507,2,era,era,essere,AUX,_,_
-507-2,BO096,507,507,3,effettivamente,effettivamente,effettivo,ADV,_,_
+507-2,BO096,507,507,3,effettivamente,effettivamente,effettivamente,ADV,_,_
 507-3,BO096,507,507,4,un,un,uno,DET,_,_
 507-4,BO096,507,507,5,fidanzato,fidanzato,fidanzato,NOUN,_,_
 507-5,BO096,507,507,6,carino,carino,caro,ADJ,_,_
@@ -3338,9 +3338,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 531-3,BO096,531,531,4,up,up,up,ADV,Lang=en,_
 531-4,BO096,531,531,5,babe?,babe,babe,NOUN,Lang=en,_
 532-0,BO096,532,532,1,eh,eh,eh,INTJ,_,_
-532-1,BO096,532,532,2,(.),(.),PAUSE,PAUSE,_,_
+532-1,BO096,532,532,2,(.),(.),PAUSE,NVB,_,_
 532-2,BO096,532,532,3,eh,eh,eh,INTJ,_,_
-532-3,BO096,532,532,4,(.),(.),PAUSE,PAUSE,_,_
+532-3,BO096,532,532,4,(.),(.),PAUSE,NVB,_,_
 532-4,BO096,532,532,5,eh,eh,eh,INTJ,_,_
 533-0,BO096,533,533,1,niente,niente,niente,PRON,_,_
 533-1,BO096,533,533,2,heidi,heidi,Heidi,PROPN,_,_
@@ -3392,7 +3392,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 544-0,BO096,544,544,1,ti,ti,ti,PRON,_,_
 544-1,BO096,544,544,2,dicevo::?,dicevo,dire,VERB,_,_
 545-0,BO096,545,545,1,sì,sì,sì,ADV,_,_
-545-1,BO096,545,545,2,(.),(.),PAUSE,PAUSE,_,_
+545-1,BO096,545,545,2,(.),(.),PAUSE,NVB,_,_
 545-2,BO096,545,545,3,avevo,avevo,avere,AUX,_,_
 545-3,BO096,545,545,4,visto,visto,vedere,VERB,_,_
 545-4,BO096,545,545,5,una,una,uno,DET,_,_
@@ -3519,7 +3519,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 561-1,BO096,561,561,2,tipo,tipo,tipo,NOUN,_,_
 561-2,BO096,561,561,3,loro,loro,loro,PRON,_,_
 561-3,BO096,561,561,4,sì,sì,sì,INTJ,_,_
-561-4,BO096,561,561,5,(.),(.),PAUSE,PAUSE,_,_
+561-4,BO096,561,561,5,(.),(.),PAUSE,NVB,_,_
 561-5,BO096,561,561,6,io,io,io,PRON,_,_
 561-6,BO096,561,561,7,non,non,non,ADV,_,_
 561-7,BO096,561,561,8,tradirei,tradirei,tradire,VERB,_,_
@@ -3536,11 +3536,11 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 563-0,BO096,563,563,1,distoglievano,distoglievano,distogliere,VERB,_,_
 563-1,BO096,563,563,2,lo,lo,il,DET,_,_
 563-2,BO096,563,563,3,sgua:rdo,sguardo,sguardo,NOUN,_,_
-563-3,BO096,563,563,4,(.),(.),PAUSE,PAUSE,_,_
+563-3,BO096,563,563,4,(.),(.),PAUSE,NVB,_,_
 563-4,BO096,563,563,5,però,però,però,CCONJ,_,_
 563-5,BO096,563,563,6,erano,erano,essere,AUX,_,_
 563-6,BO096,563,563,7,convinti,convinti,convinto,ADJ,_,_
-563-7,BO096,563,563,8,(.),(.),PAUSE,PAUSE,_,_
+563-7,BO096,563,563,8,(.),(.),PAUSE,NVB,_,_
 563-8,BO096,563,563,9,cioè,cioè,cioè,CCONJ,_,_
 564-0,BO096,564,564,1,andavano,andavano,andare,VERB,_,_
 564-1,BO096,564,564,2,avanti,avanti,avanti,ADV,_,_
@@ -3573,7 +3573,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 566-14,BO096,566,566,15,nuova,nuova,nuovo,ADJ,_,_
 566-15,BO096,566,566,16,malattia,malattia,malattia,NOUN,_,_
 567-0,BO096,567,567,1,che,che,che,SCONJ,_,_
-567-1,BO096,567,567,2,(.),(.),PAUSE,PAUSE,_,_
+567-1,BO096,567,567,2,(.),(.),PAUSE,NVB,_,_
 567-2,BO096,567,567,3,in,in,in,ADP,_,_
 567-3,BO096,567,567,4,qualche,qualche,qualche,DET,_,_
 567-4,BO096,567,567,5,modo,modo,modo,NOUN,_,_
@@ -3584,7 +3584,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 567-9,BO096,567,567,10,ricchi,ricchi,ricchio,ADJ,_,_
 567-10,BO096,567,567,11,e,e,e,CCONJ,_,_
 567-11,BO096,567,567,12,potenti,potenti,potente,ADJ,_,_
-568-0,BO095,568,568,0,((ride)),((ride)),[LAUGH],X,_,_
+568-0,BO095,568,568,0,((ride)),((ride)),NVB,NVB,_,_
 569-0,BO096,569,569,1,sex,sex,sex,NOUN,_,_
 569-1,BO096,569,569,2,xxx,xxx,x,X,_,_
 569-2,BO096,569,569,3,cose,cose,cosa,NOUN,_,_
@@ -3629,14 +3629,14 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 571-17,BO096,571,571,18,no,no,no,INTJ,_,_
 572-0,BO096,572,572,1,il,il,il,DET,_,_
 572-1,BO096,572,572,2,test,test,test,NOUN,_,_
-572-2,BO096,572,572,3,(.),(.),PAUSE,PAUSE,_,_
+572-2,BO096,572,572,3,(.),(.),PAUSE,NVB,_,_
 572-3,BO096,572,572,4,da,da,da,ADP,_,_
 572-4,BO096,572,572,5,fare,fare,fare,VERB,_,_
 572-5,BO096,572,572,6-7,ai,ai,_,_,_,_
 572-5a,_,_,572,6,_,a,a,ADP,_,_
 572-5b,_,_,572,7,_,i,il,DET,_,_
 572-6,BO096,572,572,8,"ragazzini,",ragazzini,ragazzo,NOUN,_,_
-572-7,BO096,572,572,9,(.),(.),PAUSE,PAUSE,_,_
+572-7,BO096,572,572,9,(.),(.),PAUSE,NVB,_,_
 572-8,BO096,572,572,10,in,in,in,ADP,_,_
 572-9,BO096,572,572,11,scuola,scuola,scuola,NOUN,_,_
 572-10,BO096,572,572,12,"elementare,",elementare,elementare,ADJ,_,_
@@ -3674,7 +3674,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 576-16,BO096,576,576,17,minuti,minuti,minuto,NOUN,_,_
 577-0,BO096,577,577,1,questa,questa,questo,DET,_,_
 577-1,BO096,577,577,2,donna,donna,donna,NOUN,_,_
-577-2,BO096,577,577,3,(.),(.),PAUSE,PAUSE,_,_
+577-2,BO096,577,577,3,(.),(.),PAUSE,NVB,_,_
 577-3,BO096,577,577,4,aveva,aveva,avere,VERB,_,_
 577-4,BO096,577,577,5,un,un,uno,DET,_,_
 577-5,BO096,577,577,6,braccialetto,braccialetto,braccialetto,NOUN,_,_
@@ -3698,7 +3698,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 582-3,BO095,582,582,4,braccialetto,braccialetto,braccialetto,NOUN,_,_
 583-0,BO096,583,583,1,e,e,e,CCONJ,_,_
 583-1,BO096,583,583,2,quindi,quindi,quindi,ADV,_,_
-583-2,BO096,583,583,3,(.),(.),PAUSE,PAUSE,_,_
+583-2,BO096,583,583,3,(.),(.),PAUSE,NVB,_,_
 583-3,BO096,583,583,4,chiaramente,chiaramente,chiaramente,ADV,_,_
 584-0,BO096,584,584,1-2,dei:,dei,_,_,_,_
 584-0a,_,_,584,1,_,di,di,ADP,_,_
@@ -3816,7 +3816,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 596-0,BO096,596,596,1-2,dai,dai,_,_,_,_
 596-0a,_,_,596,1,_,da,da,ADP,_,_
 596-0b,_,_,596,2,_,i,il,DET,_,_
-596-1,BO096,596,596,3,(.),(.),PAUSE,PAUSE,_,_
+596-1,BO096,596,596,3,(.),(.),PAUSE,NVB,_,_
 596-2,BO096,596,596,4,ragazzi,ragazzi,ragazzo,NOUN,_,_
 596-3,BO096,596,596,5,questa,questa,questo,DET,_,_
 596-4,BO096,596,596,6,cosa,cosa,cosa,PRON,_,_
@@ -3976,7 +3976,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 613-3,BO096,613,613,4,andare,andare,andare,VERB,_,_
 613-4,BO096,613,613,5,in,in,in,ADP,_,_
 613-5,BO096,613,613,6,riabilitazione,riabilitazione,riabilitazione,NOUN,_,_
-613-6,BO096,613,613,7,(.),(.),PAUSE,PAUSE,_,_
+613-6,BO096,613,613,7,(.),(.),PAUSE,NVB,_,_
 613-7,BO096,613,613,8,tra,tra,tra,ADP,_,_
 613-8,BO096,613,613,9,cui,cui,cui,PRON,_,_
 613-9,BO096,613,613,10,c',c',ci,PRON,_,_
@@ -3997,7 +3997,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 614-9,BO096,614,614,10,fa,fa,fare,VERB,_,_
 614-10,BO096,614,614,11,charlie,charlie,Charlie,PROPN,_,_
 615-0,BO096,615,615,1,in,in,in,ADP,_,_
-615-1,BO096,615,615,2,(.),(.),PAUSE,PAUSE,_,_
+615-1,BO096,615,615,2,(.),(.),PAUSE,NVB,_,_
 615-2,BO096,615,615,4,due,due,due,NUM,_,_
 615-3,BO096,615,615,5,anni,anni,anno,NOUN,_,_
 615-4,BO096,615,615,6,e,e,e,CCONJ,_,_
@@ -4094,7 +4094,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 632-5,BO096,632,632,6,un,un,uno,DET,_,_
 632-6,BO096,632,632,7,bambino],bambino,bambino,NOUN,_,_
 632-7,BO096,632,632,8,no,no,no,INTJ,_,_
-632-8,BO096,632,632,9,(.),(.),PAUSE,PAUSE,_,_
+632-8,BO096,632,632,9,(.),(.),PAUSE,NVB,_,_
 632-9,BO096,632,632,10,era,era,essere,AUX,_,_
 632-10,BO096,632,632,11,un,un,uno,DET,_,_
 632-11,BO096,632,632,12,bambino,bambino,bambino,NOUN,_,_
@@ -4281,7 +4281,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 668-3,BO095,668,668,4,piace?,piace,piacere,VERB,_,_
 669-0,BO096,669,669,1,non,non,non,ADV,_,_
 669-1,BO096,669,669,2,tanto,tanto,tanto,ADV,_,_
-670-0,BO095,670,670,0,((ride)),((ride)),[LAUGH],X,_,_
+670-0,BO095,670,670,0,((ride)),((ride)),NVB,NVB,_,_
 671-0,BO095,671,671,1,non,non,non,ADV,_,_
 671-1,BO095,671,671,2,lo,lo,lo,PRON,_,_
 671-2,BO095,671,671,3,so,so,sapere,VERB,_,_
@@ -4341,13 +4341,13 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 681-2,BO096,681,681,3,ogni,ogni,ogni,DET,_,_
 681-3,BO096,681,681,4,tanto,tanto,tanto,NOUN,_,_
 681-4,BO096,681,681,5,ha,ha,avere,VERB,_,_
-681-5,BO096,681,681,6,effettivamente,effettivamente,effettivo,ADV,_,_
+681-5,BO096,681,681,6,effettivamente,effettivamente,effettivamente,ADV,_,_
 681-6,BO096,681,681,7,ragione,ragione,ragione,NOUN,_,_
 681-7,BO096,681,681,8,in,in,in,ADP,_,_
 681-8,BO096,681,681,9,una,una,uno,DET,_,_
 681-9,BO096,681,681,10,maniera,maniera,maniera,NOUN,_,_
 681-10,BO096,681,681,11,contorta,contorta,contorto,ADJ,_,_
-682-0,BO095,682,682,0,((ride)),((ride)),[LAUGH],X,_,_
+682-0,BO095,682,682,0,((ride)),((ride)),NVB,NVB,_,_
 683-0,BO096,683,683,1,e:::,e,e,CCONJ,_,_
 683-1,BO096,683,683,2,però,però,però,ADV,_,_
 683-2,BO096,683,683,3,kyle,kyle,Kyle,PROPN,_,_
@@ -4399,11 +4399,11 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 691-1,BO095,691,691,2,per,per,per,ADP,_,_
 691-2,BO095,691,691,3,sbaglio,sbaglio,sbaglio,NOUN,_,_
 691-3,BO095,691,691,4,cioè,cioè,cioè,CCONJ,_,_
-691-4,BO095,691,691,5,(.),(.),PAUSE,PAUSE,_,_
+691-4,BO095,691,691,5,(.),(.),PAUSE,NVB,_,_
 691-5,BO095,691,691,6,non,non,non,ADV,_,_
 691-6,BO095,691,691,7,per,per,per,ADP,_,_
 691-7,BO095,691,691,8,sbaglio,sbaglio,sbaglio,NOUN,_,_
-691-8,BO095,691,691,9,(.),(.),PAUSE,PAUSE,_,_
+691-8,BO095,691,691,9,(.),(.),PAUSE,NVB,_,_
 691-9,BO095,691,691,10,ho,ho,avere,AUX,_,_
 691-10,BO095,691,691,11,chiuso,chiuso,chiudere,VERB,_,_
 691-11,BO095,691,691,12,il,il,il,DET,_,_
@@ -4533,7 +4533,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 707-2,BO096,707,707,3,c',c',ci,PRON,_,_
 707-3,BO096,707,707,4,è,è,essere,AUX,_,_
 707-4,BO096,707,707,5,riuscito,riuscito,riuscire,VERB,_,_
-707-5,BO096,707,707,6,(.),(.),PAUSE,PAUSE,_,_
+707-5,BO096,707,707,6,(.),(.),PAUSE,NVB,_,_
 707-6,BO096,707,707,7,cioè,cioè,cioé,ADV,_,_
 707-7,BO096,707,707,8,perché,perché,perché,SCONJ,_,_
 707-8,BO096,707,707,9,poi,poi,poi,ADV,_,_
@@ -4546,7 +4546,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 707-15,BO096,707,707,16,ragazzo,ragazzo,ragazzo,NOUN,_,_
 708-0,BO096,708,708,1,cosa?,cosa,cosa,PRON,_,_
 709-0,BO095,709,709,1,no,no,no,INTJ,_,_
-709-1,BO095,709,709,2,(.),(.),PAUSE,PAUSE,_,_
+709-1,BO095,709,709,2,(.),(.),PAUSE,NVB,_,_
 709-2,BO095,709,709,3,impressive,impressive,impressionare,VERB,_,_
 710-0,BO095,710,710,1,e,e,e,CCONJ,_,_
 710-1,BO095,710,710,2,non,non,non,ADV,_,_
@@ -4705,7 +4705,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 722-4a,_,_,722,5,_,di,di,ADP,_,_
 722-4b,_,_,722,6,_,il,il,DET,_,_
 722-5,BO096,722,722,7,male,male,male,NOUN,_,_
-722-6,BO096,722,722,8,effettivamente,effettivamente,effettivo,ADV,_,_
+722-6,BO096,722,722,8,effettivamente,effettivamente,effettivamente,ADV,_,_
 722-7,BO096,722,722,9,a,a,a,ADP,_,_
 722-8,BO096,722,722,10,bambini,bambini,bambino,NOUN,_,_
 723-0,BO096,723,723,1,e,e,e,CCONJ,_,_
@@ -4767,7 +4767,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 729-0,BO096,729,729,1,[sì],sì,sì,INTJ,_,_
 730-0,BO095,730,730,1,e,e,e,CCONJ,_,_
 730-1,BO095,730,730,2,quindi,quindi,quindi,ADV,_,_
-730-2,BO095,730,730,3,(.),(.),PAUSE,PAUSE,_,_
+730-2,BO095,730,730,3,(.),(.),PAUSE,NVB,_,_
 730-3,BO095,730,730,4,questo,questo,questo,PRON,_,_
 730-4,BO095,730,730,5,era,era,essere,AUX,_,_
 730-5,BO095,730,730,6,scritto,scritto,scrivere,VERB,_,_
@@ -4777,7 +4777,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 730-7,BO095,730,730,9,commenti,commenti,commento,NOUN,_,_
 730-8,BO095,730,730,10,forse,forse,forse,ADV,_,_
 731-0,BO096,731,731,1,sì,sì,sì,INTJ,_,_
-731-1,BO096,731,731,2,(.),(.),PAUSE,PAUSE,_,_
+731-1,BO096,731,731,2,(.),(.),PAUSE,NVB,_,_
 731-2,BO096,731,731,3,xxx,xxx,x,X,_,_
 732-0,BO096,732,732,1,e:::h,eh,eh,INTJ,_,_
 732-1,BO096,732,732,2,sì,sì,sì,INTJ,_,_
@@ -4814,7 +4814,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 737-9,BO096,737,737,10,che,che,che,PRON,_,_
 737-10,BO096,737,737,11,si,si,si,PRON,_,_
 737-11,BO096,737,737,12,sentiva,sentiva,sentire,VERB,_,_
-737-12,BO096,737,737,13,effettivamente,effettivamente,effettivo,ADV,_,_
+737-12,BO096,737,737,13,effettivamente,effettivamente,effettivamente,ADV,_,_
 737-13,BO096,737,737,14,la,la,il,DET,_,_
 737-14,BO096,737,737,15,registrazione,registrazione,registrazione,NOUN,_,_
 737-15,BO096,737,737,16,di,di,di,ADP,_,_
@@ -4846,7 +4846,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 741-0,BO096,741,741,1,se,se,se,SCONJ,_,_
 741-1,BO096,741,741,2,non,non,non,ADV,_,_
 741-2,BO096,741,741,3,altro:,altro,altro,PRON,_,_
-741-3,BO096,741,741,4,(.),(.),PAUSE,PAUSE,_,_
+741-3,BO096,741,741,4,(.),(.),PAUSE,NVB,_,_
 741-4,BO096,741,741,5,era,era,essere,AUX,_,_
 741-5,BO096,741,741,6,una,una,uno,DET,_,_
 741-6,BO096,741,741,7,lista,lista,lista,NOUN,_,_
@@ -5001,7 +5001,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 762-1,BO096,762,762,2,lo,lo,lo,PRON,_,_
 762-2,BO096,762,762,3,fosse,fosse,essere,AUX,_,_
 762-3,BO096,762,762,4,davvero::,davvero,davvero,ADV,_,_
-762-4,BO096,762,762,5,(.),(.),PAUSE,PAUSE,_,_
+762-4,BO096,762,762,5,(.),(.),PAUSE,NVB,_,_
 762-5,BO096,762,762,6,nazista,nazista,nazista,ADJ,_,_
 762-6,BO096,762,762,7,oppure,oppure,oppure,CCONJ,_,_
 762-7,BO096,762,762,8,o,o,o,CCONJ,_,_
@@ -5095,7 +5095,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 777-0,BO096,777,777,1,xxx,xxx,x,X,_,_
 777-1,BO096,777,777,2,[xx],xx,x,X,_,_
 778-0,BO095,778,778,1,"[però],",però,però,CCONJ,_,_
-778-1,BO095,778,778,2,(.),(.),PAUSE,PAUSE,_,_
+778-1,BO095,778,778,2,(.),(.),PAUSE,NVB,_,_
 778-2,BO095,778,778,3,mh,mh,mh,INTJ,_,_
 778-3,BO095,778,778,4,è,è,essere,AUX,_,_
 778-4,BO095,778,778,5,stato,stato,essere,AUX,_,_
@@ -5106,7 +5106,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 778-9,BO095,778,778,10,quest',quest',questo,DET,_,_
 778-10,BO095,778,778,11,ottica,ottica,ottica,NOUN,_,_
 778-11,BO095,778,778,12,ma,ma,ma,CCONJ,_,_
-778-12,BO095,778,778,13,(.),(.),PAUSE,PAUSE,_,_
+778-12,BO095,778,778,13,(.),(.),PAUSE,NVB,_,_
 778-13,BO095,778,778,14,è,è,essere,AUX,_,_
 778-14,BO095,778,778,15,stato,stato,essere,AUX,_,_
 778-15,BO095,778,778,16,scritto,scritto,scrivere,VERB,_,_
@@ -5123,7 +5123,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 782-1,BO095,782,782,2,insomma,insomma,insomma,ADV,_,_
 782-2,BO095,782,782,3,l',l',il,DET,_,_
 782-3,BO095,782,782,4,autore,autore,autore,NOUN,_,_
-782-4,BO095,782,782,5,(.),(.),PAUSE,PAUSE,_,_
+782-4,BO095,782,782,5,(.),(.),PAUSE,NVB,_,_
 782-5,BO095,782,782,6,è,è,essere,AUX,_,_
 782-6,BO095,782,782,7,possibile,possibile,possibile,ADJ,_,_
 782-7,BO095,782,782,8,che,che,che,SCONJ,_,_
@@ -5152,7 +5152,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 787-1,BO096,787,787,2,difficili,difficili,difficile,ADJ,_,_
 787-2,BO096,787,787,3,gli,gli,il,DET,_,_
 787-3,BO096,787,787,4,aggettivi,aggettivi,aggettivo,NOUN,_,_
-788-0,BO095,788,788,1,((ride)),((ride)),[LAUGH],X,_,_
+788-0,BO095,788,788,1,((ride)),((ride)),NVB,NVB,_,_
 788-1,BO095,788,788,2,sì,sì,sì,ADV,_,_
 789-0,BO095,789,789,1,è,è,essere,VERB,_,_
 789-1,BO095,789,789,2,che,che,che,SCONJ,_,_
@@ -5189,7 +5189,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 792-1,BO096,792,792,2,quello,quello,quello,PRON,_,_
 792-2,BO096,792,792,3,che,che,che,PRON,_,_
 792-3,BO096,792,792,4,ho,ho,avere,AUX,_,_
-792-4,BO096,792,792,5,capito::,capito,capere,VERB,_,_
+792-4,BO096,792,792,5,capito::,capito,capire,VERB,_,_
 792-5,BO096,792,792,6,olimpico,olimpico,olimpico,ADJ,_,_
 792-6,BO096,792,792,7,è,è,essere,VERB,_,_
 792-7,BO096,792,792,8,se,se,se,SCONJ,_,_
@@ -5223,7 +5223,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 796-13,BO096,796,796,14,vinto,vinto,vincere,VERB,_,_
 796-14,BO096,796,796,15,un',un',uno,DET,_,_
 796-15,BO096,796,796,16,olimpiade,olimpiade,olimpiade,NOUN,_,_
-797-0,BO095,797,797,0,((ride)),((ride)),[LAUGH],X,_,_
+797-0,BO095,797,797,0,((ride)),((ride)),NVB,NVB,_,_
 798-0,BO096,798,798,1,jury,jury,Jury,PROPN,_,_
 798-1,BO096,798,798,2,qualcosa,qualcosa,qualcosa,PRON,_,_
 799-0,BO095,799,799,1,chechi?,chechi,Chechi,PROPN,_,_
@@ -5428,7 +5428,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 845-0,???,845,845,1,apple,apple,apple,NOUN,_,_
 845-1,???,845,845,2,pie?,pie,pie,NOUN,_,_
 846-0,BO095,846,846,1,qua,qua,qua,ADV,_,_
-846-1,BO095,846,846,2,(.),(.),PAUSE,PAUSE,_,_
+846-1,BO095,846,846,2,(.),(.),PAUSE,NVB,_,_
 846-2,BO095,846,846,3,grazie,grazie,grazie,NOUN,_,_
 847-0,BO095,847,847,1-2,diglielo,diglielo,_,_,_,_
 847-0a,_,_,847,1,_,diglie,dire,VERB,_,_
@@ -5460,7 +5460,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 856-0,BO096,856,856,1,se,se,se,SCONJ,_,_
 856-1,BO096,856,856,2,ti,ti,ti,PRON,_,_
 856-2,BO096,856,856,3,prendi,prendi,prendere,VERB,_,_
-856-3,BO096,856,856,4,(.),(.),PAUSE,PAUSE,_,_
+856-3,BO096,856,856,4,(.),(.),PAUSE,NVB,_,_
 856-4,BO096,856,856,5,anche,anche,anche,ADV,_,_
 856-5,BO096,856,856,6,il,il,il,DET,_,_
 856-6,BO096,856,856,7,resto,resto,resto,NOUN,_,_
@@ -5711,7 +5711,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 902-5,BO095,902,902,6,vengono,vengono,venire,VERB,_,_
 902-6,BO095,902,902,7,buoni,buoni,buono,ADJ,_,_
 903-0,BO096,903,903,1,sì,sì,sì,INTJ,_,_
-903-1,BO096,903,903,2,(.),(.),PAUSE,PAUSE,_,_
+903-1,BO096,903,903,2,(.),(.),PAUSE,NVB,_,_
 903-2,BO096,903,903,3,però,però,però,CCONJ,_,_
 903-3,BO096,903,903,4,cioè,cioè,cioè,CCONJ,_,_
 903-4,BO096,903,903,5,i,i,il,DET,_,_
@@ -5901,8 +5901,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 936-0,BO095,936,936,1,si,si,si,PRON,_,_
 936-1,BO095,936,936,2,sta,sta,stare,AUX,_,_
 936-2,BO095,936,936,3,sciogliendo::,sciogliendo,sciogliere,VERB,_,_
-937-0,BO096,937,937,0,((ride)),((ride)),[LAUGH],X,_,_
-938-0,BO095,938,938,0,((ride)),((ride)),[LAUGH],X,_,_
+937-0,BO096,937,937,0,((ride)),((ride)),NVB,NVB,_,_
+938-0,BO095,938,938,0,((ride)),((ride)),NVB,NVB,_,_
 939-0,BO096,939,939,1,che,che,che,SCONJ,_,_
 939-1,BO096,939,939,2,dolce,dolce,dolce,ADJ,_,_
 940-0,BO095,940,940,1,sì,sì,sì,INTJ,_,_
@@ -5988,14 +5988,14 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 954-4,BO096,954,954,5-6,alla,alla,_,_,_,_
 954-4a,_,_,954,5,_,a,a,ADP,_,_
 954-4b,_,_,954,6,_,la,il,DET,_,_
-954-5,BO096,954,954,7,(.),(.),PAUSE,PAUSE,_,_
+954-5,BO096,954,954,7,(.),(.),PAUSE,NVB,_,_
 954-6,BO096,954,954,8,insomma,insomma,insomma,NOUN,_,_
 955-0,BO096,955,955,1-2,alla,alla,_,_,_,_
 955-0a,_,_,955,1,_,a,a,ADP,_,_
 955-0b,_,_,955,2,_,la,il,DET,_,_
 955-1,BO096,955,955,3,cucina,cucina,cucina,NOUN,_,_
 955-2,BO096,955,955,4,sicuro,sicuro,sicuro,ADJ,_,_
-955-3,BO096,955,955,5,(.),(.),PAUSE,PAUSE,_,_
+955-3,BO096,955,955,5,(.),(.),PAUSE,NVB,_,_
 955-4,BO096,955,955,6,però,però,però,ADV,_,_
 955-5,BO096,955,955,7,me,me,me,PRON,_,_
 955-6,BO096,955,955,8,lo,lo,lo,PRON,_,_
@@ -6036,7 +6036,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 959-9,BO096,959,959,10,che,che,che,SCONJ,_,_
 959-10,BO096,959,959,11,faccio,faccio,fare,VERB,_,_
 959-11,BO096,959,959,12,xxx,xxx,x,X,_,_
-960-0,BO095,960,960,0,((ride)),((ride)),[LAUGH],X,_,_
+960-0,BO095,960,960,0,((ride)),((ride)),NVB,NVB,_,_
 961-0,BO096,961,961,1,vabbè,vabbè,vabbè,INTJ,_,_
 961-1,BO096,961,961,2,casa,casa,casa,NOUN,_,_
 961-2,BO096,961,961,3,di,di,di,ADP,_,_
@@ -6099,7 +6099,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 969-14,BO095,969,969,16,po',po',poco,PRON,_,_
 969-15,BO095,969,969,17,di,di,di,ADP,_,_
 969-16,BO095,969,969,18,amuchina,amuchina,amuchina,NOUN,_,_
-970-0,BO095,970,970,0,((ride)),((ride)),[LAUGH],X,_,_
+970-0,BO095,970,970,0,((ride)),((ride)),NVB,NVB,_,_
 971-0,BO096,971,971,1,(igenizza),igenizza,igenizzare,VERB,_,_
 972-0,BO095,972,972,1,sì,sì,sì,INTJ,_,_
 973-0,BO096,973,973,1,non,non,non,ADV,_,_
@@ -6125,7 +6125,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 977-0,BO095,977,977,1,dark,dark,Dark,ADJ,_,_
 977-1,BO095,977,977,2,souls,souls,Souls,NOUN,_,_
 978-0,BO096,978,978,1,vabbè,vabbè,vabbè,INTJ,_,_
-979-0,BO095,979,979,0,((ride)),((ride)),[LAUGH],X,_,_
+979-0,BO095,979,979,0,((ride)),((ride)),NVB,NVB,_,_
 980-0,BO096,980,980,1,per,per,per,ADP,_,_
 980-1,BO096,980,980,2,due,due,due,NUM,_,_
 980-2,BO096,980,980,3,volte,volte,volta,NOUN,_,_
@@ -6198,9 +6198,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 989-0,BO096,989,989,1-2,alla,alla,_,_,_,_
 989-0a,_,_,989,1,_,a,a,ADP,_,_
 989-0b,_,_,989,2,_,la,il,DET,_,_
-989-1,BO096,989,989,3,(.),(.),PAUSE,PAUSE,_,_
+989-1,BO096,989,989,3,(.),(.),PAUSE,NVB,_,_
 989-2,BO096,989,989,4,cioè,cioè,cioè,CCONJ,_,_
-989-3,BO096,989,989,5,(.),(.),PAUSE,PAUSE,_,_
+989-3,BO096,989,989,5,(.),(.),PAUSE,NVB,_,_
 989-4,BO096,989,989,6-7,nel,nel,_,_,_,_
 989-4a,_,_,989,6,_,in,in,ADP,_,_
 989-4b,_,_,989,7,_,il,il,DET,_,_
@@ -6238,7 +6238,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 991-12,BO096,991,991,13,si,si,si,PRON,_,_
 991-13,BO096,991,991,14,fa,fa,fare,VERB,_,_
 991-14,BO096,991,991,15,cioè,cioè,cioé,ADV,_,_
-991-15,BO096,991,991,16,completamente,completamente,completo,ADV,_,_
+991-15,BO096,991,991,16,completamente,completamente,completamente,ADV,_,_
 992-0,BO095,992,992,1,non,non,non,ADV,_,_
 992-1,BO095,992,992,2,lo,lo,lo,PRON,_,_
 992-2,BO095,992,992,3,spiegano?,spiegano,spiegare,VERB,_,_
@@ -6553,7 +6553,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1038-8,BO096,1038,1038,9,devi,devi,dovere,AUX,_,_
 1038-9,BO096,1038,1038,10,spendere::,spendere,spendere,VERB,_,_
 1039-0,BO096,1039,1039,1,insight,insight,insight,NOUN,_,_
-1039-1,BO096,1039,1039,2,(.),(.),PAUSE,PAUSE,_,_
+1039-1,BO096,1039,1039,2,(.),(.),PAUSE,NVB,_,_
 1039-2,BO096,1039,1039,3,è,è,essere,AUX,_,_
 1039-3,BO096,1039,1039,4,una,una,uno,DET,_,_
 1039-4,BO096,1039,1039,5,nuova,nuova,nuovo,ADJ,_,_
@@ -6619,7 +6619,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1049-2,BO096,1049,1049,3,sono,sono,essere,AUX,_,_
 1049-3,BO096,1049,1049,4,lì,lì,lì,ADV,_,_
 1049-4,BO096,1049,1049,5,dicevo,dicevo,dire,VERB,_,_
-1049-5,BO096,1049,1049,6,(.),(.),PAUSE,PAUSE,_,_
+1049-5,BO096,1049,1049,6,(.),(.),PAUSE,NVB,_,_
 1049-6,BO096,1049,1049,7,ci,ci,ci,PRON,_,_
 1049-7,BO096,1049,1049,8,sono,sono,essere,VERB,_,_
 1049-8,BO096,1049,1049,9,anche,anche,anche,ADV,_,_
@@ -6678,7 +6678,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1056-5b,_,_,1056,7,_,il,il,DET,_,_
 1056-6,BO095,1056,1056,8,livello,livello,livello,NOUN,_,_
 1056-7,BO095,1056,1056,9,quaranta?,quaranta,quaranta,NUM,_,_
-1057-0,BO095,1057,1057,0,((ride)),((ride)),[LAUGH],X,_,_
+1057-0,BO095,1057,1057,0,((ride)),((ride)),NVB,NVB,_,_
 1058-0,BO096,1058,1058,1,ci,ci,ci,PRON,_,_
 1058-1,BO096,1058,1058,2,sono,sono,essere,VERB,_,_
 1058-2,BO096,1058,1058,3,i,i,il,DET,_,_
@@ -6780,7 +6780,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1076-0,BO095,1076,1076,1,[ad]esso,adesso,adesso,ADV,_,_
 1076-1,BO095,1076,1076,2,xxx,xxx,x,X,_,_
 1077-0,BO096,1077,1077,1,sì,sì,sì,ADV,_,_
-1077-1,BO096,1077,1077,2,(.),(.),PAUSE,PAUSE,_,_
+1077-1,BO096,1077,1077,2,(.),(.),PAUSE,NVB,_,_
 1077-2,BO096,1077,1077,3,perché,perché,perché,SCONJ,_,_
 1077-3,BO096,1077,1077,4,il,il,il,DET,_,_
 1077-4,BO096,1077,1077,5,primo,primo,primo,ADJ,_,_
@@ -7412,7 +7412,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1172-1,BO096,1172,1172,2,qua~,qua~,quando,SCONJ,_,_
 1172-2,BO096,1172,1172,3,quando,quando,quando,SCONJ,_,_
 1172-3,BO096,1172,1172,4,completi,completi,completare,VERB,_,_
-1173-0,BO095,1173,1173,0,((ride)),((ride)),[LAUGH],X,_,_
+1173-0,BO095,1173,1173,0,((ride)),((ride)),NVB,NVB,_,_
 1174-0,BO095,1174,1174,1,è,è,essere,AUX,_,_
 1174-1,BO095,1174,1174,2,la,la,il,DET,_,_
 1174-2,BO095,1174,1174,3,stessa,stessa,stesso,ADJ,_,_

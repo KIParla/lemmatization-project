@@ -16,7 +16,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 2-4,BO094,2,2,6,naturale.,naturale,naturale,ADJ,Intonation=falling,_
 3-0,BO094,3,3,1,la,la,il,DET,_,_
 3-1,BO094,3,3,2,lezione,lezione,lezione,NOUN,_,_
-3-2,BO094,3,3,3,(.),(.),PAUSE,PAUSE,_,_
+3-2,BO094,3,3,3,(.),(.),PAUSE,NVB,_,_
 3-3,BO094,3,3,4,sta,sta,stare,AUX,_,_
 3-4,BO094,3,3,5,riprendendo.,riprendendo,riprendere,VERB,Intonation=falling,_
 4-0,BO094,4,4,1,allora,allora,allora,ADV,_,_
@@ -341,7 +341,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 55-2,BO094,55,55,3,anche,anche,anche,ADV,_,_
 55-3,BO094,55,55,4,una,una,uno,DET,_,_
 55-4,BO094,55,55,5,derivazione,derivazione,derivazione,NOUN,_,_
-55-5,BO094,55,55,6,(.),(.),PAUSE,PAUSE,_,_
+55-5,BO094,55,55,6,(.),(.),PAUSE,NVB,_,_
 55-6,BO094,55,55,7,in,in,in,ADP,_,_
 55-7,BO094,55,55,8,deduzione,deduzione,deduzione,NOUN,_,_
 55-8,BO094,55,55,9,xxx.,xxx,x,X,Intonation=falling,_
@@ -370,7 +370,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 60-0,BO094,60,60,1,si,si,si,PRON,_,_
 60-1,BO094,60,60,2,può,può,potere,AUX,_,_
 60-2,BO094,60,60,3,fare.,fare,fare,VERB,Intonation=falling,_
-61-0,???,61,61,0,((forte_brusio)),((forte_brusio)),_,X,_,_
+61-0,???,61,61,0,((forte_brusio)),((forte_brusio)),NVB,NVB,_,_
 62-0,BO094,62,62,1,guarda,guarda,guardare,VERB,_,_
 62-1,BO094,62,62,2,xxx,xxx,x,X,_,_
 63-0,BO094,63,63,1,va,va,andare,VERB,_,_
@@ -2006,14 +2006,14 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 305-4,BO094,305,305,5,che,che,che,PRON,_,_
 305-5,BO094,305,305,6,io,io,io,PRON,_,_
 305-6,BO094,305,305,7,pe:rdo,perdo,perdare,VERB,_,_
-305-7,BO094,305,305,8,completamente,completamente,completo,ADV,_,_
+305-7,BO094,305,305,8,completamente,completamente,completamente,ADV,_,_
 306-0,BO094,306,306,1,in,in,in,ADP,_,_
 306-1,BO094,306,306,2,quest',quest',questo,DET,Truncated=Yes,_
 306-2,BO094,306,306,3,analisi,analisi,analisi,NOUN,_,_
 307-0,BO094,307,307,1,va,va,andare,VERB,_,_
 307-1,BO094,307,307,2,bene?,bene,bene,ADV,Intonation=rising,_
 307-2,BO094,307,307,3,perdo,perdo,perdere,VERB,_,_
-307-3,BO094,307,307,4,completamente,completamente,completo,ADV,_,_
+307-3,BO094,307,307,4,completamente,completamente,completamente,ADV,_,_
 308-0,BO094,308,308,1,però,però,però,ADV,_,_
 308-1,BO094,308,308,2,che,che,che,DET,_,_
 308-2,BO094,308,308,3,vantaggio,vantaggio,vantaggio,NOUN,_,_
@@ -2505,7 +2505,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 383-5a,_,_,383,6,_,in,in,ADP,_,_
 383-5b,_,_,383,7,_,il,il,DET,_,_
 383-6,BO094,383,383,8,m~,m~,m~,X,Interrupted=Yes,_
-384-0,???,384,384,0,((studenti_ridono)),((studenti_ridono)),_,X,_,_
+384-0,???,384,384,0,((studenti_ridono)),((studenti_ridono)),NVB,NVB,_,_
 385-0,BO094,385,385,1,natale,natale,Natale,PROPN,_,_
 385-1,BO094,385,385,2-3,nel,nel,_,_,_,_
 385-1a,_,_,385,2,_,in,in,ADP,_,_
@@ -3314,7 +3314,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 466-6,BO094,466,466,7,più,più,più,ADV,_,_
 466-7,BO094,466,466,8,che,che,che,ADP,_,_
 466-8,BO094,466,466,9,io,io,io,PRON,_,_
-466-9,BO094,466,466,10,credo,credo,credare,VERB,_,_
+466-9,BO094,466,466,10,credo,credo,credere,VERB,_,_
 466-10,BO094,466,466,11,non,non,non,ADV,_,_
 466-11,BO094,466,466,12,avevate,avevate,avevare,VERB,_,_
 466-12,BO094,466,466,13-14,al,al,_,_,_,_
@@ -3470,7 +3470,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 490-0,BO094,490,490,1,è,è,essere,AUX,_,_
 490-1,BO094,490,490,2,chiaro,chiaro,chiaro,ADJ,_,_
 490-2,BO094,490,490,3,che,che,che,SCONJ,_,_
-490-3,BO094,490,490,4,(.),(.),PAUSE,PAUSE,_,_
+490-3,BO094,490,490,4,(.),(.),PAUSE,NVB,_,_
 490-4,BO094,490,490,5,i,i,il,DET,_,_
 490-5,BO094,490,490,6,"matematici,",matematici,matematico,NOUN,Intonation=weakly_rising,_
 491-0,BO094,491,491,1,da,da,da,ADP,_,_
@@ -4975,7 +4975,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 680-2,BO094,680,680,3,è,è,essere,VERB,_,_
 680-3,BO094,680,680,4,una,una,uno,DET,_,_
 680-4,BO094,680,680,5,domanda,domanda,domanda,NOUN,_,_
-681-0,???,681,681,0,((uno_studente_fa_una_domanda_incomprensibile)),((uno_studente_fa_una_domanda_incomprensibile)),_,X,_,_
+681-0,???,681,681,0,((uno_studente_fa_una_domanda_incomprensibile)),((uno_studente_fa_una_domanda_incomprensibile)),NVB,NVB,_,_
 682-0,BO094,682,682,1-2,al,al,_,_,_,_
 682-0a,_,_,682,1,_,a,a,ADP,_,_
 682-0b,_,_,682,2,_,il,il,DET,_,_
@@ -5034,7 +5034,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 688-16,BO094,688,688,18,circolino,circolino,circolare,VERB,_,_
 688-17,BO094,688,688,19,d',d',di,ADP,_,SpaceAfter=No
 688-18,BO094,688,688,20,accordo?,accordo,accordo,NOUN,Intonation=rising,_
-689-0,???,689,689,0,((interviene_qualcuno_ma_è_incomprensibile)),((interviene_qualcuno_ma_è_incomprensibile)),_,X,_,_
+689-0,???,689,689,0,((interviene_qualcuno_ma_è_incomprensibile)),((interviene_qualcuno_ma_è_incomprensibile)),NVB,NVB,_,_
 690-0,BO094,690,690,1,quindi,quindi,quindi,ADV,_,_
 690-1,BO094,690,690,2,e::h,eh,eh,INTJ,_,_
 690-2,BO094,690,690,3,noi,noi,noi,PRON,_,_
@@ -6845,11 +6845,11 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 946-1,BO094,946,946,2,voce,voce,voce,NOUN,_,_
 946-2,BO094,946,946,3,alta.,alta,alto,ADJ,Intonation=falling,_
 947-0,BO094,947,947,1,avanti,avanti,avanti,ADV,_,_
-948-0,???,948,948,1,((parla_uno_studente)),((parla_uno_studente)),((parla_uno_studente)),NVB,_,_
+948-0,???,948,948,1,((parla_uno_studente)),((parla_uno_studente)),NVB,NVB,_,_
 949-0,BO094,949,949,1,o,o,o,CCONJ,_,_
 949-1,BO094,949,949,2,che,che,che,DET,_,_
 949-2,BO094,949,949,3,cosa?,cosa,cosa,NOUN,Intonation=rising,_
-950-0,???,950,950,1,((parla_uno_studente)),((parla_uno_studente)),((parla_uno_studente)),NVB,_,_
+950-0,???,950,950,1,((parla_uno_studente)),((parla_uno_studente)),NVB,NVB,_,_
 951-0,BO094,951,951,1,bene,bene,bene,ADV,_,_
 952-0,BO094,952,952,1,ora,ora,ora,ADV,_,_
 952-1,BO094,952,952,2,però,però,però,ADV,_,_
@@ -7082,7 +7082,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 987-1,BO094,987,987,2,c',c',ci,PRON,Truncated=Yes,_
 987-2,BO094,987,987,3,è.,è,essere,VERB,Intonation=falling,_
 988-0,BO094,988,988,1,bene.,bene,bene,ADV,Intonation=falling,_
-989-0,???,989,989,1,((una_studentessa_fa_una_domanda)),((una_studentessa_fa_una_domanda)),((una_studentessa_fa_una_domanda)),NVB,_,_
+989-0,???,989,989,1,((una_studentessa_fa_una_domanda)),((una_studentessa_fa_una_domanda)),NVB,NVB,_,_
 990-0,BO094,990,990,1,lei,lei,lei,PRON,_,_
 990-1,BO094,990,990,2,può,può,potere,AUX,_,_
 990-2,BO094,990,990,3,applicare,applicare,applicare,VERB,_,_
@@ -7104,7 +7104,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 991-0,BO094,991,991,1,not,not,not,X,_,_
 991-1,BO094,991,991,2,end,end,end,X,_,_
 991-2,BO094,991,991,3,or.,or,or,X,Intonation=falling,_
-992-0,???,992,992,1,((una_studentessa_fa_una_domanda)),((una_studentessa_fa_una_domanda)),((una_studentessa_fa_una_domanda)),NVB,_,_
+992-0,???,992,992,1,((una_studentessa_fa_una_domanda)),((una_studentessa_fa_una_domanda)),NVB,NVB,_,_
 993-0,BO094,993,993,1,eh,eh,eh,INTJ,_,_
 993-1,BO094,993,993,2,dev',dev',dovere,AUX,Truncated=Yes,_
 993-2,BO094,993,993,3,essere,essere,essere,AUX,_,_
@@ -7143,7 +7143,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 997-14,BO094,997,997,15,per,per,per,ADP,_,_
 997-15,BO094,997,997,16,equivalenza,equivalenza,equivalenza,NOUN,_,_
 997-16,BO094,997,997,17,logica.,logica,logico,ADJ,Intonation=falling,_
-998-0,???,998,998,1,((una_studentessa_fa_una_domanda)),((una_studentessa_fa_una_domanda)),((una_studentessa_fa_una_domanda)),NVB,_,_
+998-0,???,998,998,1,((una_studentessa_fa_una_domanda)),((una_studentessa_fa_una_domanda)),NVB,NVB,_,_
 999-0,BO094,999,999,1,sì,sì,sì,ADV,_,_
 999-1,BO094,999,999,2,dipende,dipende,dipendere,VERB,_,_
 999-2,BO094,999,999,3-4,dai,dai,_,_,_,_
@@ -7508,7 +7508,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1047-5,BO094,1047,1047,7,signorina,signorina,signorina,NOUN,_,_
 1047-6,BO094,1047,1047,8,è,è,essere,AUX,_,_
 1047-7,BO094,1047,1047,9,fondamentale,fondamentale,fondamentale,ADJ,_,_
-1047-8,BO094,1047,1047,10,((ride)),((ride)),_,_,_,_
+1047-8,BO094,1047,1047,10,((ride)),((ride)),NVB,NVB,_,_
 1047-9,BO094,1047,1047,11,va,va,andare,VERB,_,_
 1047-10,BO094,1047,1047,12,bene?,bene,bene,ADV,Intonation=rising,_
 1048-0,BO094,1048,1048,1,è,è,essere,AUX,_,_
@@ -7690,7 +7690,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1063-8,BO094,1063,1063,9,alta,alta,alto,ADJ,_,_
 1063-9,BO094,1063,1063,10,la,la,il,DET,_,_
 1063-10,BO094,1063,1063,11,dica,dica,dica,NOUN,_,_
-1063-11,BO094,1063,1063,12,(.),(.),PAUSE,PAUSE,_,_
+1063-11,BO094,1063,1063,12,(.),(.),PAUSE,NVB,_,_
 1063-12,BO094,1063,1063,13,de,de,di,ADP,_,_
 1063-13,BO094,1063,1063,14,morgan,morgan,morgano,NOUN,_,_
 1063-14,BO094,1063,1063,15,è,è,essere,AUX,_,_

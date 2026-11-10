@@ -107,8 +107,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 21-4,TOI019,21,21,5,ncarcà,ncarcà,incaricare,VERB,Lang=und|Dialect=Yes,_
 21-5,TOI019,21,21,6,e,e,e,CCONJ,_,_
 21-6,TOI019,21,21,7,allora,allora,allora,ADV,_,_
-21-7,TOI019,21,21,8,((ride)),((ride)),[LAUGH],X,_,_
-22-0,TOI019,22,22,1,((ride)),((ride)),[LAUGH],X,_,_
+21-7,TOI019,21,21,8,((ride)),((ride)),NVB,NVB,_,_
+22-0,TOI019,22,22,1,((ride)),((ride)),NVB,NVB,_,_
 22-1,TOI019,22,22,2,(io,io,io,PRON,_,_
 22-2,TOI019,22,22,3,non,non,non,ADV,_,_
 22-3,TOI019,22,22,4,sto,sto,stare,VERB,_,_
@@ -135,8 +135,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 25-5,TOI019,25,25,6,te,te,te,PRON,_,_
 25-6,TOI019,25,25,7,ne,ne,ne,PRON,_,_
 25-7,TOI019,25,25,8,ncarcà,ncarcà,incaricare,VERB,Lang=und|Dialect=Yes,_
-26-0,TOR004,26,26,0,((ride)),((ride)),[LAUGH],X,_,_
-27-0,TOI019,27,27,0,((ride)),((ride)),[LAUGH],X,_,_
+26-0,TOR004,26,26,0,((ride)),((ride)),NVB,NVB,_,_
+27-0,TOI019,27,27,0,((ride)),((ride)),NVB,NVB,_,_
 28-0,TOI019,28,28,1,e,e,e,CCONJ,_,_
 28-1,TOI019,28,28,2,allora,allora,allora,ADV,_,_
 28-2,TOI019,28,28,3,mi,mi,mi,PRON,_,_
@@ -220,7 +220,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 43-0,TOI019,43,43,1,ecco.,ecco,ecco,ADV,_,_
 44-0,TOI019,44,44,1,e,e,e,CCONJ,_,_
 44-1,TOI019,44,44,2,così,così,così,ADV,_,_
-44-2,TOI019,44,44,3,(.),(.),PAUSE,PAUSE,_,_
+44-2,TOI019,44,44,3,(.),(.),PAUSE,NVB,_,_
 44-3,TOI019,44,44,4,ci:,ci,ci,PRON,_,_
 44-4,TOI019,44,44,5,aiutano,aiutano,aiutare,VERB,_,_
 44-5,TOI019,44,44,6,a,a,a,ADP,_,_
@@ -236,8 +236,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 45-2,TOI019,45,45,3,loro,loro,loro,PRON,_,_
 45-3,TOI019,45,45,4,tornano,tornano,tornare,VERB,_,_
 45-4,TOI019,45,45,5,indietro.,indietro,indietro,ADV,_,_
-45-5,TOI019,45,45,6,((ride)),((ride)),[LAUGH],X,_,_
-46-0,TOR004,46,46,0,((ride)),((ride)),[LAUGH],X,_,_
+45-5,TOI019,45,45,6,((ride)),((ride)),NVB,NVB,_,_
+46-0,TOR004,46,46,0,((ride)),((ride)),NVB,NVB,_,_
 47-0,TOI019,47,47,1,e,e,e,CCONJ,_,_
 47-1,TOI019,47,47,2,noi,noi,noi,PRON,_,_
 47-2,TOI019,47,47,3,arriviamo,arriviamo,arrivare,VERB,_,_
@@ -286,7 +286,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 52-5,TOI019,52,52,6,più,più,più,ADV,_,_
 52-6,TOI019,52,52,7,difficile,difficile,difficile,ADJ,_,_
 52-7,TOI019,52,52,8,prenotare,prenotare,prenotare,VERB,_,_
-52-8,TOI019,52,52,9,((ride)),((ride)),[LAUGH],X,_,_
+52-8,TOI019,52,52,9,((ride)),((ride)),NVB,NVB,_,_
 53-0,TOR004,53,53,1,eh,eh,eh,INTJ,_,_
 53-1,TOR004,53,53,2,beh,beh,beh,INTJ,_,_
 53-2,TOR004,53,53,3,certo.,certo,certo,ADV,_,_
@@ -303,10 +303,10 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 58-2,TOI019,58,58,3,ancora,ancora,ancora,ADV,_,_
 58-3,TOI019,58,58,4,qualcos',qualcos',qualcosa,DET,_,_
 58-4,TOI019,58,58,5,al[tro]?,altro,altro,PRON,_,_
-58-5,TOI019,58,58,6,((ride)),((ride)),[LAUGH],X,_,_
+58-5,TOI019,58,58,6,((ride)),((ride)),NVB,NVB,_,_
 59-0,TOR004,59,59,1,[no],no,no,ADV,_,_
 59-1,TOR004,59,59,2,grazi[e],grazie,grazie,NOUN,_,_
-59-2,TOR004,59,59,3,((ride)),((ride)),[LAUGH],X,_,_
+59-2,TOR004,59,59,3,((ride)),((ride)),NVB,NVB,_,_
 60-0,TOI019,60,60,1,[ba]sta,basta,bastare,VERB,_,_
 60-1,TOI019,60,60,2,"così,",così,così,ADV,_,_
 61-0,TOR004,61,61,1,grazie,grazie,grazie,NOUN,_,_

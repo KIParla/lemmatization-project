@@ -97,7 +97,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 11-11,BO141,11,11,14,marcatori,marcatori,marcatore,NOUN,_,_
 11-12,BO141,11,11,15,di,di,di,ADP,_,_
 11-13,BO141,11,11,16,"cortesia,",cortesia,cortesia,NOUN,Intonation=weakly_rising,_
-12-0,BO117,12,12,0,((tossisce)),((tossisce)),_,X,_,_
+12-0,BO117,12,12,0,((tossisce)),((tossisce)),NVB,NVB,_,_
 13-0,BO141,13,13,1,abbiamo,abbiamo,avere,AUX,_,_
 13-1,BO141,13,13,2,visto,visto,vedere,VERB,_,_
 13-2,BO141,13,13,3,che,che,che,SCONJ,_,_
@@ -626,7 +626,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 55-3,BO141,55,55,4,invece,invece,invece,ADV,_,_
 55-4,BO141,55,55,5,la,la,il,DET,_,_
 55-5,BO141,55,55,6,cortesia,cortesia,cortesia,NOUN,_,_
-55-6,BO141,55,55,7,(.),(.),PAUSE,PAUSE,_,_
+55-6,BO141,55,55,7,(.),(.),PAUSE,NVB,_,_
 55-7,BO141,55,55,8,di,di,di,ADP,_,_
 55-8,BO141,55,55,9,leech,leech,Leech,PROPN,_,_
 56-0,BO141,56,56,1,che,che,che,PRON,_,_
@@ -1402,7 +1402,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 117-0,BO117,117,117,1,va,va,andare,VERB,_,_
 117-1,BO117,117,117,2,"bene,",bene,bene,ADV,Intonation=weakly_rising,_
 117-2,BO117,117,117,3,cambiamo:::,cambiamo,cambiare,VERB,_,_
-117-3,BO117,117,117,4,(.),(.),PAUSE,PAUSE,_,_
+117-3,BO117,117,117,4,(.),(.),PAUSE,NVB,_,_
 117-4,BO117,117,117,5,ambito,ambito,ambito,NOUN,_,_
 118-0,BO117,118,118,1,e::h,eh,eh,INTJ,_,_
 118-1,BO117,118,118,2,e,e,e,CCONJ,_,_
@@ -2157,7 +2157,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 169-15,BO141,169,169,16,teoria,teoria,teoria,NOUN,_,_
 169-16,BO141,169,169,17,di,di,di,ADP,_,_
 169-17,BO141,169,169,18,difesa,difesa,difesa,NOUN,_,_
-170-0,BO117,170,170,0,((ride)),((ride)),_,X,_,_
+170-0,BO117,170,170,0,((ride)),((ride)),NVB,NVB,_,_
 171-0,BO141,171,171,1,da,da,da,ADP,_,_
 171-1,BO141,171,171,2,da,da,da,ADP,_,_
 171-2,BO141,171,171,3,tecniche,tecniche,tecnica,NOUN,_,_
@@ -2367,7 +2367,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 189-3,BO117,189,189,4,cioè,cioè,cioè,CCONJ,_,_
 189-4,BO117,189,189,5,qual,qual,quale,PRON,_,_
 189-5,BO117,189,189,6,è,è,essere,AUX,_,_
-189-6,BO117,189,189,7,(.),(.),PAUSE,PAUSE,_,_
+189-6,BO117,189,189,7,(.),(.),PAUSE,NVB,_,_
 189-7,BO117,189,189,8,il,il,il,DET,_,_
 189-8,BO117,189,189,9,meccanismo,meccanismo,meccanismo,NOUN,_,_
 189-9,BO117,189,189,10,insomma?,insomma,insomma,ADV,Intonation=rising,_
@@ -2469,7 +2469,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 201-9,BO141,201,201,10,e~,e~,X,X,Interrupted=Yes,_
 201-10,BO141,201,201,11,d~,d~,X,X,Interrupted=Yes,_
 201-11,BO141,201,201,12,d~,d~,X,X,Interrupted=Yes,_
-201-12,BO141,201,201,13,~d,~d,X,X,Interrupted=Yes,_
+201-12,BO141,201,201,13,d~,d~,X,X,Interrupted=Yes,_
 201-13,BO141,201,201,14,d',d',di,ADP,_,SpaceAfter=No
 201-14,BO141,201,201,15,inferire,inferire,inferire,VERB,_,_
 201-15,BO141,201,201,16,q~,q~,qualcosa,PRON,Interrupted=Yes,_
@@ -2668,6 +2668,6 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 213-5,BO141,213,213,6,sono,sono,essere,AUX,_,_
 214-0,BO117,214,214,1,mh,mh,mh,INTJ,_,_
 214-1,BO117,214,214,2,"mh,",mh,mh,INTJ,Intonation=weakly_rising,_
-214-2,BO117,214,214,3,(.),(.),PAUSE,PAUSE,_,_
+214-2,BO117,214,214,3,(.),(.),PAUSE,NVB,_,_
 214-3,BO117,214,214,4,va,va,andare,VERB,_,_
 214-4,BO117,214,214,5,"bene,",bene,bene,ADV,Intonation=weakly_rising,_

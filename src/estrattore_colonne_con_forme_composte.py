@@ -14,7 +14,7 @@ segnate con "# MODIFICA:".
      (funziona sia con i file a 20 colonne, sia con quelli di wip/ a 9 o 11).
   5. Forme composte: le parti si cercano dal token_id (7-5 -> 7-5a, 7-5b), non
      dall'intervallo della colonna "id" (che in alcuni file non c'è).
-  6. Pause e comportamenti non verbali: lemma e upos diventano PAUSE / NVB.
+  6. Pause: lemma PAUSE e upos NVB; comportamenti non verbali: lemma e upos NVB.
   7. Tutto il lavoro è nella funzione estrai(), così altri script possono importarla
      (es. generatore_tabella_occorrenze.py) senza lanciare un processo a parte.
   8. Lista chiara di cosa è ammesso (UPOS_AMMESSE e COMPOSTI_AMMESSI in cima al file):
@@ -212,10 +212,10 @@ def estrai(nome_file_csv, file_output=None, file_anomalie=None, dir_output=DIR_O
 
             # MODIFICA (6): prima solo lemma "{P}" -> upos PAUSE e lemma "{ride}" -> upos NVB;
             # ora si guarda la form, per tutti i formati, e anche il lemma diventa PAUSE / NVB
-            # pause: lemma e upos PAUSE
+            # pause: lemma PAUSE e upos NVB (come nei csv di wip/)
             # (nei csv di wip/ sono "(.)"; accetta anche i vecchi "[PAUSE]" e "{P}")
             if e_pausa:
-                lemma = upos = "PAUSE"
+                lemma, upos = "PAUSE", "NVB"
 
             # comportamenti non verbali: lemma e upos NVB
             # (nei csv di wip/ sono "((ride))", nei vert.tsv "{ride}")
