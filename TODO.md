@@ -22,11 +22,11 @@ Each conversation moves through four states (see `docs/modules/ROOT/pages/pipeli
 
 | Module | Total conversations | Integrated | Patch ready | In progress | Not started |
 |---|---|---|---|---|---|
-| KIP | 121 | 22 | 24 | 0 | 75 |
-| KIPasti | 63 | 0 | 4 | 0 | 59 |
+| KIP | 121 | 22 | 27 | 0 | 72 |
+| KIPasti | 63 | 0 | 5 | 0 | 58 |
 | ParlaBO | 85 | 0 | 2 | 0 | 83 |
 | ParlaTO | 67 | 0 | 2 | 0 | 65 |
-| **Total** | **336** | **22** | **32** | **0** | **282** |
+| **Total** | **336** | **22** | **36** | **0** | **278** |
 
 ## Integrated
 
@@ -63,44 +63,62 @@ BOA1015: `23-2` (a pause that was between `venti` and `cinque`, now merged into 
 
 BOA1009: the overlaps of `17-1` (group 6, whose other member `18-0` is gone) and of the deleted `156-4`, `157-0`, `157-1` still have to be assigned by hand in the tsv.
 
+### Integrated, with an update patch to apply on `dev`
+
+These conversations are already on KIP `dev` (transcription, lemma and upos), but `wip/` has been corrected afterwards (incomprehensible words normalised to lemma `x`, upos `X`; pauses; `Truncated`/`SpaceAfter`), so `make_patch.py` produced a new single patch for each. The recap says what changes.
+
+| Conversation | Patch | What changes |
+|---|---|---|
+| BOA1001 | `patches/KIP/BOA1001.vert.tsv.patch` | `721-2` `xxx`: upos `NOUN` → `X` |
+| BOA3001 | `patches/KIP/BOA3001.vert.tsv.patch` | 3 words `x~` → `x` (lemma `x`, upos `X`, no `Interrupted=Yes`); pause `[(.)]` form → `(.)` |
+| BOA3010 | `patches/KIP/BOA3010.vert.tsv.patch` | `1154-7` `c'`: `Truncated=Yes` → `SpaceAfter=No` |
+| BOA3011 | `patches/KIP/BOA3011.vert.tsv.patch` | `179-0` `xxxxx`: lemma `xxx` → `x` |
+
+BOA1017 has the same kind of update (`244-1` `xx`: `SYM` → `X`) but no patch yet: its `patches/KIP/BOA1017.review.csv` has edits not yet carried into `wip/`; regenerate after running `make_patch.py` on it.
+
 ## Patch ready (apply next)
 
 Items still to check by hand in each recap (`da verificare`) and timestamp conflicts. Patches with 0 items can be applied straight away.
+Where there are two patches, apply `<code>.vert.tsv.patch` (transcription) first and then `<code>.vert.tsv.pos.patch` (lemma, upos, syntactic rows), see `docs/modules/ROOT/pages/patching.adoc`.
 
-| Conversation | Module | To check | Conflicts |
-|---|---|---|---|
-| BOA3016 | KIP | 0 | 0 |
-| BOC1008 | KIP | 0 | 0 |
-| BOD1001 | KIP | 0 | 0 |
-| BOD1005 | KIP | 0 | 0 |
-| KPC001 | KIPasti | 0 | 0 |
-| KPC008 | KIPasti | 0 | 0 |
-| PTA002 | ParlaTO | 0 | 0 |
-| PTB005 | ParlaTO | 0 | 0 |
-| BOC1001 | KIP | 1 | 0 |
-| BOC1005 | KIP | 1 | 0 |
-| BOD1011 | KIP | 1 | 0 |
-| KPC003 | KIPasti | 1 | 0 |
-| KPN014 | KIPasti | 1 | 0 |
-| TOA3010 | KIP | 1 | 0 |
-| TOC1006 | KIP | 1 | 0 |
-| BOA3018 | KIP | 2 | 0 |
-| BOD1003 | KIP | 2 | 0 |
-| BOD1004 | KIP | 2 | 0 |
-| TOA3008 | KIP | 2 | 0 |
-| TOD1005 | KIP | 2 | 0 |
-| TOD1008 | KIP | 3 | 0 |
-| BOD2005 | KIP | 4 | 0 |
-| TOD1002 | KIP | 5 | 1 |
-| BOC1009 | KIP | 6 | 0 |
-| PBC007 | ParlaBO | 22 | 0 |
-| BOA3021 | KIP | 23 | 0 |
-| TOD1016 | KIP | 33 | 0 |
-| BOD2018 | KIP | 38 | 0 |
-| PBB004 | ParlaBO | 46 | 7 |
-| BOD2009 | KIP | 53 | 0 |
-| BOA3017 | KIP | 72 | 12 |
-| TOD1005bis | KIP | 109 | 4 |
+| Conversation | Module | To check | Conflicts | Patches |
+|---|---|---|---|---|
+| BOA3016 | KIP | 0 | 0 | patch + pos.patch |
+| BOC1008 | KIP | 0 | 0 | patch + pos.patch |
+| BOD1001 | KIP | 0 | 0 | patch + pos.patch |
+| BOD1005 | KIP | 0 | 0 | patch + pos.patch |
+| KPC001 | KIPasti | 0 | 0 | patch + pos.patch |
+| KPC008 | KIPasti | 0 | 0 | patch + pos.patch |
+| PTA002 | ParlaTO | 0 | 0 | patch + pos.patch |
+| PTB005 | ParlaTO | 0 | 0 | patch + pos.patch |
+| BOC1001 | KIP | 1 | 0 | patch + pos.patch |
+| BOC1005 | KIP | 1 | 0 | patch + pos.patch |
+| BOD1011 | KIP | 1 | 0 | patch + pos.patch |
+| KPC003 | KIPasti | 1 | 0 | patch + pos.patch |
+| KPN014 | KIPasti | 1 | 0 | patch + pos.patch |
+| TOA3010 | KIP | 1 | 0 | patch + pos.patch |
+| TOC1006 | KIP | 1 | 0 | patch + pos.patch |
+| TOD1005 | KIP | 1 | 0 | patch + pos.patch |
+| BOA1011 | KIP | 2 | 0 | patch + pos.patch |
+| BOA3018 | KIP | 2 | 0 | patch + pos.patch |
+| BOD1003 | KIP | 2 | 0 | patch + pos.patch |
+| BOD1004 | KIP | 2 | 0 | patch + pos.patch |
+| TOA3008 | KIP | 2 | 0 | patch + pos.patch |
+| TOD1008 | KIP | 3 | 0 | patch + pos.patch |
+| BOD2005 | KIP | 4 | 0 | patch + pos.patch |
+| KPC004 | KIPasti | 5 | 0 | patch + pos.patch |
+| TOD1002 | KIP | 5 | 1 | patch + pos.patch |
+| BOC1009 | KIP | 6 | 0 | patch + pos.patch |
+| PBC007 | ParlaBO | 22 | 0 | patch + pos.patch |
+| BOA3021 | KIP | 23 | 0 | patch + pos.patch |
+| BOD2007 | KIP | 31 | 0 | patch + pos.patch |
+| TOD1016 | KIP | 33 | 0 | patch + pos.patch |
+| BOD2018 | KIP | 38 | 0 | patch + pos.patch |
+| PBB004 | ParlaBO | 46 | 7 | patch + pos.patch |
+| BOD2009 | KIP | 53 | 0 | patch + pos.patch |
+| BOA3017 | KIP | 72 | 12 | patch + pos.patch |
+| TOA1006 | KIP | 105 | 0 | patch + pos.patch |
+| TOD1005bis | KIP | 109 | 4 | patch + pos.patch |
 
 ## In progress (finish these next)
 
@@ -108,13 +126,13 @@ Nothing pending — every `wip/` CSV has a patch or is already integrated.
 
 ## Not started
 
-### KIP (75)
+### KIP (72)
 
-BOA1011, BOA1013, BOA1016, BOA1018, BOA3002, BOA3003, BOA3006, BOA3007, BOA3019, BOA3020, BOC1002, BOC1003, BOC1004, BOC1006, BOC1007, BOD1006, BOD1007, BOD1009, BOD1010, BOD2001, BOD2003, BOD2006, BOD2007, BOD2008, BOD2010, BOD2011, BOD2013, BOD2014, BOD2015, BOD2016, BOD2017, BOD2019, TOA1001, TOA1002, TOA1003, TOA1004, TOA1005, TOA1006, TOA3001, TOA3002, TOA3003, TOA3004, TOA3005, TOA3006, TOA3007, TOA3009, TOA3011, TOA3012, TOA3013, TOA3014, TOC1001, TOC1002, TOC1003, TOC1004, TOC1005, TOC1007, TOD1014, TOD1015, TOD1017, TOD2001, TOD2002, TOD2003, TOD2004, TOD2005, TOD2006, TOD2007, TOD2008, TOD2009, TOD2010, TOD2011, TOD2012, TOD2013, TOD2014, TOD2015, TOD2016
+BOA1013, BOA1016, BOA1018, BOA3002, BOA3003, BOA3006, BOA3007, BOA3019, BOA3020, BOC1002, BOC1003, BOC1004, BOC1006, BOC1007, BOD1006, BOD1007, BOD1009, BOD1010, BOD2001, BOD2003, BOD2006, BOD2008, BOD2010, BOD2011, BOD2013, BOD2014, BOD2015, BOD2016, BOD2017, BOD2019, TOA1001, TOA1002, TOA1003, TOA1004, TOA1005, TOA3001, TOA3002, TOA3003, TOA3004, TOA3005, TOA3006, TOA3007, TOA3009, TOA3011, TOA3012, TOA3013, TOA3014, TOC1001, TOC1002, TOC1003, TOC1004, TOC1005, TOC1007, TOD1014, TOD1015, TOD1017, TOD2001, TOD2002, TOD2003, TOD2004, TOD2005, TOD2006, TOD2007, TOD2008, TOD2009, TOD2010, TOD2011, TOD2012, TOD2013, TOD2014, TOD2015, TOD2016
 
-### KIPasti (59)
+### KIPasti (58)
 
-KPC002, KPC004, KPC005, KPC006, KPC007, KPC009, KPC011, KPN001, KPN002, KPN003, KPN004, KPN005, KPN006, KPN007, KPN009, KPN010, KPN011, KPN012, KPN013, KPN015, KPN016, KPN017, KPN018, KPN019, KPN020, KPN021, KPN022, KPN023, KPN024, KPN025, KPN026, KPN027, KPN028, KPN029, KPN030, KPN031, KPS001, KPS002, KPS003, KPS004, KPS005, KPS006, KPS007, KPS008, KPS009, KPS010, KPS011, KPS012, KPS013, KPS014, KPS015, KPS016, KPS017, KPS018, KPS021, KPS022, KPS023, KPS024, KPS025
+KPC002, KPC005, KPC006, KPC007, KPC009, KPC011, KPN001, KPN002, KPN003, KPN004, KPN005, KPN006, KPN007, KPN009, KPN010, KPN011, KPN012, KPN013, KPN015, KPN016, KPN017, KPN018, KPN019, KPN020, KPN021, KPN022, KPN023, KPN024, KPN025, KPN026, KPN027, KPN028, KPN029, KPN030, KPN031, KPS001, KPS002, KPS003, KPS004, KPS005, KPS006, KPS007, KPS008, KPS009, KPS010, KPS011, KPS012, KPS013, KPS014, KPS015, KPS016, KPS017, KPS018, KPS021, KPS022, KPS023, KPS024, KPS025
 
 ### ParlaBO (83)
 
@@ -125,3 +143,8 @@ PBA001, PBA002, PBA003, PBA004, PBA005, PBA006, PBA007, PBA008, PBA009, PBA010, 
 PTA001, PTA003, PTA005, PTA006, PTA007, PTA012, PTA013, PTA015, PTA016, PTA017, PTA018, PTB001, PTB002, PTB003, PTB004, PTB007, PTB008, PTB009, PTB014, PTB015, PTB018, PTB019, PTB020, PTB021, PTB022, PTB023, PTB024, PTB025, PTB026, PTD001, PTD003, PTD004, PTD005, PTD006, PTD007, PTD008, PTD009, PTD010, PTD011, PTD012, PTD013, PTD014, PTD015, PTD016, PTD017, PTD019, PTD020, PTD021, PTD022, TOD2001, TOD2002, TOD2003, TOD2004, TOD2005, TOD2006, TOD2007, TOD2008, TOD2009, TOD2010, TOD2011, TOD2012, TOD2013, TOD2014, TOD2015, TOD2016
 
 *(Note: TOD20xx codes appear in both KIP's and ParlaTO's `metadata/conversations.tsv` — that's the source data, not a bug in this list.)*
+
+
+## Migliorie
+- verbi pronominali con pronome staccato (tipo me ne vado)
+- lemmi delle lettere dell'alfabeto? (a bi ci ipsilon lambda)
