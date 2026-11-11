@@ -34,12 +34,12 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 7-5,BO042,7,7,6,che,che,che,SCONJ,_,_
 7-6,BO042,7,7,7,è,è,essere,AUX,_,_
 7-7,BO042,7,7,8,possibile,possibile,possibile,ADJ,_,_
-7-8,BO042,7,7,9-10,farlo,farlo,_,_,_,_
+7-8,BO042,7,7,9-10,farlo,farlo,fare+lo,VERB+PRON,_,_
 7-8a,_,_,7,9,_,far,fare,VERB,_,_
 7-8b,_,_,7,10,_,lo,lo,PRON,_,_
 7-9,BO042,7,7,11,però,però,però,CCONJ,_,_
 7-10,BO042,7,7,12,volevo,volevo,volere,AUX,_,_
-7-11,BO042,7,7,13-15,"chiederglielo,",chiederglielo,_,_,_,_
+7-11,BO042,7,7,13-15,"chiederglielo,",chiederglielo,chiedere+gli+lo,VERB+PRON+PRON,_,_
 7-11a,_,_,7,13,_,chieder,chiedere,VERB,_,_
 7-11b,_,_,7,14,_,glie,gli,PRON,_,_
 7-11c,_,_,7,15,_,lo,lo,PRON,_,_
@@ -58,7 +58,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 9-3,BO042,9,9,4,a,a,a,ADP,_,_
 9-4,BO042,9,9,5,l[uglio].,luglio,luglio,NOUN,_,_
 10-0,BO026,10,10,1,[sì].,sì,sì,ADV,_,_
-11-0,BO026,11,11,1-2,nella,nella,_,_,_,_
+11-0,BO026,11,11,1-2,nella,nella,in+il,ADP+DET,_,_
 11-0a,_,_,11,1,_,in,in,ADP,_,_
 11-0b,_,_,11,2,_,la,il,DET,_,_
 11-1,BO026,11,11,3,stessa,stessa,stesso,ADJ,_,_
@@ -68,7 +68,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 13-0,BO026,13,13,1,[non],non,non,ADV,_,_
 13-1,BO026,13,13,2,oltre.,oltre,oltre,ADV,_,_
 14-0,BO042,14,14,1,devo,devo,dovere,AUX,_,_
-14-1,BO042,14,14,2-3,iscriv[ermi:],iscrivermi,_,_,_,_
+14-1,BO042,14,14,2-3,iscriv[ermi:],iscrivermi,iscrivere+mi,VERB+PRON,_,_
 14-1a,_,_,14,2,_,iscriver,iscrivere,VERB,_,_
 14-1b,_,_,14,3,_,mi,mi,PRON,_,_
 15-0,BO026,15,15,1,[e::],e,e,CCONJ,_,_
@@ -87,7 +87,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 20-2,BO026,20,20,3,lei,lei,lei,PRON,_,_
 20-3,BO026,20,20,4,si,si,si,PRON,_,_
 20-4,BO026,20,20,5,iscrive,iscrive,iscrivere,VERB,_,_
-20-5,BO026,20,20,6-7,a:l[l',all',_,_,_,_
+20-5,BO026,20,20,6-7,a:l[l',all',a+il,ADP+DET,_,_
 20-5a,_,_,20,6,_,a,a,ADP,_,_
 20-5b,_,_,20,7,_,l',il,DET,_,_
 20-6,BO026,20,20,8,appello,appello,appello,NOUN,_,_
@@ -129,7 +129,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 30-1,BO026,30,30,2,potrebbe,potrebbe,potere,AUX,_,_
 30-2,BO026,30,30,3,an]che,anche,anche,ADV,_,_
 30-3,BO026,30,30,4,non,non,non,ADV,_,_
-30-4,BO026,30,30,5-6,iscriversi,iscriversi,_,_,_,_
+30-4,BO026,30,30,5-6,iscriversi,iscriversi,iscrivere+si,VERB+PRON,_,_
 30-4a,_,_,30,5,_,iscriver,iscrivere,VERB,_,_
 30-4b,_,_,30,6,_,si,si,PRON,_,_
 30-5,BO026,30,30,7,a,a,a,ADP,_,_
@@ -142,11 +142,11 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 30-12,BO026,30,30,14,inserire,inserire,inserire,VERB,_,_
 30-13,BO026,30,30,15,l',l',il,DET,_,_
 30-14,BO026,30,30,16,esame,esame,esame,NOUN,_,_
-30-15,BO026,30,30,17-18,(averla),averla,_,_,_,_
+30-15,BO026,30,30,17-18,(averla),averla,avere+la,AUX+PRON,_,_
 30-15a,_,_,30,17,_,aver,avere,AUX,_,_
 30-15b,_,_,30,18,_,la,la,PRON,_,_
 30-16,BO026,30,30,19,spostata,spostata,spostare,VERB,_,_
-30-17,BO026,30,30,20-21,a:ll',all',_,_,_,_
+30-17,BO026,30,30,20-21,a:ll',all',a+il,ADP+DET,_,_
 30-17a,_,_,30,20,_,a,a,ADP,_,_
 30-17b,_,_,30,21,_,l',il,DET,_,_
 30-18,BO026,30,30,22,appello,appello,appello,NOUN,_,_
@@ -170,16 +170,16 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 31-2,BO042,31,31,3,dica,dica,dire,VERB,_,_
 31-3,BO042,31,31,4,"lei],",lei,lei,PRON,_,_
 32-0,BO026,32,32,1,[sempre,sempre,sempre,ADV,_,_
-32-1,BO026,32,32,2-3,all',all',_,_,_,_
+32-1,BO026,32,32,2-3,all',all',a+il,ADP+DET,_,_
 32-1a,_,_,32,2,_,a,a,ADP,_,_
 32-1b,_,_,32,3,_,l',il,DET,_,_
 32-2,BO026,32,32,4,or~,or~,orale,NOUN,_,_
 32-3,BO026,32,32,5,sempre,sempre,sempre,ADV,_,_
-32-4,BO026,32,32,6-7,a]ll~,all~,_,_,_,_
+32-4,BO026,32,32,6-7,a]ll~,all~,a+il,ADP+DET,_,_
 32-4a,_,_,32,6,,a,a,ADP,_,_
 32-4b,_,_,32,7,,l~,il,DET,_,_
 32-5,BO026,32,32,8,sempre,sempre,sempre,ADV,_,_
-32-6,BO026,32,32,9-10,allo,allo,_,_,_,_
+32-6,BO026,32,32,9-10,allo,allo,a+il,ADP+DET,_,_
 32-6a,_,_,32,9,_,a,a,ADP,_,_
 32-6b,_,_,32,10,_,lo,il,DET,_,_
 32-7,BO026,32,32,11,scritto,scritto,scritto,NOUN,_,_
@@ -208,7 +208,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 38-5,BO042,38,38,6,quando,quando,quando,SCONJ,_,_
 38-6,BO042,38,38,7,sarò,sarò,essere,VERB,_,_
 38-7,BO042,38,38,8,rispetto,rispetto,rispetto,ADV,_,_
-38-8,BO042,38,38,9-10,all',all',_,_,_,_
+38-8,BO042,38,38,9-10,all',all',a+il,ADP+DET,_,_
 38-8a,_,_,38,9,_,a,a,ADP,_,_
 38-8b,_,_,38,10,_,l',il,DET,_,_
 38-9,BO042,38,38,11,[ordine:],ordine,ordine,NOUN,_,_
@@ -217,7 +217,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 39-2,BO026,39,39,3,le,le,il,DET,_,_
 39-3,BO026,39,39,4,l]iste,liste,lista,NOUN,_,_
 39-4,BO026,39,39,5,online,online,online,ADV,_,_
-39-5,BO026,39,39,6-7,sulla,sulla,_,_,_,_
+39-5,BO026,39,39,6-7,sulla,sulla,su+il,ADP+DET,_,_
 39-5a,_,_,39,6,_,su,su,ADP,_,_
 39-5b,_,_,39,7,_,la,il,DET,_,_
 39-6,BO026,39,39,8,homepage,homepage,homepage,NOUN,_,_
@@ -261,7 +261,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 45-8,BO026,45,45,9,mail,mail,mail,NOUN,_,_
 45-9,BO026,45,45,10,il,il,il,DET,_,_
 45-10,BO026,45,45,11,giorno,giorno,giorno,NOUN,_,_
-45-11,BO026,45,45,12-13,dello,dello,_,_,_,_
+45-11,BO026,45,45,12-13,dello,dello,di+il,ADP+DET,_,_
 45-11a,_,_,45,12,_,di,di,ADP,_,_
 45-11b,_,_,45,13,_,lo,il,DET,_,_
 45-12,BO026,45,45,14,scritto,scritto,scritto,NOUN,_,_
@@ -303,7 +303,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 52-1,BO042,52,52,2,no,no,no,ADV,_,_
 52-2,BO042,52,52,3,ma,ma,ma,CCONJ,_,_
 52-3,BO042,52,52,4,io,io,io,PRON,_,_
-52-4,BO042,52,52,5-6,glielo,glielo,_,_,_,_
+52-4,BO042,52,52,5-6,glielo,glielo,gli+lo,PRON+PRON,_,_
 52-4a,_,_,52,5,_,glie,gli,PRON,_,_
 52-4b,_,_,52,6,_,lo,lo,PRON,_,_
 52-5,BO042,52,52,7,chiedo,chiedo,chiedere,VERB,_,_
@@ -354,7 +354,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 57-8,BO042,57,57,9,rossi,rossi,Rossi,PROPN,_,_
 57-9,BO042,57,57,10,di,di,di,ADP,_,_
 57-10,BO042,57,57,11,didattica,didattica,didattica,NOUN,_,_
-57-11,BO042,57,57,12-13,dell',dell',_,_,_,_
+57-11,BO042,57,57,12-13,dell',dell',di+il,ADP+DET,_,_
 57-11a,_,_,57,12,_,di,di,ADP,_,_
 57-11b,_,_,57,13,_,l',il,DET,_,_
 57-12,BO042,57,57,14,"italiano,",italiano,italiano,NOUN,_,_
@@ -395,7 +395,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 63-14,BO042,63,63,15,fa,fa,fare,VERB,_,_
 63-15,BO042,63,63,16,problemi,problemi,problema,NOUN,_,_
 63-16,BO042,63,63,17,riguardo,riguardo,riguardo,ADV,_,_
-63-17,BO042,63,63,18-19,agli,agli,_,_,_,_
+63-17,BO042,63,63,18-19,agli,agli,a+il,ADP+DET,_,_
 63-17a,_,_,63,18,_,a,a,ADP,_,_
 63-17b,_,_,63,19,_,gli,il,DET,_,_
 63-18,BO042,63,63,20,spostamenti,spostamenti,spostamento,NOUN,_,_
@@ -424,7 +424,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 66-11,BO042,66,66,12,sono,sono,essere,VERB,_,_
 66-12,BO042,66,66,13,il,il,il,DET,_,_
 66-13,BO042,66,66,14,dodici,dodici,dodici,NUM,_,_
-66-14,BO042,66,66,15-16,all',all',_,_,_,_
+66-14,BO042,66,66,15-16,all',all',a+il,ADP+DET,_,_
 66-14a,_,_,66,15,_,a,a,ADP,_,_
 66-14b,_,_,66,16,_,l',il,DET,_,_
 66-15,BO042,66,66,17,ora[le].,orale,orale,NOUN,_,_
@@ -465,7 +465,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 74-3,BO042,74,74,4,cioè,cioè,cioè,CCONJ,_,_
 74-4,BO042,74,74,5,penso,penso,pensare,VERB,_,_
 74-5,BO042,74,74,6,di],di,di,SCONJ,_,_
-74-6,BO042,74,74,7-9,farcela,farcela,_,_,_,_
+74-6,BO042,74,74,7-9,farcela,farcela,fare+ce+la,VERB+PRON+PRON,_,_
 74-6a,_,_,74,7,_,far,fare,VERB,_,_
 74-6b,_,_,74,8,_,ce,ce,PRON,_,_
 74-6c,_,_,74,9,_,la,la,PRON,_,_
@@ -473,7 +473,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 74-8,BO042,74,74,11,un,un,uno,DET,_,_
 74-9,BO042,74,74,12,modo,modo,modo,NOUN,_,_
 74-10,BO042,74,74,13,o,o,o,CCONJ,_,_
-74-11,BO042,74,74,14-15,nell',nell',_,_,_,_
+74-11,BO042,74,74,14-15,nell',nell',in+il,ADP+DET,_,_
 74-11a,_,_,74,14,_,in,in,ADP,_,_
 74-11b,_,_,74,15,_,l',il,DET,_,_
 74-12,BO042,74,74,16,altro.,altro,altro,PRON,_,_
@@ -490,7 +490,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 80-1,BO026,80,80,2,lei,lei,lei,PRON,_,_
 80-2,BO026,80,80,3,poi,poi,poi,ADV,_,_
 80-3,BO026,80,80,4,guarda,guarda,guardare,VERB,_,_
-80-4,BO026,80,80,5-6,nelle,nelle,_,_,_,_
+80-4,BO026,80,80,5-6,nelle,nelle,in+il,ADP+DET,_,_
 80-4a,_,_,80,5,_,in,in,ADP,_,_
 80-4b,_,_,80,6,_,le,il,DET,_,_
 80-5,BO026,80,80,7,liste.,liste,lista,NOUN,_,_
@@ -545,10 +545,10 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 92-8,BO042,92,92,9,le,le,le,PRON,_,_
 92-9,BO042,92,92,10,scrivo,scrivo,scrivere,VERB,_,_
 92-10,BO042,92,92,11,per,per,per,SCONJ,_,_
-92-11,BO042,92,92,12-13,ricordar[le,ricordarle,_,_,_,_
+92-11,BO042,92,92,12-13,ricordar[le,ricordarle,ricordare+le,VERB+PRON,_,_
 92-11a,_,_,92,12,_,ricordar,ricordare,VERB,_,_
 92-11b,_,_,92,13,_,le,le,PRON,_,_
-92-12,BO042,92,92,14-15,del]l',dell',_,_,_,_
+92-12,BO042,92,92,14-15,del]l',dell',di+il,ADP+DET,_,_
 92-12a,_,_,92,14,_,di,di,ADP,_,_
 92-12b,_,_,92,15,_,l',il,DET,_,_
 92-13,BO042,92,92,16,orale,orale,orale,NOUN,_,_

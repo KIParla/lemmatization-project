@@ -35,7 +35,7 @@
 9-10,BO049,11,"vivi:,",vivi,vivere,VERB,Intonation=weakly_rising
 9-11,BO049,12,cosa,cosa,cosa,PRON,_
 9-12,BO049,13,"fai::,",fai,fare,VERB,Intonation=weakly_rising
-10-0,BO049,1,parlami,parlami,_,_,_
+10-0,BO049,1,parlami,parlami,parlare+mi,VERB+PRON,_
 10-0a,_,,_,parla,parlare,VERB,
 10-0b,_,,_,mi,mi,PRON,
 10-1,BO049,2,pure,pure,pure,ADV,_
@@ -114,7 +114,7 @@
 22-11,BO052,1,mh],mh,mh,INTJ,_
 22-1,BO052,2,diciamo,diciamo,dire,VERB,_
 22-2,BO052,3,intorno,intorno,intorno,ADV,_
-22-3,BO052,4-5,agli,agli,_,_,_
+22-3,BO052,4-5,agli,agli,a+il,ADP+DET,_
 22-3a,_,4,_,a,a,ADP,_
 22-3b,_,5,_,gli,il,DET,_
 22-4,BO052,6,ottanta,ottanta,ottanta,NUM,_
@@ -277,7 +277,7 @@
 53-2,BO052,3,un,un,uno,DET,_
 53-3,BO052,4,po',po',poco,ADV,_
 53-4,BO052,5,a,a,a,ADP,_
-53-5,BO052,6-7,gestirsi,gestirsi,_,_,_
+53-5,BO052,6-7,gestirsi,gestirsi,gestire+si,VERB+PRON,_
 53-5a,_,6,_,gestir,gestire,VERB,_
 53-5b,_,7,_,si,si,PRON,_
 53-6,BO052,8,diciamo,diciamo,dire,VERB,_
@@ -424,7 +424,7 @@
 72-5,BO052,6,colorati,colorati,colarato,ADJ,_
 72-6,BO052,7,quindi,quindi,quindi,ADV,_
 72-7,BO052,8,>cioè<,cioè,cioè,CCONJ,_
-72-8,BO052,9-10,alla,alla,_,_,_
+72-8,BO052,9-10,alla,alla,a+il,ADP+DET,_
 72-8a,_,9,_,a,a,ADP,_
 72-8b,_,10,_,la,il,DET,_
 72-9,BO052,11,fine,fine,fine,NOUN,_
@@ -448,11 +448,11 @@
 76-4,BO049,5,tua,tua,tuo,DET,_
 76-5,BO049,6,stanza,stanza,stanza,NOUN,_
 76-6,BO049,7,preferita::,preferita,preferito,ADJ,_
-76-7,BO049,8-9,della,della,_,_,_
+76-7,BO049,8-9,della,della,di+il,ADP+DET,_
 76-7a,_,8,_,di,di,ADP,_
 76-7b,_,9,_,la,il,DET,_
 76-8,BO049,10,casa?,casa,casa,NOUN,Intonation=rising
-77-0,BO052,1-2,della,della,_,_,_
+77-0,BO052,1-2,della,della,di+il,ADP+DET,_
 77-0a,_,1,_,di,di,ADP,_
 77-0b,_,2,_,la,il,DET,_
 77-1,BO052,3,casa?,casa,casa,NOUN,Intonation=rising
@@ -524,7 +524,7 @@
 84-9,BO052,10,quindi:,quindi,quindi,ADV,_
 84-10,BO052,11,se,se,se,SCONJ,_
 84-11,BO052,12,devo,devo,dovere,AUX,_
-84-12,BO052,13,ritirarmi,ritirarmi,_,_,_
+84-12,BO052,13,ritirarmi,ritirarmi,ritirare+mi,VERB+PRON,_
 84-12a,_,,_,ritirar,ritirare,VERB,
 84-12b,_,,_,mi,mi,PRON,
 84-13,BO052,14,mi,mi,mi,PRON,_
@@ -545,7 +545,7 @@
 87-2,BO049,3,passi,passi,passare,VERB,_
 87-3,BO049,4,il,il,il,DET,_
 87-4,BO049,5,tempo,tempo,tempo,NOUN,_
-87-5,BO049,6-7,coi,coi,_,_,_
+87-5,BO049,6-7,coi,coi,con+il,ADP+DET,_
 87-5a,_,6,_,con,con,ADP,_
 87-5b,_,7,_,i,il,DET,_
 87-6,BO049,8,tuoi,tuoi,tuo,DET,_
@@ -560,7 +560,7 @@
 89-3,BO049,4,quando,quando,quando,SCONJ,_
 89-4,BO049,5,sei,sei,essere,AUX,_
 89-5,BO049,6,lì,lì,lì,ADV,_
-89-6,BO049,7-8,coi,coi,_,_,_
+89-6,BO049,7-8,coi,coi,con+il,ADP+DET,_
 89-6a,_,7,_,con,con,ADP,_
 89-6b,_,8,_,i,il,DET,_
 89-7,BO049,9,tuoi,tuoi,tuo,DET,_
@@ -579,7 +579,7 @@
 91-1,BO049,2,cosa,cosa,cosa,NOUN,_
 91-2,BO049,3,sarebbe?,sarebbe,essere,AUX,Intonation=rising
 92-0,BO052,1,>(soprattutto)<,soprattutto,soprattutto,ADV,_
-92-1,BO052,2-3,nel,nel,_,_,_
+92-1,BO052,2-3,nel,nel,in+il,ADP+DET,_
 92-1a,_,2,_,in,in,ADP,_
 92-1b,_,3,_,il,il,DET,_
 92-2,BO052,4,passato,passato,passato,NOUN,_
@@ -596,7 +596,7 @@
 93-10,BO052,12,facciamo,facciamo,fare,VERB,_
 93-11,BO052,13,un,un,uno,DET,_
 93-12,BO052,14,dibattito,dibattito,dibattito,NOUN,_
-93-13,BO052,15-16,sullo,sullo,_,_,_
+93-13,BO052,15-16,sullo,sullo,su+il,ADP+DET,_
 93-13a,_,15,_,su,su,ADP,_
 93-13b,_,16,_,lo,il,DET,_
 93-14,BO052,17,"stesso,",stesso,stesso,ADJ,Intonation=weakly_rising
@@ -629,7 +629,7 @@
 97-15,BO052,16,xbox,xbox,xbox,NOUN,_
 97-16,BO052,17,quindi,quindi,quindi,ADV,_
 97-17,BO052,18,giochiamo,giochiamo,giocare,VERB,_
-97-18,BO052,19-20,all',all',_,_,SpaceAfter=No
+97-18,BO052,19-20,all',all',a+il,ADP+DET,SpaceAfter=No
 97-18a,_,19,_,a,a,ADP,_
 97-18b,_,20,_,l',il,DET,_
 97-19,BO052,21,"xbox,",xbox,xbox,NOUN,Intonation=weakly_rising
@@ -753,7 +753,7 @@
 120-3,BO049,4,vicini,vicini,vicino,NOUN,_
 120-4,BO049,5,si,si,si,PRON,_
 120-5,BO049,6,lamentano:,lamentano,lamentare,VERB,_
-120-6,BO049,7-8,del,del,_,_,_
+120-6,BO049,7-8,del,del,di+il,ADP+DET,_
 120-6a,_,7,_,di,di,ADP,_
 120-6b,_,8,_,il,il,DET,_
 120-7,BO049,9,"rumore::,",rumore,rumore,NOUN,Intonation=weakly_rising
@@ -818,10 +818,10 @@
 125-17,BO052,18,suono,suono,suonare,VERB,_
 126-0,BO049,1,[e::hm],ehm,ehm,INTJ,_
 127-0,BO052,1,[e::hm],ehm,ehm,INTJ,_
-128-0,BO049,1-2,nel,nel,_,_,_
+128-0,BO049,1-2,nel,nel,in+il,ADP+DET,_
 128-0a,_,1,_,in,in,ADP,_
 128-0b,_,2,_,il,il,DET,_
-128-1,BO049,3-4,nel,nel,_,_,_
+128-1,BO049,3-4,nel,nel,in+il,ADP+DET,_
 128-1a,_,3,_,in,in,ADP,_
 128-1b,_,4,_,il,il,DET,_
 128-2,BO049,5,tuo,tuo,tuo,DET,_
@@ -900,7 +900,7 @@
 132-14,BO052,15,giù,giù,giù,ADV,_
 133-0,BO052,1,e::h,eh,eh,INTJ,_
 133-1,BO052,2,suonare,suonare,suonare,VERB,_
-133-2,BO052,3-4,alla,alla,_,_,_
+133-2,BO052,3-4,alla,alla,a+il,ADP+DET,_
 133-2a,_,3,_,a,a,ADP,_
 133-2b,_,4,_,la,il,DET,_
 133-3,BO052,5,porta,porta,porta,NOUN,_
@@ -915,12 +915,12 @@
 134-5,BO052,6,che,che,che,SCONJ,_
 134-6,BO052,7,altri::,altri,altro,PRON,_
 134-7,BO052,8,son,son,essere,AUX,_
-134-8,BO052,9-10,dall',dall',_,_,Truncated=Yes
+134-8,BO052,9-10,dall',dall',da+il,ADP+DET,Truncated=Yes
 134-8a,_,9,_,da,da,ADP,_
 134-8b,_,10,_,l',il,DET,_
 134-9,BO052,11,altra,altra,altro,ADJ,_
 134-10,BO052,12,parte,parte,parte,NOUN,_
-134-11,BO052,13-14,della,della,_,_,_
+134-11,BO052,13-14,della,della,di+il,ADP+DET,_
 134-11a,_,13,_,di,di,ADP,_
 134-11b,_,14,_,la,il,DET,_
 134-12,BO052,15,città,città,città,NOUN,_
@@ -954,7 +954,7 @@
 138-8,BO052,9,e::h,eh,eh,INTJ,_
 138-9,BO052,10,>insomma<,insomma,insomma,ADV,_
 138-10,BO052,11,(.),(.),PAUSE,NVB,_,_
-138-11,BO052,12-13,dal,dal,_,_,_
+138-11,BO052,12-13,dal,dal,da+il,ADP+DET,_
 138-11a,_,12,_,da,da,ADP,_
 138-11b,_,13,_,il,il,DET,_
 138-12,BO052,14,punto,punto,punto,NOUN,_
@@ -992,7 +992,7 @@
 141-9,BO052,10,li,li,li,PRON,_
 141-10,BO052,11,ho,ho,avere,AUX,_
 141-11,BO052,12,conosciuti,conosciuti,conoscere,VERB,_
-141-12,BO052,13-14,nel,nel,_,_,_
+141-12,BO052,13-14,nel,nel,in+il,ADP+DET,_
 141-12a,_,13,_,in,in,ADP,_
 141-12b,_,14,_,il,il,DET,_
 141-13,BO052,15,quartiere,quartiere,quartiere,NOUN,_
@@ -1070,19 +1070,19 @@
 155-9,BO052,10,"bici,",bici,bicicletta,NOUN,Intonation=weakly_rising
 155-10,BO052,11,"però,",però,però,ADV,Intonation=weakly_rising
 155-11,BO052,12,essendo,essendo,essere,AUX,_
-155-12,BO052,13-14,dall',dall',_,_,Truncated=Yes
+155-12,BO052,13-14,dall',dall',da+il,ADP+DET,Truncated=Yes
 155-12a,_,13,_,da,da,ADP,_
 155-12b,_,14,_,l',il,DET,_
 155-13,BO052,15,altra,altra,altro,ADJ,_
 155-14,BO052,16,parte,parte,parte,NOUN,_
-155-15,BO052,17-18,della,della,_,_,_
+155-15,BO052,17-18,della,della,di+il,ADP+DET,_
 155-15a,_,17,_,di,di,ADP,_
 155-15b,_,18,_,la,il,DET,_
 155-16,BO052,19,città,città,città,NOUN,_
 155-17,BO052,20,perché,perché,perché,SCONJ,_
 155-18,BO052,21,@nomeluogo,@nomeluogo,x,X,_
 155-19,BO052,22,è,è,essere,AUX,_
-155-20,BO052,23-24,dalla,dalla,_,_,_
+155-20,BO052,23-24,dalla,dalla,da+il,ADP+DET,_
 155-20a,_,23,_,da,da,ADP,_
 155-20b,_,24,_,la,il,DET,_
 155-21,BO052,25,parte,parte,parte,NOUN,_
@@ -1095,7 +1095,7 @@
 157-1,BO049,2,comunque,comunque,comunque,ADV,_
 157-2,BO049,3,ti,ti,ti,PRON,_
 157-3,BO049,4,piace,piace,piacere,VERB,_
-157-4,BO049,5-6,muoverti,muoverti,_,_,_
+157-4,BO049,5-6,muoverti,muoverti,muovere+ti,VERB+PRON,_
 157-4a,_,5,_,muover,muovere,VERB,_
 157-4b,_,6,_,ti,ti,PRON,_
 157-5,BO049,7,perché,perché,perché,SCONJ,_
@@ -1105,7 +1105,7 @@
 157-9,BO049,11,bici,bici,bicicletta,NOUN,_
 157-10,BO049,12,[(per,per,per,ADP,_
 157-11,BO049,13,andare),andare,andare,VERB,_
-157-12,BO049,14-15,al,al,_,_,_
+157-12,BO049,14-15,al,al,a+il,ADP+DET,_
 157-12a,_,14,_,a,a,ADP,_
 157-12b,_,15,_,il,il,DET,_
 157-13,BO049,16,campo],campo,campo,NOUN,_
@@ -1135,7 +1135,7 @@
 162-2,BO052,3,se,se,se,SCONJ,_
 162-3,BO052,4,devi,devi,dovere,AUX,_
 162-4,BO052,5,fare,fare,fare,VERB,_
-162-5,BO052,6-7,>(degli,degli,_,_,_
+162-5,BO052,6-7,>(degli,degli,di+il,ADP+DET,_
 162-5a,_,6,_,di,di,ADP,_
 162-5b,_,7,_,gli,il,DET,_
 162-6,BO052,8,spostamenti)<,spostamenti,spostamento,NOUN,_
@@ -1306,14 +1306,14 @@
 184-4,BO052,5,di,di,di,ADP,_
 184-5,BO052,6,insomma,insomma,insomma,ADV,_
 184-6,BO052,7,di,di,di,ADP,_
-184-7,BO052,8-9,metterla,metterla,_,_,_
+184-7,BO052,8-9,metterla,metterla,mettere+la,VERB+PRON,_
 184-7a,_,8,_,metter,mettere,VERB,_
 184-7b,_,9,_,la,la,PRON,_
 184-8,BO052,10,a,a,a,ADP,_
 184-9,BO052,11,posto,posto,posto,NOUN,_
 184-10,BO052,12,e,e,e,CCONJ,_
 184-11,BO052,13,di,di,di,ADP,_
-184-12,BO052,14-15,farci,farci,_,_,_
+184-12,BO052,14-15,farci,farci,fare+ci,VERB+PRON,_
 184-12a,_,14,_,far,fare,VERB,_
 184-12b,_,15,_,ci,ci,PRON,_
 184-13,BO052,16,una,una,uno,DET,_
@@ -1360,7 +1360,7 @@
 188-2,BO052,3,no,no,no,ADV,_
 188-3,BO052,4,e:h,eh,eh,INTJ,_
 188-4,BO052,5,((ride)),((ride)),NVB,NVB,_
-189-0,BO052,1-2,alla,alla,_,_,_
+189-0,BO052,1-2,alla,alla,a+il,ADP+DET,_
 189-0a,_,1,_,a,a,ADP,_
 189-0b,_,2,_,la,il,DET,_
 189-1,BO052,3,fine,fine,fine,NOUN,_
@@ -1406,12 +1406,12 @@
 191-17,BO052,18,po',po',poco,ADV,_
 191-18,BO052,19,secondo,secondo,secondo,ADP,_
 191-19,BO052,20,me,me,me,PRON,_
-191-20,BO052,21-22,"aggiornarla,",aggiornarla,_,_,Intonation=weakly_rising
+191-20,BO052,21-22,"aggiornarla,",aggiornarla,aggiornare+la,VERB+PRON,Intonation=weakly_rising
 191-20a,_,21,_,aggiornar,aggiornare,VERB,_
 191-20b,_,22,_,la,la,PRON,_
 191-21,BO052,23,però,però,però,ADV,_
 191-22,BO052,24,>insomma<,insomma,insomma,ADV,_
-192-0,BO052,1-2,ai,ai,_,_,_
+192-0,BO052,1-2,ai,ai,a+il,ADP+DET,_
 192-0a,_,1,_,a,a,ADP,_
 192-0b,_,2,_,i,il,DET,_
 192-1,BO052,3,miei,miei,mio,DET,_
@@ -1427,7 +1427,7 @@
 193-3,BO049,4,[contento,contento,contento,ADJ,_
 193-4,BO049,5,di,di,di,ADP,_
 193-5,BO049,6,vivere],vivere,vivere,VERB,_
-193-6,BO049,7-8,coi,coi,_,_,_
+193-6,BO049,7-8,coi,coi,con+il,ADP+DET,_
 193-6a,_,7,_,con,con,ADP,_
 193-6b,_,8,_,i,il,DET,_
 193-7,BO049,9,tuoi,tuoi,tuo,PRON,_
@@ -1508,7 +1508,7 @@
 208-1,BO052,2,(.),(.),PAUSE,NVB,_,_
 208-2,BO052,3,ma,ma,ma,CCONJ,_
 208-3,BO052,4,perché,perché,perché,ADV,_
-208-4,BO052,5-6,alla,alla,_,_,_
+208-4,BO052,5-6,alla,alla,a+il,ADP+DET,_
 208-4a,_,5,_,a,a,ADP,_
 208-4b,_,6,_,la,il,DET,_
 208-5,BO052,7,fine,fine,fine,NOUN,_
@@ -1522,7 +1522,7 @@
 208-13,BO052,15,studio,studio,studiare,VERB,_
 208-14,BO052,16,no::n,non,non,ADV,_
 208-15,BO052,17,insomma,insomma,insomma,ADV,_
-208-16,BO052,18-19,al,al,_,_,_
+208-16,BO052,18-19,al,al,a+il,ADP+DET,_
 208-16a,_,18,_,a,a,ADP,_
 208-16b,_,19,_,il,il,DET,_
 208-17,BO052,20,mio,mio,mio,DET,_
@@ -1552,7 +1552,7 @@
 212-4,BO052,5,italiana,italiana,italiano,ADJ,_
 212-5,BO052,6,quindi::,quindi,quindi,ADV,_
 212-6,BO052,7,andare,andare,andare,VERB,_
-212-7,BO052,8-9,all',all',_,_,Truncated=Yes
+212-7,BO052,8-9,all',all',a+il,ADP+DET,Truncated=Yes
 212-7a,_,8,_,a,a,ADP,_
 212-7b,_,9,_,l',il,DET,_
 212-8,BO052,10,estero,estero,estero,NOUN,_
@@ -1563,7 +1563,7 @@
 213-4,BO052,5,mossa,mossa,mossa,NOUN,_
 213-5,BO052,6,più,più,più,ADV,_
 213-6,BO052,7,furba,furba,furbo,ADJ,_
-213-7,BO052,8-9,del,del,_,_,_
+213-7,BO052,8-9,del,del,di+il,ADP+DET,_
 213-7a,_,8,_,di,di,ADP,_
 213-7b,_,9,_,il,il,DET,_
 213-8,BO052,10,mondo,mondo,mondo,NOUN,_
@@ -1686,11 +1686,11 @@
 229-1,BO049,2,non,non,non,ADV,_
 229-2,BO049,3,sei,sei,essere,AUX,_
 229-3,BO049,4,lontano,lontano,lontano,ADV,_
-229-4,BO049,5-6,dalla,dalla,_,_,_
+229-4,BO049,5-6,dalla,dalla,da+il,ADP+DET,_
 229-4a,_,5,_,da,da,ADP,_
 229-4b,_,6,_,la,il,DET,_
 229-5,BO049,7,stazione,stazione,stazione,NOUN,_
-229-6,BO049,8-9,alla,alla,_,_,_
+229-6,BO049,8-9,alla,alla,a+il,ADP+DET,_
 229-6a,_,8,_,a,a,ADP,_
 229-6b,_,9,_,la,il,DET,_
 229-7,BO049,10,fine::,fine,fine,NOUN,_
@@ -1823,7 +1823,7 @@
 243-5,BO052,6,conosci,conosci,conoscere,VERB,_
 243-6,BO052,7,là,là,là,ADV,_
 244-0,BO052,1,>cioè<,cioè,cioè,CCONJ,_
-244-1,BO052,2-3,all',all',_,_,Truncated=Yes
+244-1,BO052,2-3,all',all',a+il,ADP+DET,Truncated=Yes
 244-1a,_,2,_,a,a,ADP,_
 244-1b,_,3,_,l',il,DET,_
 244-2,BO052,4,"università,",università,università,NOUN,Intonation=weakly_rising
@@ -1877,7 +1877,7 @@
 247-2,BO052,3,una,una,uno,DET,_
 247-3,BO052,4,realtà,realtà,realtà,NOUN,_
 247-4,BO052,5,diversa,diversa,diverso,ADJ,_
-247-5,BO052,6-7,dalla,dalla,_,_,_
+247-5,BO052,6-7,dalla,dalla,da+il,ADP+DET,_
 247-5a,_,6,_,da,da,ADP,_
 247-5b,_,7,_,la,il,DET,_
 247-6,BO052,8,mia.,mia,mio,DET,Intonation=falling
@@ -1945,7 +1945,7 @@
 251-9,BO052,10,non,non,non,ADV,_
 251-10,BO052,11,mi,mi,mi,PRON,_
 251-11,BO052,12,cioè,cioè,cioè,CCONJ,_
-251-12,BO052,13-14,>nel,nel,_,_,_
+251-12,BO052,13-14,>nel,nel,in+il,ADP+DET,_
 251-12a,_,13,_,in,in,ADP,_
 251-12b,_,14,_,il,il,DET,_
 251-13,BO052,15,senso<,senso,senso,NOUN,_
@@ -1971,7 +1971,7 @@
 252-8,BO049,9,"ordinata::,",ordinata,ordinato,ADJ,Intonation=weakly_rising
 252-9,BO049,10,"[educata::],",educata,educato,ADJ,Intonation=weakly_rising
 252-10,BO049,11,rispettosa,rispettosa,rispettoso,ADJ,_
-252-11,BO049,12-13,[degli,degli,_,_,_
+252-11,BO049,12-13,[degli,degli,di+il,ADP+DET,_
 252-11a,_,12,_,di,di,ADP,_
 252-11b,_,13,_,gli,il,DET,_
 252-12,BO049,14,altri]?,altri,altro,PRON,Intonation=rising
@@ -1986,7 +1986,7 @@
 254-7,BO052,8,più,più,più,ADV,_
 254-8,BO052,9,in,in,in,ADP,_
 254-9,BO052,10,ordine,ordine,ordine,NOUN,_
-254-10,BO052,11-12,della,della,_,_,_
+254-10,BO052,11-12,della,della,di+il,ADP+DET,_
 254-10a,_,11,_,di,di,ADP,_
 254-10b,_,12,_,la,il,DET,_
 254-11,BO052,13,"casa,",casa,casa,NOUN,Intonation=weakly_rising
@@ -2117,18 +2117,18 @@
 273-2,BO049,3,in,in,in,ADP,_
 273-3,BO049,4,fut]uro,futuro,futuro,NOUN,_
 273-4,BO049,5,anche,anche,anche,ADV,_
-273-5,BO049,6-7,al,al,_,_,_
+273-5,BO049,6-7,al,al,a+il,ADP+DET,_
 273-5a,_,6,_,a,a,ADP,_
 273-5b,_,7,_,il,il,DET,_
 273-6,BO049,8,di,di,di,ADP,_
 273-7,BO049,9,là,là,là,ADV,_
-273-8,BO049,10-11,dell',dell',_,_,Truncated=Yes
+273-8,BO049,10-11,dell',dell',di+il,ADP+DET,Truncated=Yes
 273-8a,_,10,_,di,di,ADP,_
 273-8b,_,11,_,l',il,DET,_
 273-9,BO049,12,università,università,università,NOUN,_
 274-0,BO052,1,no,no,no,ADV,_
 274-1,BO052,2,ma,ma,ma,CCONJ,_
-274-2,BO052,3-4,coi,coi,_,_,_
+274-2,BO052,3-4,coi,coi,con+il,ADP+DET,_
 274-2a,_,3,_,con,con,ADP,_
 274-2b,_,4,_,i,il,DET,_
 274-3a,BO052,5,miei::>coi,miei,mio,DET,_
@@ -2169,7 +2169,7 @@
 277-6,BO052,7,comunque],comunque,comunque,ADV,_
 277-7,BO052,8,riescono,riescono,riuscire,VERB,_
 277-8,BO052,9,a,a,a,ADP,_
-277-9,BO052,10-11,mantene:rsi,mantenersi,_,_,_
+277-9,BO052,10-11,mantene:rsi,mantenersi,mantenere+si,VERB+PRON,_
 277-9a,_,10,_,mantener,mantenere,VERB,_
 277-9b,_,11,_,si,si,PRON,_
 277-10,BO052,12,cioè,cioè,cioé,CCONJ,_
@@ -2246,7 +2246,7 @@
 285-1,BO052,2,andare,andare,andare,VERB,_
 285-2,BO052,3,in,in,in,ADP,_
 285-3,BO052,4,campagna,campagna,campagna,NOUN,_
-285-4,BO052,5-6,coi,coi,_,_,_
+285-4,BO052,5-6,coi,coi,con+il,ADP+DET,_
 285-4a,_,5,_,con,con,ADP,_
 285-4b,_,6,_,i,il,DET,_
 285-5,BO052,7,miei,miei,mio,DET,_
@@ -2277,7 +2277,7 @@
 292-0,BO049,1,[e,e,e,CCONJ,_
 292-1,BO049,2,com',com',come,SCONJ,Truncated=Yes
 292-2,BO049,3,è::],è,essere,AUX,_
-293-0,BO052,1-2,[alla,alla,_,_,_
+293-0,BO052,1-2,[alla,alla,a+il,ADP+DET,_
 293-0a,_,1,_,a,a,ADP,_
 293-0b,_,2,_,la,il,DET,_
 293-1,BO052,3,fine],fine,fine,NOUN,_
@@ -2300,7 +2300,7 @@
 296-6,BO049,7,casa,casa,casa,NOUN,_
 296-7,BO049,8,norma::le,normale,normale,ADJ,_
 296-8,BO049,9,[cioè,cioè,cioè,CCONJ,_
-296-9,BO049,10-11,col,col,_,_,_
+296-9,BO049,10-11,col,col,con+il,ADP+DET,_
 296-9a,_,10,_,con,con,ADP,_
 296-9b,_,11,_,il,il,DET,_
 296-10,BO049,12,gardi::no::],gardino,gardino,NOUN,_
@@ -2361,7 +2361,7 @@
 299-29,BO052,30,è,è,essere,AUX,_
 299-30,BO052,31,una,una,uno,DET,_
 299-31,BO052,32,casa],casa,casa,NOUN,_
-299-32,BO052,33-34,col,col,_,_,_
+299-32,BO052,33-34,col,col,con+il,ADP+DET,_
 299-32a,_,33,_,con,con,ADP,_
 299-32b,_,34,_,il,il,DET,_
 299-33,BO052,35,soffitto,soffitto,soffitto,NOUN,_
@@ -2416,7 +2416,7 @@
 309-9,BO049,10,la,la,il,DET,_
 309-10,BO049,11,campagna:,campagna,campagna,NOUN,_
 309-11,BO049,12,lontano,lontano,lontano,ADJ,_
-309-12,BO049,13-14,dal,dal,_,_,_
+309-12,BO049,13-14,dal,dal,da+il,ADP+DET,_
 309-12a,_,13,_,da,da,ADP,_
 309-12b,_,14,_,il,il,DET,_
 309-13,BO049,15,[ce:ntro],centro,centro,NOUN,_
@@ -2487,7 +2487,7 @@
 319-6,BO052,7,con,con,con,ADP,_
 319-7,BO052,8,dei~,dei~,x,X,Interrupted=Yes
 319-8,BO052,9,>cioè,cioè,cioè,CCONJ,_
-319-9,BO052,10-11,(nel),nel,_,_,_
+319-9,BO052,10-11,(nel),nel,in+il,ADP+DET,_
 319-9a,_,10,_,in,in,ADP,_
 319-9b,_,11,_,il,il,DET,_
 319-10,BO052,12,senso<,senso,senso,NOUN,_
@@ -2509,7 +2509,7 @@
 322-7,BO049,8,ca:mper,camper,camper,NOUN,_
 323-0,BO052,1,no,no,no,ADV,_
 323-1,BO052,2,ma,ma,ma,CCONJ,_
-323-2,BO052,3-4,alla,alla,_,_,_
+323-2,BO052,3-4,alla,alla,a+il,ADP+DET,_
 323-2a,_,3,_,a,a,ADP,_
 323-2b,_,4,_,la,il,DET,_
 323-3,BO052,5,fine,fine,fine,NOUN,_
@@ -2518,7 +2518,7 @@
 323-6,BO052,8,adatto,adatto,adattare,ADJ,_
 323-7,BO052,9,molto,molto,molto,ADV,_
 323-8,BO052,10,>cioè<,cioè,cioè,CCONJ,_
-323-9,BO052,11-12,alle,alle,_,_,_
+323-9,BO052,11-12,alle,alle,a+il,ADP+DET,_
 323-9a,_,11,_,a,a,ADP,_
 323-9b,_,12,_,le,il,DET,_
 323-10,BO052,13,situazioni,situazioni,situazione,NOUN,_
@@ -2565,7 +2565,7 @@
 328-4,BO052,5,si,si,si,PRON,_
 328-5,BO052,6,>vive<,vive,vivere,VERB,_
 328-6,BO052,7,bene,bene,bene,ADV,_
-328-7,BO052,8-9,alla,alla,_,_,_
+328-7,BO052,8-9,alla,alla,a+il,ADP+DET,_
 328-7a,_,8,_,a,a,ADP,_
 328-7b,_,9,_,la,il,DET,_
 328-8,BO052,10,fine,fine,fine,NOUN,_
@@ -2608,7 +2608,7 @@
 334-6,BO052,7,riesci,riesci,riuscire,VERB,_
 334-7,BO052,8,anche,anche,anche,ADV,_
 334-8,BO052,9,a,a,a,ADP,_
-334-9,BO052,10,trovarti::,trovarti,_,_,_
+334-9,BO052,10,trovarti::,trovarti,trovare+ti,VERB+PRON,_
 334-9a,_,,_,trovar,trovare,VERB,
 334-9b,_,,_,ti,ti,PRON,
 334-10,BO052,11,il,il,il,DET,_
@@ -2622,7 +2622,7 @@
 334-18,BO052,19,star,star,stare,VERB,_
 334-19,BO052,20,là,là,là,ADV,_
 334-20,BO052,21,>cioè,cioè,cioè,CCONJ,_
-334-21,BO052,22-23,nel,nel,_,_,_
+334-21,BO052,22-23,nel,nel,in+il,ADP+DET,_
 334-21a,_,22,_,in,in,ADP,_
 334-21b,_,23,_,il,il,DET,_
 334-22,BO052,24,senso<,senso,senso,NOUN,_
@@ -2762,7 +2762,7 @@
 347-5,BO049,6,o,o,o,CCONJ,_
 347-6,BO049,7,men~,men~,x,X,Interrupted=Yes
 347-7,BO049,8,comunque,comunque,comunque,ADV,_
-347-8,BO049,9-10,alla,alla,_,_,_
+347-8,BO049,9-10,alla,alla,a+il,ADP+DET,_
 347-8a,_,9,_,a,a,ADP,_
 347-8b,_,10,_,la,il,DET,_
 347-9,BO049,11,fine,fine,fine,NOUN,_
@@ -2798,7 +2798,7 @@
 349-0,BO052,1,però,però,però,ADV,_
 349-1,BO052,2,cioè,cioè,cioè,CCONJ,_
 349-2,BO052,3,@nomeluogo,@nomeluogo,x,X,_
-349-3,BO052,4-5,alla,alla,_,_,_
+349-3,BO052,4-5,alla,alla,a+il,ADP+DET,_
 349-3a,_,4,_,a,a,ADP,_
 349-3b,_,5,_,la,il,DET,_
 349-4,BO052,6,fine,fine,fine,NOUN,_
@@ -2833,7 +2833,7 @@
 350-6,BO052,7,un,un,uno,DET,_
 350-7,BO052,8,po',po',poco,ADV,_
 350-8,BO052,9,per,per,per,ADP,_
-350-9,BO052,10-11,girarlo,girarlo,_,_,_
+350-9,BO052,10-11,girarlo,girarlo,girare+lo,VERB+PRON,_
 350-9a,_,10,_,girar,girare,VERB,_
 350-9b,_,11,_,lo,lo,PRON,_
 350-10,BO052,12,(.),(.),PAUSE,NVB,_,_
@@ -2911,7 +2911,7 @@
 362-4,BO052,5,terra~,terra~,x,X,Interrupted=Yes
 362-5,BO052,6,io,io,io,PRON,_
 362-6,BO052,7,abito,abito,abitare,VERB,_
-362-7,BO052,8-9,al,al,_,_,_
+362-7,BO052,8-9,al,al,a+il,ADP+DET,_
 362-7a,_,8,_,a,a,ADP,_
 362-7b,_,9,_,il,il,DET,_
 362-8,BO052,10,secondo,secondo,secondo,ADJ,_
@@ -2937,7 +2937,7 @@
 364-12,BO052,13,troppo,troppo,troppo,ADV,_
 365-0,BO049,1,hai,hai,avere,VERB,_
 365-1,BO049,2,paura,paura,paura,NOUN,_
-365-2,BO049,3-4,dei,dei,_,_,_
+365-2,BO049,3-4,dei,dei,di+il,ADP+DET,_
 365-2a,_,3,_,di,di,ADP,_
 365-2b,_,4,_,i,il,DET,_
 365-3,BO049,5,ladri?,ladri,ladro,NOUN,Intonation=rising
@@ -2945,7 +2945,7 @@
 366-1,BO052,2,non,non,non,ADV,_
 366-2,BO052,3,ho,ho,avere,VERB,_
 366-3,BO052,4,paura,paura,paura,NOUN,_
-366-4,BO052,5-6,dei,dei,_,_,_
+366-4,BO052,5-6,dei,dei,di+il,ADP+DET,_
 366-4a,_,5,_,di,di,ADP,_
 366-4b,_,6,_,i,il,DET,_
 366-5,BO052,7,ladri,ladri,ladro,NOUN,_
@@ -2961,7 +2961,7 @@
 367-8,BO052,9,abituato,abituato,abituare,VERB,_
 367-9,BO052,10,a,a,a,ADP,_
 367-10,BO052,11,vivere,vivere,vivere,VERB,_
-367-11,BO052,12-13,al,al,_,_,_
+367-11,BO052,12-13,al,al,a+il,ADP+DET,_
 367-11a,_,12,_,a,a,ADP,_
 367-11b,_,13,_,il,il,DET,_
 367-12,BO052,14,secondo,secondo,secondo,ADJ,_
@@ -3140,7 +3140,7 @@
 388-12,BO052,13,è,è,essere,AUX,_
 388-13,BO052,14,chiaro,chiaro,chiaro,ADJ,_
 388-14,BO052,15,che,che,che,SCONJ,_
-388-15,BO052,16-17,trovarsi:::,trovarsi,_,_,_
+388-15,BO052,16-17,trovarsi:::,trovarsi,trovare+si,VERB+PRON,_
 388-15a,_,16,_,trovar,trovare,VERB,_
 388-15b,_,17,_,si,si,PRON,_
 389-0,BO052,1,insomma,insomma,insomma,ADV,_
@@ -3158,7 +3158,7 @@
 389-12,BO052,13,troviamo,troviamo,trovare,VERB,_
 389-13,BO052,14,una,una,uno,DET,_
 389-14,BO052,15,volta,volta,volta,NOUN,_
-389-15,BO052,16-17,al,al,_,_,_
+389-15,BO052,16-17,al,al,a+il,ADP+DET,_
 389-15a,_,16,_,a,a,ADP,_
 389-15b,_,17,_,il,il,DET,_
 389-16,BO052,18,mese,mese,mese,NOUN,_
@@ -3202,7 +3202,7 @@
 394-7,BO052,8,[],x,x,X,_
 394-8,BO052,9,giù,giù,giù,ADV,_
 394-9,BO052,10,perché,perché,perché,SCONJ,_
-394-10,BO052,11-12,alla,alla,_,_,_
+394-10,BO052,11-12,alla,alla,a+il,ADP+DET,_
 394-10a,_,11,_,a,a,ADP,_
 394-10b,_,12,_,la,il,DET,_
 394-11,BO052,13,fine,fine,fine,NOUN,_
@@ -3396,7 +3396,7 @@
 416-6,BO052,7,con,con,con,ADP,_
 416-7,BO052,8,i,i,il,DET,_
 416-8,BO052,9,miei,miei,mio,PRON,_
-416-9,BO052,10-11,coi,coi,_,_,_
+416-9,BO052,10-11,coi,coi,con+il,ADP+DET,_
 416-9a,_,10,_,con,con,ADP,_
 416-9b,_,11,_,i,il,DET,_
 416-10,BO052,12,miei,miei,mio,DET,_
@@ -3460,7 +3460,7 @@
 421-13,BO052,14,lotta,lotta,lotta,NOUN,_
 421-14,BO052,15,per:,per,per,ADP,_
 421-15,BO052,16,per,per,per,ADP,_
-421-16,BO052,17-18,accaparrarsi,accaparrarsi,_,_,_
+421-16,BO052,17-18,accaparrarsi,accaparrarsi,accaparrare+si,VERB+PRON,_
 421-16a,_,17,_,accaparrar,accaparrare,VERB,_
 421-16b,_,18,_,si,si,PRON,_
 421-17,BO052,19,il,il,il,DET,_
@@ -3493,7 +3493,7 @@
 424-5,BO049,6,"pulire,",pulire,pulire,VERB,Intonation=weakly_rising
 424-6,BO049,7,o,o,o,CCONJ,_
 424-7,BO049,8,cose,cose,cosa,NOUN,_
-424-8,BO049,9-10,del,del,_,_,_
+424-8,BO049,9-10,del,del,di+il,ADP+DET,_
 424-8a,_,9,_,di,di,ADP,_
 424-8b,_,10,_,il,il,DET,_
 424-9,BO049,11,genere,genere,genere,NOUN,_
@@ -3541,7 +3541,7 @@
 427-10,BO052,11,a,a,a,ADP,_
 427-11,BO052,12,"crotone,",crotone,Crotone,PROPN,Intonation=weakly_rising
 427-12,BO052,13,giù,giù,giù,ADV,_
-427-13,BO052,14-15,dal,dal,_,_,_
+427-13,BO052,14-15,dal,dal,da+il,ADP+DET,_
 427-13a,_,14,_,da,da,ADP,_
 427-13b,_,15,_,il,il,DET,_
 427-14,BO052,16,mio,mio,mio,DET,_
@@ -3622,7 +3622,7 @@
 432-27,BO052,28,"così,",così,così,ADV,Intonation=weakly_rising
 433-0,BO049,1,[sì],sì,sì,ADV,_
 434-0,BO052,1,però,però,però,ADV,_
-434-1,BO052,2-3,alla,alla,_,_,_
+434-1,BO052,2-3,alla,alla,a+il,ADP+DET,_
 434-1a,_,2,_,a,a,ADP,_
 434-1b,_,3,_,la,il,DET,_
 434-2,BO052,4,fine,fine,fine,NOUN,_
@@ -3682,7 +3682,7 @@
 439-13,BO052,14,però,però,però,ADV,_
 439-14,BO052,15,litigano,litigano,litigare,VERB,_
 439-15,BO052,16,più,più,più,ADV,_
-439-16,BO052,17-18,sulle,sulle,_,_,_
+439-16,BO052,17-18,sulle,sulle,su+il,ADP+DET,_
 439-16a,_,17,_,su,su,ADP,_
 439-16b,_,18,_,le,il,DET,_
 439-17,BO052,19,cose,cose,cosa,NOUN,_
@@ -3698,7 +3698,7 @@
 441-2,BO052,3,su,su,su,ADP,_
 441-3,BO052,4,cosa,cosa,cosa,PRON,_
 441-4,BO052,5,mangiare,mangiare,mangiare,VERB,_
-441-4a,BO052,,o,o,o,CCONJ,
+441-19,BO052,,o,o,o,CCONJ,
 441-5,BO052,6,su,su,su,ADV,_
 441-6,BO052,7,cioè,cioè,cioè,CCONJ,_
 441-7,BO052,8,più,più,più,ADV,_
@@ -3918,7 +3918,7 @@
 459-12,BO052,13,faceva,faceva,fare,VERB,_
 459-13,BO052,14,fatica,fatica,fatica,NOUN,_
 459-14,BO052,15,ad,ad,a,ADP,_
-459-15,BO052,16-17,alzarsi,alzarsi,_,_,_
+459-15,BO052,16-17,alzarsi,alzarsi,alzare+si,VERB+PRON,_
 459-15a,_,16,_,alzar,alzare,VERB,_
 459-15b,_,17,_,si,si,PRON,_
 459-16,BO052,18,tutte,tutte,tutto,DET,_
@@ -3938,7 +3938,7 @@
 460-11,BO052,12,magari,magari,magari,ADV,_
 460-12,BO052,13,tu,tu,tu,PRON,_
 460-13,BO052,14,vuoi,vuoi,volere,AUX,_
-460-14,BO052,15-16,svegliarti,svegliarti,_,_,_
+460-14,BO052,15-16,svegliarti,svegliarti,svegliare+ti,VERB+PRON,_
 460-14a,_,15,_,svegliar,svegliare,VERB,_
 460-14b,_,16,_,ti,ti,PRON,_
 460-15,BO052,17,presto,presto,presto,ADV,_
@@ -4119,7 +4119,7 @@
 473-33,BO052,34,non,non,non,ADV,_
 473-34,BO052,35,riuscivano,riuscivano,riuscire,VERB,_
 473-35,BO052,36,a,a,a,ADP,_
-473-36,BO052,37-38,stargli,stargli,_,_,_
+473-36,BO052,37-38,stargli,stargli,stare+gli,VERB+PRON,_
 473-36a,_,37,_,star,stare,VERB,_
 473-36b,_,38,_,gli,gli,PRON,_
 473-37,BO052,39,"dietro,",dietro,dietro,ADV,Intonation=weakly_rising
@@ -4149,7 +4149,7 @@
 477-1,BO052,2,il,il,il,DET,_
 477-2,BO052,3,resto,resto,resto,NOUN,_
 477-3,BO052,4,no,no,no,ADV,_
-477-4,BO052,5-6,alla,alla,_,_,_
+477-4,BO052,5-6,alla,alla,a+il,ADP+DET,_
 477-4a,_,5,_,a,a,ADP,_
 477-4b,_,6,_,la,il,DET,_
 477-5,BO052,7,fine,fine,fine,NOUN,_
@@ -4196,7 +4196,7 @@
 483-10,BO052,11,tropea,tropea,Tropea,PROPN,_
 484-0,BO049,1,ah,ah,ah,INTJ,_
 484-1,BO049,2,[quindi,quindi,quindi,ADV,_
-484-2,BO049,3-4,alla,alla,_,_,_
+484-2,BO049,3-4,alla,alla,a+il,ADP+DET,_
 484-2a,_,3,_,a,a,ADP,_
 484-2b,_,4,_,la,il,DET,_
 484-3,BO049,5,fine,fine,fine,NOUN,_
@@ -4234,7 +4234,7 @@
 489-5,BO052,6,la,la,il,DET,_
 489-6,BO052,7,spiaggia,spiaggia,spiaggia,NOUN,_
 489-7,BO052,8,era::,era::,essere,AUX,_
-489-7a,BO052,,cioè,cioè,cioè,CCONJ,
+489-15,BO052,,cioè,cioè,cioè,CCONJ,
 489-8,BO052,9,non,non,non,ADV,_
 489-9,BO052,10,c',c',ci,PRON,Truncated=Yes
 489-10,BO052,11,era,era,essere,VERB,_
@@ -4265,7 +4265,7 @@
 490-20,BO052,21,più::,più,più,ADV,_
 490-21,BO052,22,più,più,più,ADV,_
 490-22,BO052,23,bello,bello,bello,ADJ,_
-490-23,BO052,24-25,della,della,_,_,_
+490-23,BO052,24-25,della,della,di+il,ADP+DET,_
 490-23a,_,24,_,di,di,ADP,_
 490-23b,_,25,_,la,il,DET,_
 490-24,BO052,26,vacanza,vacanza,vacanza,NOUN,_
@@ -4282,16 +4282,16 @@
 493-3,BO052,4,comunque,comunque,comunque,ADV,_
 493-4,BO052,5,insomma,insomma,insomma,ADV,_
 493-5,BO052,6,xxx,x,x,X,_
-493-6,BO052,7-8,dalla,dalla,_,_,_
+493-6,BO052,7-8,dalla,dalla,da+il,ADP+DET,_
 493-6a,_,7,_,da,da,ADP,_
 493-6b,_,8,_,la,il,DET,_
 493-7,BO052,9,bellezza,bellezza,bellezza,NOUN,_
-493-8,BO052,10-11,della,della,_,_,_
+493-8,BO052,10-11,della,della,di+il,ADP+DET,_
 493-8a,_,10,_,di,di,ADP,_
 493-8b,_,11,_,la,il,DET,_
 493-9,BO052,12,spiaggia,spiaggia,spiaggia,NOUN,_
 493-10,BO052,13,e::,e,e,CCONJ,_
-493-11,BO052,14-15,del,del,_,_,_
+493-11,BO052,14-15,del,del,di+il,ADP+DET,_
 493-11a,_,14,_,di,di,ADP,_
 493-11b,_,15,_,il,il,DET,_
 493-12,BO052,16,posto::.,posto,posto,NOUN,Intonation=falling
@@ -4334,7 +4334,7 @@
 500-4,BO052,5,(.),(.),PAUSE,NVB,_,_
 500-5,BO052,6,e::h,eh,eh,INTJ,_
 500-6,BO052,7,anche,anche,anche,ADV,_
-500-7,BO052,8-9,alla,alla,_,_,_
+500-7,BO052,8-9,alla,alla,a+il,ADP+DET,_
 500-7a,_,8,_,a,a,ADP,_
 500-7b,_,9,_,la,il,DET,_
 500-8,BO052,10,cena~,cena~,x,X,Interrupted=Yes
@@ -4458,7 +4458,7 @@
 513-8,BO049,9,[questa,questa,questo,DET,_
 513-9,BO049,10,sessione]?,sessione,sessione,NOUN,Intonation=rising
 514-0,BO052,1,[dovrei,dovrei,dovere,AUX,_
-514-1,BO052,2,darne,darne,_,_,_
+514-1,BO052,2,darne,darne,dare+ne,VERB+PRON,_
 514-1a,_,,_,dar,dare,VERB,
 514-1b,_,,_,ne,ne,PRON,
 514-2,BO052,3,"due],",due,due,NUM,Intonation=weakly_rising
@@ -4474,7 +4474,7 @@
 515-9,BO052,10,perché,perché,perché,SCONJ,_
 515-10,BO052,11,riusciamo,riusciamo,riuscire,VERB,_
 515-11,BO052,12,a,a,a,ADP,_
-515-12,BO052,13-14,darli,darli,_,_,_
+515-12,BO052,13-14,darli,darli,dare+li,VERB+PRON,_
 515-12a,_,13,_,dar,dare,VERB,_
 515-12b,_,14,_,li,li,PRON,_
 515-13,BO052,15,anche,anche,anche,ADV,_
@@ -4495,19 +4495,19 @@
 517-2,BO049,3,anche),anche,anche,ADV,_
 517-3,BO049,4,rimandare],rimandare,rimandare,VERB,_
 518-0,BO052,1,[quindi,quindi,quindi,ADV,_
-518-1,BO052,2-3,alla,alla,_,_,_
+518-1,BO052,2-3,alla,alla,a+il,ADP+DET,_
 518-1a,_,2,_,a,a,ADP,_
 518-1b,_,3,_,la,il,DET,_
 518-2,BO052,4,fine,fine,fine,NOUN,_
 518-3,BO052,5,se,se,se,SCONJ,_
 518-4,BO052,6,uno,uno,uno,PRON,_
 518-5,BO052,7,vuole],vuole,volere,AUX,_
-518-6,BO052,8-9,impegna:rsi,impegnarsi,_,_,_
+518-6,BO052,8-9,impegna:rsi,impegnarsi,impegnare+si,VERB+PRON,_
 518-6a,_,8,_,impegnar,impegnare,VERB,_
 518-6b,_,9,_,si,si,PRON,_
 518-7,BO052,10,riesce,riesce,riuscire,VERB,_
 518-8,BO052,11,a,a,a,ADP,_
-518-9,BO052,12-13,darli:,darli,_,_,_
+518-9,BO052,12-13,darli:,darli,dare+li,VERB+PRON,_
 518-9a,_,12,_,dar,dare,VERB,_
 518-9b,_,13,_,li,li,PRON,_
 519-0,BO052,1,cioè,cioè,cioè,CCONJ,_
@@ -4626,7 +4626,7 @@
 536-12,BO052,13,insomma,insomma,insomma,ADV,_
 536-13,BO052,14,fuori,fuori,fuori,ADV,_
 536-14,BO052,15,proprio,proprio,proprio,ADV,_
-536-15,BO052,16-17,dalla,dalla,_,_,_
+536-15,BO052,16-17,dalla,dalla,da+il,ADP+DET,_
 536-15a,_,16,_,da,da,ADP,_
 536-15b,_,17,_,la,il,DET,_
 536-16,BO052,18,@nomeluogo,@nomeluogo,x,PROPN,_
@@ -4660,7 +4660,7 @@
 541-9,BO052,10,il,il,il,DET,_
 541-10,BO052,11,fie:no,fieno,fieno,NOUN,_
 541-11,BO052,12,mhmh,mhmh,mhmh,INTJ,_
-542-0,BO049,1-2,[dei,dei,_,_,_
+542-0,BO049,1-2,[dei,dei,di+il,ADP+DET,_
 542-0a,_,1,_,di,di,ADP,_
 542-0b,_,2,_,i,il,DET,_
 542-1,BO049,3,contadini],contadini,contadino,NOUN,_
@@ -4683,7 +4683,7 @@
 546-3,BO052,4,sono~,sono~,x,X,Interrupted=Yes
 546-4,BO052,5,[cioè,cioè,cioé,CCONJ,_
 546-5,BO052,6,corro,corro,correre,VERB,_
-546-6,BO052,7-8,sugli,sugli,_,_,_
+546-6,BO052,7-8,sugli,sugli,su+il,ADP+DET,_
 546-6a,_,7,_,su,su,ADP,_
 546-6b,_,8,_,gli,il,DET,_
 546-7,BO052,9,a]::rgini::,argini,argine,NOUN,_
@@ -4735,7 +4735,7 @@
 551-19,BO052,20,tutta,tutta,tutto,DET,_
 551-20,BO052,21,questa,questa,questo,DET,_
 551-21,BO052,22,[paura],paura,paura,NOUN,_
-551-22,BO052,23-24,al,al,_,_,_
+551-22,BO052,23-24,al,al,a+il,ADP+DET,_
 551-22a,_,23,_,a,a,ADP,_
 551-22b,_,24,_,il,il,DET,_
 551-23,BO052,25,massimo::,massimo,massimo,ADJ,_
@@ -4777,7 +4777,7 @@
 557-2,BO052,3,sento,sento,sentire,VERB,_
 557-3,BO052,4,i,i,il,DET,_
 557-4,BO052,5,rumori,rumori,rumore,NOUN,_
-557-5,BO052,6-7,delle,delle,_,_,_
+557-5,BO052,6-7,delle,delle,di+il,ADP+DET,_
 557-5a,_,6,_,di,di,ADP,_
 557-5b,_,7,_,le,il,DET,_
 557-6,BO052,8,"macchine,",macchine,macchina,NOUN,Intonation=weakly_rising
@@ -4785,7 +4785,7 @@
 558-1,BO052,2,sento,sento,sentire,VERB,_
 558-2,BO052,3,i,i,il,DET,_
 558-3,BO052,4,rumori,rumori,rumore,NOUN,_
-558-4,BO052,5-6,della,della,_,_,_
+558-4,BO052,5-6,della,della,di+il,ADP+DET,_
 558-4a,_,5,_,di,di,ADP,_
 558-4b,_,6,_,la,il,DET,_
 558-5,BO052,7,"città,",città,città,NOUN,Intonation=weakly_rising
@@ -4796,7 +4796,7 @@
 559-4,BO052,5,dire,dire,dire,VERB,_
 559-5,BO052,6,ma,ma,ma,CCONJ,_
 559-6,BO052,7,anche,anche,anche,ADV,_
-559-7,BO052,8-9,nel,nel,_,_,_
+559-7,BO052,8-9,nel,nel,in+il,ADP+DET,_
 559-7a,_,8,_,in,in,ADP,_
 559-7b,_,9,_,il,il,DET,_
 559-8,BO052,10,mio,mio,mio,DET,_
@@ -4810,7 +4810,7 @@
 559-16,BO052,18,operosi,operosi,operoso,ADJ,_
 560-0,BO052,1,quindi,quindi,quindi,ADV,_
 560-1,BO052,2,tu,tu,tu,PRON,_
-560-2,BO052,3-4,alla,alla,_,_,_
+560-2,BO052,3-4,alla,alla,a+il,ADP+DET,_
 560-2a,_,3,_,a,a,ADP,_
 560-2b,_,4,_,la,il,DET,_
 560-3,BO052,5,mattina,mattina,mattina,NOUN,_
@@ -4824,7 +4824,7 @@
 560-11,BO052,13,taglia,taglia,tagliare,VERB,_
 560-12,BO052,14,la,la,il,DET,_
 560-13,BO052,15,siepe,siepe,siepe,NOUN,_
-560-14,BO052,16-17,de::l,del,_,_,_
+560-14,BO052,16-17,de::l,del,di+il,ADP+DET,_
 560-14a,_,16,_,di,di,ADP,_
 560-14b,_,17,_,il,il,DET,_
 560-15,BO052,18,(.),(.),PAUSE,NVB,_,_
@@ -4891,7 +4891,7 @@
 566-4,BO052,6,"insomma,",insomma,insomma,ADV,Intonation=weakly_rising
 566-5,BO052,7,(.),(.),PAUSE,NVB,_,_
 566-6,BO052,8,sono,sono,essere,AUX,_
-566-7,BO052,9-10,al,al,_,_,_
+566-7,BO052,9-10,al,al,a+il,ADP+DET,_
 566-7a,_,9,_,a,a,ADP,_
 566-7b,_,10,_,il,il,DET,_
 566-8,BO052,11,secondo,secondo,secondo,ADJ,_
@@ -4916,7 +4916,7 @@
 568-5,BO052,6,a,a,a,ADP,_
 568-6,BO052,7,correre,correre,correre,VERB,_
 568-7,BO052,8,fuori,fuori,fuori,ADV,_
-568-8,BO052,9-10,dalla,dalla,_,_,_
+568-8,BO052,9-10,dalla,dalla,da+il,ADP+DET,_
 568-8a,_,9,_,da,da,ADP,_
 568-8b,_,10,_,la,il,DET,_
 568-9,BO052,11,città,città,città,NOUN,_
@@ -4928,7 +4928,7 @@
 569-3,BO049,4,(.),(.),PAUSE,NVB,_,_
 569-4,BO049,5,spazio],spazio,spazio,NOUN,_
 570-0,BO052,1,[per,per,per,ADP,_
-570-1,BO052,2,rilassarmi],rilassarmi,_,_,_
+570-1,BO052,2,rilassarmi],rilassarmi,rilassare+mi,VERB+PRON,_
 570-1a,_,,_,rilassar,rilassare,VERB,
 570-1b,_,,_,mi,mi,PRON,
 570-2,BO052,3,anche,anche,anche,ADV,_
@@ -4979,7 +4979,7 @@
 576-2,BO052,3,è,è,essere,AUX,_
 576-3,BO052,4,in,in,in,ADP,_
 576-4,BO052,5,fondo,fondo,fondo,NOUN,_
-576-5,BO052,6-7,alla,alla,_,_,_
+576-5,BO052,6-7,alla,alla,a+il,ADP+DET,_
 576-5a,_,6,_,a,a,ADP,_
 576-5b,_,7,_,la,il,DET,_
 576-6,BO052,8,"strada,",strada,strada,NOUN,Intonation=weakly_rising
@@ -5007,7 +5007,7 @@
 578-13,BO052,14,sono,sono,essere,VERB,_
 578-14,BO052,15,(ogni,ogni,ogni,DET,_
 578-15,BO052,16,ora),ora,ora,NOUN,_
-578-16,BO052,17-18,alla,alla,_,_,_
+578-16,BO052,17-18,alla,alla,a+il,ADP+DET,_
 578-16a,_,17,_,a,a,ADP,_
 578-16b,_,18,_,la,il,DET,_
 578-17,BO052,19,fine,fine,fine,NOUN,_
@@ -5027,7 +5027,7 @@
 579-11,BO052,12,è,è,essere,AUX,_
 579-12,BO052,13,cresciuto,cresciuto,crescere,VERB,_
 579-13,BO052,14,molto,molto,molto,ADV,_
-579-14,BO052,15-16,negli,negli,_,_,_
+579-14,BO052,15-16,negli,negli,in+il,ADP+DET,_
 579-14a,_,15,_,in,in,ADP,_
 579-14b,_,16,_,gli,il,DET,_
 579-15,BO052,17,ultimi,ultimi,ultimo,ADJ,_
@@ -5224,12 +5224,12 @@
 604-6,BO052,7,ci,ci,ci,PRON,_
 604-7,BO052,8,troviamo::,troviamo,trovare,VERB,_
 604-8,BO052,9,o,o,o,CCONJ,_
-604-9,BO052,10-11,al,al,_,_,_
+604-9,BO052,10-11,al,al,a+il,ADP+DET,_
 604-9a,_,10,_,a,a,ADP,_
 604-9b,_,11,_,il,il,DET,_
 604-10,BO052,12,corso,corso,corso,NOUN,_
 604-11,BO052,13,o,o,o,CCONJ,_
-604-12,BO052,14-15,al,al,_,_,_
+604-12,BO052,14-15,al,al,a+il,ADP+DET,_
 604-12a,_,14,_,a,a,ADP,_
 604-12b,_,15,_,il,il,DET,_
 604-13,BO052,16,xx,x,x,X,_
@@ -5276,7 +5276,7 @@
 610-9,BO052,10,è,è,essere,AUX,_
 610-10,BO052,11,una,una,uno,DET,_
 610-11,BO052,12,città,città,città,NOUN,_
-610-12,BO052,13,dalle::,dalle,_,_,_
+610-12,BO052,13,dalle::,dalle,da+il,ADP+DET,_
 610-12a,_,,_,da,da,ADP,_
 610-12b,_,,_,le,il,DET,_
 610-13,BO052,14,giuste,giuste,giusto,ADJ,_
@@ -5306,7 +5306,7 @@
 615-1,BO052,2,hai,hai,avere,VERB,_
 615-2,BO052,3,lo,lo,il,DET,_
 615-3,BO052,4,stress,stress,stress,NOUN,_
-615-4,BO052,5-6,delle,delle,_,_,_
+615-4,BO052,5-6,delle,delle,di+il,ADP+DET,_
 615-4a,_,5,_,di,di,ADP,_
 615-4b,_,6,_,le,il,DET,_
 615-5,BO052,7,grandi,grandi,grande,ADJ,_
@@ -5346,7 +5346,7 @@
 620-5,BO049,6,è,è,essere,VERB,_
 620-6,BO049,7,il,il,il,DET,_
 620-7,BO049,8,festival,festival,festival,NOUN,_
-620-8,BO049,9-10,della,della,_,_,_
+620-8,BO049,9-10,della,della,di+il,ADP+DET,_
 620-8a,_,9,_,di,di,ADP,_
 620-8b,_,10,_,la,il,DET,_
 620-9,BO049,11,"filosofia,",filosofia,filosofia,NOUN,Intonation=weakly_rising
@@ -5357,7 +5357,7 @@
 621-4,BO052,5,è,è,essere,VERB,_
 621-5,BO052,6,il,il,il,DET,_
 621-6,BO052,7,festival],festival,festival,NOUN,_
-621-7,BO052,8-9,della,della,_,_,_
+621-7,BO052,8-9,della,della,di+il,ADP+DET,_
 621-7a,_,8,_,di,di,ADP,_
 621-7b,_,9,_,la,il,DET,_
 621-8,BO052,10,filofosia<,filofosia,filofosia,NOUN,_
@@ -5367,7 +5367,7 @@
 621-12,BO052,14,sono,sono,essere,VERB,_
 621-13,BO052,15,tre,tre,tre,NUM,_
 621-14,BO052,16,giorni,giorni,giorno,NOUN,_
-621-15,BO052,17-18,all',all',_,_,Truncated=Yes
+621-15,BO052,17-18,all',all',a+il,ADP+DET,Truncated=Yes
 621-15a,_,17,_,a,a,ADP,_
 621-15b,_,18,_,l',il,DET,_
 621-16,BO052,19,anno.,anno,anno,NOUN,Intonation=falling
@@ -5375,7 +5375,7 @@
 623-0,BO052,1,la,la,il,DET,_
 623-1,BO052,2,restante,restante,restante,ADJ,_
 623-2,BO052,3,parte,parte,parte,NOUN,_
-623-3,BO052,4-5,dell',dell',_,_,Truncated=Yes
+623-3,BO052,4-5,dell',dell',di+il,ADP+DET,Truncated=Yes
 623-3a,_,4,_,di,di,ADP,_
 623-3b,_,5,_,l',il,DET,_
 623-4,BO052,6,"anno::,",anno,anno,NOUN,Intonation=weakly_rising
