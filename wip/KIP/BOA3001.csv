@@ -2105,7 +2105,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 389-14,BO003,389,389,16,guardo,guardo,guardare,VERB,_,_
 389-15,BO003,389,389,17,le,le,il,DET,_,_
 389-16,BO003,389,389,18,foto,foto,foto,NOUN,_,_
-389-17,BO003,389,389,19,diciamo,diciamo,dicare,VERB,_,_
+389-17,BO003,389,389,19,diciamo,diciamo,dire,VERB,_,_
 390-0,BO002,390,390,1,non,non,non,ADV,_,_
 390-1,BO002,390,390,2,gli,gli,gli,PRON,_,_
 390-2,BO002,390,390,3,avevi,avevi,avere,AUX,_,_
@@ -2154,7 +2154,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 396-4a,_,_,396,5,_,in,in,ADP,_,_
 396-4b,_,_,396,6,_,il,il,DET,_,_
 396-5,BO003,396,396,7,senso,senso,senso,NOUN,_,_
-396-6,BO003,396,396,8,faccia,faccia,facciare,VERB,_,_
+396-6,BO003,396,396,8,faccia,faccia,fare,VERB,_,_
 396-7,BO003,396,396,9,come,come,come,SCONJ,_,_
 396-8,BO003,396,396,10,crede,crede,credere,VERB,_,_
 396-9,BO003,396,396,11,non,non,non,ADV,_,_
@@ -2754,7 +2754,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 485-1,BO003,485,485,2,sì,sì,sì,INTJ,_,_
 485-2,BO003,485,485,3,sì<,sì,sì,INTJ,_,_
 485-3,BO003,485,485,4,un,un,uno,DET,_,_
-485-4,BO003,485,485,5,gran,gran,gran,ADJ,_,_
+485-4,BO003,485,485,5,gran,gran,grande,ADJ,_,_
 485-5,BO003,485,485,6,bel,bel,bello,ADJ,_,_
 485-6,BO003,485,485,7,ragazzo,ragazzo,ragazzo,NOUN,_,_
 485-7,BO003,485,485,8,>però,però,però,ADV,_,_
@@ -2787,7 +2787,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 490-0,BO003,490,490,1,però:,però,però,ADV,_,_
 490-1,BO003,490,490,2,lui,lui,lui,PRON,_,_
 490-2,BO003,490,490,3,un,un,uno,DET,_,_
-490-3,BO003,490,490,4,bel,bel,bel,ADJ,_,_
+490-3,BO003,490,490,4,bel,bel,bello,ADJ,_,_
 491-0,BO002,491,491,1,ma,ma,ma,CCONJ,_,_
 491-1,BO002,491,491,2,sono,sono,essere,AUX,_,_
 491-2,BO002,491,491,3,stati,stati,essere,AUX,_,_
@@ -3508,7 +3508,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 603-0,BO002,603,603,0,((ride)),((ride)),NVB,NVB,_,_
 604-0,BO002,604,604,1,okay.,okay,okay,NOUN,_,_
 604-1,BO002,604,604,2,io,io,io,PRON,_,_
-604-2,BO002,604,604,3,dico,dico,dicare,VERB,_,_
+604-2,BO002,604,604,3,dico,dico,dire,VERB,_,_
 604-3,BO002,604,604,4,(.),(.),PAUSE,NVB,_,_
 604-4,BO002,604,604,5,ma,ma,ma,CCONJ,_,_
 604-5,BO002,604,604,6,secondo,secondo,secondo,ADP,_,_
@@ -3682,7 +3682,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 633-5,BO002,633,633,6,[te::,te,te,PRON,_,_
 633-6,BO002,633,633,7,a,a,a,ADP,_,_
 633-7,BO002,633,633,8-9,dirti,dirti,dirre+ti,VERB+PRON,_,_
-633-7a,_,_,633,8,_,dir,dirre,VERB,_,_
+633-7a,_,_,633,8,_,dir,dire,VERB,_,_
 633-7b,_,_,633,9,_,ti,ti,PRON,_,_
 633-8,BO002,633,633,10,i],i,il,DET,_,_
 633-9,BO002,633,633,11,<gossip>,gossip,gossip,NOUN,_,_
@@ -4630,7 +4630,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 785-0,BO002,785,785,1,perché,perché,perché,SCONJ,_,_
 785-1,BO002,785,785,2,(.),(.),PAUSE,NVB,_,_
 785-2,BO002,785,785,3,abbiamo,abbiamo,avere,AUX,_,_
-785-3,BO002,785,785,4,detto,detto,deggere,VERB,_,_
+785-3,BO002,785,785,4,detto,detto,dire,VERB,_,_
 785-4,BO002,785,785,5,troppe,troppe,troppo,DET,_,_
 785-5,BO002,785,785,6,cose,cose,cosa,NOUN,_,_
 785-6,BO002,785,785,7,compro[mettenti],compromettenti,compromettente,ADJ,_,_
@@ -5139,7 +5139,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 852-1,BO002,852,852,2,me,me,me,PRON,_,_
 852-2,BO002,852,852,3,l',l',lo,PRON,_,_
 852-3,BO002,852,852,4,avevi],avevi,avere,AUX,_,_
-852-4,BO002,852,852,5,de:t[to],detto,deggere,VERB,_,_
+852-4,BO002,852,852,5,de:t[to],detto,dire,VERB,_,_
 853-0,BO003,853,853,1,"[lei],",lei,lei,PRON,_,_
 853-1,BO003,853,853,2,dopo,dopo,dopo,ADP,_,_
 853-2,BO003,853,853,3,ve,ve,vi,PRON,_,_
@@ -5726,7 +5726,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 960-1,BO003,960,960,2,c',c',ci,PRON,_,_
 960-2,BO003,960,960,3,è,è,essere,VERB,_,_
 960-3,BO003,960,960,4,aragon,aragon,aragon,ADP,_,_
-960-4,BO003,960,960,5,bellissimo,bellissimo,belle,ADJ,_,_
+960-4,BO003,960,960,5,bellissimo,bellissimo,bello,ADJ,_,_
 961-0,BO002,961,961,1,>cioè<,cioè,cioè,ADV,_,_
 961-1,BO002,961,961,2,(.),(.),PAUSE,NVB,_,_
 961-2,BO002,961,961,3,praticamente,praticamente,praticamente,ADV,_,_
@@ -6310,7 +6310,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1060-0,BO003,1060,1060,1,il,il,il,DET,_,_
 1060-1,BO003,1060,1060,2,primo,primo,primo,ADJ,_,_
 1060-2,BO003,1060,1060,3,è,è,essere,AUX,_,_
-1060-3,BO003,1060,1060,4,bellissimo.,bellissimo,belle,ADJ,_,_
+1060-3,BO003,1060,1060,4,bellissimo.,bellissimo,bello,ADJ,_,_
 1061-0,BO003,1061,1061,1,(sta,sta,stare,VERB,_,_
 1061-1,BO003,1061,1061,2,a,a,a,ADP,_,_
 1061-2,BO003,1061,1061,3,veder,veder,vedere,VERB,_,_
@@ -6337,7 +6337,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1065-7,BO002,1065,1065,8,è,è,essere,AUX,_,_
 1065-8,BO002,1065,1065,9,belliss~,belliss~,x,X,_,_
 1065-9,BO002,1065,1065,10,è,è,essere,AUX,_,_
-1065-10,BO002,1065,1065,11,<bellissimo>.,bellissimo,belle,ADJ,_,_
+1065-10,BO002,1065,1065,11,<bellissimo>.,bellissimo,bello,ADJ,_,_
 1066-0,BO003,1066,1066,1,sì.,sì,sì,ADV,_,_
 1066-1,BO003,1066,1066,2,(.),(.),PAUSE,NVB,_,_
 1066-2,BO003,1066,1066,3,legolas,legolas,Legolas,PROPN,_,_
@@ -6717,7 +6717,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1127-1,BO002,1127,1127,2,defi~)],defi~,x,X,_,_
 1128-0,BO002,1128,1128,1,sì,sì,sì,ADV,_,_
 1128-1,BO002,1128,1128,2,è,è,essere,AUX,_,_
-1128-2,BO002,1128,1128,3,belli::ssimo,bellissimo,belle,ADJ,_,_
+1128-2,BO002,1128,1128,3,belli::ssimo,bellissimo,bello,ADJ,_,_
 1129-0,BO002,1129,1129,1,invece,invece,invece,ADV,_,_
 1129-1,BO002,1129,1129,2,johhny,johhny,johhny,ADJ,_,_
 1129-2,BO002,1129,1129,3,depp,depp,depp,NOUN,_,_
@@ -6937,7 +6937,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1155-8,BO002,1155,1155,9,film>,film,film,NOUN,_,_
 1155-9,BO002,1155,1155,10,[girato,girato,girare,ADJ,_,_
 1155-10,BO002,1155,1155,11,in,in,in,ADP,_,_
-1155-11,BO002,1155,1155,12,ita:]lia,italia,italia,NOUN,_,_
+1155-11,BO002,1155,1155,12,ita:]lia,italia,Italia,NOUN,_,_
 1156-0,BO003,1156,1156,1,"[sì],",sì,sì,ADV,_,_
 1157-0,BO003,1157,1157,1,"sì,",sì,sì,ADV,_,_
 1158-0,BO002,1158,1158,1,che,che,che,SCONJ,_,_
@@ -7151,7 +7151,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1189-9,BO003,1189,1189,10,non<,non,non,ADV,_,_
 1189-10,BO003,1189,1189,11,(.),(.),PAUSE,NVB,_,_
 1189-11,BO003,1189,1189,12,è,è,essere,AUX,_,_
-1189-12,BO003,1189,1189,13,bellissimo,bellissimo,belle,ADJ,_,_
+1189-12,BO003,1189,1189,13,bellissimo,bellissimo,bello,ADJ,_,_
 1189-13,BO003,1189,1189,14,"eh,",eh,eh,INTJ,_,_
 1189-14,BO003,1189,1189,15,per,per,per,ADP,_,_
 1189-15,BO003,1189,1189,16,l',l',il,DET,_,_
@@ -7839,7 +7839,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1297-1,BO003,1297,1297,2,sai,sai,saio,NOUN,_,_
 1297-2,BO003,1297,1297,3,chi,chi,chi,PRON,_,_
 1297-3,BO003,1297,1297,4,è,è,essere,AUX,_,_
-1297-4,BO003,1297,1297,5,<bellissimo>,bellissimo,belle,ADJ,_,_
+1297-4,BO003,1297,1297,5,<bellissimo>,bellissimo,bello,ADJ,_,_
 1298-0,BO003,1298,1298,1,quello::,quello,quello,PRON,_,_
 1298-1,BO003,1298,1298,2,(.),(.),PAUSE,NVB,_,_
 1298-2,BO003,1298,1298,3,che,che,che,PRON,_,_
@@ -7967,7 +7967,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1322-8,BO002,1322,1322,9,le:]golas,legolas,Legolas,PROPN,_,_
 1323-0,BO003,1323,1323,1,[lì],lì,lì,ADV,_,_
 1324-0,BO003,1324,1324,1,[è,è,essere,AUX,_,_
-1324-1,BO003,1324,1324,2,bellissimo],bellissimo,belle,ADJ,_,_
+1324-1,BO003,1324,1324,2,bellissimo],bellissimo,bello,ADJ,_,_
 1325-0,BO002,1325,1325,1,"quindi,",quindi,quindi,ADV,_,_
 1326-0,BO003,1326,1326,1,sì.,sì,sì,ADV,_,_
 1326-1,BO003,1326,1326,2,in,in,in,ADP,_,_
@@ -7979,9 +7979,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1328-0,BO002,1328,1328,1,è,è,essere,AUX,_,_
 1328-1,BO002,1328,1328,2,[be:llo],bello,bello,ADJ,_,_
 1329-0,BO003,1329,1329,1,[è,è,essere,AUX,_,_
-1329-1,BO003,1329,1329,2,bellissi]mo,bellissimo,belle,ADJ,_,_
+1329-1,BO003,1329,1329,2,bellissi]mo,bellissimo,bello,ADJ,_,_
 1330-0,BO003,1330,1330,1,è,è,essere,AUX,_,_
-1330-1,BO003,1330,1330,2,bellis[simo],bellissimo,belle,ADJ,_,_
+1330-1,BO003,1330,1330,2,bellis[simo],bellissimo,bello,ADJ,_,_
 1331-0,BO002,1331,1331,1,[sì].,sì,sì,ADV,_,_
 1332-0,BO002,1332,1332,1,cioè,cioè,cioè,ADV,_,_
 1332-1,BO002,1332,1332,2,proprio:,proprio,proprio,ADV,_,_
@@ -8444,7 +8444,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1405-5,BO002,1405,1405,6,[via],via,via,ADV,_,_
 1405-6,BO002,1405,1405,7,(.),(.),PAUSE,NVB,_,_
 1405-7,BO002,1405,1405,8,è,è,essere,AUX,_,_
-1405-8,BO002,1405,1405,9,bellissimo],bellissimo,belle,ADJ,_,_
+1405-8,BO002,1405,1405,9,bellissimo],bellissimo,bello,ADJ,_,_
 1406-0,BO003,1406,1406,1,[sì],sì,sì,ADV,_,_
 1406-1,BO003,1406,1406,2,((ride)),((ride)),NVB,NVB,_,_
 1407-0,BO003,1407,1407,1,che,che,che,SCONJ,_,_
@@ -8598,7 +8598,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1429-5,BO003,1429,1429,6,"film,",film,film,NOUN,_,_
 1430-0,BO002,1430,1430,1,ve:[ro::],vero,vero,ADJ,_,_
 1431-0,BO003,1431,1431,1,[è,è,essere,AUX,_,_
-1431-1,BO003,1431,1431,2,bel]lissimo,bellissimo,belle,ADJ,_,_
+1431-1,BO003,1431,1431,2,bel]lissimo,bellissimo,bello,ADJ,_,_
 1432-0,BO003,1432,1432,1,anche,anche,anche,ADV,_,_
 1432-1,BO003,1432,1432,2,>lui<,lui,lui,PRON,_,_
 1432-7,BO003,1432,1432,3,>è,è,essere,AUX,_,_
@@ -8708,7 +8708,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1452-8,BO002,1452,1452,9,che,che,che,PRON,_,_
 1452-9,BO002,1452,1452,10,io,io,io,PRON,_,_
 1452-10,BO002,1452,1452,11,sono,sono,essere,AUX,_,_
-1452-11,BO002,1452,1452,12,italia:na,italiana,italiana,ADJ,_,_
+1452-11,BO002,1452,1452,12,italia:na,italiana,italiano,ADJ,_,_
 1452-12,BO002,1452,1452,13,lui,lui,lui,PRON,_,_
 1452-13,BO002,1452,1452,14,mi,mi,mi,PRON,_,_
 1452-14,BO002,1452,1452,15,fa,fa,fare,VERB,_,_
@@ -8726,7 +8726,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1452-26,BO002,1452,1452,27,la,la,il,DET,_,_
 1452-27,BO002,1452,1452,28,ma::fia,mafia,mafia,NOUN,_,_
 1452-28,BO002,1452,1452,29,in,in,in,ADP,_,_
-1452-29,BO002,1452,1452,30,ita::lia,italia,italia,NOUN,_,_
+1452-29,BO002,1452,1452,30,ita::lia,italia,Italia,NOUN,_,_
 1452-30,BO002,1452,1452,31,sai,sai,sapere,VERB,_,_
 1452-31,BO002,1452,1452,32,com',com',come,SCONJ,_,_
 1452-32,BO002,1452,1452,33,"è,",è,essere,AUX,_,_

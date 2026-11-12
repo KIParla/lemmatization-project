@@ -1634,7 +1634,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 294-3,TO062,294,294,4,solo,solo,solo,ADV,_,_
 294-4,TO062,294,294,5,una,una,uno,DET,_,_
 294-5,TO062,294,294,6,cinquecentina,cinquecentina,cinquecentina,NOUN,_,_
-294-6,TO062,294,294,7,(bisondava)<,bisondava,X,X,_,_
+294-6,TO062,294,294,7,(bisondava)<,bisondava,x,X,_,_
 295-0,TO062,295,295,1,bisognava,bisognava,bisognare,AUX,_,_
 295-1,TO062,295,295,2,andare,andare,andare,VERB,_,_
 295-2,TO062,295,295,3,fisicame:nte,fisicamente,fisicamente,ADV,_,_
@@ -3553,7 +3553,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 618-2,TO062,618,618,3,quella,quella,quello,PRON,_,_
 618-3,TO062,618,618,4,che::,che,che,PRON,_,_
 618-4,TO062,618,618,5,gli,gli,il,DET,_,_
-618-5,TO062,618,618,6,americhiami,americhiami,X,X,_,_
+618-5,TO062,618,618,6,americhiami,americhiami,x,X,_,_
 618-6,TO062,618,618,7,gli,gli,il,DET,_,_
 618-7,TO062,618,618,8,americani,americani,americano,NOUN,_,_
 618-8,TO062,618,618,9,chiamano,chiamano,chiamare,VERB,_,_
@@ -3970,7 +3970,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 692-7,TO062,692,692,8,cos',cos',cosa,PRON,_,_
 692-8,TO062,692,692,9,è,è,essere,AUX,_,_
 692-9,TO062,692,692,10,un,un,uno,DET,_,_
-692-10,TO062,692,692,11,canzoniere.,canzoniere,canzoniere,NOUN,_,_
+692-10,TO062,692,692,11,canzoniere.,canzoniere,Canzoniere,NOUN,_,_
 693-0,TO062,693,693,1,e:::h,eh,eh,INTJ,_,_
 694-0,TO062,694,694,1,lo,lo,il,DET,_,_
 694-1,TO062,694,694,2,studente,studente,studente,NOUN,_,_
@@ -4190,7 +4190,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 734-3,TO062,734,734,4,gli,gli,lo,PRON,_,_
 734-4,TO062,734,734,5,aveva,aveva,avere,AUX,_,_
 734-5,TO062,734,734,6,fatto,fatto,fare,VERB,_,_
-734-6,TO062,734,734,7,xxare,xxare,X,X,_,_
+734-6,TO062,734,734,7,xxare,xxare,x,X,_,_
 734-7,TO062,734,734,8,suo,suo,suo,ADJ,_,_
 734-8,TO062,734,734,9,pa:dre:,padre,padre,NOUN,_,_
 735-0,TO062,735,735,1,un::o,uno,uno,DET,_,_
@@ -4517,7 +4517,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 780-4,TO062,780,780,7,non,non,non,ADV,_,_
 780-5,TO062,780,780,8,esisteva,esisteva,esistere,VERB,_,_
 780-6,TO062,780,780,9,nessuna,nessuna,nessuna,DET,_,_
-780-7,TO062,780,780,10,chiera,chiera,X,X,_,_
+780-7,TO062,780,780,10,chiera,chiera,x,X,_,_
 780-8,TO062,780,780,11,chiesa,chiesa,chiesa,NOUN,_,_
 780-9,TO062,780,780,12,di,di,di,ADP,_,_
 780-10,TO062,780,780,13,santa,santa,Santo,PROPN,_,_
@@ -10739,7 +10739,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1854-5,TO062,1854,1854,6,non,non,non,ADV,_,_
 1854-6,TO062,1854,1854,7,è,è,essere,AUX,_,_
 1854-7,TO062,1854,1854,8,un,un,uno,DET,_,_
-1854-8,TO062,1854,1854,9,canzoniere,canzoniere,canzoniere,NOUN,_,_
+1854-8,TO062,1854,1854,9,canzoniere,canzoniere,Canzoniere,NOUN,_,_
 1855-0,TO062,1855,1855,1,non,non,non,ADV,_,_
 1855-1,TO062,1855,1855,2,è,è,essere,AUX,_,_
 1855-2,TO062,1855,1855,3,un,un,uno,DET,_,_
@@ -10792,7 +10792,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1863-2,TO062,1863,1863,3,è,è,essere,AUX,_,_
 1863-3,TO062,1863,1863,4,propriamente,propriamente,propriamente,ADV,_,_
 1863-4,TO062,1863,1863,5,un,un,uno,DET,_,_
-1863-5,TO062,1863,1863,6,canzoniere,canzoniere,canzoniere,NOUN,_,_
+1863-5,TO062,1863,1863,6,canzoniere,canzoniere,Canzoniere,NOUN,_,_
 1864-0,TO062,1864,1864,1,a,a,a,ADP,_,_
 1864-1,TO062,1864,1864,2,che,che,che,DET,_,_
 1864-2,TO062,1864,1864,3,genere,genere,genere,NOUN,_,_
@@ -11188,9 +11188,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1935-2,TO062,1935,1935,3,vero,vero,vero,ADJ,_,_
 1935-3,TO062,1935,1935,4,e,e,e,CCONJ,_,_
 1935-4,TO062,1935,1935,5,proprio,proprio,proprio,ADV,_,_
-1935-5,TO062,1935,1935,6,canzoniere.,canzoniere,canzoniere,NOUN,_,_
+1935-5,TO062,1935,1935,6,canzoniere.,canzoniere,Canzoniere,NOUN,_,_
 1936-0,TO062,1936,1936,1,un,un,uno,DET,_,_
-1936-1,TO062,1936,1936,2,canzoniere,canzoniere,canzoniere,NOUN,_,_
+1936-1,TO062,1936,1936,2,canzoniere,canzoniere,Canzoniere,NOUN,_,_
 1936-2,TO062,1936,1936,3,puro,puro,puro,ADJ,_,_
 1937-0,TO062,1937,1937,1,cioè,cioè,cioè,CCONJ,_,_
 1937-1,TO062,1937,1937,2,u:na,una,uno,DET,_,_
@@ -11604,7 +11604,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 2009-3,TO062,2009,2009,4,dire,dire,dire,VERB,_,_
 2009-4,TO062,2009,2009,5,in,in,in,ADP,_,_
 2009-5,TO062,2009,2009,6,genere,genere,genere,NOUN,_,_
-2010-0,TO062,2010,2010,1,canzoniere,canzoniere,canzoniere,NOUN,_,_
+2010-0,TO062,2010,2010,1,canzoniere,canzoniere,Canzoniere,NOUN,_,_
 2010-1,TO062,2010,2010,2,e,e,e,CCONJ,_,_
 2010-2,TO062,2010,2010,3,trionfi,trionfi,trionfo,NOUN,_,_
 2010-3,TO062,2010,2010,4,insieme,insieme,insieme,ADV,_,_

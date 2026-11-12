@@ -1942,7 +1942,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 353-0,BO158,353,[x],x,x,X,_,_
 354-0,BO155,354,[ma,ma,ma,CCONJ,_,_
 354-1,BO155,354,è,è,essere,AUX,_,_
-354-2,BO155,354,italiana],italiana,italiana,ADJ,_,_
+354-2,BO155,354,italiana],italiana,italiano,ADJ,_,_
 355-0,BO156,355,sì,sì,sì,ADV,_,_
 355-1,BO156,355,sì,sì,sì,ADV,_,_
 356-0,BO155,356,ah,ah,ah,INTJ,_,_
@@ -2565,7 +2565,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 460-3,BO158,460,chiesto,chiesto,chiedere,VERB,_,_
 460-4,BO158,460,com',com',come,SCONJ,Truncated=Yes,_
 460-5,BO158,460,è,è,essere,AUX,_,_
-460-6,BO158,460,andato,andato,andato,VERB,_,_
+460-6,BO158,460,andato,andato,andare,VERB,_,_
 460-7,BO158,460,l',l',il,DET,Truncated=Yes,_
 460-8,BO158,460,esame,esame,esame,NOUN,_,_
 460-9,BO158,460,lui,lui,lui,PRON,_,_
@@ -2831,7 +2831,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 495-0,BO157,495,((ride)),((ride)),NVB,NVB,_,_
 496-0,BO158,496,com',com',come,ADV,Truncated=Yes,_
 496-1,BO158,496,è,è,essere,AUX,_,_
-496-2,BO158,496,andato,andato,andato,VERB,_,_
+496-2,BO158,496,andato,andato,andare,VERB,_,_
 496-3,BO158,496,ben,ben,bene,ADV,_,_
 497-0,BO157,497,è,è,essere,AUX,_,_
 497-1,BO157,497,andato,andato,andare,VERB,_,_
@@ -3678,7 +3678,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 608-2,BO155,608,ci,ci,ci,PRON,_,_
 608-3,BO155,608,sono,sono,essere,VERB,_,_
 608-4,BO155,608,i,i,il,DET,_,_
-608-5,BO155,608,giorni,giorni,giorni,NOUN,_,_
+608-5,BO155,608,giorni,giorni,giorno,NOUN,_,_
 608-6,BO155,608,che,che,che,PRON,_,_
 608-7,BO155,608,non,non,non,ADV,_,_
 608-8,BO155,608,riesco,riesco,riuscire,VERB,_,_

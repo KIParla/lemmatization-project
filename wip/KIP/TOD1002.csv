@@ -1520,7 +1520,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 232-0,TO004,232,232,1,c',c',ci,PRON,_,_
 232-1,TO004,232,232,2,era,era,essere,VERB,_,_
 232-2,TO004,232,232,3,una,una,uno,DET,_,_
-232-3,TO004,232,232,4,comm:edia,commedia,commedia,NOUN,_,_
+232-3,TO004,232,232,4,comm:edia,commedia,Commedia,NOUN,_,_
 232-4,TO004,232,232,5,di,di,di,ADP,_,_
 232-5,TO004,232,232,6,molière,molière,molière,NOUN,_,_
 232-6,TO004,232,232,7-8,nel,nel,in+il,ADP+DET,_,_
@@ -3167,7 +3167,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 498-3,TO004,498,498,4,rapporti,rapporti,rapporto,NOUN,_,_
 498-4,TO004,498,498,5,di,di,di,ADP,_,_
 498-5,TO004,498,498,6,potere.,potere,potere,NOUN,_,_
-499-0,TO004,499,499,1,gran,gran,gran,ADJ,_,_
+499-0,TO004,499,499,1,gran,gran,grande,ADJ,_,_
 499-1,TO004,499,499,2,parte,parte,parte,NOUN,_,_
 499-2,TO004,499,499,3-4,dei,dei,di+il,ADP+DET,_,_
 499-2a,_,_,499,3,_,di,di,ADP,_,_
@@ -8861,7 +8861,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1487-1,TO004,1487,1487,2,leggere,leggere,leggere,VERB,_,_
 1487-2,TO004,1487,1487,3,la,la,il,DET,_,_
 1487-3,TO004,1487,1487,4,divina,divina,divina,ADJ,_,_
-1487-4,TO004,1487,1487,5,commedia.,commedia,commedia,NOUN,_,_
+1487-4,TO004,1487,1487,5,commedia.,commedia,Commedia,NOUN,_,_
 1488-0,TO004,1488,1488,1-2,dal,dal,da+il,ADP+DET,_,_
 1488-0a,_,_,1488,1,_,da,da,ADP,_,_
 1488-0b,_,_,1488,2,_,il,il,DET,_,_
@@ -8907,7 +8907,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1492-5,TO004,1492,1492,6,"giga,",giga,giga,NOUN,_,_
 1492-6,TO004,1492,1492,7,la,la,il,DET,_,_
 1492-7,TO004,1492,1492,8,divina,divina,divina,NOUN,_,_
-1492-8,TO004,1492,1492,9,commedia,commedia,commedia,NOUN,_,_
+1492-8,TO004,1492,1492,9,commedia,commedia,Commedia,NOUN,_,_
 1492-9,TO004,1492,1492,10,ne,ne,ne,PRON,_,_
 1492-10,TO004,1492,1492,11,occupa,occupa,occupare,VERB,_,_
 1492-11,TO004,1492,1492,12,pochissimi.,pochissimi,poco,DET,_,_
@@ -9342,7 +9342,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1566-8,TO004,1566,1566,10,tanta,tanta,tanto,DET,_,_
 1566-9,TO004,1566,1566,11,ma,ma,ma,CCONJ,_,_
 1566-10,TO004,1566,1566,12,(è,è,essere,AUX,_,_
-1566-11,TO004,1566,1566,13,c),c,X,X,_,_
+1566-11,TO004,1566,1566,13,c~),c~,x,X,_,_
 1567-0,TO004,1567,1567,1,su,su,su,ADP,_,_
 1567-1,TO004,1567,1567,2,questo,questo,questo,PRON,_,_
 1567-2,TO004,1567,1567,3,non,non,non,ADV,_,_

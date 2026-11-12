@@ -243,8 +243,8 @@
 27-8,TO030,27,27,10,c',c',ci,PRON,PC,Clitic=Yes|PronType=Prs,expl:12,linguistic,_,Truncated=Yes,_,_,_,_,_
 27-9,TO030,27,27,11,è,è,essere,AUX,VA,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,aux:12,linguistic,_,_,_,_,_,_,_
 27-10,TO030,27,27,12,"scritto:,",scritto,scrivere,VERB,V,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,root:0,linguistic,_,Intonation=weakly_rising,_,6x1,_,_,_
-27-11,TO030,27,27,13,eh,eh,eh,X,X,,nsubj:12,linguistic,_,ProsodicLink=Yes,_,_,_,_,_
-27-12,TO030,27,27,14,m:::h,mh,mh,X,X,,obl:12,linguistic,_,_,End=70.42,0x3,_,_,_
+27-11,TO030,27,27,13,eh,eh,eh,INTJ,X,,nsubj:12,linguistic,_,ProsodicLink=Yes,_,_,_,_,_
+27-12,TO030,27,27,14,m:::h,mh,mh,INTJ,X,,obl:12,linguistic,_,_,End=70.42,0x3,_,_,_
 28-0,TO030,28,28,1,e,e,e,CCONJ,CC,,cc:5,linguistic,_,_,Begin=70.704,_,_,_,_
 28-1,TO030,28,28,2,"poi:::,",poi,poi,ADV,B,,advmod:5,linguistic,_,Intonation=weakly_rising,_,2x3,_,_,_
 28-2,TO030,28,28,3,e:::h,eh,eh,INTJ,I,,discourse:5,linguistic,_,ProsodicLink=Yes,_,0x3,_,_,_
@@ -720,7 +720,7 @@
 73-13,TO030,73,73,14,"centod~,",centod~,x,X,SP,,obj:13,linguistic,_,Intonation=weakly_rising,_,_,_,_,_
 73-14,TO030,73,73,15,io,io,io,PRON,PE,Number=Sing|Person=1|PronType=Prs,nsubj:17,linguistic,_,_,_,_,_,_,_
 73-15,TO030,73,73,16,ne,ne,ne,PRON,PC,Clitic=Yes|PronType=Prs,iobj:17,linguistic,_,_,_,_,_,_,_
-73-16,TO030,73,73,17,conosco,conosco,conore,VERB,V,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,conj:31,linguistic,_,_,_,_,_,_,_
+73-16,TO030,73,73,17,conosco,conosco,conoscere,VERB,V,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,conj:31,linguistic,_,_,_,_,_,_,_
 73-17,TO030,73,73,18,due,due,due,NUM,N,NumType=Card,nummod:19,linguistic,_,_,_,_,_,_,_
 73-18,TO030,73,73,19,"persone,",persone,persona,NOUN,S,Gender=Fem|Number=Plur,obj:17,linguistic,_,Intonation=weakly_rising,_,_,_,_,_
 73-19,TO030,73,73,20,proprio,proprio,proprio,ADV,B,,advmod:19,linguistic,_,_,_,_,_,_,_
@@ -1018,8 +1018,8 @@
 96-18,TO030,96,96,19,[allucinante.,allucinante,allucinante,ADJ,A,Number=Sing,amod:18,linguistic,_,Intonation=falling,_,_,_,_,0-11(53)
 96-19,TO030,96,96,20,dici,dici,dire,VERB,V,Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,ccomp:4,linguistic,_,_,_,_,_,_,0-4(53)
 96-20,TO030,96,96,21,(cio]è),cioè,cioè,ADV,B,,advmod:20,linguistic,_,ProsodicLink=Yes,_,_,_,0-4(0),0-3(53)
-96-21,TO030,96,96,22,"eh,",eh,eh,X,X,,obj:20,linguistic,_,Intonation=weakly_rising,_,_,_,_,_
-96-22,TO030,96,96,23,e:::h,eh,eh,X,X,,flat:foreign:22,linguistic,_,_,End=289.469,0x3,_,_,_
+96-21,TO030,96,96,22,"eh,",eh,eh,INTJ,X,,obj:20,linguistic,_,Intonation=weakly_rising,_,_,_,_,_
+96-22,TO030,96,96,23,e:::h,eh,eh,INTJ,X,,flat:foreign:22,linguistic,_,_,End=289.469,0x3,_,_,_
 97-0,TO054,97,97,1,[e,e,e,CCONJ,CC,,cc:2,linguistic,_,_,Begin=282.206,_,_,_,0-1(52)
 97-1,TO054,97,97,2,aveva,aveva,avere,VERB,V,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,root:0,linguistic,_,_,_,_,_,_,0-5(52)
 97-2,TO054,97,97,3,una,una,uno,DET,RI,Definite=Ind|Gender=Fem|Number=Sing|PronType=Art,det:4,linguistic,_,_,_,_,_,_,0-3(52)
@@ -1895,7 +1895,7 @@
 155-8,TO030,155,155,9,continuava,continuava,continuare,VERB,V,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,root:0,linguistic,_,_,_,_,_,_,_
 155-9,TO030,155,155,10,a,a,a,ADP,E,,mark:11,linguistic,_,_,_,_,_,_,_
 155-10,TO030,155,155,11-12,dirmi,dirmi,dirre+mi,VERB+PRON,_,_,_,linguistic,_,_,_,_,_,_,_
-155-10a,_,_,155,11,_,dir,dirre,VERB,V,VerbForm=Inf,ccomp:20,_,_,_,_,_,_,_,_
+155-10a,_,_,155,11,_,dir,dire,VERB,V,VerbForm=Inf,ccomp:20,_,_,_,_,_,_,_,_
 155-10b,_,_,155,12,_,mi,mi,PRON,PC,Clitic=Yes|Number=Sing|Person=1|PronType=Prs,expl:11,_,_,_,_,_,_,_,_
 155-11,TO030,155,155,13,però::,però,però,ADV,B,,advmod:11,linguistic,_,_,_,3x2,_,_,_
 155-12,TO030,155,155,14,secondo,secondo,secondo,ADP,E,,case:15,linguistic,_,_,_,_,_,_,_
@@ -2242,11 +2242,11 @@
 180-18,TO030,180,180,20,non,non,non,ADV,BN,PronType=Neg,advmod:22,linguistic,_,_,_,_,_,_,_
 180-19,TO030,180,180,21,ti,ti,ti,PRON,PC,Clitic=Yes|Number=Sing|Person=2|PronType=Prs,iobj:22,linguistic,_,_,_,_,_,_,_
 180-20,TO030,180,180,22,ta~.,ta~,x,X,SP,,nmod:18,linguistic,_,Intonation=falling,_,_,_,_,_
-180-21,TO030,180,180,23,e::h,eh,eh,X,X,,appos:32,linguistic,_,_,_,0x2,_,_,_
+180-21,TO030,180,180,23,e::h,eh,eh,INTJ,X,,appos:32,linguistic,_,_,_,0x2,_,_,_
 180-22,TO030,180,180,24,no,no,no,X,SW,Foreign=Yes,flat:foreign:23,linguistic,_,_,_,_,_,_,_
 180-23,TO030,180,180,25,no,no,no,X,SW,Foreign=Yes,flat:foreign:23,linguistic,_,_,_,_,_,_,_
 180-24,TO030,180,180,26,no.,no,no,X,SW,Foreign=Yes,flat:foreign:23,linguistic,_,Intonation=falling,_,_,_,_,_
-180-25,TO030,180,180,27,eh,eh,eh,X,X,,flat:foreign:23,linguistic,_,_,_,_,_,_,_
+180-25,TO030,180,180,27,eh,eh,eh,INTJ,X,,flat:foreign:23,linguistic,_,_,_,_,_,_,_
 180-26,TO030,180,180,28,più,più,più,ADV,B,,advmod:29,linguistic,_,_,_,_,_,_,_
 180-27,TO030,180,180,29,pro~,pro~,x,X,SP,,flat:name:23,linguistic,_,Interrupted=Yes,_,_,_,_,_
 180-28,TO030,180,180,30,pi~,pi~,x,X,SP,,flat:name:23,linguistic,_,Interrupted=Yes,_,_,_,_,_
@@ -2556,7 +2556,7 @@
 200-6,TO030,200,200,7,impulso,impulso,impulso,NOUN,S,Gender=Masc|Number=Sing,nsubj:10,linguistic,_,_,_,_,_,_,_
 200-7,TO030,200,200,8,lì,lì,lì,ADV,B,,advmod:10,linguistic,_,_,_,_,_,_,_
 200-8,TO030,200,200,9,lo,lo,lo,PRON,PC,Clitic=Yes|Gender=Masc|Number=Sing|Person=3|PronType=Prs,obj:10,linguistic,_,_,_,_,_,_,_
-200-9,TO030,200,200,10,capisco,capisco,capiscere,VERB,V,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,root:0,linguistic,_,_,_,_,_,_,_
+200-9,TO030,200,200,10,capisco,capisco,capire,VERB,V,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,root:0,linguistic,_,_,_,_,_,_,_
 200-10,TO030,200,200,11,di,di,di,ADP,E,,mark:12,linguistic,_,_,_,_,_,_,_
 200-11,TO030,200,200,12,dire,dire,dire,VERB,V,VerbForm=Inf,acl:13,linguistic,_,_,_,_,_,_,_
 200-12,TO030,200,200,13,faccio,faccio,fare,VERB,V,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,obj:22,linguistic,_,_,_,_,_,_,_
@@ -3442,7 +3442,7 @@
 265-27,TO054,265,265,29,o,o,o,CCONJ,CC,,cc:32,linguistic,_,_,_,_,_,_,_
 265-28,TO054,265,265,30,almeno,almeno,almeno,ADV,B,,advmod:32,linguistic,_,_,_,_,_,_,_
 265-29,TO054,265,265,31,in,in,in,ADP,E,,case:32,linguistic,_,_,_,_,_,_,_
-265-30,TO054,265,265,32,"italia,",italia,italia,NOUN,S,Gender=Fem|Number=Sing,conj:28,linguistic,_,Intonation=weakly_rising,_,_,_,_,_
+265-30,TO054,265,265,32,"italia,",italia,Italia,NOUN,S,Gender=Fem|Number=Sing,conj:28,linguistic,_,Intonation=weakly_rising,_,_,_,_,_
 265-31,TO054,265,265,33,a,a,a,ADP,E,,case:34,linguistic,_,_,_,_,_,_,_
 265-32,TO054,265,265,34,meno,meno,meno,ADV,B,,advmod:38,linguistic,_,_,_,_,_,_,_
 265-33,TO054,265,265,35,che,che,che,SCONJ,CS,,mark:38,linguistic,_,_,_,_,_,_,_
@@ -3563,7 +3563,7 @@
 274-3,TO030,274,274,4,me,me,me,PRON,PE,Number=Sing|Person=1|PronType=Prs,iobj:7,linguistic,_,_,_,_,_,_,0-2(130)
 274-4,TO030,274,274,5,l',l',lo,PRON,PC,Clitic=Yes|Number=Sing|Person=3|PronType=Prs,obj:7,linguistic,_,Truncated=Yes,_,_,_,_,0-2(130)
 274-5,TO030,274,274,6,ave]vi,avevi,avere,AUX,VM,Mood=Ind|Number=Sing|Person=2|Tense=Imp|VerbForm=Fin,aux:7,linguistic,_,_,_,_,_,_,0-3(130)
-274-6,TO030,274,274,7,detto.,detto,deggere,VERB,V,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,root:0,linguistic,_,Intonation=falling,End=981.36,_,_,_,_
+274-6,TO030,274,274,7,detto.,detto,dire,VERB,V,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,root:0,linguistic,_,Intonation=falling,End=981.36,_,_,_,_
 275-0,TO054,275,275,1,e,e,e,CCONJ,CC,,cc:6,linguistic,_,_,Begin=982.101,_,_,_,_
 275-1,TO054,275,275,2,ad,ad,a,ADP,E,,case:3,linguistic,_,_,_,_,_,_,_
 275-2,TO054,275,275,3,esempio,esempio,esempio,NOUN,S,Gender=Masc|Number=Sing,obl:6,linguistic,_,_,_,_,_,_,_
@@ -3591,7 +3591,7 @@
 275-22,TO054,275,275,24,speciali.,speciali,speciale,ADJ,A,Number=Plur,amod:23,linguistic,_,Intonation=falling,End=988.762,_,_,_,_
 276-0,TO030,276,276,1,be::llo.,bello,bello,ADJ,A,Gender=Masc|Number=Sing,root:0,linguistic,_,Intonation=falling,Begin=988.826|End=989.745,1x2,_,_,_
 277-0,TO054,277,277,1,è,è,essere,AUX,VA,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,cop:2,linguistic,_,_,Begin=989.864,_,_,_,_
-277-1,TO054,277,277,2,bellissimo.,bellissimo,belle,ADJ,A,Degree=Abs|Gender=Masc|Number=Sing,root:0,linguistic,_,Intonation=falling,_,_,_,_,_
+277-1,TO054,277,277,2,bellissimo.,bellissimo,bello,ADJ,A,Degree=Abs|Gender=Masc|Number=Sing,root:0,linguistic,_,Intonation=falling,_,_,_,_,_
 277-2,TO054,277,277,3,(le),le,le,PRON,PC,Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs,iobj:5,linguistic,_,_,_,_,_,0-2(0),_
 277-3,TO054,277,277,4,ho,ho,avere,AUX,VA,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,aux:5,linguistic,_,_,_,_,_,_,_
 277-4,TO054,277,277,5,detto,detto,dire,VERB,V,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,csubj:2,linguistic,_,_,_,_,_,_,_
@@ -3605,7 +3605,7 @@
 277-12,TO054,277,277,13,qua?,qua,qua,ADV,B,,advmod:12,linguistic,_,Intonation=rising,_,_,_,_,_
 277-13,TO054,277,277,14,(.),(.),PAUSE,NVB,_,_
 277-14,TO054,277,277,15,in,in,in,ADP,E,,case:16,linguistic,_,_,_,_,_,_,_
-277-15,TO054,277,277,16,italia?,italia,italia,NOUN,S,Gender=Fem|Number=Sing,obl:12,linguistic,_,Intonation=rising,_,_,_,_,_
+277-15,TO054,277,277,16,italia?,italia,Italia,NOUN,S,Gender=Fem|Number=Sing,obl:12,linguistic,_,Intonation=rising,_,_,_,_,_
 277-16,TO054,277,277,17,(.),(.),PAUSE,NVB,_,_
 277-17,TO054,277,277,18,"perché,",perché,perché,SCONJ,CS,,mark:26,linguistic,_,Intonation=weakly_rising,_,_,_,_,_
 277-18,TO054,277,277,19,quale,quale,quale,DET,DQ,Number=Sing|PronType=Int,det:20,linguistic,_,_,_,_,_,_,_
@@ -3717,7 +3717,7 @@
 284-7,TO030,284,284,8,penso,penso,pensare,VERB,V,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,advcl:4,linguistic,_,_,_,_,_,_,_
 284-8,TO030,284,284,9,che,che,che,SCONJ,CS,,mark:24,linguistic,_,_,_,_,_,_,_
 284-9,TO030,284,284,10,in,in,in,ADP,E,,case:11,linguistic,_,_,_,_,_,_,_
-284-10,TO030,284,284,11,italia,italia,italia,NOUN,S,Gender=Fem|Number=Sing,obl:24,linguistic,_,_,_,_,_,_,_
+284-10,TO030,284,284,11,italia,italia,Italia,NOUN,S,Gender=Fem|Number=Sing,obl:24,linguistic,_,_,_,_,_,_,_
 284-11,TO030,284,284,12-13,alla,alla,a+il,ADP+DET,_,_,_,linguistic,_,_,_,_,_,_,_
 284-11a,_,_,284,12,_,a,a,ADP,E,,case:14,_,_,_,_,_,_,_,_
 284-11b,_,_,284,13,_,la,il,DET,RD,Definite=Def|Gender=Fem|Number=Sing|PronType=Art,det:14,_,_,_,_,_,_,_,_
@@ -3856,7 +3856,7 @@
 290-18,TO030,290,290,19,panorama,panorama,panorama,NOUN,S,Gender=Masc|Number=Sing,nsubj:27,linguistic,_,_,_,_,_,_,_
 290-19,TO030,290,290,20,televisivo,televisivo,televisivo,ADJ,A,Gender=Masc|Number=Sing,amod:19,linguistic,_,_,_,_,_,_,_
 290-20,TO030,290,290,21,in,in,in,ADP,E,,case:22,linguistic,_,_,_,_,_,_,_
-290-21,TO030,290,290,22,italia,italia,italia,NOUN,S,Gender=Fem|Number=Sing,obl:20,linguistic,_,_,_,_,_,_,_
+290-21,TO030,290,290,22,italia,italia,Italia,NOUN,S,Gender=Fem|Number=Sing,obl:20,linguistic,_,_,_,_,_,_,_
 290-22,TO030,290,290,23,un,un,uno,DET,RI,Definite=Ind|Gender=Masc|Number=Sing|PronType=Art,det:24,linguistic,_,_,_,_,_,_,_
 290-23,TO030,290,290,24,po',po',poco,ADV,B,,advmod:20,linguistic,_,_,_,_,_,_,_
 290-24,TO030,290,290,25,si,si,si,PRON,PC,Clitic=Yes|Person=3|PronType=Prs,expl:27,linguistic,_,_,_,_,_,_,_
@@ -4023,7 +4023,7 @@
 302-15,TO054,302,302,16,fa,fa,fare,VERB,V,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,root:0,linguistic,_,_,End=1103.175,_,_,_,_
 303-0,TO054,303,303,1,che,che,che,SCONJ,CS,,mark:6,linguistic,_,_,Begin=1103.905,_,_,_,_
 303-1,TO054,303,303,2,in,in,in,ADP,E,,case:3,linguistic,_,_,_,_,_,_,_
-303-2,TO054,303,303,3,"italia,",italia,italia,NOUN,S,Gender=Fem|Number=Sing,obl:6,linguistic,_,Intonation=weakly_rising,_,_,_,_,_
+303-2,TO054,303,303,3,"italia,",italia,Italia,NOUN,S,Gender=Fem|Number=Sing,obl:6,linguistic,_,Intonation=weakly_rising,_,_,_,_,_
 303-3,TO054,303,303,4,(.),(.),PAUSE,NVB,_,_
 303-4,TO054,303,303,5,c',c',ci,PRON,PC,Clitic=Yes|PronType=Prs,expl:6,linguistic,_,Truncated=Yes,_,_,_,_,_
 303-5,TO054,303,303,6,è,è,essere,VERB,V,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,root:0,linguistic,_,_,_,_,_,_,_
@@ -4264,7 +4264,7 @@
 325-34,TO030,325,325,35,selezione,selezione,selezione,NOUN,S,Gender=Fem|Number=Sing,obj:32,linguistic,_,_,_,_,_,_,_
 325-35,TO030,325,325,36,mi,mi,mi,PRON,PC,Clitic=Yes|Number=Sing|Person=1|PronType=Prs,iobj:38,linguistic,_,_,_,_,_,_,_
 325-36,TO030,325,325,37,aveva,aveva,avere,AUX,VA,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,aux:38,linguistic,_,_,_,_,_,_,_
-325-37,TO030,325,325,38,detto,detto,deggere,VERB,V,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,conj:4,linguistic,_,_,_,_,_,_,_
+325-37,TO030,325,325,38,detto,detto,dire,VERB,V,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,conj:4,linguistic,_,_,_,_,_,_,_
 325-38,TO030,325,325,39,questa,questa,questo,DET,DD,Gender=Fem|Number=Sing|PronType=Dem,det:40,linguistic,_,_,_,_,_,_,_
 325-39,TO030,325,325,40,cosa,cosa,cosa,NOUN,S,Gender=Fem|Number=Sing,obj:38,linguistic,_,_,_,_,_,_,_
 325-40,TO030,325,325,41,che,che,che,PRON,PR,PronType=Rel,nsubj:44,linguistic,_,_,_,_,_,_,_
@@ -4335,7 +4335,7 @@
 331-4,TO030,331,331,5,entrata,entrata,entrare,VERB,V,Gender=Fem|Number=Sing|Tense=Past|VerbForm=Part,advcl:8,linguistic,_,_,_,_,_,_,_
 331-5,TO030,331,331,6,quindi,quindi,quindi,ADV,B,,advmod:8,linguistic,_,_,_,_,_,_,_
 331-6,TO030,331,331,7,è,è,essere,AUX,VA,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,aux:pass:8,linguistic,_,_,_,_,_,_,_
-331-7,TO030,331,331,8,andato,andato,andato,VERB,V,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,root:0,linguistic,_,_,_,_,_,_,_
+331-7,TO030,331,331,8,andato,andato,andare,VERB,V,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,root:0,linguistic,_,_,_,_,_,_,_
 331-8,TO030,331,331,9,tutto,tutto,tutto,PRON,PI,Gender=Masc|Number=Sing|PronType=Ind,obl:15,linguistic,_,_,_,_,_,_,_
 331-9,TO030,331,331,10,bene.,bene,bene,ADV,B,,advmod:11,linguistic,_,Intonation=falling,_,_,_,_,_
 331-10,TO030,331,331,11,però,però,però,ADV,B,,advmod:15,linguistic,_,_,_,_,_,_,_
@@ -4530,7 +4530,7 @@
 353-10,TO054,353,353,11,scuola,scuola,scuola,NOUN,S,Gender=Fem|Number=Sing,nsubj:16,linguistic,_,_,_,_,_,_,_
 353-11,TO054,353,353,12,molto,molto,molto,ADV,B,,advmod:13,linguistic,_,_,_,_,_,_,_
 353-12,TO054,353,353,13,bro~,bro~,x,X,SP,,nmod:11,linguistic,_,Interrupted=Yes,_,_,_,_,_
-353-13,TO054,353,353,14,"buona,",buona,buone,ADJ,A,Gender=Fem|Number=Sing,amod:13,linguistic,_,Intonation=weakly_rising,_,_,_,_,_
+353-13,TO054,353,353,14,"buona,",buona,buono,ADJ,A,Gender=Fem|Number=Sing,amod:13,linguistic,_,Intonation=weakly_rising,_,_,_,_,_
 353-14,TO054,353,353,15,(.),(.),PAUSE,NVB,_,_
 353-15,TO054,353,353,16,temevo,temevo,temere,VERB,V,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,advcl:2,linguistic,_,_,_,_,_,_,_
 353-16,TO054,353,353,17,che,che,che,SCONJ,CS,,mark:20,linguistic,_,_,_,_,_,_,_
@@ -4547,8 +4547,8 @@
 353-27,TO054,353,353,28,il,il,il,DET,RD,Definite=Def|Gender=Masc|Number=Sing|PronType=Art,det:29,linguistic,_,_,_,_,_,_,0-2(163)
 353-28,TO054,353,353,29,"na:so],",naso,naso,NOUN,S,Gender=Masc|Number=Sing,obl:20,linguistic,_,Intonation=weakly_rising,End=1251.972,1x1,_,_,0-4(163)
 354-0,TO030,354,354,1,[presuntuosetti.,presuntuosetti,presuntuosettere,VERB,V,Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin,root:0,linguistic,_,Intonation=falling,Begin=1250.044,_,_,_,0-14(163)
-354-1,TO030,354,354,2,eh.,eh,eh,X,X,,obj:1,linguistic,_,Intonation=falling,_,_,_,_,0-2(163)
-354-2,TO030,354,354,3,eh].,eh,eh,X,X,,flat:foreign:1,linguistic,_,Intonation=falling,End=1251.961,_,_,_,0-2(163)
+354-1,TO030,354,354,2,eh.,eh,eh,INTJ,X,,obj:1,linguistic,_,Intonation=falling,_,_,_,_,0-2(163)
+354-2,TO030,354,354,3,eh].,eh,eh,INTJ,X,,flat:foreign:1,linguistic,_,Intonation=falling,End=1251.961,_,_,_,0-2(163)
 355-0,TO054,355,355,1,sia,sia,essere,AUX,VA,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,cop:3,linguistic,_,_,Begin=1252.382,_,_,_,_
 355-1,TO054,355,355,2,gli,gli,il,DET,RD,Definite=Def|Gender=Masc|Number=Plur|PronType=Art,det:3,linguistic,_,_,_,_,_,_,_
 355-2,TO054,355,355,3,"insegnanti,",insegnanti,insegnante,NOUN,S,Number=Plur,root:0,linguistic,_,Intonation=weakly_rising,_,_,_,_,_

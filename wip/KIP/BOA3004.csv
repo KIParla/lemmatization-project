@@ -1053,7 +1053,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 121-3,BO021,121,121,4,come,come,come,ADP,_,_
 121-4,BO021,121,121,5,l',l',la,PRON,_,_
 121-5,BO021,121,121,6,ho,ho,avere,AUX,_,_
-121-6,BO021,121,121,7,"capita,",capita,capire,VERB,_,_
+121-6,BO021,121,121,7,"capita,",capita,capitare,VERB,_,_
 121-7,BO021,121,121,8,[sì],sì,sì,ADV,_,_
 122-0,BO047,122,122,1,[xxx],xxx,x,X,_,_
 122-1,BO047,122,122,2,mh,mh,mh,INTJ,_,_
@@ -3475,7 +3475,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 420-0,BO046,420,420,1,i,i,il,DET,_,_
 420-1,BO046,420,420,2,centrifugati?,centrifugati,centrifugato,NOUN,_,_
 421-0,BO021,421,421,1,un,un,uno,DET,_,_
-421-1,BO021,421,421,2,bel,bel,bel,ADJ,_,_
+421-1,BO021,421,421,2,bel,bel,bello,ADJ,_,_
 421-2,BO021,421,421,3,[po'],po',poco,ADV,_,_
 422-0,BO046,422,422,1,"[di]pende,",dipende,dipendere,VERB,_,_
 423-0,BO046,423,423,1,tipo,tipo,tipo,NOUN,_,_
@@ -3538,7 +3538,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 431-1,BO021,431,431,2,tipo,tipo,tipo,NOUN,_,_
 431-2,BO021,431,431,3,[a,a,a,ADP,_,_
 431-3,BO021,431,431,4,napoli,napoli,Napoli,PROPN,_,_
-431-4,BO021,431,431,5,ce,ce,ci,PRON,_,_
+431-4,BO021,431,431,5,ce,ce,ce,PRON,_,_
 431-5,BO021,431,431,6,stanno:::::],stanno,stare,VERB,_,_
 432-0,BO046,432,432,1,[sì,sì,sì,ADV,_,_
 432-1,BO046,432,432,2,no,no,no,ADV,_,_
@@ -3974,7 +3974,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 482-0,BO021,482,482,1,"m:::h,",mh,mh,INTJ,_,_
 482-1,BO021,482,482,2,io,io,io,PRON,_,_
 482-2,BO021,482,482,3,non,non,non,ADV,_,_
-482-3,BO021,482,482,4,ce,ce,ci,PRON,_,_
+482-3,BO021,482,482,4,ce,ce,ce,PRON,_,_
 482-4,BO021,482,482,5,pozz,pozz,potere,AUX,_,_
 482-5,BO021,482,482,6-7,pensa',pensa',pensare,VERB,_,_
 483-0,BO047,483,483,0,((ride)),((ride)),NVB,NVB,_,_
@@ -5451,7 +5451,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 685-5,BO046,685,685,6,diverse,diverse,diverso,ADJ,_,_
 686-0,BO046,686,686,1,dov',dov',dove,ADV,_,_
 686-1,BO046,686,686,2,è,è,essere,AUX,_,_
-686-2,BO046,686,686,3,andato,andato,andato,VERB,_,_
+686-2,BO046,686,686,3,andato,andato,andare,VERB,_,_
 686-3,BO046,686,686,4,marione,marione,Marione,PROPN,_,_
 686-4,BO046,686,686,5,a,a,a,ADP,_,_
 686-5,BO046,686,686,6-7,prendersi,prendersi,prendere+si,VERB+PRON,_,_
@@ -9103,7 +9103,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1253-9,BO046,1253,1253,10-11,nelle,nelle,in+il,ADP+DET,_,_
 1253-9a,_,_,1253,10,_,in,in,ADP,_,_
 1253-9b,_,_,1253,11,_,le,il,DET,_,_
-1253-10,BO046,1253,1253,12,case.,case,case,NOUN,_,_
+1253-10,BO046,1253,1253,12,case.,case,casa,NOUN,_,_
 1253-11,BO046,1253,1253,13,(.),(.),PAUSE,NVB,_,_
 1253-12,BO046,1253,1253,14,ora,ora,ora,ADV,_,_
 1253-13,BO046,1253,1253,15,non,non,non,ADV,_,_

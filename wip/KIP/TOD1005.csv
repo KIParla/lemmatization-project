@@ -163,7 +163,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 29-4,???,29,29,5,[siamo,siamo,essere,AUX,_,_
 29-5,???,29,29,6,asia,asia,asia,NOUN,_,_
 29-6,???,29,29,7,e,e,e,CCONJ,_,_
-29-7,???,29,29,8,africa,africa,africa,NOUN,_,_
+29-7,???,29,29,8,africa,africa,Africa,NOUN,_,_
 29-8,???,29,29,9,sì].,sì,sì,ADV,_,_
 30-0,TO017,30,30,1,[studi],studi,studio,NOUN,_,_
 30-1,TO017,30,30,2,okay.,okay,ok,INTJ,_,_
@@ -1012,7 +1012,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 139-8,TO017,139,139,9,le,le,il,DET,_,_
 139-9,TO017,139,139,10,presentazioni,presentazioni,presentazione,NOUN,_,_
 140-0,TO017,140,140,1,matteo,matteo,Matteo,PROPN,_,_
-140-1,TO017,140,140,2,marroni,marroni,Marrone,PROPN,_,_
+140-1,TO017,140,140,2,marroni,marroni,Marroni,PROPN,_,_
 140-2,TO017,140,140,3,per,per,per,ADP,_,_
 140-3,TO017,140,140,4,quello,quello,quello,PRON,_,_
 140-4,TO017,140,140,5,che,che,che,PRON,_,_
@@ -2295,7 +2295,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 310-3,???,310,310,4,sono,sono,essere,AUX,_,_
 310-4,???,310,310,5,nata,nata,nascere,VERB,_,_
 310-5,???,310,310,6,in,in,in,ADP,_,_
-310-6,???,310,310,7,italia,italia,italia,NOUN,_,_
+310-6,???,310,310,7,italia,italia,Italia,NOUN,_,_
 310-7,???,310,310,8,io.,io,io,PRON,_,_
 311-0,TO017,311,311,1,okay.,okay,ok,INTJ,_,_
 311-1,TO017,311,311,2,"però,",però,però,ADV,_,_
@@ -6302,7 +6302,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1083-5,TO017,1083,1083,6,un,un,uno,DET,_,_
 1083-6,TO017,1083,1083,7,testimone,testimone,testimone,NOUN,_,_
 1084-0,TO017,1084,1084,1,è,è,essere,AUX,_,_
-1084-1,TO017,1084,1084,2,"andato,",andato,andato,VERB,_,_
+1084-1,TO017,1084,1084,2,"andato,",andato,andare,VERB,_,_
 1085-0,TO017,1085,1085,1,eh,eh,eh,INTJ,_,_
 1085-1,TO017,1085,1085,2-3,a:l,al,a+il,ADP+DET,_,_
 1085-1a,_,_,1085,2,_,a,a,ADP,_,_
@@ -7175,7 +7175,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1221-9,TO017,1221,1221,10,una,una,uno,DET,_,_
 1221-10,TO017,1221,1221,11,lingua,lingua,lingua,NOUN,_,_
 1221-11,TO017,1221,1221,12,è,è,essere,AUX,_,_
-1221-12,TO017,1221,1221,13,italiana,italiana,italiana,ADJ,_,_
+1221-12,TO017,1221,1221,13,italiana,italiana,italiano,ADJ,_,_
 1221-13,TO017,1221,1221,14,se,se,se,SCONJ,_,_
 1221-14,TO017,1221,1221,15,"no,",no,no,ADV,_,_
 1222-0,TO017,1222,1222,1,facciamo,facciamo,fare,VERB,_,_

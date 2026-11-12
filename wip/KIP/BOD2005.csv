@@ -131,7 +131,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 17-6,BO073,17,17,7,e,e,e,CCONJ,_,_
 17-7,BO073,17,17,8-9,'na::,'na,uno,DET,_,_
 17-8,BO073,17,17,10,vabbè,vabbè,vabbè,INTJ,_,_
-18-0,BO021,18,18,1,sa,sa,X,X,_,_
+18-0,BO021,18,18,1,sa,sa,x,X,_,_
 18-1,BO021,18,18,2,ma,ma,ma,CCONJ,_,_
 18-2,BO021,18,18,3,mo,mo,ora,ADV,Lang=und|Dialect=Yes,_
 18-3,BO021,18,18,4,aspetta,aspetta,aspettare,VERB,_,_
@@ -4320,7 +4320,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 561-7,BO021,561,561,8,stai,stai,stare,AUX,_,_
 561-8,BO021,561,561,9,vivendo,vivendo,vivere,VERB,_,_
 561-9,BO021,561,561,10,con,con,con,ADP,_,_
-561-10,BO021,561,561,11,mauri:,mauri,X,X,_,_
+561-10,BO021,561,561,11,mauri:,mauri,Mauri,PROPN,_,_
 561-11,BO021,561,561,12-13,nella,nella,in+il,ADP+DET,_,_
 561-11a,_,_,561,12,_,in,in,ADP,_,_
 561-11b,_,_,561,13,_,la,il,DET,_,_
@@ -4844,7 +4844,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 625-27,BO073,625,625,30,là,là,là,ADV,_,_
 625-28,BO073,625,625,31,è,è,essere,AUX,_,_
 625-29,BO073,625,625,32,tipo,tipo,tipo,NOUN,_,_
-625-30,BO073,625,625,33,"gineceo,",gineceo,X,X,_,_
+625-30,BO073,625,625,33,"gineceo,",gineceo,gineceo,NOUN,_,_
 626-0,BO073,626,626,1,non,non,non,ADV,_,_
 626-1,BO073,626,626,2,deve,deve,dovere,AUX,_,_
 626-2,BO073,626,626,3,salire,salire,salire,VERB,_,_
