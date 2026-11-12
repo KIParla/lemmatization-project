@@ -305,7 +305,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 52-2,BO097,52,52,3,hanno,hanno,avere,VERB,_,_
 52-3,BO097,52,52,4,determinati,determinati,determinato,ADJ,_,_
 52-4,BO097,52,52,5,file,file,file,NOUN,_,_
-53-0,BO097,53,53,1,de~,de~,de~,X,_,_
+53-0,BO097,53,53,1,de~,de~,x,X,_,_
 53-1,BO097,53,53,2-3,degli,degli,di+il,ADP+DET,_,_
 53-1a,_,_,53,2,_,di,di,ADP,_,_
 53-1b,_,_,53,3,_,gli,il,DET,_,_
@@ -809,7 +809,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 148-2,BO097,148,148,3,cosa,cosa,cosa,PRON,_,_
 148-3,BO097,148,148,4,devo,devo,dovere,AUX,_,_
 148-4,BO097,148,148,5,fare,fare,fare,VERB,_,_
-148-5,BO097,148,148,6,cio~,cio~,cio~,X,_,_
+148-5,BO097,148,148,6,cio~,cio~,x,X,_,_
 148-6,BO097,148,148,7,ho,ho,avere,VERB,_,_
 148-7,BO097,148,148,8,un',un',uno,DET,_,_
 148-8,BO097,148,148,9,ora,ora,ora,NOUN,_,_
@@ -1103,7 +1103,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 193-4,BO095,193,193,5,lo,lo,lo,PRON,_,_
 193-5,BO095,193,193,6,fanno,fanno,fare,VERB,_,_
 193-6,BO095,193,193,7,stivare,stivare,stivare,VERB,_,_
-194-0,BO095,194,194,1,ne~,ne~,ne~,PROPN,_,_
+194-0,BO095,194,194,1,ne~,ne~,x,X,_,_
 194-1,BO095,194,194,2-3,nei,nei,in+il,ADP+DET,_,_
 194-1a,_,_,194,2,_,in,in,ADP,_,_
 194-1b,_,_,194,3,_,i,il,DET,_,_
@@ -1216,7 +1216,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 208-10,BO095,208,208,11,prestissimo,prestissimo,presto,ADV,_,_
 208-11,BO095,208,208,12,ovviamente,ovviamente,ovviamente,ADV,_,_
 209-0,BO095,209,209,1,però,però,però,CCONJ,_,_
-209-1,BO095,209,209,2,finisce,finisce,finiscere,VERB,_,_
+209-1,BO095,209,209,2,finisce,finisce,finire,VERB,_,_
 209-2,BO095,209,209,3,che,che,che,SCONJ,_,_
 209-3,BO095,209,209,4,o,o,o,CCONJ,_,_
 209-4,BO095,209,209,5,mi,mi,mi,PRON,_,_

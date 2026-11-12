@@ -352,8 +352,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 88-8,TOR001,88,88,9,cosa,cosa,cosa,PRON,_,_
 88-9,TOR001,88,88,10,fai?,fai,fare,VERB,_,_
 88-10,TOR001,88,88,11,cioè,cioè,cioè,ADV,_,_
-88-11,TOR001,88,88,12,l~,l~,l~,DET,_,_
-88-12,TOR001,88,88,13,l~,l~,l~,DET,_,_
+88-11,TOR001,88,88,12,l~,l~,x,X,_,_
+88-12,TOR001,88,88,13,l~,l~,x,X,_,_
 88-13,TOR001,88,88,14,la,la,la,DET,_,_
 88-14,TOR001,88,88,15,[la,la,il,DET,_,_
 88-15,TOR001,88,88,16,tua,tua,tuo,DET,_,_
@@ -453,8 +453,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 109-10,TOI002,109,109,11,amministrativa,amministrativa,amministrativo,ADJ,_,_
 109-11,TOI002,109,109,12,e,e,e,CCONJ,_,_
 109-12,TOI002,109,109,13,io,io,io,PRON,_,_
-109-13,TOI002,109,109,14,(s~,s~,X,X,_,_
-109-14,TOI002,109,109,15,s~),s~,X,X,_,_
+109-13,TOI002,109,109,14,(s~,s~,x,X,_,_
+109-14,TOI002,109,109,15,s~),s~,x,X,_,_
 109-15,TOI002,109,109,16,gestisco,gestisco,gestire,VERB,_,_
 109-16,TOI002,109,109,17,i,i,il,DET,_,_
 109-17,TOI002,109,109,18,cantieri,cantieri,cantiere,NOUN,_,_
@@ -468,7 +468,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 112-0,TOR001,112,112,0,((ride)),((ride)),NVB,NVB,_,_
 113-0,TOR003,113,113,1,[però],però,però,ADV,_,_
 114-0,TOI002,114,114,1,il,il,il,DET,_,_
-114-1,TOI002,114,114,2,t~,t~,X,X,_,_
+114-1,TOI002,114,114,2,t~,t~,x,X,_,_
 114-2,TOI002,114,114,3,(.),(.),PAUSE,NVB,_,_
 114-3,TOI002,114,114,4,il,il,il,DET,_,_
 114-4,TOI002,114,114,5,tempo,tempo,tempo,NOUN,_,_
@@ -626,7 +626,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 141-9,TOR001,141,141,11,sì,sì,sì,INTJ,_,_
 141-10,TOR001,141,141,12,sì],sì,sì,INTJ,_,_
 142-0,TOI003,142,142,1,[la,la,il,DET,_,_
-142-1,TOI003,142,142,2,re~,re~,X,X,_,_
+142-1,TOI003,142,142,2,re~,re~,x,X,_,_
 142-2,TOI003,142,142,3,(.),(.),PAUSE,NVB,_,_
 142-3,TOI003,142,142,4,la,la,il,DET,_,_
 142-4,TOI003,142,142,5,revisione,revisione,revisione,NOUN,_,_
@@ -739,7 +739,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 156-8,TOI003,156,156,9,problemi,problemi,problema,NOUN,_,_
 157-0,TOI003,157,157,1,e,e,e,CCONJ,_,_
 157-1,TOI003,157,157,2,tu,tu,tu,PRON,_,_
-157-2,TOI003,157,157,3,(in~),in~,X,X,_,_
+157-2,TOI003,157,157,3,(in~),in~,x,X,_,_
 157-3,TOI003,157,157,4,non,non,non,ADV,_,_
 157-4,TOI003,157,157,5,lo,lo,lo,PRON,_,_
 157-5,TOI003,157,157,6,sapevi,sapevi,sapere,AUX,_,_
@@ -753,7 +753,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 157-13,TOI003,157,157,14,cliente,cliente,cliente,NOUN,_,_
 158-0,TOI003,158,158,1,e,e,e,CCONJ,_,_
 158-1,TOI003,158,158,2,se,se,se,SCONJ,_,_
-158-2,TOI003,158,158,3,l~,l~,X,X,_,_
+158-2,TOI003,158,158,3,l~,l~,x,X,_,_
 158-3,TOI003,158,158,4,eh,eh,eh,INTJ,_,_
 158-4,TOI003,158,158,5,lui,lui,lui,PRON,_,_
 158-5,TOI003,158,158,6,era,era,essere,AUX,_,_

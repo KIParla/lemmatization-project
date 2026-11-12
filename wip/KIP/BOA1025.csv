@@ -257,7 +257,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 46-0,BO117,46,[e::h],eh,eh,INTJ,_,_
 46-1,BO117,46,no.,no,no,ADV,Intonation=falling,_
 47-0,BO005,47,[°(nemmeno.)°],nemmeno,nemmeno,ADV,Intonation=falling|Volume=low,_
-48-0,BO117,48,s~,s~,s~,PROPN,Interrupted=Yes,_
+48-0,BO117,48,s~,s~,x,X,Interrupted=Yes,_
 48-1,BO117,48,secondo,secondo,secondo,ADP,_,_
 48-2,BO117,48,me,me,me,PRON,_,_
 48-3,BO117,48,può,può,potere,AUX,_,_
@@ -510,7 +510,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 93-3,BO005,93,mi,mi,mi,PRON,_,_
 93-4,BO005,93,serve,serve,servire,VERB,_,_
 93-5,BO005,93,perché,perché,perché,SCONJ,_,_
-93-6,BO005,93,no~,no~,no~,ADV,Interrupted=Yes|ProsodicLink=Yes,_
+93-6,BO005,93,no~,no~,x,X,Interrupted=Yes|ProsodicLink=Yes,_
 93-7,BO005,93,non,non,non,ADV,_,_
 93-8,BO005,93,ho,ho,avere,VERB,_,_
 93-9,BO005,93,bisogno,bisogno,bisogno,NOUN,_,_
@@ -647,7 +647,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 128-3,BO005,128,sì,sì,sì,ADV,_,_
 128-4,BO005,128,lei,lei,lei,PRON,_,_
 128-5,BO005,128,aveva,aveva,avere,VERB,_,_
-128-6,BO005,128,mo~,mo~,mo~,X,Interrupted=Yes,_
+128-6,BO005,128,mo~,mo~,x,X,Interrupted=Yes,_
 128-7,BO005,128,ci,ci,ci,PRON,_,_
 128-8,BO005,128,aveva,aveva,avere,AUX,_,_
 128-9,BO005,128,mostrato,mostrato,mostrare,VERB,_,_

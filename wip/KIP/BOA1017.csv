@@ -539,7 +539,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 86-3,BO082,86,allora,allora,allora,ADV,_,_
 86-4,BO082,86,maschile],maschile,maschile,ADJ,_,_
 86-5,BO082,86,e,e,e,CCONJ,_,_
-86-6,BO082,86,"fe~,",fe~,fe~,X,Intonation=weakly_rising,_
+86-6,BO082,86,"fe~,",fe~,x,X,Intonation=weakly_rising,_
 86-7,BO082,86,"allora,",allora,allora,ADV,Intonation=weakly_rising,_
 87-0,BO082,87,"lei,",lei,lei,PRON,Intonation=weakly_rising,_
 87-1,BO082,87,troppa,troppa,troppo,DET,_,_
@@ -841,7 +841,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 136-0,BO084,136,[perché],perché,perché,SCONJ,_,_
 136-1,BO084,136,in,in,in,ADP,_,_
 136-2,BO084,136,inglese,inglese,inglese,NOUN,_,_
-136-3,BO084,136,ab~,ab~,ab~,X,Interrupted=Yes,_
+136-3,BO084,136,ab~,ab~,x,X,Interrupted=Yes,_
 136-4,BO084,136,>cioè<,cioè,cioè,CCONJ,_,_
 136-5,BO084,136,c',c',ci,PRON,Truncated=Yes,_
 136-6,BO084,136,è,è,essere,VERB,_,_
@@ -1065,7 +1065,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 160-3,BO082,160,è,è,essere,AUX,_,_
 160-4,BO082,160,un,un,uno,DET,_,_
 160-5,BO082,160,immaginario,immaginario,immaginario,NOUN,_,_
-160-6,BO082,160,col~,col~,col~,X,Interrupted=Yes,_
+160-6,BO082,160,col~,col~,x,X,Interrupted=Yes,_
 160-7,BO082,160,collettivo,collettivo,collettivo,ADJ,_,_
 160-8,BO082,160,eccetera,eccetera,eccetera,ADV,_,_
 160-9,BO082,160,che,che,che,PRON,_,_

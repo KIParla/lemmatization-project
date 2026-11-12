@@ -42,7 +42,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 12-0,BO044,12,12,1,s[ì].,sì,sì,ADV,_,_
 13-0,BO026,13,13,1,[°c',c',ci,PRON,_,_
 13-1,BO026,13,13,2,]è,è,essere,VERB,_,_
-13-2,BO026,13,13,3,a~,a~,a~,X,_,_
+13-2,BO026,13,13,3,a~,a~,x,X,_,_
 14-0,BO044,14,14,1,e,e,e,CCONJ,_,_
 14-1,BO044,14,14,2,quindi,quindi,quindi,SCONJ,_,_
 14-2,BO044,14,14,3,volevo,volevo,volere,AUX,_,_
@@ -59,7 +59,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 17-2,BO044,17,17,3,sapere,sapere,sapere,VERB,_,_
 17-3,BO044,17,17,4,come::,come,come,ADV,_,_
 17-4,BO044,17,17,5,quando,quando,quando,ADV,_,_
-17-5,BO044,17,17,6,f~,f~,f~,X,_,_
+17-5,BO044,17,17,6,f~,f~,x,X,_,_
 17-6,BO044,17,17,7,quando,quando,quando,SCONJ,_,_
 17-7,BO044,17,17,8,potrò,potrò,potere,AUX,_,_
 17-8,BO044,17,17,9,fare,fare,fare,VERB,_,_
@@ -114,7 +114,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 25-4,BO044,25,25,6,"dialoghi<,",dialoghi,dialogo,NOUN,_,_
 26-0,BO026,26,26,1,l',l',il,DET,_,_
 26-1,BO026,26,26,2,"analisi,",analisi,analisi,NOUN,_,_
-27-0,BO026,27,27,1,di~,di~,di~,ADP,_,_
+27-0,BO026,27,27,1,di~,di~,x,X,_,_
 27-1,BO026,27,27,2-3,della,della,di+il,ADP+DET,_,_
 27-1a,_,_,27,2,_,di,di,ADP,_,_
 27-1b,_,_,27,3,_,la,il,DET,_,_
@@ -131,7 +131,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 27-12,BO026,27,27,14,orale.,orale,orale,ADJ,_,_
 28-0,BO044,28,28,1,e:,e,e,CCONJ,_,_
 28-1,BO044,28,28,2,pe:r,per,per,ADP,_,_
-28-2,BO044,28,28,3,pr~,pr~,pr~,X,_,_
+28-2,BO044,28,28,3,pr~,pr~,x,X,_,_
 28-3,BO044,28,28,4,la,la,il,DET,_,_
 28-4,BO044,28,28,5,prenotazione,prenotazione,prenotazione,NOUN,_,_
 28-5,BO044,28,28,6,è,è,essere,VERB,_,_
@@ -271,7 +271,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 58-2,BO026,58,58,3,gli,gli,il,DET,_,_
 58-3,BO026,58,58,4,handout,handout,handout,NOUN,_,_
 58-4,BO026,58,58,5,che,che,che,PRON,_,_
-58-5,BO026,58,58,6,co~,co~,co~,X,_,_
+58-5,BO026,58,58,6,co~,co~,x,X,_,_
 58-6,BO026,58,58,7,contengono,contengono,contenere,VERB,_,_
 58-7,BO026,58,58,8,le,le,il,DET,_,_
 58-8,BO026,58,58,9-10,delle,delle,del,DET,_,_
@@ -379,7 +379,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 67-23,BO026,67,67,25,"evidenza,",evidenza,evidenza,NOUN,_,_
 68-0,BO026,68,68,1,e,e,e,CCONJ,_,_
 68-1,BO026,68,68,2,lo,lo,il,DET,_,_
-68-2,BO026,68,68,3,d~,d~,d~,X,_,_
+68-2,BO026,68,68,3,d~,d~,x,X,_,_
 68-3,BO026,68,68,4,lei,lei,lei,PRON,_,_
 68-4,BO026,68,68,5,lo,lo,lo,PRON,_,_
 68-5,BO026,68,68,6,farà,farà,fare,VERB,_,_
@@ -462,7 +462,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 82-1,BO044,82,82,2,bene.,bene,bene,ADV,_,_
 83-0,BO044,83,83,1,quindi,quindi,quindi,SCONJ,_,_
 83-1,BO044,83,83,2,(io),io,io,PRON,_,_
-83-2,BO044,83,83,3,dev~,dev~,dev~,X,_,_
+83-2,BO044,83,83,3,dev~,dev~,x,X,_,_
 83-3,BO044,83,83,4,io,io,io,PRON,_,_
 83-4,BO044,83,83,5,rimango,rimango,rimanere,VERB,_,_
 83-5,BO044,83,83,6,sempre,sempre,sempre,ADV,_,_

@@ -22,7 +22,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 2-6,BO026,2,2,7,email,email,email,NOUN,_,_
 2-7,BO026,2,2,8,lei,lei,lei,PRON,_,_
 2-8,BO026,2,2,9,però,però,però,ADV,_,_
-2-9,BO026,2,2,10,m~,m~,m~,X,_,_
+2-9,BO026,2,2,10,m~,m~,x,X,_,_
 2-10,BO026,2,2,11,me,me,me,PRON,_,_
 2-11,BO026,2,2,12,la,la,il,DET,_,_
 2-12,BO026,2,2,13,manda,manda,mandare,VERB,_,_
@@ -112,7 +112,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 19-5,BO032,19,19,8,era,era,essere,VERB,_,_
 19-6,BO032,19,19,9,anche,anche,anche,ADV,_,_
 19-7,BO032,19,19,10,appunto,appunto,appunto,ADV,_,_
-19-8,BO032,19,19,11,(pao~),pao~,pao~,X,_,_
+19-8,BO032,19,19,11,(pao~),pao~,x,X,_,_
 19-9,BO032,19,19,12,"pallotti,",pallotti,Pallotti,PROPN,_,_
 19-10,BO032,19,19,13,"([va]goni),",vagoni,Vagoni,PROPN,_,_
 19-11,BO032,19,19,14,>e:,e,e,CCONJ,_,_
@@ -134,7 +134,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 21-10,BO032,21,21,11,io,io,io,PRON,_,_
 21-11,BO032,21,21,12,ho,ho,avere,VERB,_,_
 21-12,BO032,21,21,13,da,da,da,ADP,_,_
-21-13,BO032,21,21,14,verb~,verb~,verb~,X,_,_
+21-13,BO032,21,21,14,verb~,verb~,x,X,_,_
 21-14,BO032,21,21,15,dovrei,dovrei,dovere,AUX,_,_
 21-15,BO032,21,21,16,riuscire,riuscire,riuscire,VERB,_,_
 21-16,BO032,21,21,17,anche,anche,anche,ADV,_,_
@@ -192,7 +192,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 27-15,BO032,27,27,16,euro,euro,euro,NOUN,_,_
 27-16,BO032,27,27,17,q]uindi,quindi,quindi,CCONJ,_,_
 27-17,BO032,27,27,18,(voglio,voglio,volere,VERB,_,_
-27-18,BO032,27,27,19,"di~)<,",di~,di~,X,_,_
+27-18,BO032,27,27,19,"di~)<,",di~,x,X,_,_
 28-0,BO026,28,28,1,"[°quindi,°]",quindi,quindi,CCONJ,_,_
 29-0,BO032,29,29,1,>mi,mi,mi,PRON,_,_
 29-1,BO032,29,29,2,dispiace,dispiace,dispiacere,VERB,_,_

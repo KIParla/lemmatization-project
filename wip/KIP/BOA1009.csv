@@ -1,6 +1,6 @@
 token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 0-0,BO026,0,0,1,ha,ha,avere,AUX,_,_
-0-1,BO026,0,0,2,dimentica~,dimentica~,dimentica~,X,_,_
+0-1,BO026,0,0,2,dimentica~,dimentica~,x,X,_,_
 0-2,BO026,0,0,3,ah,ah,ah,INTJ,_,_
 0-3,BO026,0,0,4,non,non,non,ADV,_,_
 0-4,BO026,0,0,5,l',l',lo,PRON,_,SpaceAfter=No
@@ -431,7 +431,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 52-6,BO037,52,52,7,sì],sì,sì,ADV,_,_
 52-7,BO037,52,52,8,esatto,esatto,esatto,ADV,_,_
 52-8,BO037,52,52,9,ho,ho,avere,AUX,_,_
-52-9,BO037,52,52,10,fatto,fatto,figere,VERB,_,_
+52-9,BO037,52,52,10,fatto,fatto,fare,VERB,_,_
 52-10,BO037,52,52,11,tre,tre,tre,NUM,_,_
 52-11,BO037,52,52,12,anni,anni,anno,NOUN,_,_
 52-12,BO037,52,52,13,di,di,di,ADP,_,_
@@ -513,7 +513,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 61-6,BO037,61,61,7,tend[enzialmente,tendenzialmente,tendenzialmente,ADV,_,_
 61-7,BO037,61,61,8,tutti,tutti,tutto,DET,_,_
 61-8,BO037,61,61,9,i,i,il,DET,_,_
-61-9,BO037,61,61,10,lav~],lav~,lav~,X,_,_
+61-9,BO037,61,61,10,lav~],lav~,x,X,_,_
 62-0,BO026,62,62,1,[perché,perché,perché,SCONJ,_,_
 62-1,BO026,62,62,2,lo,lo,lo,PRON,_,_
 62-2,BO026,62,62,3,fanno,fanno,fare,VERB,_,_
@@ -617,7 +617,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 76-4,BO026,76,76,5,conosce,conosce,conore,VERB,_,_
 76-5,BO026,76,76,6,questa,questa,questo,DET,_,_
 76-6,BO026,76,76,7,scuola,scuola,scuola,NOUN,_,_
-76-7,BO026,76,76,8,torine~,torine~,torine~,X,_,_
+76-7,BO026,76,76,8,torine~,torine~,x,X,_,_
 76-8,BO026,76,76,9-10,del,del,di+il,ADP+DET,_,_
 76-8a,_,_,76,9,_,di,di,ADP,_,_
 76-8b,_,_,76,10,_,il,il,DET,_,_
@@ -712,7 +712,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 87-0,BO037,87,87,1,[okay].,okay,okay,INTJ,_,_
 88-0,BO037,88,88,1,[per,per,per,ADP,_,_
 88-1,BO037,88,88,2,quello,quello,quello,PRON,_,_
-88-2,BO037,88,88,3,n~,n~,n~,X,_,_
+88-2,BO037,88,88,3,n~,n~,x,X,_,_
 88-3,BO037,88,88,4,non,non,non,ADV,_,_
 88-4,BO037,88,88,5,c',c',ci,PRON,_,SpaceAfter=No
 88-5,BO037,88,88,6,è,è,essere,VERB,_,_
@@ -769,7 +769,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 94-5,BO026,94,94,6-7,dei,dei,di+il,ADP+DET,_,_
 94-5a,_,_,94,6,_,di,di,ADP,_,_
 94-5b,_,_,94,7,_,i,il,DET,_,_
-94-6,BO026,94,94,8,progett~,progett~,progett~,X,_,_
+94-6,BO026,94,94,8,progett~,progett~,x,X,_,_
 94-7,BO026,94,94,9,lei,lei,lei,PRON,_,_
 94-8,BO026,94,94,10,la,la,la,PRON,_,_
 94-9,BO026,94,94,11,seguirebbe,seguirebbe,seguire,VERB,_,_
@@ -847,7 +847,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 100-0,BO026,100,100,1,[°sì.°],sì,sì,ADV,_,_
 101-0,BO026,101,101,1,[i:l,il,il,DET,_,_
 101-1,BO026,101,101,2,servi]zio,servizio,servizio,NOUN,_,_
-101-2,BO026,101,101,3,dis~,dis~,dis~,X,_,_
+101-2,BO026,101,101,3,dis~,dis~,x,X,_,_
 101-3,BO026,101,101,4,studenti,studenti,studento,NOUN,_,_
 101-4,BO026,101,101,5,disabili,disabili,disabile,ADJ,_,_
 101-5,BO026,101,101,6,e::,e,e,CCONJ,_,_
@@ -866,7 +866,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 104-2,BO026,104,104,16,gruppo,gruppo,gruppo,NOUN,_,_
 104-3,BO026,104,104,17,di,di,di,ADP,_,_
 104-4,BO026,104,104,18,assegnisti,assegnisti,assegnista,NOUN,_,_
-104-5,BO026,104,104,19,av~,av~,av~,X,_,_
+104-5,BO026,104,104,19,av~,av~,x,X,_,_
 104-6,BO026,104,104,20,avevano,avevano,avere,AUX,_,_
 104-7,BO026,104,104,21,inizialmente,inizialmente,inizialmente,ADV,_,_
 104-8,BO026,104,104,22,c',c',ci,PRON,_,SpaceAfter=No
@@ -1011,7 +1011,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 118-18,BO037,118,118,19,"lui,",lui,lui,PRON,_,_
 119-0,BO026,119,119,1,d',d',di,ADP,_,SpaceAfter=No
 119-1,BO026,119,119,2,accordo,accordo,accordo,NOUN,_,_
-119-2,BO026,119,119,3,allor~,allor~,allor~,X,_,_
+119-2,BO026,119,119,3,allor~,allor~,x,X,_,_
 119-3,BO026,119,119,4,io,io,io,PRON,_,_
 119-4,BO026,119,119,5,le,le,le,PRON,_,_
 119-5,BO026,119,119,6,dico,dico,dire,VERB,_,_
@@ -1184,8 +1184,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 143-6,BO026,143,143,7,alcuni,alcuni,alcuno,DET,_,_
 143-7,BO026,143,143,8,articoli,articoli,articolo,NOUN,_,_
 143-8,BO026,143,143,9,che=,che,che,PRON,_,_
-143-9,BO026,143,143,10,pre~=,pre~,pre~,X,_,_
-143-10,BO026,143,143,11,pre~,pre~,pre~,X,_,_
+143-9,BO026,143,143,10,pre~=,pre~,x,X,_,_
+143-10,BO026,143,143,11,pre~,pre~,x,X,_,_
 143-11,BO026,143,143,12,presi,presi,prendere,VERB,_,_
 143-12,BO026,143,143,13,erroneamente,erroneamente,erroneamente,ADV,_,_
 143-13,BO026,143,143,14,perché,perché,perché,SCONJ,_,_

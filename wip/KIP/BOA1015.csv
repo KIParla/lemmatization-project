@@ -16,7 +16,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 4-3,BO045,4,cinque,cinque,cinque,NUM,_,_
 4-4,BO045,4,che,che,che,PRON,_,_
 4-5,BO045,4,stavamo,stavamo,essere,AUX,_,_
-4-6,BO045,4,a~,a~,a~,X,_,_
+4-6,BO045,4,a~,a~,x,X,_,_
 4-7,BO045,4,(.),(.),PAUSE,NVB,_,_
 4-8,BO045,4,aspettando,aspettando,aspettare,VERB,_,_
 4-9,BO045,4,"su,",su,su,ADP,_,_
@@ -29,7 +29,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 5-4,BO045,5,quattro:],quattro,quattro,NUM,_,_
 6-0,BO026,6,[ah,ah,ah,INTJ,_,_
 6-1,BO026,6,(.),(.),PAUSE,NVB,_,_
-6-2,BO026,6,quin~,quin~,quin~,X,_,_
+6-2,BO026,6,quin~,quin~,x,X,_,_
 6-3,BO026,6,e,e,e,CCONJ,_,_
 6-4,BO026,6,non,non,non,ADV,_,_
 6-5,BO026,6,ve],ve,vi,PRON,_,_
@@ -86,7 +86,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 13-4,BO026,13,il,il,il,DET,_,_
 13-2,BO026,13,suo,suo,suo,DET,_,_
 13-3,BO026,13,[nome]?,nome,nome,NOUN,_,_
-14-0,BO045,14,[porta~],porta~,porta~,X,_,_
+14-0,BO045,14,[porta~],porta~,x,X,_,_
 15-0,BO045,15,blu,blu,blu,ADJ,_,_
 15-1,BO045,15,giuliana.,giuliana,Giuliana,PROPN,_,_
 16-0,BO026,16,sì,sì,sì,ADV,_,_
@@ -105,7 +105,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 20-2,BO045,20,"se,",se,se,SCONJ,_,_
 21-0,BO045,21,"sono,",sono,essere,AUX,_,_
 22-0,BO045,22,e::h,eh,eh,INTJ,_,_
-22-1,BO045,22,i~,i~,i~,X,_,_
+22-1,BO045,22,i~,i~,x,X,_,_
 22-2,BO045,22,ho,ho,avere,AUX,_,_
 22-3,BO045,22,iniziato,iniziato,iniziare,VERB,_,_
 22-4,BO045,22,dal,dal,da+il,ADP+DET,_,_
@@ -166,7 +166,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 28-2,BO026,28,fatto,fatto,fare,VERB,_,_
 28-3,BO026,28,tutto,tutto,tutto,DET,_,_
 28-4,BO026,28,"aprile,",aprile,aprile,NOUN,_,_
-29-0,BO045,29,s~,s~,s~,X,_,_
+29-0,BO045,29,s~,s~,x,X,_,_
 29-1,BO045,29,e::h,eh,eh,INTJ,_,_
 29-2,BO045,29,mh,mh,mh,INTJ,_,_
 29-3,BO045,29,(.),(.),PAUSE,NVB,_,_
@@ -195,10 +195,10 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 32-11,BO045,32,no,no,no,ADV,_,_
 32-12,BO045,32,oggi,oggi,oggi,ADV,_,_
 32-13,BO045,32,(.),(.),PAUSE,NVB,_,_
-32-14,BO045,32,n~,n~,n~,X,_,_
+32-14,BO045,32,n~,n~,x,X,_,_
 32-15,BO045,32,abbiamo,abbiamo,avere,AUX,_,_
 32-16,BO045,32,fatto,fatto,fare,VERB,_,_
-32-17,BO045,32,nient~,nient~,nient~,PRON,_,_
+32-17,BO045,32,nient~,nient~,x,X,_,_
 32-18,BO045,32,ah,ah,ah,INTJ,_,_
 32-19,BO045,32,okay,okay,okay,INTJ,_,_
 32-20,BO045,32,"quindi,",quindi,quindi,ADV,_,_
@@ -297,7 +297,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 45-4,BO045,45,dica,dica,dire,VERB,_,_
 45-5,BO045,45,[le]i.,lei,lei,PRON,_,_
 46-0,BO026,46,[sì].,sì,sì,ADV,_,_
-47-0,BO026,47,n~,n~,n~,X,_,_
+47-0,BO026,47,n~,n~,x,X,_,_
 47-1,BO026,47,eh,eh,eh,INTJ,_,_
 47-2,BO026,47,"cioè,",cioè,cioè,CCONJ,_,_
 47-3,BO026,47,(.),(.),PAUSE,NVB,_,_
@@ -906,7 +906,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 146-11a,_,_,_,da,da,ADP,_,_
 146-11b,_,_,_,l',il,DET,_,_
 146-12,BO045,146,inglese.,inglese,inglese,NOUN,_,_
-147-0,BO045,147,a~,a~,a,ADP,_,_
+147-0,BO045,147,a,a,a,ADP,_,_
 147-1,BO045,147,e,e,e,CCONJ,_,_
 147-2,BO045,147,quindi,quindi,quindi,ADV,_,_
 147-3,BO045,147,lei,lei,lei,PRON,_,_

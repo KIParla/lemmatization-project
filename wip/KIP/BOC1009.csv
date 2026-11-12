@@ -66,7 +66,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 12-7,BO142,12,12,9,sia,sia,essere,AUX,_,_
 12-8,BO142,12,12,10,"un:,",un,uno,DET,Intonation=weakly_rising,_
 13-0,BO142,13,13,1,e:h,eh,eh,INTJ,_,_
-13-1,BO142,13,13,2,cor~,cor~,cor~,X,Interrupted=Yes,_
+13-1,BO142,13,13,2,cor~,cor~,x,X,Interrupted=Yes,_
 13-2,BO142,13,13,3,"un:,",un,uno,DET,Intonation=weakly_rising,_
 14-0,BO142,14,14,1,"e::hm::,",ehm,ehm,INTJ,Intonation=weakly_rising,_
 15-0,BO142,15,15,1,metodo,metodo,metodo,NOUN,_,_
@@ -190,7 +190,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 34-2,BO142,34,34,3,genera:le,generale,generale,ADJ,_,_
 34-3,BO142,34,34,4,si,si,si,PRON,_,_
 34-4,BO142,34,34,5,è,è,essere,AUX,_,_
-34-5,BO142,34,34,6,par~,par~,par~,X,Interrupted=Yes,_
+34-5,BO142,34,34,6,par~,par~,x,X,Interrupted=Yes,_
 34-6,BO142,34,34,7,m::h,mh,mh,INTJ,_,_
 34-7,BO142,34,34,8,si,si,si,PRON,_,_
 34-8,BO142,34,34,9,prende,prende,prendere,VERB,_,_
@@ -354,7 +354,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 56-12,BO142,56,56,13,e,e,e,CCONJ,_,_
 56-13,BO142,56,56,14,veicolare,veicolare,veicolare,VERB,_,_
 56-14,BO142,56,56,15,i,i,il,DET,_,_
-56-15,BO142,56,56,16,suo~,suo~,suo~,X,Interrupted=Yes,_
+56-15,BO142,56,56,16,suo~,suo~,x,X,Interrupted=Yes,_
 56-16,BO142,56,56,17,i,i,il,DET,_,_
 56-17,BO142,56,56,18,concetti,concetti,concetto,NOUN,_,_
 56-18,BO142,56,56,19,che,che,che,PRON,_,_
@@ -432,7 +432,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 66-10,BO142,66,66,12,regole,regole,regola,NOUN,_,_
 66-11,BO142,66,66,13,"ovvero,",ovvero,ovvero,CCONJ,Intonation=weakly_rising,_
 67-0,BO142,67,67,1,e::h,eh,eh,INTJ,_,_
-67-1,BO142,67,67,2,scandiscon~,scandiscono,scandire,VERB,Interrupted=Yes,_
+67-1,BO142,67,67,2,scandiscon~,scandiscon~,scandire,VERB,Interrupted=Yes,_
 67-2,BO142,67,67,3,cioè,cioè,cioè,ADV,_,_
 67-3,BO142,67,67,4,sono,sono,essere,AUX,_,_
 67-4,BO142,67,67,5,scanditi,scanditi,scandire,VERB,_,_
@@ -459,7 +459,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 72-1,BO117,72,72,2,ricordi]?,ricordi,ricordare,VERB,Intonation=rising,_
 73-0,???,73,73,1,((bussa)),((bussa)),NVB,NVB,_,_
 74-0,???,74,74,1,"avanti,",avanti,avanti,ADV,Intonation=weakly_rising,_
-75-0,BO142,75,75,1,(posisc~),posisc~,posisc~,X,Interrupted=Yes,_
+75-0,BO142,75,75,1,(posisc~),posisc~,x,X,Interrupted=Yes,_
 75-1,BO142,75,75,2,no.,no,no,ADV,Intonation=falling,_
 76-0,BO117,76,76,1,punti,punti,punto,NOUN,_,_
 76-1,BO117,76,76,2,di,di,di,ADP,_,_
@@ -495,7 +495,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 81-8,BO142,81,81,9,come,come,come,ADP,_,_
 81-9,BO142,81,81,10,ad,ad,a,ADP,_,_
 81-10,BO142,81,81,11,"esempio,",esempio,esempio,NOUN,Intonation=weakly_rising,_
-82-0,BO142,82,82,1,l~,la,il,DET,Interrupted=Yes,_
+82-0,BO142,82,82,1,l~,l~,il,DET,Interrupted=Yes,_
 82-1,BO142,82,82,2,la,la,il,DET,_,_
 82-2,BO142,82,82,3,regola,regola,regola,NOUN,_,_
 82-3,BO142,82,82,4,"che,",che,che,PRON,Intonation=weakly_rising,_
@@ -551,7 +551,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 88-12,BO142,88,88,13,si,si,si,PRON,_,_
 88-13,BO142,88,88,14,"può,",può,potere,AUX,Intonation=weakly_rising,_
 89-0,BO142,89,89,1,eh,eh,eh,INTJ,_,_
-89-1,BO142,89,89,2,f~,f~,f~,X,Interrupted=Yes,_
+89-1,BO142,89,89,2,f~,f~,x,X,Interrupted=Yes,_
 89-2,BO142,89,89,3,mh,mh,mh,INTJ,_,_
 89-3,BO142,89,89,4,"ehm:,",ehm,ehm,INTJ,Intonation=weakly_rising,_
 90-0,BO142,90,90,1,sì,sì,sì,ADV,_,_
@@ -594,7 +594,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 95-4a,-,-,95,4,-,continuare,continuare,VERB,_,_
 95-4b,-,-,95,4,-,lo,il,PRON,_,_
 96-0,BO142,96,96,1,(l',l',il,DET,Truncated=Yes,_
-96-1,BO142,96,96,2,int~),int~,int~,X,Interrupted=Yes,_
+96-1,BO142,96,96,2,int~),int~,x,X,Interrupted=Yes,_
 96-2,BO142,96,96,3,il:,il,il,DET,_,_
 96-3,BO142,96,96,4,il,il,il,DET,_,_
 96-4,BO142,96,96,5,parlante,parlante,parlante,NOUN,_,_
@@ -990,7 +990,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 155-0,BO142,155,155,1,e:h,eh,eh,INTJ,_,_
 155-1,BO142,155,155,2,(.),(.),PAUSE,NVB,_,_
 155-2,BO142,155,155,3,una,una,uno,DET,_,_
-155-3,BO142,155,155,4,cul~,cultura,cultura,NOUN,Interrupted=Yes,_
+155-3,BO142,155,155,4,cul~,cul~,cultura,NOUN,Interrupted=Yes,_
 155-4,BO142,155,155,5,non,non,non,ADV,_,_
 155-5,BO142,155,155,6,una,una,uno,DET,_,_
 155-6,BO142,155,155,7,cultura,cultura,cultura,NOUN,_,_
@@ -1168,10 +1168,10 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 181-0,BO142,181,181,1,per,per,per,ADP,_,_
 181-1,BO142,181,181,2,avere,avere,avere,VERB,_,_
 181-2,BO142,181,181,3,una,una,uno,DET,_,_
-181-3,BO142,181,181,4,ver~,ver~,ver~,X,Interrupted=Yes,_
+181-3,BO142,181,181,4,ver~,ver~,x,X,Interrupted=Yes,_
 181-4,BO142,181,181,5,una,una,uno,DET,_,_
 181-5,BO142,181,181,6,visione,visione,visione,NOUN,_,_
-181-6,BO142,181,181,7,p~,p~,p~,X,Interrupted=Yes,_
+181-6,BO142,181,181,7,p~,p~,x,X,Interrupted=Yes,_
 181-7,BO142,181,181,8,diversa,diversa,diverso,ADJ,_,_
 181-8,BO142,181,181,9-10,del,del,di+il,ADP+DET,_,_
 181-8a,_,_,181,9,_,di,di,ADP,_,_
@@ -1195,7 +1195,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 183-3b,_,_,183,5,_,gli,il,DET,_,_
 183-4,BO142,183,183,6,effetti,effetti,effetto,NOUN,_,_
 183-5,BO142,183,183,7,cognitivi,cognitivi,cognitivo,ADJ,_,_
-183-6,BO142,183,183,8,perma~,permanenti,permanente,ADJ,Interrupted=Yes,_
+183-6,BO142,183,183,8,perma~,perma~,permanente,ADJ,Interrupted=Yes,_
 183-7,BO142,183,183,9,"e::hm,",ehm,ehm,INTJ,Intonation=weakly_rising,_
 184-0,BO142,184,184,1,m:h,mh,mh,INTJ,_,_
 184-1,BO142,184,184,2,"efficaci,",efficaci,efficace,ADJ,Intonation=weakly_rising,_
@@ -1240,7 +1240,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 191-0,BO142,191,191,1,m:::h,mh,mh,INTJ,_,_
 191-1,BO142,191,191,2,diciamo,diciamo,dire,VERB,_,_
 191-2,BO142,191,191,3,(.),(.),PAUSE,NVB,_,_
-191-3,BO142,191,191,4,decodific~,decodificare,decodificare,VERB,Interrupted=Yes,_
+191-3,BO142,191,191,4,decodific~,decodific~,decodificare,VERB,Interrupted=Yes,_
 191-4,BO142,191,191,5,decodificare,decodificare,decodificare,VERB,_,_
 191-5,BO142,191,191,6,un:,un,uno,DET,_,_
 191-6,BO142,191,191,7,determinato,determinato,determinato,ADJ,_,_
@@ -1308,7 +1308,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 203-0,BO142,203,203,1,mah,mah,mah,INTJ,_,_
 203-1,BO142,203,203,2,io,io,io,PRON,_,_
 203-2,BO142,203,203,3,ho,ho,avere,VERB,_,_
-203-3,BO142,203,203,4,let~,let~,let~,X,Interrupted=Yes,_
+203-3,BO142,203,203,4,let~,let~,x,X,Interrupted=Yes,_
 203-4,BO142,203,203,5,m:h,mh,mh,INTJ,_,_
 203-5,BO142,203,203,6,cioè,cioè,cioè,ADV,_,_
 203-6,BO142,203,203,7,mi,mi,mi,PRON,_,_
@@ -1367,7 +1367,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 208-8,BO142,208,208,9,di,di,di,ADP,_,_
 208-9,BO142,208,208,10,goffman,goffman,Goffman,PROPN,_,_
 208-10,BO142,208,208,11,mi,mi,mi,PRON,_,_
-208-11,BO142,208,208,12,ri~,ri~,ri~,X,Interrupted=Yes,_
+208-11,BO142,208,208,12,ri~,ri~,x,X,Interrupted=Yes,_
 208-12,BO142,208,208,13,"perché,",perché,perché,SCONJ,Intonation=weakly_rising,_
 209-0,BO142,209,209,1,mentre,mentre,mentre,SCONJ,_,_
 209-1,BO142,209,209,2,in,in,in,ADP,_,_
@@ -1482,7 +1482,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 220-2,BO142,220,220,3,modi,modi,modo,NOUN,_,_
 220-3,BO142,220,220,4,in,in,in,ADP,_,_
 220-4,BO142,220,220,5,cu:i,cui,cui,PRON,_,_
-220-5,BO142,220,220,6,u~,un,uno,DET,Interrupted=Yes,_
+220-5,BO142,220,220,6,u~,u~,uno,DET,Interrupted=Yes,_
 220-6,BO142,220,220,7,un,un,uno,DET,_,_
 220-7,BO142,220,220,8,individuo,individuo,individuo,NOUN,_,_
 220-8,BO142,220,220,9,poteva,poteva,potere,AUX,_,_

@@ -60,7 +60,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 12-1,BO026,12,12,2,(eh),eh,eh,INTJ,_,_
 12-2,BO026,12,12,3,che,che,che,SCONJ,_,_
 12-3,BO026,12,12,4,devo,devo,dovere,AUX,_,_
-12-4,BO026,12,12,5,ricostruir~,ricostruir~,X,X,_,_
+12-4,BO026,12,12,5,ricostruir~,ricostruir~,x,X,_,_
 12-5,BO026,12,12,6,(.),(.),PAUSE,NVB,_,_
 12-6,BO026,12,12,7,marzo,marzo,marzo,NOUN,_,_
 12-7,BO026,12,12,8,duemiladiciotto.°,duemiladiciotto,duemiladiciotto,NUM,_,_
@@ -330,7 +330,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 48-0,BO033,48,48,1-2,dall',dall',da+il,ADP+DET,_,_
 48-0a,_,_,48,1,_,da,da,ADP,_,_
 48-0b,_,_,48,2,_,l',il,DET,_,_
-48-1,BO033,48,48,3,ita~,ita~,X,X,_,_
+48-1,BO033,48,48,3,ita~,ita~,x,X,_,_
 48-2,BO033,48,48,4-5,dall',dall',da+il,ADP+DET,_,_
 48-2a,_,_,48,4,_,da,da,ADP,_,_
 48-2b,_,_,48,5,_,l',il,DET,_,_
@@ -375,7 +375,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 53-4,BO033,53,53,5,hanno,hanno,avere,VERB,_,_
 53-5,BO033,53,53,6,tantissimi].,tantissimi,tanto,PRON,_,_
 54-0,BO026,54,54,1,[quindi,quindi,quindi,ADV,_,_
-54-1,BO026,54,54,2,l~,l~,X,X,_,_
+54-1,BO026,54,54,2,l~,l~,x,X,_,_
 54-2,BO026,54,54,3,la:]:,la,il,DET,_,_
 54-3,BO026,54,54,4,la,la,il,DET,_,_
 54-4,BO026,54,54,5,scrittura,scrittura,scrittura,NOUN,_,_
@@ -406,7 +406,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 59-3,BO033,59,59,4,"raccolto],",raccolto,raccogliere,VERB,_,_
 60-0,BO026,60,60,1,[aveva,aveva,avere,AUX,_,_
 60-1,BO026,60,60,2,"già:],",già,già,ADV,_,_
-60-2,BO026,60,60,3,port[at~,portat~,X,X,_,_
+60-2,BO026,60,60,3,port[at~,portat~,x,X,_,_
 60-3,BO026,60,60,4,mh].,mh,mh,INTJ,_,_
 61-0,BO033,61,61,1,[sì.,sì,sì,ADV,_,_
 61-1,BO033,61,61,2,più],più,più,ADJ,_,_
@@ -708,7 +708,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 102-6,BO026,102,102,7,e,e,e,CCONJ,_,_
 102-7,BO026,102,102,8,mh,mh,mh,INTJ,_,_
 102-8,BO026,102,102,9,un,un,uno,DET,_,_
-102-9,BO026,102,102,10,test~,test~,X,X,_,_
+102-9,BO026,102,102,10,test~,test~,x,X,_,_
 102-10,BO026,102,102,11,un,un,uno,DET,_,_
 102-11,BO026,102,102,12,volume,volume,volume,NOUN,_,_
 102-12,BO026,102,102,13,recente,recente,recente,ADJ,_,_
@@ -900,7 +900,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 138-0,BO026,138,138,1,[e,e,e,CCONJ,_,_
 138-1,BO026,138,138,2,allora],allora,allora,ADV,_,_
 138-2,BO026,138,138,3,in,in,in,ADP,_,_
-138-3,BO026,138,138,4,q~,q~,X,X,_,_
+138-3,BO026,138,138,4,q~,q~,x,X,_,_
 138-4,BO026,138,138,5,[posso?,posso,potere,AUX,_,_
 138-5,BO026,138,138,6,po]sso?,posso,potere,AUX,_,_
 139-0,BO033,139,139,1,[grand,grand,grand,ADJ,_,_
@@ -1070,7 +1070,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 172-0,BO033,172,172,1,più,più,più,ADV,_,_
 172-1,BO033,172,172,2,precisament[e:,precisamente,precisamente,ADV,_,_
 172-2,BO033,172,172,3,°anche,anche,anche,ADV,_,_
-172-3,BO033,172,172,4,"per~,°]",per~,X,X,_,_
+172-3,BO033,172,172,4,"per~,°]",per~,x,X,_,_
 173-0,BO026,173,173,1,[si,si,si,PRON,_,_
 173-1,BO026,173,173,2,è,è,essere,AUX,_,_
 173-2,BO026,173,173,3,segnata],segnata,segnare,VERB,_,_
@@ -1236,7 +1236,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 198-10,BO026,198,198,14-15,delle,delle,di+il,ADP+DET,_,_
 198-10a,_,_,198,14,_,di,di,ADP,_,_
 198-10b,_,_,198,15,_,le,il,DET,_,_
-198-11,BO026,198,198,16,[co~,co~,X,X,_,_
+198-11,BO026,198,198,16,[co~,co~,x,X,_,_
 198-12,BO026,198,198,17-18,delle,delle,di+il,ADP+DET,_,_
 198-12a,_,_,198,17,_,di,di,ADP,_,_
 198-12b,_,_,198,18,_,le,il,DET,_,_
@@ -1307,8 +1307,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 209-1,BO026,209,209,2,lei,lei,lei,PRON,_,_
 209-2,BO026,209,209,3,eh,eh,eh,INTJ,_,_
 209-3,BO026,209,209,4,allora,allora,allora,ADV,_,_
-209-4,BO026,209,209,5,l~,l~,X,X,_,_
-209-5,BO026,209,209,6,l~,l~,X,X,_,_
+209-4,BO026,209,209,5,l~,l~,x,X,_,_
+209-5,BO026,209,209,6,l~,l~,x,X,_,_
 209-6,BO026,209,209,7,la,la,il,DET,_,_
 209-7,BO026,209,209,8,sua,sua,suo,ADJ,_,_
 209-8,BO026,209,209,9,intenzione,intenzione,intenzione,NOUN,_,_
