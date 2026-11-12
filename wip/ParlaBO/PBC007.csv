@@ -2182,7 +2182,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 365-6,BOI019,365,365,7,di,di,di,ADP,_,_
 365-7,BOI019,365,365,8,via,via,via,NOUN,_,_
 365-8,BOI019,365,365,9,paolo,paolo,Paolo,PROPN,_,_
-365-9,BOI019,365,365,10,martini,martini,Martino,PROPN,_,_
+365-9,BOI019,365,365,10,martini,martini,Martini,PROPN,_,_
 366-0,BOI019,366,366,1,di,di,di,ADP,_,_
 366-1,BOI019,366,366,2,via,via,via,NOUN,_,_
 367-0,BOI019,367,367,1,di,di,di,ADP,_,_
@@ -2336,7 +2336,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 393-0,BOI019,393,393,1,di,di,di,ADP,_,_
 393-1,BOI019,393,393,2,via,via,via,NOUN,_,_
 393-2,BOI019,393,393,3,paolo,paolo,Paolo,PROPN,_,_
-393-3,BOI019,393,393,4,martini,martini,Martino,PROPN,_,_
+393-3,BOI019,393,393,4,martini,martini,Martini,PROPN,_,_
 394-0,BOI019,394,394,1,e,e,e,CCONJ,_,_
 394-1,BOI019,394,394,2,poi,poi,poi,ADV,_,_
 394-2,BOI019,394,394,3,dopo,dopo,dopo,ADV,_,_
@@ -6364,7 +6364,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 977-10,BOI019,977,977,12,devo,devo,dovere,AUX,_,_
 977-11,BOI019,977,977,13,dire,dire,dire,VERB,_,_
 977-12,BOI019,977,977,14,che,che,che,SCONJ,_,_
-977-13,BOI019,977,977,15,abbiam,abbiam,abbiam,X,_,_
+977-13,BOI019,977,977,15,abbiam,abbiam,avere,AUX,_,_
 977-14,BOI019,977,977,16,ruba(to),rubato,rubare,VERB,_,_
 978-0,BOI019,978,978,1,no,no,no,INTJ,_,_
 978-1,BOI019,978,978,2,no,no,no,ADV,_,_
@@ -7517,7 +7517,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1119-1,BOI019,1119,1119,2,due,due,due,NUM,_,_
 1119-2,BOI019,1119,1119,3,diplomati,diplomati,diplomato,NOUN,_,_
 1120-0,BOI019,1120,1120,1,che,che,che,SCONJ,_,_
-1120-1,BOI019,1120,1120,2,abbiam,abbiam,abbiam,NOUN,_,_
+1120-1,BOI019,1120,1120,2,abbiam,abbiam,avere,AUX,_,_
 1120-2,BOI019,1120,1120,3,fatto,fatto,fare,VERB,_,_
 1120-3,BOI019,1120,1120,4,le,le,il,DET,_,_
 1120-4,BOI019,1120,1120,5,superiori,superiori,superiore,ADJ,_,_
@@ -7567,7 +7567,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1128-3,BOI019,1128,1128,4,in,in,in,ADP,_,_
 1128-4,BOI019,1128,1128,5,europa,europa,europa,NOUN,_,_
 1128-5,BOI019,1128,1128,6,li,li,li,PRON,_,_
-1128-6,BOI019,1128,1128,7,abbiam,abbiam,abbiam,X,_,_
+1128-6,BOI019,1128,1128,7,abbiam,abbiam,avere,AUX,_,_
 1128-7,BOI019,1128,1128,8,visti,visti,vedere,VERB,_,_
 1128-8,BOI019,1128,1128,9,quasi,quasi,quasi,ADV,_,_
 1128-9,BOI019,1128,1128,10,tutti,tutti,tutto,PRON,_,_
@@ -7602,7 +7602,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1134-1,BOI019,1134,1134,2,la,la,il,DET,_,_
 1134-2,BOI019,1134,1134,3,testimonianza,testimonianza,testimonianza,NOUN,_,_
 1134-3,BOI019,1134,1134,4,di,di,di,ADP,_,_
-1134-4,BOI019,1134,1134,5,mathausen,mathausen,mathausen,NOUN,_,_
+1134-4,BOI019,1134,1134,5,mathausen,mathausen,Mathausen,PROPN,_,_
 1134-5,BOI019,1134,1134,6,e,e,e,CCONJ,_,_
 1134-6,BOI019,1134,1134,7,di,di,di,ADP,_,_
 1134-7,BOI019,1134,1134,8,auschwitz,auschwitz,auschwitz,NOUN,_,_
@@ -7650,13 +7650,13 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1140-2,BOI019,1140,1140,3,come,come,come,ADV,_,_
 1140-3,BOI019,1140,1140,4,lo,lo,lo,PRON,_,_
 1140-4,BOI019,1140,1140,5,è,è,essere,VERB,_,_
-1140-5,BOI019,1140,1140,6,mathausen,mathausen,mathauseno,ADV,_,_
+1140-5,BOI019,1140,1140,6,mathausen,mathausen,Mathausen,PROPN,_,_
 1140-6,BOI019,1140,1140,7,in,in,in,ADP,_,_
 1140-7,BOI019,1140,1140,8,xxxx,xxxx,x,X,_,_
 1141-0,BOI019,1141,1141,1,che,che,che,SCONJ,_,_
 1141-1,BOI019,1141,1141,2,quello,quello,quello,PRON,_,_
 1141-2,BOI019,1141,1141,3,di,di,di,ADP,_,_
-1141-3,BOI019,1141,1141,4,mathausen,mathausen,mathausen,NOUN,_,_
+1141-3,BOI019,1141,1141,4,mathausen,mathausen,Mathausen,PROPN,_,_
 1142-0,BOI019,1142,1142,1,son,son,essere,AUX,_,_
 1142-1,BOI019,1142,1142,2,morti,morti,morire,VERB,_,_
 1142-2,BOI019,1142,1142,3,anche,anche,anche,ADV,_,_
@@ -7689,7 +7689,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1144-7,BOI019,1144,1144,8,molti,molti,molto,PRON,_,_
 1145-0,BOI019,1145,1145,1,spariscono,spariscono,sparire,VERB,_,_
 1146-0,BOI019,1146,1146,1,sotto,sotto,sotto,ADP,_,_
-1146-1,BOI019,1146,1146,2,mathausen,mathausen,mathausen,NOUN,_,_
+1146-1,BOI019,1146,1146,2,mathausen,mathausen,Mathausen,PROPN,_,_
 1147-0,BOI019,1147,1147,1,che,che,che,SCONJ,_,_
 1147-1,BOI019,1147,1147,2,io,io,io,PRON,_,_
 1147-2,BOI019,1147,1147,3,ho,ho,avere,AUX,_,_
@@ -7713,7 +7713,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1151-1,BOI019,1151,1151,2,era,era,essere,AUX,_,_
 1151-2,BOI019,1151,1151,3,legato,legato,legare,VERB,_,_
 1151-3,BOI019,1151,1151,4,a,a,a,ADP,_,_
-1151-4,BOI019,1151,1151,5,mathausen,mathausen,mathausen,NOUN,_,_
+1151-4,BOI019,1151,1151,5,mathausen,mathausen,Mathausen,PROPN,_,_
 1152-0,BOI019,1152,1152,1,perché,perché,perché,SCONJ,_,_
 1152-1,BOI019,1152,1152,2,da,da,da,ADP,_,_
 1152-2,BOI019,1152,1152,3,da,da,da,ADP,_,_
@@ -7726,7 +7726,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1152-8a,_,_,1152,9,_,su,su,ADP,_,_
 1152-8b,_,_,1152,10,_,la,il,DET,_,_
 1152-9,BOI019,1152,1152,11,piana,piana,piano,NOUN,_,_
-1152-10,BOI019,1152,1152,12,mathausen,mathausen,mathausen,NOUN,_,_
+1152-10,BOI019,1152,1152,12,mathausen,mathausen,Mathausen,PROPN,_,_
 1152-11,BOI019,1152,1152,13,un,un,uno,DET,_,_
 1152-12,BOI019,1152,1152,14,po',po',poco,ADV,_,_
 1152-13,BOI019,1152,1152,15,un,un,uno,DET,_,_
@@ -7758,7 +7758,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1157-0,BOI019,1157,1157,1,da,da,da,ADP,_,_
 1157-1,BOI019,1157,1157,2,gusen,gusen,gusen,NOUN,_,_
 1158-0,BOI019,1158,1158,1,a,a,a,ADP,_,_
-1158-1,BOI019,1158,1158,2,mathausen,mathausen,mathausen,NOUN,_,_
+1158-1,BOI019,1158,1158,2,mathausen,mathausen,Mathausen,PROPN,_,_
 1159-0,BOI019,1159,1159,1,e::,e,e,CCONJ,_,_
 1159-1,BOI019,1159,1159,2,facevano,facevano,fare,VERB,_,_
 1159-2,BOI019,1159,1159,3,lavorare,lavorare,lavorare,VERB,_,_
@@ -8096,7 +8096,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1211-2,BOI019,1211,1211,3,(.),(.),PAUSE,NVB,_,_
 1211-3,BOI019,1211,1211,4,e,e,e,CCONJ,_,_
 1211-4,BOI019,1211,1211,5,quando,quando,quando,SCONJ,_,_
-1211-5,BOI019,1211,1211,6,abbiam,abbiam,abbiam,X,_,_
+1211-5,BOI019,1211,1211,6,abbiam,abbiam,avere,AUX,_,_
 1211-6,BOI019,1211,1211,7,visto,visto,vedere,VERB,_,_
 1211-7,BOI019,1211,1211,8,aushwitz,aushwitz,aushwitz,NOUN,_,_
 1211-8,BOI019,1211,1211,9,già,già,già,ADV,_,_
@@ -8140,7 +8140,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1217-5,BOI019,1217,1217,6,ad,ad,a,ADP,_,_
 1217-6,BOI019,1217,1217,7,aushwitz,aushwitz,aushwitz,NOUN,_,_
 1217-7,BOI019,1217,1217,8,che,che,che,PRON,_,_
-1217-8,BOI019,1217,1217,9,abbiam,abbiam,abbiam,X,_,_
+1217-8,BOI019,1217,1217,9,abbiam,abbiam,avere,AUX,_,_
 1217-9,BOI019,1217,1217,10,visto,visto,vedere,VERB,_,_
 1217-10,BOI019,1217,1217,11,che,che,che,SCONJ,_,_
 1217-11,BOI019,1217,1217,12,si,si,si,PRON,_,_
@@ -8245,7 +8245,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1233-4,BOI019,1233,1233,5,e::hm,ehm,ehm,NOUN,_,_
 1234-0,BOI019,1234,1234,1,e::,e,e,CCONJ,_,_
 1234-1,BOI019,1234,1234,2,no,no,no,ADV,_,_
-1234-2,BOI019,1234,1234,3,abbiam,abbiam,abbiam,NOUN,_,_
+1234-2,BOI019,1234,1234,3,abbiam,abbiam,avere,AUX,_,_
 1234-3,BOI019,1234,1234,4,fatto,fatto,fare,VERB,_,_
 1234-4,BOI019,1234,1234,5,con,con,con,ADP,_,_
 1234-5,BOI019,1234,1234,6,loro,loro,loro,DET,_,_

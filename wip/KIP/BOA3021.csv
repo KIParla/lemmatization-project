@@ -116,7 +116,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 14-1,BO157,14,(.),(.),PAUSE,NVB,_,_
 14-2,BO157,14,di,di,di,ADP,_,_
 14-3,BO157,14,solit~,solit~,solit~,X,Interrupted=Yes,_
-14-4,BO157,14,c(io)è,cioè,cioé,CCONJ,_,_
+14-4,BO157,14,c(io)è,cioè,cioè,CCONJ,_,_
 14-5,BO157,14,ultimamente:,ultimamente,ultimamente,ADV,ProsodicLink=Yes,_
 14-6,BO157,14,m:h,mh,mh,INTJ,_,_
 14-7,BO157,14,le,le,il,DET,_,_
@@ -413,7 +413,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 57-8,BO157,57,alta,alta,alto,ADJ,_,_
 57-9,BO157,57,voce,voce,voce,NOUN,_,_
 57-10,BO157,57,(allor~),allor~,allor~,X,Interrupted=Yes,_
-57-11,BO157,57,c(io)è,cioè,cioé,CCONJ,_,_
+57-11,BO157,57,c(io)è,cioè,cioè,CCONJ,_,_
 57-12,BO157,57,che,che,che,SCONJ,_,_
 57-13,BO157,57,lo,lo,lo,PRON,_,_
 57-14,BO157,57,senton,senton,sentono,VERB,_,_
@@ -939,7 +939,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 158-0,BO155,158,[beh],beh,beh,INTJ,_,_
 159-0,BO157,159,[e]:h,eh,eh,INTJ,_,_
 160-0,BO157,160,ti,ti,ti,PRON,_,_
-160-1,BO157,160,abbiam,abbiam,abbiamo,AUX,_,_
+160-1,BO157,160,abbiam,abbiam,avere,AUX,_,_
 160-2,BO157,160,dato:,dato,dare,VERB,_,_
 160-3,BO157,160,(.),(.),PAUSE,NVB,_,_
 160-4,BO157,160,ah,ah,ah,INTJ,_,_
@@ -1166,7 +1166,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 207-1,BO157,207,rende,rende,rendere,VERB,_,_
 207-2,BO157,207,uguale),uguale,uguale,ADJ,_,_
 207-3,BO157,207,(.),(.),PAUSE,NVB,_,_
-207-4,BO157,207,(c(io)è,cioè,cioé,ADV,_,_
+207-4,BO157,207,(c(io)è,cioè,cioè,ADV,_,_
 207-5,BO157,207,madonna),madonna,madonna,NOUN,_,_
 207-6,BO157,207,(.),(.),PAUSE,NVB,_,_
 207-7,BO157,207,(l',l',il,DET,Truncated=Yes,_
@@ -1317,7 +1317,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 233-1,BO155,233,ma,ma,ma,CCONJ,_,_
 233-2,BO155,233,basta],basta,bastare,VERB,_,_
 233-3,BO155,233,(.),(.),PAUSE,NVB,_,_
-233-4,BO155,233,c(io)è,cioè,cioé,CCONJ,_,_
+233-4,BO155,233,c(io)è,cioè,cioè,CCONJ,_,_
 233-5,BO155,233,eh,eh,eh,INTJ,_,_
 233-6,BO155,233,dopo,dopo,dopo,ADP,_,_
 233-7,BO155,233,que[llo:],quello,quello,PRON,_,_
@@ -4283,7 +4283,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 732-1,BO156,732,beh,beh,beh,INTJ,_,_
 732-2,BO156,732,ma,ma,ma,CCONJ,_,_
 732-3,BO156,732,poi,poi,poi,ADV,_,_
-732-4,BO156,732,c(io)è,cioè,cioé,CCONJ,_,_
+732-4,BO156,732,c(io)è,cioè,cioè,CCONJ,_,_
 732-5,BO156,732,anche,anche,anche,ADV,_,_
 732-6,BO156,732,(.),(.),PAUSE,NVB,_,_
 732-7,BO156,732,in,in,in,ADP,_,_
@@ -7452,7 +7452,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1225-14,BO158,1225,lavagna,lavagna,lavagna,NOUN,_,_
 1225-15,BO158,1225,(.),(.),PAUSE,NVB,_,_
 1225-16,BO158,1225,e],e,e,CCONJ,_,_
-1225-17,BO158,1225,c(io)è,cioè,cioé,CCONJ,_,_
+1225-17,BO158,1225,c(io)è,cioè,cioè,CCONJ,_,_
 1225-18,BO158,1225,sì,sì,sì,ADV,_,_
 1226-0,BO155,1226,[ah,ah,ah,INTJ,_,_
 1226-1,BO155,1226,ma,ma,ma,CCONJ,_,_
@@ -8261,7 +8261,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1325-3,BO157,1325,farlo,farlo,fare+lo,VERB+PRON,_,_
 1325-3a,_,_,_,far,fare,VERB,_,_
 1325-3b,_,_,_,lo,lo,PRON,_,_
-1325-4,BO157,1325,c(io)è,cioè,cioé,CCONJ,_,_
+1325-4,BO157,1325,c(io)è,cioè,cioè,CCONJ,_,_
 1325-5,BO157,1325,se,se,se,SCONJ,_,_
 1325-6,BO157,1325,devo,devo,dovere,AUX,_,_
 1325-7,BO157,1325,prendere,prendere,prendere,VERB,_,_
@@ -8935,7 +8935,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1418-2,BO158,1418,inverte,inverte,invertire,VERB,_,_
 1418-3,BO158,1418,i,i,il,DET,_,_
 1418-4,BO158,1418,colori,colori,colore,NOUN,_,_
-1418-5,BO158,1418,c(io)è,cioè,cioé,CCONJ,_,_
+1418-5,BO158,1418,c(io)è,cioè,cioè,CCONJ,_,_
 1418-6,BO158,1418,fa,fa,fare,VERB,_,_
 1418-7,BO158,1418,il,il,il,DET,_,_
 1418-8,BO158,1418,e:h,eh,eh,INTJ,_,_

@@ -1252,8 +1252,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 195-6,TO004,195,195,7,che,che,che,SCONJ,_,_
 195-7,TO004,195,195,8,una,una,uno,DET,_,_
 195-8,TO004,195,195,9,tecnica.,tecnica,tecnico,NOUN,_,_
-196-0,TO004,196,196,1,mark,mark,mark,NOUN,_,_
-196-1,TO004,196,196,2,twain,twain,twain,NOUN,_,_
+196-0,TO004,196,196,1,mark,mark,Mark,PROPN,_,_
+196-1,TO004,196,196,2,twain,twain,Twain,PROPN,_,_
 196-2,TO004,196,196,3,il,il,il,DET,_,_
 196-3,TO004,196,196,4,grande,grande,grande,ADJ,_,_
 196-4,TO004,196,196,5,umorista,umorista,umorista,NOUN,_,_
@@ -2027,7 +2027,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 304-8,TO004,304,304,9,puro.,puro,puro,ADJ,_,_
 305-0,TO004,305,305,1,sapete,sapete,sapere,VERB,_,_
 305-1,TO004,305,305,2,benissimo,benissimo,bene,ADV,_,_
-306-0,TO004,306,306,1,°cioè°,cioè,cioé,ADV,_,_
+306-0,TO004,306,306,1,°cioè°,cioè,cioè,ADV,_,_
 306-1,TO004,306,306,2,se,se,se,SCONJ,_,_
 306-2,TO004,306,306,3,siete,siete,essere,AUX,_,_
 306-3,TO004,306,306,4,veramente,veramente,veramente,ADV,_,_
@@ -7665,7 +7665,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1259-13,TO004,1259,1259,14,rock,rock,rock,NOUN,_,_
 1259-14,TO004,1259,1259,15,and,and,and,CCONJ,_,_
 1259-15,TO004,1259,1259,16,roll.,roll,roll,NOUN,_,_
-1260-0,TO004,1260,1260,1,>ci(o)è<,cioè,cioé,ADV,_,_
+1260-0,TO004,1260,1260,1,>ci(o)è<,cioè,cioè,ADV,_,_
 1260-1,TO004,1260,1260,2,<quando>,quando,quando,SCONJ,_,_
 1260-2,TO004,1260,1260,3,(.),(.),PAUSE,NVB,_,_
 1260-3,TO004,1260,1260,4,<diventa>,diventa,diventare,VERB,_,_
@@ -8790,7 +8790,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1470-2,TO004,1470,1470,3,"informazione,",informazione,informazione,NOUN,_,_
 1471-0,TO004,1471,1471,1,m:akes,makes,makes,VERB,Lang=und|Dialect=Yes,_
 1471-1,TO004,1471,1471,2,difference.,difference,difference,NOUN,_,_
-1472-0,TO004,1472,1472,1,cioè,cioè,cioé,ADV,_,_
+1472-0,TO004,1472,1472,1,cioè,cioè,cioè,ADV,_,_
 1472-1,TO004,1472,1472,2,(.),(.),PAUSE,NVB,_,_
 1472-2,TO004,1472,1472,3,che,che,che,SCONJ,_,_
 1472-3,TO004,1472,1472,4,la,la,il,DET,_,_
