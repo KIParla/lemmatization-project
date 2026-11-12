@@ -732,9 +732,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 117-8,TO004,117,117,10,frasi.,frasi,frase,NOUN,_,_
 118-0,TO004,118,118,1,come,come,come,ADP,_,_
 118-1,TO004,118,118,2,l',l',il,DET,_,_
-118-2,TO004,118,118,3,"apprende,",apprende,apprende,VERB,_,_
+118-2,TO004,118,118,3,"apprende,",apprende,apprendere,VERB,_,_
 118-3,TO004,118,118,4,l',l',il,DET,_,_
-118-4,TO004,118,118,5,apprende,apprende,apprende,VERB,_,_
+118-4,TO004,118,118,5,apprende,apprende,apprendere,VERB,_,_
 118-5,TO004,118,118,6,stando,stando,stare,VERB,_,_
 118-6,TO004,118,118,7-8,nell',nell',in+il,ADP+DET,_,_
 118-6a,_,_,118,7,_,in,in,ADP,_,_
@@ -2092,14 +2092,14 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 315-3,TO004,315,315,4,dire,dire,dire,VERB,_,_
 315-4,TO004,315,315,5,questa,questa,questo,DET,_,_
 315-5,TO004,315,315,6,assenza?,assenza,assenza,NOUN,_,_
-316-0,TO004,316,316,1,a,a,A,NOUN,_,_
+316-0,TO004,316,316,1,a,a,a,NOUN,_,_
 316-1,TO004,316,316,2,è,è,essere,AUX,_,_
 316-2,TO004,316,316,3,un,un,uno,DET,_,_
 316-3,TO004,316,316,4,cafone.,cafone,cafone,NOUN,_,_
-317-0,TO004,317,317,1,"bi,",bi,B,NOUN,_,_
+317-0,TO004,317,317,1,"bi,",bi,bi,NOUN,_,_
 318-0,TO004,318,318,1,è,è,essere,AUX,_,_
 318-1,TO004,318,318,2,arrabbiato.,arrabbiato,arrabbiare,VERB,_,_
-319-0,TO004,319,319,1,"ci::,",ci,C,PRON,_,_
+319-0,TO004,319,319,1,"ci::,",ci,ci,NOUN,_,_
 320-0,TO004,320,320,1,voleva,voleva,volere,AUX,_,_
 320-1,TO004,320,320,2-3,mandarmi,mandarmi,mandare+mi,VERB+PRON,_,_
 320-1a,_,_,320,2,_,mandar,mandare,VERB,_,_
@@ -2890,7 +2890,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 456-1,TO004,456,456,2,certi,certi,certo,DET,_,_
 456-2,TO004,456,456,3,"versi,",versi,verso,NOUN,_,_
 457-0,TO004,457,457,1,a,a,a,ADP,_,_
-457-1,TO004,457,457,2,ics.,ics,X,NOUN,_,_
+457-1,TO004,457,457,2,ics.,ics,ics,NOUN,_,_
 458-0,TO004,458,458,1-2,dal,dal,da+il,ADP+DET,_,_
 458-0a,_,_,458,1,_,da,da,ADP,_,_
 458-0b,_,_,458,2,_,il,il,DET,_,_
@@ -3712,7 +3712,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 579-0,TO004,579,579,1,vedete,vedete,vedere,VERB,_,_
 579-1,TO004,579,579,2,quan(t)~,quant~,quanto,DET,_,_
 579-2,TO004,579,579,3,quanti,quanti,quanto,DET,_,_
-579-3,TO004,579,579,4,elementi,elementi,elemente,NOUN,_,_
+579-3,TO004,579,579,4,elementi,elementi,elemento,NOUN,_,_
 579-4,TO004,579,579,5,condizionano,condizionano,condizionare,VERB,_,_
 579-5,TO004,579,579,6,(.),(.),PAUSE,NVB,_,_
 579-6,TO004,579,579,7,la,la,il,DET,_,_

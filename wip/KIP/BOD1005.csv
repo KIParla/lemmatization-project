@@ -724,9 +724,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 115-4,BO094,115,115,5,(e,e,e,CCONJ,_,_
 115-5,BO094,115,115,6,poi,poi,poi,ADV,_,_
 115-6,BO094,115,115,7,abbiamo),abbiamo,avere,VERB,_,_
-115-7,BO094,115,115,8,emme,emme,M,NOUN,_,_
+115-7,BO094,115,115,8,emme,emme,emme,NOUN,_,_
 115-8,BO094,115,115,9,di,di,di,ADP,_,_
-115-9,BO094,115,115,10,ics,ics,X,NOUN,_,_
+115-9,BO094,115,115,10,ics,ics,ics,NOUN,_,_
 115-10,BO094,115,115,11,che,che,che,PRON,_,_
 115-11,BO094,115,115,12,voglia,voglia,volere,AUX,_,_
 115-12,BO094,115,115,13,dire,dire,dire,VERB,_,_
@@ -995,7 +995,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 158-14,BO094,158,158,16,esista.,esista,esista,NOUN,Intonation=falling,_
 159-0,BO094,159,159,1,allora,allora,allora,ADV,_,_
 159-1,BO094,159,159,2,cosa,cosa,cosa,PRON,_,_
-159-2,BO094,159,159,3,faccio?,faccio,facciare,VERB,Intonation=rising,_
+159-2,BO094,159,159,3,faccio?,faccio,fare,VERB,Intonation=rising,_
 160-0,BO094,160,160,1,uso,uso,uso,NOUN,_,_
 160-1,BO094,160,160,2,che,che,che,DET,_,_
 160-2,BO094,160,160,3,cosa?,cosa,cosa,NOUN,Intonation=rising,_
@@ -5303,7 +5303,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 737-3a,_,_,737,4,_,di,di,ADP,_,_
 737-3b,_,_,737,5,_,il,il,DET,_,_
 737-4,BO094,737,737,6,linguaggio,linguaggio,linguaggio,NOUN,_,_
-737-5,BO094,737,737,7,(erre),erre,errere,VERB,_,_
+737-5,BO094,737,737,7,(erre),erre,erre,NOUN,_,_
 737-6,BO094,737,737,8,zero.,zero,zero,NUM,Intonation=falling,_
 738-0,BO094,738,738,1,po:i,poi,poi,ADV,_,_
 738-1,BO094,738,738,2,volendo,volendo,volere,VERB,_,_
@@ -5809,7 +5809,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 811-2,BO094,811,811,3,"soddisfatta,",soddisfatta,soddisfatto,ADJ,Intonation=weakly_rising,_
 812-0,BO094,812,812,1,io,io,io,PRON,_,_
 812-1,BO094,812,812,2,cosa,cosa,cosa,PRON,_,_
-812-2,BO094,812,812,3,faccio?,faccio,facciare,VERB,Intonation=rising,_
+812-2,BO094,812,812,3,faccio?,faccio,fare,VERB,Intonation=rising,_
 813-0,BO094,813,813,1,quando,quando,quando,SCONJ,_,_
 813-1,BO094,813,813,2,quello,quello,quello,PRON,_,_
 813-2,BO094,813,813,3,che,che,che,PRON,_,_
@@ -6904,7 +6904,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 959-6,BO094,959,959,7,deduzione,deduzione,deduzione,NOUN,_,_
 959-7,BO094,959,959,8,automatica,automatica,automatico,ADJ,_,_
 960-0,BO094,960,960,1,mi,mi,mi,PRON,_,_
-960-1,BO094,960,960,2,conviene,conviene,convenere,VERB,_,_
+960-1,BO094,960,960,2,conviene,conviene,convenire,VERB,_,_
 960-2,BO094,960,960,3,molte,molte,molto,DET,_,_
 960-3,BO094,960,960,4,volte,volte,volta,NOUN,_,_
 960-4,BO094,960,960,5,oppure,oppure,oppure,CCONJ,_,_
@@ -7187,7 +7187,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1005-0,BO094,1005,1005,1,va,va,andare,VERB,_,_
 1005-1,BO094,1005,1005,2,bene?,bene,bene,ADV,Intonation=rising,_
 1006-0,BO094,1006,1006,1,allora,allora,allora,ADV,_,_
-1006-1,BO094,1006,1006,2,cominciamo,cominciamo,comincare,VERB,_,_
+1006-1,BO094,1006,1006,2,cominciamo,cominciamo,cominciare,VERB,_,_
 1007-0,BO094,1007,1007,1,e:::h,eh,eh,INTJ,_,_
 1008-0,BO094,1008,1008,1,quale,quale,quale,PRON,_,_
 1008-1,BO094,1008,1008,2,da,da,da,ADP,_,_

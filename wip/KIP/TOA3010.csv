@@ -55,7 +55,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 8-10,TO086,8,8,13,monza,monza,Monza,NOUN,_,_
 9-0,TO086,9,10,1,[te,te,te,PRON,_,_
 9-1,TO086,9,10,2,lo,lo,il,PRON,_,_
-9-2,TO086,9,10,3,giuro],giuro,giuro,VERB,_,_
+9-2,TO086,9,10,3,giuro],giuro,giurare,VERB,_,_
 10-0,TO085,10,9,1,[stai,stai,stare,VERB,_,_
 10-1,TO085,10,9,2,scherzando]?,scherzando,scherzare,VERB,_,_
 11-0,TO086,11,11,1,sì,sì,sì,ADV,_,_
@@ -857,7 +857,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 150-1,TO085,150,150,2,però,però,però,ADV,_,_
 150-2,TO085,150,150,3,sti,sti,questo,DET,_,_
 150-3,TO085,150,150,4,cazzi,cazzi,cazzo,NOUN,_,_
-150-4,TO085,150,150,5-6,dai::,dai,dai,INTJ,_,_
+150-4,TO085,150,150,5-6,dai::,dai,dare,VERB,_,_
 151-0,TO086,151,151,1,eh,eh,eh,INTJ,_,_
 151-1,TO086,151,151,2,no,no,no,ADV,_,_
 151-2,TO086,151,151,3,infa~,infa~,infatti,ADV,_,_
@@ -1493,7 +1493,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 262-0,TO086,262,262,1,ah,ah,ah,INTJ,_,_
 262-1,TO086,262,262,2,non,non,non,ADV,_,_
 262-2,TO086,262,262,3,c',c',ci,PRON,_,_
-262-3,TO086,262,262,4,eri,eri,erare,VERB,_,_
+262-3,TO086,262,262,4,eri,eri,essere,VERB,_,_
 262-4,TO086,262,262,5,quando,quando,quando,SCONJ,_,_
 262-5,TO086,262,262,6,x?,x,x,X,_,_
 263-0,TO085,263,263,1,la,la,il,DET,_,_
@@ -1588,7 +1588,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 276-3,TO085,276,276,4,più,più,più,ADV,_,_
 277-0,TO086,277,277,1,però,però,però,ADV,_,_
 277-1,TO086,277,277,2,sta,sta,questa,DET,_,_
-277-2,TO086,277,277,3,lavastoviglie,lavastoviglie,lavastoviglia,NOUN,_,_
+277-2,TO086,277,277,3,lavastoviglie,lavastoviglie,lavastoviglie,NOUN,_,_
 277-3,TO086,277,277,4,non,non,non,ADV,_,_
 277-4,TO086,277,277,5,riesco,riesco,riuscire,VERB,_,_
 277-5,TO086,277,277,6,proprio,proprio,proprio,ADV,_,_
@@ -2742,7 +2742,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 474-3,TO086,474,474,4,se,se,se,SCONJ,_,_
 474-4,TO086,474,474,5,ti,ti,ti,PRON,_,_
 474-5,TO086,474,474,6,ti,ti,ti,PRON,_,_
-474-6,TO086,474,474,7,abitui,abitui,abituire,VERB,_,_
+474-6,TO086,474,474,7,abitui,abitui,abituare,VERB,_,_
 474-7,TO086,474,474,8,a,a,a,ADP,_,_
 474-8,TO086,474,474,9,studiare::,studiare,studiare,VERB,_,_
 475-0,TO086,475,475,1,in,in,in,ADP,_,_
@@ -2800,7 +2800,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 485-0,TO085,485,485,1,[hai,hai,avere,VERB,_,_
 485-1,TO085,485,485,2,gira~],gira~,x,X,_,_
 486-0,TO085,486,486,1,hai,hai,avere,AUX,_,_
-486-1,TO085,486,486,2,girato,girato,girato,VERB,_,_
+486-1,TO085,486,486,2,girato,girato,girare,VERB,_,_
 486-2,TO085,486,486,3,la,la,il,DET,_,_
 486-3,TO085,486,486,4,lattina,lattina,lattina,NOUN,_,_
 486-4,TO085,486,486,5,come,come,come,ADP,_,_
@@ -2835,7 +2835,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 493-4,TO085,493,493,5,incontro,incontro,incontro,NOUN,_,_
 494-0,TO085,494,494,1,con,con,con,ADP,_,_
 494-1,TO085,494,494,2,i::,i,il,DET,_,_
-494-2,TO085,494,494,3,<candidati::>,candidati,candidare,NOUN,_,_
+494-2,TO085,494,494,3,<candidati::>,candidati,candidato,NOUN,_,_
 495-0,TO085,495,495,1,per::,per,per,ADP,_,_
 496-0,TO085,496,496,1,il,il,il,DET,_,_
 496-1,TO085,496,496,2,nuovo,nuovo,nuovo,ADJ,_,_

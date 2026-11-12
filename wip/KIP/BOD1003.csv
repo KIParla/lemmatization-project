@@ -77,7 +77,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 7-4,BO092,7,7,5,dentro,dentro,dentro,ADP,_,_
 7-5,BO092,7,7,6,tutti,tutti,tutto,DET,_,_
 7-6,BO092,7,7,7,gli,gli,il,DET,_,_
-7-7,BO092,7,7,8,ingredienti,ingredienti,ingredente,NOUN,_,_
+7-7,BO092,7,7,8,ingredienti,ingredienti,ingrediente,NOUN,_,_
 7-8,BO092,7,7,9,che,che,che,SCONJ,_,_
 7-9,BO092,7,7,10,abbiamo,abbiamo,avere,VERB,_,_
 8-0,BO092,8,8,1,e,e,e,CCONJ,_,_
@@ -1774,7 +1774,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 157-3,BO092,157,157,4,conviene,conviene,convenire,VERB,_,_
 158-0,BO092,158,158,1,utilizzare,utilizzare,utilizzare,VERB,_,_
 158-1,BO092,158,158,2,i,i,il,DET,_,_
-158-2,BO092,158,158,3,dadi.,dadi,dadio,NOUN,_,_
+158-2,BO092,158,158,3,dadi.,dadi,dado,NOUN,_,_
 159-0,BO092,159,159,1,"perché,",perché,perché,SCONJ,_,_
 159-1,BO092,159,159,2,perché,perché,perché,SCONJ,_,_
 159-2,BO092,159,159,3,i,i,il,DET,_,_
@@ -3140,7 +3140,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 273-2,BO092,273,273,3,realtà,realtà,realtà,NOUN,_,_
 274-0,BO092,274,274,1,la,la,il,DET,_,_
 274-1,BO092,274,274,2,cosa,cosa,cosa,NOUN,_,_
-274-2,BO092,274,274,3,bisogna,bisogna,bisogna,VERB,_,_
+274-2,BO092,274,274,3,bisogna,bisogna,bisognare,VERB,_,_
 274-3,BO092,274,274,4-5,studiarla,studiarla,studiare+la,VERB+PRON,_,_
 274-3a,_,_,274,4,_,studiar,studiare,VERB,_,_
 274-3b,_,_,274,5,_,la,la,PRON,_,_
@@ -5335,7 +5335,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 500-3a,_,_,500,4,_,da,da,ADP,_,_
 500-3b,_,_,500,5,_,la,il,DET,_,_
 500-4,BO092,500,500,6,tabella,tabella,tabella,NOUN,_,_
-500-5,BO092,500,500,7,bisogna:,bisogna,bisogna,VERB,_,_
+500-5,BO092,500,500,7,bisogna:,bisogna,bisognare,VERB,_,_
 500-6,BO092,500,500,8,mh:,mh,mh,INTJ,_,_
 500-7,BO092,500,500,9,dobbiamo,dobbiamo,dovere,AUX,_,_
 500-8,BO092,500,500,10,imparare,imparare,imparare,VERB,_,_
@@ -5505,7 +5505,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 516-3,BO092,516,516,4,guardare,guardare,guardare,VERB,_,_
 516-4,BO092,516,516,5,eh,eh,eh,INTJ,_,_
 516-5,BO092,516,516,6,(.),(.),PAUSE,NVB,_,_
-516-6,BO092,516,516,7,bisogna,bisogna,bisogna,VERB,_,_
+516-6,BO092,516,516,7,bisogna,bisogna,bisognare,VERB,_,_
 516-7,BO092,516,516,8,guardar,guardar,guardare,VERB,_,_
 516-8,BO092,516,516,9,la,la,il,DET,_,_
 516-9,BO092,516,516,10,tabella,tabella,tabella,NOUN,_,_
@@ -7454,7 +7454,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 723-5,BO092,723,723,6,fatto,fatto,fare,VERB,_,_
 723-6,BO092,723,723,7,la,la,il,DET,_,_
 723-7,BO092,723,723,8,(.),(.),PAUSE,NVB,_,_
-723-8,BO092,723,723,9,bisogna,bisogna,bisogna,VERB,_,_
+723-8,BO092,723,723,9,bisogna,bisogna,bisognare,VERB,_,_
 723-9,BO092,723,723,10,sempre,sempre,sempre,ADV,_,_
 723-10,BO092,723,723,11-12,farsi,farsi,fare+si,VERB+PRON,_,_
 723-10a,_,_,723,11,_,far,fare,VERB,_,_
@@ -7791,7 +7791,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 762-5,BO092,762,762,7,addosso,addosso,addosso,ADV,_,_
 762-6,BO092,762,762,8,(.),(.),PAUSE,NVB,_,_
 762-7,BO092,762,762,9,forza,forza,forza,ADV,_,_
-762-8,BO092,762,762,10-11,dai.,dai,dai,INTJ,_,_
+762-8,BO092,762,762,10-11,dai.,dai,dare,VERB,_,_
 763-0,BO092,763,763,1,(concludiamo),concludiamo,concludere,VERB,_,_
 764-0,BO092,764,764,1,ci,ci,ci,PRON,_,_
 764-1,BO092,764,764,2,siete?,siete,essere,AUX,_,_
@@ -9701,7 +9701,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 920-25,BO092,920,920,28,non,non,non,ADV,_,_
 920-26,BO092,920,920,29,basta,basta,bastare,VERB,_,_
 921-0,BO092,921,921,1,lì,lì,lì,ADV,_,_
-921-1,BO092,921,921,2,bisogna,bisogna,bisogna,VERB,_,_
+921-1,BO092,921,921,2,bisogna,bisogna,bisognare,VERB,_,_
 921-2,BO092,921,921,3,usare,usare,usare,VERB,_,_
 921-3,BO092,921,921,4,una,una,uno,DET,_,_
 921-4,BO092,921,921,5,tabella,tabella,tabella,NOUN,_,_

@@ -145,7 +145,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 32-14b,_,_,32,17,_,le,il,DET,_,_
 32-15,PKP025,32,32,18,dieci,dieci,dieci,NUM,_,_
 32-16,PKP025,32,32,19,io,io,io,PRON,_,_
-32-17,PKP025,32,32,20,bisogna,bisogna,bisogna,VERB,_,_
+32-17,PKP025,32,32,20,bisogna,bisogna,bisognare,VERB,_,_
 32-18,PKP025,32,32,21,che:,che,che,DET,_,_
 32-19,PKP025,32,32,22,sabato:,sabato,sabato,NOUN,_,_
 32-20,PKP025,32,32,23,(.),(.),PAUSE,NVB,_,_
@@ -334,7 +334,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 62-9,PKP025,62,62,10,è,è,essere,AUX,_,_
 62-10,PKP025,62,62,11,in,in,in,ADP,_,_
 62-11,PKP025,62,62,12,chiesa,chiesa,chiesa,NOUN,_,_
-63-0,PKP026,63,63,1,>°bisogna°<,bisogna,bisogna,VERB,_,_
+63-0,PKP026,63,63,1,>°bisogna°<,bisogna,bisognare,VERB,_,_
 63-1,PKP026,63,63,2,che,che,che,SCONJ,_,_
 63-2,PKP026,63,63,3,ti,ti,ti,PRON,_,_
 63-3,PKP026,63,63,4,infor[mi,informi,informare,VERB,_,_
@@ -1967,7 +1967,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 320-1,PKP025,320,320,2,i:o,io,io,PRON,_,_
 320-2,PKP025,320,320,3,mi,mi,mi,PRON,_,_
 320-3,PKP025,320,320,4,so',so',essere,AUX,_,_
-320-4,PKP025,320,320,5,accorta],accorta,accorta,VERB,_,_
+320-4,PKP025,320,320,5,accorta],accorta,accorgere,VERB,_,_
 321-0,PKP025,321,321,1,[eh],eh,eh,INTJ,_,_
 322-0,PKP025,322,322,1,dopo,dopo,dopo,ADV,_,_
 322-1,PKP025,322,322,2,l',l',lo,PRON,_,_
@@ -3649,7 +3649,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 599-0,PKP025,599,599,1,[quindi,quindi,quindi,CCONJ,_,_
 599-1,PKP025,599,599,2,an]ch',anch',anche,ADV,_,_
 599-2,PKP025,599,599,3,io,io,io,PRON,_,_
-599-3,PKP025,599,599,4,bi[sogna,bisogna,bisogna,VERB,_,_
+599-3,PKP025,599,599,4,bi[sogna,bisogna,bisognare,VERB,_,_
 599-4,PKP025,599,599,5,(°che°)],che,che,SCONJ,_,_
 600-0,PKP026,600,600,1,[secondo,secondo,secondo,ADP,_,_
 600-1,PKP026,600,600,2,m]e,me,me,PRON,_,_
@@ -3661,7 +3661,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 600-7,PKP026,600,600,8,nuo[vo],nuovo,nuovo,ADJ,_,_
 601-0,PKP025,601,601,1,[n]o,no,no,INTJ,_,_
 601-1,PKP025,601,601,2,oh,oh,oh,INTJ,_,_
-602-0,PKP026,602,602,1-2,da:i,dai,dai,INTJ,_,_
+602-0,PKP026,602,602,1-2,da:i,dai,dare,VERB,_,_
 603-0,PKP025,603,603,1,mamma,mamma,mamma,NOUN,_,_
 603-1,PKP025,603,603,2,non,non,non,ADV,_,_
 603-2,PKP025,603,603,3,lo,lo,lo,PRON,_,_
@@ -3816,7 +3816,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 635-1,PKP026,635,635,2,c',c',ci,PRON,_,_
 635-2,PKP026,635,635,3,è,è,essere,VERB,_,_
 635-3,PKP026,635,635,4,biso~,biso~,x,X,_,_
-635-4,PKP026,635,635,5,bisogna,bisogna,bisogna,VERB,_,_
+635-4,PKP026,635,635,5,bisogna,bisogna,bisognare,VERB,_,_
 635-5,PKP026,635,635,6,che,che,che,SCONJ,_,_
 635-6,PKP026,635,635,7,ci,ci,ci,PRON,_,_
 635-7,PKP026,635,635,8,guard[i<],guardi,guardare,VERB,_,_
@@ -3974,7 +3974,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 674-3,PKP025,674,674,4,è,è,essere,VERB,_,_
 675-0,PKP026,675,675,1,no,no,no,INTJ,_,_
 676-0,PKP025,676,676,1,m:h,mh,mh,INTJ,_,_
-677-0,PKP026,677,677,1,bisogna,bisogna,bisogna,VERB,_,_
+677-0,PKP026,677,677,1,bisogna,bisogna,bisognare,VERB,_,_
 677-1,PKP026,677,677,2-3,comprarli,comprarli,comprare+li,VERB+PRON,_,_
 677-1a,_,_,677,2,_,comprar,comprare,VERB,_,_
 677-1b,_,_,677,3,_,li,li,PRON,_,_
@@ -4043,7 +4043,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 693-0,PKP025,693,693,1,i,i,il,DET,_,_
 693-1,PKP025,693,693,2,bisco:tti,biscotti,biscotto,NOUN,_,_
 694-0,PKP025,694,694,1,<oppure>,oppure,oppure,CCONJ,_,_
-695-0,PKP025,695,695,1-2,da:i:,dai,dai,INTJ,_,_
+695-0,PKP025,695,695,1-2,da:i:,dai,dare,VERB,_,_
 696-0,PKP025,696,696,1,questo,questo,questo,PRON,_,_
 696-1,PKP025,696,696,2,so,so,essere,AUX,_,_
 696-2,PKP025,696,696,3,quelli,quelli,quello,PRON,_,_
@@ -4360,7 +4360,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 761-3,PKP026,761,761,4,era,era,essere,VERB,_,_
 761-4,PKP026,761,761,5,tanto,tanto,tanto,ADV,_,_
 761-5,PKP026,761,761,6,<vento>,vento,vento,NOUN,_,_
-762-0,PKP025,762,762,1-2,dai,dai,dai,INTJ,_,_
+762-0,PKP025,762,762,1-2,dai,dai,dare,VERB,_,_
 762-1,PKP025,762,762,3,m',m',mi,PRON,_,_
 762-2,PKP025,762,762,4,è,è,essere,AUX,_,_
 762-3,PKP025,762,762,5,caduta,caduta,cadere,VERB,_,_
@@ -4587,7 +4587,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 809-8,PKP025,809,809,9,devi<,devi,dovere,AUX,_,_
 809-9,PKP025,809,809,10,riprende(re),riprendere,riprendere,VERB,_,_
 810-0,PKP026,810,810,1,>ma,ma,ma,CCONJ,_,_
-810-1,PKP026,810,810,2-3,dai<,dai,dai,INTJ,_,_
+810-1,PKP026,810,810,2-3,dai<,dai,dare,VERB,_,_
 810-2,PKP026,810,810,4,c',c',ci,PRON,_,_
 810-3,PKP026,810,810,5,è,è,essere,VERB,_,_
 810-4,PKP026,810,810,6,un,un,uno,DET,_,_
@@ -4733,7 +4733,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 835-2,PKP025,835,835,3,me,me,mi,PRON,_,_
 835-3,PKP025,835,835,4,ce,ce,ce,PRON,_,_
 835-4,PKP025,835,835,5,vuole,vuole,volere,VERB,_,_
-836-0,PKP026,836,836,1-2,>dai,dai,dai,INTJ,_,_
+836-0,PKP026,836,836,1-2,>dai,dai,dare,VERB,_,_
 836-1,PKP026,836,836,3,che,che,che,PRON,_,_
 836-2,PKP026,836,836,4,dopo,dopo,dopo,ADV,_,_
 836-3,PKP026,836,836,5,se,se,se,SCONJ,_,_

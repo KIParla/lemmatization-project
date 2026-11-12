@@ -1343,7 +1343,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 221-3,BO096,221,221,4,primo,primo,primo,ADJ,_,_
 221-4,BO096,221,221,5,personaggio,personaggio,personaggio,NOUN,_,_
 221-5,BO096,221,221,6,gay,gay,gay,NOUN,_,_
-222-0,BO096,222,222,1,stra,stra,stra,ADV,_,_
+222-0,BO096,222,222,1,stra,stra,stra,PART,_,_
 222-1,BO096,222,222,2,amato,amato,amato,ADJ,_,_
 222-2,BO096,222,222,3-4,dalla,dalla,da+il,ADP+DET,_,_
 222-2a,_,_,222,3,_,da,da,ADP,_,_
@@ -1659,7 +1659,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 273-2,BO096,273,273,3,magari,magari,magari,ADV,_,_
 273-3,BO096,273,273,4,ce,ce,ce,PRON,_,_
 273-4,BO096,273,273,5,l',l',lo,PRON,_,_
-273-5,BO096,273,273,6,avevi,avevi,avevere,VERB,_,_
+273-5,BO096,273,273,6,avevi,avevi,avere,VERB,_,_
 273-6,BO096,273,273,7-8,nella,nella,in+il,ADP+DET,_,_
 273-6a,_,_,273,7,_,in,in,ADP,_,_
 273-6b,_,_,273,8,_,la,il,DET,_,_
@@ -2944,7 +2944,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 474-5,BO096,474,474,6,le,le,il,DET,_,_
 474-6,BO096,474,474,7,altre,altre,altro,ADJ,_,_
 474-7,BO096,474,474,8,stagioni,stagioni,stagione,NOUN,_,_
-474-8,BO096,474,474,9,avevano,avevano,avrre,VERB,_,_
+474-8,BO096,474,474,9,avevano,avevano,avere,VERB,_,_
 474-9,BO096,474,474,10,più,più,più,ADV,_,_
 474-10,BO096,474,474,11,senso,senso,senso,NOUN,_,_
 474-11,BO096,474,474,12,di,di,di,ADP,_,_
@@ -3175,7 +3175,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 503-2,BO096,503,503,3,di,di,di,ADP,_,_
 503-3,BO096,503,503,4,xx,xx,x,X,_,_
 503-4,BO096,503,503,5,è,è,essere,AUX,_,_
-503-5,BO096,503,503,6,bellissima,bellissima,bella,ADJ,_,_
+503-5,BO096,503,503,6,bellissima,bellissima,bello,ADJ,_,_
 504-0,BO096,504,504,1,no,no,no,ADV,_,_
 504-1,BO096,504,504,2,ma,ma,ma,CCONJ,_,_
 504-2,BO096,504,504,3,poi,poi,poi,ADV,_,_
@@ -3528,7 +3528,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 561-10,BO096,561,561,11,moglie,moglie,moglie,NOUN,_,_
 561-11,BO096,561,561,12,se,se,se,PRON,_,_
 561-12,BO096,561,561,13,ne,ne,ne,PRON,_,_
-561-13,BO096,561,561,14,avessi,avessi,avettere,VERB,_,_
+561-13,BO096,561,561,14,avessi,avessi,avere,VERB,_,_
 561-14,BO096,561,561,15,la,la,il,DET,_,_
 561-15,BO096,561,561,16,possibilità,possibilità,possibilità,NOUN,_,_
 562-0,BO096,562,562,1,eh,eh,eh,INTJ,_,_
@@ -3858,7 +3858,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 599-6,BO096,599,599,7,questo,questo,questo,PRON,_,_
 599-7,BO096,599,599,8,che,che,che,PRON,_,_
 599-8,BO096,599,599,9,lo,lo,lo,PRON,_,_
-599-9,BO096,599,599,10,facciamo,facciamo,facciare,VERB,_,_
+599-9,BO096,599,599,10,facciamo,facciamo,fare,VERB,_,_
 599-10,BO096,599,599,11,siamo,siamo,essere,AUX,_,_
 599-11,BO096,599,599,12,stati,stati,essere,AUX,_,_
 599-12,BO096,599,599,13,abituati,abituati,abituare,VERB,_,_
@@ -5768,7 +5768,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 912-0,BO096,912,912,1,sarebbe,sarebbe,essere,VERB,_,_
 912-1,BO096,912,912,2,che:::,che,che,SCONJ,_,_
 912-2,BO096,912,912,3,"insomma,",insomma,insomma,ADV,_,_
-913-0,BO096,913,913,1,avremmo,avremmo,avrere,VERB,_,_
+913-0,BO096,913,913,1,avremmo,avremmo,avere,VERB,_,_
 913-1,BO096,913,913,2,difficoltà,difficoltà,difficoltà,NOUN,_,_
 913-2,BO096,913,913,3,a,a,a,ADP,_,_
 913-3,BO096,913,913,4-5,metterci,metterci,mettere+ci,VERB+PRON,_,_
@@ -5789,7 +5789,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 917-3,BO096,917,917,4,torta,torta,torta,NOUN,_,_
 917-4,BO096,917,917,5,praticamente,praticamente,praticamente,ADV,_,_
 917-5,BO096,917,917,6,i,i,il,DET,_,_
-917-6,BO096,917,917,7,brownie,brownie,brownia,NOUN,_,_
+917-6,BO096,917,917,7,brownie,brownie,brownie,NOUN,_,_
 917-7,BO096,917,917,8,si,si,si,PRON,_,_
 917-8,BO096,917,917,9,fanno,fanno,fare,VERB,_,_
 917-9,BO096,917,917,10,in,in,in,ADP,_,_
@@ -6844,7 +6844,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1090-2,BO095,1090,1090,3,non,non,non,ADV,_,_
 1090-3,BO095,1090,1090,4,ti,ti,ti,PRON,_,_
 1090-4,BO095,1090,1090,5,ha,ha,avere,AUX,_,_
-1090-5,BO095,1090,1090,6,dato,dato,dato,VERB,_,_
+1090-5,BO095,1090,1090,6,dato,dato,dare,VERB,_,_
 1090-6,BO095,1090,1090,7,niente,niente,niente,PRON,_,_
 1090-7,BO095,1090,1090,8,questa,questa,questo,DET,_,_
 1090-8,BO095,1090,1090,9,cosa,cosa,cosa,NOUN,_,_

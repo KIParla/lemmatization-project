@@ -157,7 +157,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 17-0,BO157,17,((ride)),((ride)),NVB,NVB,_,_
 18-0,BO155,18,quindi,quindi,quindi,ADV,_,_
 18-1,BO155,18,c',c',ci,PRON,_,SpaceAfter=No
-18-2,BO155,18,[avevi,avevi,avevere,VERB,_,_
+18-2,BO155,18,[avevi,avevi,avere,VERB,_,_
 18-3,BO155,18,qualcosa],qualcosa,qualcosa,PRON,_,_
 18-4,BO155,18,che,che,che,PRON,_,_
 18-5,BO155,18,ti,ti,ti,PRON,_,_
@@ -562,7 +562,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 79-2,BO156,79,effettivamente,effettivamente,effettivamente,ADV,_,_
 79-3,BO156,79,che,che,che,PRON,_,_
 79-4,BO156,79,ho,ho,avere,AUX,_,_
-79-5,BO156,79,conosciuto,conosciuto,conosciuto,VERB,_,_
+79-5,BO156,79,conosciuto,conosciuto,conoscere,VERB,_,_
 79-6,BO156,79,al~,al~,x,X,Interrupted=Yes,_
 79-7,BO156,79,all',all',a+il,ADP+DET,Truncated=Yes,_
 79-7a,_,_,_,a,a,ADP,_,_
@@ -1474,7 +1474,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 258-8,BO158,258,factor,factor,Factor,PROPN,_,_
 259-0,BO156,259,((ride)),((ride)),NVB,NVB,_,_
 260-0,BO157,260,mah,mah,mah,INTJ,_,_
-260-1,BO157,260,guarda,guarda,guarda,VERB,_,_
+260-1,BO157,260,guarda,guarda,guardare,VERB,_,_
 260-2,BO157,260,(.),(.),PAUSE,NVB,_,_
 260-3,BO157,260,m::h,mh,mh,INTJ,_,_
 261-0,BO158,261,>sarebbe,sarebbe,essere,VERB,_,_
@@ -2051,7 +2051,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 377-2,BO156,377,in,in,in,ADP,_,_
 377-3,BO156,377,realtà,realtà,realtà,NOUN,_,_
 377-4,BO156,377,(.),(.),PAUSE,NVB,_,_
-377-5,BO156,377,avremmo,avremmo,avrere,VERB,_,_
+377-5,BO156,377,avremmo,avremmo,avere,VERB,_,_
 377-6,BO156,377,più,più,più,ADV,_,_
 377-7,BO156,377,o,o,o,CCONJ,_,_
 377-8,BO156,377,meno,meno,meno,ADV,_,_
@@ -3696,7 +3696,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 612-1,BO157,612,sembrava,sembrava,sembrare,VERB,_,_
 612-2,BO157,612,di,di,di,ADP,_,_
 612-3,BO157,612,essere,essere,essere,AUX,_,_
-612-4,BO157,612,diventato,diventato,diventato,VERB,_,_
+612-4,BO157,612,diventato,diventato,diventare,VERB,_,_
 612-5,BO157,612,l',l',il,DET,Truncated=Yes,_
 612-6,BO157,612,esseoesse,esseoesse,SOS,NOUN,_,_
 612-7,BO157,612,dislessici,dislessici,dislessico,NOUN,_,_
@@ -3949,7 +3949,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 678-1,BO156,678,radio]?,radio,radio,NOUN,Intonation=rising,_
 679-0,BO157,679,[per]ché,perché,perché,SCONJ,_,_
 679-1,BO157,679,ho,ho,avere,AUX,_,_
-679-2,BO157,679,chiamato,chiamato,chiamato,VERB,_,_
+679-2,BO157,679,chiamato,chiamato,chiamare,VERB,_,_
 679-3,BO157,679,nicolet[ti,nicoletti,Nicoletti,PROPN,_,_
 679-4,BO157,679,(.),(.),PAUSE,NVB,_,_
 679-5,BO157,679,a,a,a,ADP,_,_
@@ -12232,7 +12232,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1976-1,BO158,1976,ma,ma,ma,CCONJ,_,_
 1976-2,BO158,1976,non,non,non,ADV,_,_
 1976-3,BO158,1976,ho,ho,avere,AUX,_,_
-1976-4,BO158,1976,capito,capito,capito,VERB,_,_
+1976-4,BO158,1976,capito,capito,capire,VERB,_,_
 1976-5,BO158,1976,di,di,di,ADP,_,_
 1976-6,BO158,1976,dov',dov',dove,ADV,Truncated=Yes,_
 1976-7,BO158,1976,è,è,essere,AUX,_,_

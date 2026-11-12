@@ -485,7 +485,7 @@
 51-20,TO030,51,51,21,(.),(.),PAUSE,NVB,_,_
 51-21,TO030,51,51,22,perché,perché,perché,SCONJ,CS,,mark:24,linguistic,_,_,_,_,_,_,_
 51-22,TO030,51,51,23,io,io,io,PRON,PE,Number=Sing|Person=1|PronType=Prs,nsubj:24,linguistic,_,_,_,_,_,_,_
-51-23,TO030,51,51,24,"devo,",devo,dere,VERB,V,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,advcl:11,linguistic,_,Intonation=weakly_rising,End=143.899,_,_,_,_
+51-23,TO030,51,51,24,"devo,",devo,dovere,VERB,V,Mood=Ind|Number=Sing|Person=1|Tense=Imp|VerbForm=Fin,advcl:11,linguistic,_,Intonation=weakly_rising,End=143.899,_,_,_,_
 52-0,TO054,52,52,1,essere,essere,essere,AUX,VA,VerbForm=Inf,aux:pass:2,linguistic,_,_,Begin=144.743,_,_,_,_
 52-1,TO054,52,52,2,penalizza[ti,penalizzati,penalizzare,VERB,V,Gender=Masc|Number=Plur|Tense=Past|VerbForm=Part,root:0,linguistic,_,_,_,_,_,_,9-11(28)
 52-2,TO054,52,52,3,(per,per,per,ADP,E,,case:5,linguistic,_,_,_,_,_,0-3(0),0-3(28)
@@ -803,7 +803,7 @@
 79-26,TO030,79,79,27,ri~,ri~,x,X,SP,,nmod:30,linguistic,_,Interrupted=Yes,_,_,_,_,_
 79-27,TO030,79,79,28,cioè,cioè,cioè,CCONJ,CC,,cc:30,linguistic,_,_,_,_,_,_,_
 79-28,TO030,79,79,29,"non,",non,non,ADV,BN,PronType=Neg,advmod:30,linguistic,_,Intonation=weakly_rising,_,_,_,_,_
-79-29,TO030,79,79,30,capi[to?,capito,capito,VERB,V,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,acl:relcl:14,linguistic,_,Intonation=rising,_,_,_,_,4-6(43)
+79-29,TO030,79,79,30,capi[to?,capito,capire,VERB,V,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,acl:relcl:14,linguistic,_,Intonation=rising,_,_,_,_,4-6(43)
 79-30,TO030,79,79,31-32,dei,dei,di+il,ADP+DET,_,_,_,linguistic,_,_,_,_,_,_,0-3(43)
 79-30a,_,_,79,31,_,di,di,ADP,E,,case:33,_,_,_,_,_,_,_,_
 79-30b,_,_,79,32,_,i,il,DET,RD,Definite=Def|Gender=Masc|Number=Plur|PronType=Art,det:33,_,_,_,_,_,_,_,_
@@ -1584,7 +1584,7 @@
 136-7,TO030,136,136,8,comunque,comunque,comunque,ADV,B,,advmod:11,linguistic,_,_,_,_,_,_,_
 136-8,TO030,136,136,9,(il),il,il,DET,RD,Definite=Def|Gender=Masc|Number=Sing|PronType=Art,det:10,linguistic,_,_,_,_,_,0-2(0),_
 136-9,TO030,136,136,10,lei,lei,lei,PRON,PE,Number=Sing|Person=3|PronType=Prs,nsubj:11,linguistic,_,_,_,_,_,_,_
-136-10,TO030,136,136,11,ha,ha,hare,VERB,V,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,advcl:6,linguistic,_,_,_,_,_,_,_
+136-10,TO030,136,136,11,ha,ha,avere,VERB,V,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,advcl:6,linguistic,_,_,_,_,_,_,_
 136-11,TO030,136,136,12,più,più,più,DET,DI,PronType=Ind,det:13,linguistic,_,_,_,_,_,_,_
 136-12,TO030,136,136,13,possibilità,possibilità,possibilità,NOUN,S,Gender=Fem,obj:15,linguistic,_,_,_,_,_,_,_
 136-13,TO030,136,136,14,di,di,di,ADP,E,,mark:15,linguistic,_,_,_,_,_,_,_
@@ -2336,7 +2336,7 @@
 187-26,TO030,187,187,27,punto,punto,punto,NOUN,S,Gender=Masc|Number=Sing,obl:29,linguistic,_,_,_,_,_,_,_
 187-27,TO030,187,187,28,tanto,tanto,tanto,PRON,PI,Gender=Masc|Number=Sing|PronType=Ind,nsubj:29,linguistic,_,_,_,_,_,_,_
 187-28,TO030,187,187,29,vale,vale,valere,VERB,V,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,acl:relcl:37,linguistic,_,_,_,_,_,_,_
-187-29,TO030,187,187,30,far,far,farre,VERB,V,VerbForm=Inf,advcl:37,linguistic,_,_,_,_,_,_,_
+187-29,TO030,187,187,30,far,far,fare,VERB,V,VerbForm=Inf,advcl:37,linguistic,_,_,_,_,_,_,_
 187-30,TO030,187,187,31,la,la,il,DET,RD,Definite=Def|Gender=Fem|Number=Sing|PronType=Art,det:32,linguistic,_,_,_,_,_,_,_
 187-31,TO030,187,187,32,"magistrale,",magistrale,magistrale,NOUN,S,Gender=Fem|Number=Sing,nsubj:37,linguistic,_,Intonation=weakly_rising,_,_,_,_,_
 187-32,TO030,187,187,33,che,che,che,SCONJ,CS,,mark:37,linguistic,_,_,_,_,_,_,_
@@ -2415,7 +2415,7 @@
 193-16,TO030,193,193,19,la,la,il,DET,RD,Definite=Def|Gender=Fem|Number=Sing|PronType=Art,det:20,linguistic,_,_,_,_,_,_,_
 193-17,TO030,193,193,20,"faccio,",faccio,fare,VERB,V,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,nsubj:22,linguistic,_,Intonation=weakly_rising,_,_,_,_,_
 193-18,TO030,193,193,21,la,la,la,PRON,PC,Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs,obj:22,linguistic,_,_,_,_,_,_,_
-193-19,TO030,193,193,22,faccio,faccio,facciare,VERB,V,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,advcl:17,linguistic,_,_,_,_,_,_,_
+193-19,TO030,193,193,22,faccio,faccio,fare,VERB,V,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,advcl:17,linguistic,_,_,_,_,_,_,_
 193-20,TO030,193,193,23,perché,perché,perché,SCONJ,CS,,mark:27,linguistic,_,_,_,_,_,_,_
 193-21,TO030,193,193,24,una,una,uno,DET,RI,Definite=Ind|Gender=Fem|Number=Sing|PronType=Art,det:25,linguistic,_,_,_,_,_,_,_
 193-22,TO030,193,193,25,triennale,triennale,triennale,ADJ,A,Number=Sing,nsubj:27,linguistic,_,_,_,_,_,_,_
@@ -2507,7 +2507,7 @@
 196-17,TO030,196,196,18,"ragione,",ragione,ragione,NOUN,S,Gender=Fem|Number=Sing,obj:14,linguistic,_,Intonation=weakly_rising,_,_,_,_,_
 196-18,TO030,196,196,19,lei,lei,lei,PRON,PE,Number=Sing|Person=3|PronType=Prs,nsubj:20,linguistic,_,_,_,_,_,_,_
 196-19,TO030,196,196,20,fasta,fasta,fastare,VERB,V,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,acl:relcl:31,linguistic,_,_,_,_,_,_,_
-196-20,TO030,196,196,21,facendo,facendo,facire,VERB,V,VerbForm=Ger,advcl:20,linguistic,_,_,_,_,_,_,_
+196-20,TO030,196,196,21,facendo,facendo,fare,VERB,V,VerbForm=Ger,advcl:20,linguistic,_,_,_,_,_,_,_
 196-21,TO030,196,196,22,la,la,il,DET,RD,Definite=Def|Gender=Fem|Number=Sing|PronType=Art,det:23,linguistic,_,_,_,_,_,_,_
 196-22,TO030,196,196,23,magistrale,magistrale,magistrale,NOUN,S,Gender=Fem|Number=Sing,obj:21,linguistic,_,_,_,_,_,_,_
 196-23,TO030,196,196,24,a,a,a,ADP,E,,case:25,linguistic,_,_,_,_,_,_,_
@@ -3071,8 +3071,8 @@
 237-32,TO054,237,237,33,no.,no,no,ADV,BN,PronType=Neg,advmod:36,linguistic,_,Intonation=falling,_,_,_,_,_
 237-33,TO054,237,237,34,voglio,voglio,volere,AUX,VM,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,aux:36,linguistic,_,_,_,_,_,_,_
 237-34,TO054,237,237,35,assolutamente,assolutamente,assolutamente,ADV,B,,advmod:36,linguistic,_,_,_,_,_,_,_
-237-35,TO054,237,237,36-37,finirla,finirla,finirre+la,VERB+PRON,_,_,_,linguistic,_,_,_,_,_,_,_
-237-35a,_,_,237,36,_,finir,finirre,VERB,V,VerbForm=Inf,conj:11,_,_,_,_,_,_,_,_
+237-35,TO054,237,237,36-37,finirla,finirla,finire+la,VERB+PRON,_,_,_,linguistic,_,_,_,_,_,_,_
+237-35a,_,_,237,36,_,finir,finire,VERB,V,VerbForm=Inf,conj:11,_,_,_,_,_,_,_,_
 237-35b,_,_,237,37,_,la,la,PRON,PC,Clitic=Yes|Gender=Fem|Number=Sing|Person=3|PronType=Prs,obj:36,_,_,_,_,_,_,_,_
 237-36,TO054,237,237,38-39,nei,nei,in+il,ADP+DET,_,_,_,linguistic,_,_,_,_,_,_,_
 237-36a,_,_,237,38,_,in,in,ADP,E,,case:41,_,_,_,_,_,_,_,_
@@ -3425,7 +3425,7 @@
 265-12,TO054,265,265,13,che,che,che,SCONJ,CS,,mark:16,linguistic,_,_,_,_,_,_,_
 265-13,TO054,265,265,14,la,la,il,DET,RD,Definite=Def|Gender=Fem|Number=Sing|PronType=Art,det:15,linguistic,_,_,_,_,_,_,_
 265-14,TO054,265,265,15,magistrale,magistrale,magistrale,NOUN,S,Gender=Fem|Number=Sing,nsubj:16,linguistic,_,_,_,_,_,_,_
-265-15,TO054,265,265,16,(deva),deva,dere,VERB,V,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,advcl:4,linguistic,_,_,_,_,_,0-4(0),_
+265-15,TO054,265,265,16,(deva),deva,dovere,VERB,V,Mood=Ind|Number=Sing|Person=3|Tense=Imp|VerbForm=Fin,advcl:4,linguistic,_,_,_,_,_,0-4(0),_
 265-16,TO054,265,265,17,contare,contare,contare,VERB,V,VerbForm=Inf,xcomp:16,linguistic,_,_,_,_,_,_,_
 265-17,TO054,265,265,18,di,di,di,ADP,E,,case:19,linguistic,_,_,_,_,_,_,_
 265-18,TO054,265,265,19,più:,più,più,ADV,B,,advmod:22,linguistic,_,_,_,2x1,_,_,_
@@ -4309,7 +4309,7 @@
 329-4,TO030,329,329,5,cosa,cosa,cosa,NOUN,S,Gender=Fem|Number=Sing,root:0,linguistic,_,_,_,_,_,_,0-4(150)
 329-5,TO030,329,329,6,che,che,che,PRON,PR,PronType=Rel,obj:8,linguistic,_,_,_,_,_,_,0-3(150)
 329-6,TO030,329,329,7,io::,io,io,PRON,PE,Number=Sing|Person=1|PronType=Prs,nsubj:8,linguistic,_,_,_,1x2,_,_,0-2(150)
-329-7,TO030,329,329,8,avrei],avrei,avre,VERB,V,Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,acl:relcl:5,linguistic,_,_,_,_,_,_,0-5(150)
+329-7,TO030,329,329,8,avrei],avrei,avere,VERB,V,Mood=Cnd|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,acl:relcl:5,linguistic,_,_,_,_,_,_,0-5(150)
 329-8,TO030,329,329,9,proprio::,proprio,proprio,ADV,B,,advmod:8,linguistic,_,_,_,6x2,_,_,_
 329-9,TO030,329,329,10,cioè,cioè,cioè,ADV,B,,advmod:8,linguistic,_,_,_,_,_,_,_
 329-10,TO030,329,329,11,che,che,che,SCONJ,CS,,mark:17,linguistic,_,ProsodicLink=Yes,_,_,_,_,_
@@ -4615,7 +4615,7 @@
 364-1,TO030,364,364,2,ma,ma,ma,CCONJ,CC,,cc:3,linguistic,_,_,_,_,_,_,_
 364-2,TO030,364,364,3,me,me,me,PRON,PE,Number=Sing|Person=1|PronType=Prs,conj:1,linguistic,_,_,_,_,_,_,_
 364-3,TO030,364,364,4,l',l',il,DET,RD,Definite=Def|Number=Sing|PronType=Art,det:5,linguistic,_,Truncated=Yes,_,_,_,_,_
-364-4,TO030,364,364,5,avevi,avevi,avevo,NOUN,S,Gender=Masc|Number=Plur,obj:3,linguistic,_,_,_,_,_,_,_
+364-4,TO030,364,364,5,avevi,avevi,avere,NOUN,S,Gender=Masc|Number=Plur,obj:3,linguistic,_,_,_,_,_,_,_
 364-5,TO030,364,364,6,anche,anche,anche,ADV,B,,advmod:8,linguistic,_,_,_,_,_,_,_
 364-6,TO030,364,364,7,già,già,già,ADV,B,,advmod:8,linguistic,_,_,_,_,_,_,_
 364-7,TO030,364,364,8,detto.,detto,dire,VERB,V,Gender=Masc|Number=Sing|Tense=Past|VerbForm=Part,acl:5,linguistic,_,Intonation=falling,_,_,_,_,_

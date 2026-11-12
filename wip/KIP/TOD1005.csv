@@ -200,7 +200,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 35-7,???,35,35,8,per,per,per,ADP,_,_
 35-8,???,35,35,9,le,le,il,DET,_,_
 35-9,???,35,35,10,ulteriori,ulteriori,ulteriore,ADJ,_,_
-35-10,???,35,35,11,conoscenze,conoscenze,conoscenzo,NOUN,_,_
+35-10,???,35,35,11,conoscenze,conoscenze,conoscenza,NOUN,_,_
 35-11,???,35,35,12,linguistiche,linguistiche,linguistico,ADJ,_,_
 35-12,???,35,35,13,xxx,xxx,x,X,_,_
 35-13,???,35,35,14,che,che,che,PRON,_,_
@@ -1580,7 +1580,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 210-5,TO017,210,210,6,io,io,io,PRON,_,_
 210-6,TO017,210,210,7,non,non,non,ADV,_,_
 210-7,TO017,210,210,8,le,le,le,PRON,_,_
-210-8,TO017,210,210,9,farò,farò,faere,VERB,_,_
+210-8,TO017,210,210,9,farò,farò,fare,VERB,_,_
 210-9,TO017,210,210,10,alc~,alc~,x,X,_,_
 211-0,TO017,211,211,1,e,e,e,CCONJ,_,_
 211-1,TO017,211,211,2,viceversa,viceversa,viceversa,ADV,_,_
@@ -2159,7 +2159,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 281-5,TO017,281,281,6,ve,ve,vi,PRON,_,_
 281-6,TO017,281,281,7,la,la,la,PRON,_,_
 281-7,TO017,281,281,8,fa,fa,fare,VERB,_,_
-281-8,TO017,281,281,9,faccio,faccio,facciare,VERB,_,_
+281-8,TO017,281,281,9,faccio,faccio,fare,VERB,_,_
 281-9,TO017,281,281,10,i:o,io,io,PRON,_,_
 281-10,TO017,281,281,11,la,la,il,DET,_,_
 281-11,TO017,281,281,12,introduzione,introduzione,introduzione,NOUN,_,_
@@ -2447,7 +2447,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 344-14,TO017,344,344,15,(.),(.),PAUSE,NVB,_,_
 344-15,TO017,344,344,16,sono,sono,essere,AUX,_,_
 344-16,TO017,344,344,17,più,più,più,ADV,_,_
-344-17,TO017,344,344,18,debole.,debole,debolo,ADJ,_,_
+344-17,TO017,344,344,18,debole.,debole,debole,ADJ,_,_
 345-0,TO017,345,345,1,okay,okay,ok,INTJ,_,_
 345-1,TO017,345,345,2,ma,ma,ma,CCONJ,_,_
 345-2,TO017,345,345,3,(allora),allora,allora,ADV,_,_
@@ -3554,7 +3554,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 577-4,TO017,577,577,5,così,così,così,ADV,_,_
 578-0,TO017,578,578,1,che,che,che,SCONJ,_,_
 578-1,TO017,578,578,2,l',l',il,DET,_,_
-578-2,TO017,578,578,3,avevi,avevi,avevo,NOUN,_,_
+578-2,TO017,578,578,3,avevi,avevi,avere,VERB,_,_
 578-3,TO017,578,578,4,(perché),perché,perché,ADV,_,_
 578-4,TO017,578,578,5,se,se,se,SCONJ,_,_
 578-5,TO017,578,578,6,non,non,non,ADV,_,_
@@ -5077,7 +5077,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 831-9,TO017,831,831,10,molto,molto,molto,ADV,_,_
 831-10,TO017,831,831,11,"lontano,",lontano,lontano,ADJ,_,_
 832-0,TO017,832,832,1,non,non,non,ADV,_,_
-832-1,TO017,832,832,2,capirò,capirò,capirare,VERB,_,_
+832-1,TO017,832,832,2,capirò,capirò,capire,VERB,_,_
 832-2,TO017,832,832,3,più,più,più,ADV,_,_
 832-3,TO017,832,832,4,niente,niente,niente,PRON,_,_
 832-4,TO017,832,832,5,di,di,di,ADP,_,_
@@ -6416,7 +6416,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1109-4,TO017,1109,1109,5,ad,ad,a,ADP,_,_
 1109-5,TO017,1109,1109,6,usare,usare,usare,VERB,_,_
 1109-6,TO017,1109,1109,7,"oggi,",oggi,oggi,ADV,_,_
-1110-0,TO017,1110,1110,1,avremmo,avremmo,avrere,VERB,_,_
+1110-0,TO017,1110,1110,1,avremmo,avremmo,avere,VERB,_,_
 1110-1,TO017,1110,1110,2,(comunque),comunque,comunque,ADV,_,_
 1110-2,TO017,1110,1110,3-4,>delle<,delle,di+il,ADP+DET,_,_
 1110-2a,_,_,1110,3,_,di,di,ADP,_,_
@@ -7573,8 +7573,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1291-1,???,1291,1291,2,so,so,sapere,VERB,_,_
 1291-2,???,1291,1291,3,se),se,se,SCONJ,_,_
 1291-3,???,1291,1291,4,bisogna,bisogna,bisognare,VERB,_,_
-1291-4,???,1291,1291,5-6,farsi,farsi,farre+si,VERB+PRON,_,_
-1291-4a,_,_,1291,5,_,far,farre,VERB,_,_
+1291-4,???,1291,1291,5-6,farsi,farsi,fare+si,VERB+PRON,_,_
+1291-4a,_,_,1291,5,_,far,fare,VERB,_,_
 1291-4b,_,_,1291,6,_,si,si,PRON,_,_
 1291-5,???,1291,1291,7,capire,capire,capire,VERB,_,_
 1291-6,???,1291,1291,8,(magari),magari,magari,ADV,_,_
