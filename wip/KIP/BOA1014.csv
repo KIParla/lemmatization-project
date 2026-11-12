@@ -15,7 +15,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 3-6,BO044,3,3,7,°fuo[ri.°],fuori,fuori,ADV,_,_
 4-0,BO026,4,4,1,[ah],ah,ah,INTJ,_,_
 4-1,BO026,4,4,2,okay.,okay,okay,INTJ,_,_
-5-0,BO044,5,5,1,"allora,",allora,allora,SCONJ,_,_
+5-0,BO044,5,5,1,"allora,",allora,allora,ADV,_,_
 6-0,BO026,6,6,1,prego.,prego,pregare,VERB,_,_
 7-0,BO044,7,7,1,sì.,sì,sì,ADV,_,_
 8-0,BO044,8,8,1,io,io,io,PRON,_,_
@@ -72,7 +72,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 17-15,BO044,17,17,16,il,il,il,DET,_,_
 17-16,BO044,17,17,17,mio,mio,mio,DET,_,_
 17-17,BO044,17,17,18,programma.,programma,programma,NOUN,_,_
-18-0,BO026,18,18,1,"allora,",allora,allora,SCONJ,_,_
+18-0,BO026,18,18,1,"allora,",allora,allora,ADV,_,_
 19-0,BO026,19,19,1,se,se,se,SCONJ,_,_
 19-1,BO026,19,19,2,lei,lei,lei,PRON,_,_
 19-2,BO026,19,19,3,aveva,aveva,avere,AUX,_,_
@@ -200,7 +200,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 40-9,BO026,40,40,10,il,il,il,DET,_,_
 40-10,BO026,40,40,11,programma,programma,programma,NOUN,_,_
 40-11,BO026,40,40,12,(.),(.),PAUSE,NVB,_,_
-40-12,BO026,40,40,13,allora,allora,allora,SCONJ,_,_
+40-12,BO026,40,40,13,allora,allora,allora,ADV,_,_
 40-13,BO026,40,40,14,come,come,come,ADV,_,_
 40-14,BO026,40,40,15,si,si,si,PRON,_,_
 40-15,BO026,40,40,16,chiama,chiama,chiamare,VERB,_,_
@@ -219,7 +219,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 46-0,BO044,46,46,1,giulia.,giulia,Giulia,PROPN,_,_
 47-0,BO026,47,47,1,mh,mh,mh,INTJ,_,_
 47-1,BO026,47,47,2,mh.,mh,mh,INTJ,_,_
-48-0,BO026,48,48,1,"allora,",allora,allora,SCONJ,_,_
+48-0,BO026,48,48,1,"allora,",allora,allora,ADV,_,_
 49-0,BO026,49,49,1,"certo,",certo,certo,ADJ,_,_
 50-0,BO026,50,50,1,questo,questo,questo,PRON,_,_
 50-1,BO026,50,50,2,è,è,essere,VERB,_,_
@@ -242,7 +242,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 54-0,BO044,54,54,1,quindi,quindi,quindi,SCONJ,_,_
 54-1,BO044,54,54,2,io,io,io,PRON,_,_
 54-2,BO044,54,54,3,>xx<,xx,x,X,_,_
-55-0,BO026,55,55,1,allora,allora,allora,SCONJ,_,_
+55-0,BO026,55,55,1,allora,allora,allora,ADV,_,_
 55-1,BO026,55,55,2,lei,lei,lei,PRON,_,_
 55-2,BO026,55,55,3,potrebbe,potrebbe,potere,AUX,_,_
 55-3,BO026,55,55,4,per,per,per,ADP,_,_
@@ -547,7 +547,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 93-4,BO026,93,93,6,giorno,giorno,giorno,NOUN,_,_
 93-5,BO026,93,93,7,dopo.,dopo,dopo,ADV,_,_
 94-0,BO044,94,94,1,okay.,okay,okay,INTJ,_,_
-95-0,BO026,95,95,1,un,un,uno,NUM,_,_
+95-0,BO026,95,95,1,un,un,uno,DET,_,_
 95-1,BO026,95,95,2,uno,uno,uno,NUM,_,_
 95-2,BO026,95,95,3,è,è,essere,VERB,_,_
 95-3,BO026,95,95,4,difficile,difficile,difficile,ADJ,_,_

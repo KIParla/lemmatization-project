@@ -472,8 +472,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 70-7,BO096,70,70,8,un,un,uno,DET,_,_
 70-8,BO096,70,70,9,sistema,sistema,sistema,NOUN,_,_
 70-9,BO096,70,70,10,"sessista,",sessista,sessista,ADJ,_,_
-70-10,BO096,70,70,11,eccetera,eccetera,eccetera,INTJ,_,_
-70-11,BO096,70,70,12,eccetera,eccetera,eccetera,INTJ,_,_
+70-10,BO096,70,70,11,eccetera,eccetera,eccetera,ADV,_,_
+70-11,BO096,70,70,12,eccetera,eccetera,eccetera,ADV,_,_
 70-12,BO096,70,70,13,è,è,essere,AUX,_,_
 70-13,BO096,70,70,14,giusto,giusto,giusto,ADJ,_,_
 70-14,BO096,70,70,15,che,che,che,SCONJ,_,_
@@ -670,7 +670,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 97-4,BO095,97,97,5,scandalo,scandalo,scandalo,NOUN,_,_
 97-5,BO095,97,97,6,per,per,per,ADP,_,_
 97-6,BO095,97,97,7,hollywood,hollywood,Hollywood,PROPN,_,_
-97-7,BO095,97,97,8,eccetera,eccetera,eccetera,INTJ,_,_
+97-7,BO095,97,97,8,eccetera,eccetera,eccetera,ADV,_,_
 98-0,BO095,98,98,1,è,è,essere,AUX,_,_
 98-1,BO095,98,98,2,stato,stato,essere,VERB,_,_
 98-2,BO095,98,98,3,possibile,possibile,possibile,ADJ,_,_
@@ -1073,8 +1073,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 166-11,BO096,166,166,13,donna,donna,donna,NOUN,_,_
 166-12,BO096,166,166,14,è,è,essere,AUX,_,_
 166-13,BO096,166,166,15,inferiore,inferiore,inferiore,ADJ,_,_
-166-14,BO096,166,166,16,eccetera,eccetera,eccetera,INTJ,_,_
-166-15,BO096,166,166,17,eccetera,eccetera,eccetera,INTJ,_,_
+166-14,BO096,166,166,16,eccetera,eccetera,eccetera,ADV,_,_
+166-15,BO096,166,166,17,eccetera,eccetera,eccetera,ADV,_,_
 167-0,BO096,167,167,1,si,si,si,PRON,_,_
 167-1,BO096,167,167,2,parlava,parlava,parlare,VERB,_,_
 167-2,BO096,167,167,3,di,di,di,ADP,_,_
@@ -1801,8 +1801,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 297-18,BO096,297,297,19,faccio,faccio,fare,VERB,_,_
 297-19,BO096,297,297,20,mai,mai,mai,ADV,_,_
 297-20,BO096,297,297,21,cose,cose,cosa,NOUN,_,_
-297-21,BO096,297,297,22,eccetera,eccetera,eccetera,INTJ,_,_
-297-22,BO096,297,297,23,eccetera,eccetera,eccetera,INTJ,_,_
+297-21,BO096,297,297,22,eccetera,eccetera,eccetera,ADV,_,_
+297-22,BO096,297,297,23,eccetera,eccetera,eccetera,ADV,_,_
 297-23,BO096,297,297,24,sono,sono,essere,AUX,_,_
 298-0,BO096,298,298,1,un,un,uno,DET,_,_
 298-1,BO096,298,298,2,po',po',poco,ADV,_,_
@@ -2335,8 +2335,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 375-4,BO096,375,375,5,"amore,",amore,amore,ADJ,_,_
 375-5,BO096,375,375,6,li,li,li,PRON,_,_
 375-6,BO096,375,375,7,coccolano,coccolano,coccolare,VERB,_,_
-375-7,BO096,375,375,8,eccetera,eccetera,eccetera,INTJ,_,_
-375-8,BO096,375,375,9,eccetera,eccetera,eccetera,INTJ,_,_
+375-7,BO096,375,375,8,eccetera,eccetera,eccetera,ADV,_,_
+375-8,BO096,375,375,9,eccetera,eccetera,eccetera,ADV,_,_
 375-9,BO096,375,375,10,però,però,però,CCONJ,_,_
 375-10,BO096,375,375,11,comunque,comunque,comunque,ADV,_,_
 375-11,BO096,375,375,12,sei,sei,essere,AUX,_,_
@@ -3040,7 +3040,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 485-2,BO096,485,485,3,mi,mi,mi,PRON,_,_
 485-3,BO096,485,485,4,ricordo,ricordo,ricordare,VERB,_,_
 485-4,BO096,485,485,5,come,come,come,ADP,_,_
-486-0,BO096,486,486,1,e::hm,ehm,ehm,NOUN,_,_
+486-0,BO096,486,486,1,e::hm,ehm,ehm,INTJ,_,_
 487-0,BO096,487,487,1,e,e,e,CCONJ,_,_
 487-1,BO096,487,487,2,c',c',ci,PRON,_,_
 487-2,BO096,487,487,3,è,è,essere,VERB,_,_
@@ -4424,7 +4424,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 692-13,BO095,692,692,14,gianna,gianna,Gianna,PROPN,_,_
 693-0,BO096,693,693,1,no::,no,no,ADV,_,_
 694-0,BO096,694,694,1,e,e,e,CCONJ,_,_
-694-1,BO096,694,694,2,vabbè,vabbè,vabbere,INTJ,_,_
+694-1,BO096,694,694,2,vabbè,vabbè,vabbè,INTJ,_,_
 695-0,BO095,695,695,1,però,però,però,CCONJ,_,_
 695-1,BO095,695,695,2,lei,lei,lei,PRON,_,_
 695-2,BO095,695,695,3,mi,mi,mi,PRON,_,_
@@ -7447,6 +7447,6 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1178-2,BO095,1178,1178,3,tu,tu,tu,PRON,_,_
 1178-3,BO095,1178,1178,4,andiamo,andiamo,andare,VERB,_,_
 1178-4,BO095,1178,1178,5,via,via,via,ADV,_,_
-1178-5,BO095,1178,1178,6,okay?,okay,okay,NOUN,_,_
+1178-5,BO095,1178,1178,6,okay?,okay,okay,INTJ,_,_
 1179-0,BO096,1179,1179,1,mh,mh,mh,INTJ,_,_
 1179-1,BO096,1179,1179,2,"mh,",mh,mh,INTJ,_,_

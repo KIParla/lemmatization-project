@@ -237,7 +237,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 48-1,BO038,48,48,2,mh,mh,mh,INTJ,_,_
 48-2,BO038,48,48,3,l]ì,lì,lì,ADV,_,_
 48-3,BO038,48,48,4,era,era,essere,AUX,_,_
-48-4,BO038,48,48,5,"allora,",allora,allora,CCONJ,_,_
+48-4,BO038,48,48,5,"allora,",allora,allora,ADV,_,_
 49-0,BO038,49,49,1,in,in,in,ADP,_,_
 49-1,BO038,49,49,2,realtà,realtà,realtà,NOUN,_,_
 49-2,BO038,49,49,3,eh,eh,eh,INTJ,_,_
@@ -249,13 +249,13 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 49-8,BO038,49,49,9,direttamen[te,direttamente,direttamente,ADV,_,_
 49-9,BO038,49,49,10,a,a,a,ADP,_,_
 49-10,BO038,49,49,11,"l]oro,",loro,loro,PRON,_,_
-50-0,BO026,50,50,1,[mh,mh,mh,NOUN,_,_
-50-1,BO026,50,50,2,mh],mh,mh,NOUN,_,_
+50-0,BO026,50,50,1,[mh,mh,mh,INTJ,_,_
+50-1,BO026,50,50,2,mh],mh,mh,INTJ,_,_
 51-0,BO038,51,51,1,quindi,quindi,quindi,ADV,_,_
 51-1,BO038,51,51,2,a,a,a,ADP,_,_
 51-2,BO038,51,51,3,parte,parte,parte,NOUN,_,_
 51-3,BO038,51,51,4,il,il,il,DET,_,_
-51-4,BO038,51,51,5,m::h,mh,mh,NOUN,_,_
+51-4,BO038,51,51,5,m::h,mh,mh,INTJ,_,_
 51-5,BO038,51,51,6,diciamo,diciamo,dire,VERB,_,_
 51-6,BO038,51,51,7,la,la,il,DET,_,_
 51-7,BO038,51,51,8,bozza,bozza,bozza,NOUN,_,_
@@ -345,7 +345,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 65-0,BO026,65,65,1,[sì].,sì,sì,ADV,_,_
 66-0,BO038,66,66,1,e:h,eh,eh,INTJ,_,_
 66-1,BO038,66,66,2,mh,mh,mh,INTJ,_,_
-66-2,BO038,66,66,3,"allora,",allora,allora,CCONJ,_,_
+66-2,BO038,66,66,3,"allora,",allora,allora,ADV,_,_
 67-0,BO038,67,67,1,io,io,io,PRON,_,_
 67-1,BO038,67,67,2-3,nello,nello,in+il,ADP+DET,_,_
 67-1a,_,_,67,2,_,in,in,ADP,_,_
@@ -955,7 +955,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 147-0,BO026,147,147,1,[mh].,mh,mh,INTJ,_,_
 148-0,BO026,148,148,1,qui,qui,qui,ADV,_,_
 148-1,BO026,148,148,2,bisogna,bisogna,bisognare,VERB,_,_
-148-2,BO026,148,148,3,allora,allora,allora,CCONJ,_,_
+148-2,BO026,148,148,3,allora,allora,allora,ADV,_,_
 148-3,BO026,148,148,4,quali,quali,quale,PRON,_,_
 148-4,BO026,148,148,5,sarebbe,sarebbe,essere,AUX,_,_
 148-5,BO026,148,148,6,la,la,il,DET,_,_
@@ -1055,7 +1055,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 159-21,BO038,159,159,22,in,in,in,ADP,_,_
 159-22,BO038,159,159,23,"totale],",totale,totale,NOUN,_,_
 160-0,BO026,160,160,1,[sì].,sì,sì,ADV,_,_
-161-0,BO026,161,161,1,[allora,allora,allora,CCONJ,_,_
+161-0,BO026,161,161,1,[allora,allora,allora,ADV,_,_
 161-1,BO026,161,161,2,è,è,essere,VERB,_,_
 161-2,BO026,161,161,3,in,in,in,ADP,_,_
 161-3,BO026,161,161,4,questa],questa,questo,DET,_,_
@@ -1113,7 +1113,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 167-9,BO038,167,167,10,maggiori,maggiori,maggiore,ADJ,_,_
 167-10,BO038,167,167,11,i,i,il,DET,_,_
 167-11,BO038,167,167,12,crediti,crediti,credito,NOUN,_,_
-167-12,BO038,167,167,13,infatti,infatti,infatti,CCONJ,_,_
+167-12,BO038,167,167,13,infatti,infatti,infatti,ADV,_,_
 167-13,BO038,167,167,14,per,per,per,ADP,_,_
 167-14,BO038,167,167,15,questo,questo,questo,PRON,_,_
 167-15,BO038,167,167,16,non,non,non,ADV,_,_
@@ -1598,7 +1598,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 228-6,BO039,228,228,7-8,cambiarli.,cambiarli,cambiare+lo,VERB+PRON,_,_
 228-6a,_,_,228,7,_,cambiar,cambiare,VERB,_,_
 228-6b,_,_,228,8,_,li,lo,PRON,_,_
-229-0,BO026,229,229,1,allora,allora,allora,CCONJ,_,_
+229-0,BO026,229,229,1,allora,allora,allora,ADV,_,_
 229-1,BO026,229,229,2-3,nella,nella,in+il,ADP+DET,_,_
 229-1a,_,_,229,2,_,in,in,ADP,_,_
 229-1b,_,_,229,3,_,la,il,DET,_,_
@@ -2014,8 +2014,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 277-10,BO038,277,277,12,non,non,non,ADV,_,_
 277-11,BO038,277,277,13,si,si,si,PRON,_,_
 277-12,BO038,277,277,14,pone.,pone,porre,VERB,_,_
-278-0,BO026,278,278,1,infat[ti,infatti,infatti,CCONJ,_,_
-278-1,BO026,278,278,2,°infatti.°],infatti,infatti,CCONJ,_,_
+278-0,BO026,278,278,1,infat[ti,infatti,infatti,ADV,_,_
+278-1,BO026,278,278,2,°infatti.°],infatti,infatti,ADV,_,_
 279-0,BO038,279,279,1,[il,il,il,DET,_,_
 279-1,BO038,279,279,2,mio,mio,mio,ADJ,_,_
 279-2,BO038,279,279,3,problema,problema,problema,NOUN,_,_

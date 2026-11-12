@@ -2507,7 +2507,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 446-1,TO062,446,446,2,tutto,tutto,tutto,DET,_,_
 446-2,TO062,446,446,3,il,il,il,DET,_,_
 446-3,TO062,446,446,4,canzoniere,canzoniere,Canzoniere,PROPN,_,_
-446-4,TO062,446,446,5,dove,dove,dove,PRON,_,_
+446-4,TO062,446,446,5,dove,dove,dove,ADV,_,_
 446-5,TO062,446,446,6,noi,noi,noi,PRON,_,_
 446-6,TO062,446,446,7,leggiamo,leggiamo,leggere,VERB,_,_
 446-7,TO062,446,446,8,il,il,il,DET,_,_
@@ -5740,7 +5740,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 987-5b,_,_,987,7,_,il,il,DET,_,_
 987-6,TO062,987,987,8,"canzoniere,",canzoniere,Canzoniere,PROPN,_,_
 988-0,TO062,988,988,1,neanche,neanche,neanche,ADV,_,_
-988-1,TO062,988,988,2,un,un,uno,NUM,_,_
+988-1,TO062,988,988,2,un,un,uno,DET,_,_
 988-2,TO062,988,988,3,"euro,",euro,euro,NOUN,_,_
 988-3,TO062,988,988,4,quindi,quindi,quindi,CCONJ,_,_
 988-4,TO062,988,988,5,andate,andate,andare,VERB,_,_
@@ -5801,7 +5801,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 996-6,TO062,996,996,7,spiega:re,spiegare,spiegare,VERB,_,_
 996-7,TO062,996,996,8,ma::,ma,ma,CCONJ,_,_
 997-0,TO062,997,997,1,e::h,eh,eh,INTJ,_,_
-997-1,TO062,997,997,2,"vabbè,",vabbè,vabbé,INTJ,_,_
+997-1,TO062,997,997,2,"vabbè,",vabbè,vabbè,INTJ,_,_
 997-2,TO062,997,997,3,è,è,essere,AUX,_,_
 997-3,TO062,997,997,4,andata,andata,andare,VERB,_,_
 997-4,TO062,997,997,5,così.,così,così,ADV,_,_
@@ -6949,7 +6949,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1191-7,TO062,1191,1191,8,si:,si,si,PRON,_,_
 1191-8,TO062,1191,1191,9,si,si,si,PRON,_,_
 1191-9,TO062,1191,1191,10,aggrovigliano.,aggrovigliano,aggrovigliare,VERB,_,_
-1192-0,TO062,1192,1192,1,invece,invece,invece,CCONJ,_,_
+1192-0,TO062,1192,1192,1,invece,invece,invece,ADV,_,_
 1192-1,TO062,1192,1192,2,ho,ho,avere,AUX,_,_
 1192-2,TO062,1192,1192,3,verificato,verificato,verificare,VERB,_,_
 1192-3,TO062,1192,1192,4,che,che,che,SCONJ,_,_
@@ -7345,9 +7345,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1266-2,TO062,1266,1266,3,non,non,non,ADV,_,_
 1266-3,TO062,1266,1266,4,importa,importa,importare,VERB,_,_
 1266-4,TO062,1266,1266,5,è::,è,essere,AUX,_,_
-1266-5,TO062,1266,1266,6,un::,un,uno,PRON,_,_
+1266-5,TO062,1266,1266,6,un::,un,uno,DET,_,_
 1267-0,TO062,1267,1267,1,è,è,essere,AUX,_,_
-1267-1,TO062,1267,1267,2,un,un,uno,PRON,_,_
+1267-1,TO062,1267,1267,2,un,un,uno,DET,_,_
 1267-2,TO062,1267,1267,3,di,di,di,ADP,_,_
 1267-3,TO062,1267,1267,4,più,più,più,ADV,_,_
 1267-4,TO062,1267,1267,5,e:h,eh,eh,INTJ,_,_
@@ -7763,7 +7763,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1329-6,TO062,1329,1329,7,far,far,fare,VERB,_,_
 1329-7,TO062,1329,1329,8,lezione,lezione,lezione,NOUN,_,_
 1329-8,TO062,1329,1329,9,lei,lei,lei,PRON,_,_
-1329-9,TO062,1329,1329,10,invece,invece,invece,CCONJ,_,_
+1329-9,TO062,1329,1329,10,invece,invece,invece,ADV,_,_
 1329-10,TO062,1329,1329,11,che,che,che,SCONJ,_,_
 1329-11,TO062,1329,1329,12,((ride)),((ride)),NVB,NVB,_,_
 1330-0,???,1330,1330,0,((ridono)),((ridono)),NVB,NVB,_,_
@@ -7832,7 +7832,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1339-11,???,1339,1339,12,xxx,xxx,x,X,_,_
 1340-0,TO062,1340,1340,1,ah::,ah,ah,INTJ,_,_
 1340-1,TO062,1340,1340,2,ecco,ecco,ecco,ADV,_,_
-1340-2,TO062,1340,1340,3,infatti,infatti,infatti,CCONJ,_,_
+1340-2,TO062,1340,1340,3,infatti,infatti,infatti,ADV,_,_
 1340-3,TO062,1340,1340,4,è,è,essere,AUX,_,_
 1340-4,TO062,1340,1340,5,per,per,per,ADP,_,_
 1340-5,TO062,1340,1340,6,quello,quello,quello,PRON,_,_
@@ -7866,7 +7866,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1345-2,TO062,1345,1345,3,allora,allora,allora,ADV,_,_
 1345-3,TO062,1345,1345,4,ha,ha,avere,VERB,_,_
 1345-4,TO062,1345,1345,5,ragione,ragione,ragione,NOUN,_,_
-1345-5,TO062,1345,1345,6,infatti,infatti,infatti,CCONJ,_,_
+1345-5,TO062,1345,1345,6,infatti,infatti,infatti,ADV,_,_
 1345-6,TO062,1345,1345,7,allora,allora,allora,ADV,_,_
 1345-7,TO062,1345,1345,8,finiremo,finiremo,finire,VERB,_,_
 1345-8,TO062,1345,1345,9,il,il,il,DET,_,_
@@ -8311,7 +8311,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1436-6,TO062,1436,1436,7,sotto,sotto,sotto,ADP,_,_
 1436-7,TO062,1436,1436,8,gli,gli,il,DET,_,_
 1436-8,TO062,1436,1436,9,occhi,occhi,occhio,NOUN,_,_
-1437-0,TO062,1437,1437,1,invece,invece,invece,CCONJ,_,_
+1437-0,TO062,1437,1437,1,invece,invece,invece,ADV,_,_
 1438-0,TO062,1438,1438,1,i,i,il,DET,_,_
 1438-1,TO062,1438,1438,2,problemi,problemi,problema,NOUN,_,_
 1438-2,TO062,1438,1438,3,sono,sono,essere,AUX,_,_
@@ -8869,7 +8869,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1536-8,TO062,1536,1536,9,com',com',come,ADV,_,_
 1536-9,TO062,1536,1536,10,è.,è,essere,AUX,_,_
 1537-0,TO062,1537,1537,1,altri,altri,altro,PRON,_,_
-1537-1,TO062,1537,1537,2,invece,invece,invece,CCONJ,_,_
+1537-1,TO062,1537,1537,2,invece,invece,invece,ADV,_,_
 1537-2,TO062,1537,1537,3,li,li,lo,PRON,_,_
 1537-3,TO062,1537,1537,4,tormenta,tormenta,tormentare,VERB,_,_
 1538-0,TO062,1538,1538,1,°eh°,eh,eh,INTJ,_,_
@@ -9094,7 +9094,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1580-0,TO062,1580,1580,1,erano,erano,essere,AUX,_,_
 1580-1,TO062,1580,1580,2,scritti,scritti,scrivere,VERB,_,_
 1580-2,TO062,1580,1580,3,appaiati.,appaiati,appaiato,ADJ,_,_
-1581-0,TO062,1581,1581,1,infatti,infatti,infatti,CCONJ,_,_
+1581-0,TO062,1581,1581,1,infatti,infatti,infatti,ADV,_,_
 1581-1,TO062,1581,1581,2,se,se,se,SCONJ,_,_
 1581-2,TO062,1581,1581,3,voi,voi,voi,PRON,_,_
 1581-3,TO062,1581,1581,4,guardate,guardate,guardare,VERB,_,_

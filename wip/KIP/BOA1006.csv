@@ -19,7 +19,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 5-1,BO034,5,chiedere,chiedere,chiedere,VERB,_,_
 5-2,BO034,5,appunto::,appunto,appunto,ADV,_,_
 6-0,BO034,6,mh,mh,mh,INTJ,_,_
-6-1,BO034,6,mh,mh,mh,ADV,_,_
+6-1,BO034,6,mh,mh,mh,INTJ,_,_
 6-2,BO034,6,se,se,se,SCONJ,_,_
 6-3,BO034,6,mi,mi,mi,PRON,_,_
 6-4,BO034,6,può,può,potere,AUX,_,_
@@ -199,8 +199,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 28-3,BO034,28,s~,s~,x,X,_,_
 28-4,BO034,28,se,se,se,SCONJ,_,_
 28-5,BO034,28,"[possibile],",possibile,possibile,ADJ,_,_
-29-0,BO026,29,[mh,mh,mh,X,_,_
-29-1,BO026,29,mh].,mh,mh,X,_,_
+29-0,BO026,29,[mh,mh,mh,INTJ,_,_
+29-1,BO026,29,mh].,mh,mh,INTJ,_,_
 30-0,BO026,30,[e,e,e,CCONJ,_,_
 30-1,BO026,30,come,come,come,ADV,_,_
 30-2,BO026,30,si,si,si,PRON,_,_
@@ -224,7 +224,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 36-1,BO034,36,possib[ile,possibile,possibile,ADJ,_,_
 36-2,BO034,36,se,se,se,SCONJ,_,_
 36-3,BO034,36,no],no,no,ADV,_,_
-36-4,BO034,36,m:h,mh,mh,X,_,_
+36-4,BO034,36,m:h,mh,mh,INTJ,_,_
 37-0,BO026,37,[sì,sì,sì,ADV,_,_
 37-1,BO026,37,sì].,sì,sì,ADV,_,_
 38-0,BO034,38,okay,okay,okay,INTJ,_,_
@@ -486,7 +486,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 64-1b,_,_,_,la,il,DET,_,_
 64-2,BO026,64,(.),(.),PAUSE,NVB,_,_
 64-3,BO026,64,e:h,eh,eh,INTJ,_,_
-64-4,BO026,64,m:h,mh,mh,NOUN,_,_
+64-4,BO026,64,m:h,mh,mh,INTJ,_,_
 65-0,BO026,65,nel,nel,in+il,ADP+DET,_,_
 65-0a,_,_,_,in,in,ADP,_,_
 65-0b,_,_,_,il,il,DET,_,_
@@ -1213,7 +1213,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 168-6,BO026,168,i:l,il,il,DET,_,_
 168-7,BO026,168,mh,mh,mh,INTJ,_,_
 168-8,BO026,168,"dia[letto],",dialetto,dialetto,ADJ,_,_
-169-0,BO034,169,[°okay.°],okay,okay,NOUN,_,_
+169-0,BO034,169,[°okay.°],okay,okay,INTJ,_,_
 170-0,BO034,170,[dialetto].,dialetto,dialetto,NOUN,_,_
 171-0,BO026,171,e,e,e,CCONJ,_,_
 171-1,BO026,171,quindi,quindi,quindi,ADV,_,_

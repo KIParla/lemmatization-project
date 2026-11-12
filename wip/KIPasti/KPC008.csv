@@ -226,7 +226,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 30-8,PKP069,30,di,di,di,ADP,_,_
 30-9,PKP069,30,garda:,garda,Garda,PROPN,_,_
 30-10,PKP069,30,ieri,ieri,ieri,ADV,_,_
-31-0,PKP063,31,infatti,infatti,infatti,CCONJ,_,_
+31-0,PKP063,31,infatti,infatti,infatti,ADV,_,_
 31-1,PKP063,31,ho,ho,avere,AUX,_,_
 31-2,PKP063,31,visto,visto,vedere,VERB,_,_
 31-3,PKP063,31,le,le,il,DET,_,_
@@ -1393,7 +1393,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 194-7,PKP069,194,mondo,mondo,mondo,NOUN,_,_
 194-8,PKP069,194,a,a,a,ADP,_,_
 194-9,PKP069,194,(.),(.),PAUSE,NVB,_,_
-194-10,PKP069,194,eh,eh,eh,NOUN,_,_
+194-10,PKP069,194,eh,eh,eh,INTJ,_,_
 194-11,PKP069,194,riconoscere,riconoscere,riconoscere,VERB,_,_
 194-12,PKP069,194,ufficialmente,ufficialmente,ufficialmente,ADV,_,_
 194-13,PKP069,194,i,i,il,DET,_,_
@@ -2844,9 +2844,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 380-0,PKP069,380,[no],no,no,ADV,_,_
 380-1,PKP069,380,(.),(.),PAUSE,NVB,_,_
 380-2,PKP069,380,no,no,no,ADV,_,_
-380-3,PKP069,380,infatti,infatti,infatti,CCONJ,_,_
+380-3,PKP069,380,infatti,infatti,infatti,ADV,_,_
 380-4,PKP069,380,(.),(.),PAUSE,NVB,_,_
-380-5,PKP069,380,°infatti°,infatti,infatti,CCONJ,Volume=low,_
+380-5,PKP069,380,°infatti°,infatti,infatti,ADV,Volume=low,_
 381-0,PKP069,381,comunque,comunque,comunque,CCONJ,_,_
 381-1,PKP069,381,vabbè,vabbè,vabbè,INTJ,_,_
 381-2,PKP069,381,e:h,eh,eh,INTJ,_,_
@@ -3175,7 +3175,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 422-2,PKP069,422,un,un,uno,DET,_,_
 422-3,PKP069,422,po'::,po',poco,ADV,_,_
 422-4,PKP069,422,((ride)),((ride)),NVB,NVB,_,_
-422-5,PKP069,422,infatti,infatti,infatti,CCONJ,_,_
+422-5,PKP069,422,infatti,infatti,infatti,ADV,_,_
 422-6,PKP069,422,macchino:ni,macchinoni,macchina,NOUN,_,_
 422-7,PKP069,422,((ride)),((ride)),NVB,NVB,_,_
 423-0,PKP069,423,poi,poi,poi,ADV,_,_
@@ -3185,7 +3185,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 423-4,PKP069,423,di,di,di,ADP,_,_
 423-5,PKP069,423,disuguali,disuguali,disuguale,ADJ,_,_
 423-6,PKP069,423,quindi,quindi,quindi,CCONJ,_,_
-423-7,PKP069,423,dove,dove,dove,SCONJ,_,_
+423-7,PKP069,423,dove,dove,dove,ADV,_,_
 423-8,PKP069,423,i,i,il,DET,_,_
 423-9,PKP069,423,beni,beni,bene,NOUN,_,_
 423-10,PKP069,423,di,di,di,ADP,_,_
@@ -3521,7 +3521,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 469-7,PKP069,469,una],una,uno,DET,_,_
 469-8,PKP069,469,tristezza,tristezza,tristezza,NOUN,_,_
 470-0,PKP063,470,[mh],mh,mh,INTJ,_,_
-471-0,PKP069,471,°infatti,infatti,infatti,CCONJ,Volume=low,_
+471-0,PKP069,471,°infatti,infatti,infatti,ADV,Volume=low,_
 471-1,PKP069,471,una,una,uno,PRON,Volume=low,_
 471-2,PKP069,471,delle,delle,di+il,ADP+DET,Volume=low,_
 471-2a,_,_,_,di,di,ADP,_,_
@@ -4730,7 +4730,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 631-7,PKP069,631,c',c',ci,PRON,Volume=low,SpaceAfter=No
 631-8,PKP069,631,è,è,essere,VERB,Volume=low,_
 631-9,PKP069,631,proprio,proprio,proprio,ADV,Volume=low,_
-631-10,PKP069,631,[vabbè]°,vabbè,vabbé,INTJ,Volume=low,_
+631-10,PKP069,631,[vabbè]°,vabbè,vabbè,INTJ,Volume=low,_
 632-0,PKP063,632,[mh],mh,mh,INTJ,_,_
 632-1,PKP063,632,esatto,esatto,esatto,ADJ,_,_
 632-2,PKP063,632,((ride)),((ride)),NVB,NVB,_,_
@@ -5238,7 +5238,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 712-0,PKP069,712,[tu,tu,tu,PRON,_,_
 712-1,PKP069,712,non,non,non,ADV,_,_
 712-2,PKP069,712,esistevi],esistevi,esistere,VERB,_,_
-712-3,PKP069,712,infatti,infatti,infatti,CCONJ,_,_
+712-3,PKP069,712,infatti,infatti,infatti,ADV,_,_
 713-0,PKP069,713,oka:y,okay,okay,INTJ,_,_
 713-1,PKP069,713,(.),(.),PAUSE,NVB,_,_
 713-2,PKP069,713,e,e,e,CCONJ,_,_
@@ -5277,7 +5277,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 718-1,PKP063,718,sì:,sì,sì,ADV,_,_
 718-2,PKP063,718,foer,foer,Foer,PROPN,_,_
 719-0,PKP069,719,okay,okay,okay,INTJ,_,_
-719-1,PKP069,719,>infatti,infatti,infatti,CCONJ,_,_
+719-1,PKP069,719,>infatti,infatti,infatti,ADV,_,_
 719-2,PKP069,719,questo,questo,questo,PRON,_,_
 719-3,PKP069,719,qua<,qua,qua,ADV,_,_
 719-4,PKP069,719,mh,mh,mh,INTJ,_,_
@@ -5352,7 +5352,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 728-4,PKP069,728,ecol~<,ecol~,x,X,Interrupted=Yes,_
 728-5,PKP069,728,ecologico,ecologico,ecologico,ADJ,_,_
 729-0,PKP063,729,>mhmh<,mhmh,mhmh,INTJ,_,_
-729-1,PKP063,729,infatti,infatti,infatti,CCONJ,_,_
+729-1,PKP063,729,infatti,infatti,infatti,ADV,_,_
 729-2,PKP063,729,ha,ha,avere,VERB,_,_
 729-3,PKP063,729,(co~),co~,x,X,Interrupted=Yes,_
 729-4,PKP063,729,migration,migration,migration,NOUN,Lang=en,_

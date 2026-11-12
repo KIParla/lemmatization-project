@@ -946,11 +946,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 100-12,BO105,100,"risposte,",risposte,risposta,NOUN,Intonation=weakly_rising,_
 101-0,BO105,101,e:,e,e,CCONJ,_,_
 101-1,BO105,101,quindi,quindi,quindi,CCONJ,_,_
-101-2,BO105,101,anche,anche,anche,CCONJ,_,_
+101-2,BO105,101,anche,anche,anche,ADV,_,_
 101-3,BO105,101,questo,questo,questo,PRON,_,_
 101-4,BO105,101,va:,va,andare,VERB,_,_
 101-5,BO105,101,(.),(.),PAUSE,NVB,_,_
-101-6,BO105,101,e:h,eh,eh,ADJ,_,_
+101-6,BO105,101,e:h,eh,eh,INTJ,_,_
 101-7,BO105,101,va,va,andare,AUX,_,_
 101-8,BO105,101,valutato.,valutato,valutare,VERB,Intonation=falling,_
 102-0,BO105,102,e::hm,ehm,ehm,INTJ,_,_
@@ -1053,7 +1053,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 115-0,BO104,115,e:::hm:,ehm,ehm,INTJ,_,_
 116-0,BO104,116,e,e,e,CCONJ,_,_
 116-1,BO104,116,poi,poi,poi,ADV,_,_
-116-2,BO104,116,anche,anche,anche,CCONJ,_,_
+116-2,BO104,116,anche,anche,anche,ADV,_,_
 116-3,BO104,116,"perché,",perché,perché,SCONJ,Intonation=weakly_rising,_
 116-4,BO104,116,(.),(.),PAUSE,NVB,_,_
 116-5,BO104,116,come,come,come,ADV,_,_
@@ -1120,7 +1120,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 122-19,BO105,122,in,in,in,ADP,_,_
 122-20,BO105,122,modo,modo,modo,NOUN,_,_
 122-21,BO105,122,"oggettivo,",oggettivo,oggettivo,ADJ,Intonation=weakly_rising,_
-123-0,BO104,123,dove,dove,dove,DET,_,_
+123-0,BO104,123,dove,dove,dove,ADV,_,_
 123-1,BO104,123,[stai::],stai,stare,AUX,_,_
 123-2,BO104,123,svolgendo,svolgendo,svolgere,VERB,_,_
 123-3,BO104,123,il,il,il,DET,_,_
@@ -1171,7 +1171,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 133-1b,_,_,_,lo,il,DET,_,_
 133-2,BO104,133,stesso,stesso,stesso,ADJ,_,_
 133-3,BO104,133,tempo,tempo,tempo,NOUN,_,_
-133-4,BO104,133,"invece,",invece,invece,CCONJ,Intonation=weakly_rising,_
+133-4,BO104,133,"invece,",invece,invece,ADV,Intonation=weakly_rising,_
 133-5,BO104,133,mh:,mh,mh,INTJ,_,_
 134-0,BO104,134,questa,questa,questo,DET,_,_
 134-1,BO104,134,oggettività,oggettività,oggettività,NOUN,_,_
@@ -1183,7 +1183,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 134-7,BO104,134,invece,invece,invece,ADV,_,_
 134-8,BO104,134,(.),(.),PAUSE,NVB,_,_
 134-9,BO104,134,rinforzata?,rinforzata,rinforzare,VERB,Intonation=rising,_
-135-0,BO104,135,anche,anche,anche,CCONJ,_,_
+135-0,BO104,135,anche,anche,anche,ADV,_,_
 135-1,BO104,135,proprio,proprio,proprio,ADV,_,_
 135-2,BO104,135,nel,nel,in+il,ADP+DET,_,_
 135-2a,_,_,_,in,in,ADP,_,_
@@ -1273,7 +1273,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 142-2,BO105,142,valutano,valutano,valutare,VERB,_,_
 142-3,BO105,142,in,in,in,ADP,_,_
 142-4,BO105,142,statistica,statistica,statistica,NOUN,_,_
-142-5,BO105,142,anche,anche,anche,CCONJ,_,_
+142-5,BO105,142,anche,anche,anche,ADV,_,_
 142-6,BO105,142,un,un,uno,DET,_,_
 142-7,BO105,142,numero,numero,numero,NOUN,_,_
 142-8,BO105,142,esiguo,esiguo,esiguo,ADJ,_,_
@@ -1826,7 +1826,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 202-0,BO104,202,va,va,andare,VERB,_,_
 202-1,BO104,202,bene.,bene,bene,ADV,Intonation=falling,_
 203-0,BO104,203,e::hm.,ehm,ehm,INTJ,Intonation=falling,_
-204-0,BO104,204,"invece,",invece,invece,CCONJ,Intonation=weakly_rising,_
+204-0,BO104,204,"invece,",invece,invece,ADV,Intonation=weakly_rising,_
 204-1,BO104,204,"mcnamara,",mcnamara,McNamara,PROPN,Intonation=weakly_rising,_
 204-2,BO104,204,(.),(.),PAUSE,NVB,_,_
 204-3,BO104,204,ci,ci,ci,PRON,_,_
@@ -2648,7 +2648,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 292-3,BO105,292,avevo,avevo,avevo,NOUN,_,_
 292-4,BO105,292,[interpretata,interpretata,interpretare,VERB,_,_
 292-5,BO105,292,così].,così,così,ADV,Intonation=falling,_
-293-0,BO104,293,[vabbè].,vabbè,vabbere,VERB,Intonation=falling,_
+293-0,BO104,293,[vabbè].,vabbè,vabbè,INTJ,Intonation=falling,_
 293-1,BO104,293,sì,sì,sì,ADV,_,_
 293-2,BO104,293,un,un,uno,DET,_,_
 293-3,BO104,293,concetto,concetto,concetto,NOUN,_,_
@@ -2932,7 +2932,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 322-0,BO104,322,[mh,mh,mh,INTJ,_,_
 322-1,BO104,322,mh],mh,mh,INTJ,_,_
 323-0,BO104,323,"okay,",okay,okay,INTJ,Intonation=weakly_rising,_
-324-0,BO104,324,allora,allora,allora,CCONJ,_,_
+324-0,BO104,324,allora,allora,allora,ADV,_,_
 324-1,BO104,324,ti,ti,ti,PRON,_,_
 324-2,BO104,324,vorrei,vorrei,volere,AUX,_,_
 324-3,BO104,324,fare,fare,fare,VERB,_,_
@@ -3313,7 +3313,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 366-4b,_,_,_,l',il,DET,_,_
 366-5,BO104,366,interazione,interazione,interazione,NOUN,_,_
 366-6,BO104,366,"online,",online,online,ADJ,Intonation=weakly_rising,_
-367-0,BO105,367,okay.,okay,okay,ADP,Intonation=falling,_
+367-0,BO105,367,okay.,okay,okay,INTJ,Intonation=falling,_
 368-0,BO104,368,in,in,in,ADP,_,_
 368-1,BO104,368,che,che,che,DET,_,_
 368-2,BO104,368,modo,modo,modo,NOUN,_,_
@@ -3348,11 +3348,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 371-9,BO105,371,"chat,",chat,chat,NOUN,Intonation=weakly_rising,_
 372-0,BO105,372,e::hm,ehm,ehm,INTJ,_,_
 372-1,BO105,372,o,o,o,CCONJ,_,_
-372-2,BO105,372,anche,anche,anche,CCONJ,_,_
+372-2,BO105,372,anche,anche,anche,ADV,_,_
 372-3,BO105,372,(.),(.),PAUSE,NVB,_,_
 372-4,BO105,372,applicazioni,applicazioni,applicazione,NOUN,_,_
 372-5,BO105,372,telefoniche,telefoniche,telefonico,ADJ,_,_
-372-6,BO105,372,dove,dove,dove,CCONJ,_,_
+372-6,BO105,372,dove,dove,dove,ADV,_,_
 372-22,BO105,372,(.),(.),PAUSE,NVB,_,_
 372-7,BO105,372,e::hm,ehm,ehm,INTJ,_,_
 372-8,BO105,372,una,una,uno,DET,_,_
@@ -3522,7 +3522,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 388-5,BO105,388,"linguisti[co],",linguistico,linguistico,ADJ,Intonation=weakly_rising,_
 389-0,BO104,389,[avvi]ene,avviene,avvenire,VERB,_,_
 389-1,BO104,389,poi,poi,poi,ADV,_,_
-389-2,BO104,389,anche,anche,anche,CCONJ,_,_
+389-2,BO104,389,anche,anche,anche,ADV,_,_
 389-3,BO104,389,oggi,oggi,oggi,ADV,_,_
 389-4,BO104,389,"[eh,",eh,eh,INTJ,Intonation=weakly_rising,_
 389-5,BO104,389,nel,nel,in+il,ADP+DET,_,_
@@ -3576,7 +3576,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 391-4,BO105,391,oggi,oggi,oggi,ADV,_,_
 391-5,BO105,391,ci,ci,ci,PRON,_,_
 391-6,BO105,391,sono,sono,essere,VERB,_,_
-391-7,BO105,391,anche,anche,anche,CCONJ,_,_
+391-7,BO105,391,anche,anche,anche,ADV,_,_
 391-8,BO105,391,vari,vari,vario,ADJ,_,_
 391-9,BO105,391,e:h,eh,eh,INTJ,_,_
 391-10,BO105,391,(.),(.),PAUSE,NVB,_,_
@@ -3749,7 +3749,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 408-4,BO104,408,molto,molto,molto,ADV,_,_
 408-5,BO104,408,più,più,più,ADV,_,_
 408-6,BO104,408,globale.,globale,globale,ADJ,Intonation=falling,_
-408-7,BO104,408,dove:,dove,dove,CCONJ,_,_
+408-7,BO104,408,dove:,dove,dove,ADV,_,_
 408-8,BO104,408,appunto,appunto,appunto,ADV,_,_
 408-9,BO104,408,c',c',ci,PRON,Truncated=Yes,_
 408-10,BO104,408,è,è,essere,VERB,_,_
@@ -3938,7 +3938,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 424-15,BO104,424,che,che,che,PRON,_,_
 424-16,BO104,424,può,può,potere,AUX,_,_
 424-17,BO104,424,essere,essere,essere,VERB,_,_
-424-18,BO104,424,anche,anche,anche,CCONJ,_,_
+424-18,BO104,424,anche,anche,anche,ADV,_,_
 424-19,BO104,424,discorsiva,discorsiva,discorsivo,ADJ,_,_
 424-20,BO104,424,"quindi,",quindi,quindi,ADV,Intonation=weakly_rising,_
 425-0,BO105,425,[okay].,okay,okay,INTJ,Intonation=falling,_

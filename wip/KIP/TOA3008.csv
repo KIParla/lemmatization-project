@@ -202,7 +202,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 39-0,TO048,39,39,1,solo,solo,solo,ADV,_,_
 39-1,TO048,39,39,2,peste.,peste,peste,NOUN,Intonation=falling,_
 40-0,TO050,40,40,1,ah,ah,ah,INTJ,_,_
-40-1,TO050,40,40,2,(okay.),okay,okay,NOUN,Intonation=falling,_
+40-1,TO050,40,40,2,(okay.),okay,okay,INTJ,Intonation=falling,_
 41-0,TO048,41,41,0,((ride)),((ride)),NVB,NVB,_,_
 42-0,TO048,42,42,1,tante,tante,tanto,DET,_,_
 42-1,TO048,42,42,2,care,care,caro,ADJ,_,_
@@ -889,8 +889,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 171-4,TO052,171,171,5,tre,tre,tre,NUM,_,_
 171-5,TO052,171,171,6,notti,notti,notte,NOUN,_,_
 171-6,TO052,171,171,7,(.),(.),PAUSE,NVB,_,_
-171-7,TO052,171,171,8,e::h,eh,eh,X,ProsodicLink=Yes,_
-171-8,TO052,171,171,9,m:h,mh,mh,X,ProsodicLink=Yes,_
+171-7,TO052,171,171,8,e::h,eh,eh,INTJ,ProsodicLink=Yes,_
+171-8,TO052,171,171,9,m:h,mh,mh,INTJ,ProsodicLink=Yes,_
 171-9,TO052,171,171,10,seicento,seicento,seicento,NUM,_,_
 171-10,TO052,171,171,11,euro,euro,euro,NOUN,_,_
 171-11,TO052,171,171,12,più,più,più,ADV,_,_
@@ -1521,7 +1521,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 250-3,TO048,250,250,5,xx,xx,x,X,_,_
 250-4,TO048,250,250,6,((ride)),((ride)),NVB,NVB,_,_
 251-0,TO052,251,251,1,e::h,eh,eh,INTJ,ProsodicLink=Yes,_
-251-1,TO052,251,251,2,mh,mh,mh,ADV,_,_
+251-1,TO052,251,251,2,mh,mh,mh,INTJ,_,_
 251-2,TO052,251,251,3,e,e,e,CCONJ,_,_
 251-3,TO052,251,251,4,"praticamente,",praticamente,praticamente,ADV,Intonation=weakly_rising,_
 252-0,TO052,252,252,1,e::h,eh,eh,INTJ,_,_
@@ -2158,7 +2158,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 356-4a,_,_,356,6,_,a,a,ADP,_,_
 356-4b,_,_,356,7,_,il,il,DET,_,_
 356-5,TO052,356,356,8,"ro:sa,",rosa,rosa,NOUN,Intonation=weakly_rising,_
-357-0,TO050,357,357,1,vabbè,vabbè,vabbè,CCONJ,_,_
+357-0,TO050,357,357,1,vabbè,vabbè,vabbè,INTJ,_,_
 357-1,TO050,357,357,2,(.),(.),PAUSE,NVB,_,_
 357-2,TO050,357,357,3-13,fallo,fallo,fare+lo,VERB+PRON,_,_
 357-2a,_,_,357,3,_,fal,fare,VERB,_,_
@@ -3384,7 +3384,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 520-36,TO048,520,520,38,in,in,in,ADP,_,_
 520-37,TO048,520,520,39,modo,modo,modo,NOUN,_,_
 520-38,TO048,520,520,40,originale.,originale,originale,ADJ,Intonation=falling,_
-521-0,TO052,521,521,1,eh,eh,eh,ADV,_,_
+521-0,TO052,521,521,1,eh,eh,eh,INTJ,_,_
 521-1,TO052,521,521,2,io,io,io,PRON,_,_
 521-2,TO052,521,521,3,per,per,per,ADP,_,_
 521-3,TO052,521,521,4,per,per,per,ADP,_,_
@@ -7453,7 +7453,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1157-2,TO050,1157,1157,3,muffa:,muffa,muffa,NOUN,_,_
 1157-3,TO050,1157,1157,4,xxx.,xxx,x,X,Intonation=falling,_
 1158-0,TO050,1158,1158,1,no,no,no,ADV,_,_
-1158-1,TO050,1158,1158,2,vabbè,vabbè,vabbé,INTJ,_,_
+1158-1,TO050,1158,1158,2,vabbè,vabbè,vabbè,INTJ,_,_
 1158-2,TO050,1158,1158,3-4,mangiamole,mangiamole,mangiare+le,VERB+PRON,_,_
 1158-2a,_,_,1158,3,_,mangiamo,mangiare,VERB,_,_
 1158-2b,_,_,1158,4,_,le,le,PRON,_,_
@@ -9129,7 +9129,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1438-0,TO048,1438,1438,1,eh,eh,eh,INTJ,_,_
 1438-1,TO048,1438,1438,2,eh.,eh,eh,INTJ,Intonation=falling,_
 1439-0,TO052,1439,1439,1,montale,montale,Montale,PROPN,_,_
-1439-1,TO052,1439,1439,2,e:h,eh,eh,NOUN,_,_
+1439-1,TO052,1439,1439,2,e:h,eh,eh,INTJ,_,_
 1439-2,TO052,1439,1439,3,no,no,no,ADV,_,_
 1439-3,TO052,1439,1439,4,°montale,montale,Montale,PROPN,Volume=low,_
 1439-4,TO052,1439,1439,5-14,scusami°,scusami,scusare+mi,VERB+PRON,Volume=low,_
@@ -9476,7 +9476,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1478-1,TO048,1478,1478,2,cosa,cosa,cosa,NOUN,_,_
 1478-2,TO048,1478,1478,3,là,là,là,ADV,_,_
 1478-3,TO048,1478,1478,4,no,no,no,ADV,_,_
-1478-4,TO048,1478,1478,5,vabbè,vabbè,vabbé,INTJ,_,_
+1478-4,TO048,1478,1478,5,vabbè,vabbè,vabbè,INTJ,_,_
 1478-5,TO048,1478,1478,6,doveva,doveva,dovere,AUX,_,_
 1478-6,TO048,1478,1478,7,essere,essere,essere,AUX,_,_
 1478-7,TO048,1478,1478,8,una,una,uno,DET,_,_
@@ -9502,7 +9502,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1480-12,TO048,1480,1480,13,°in,in,in,ADP,Volume=low,_
 1480-13,TO048,1480,1480,14,questo,questo,questo,DET,Volume=low,_
 1480-14,TO048,1480,1480,15,senso.°,senso,senso,NOUN,Intonation=falling|Volume=low,_
-1481-0,TO052,1481,1481,1,"vabbè,",vabbè,vabbé,INTJ,Intonation=weakly_rising,_
+1481-0,TO052,1481,1481,1,"vabbè,",vabbè,vabbè,INTJ,Intonation=weakly_rising,_
 1482-0,TO052,1482,1482,1,voglio,voglio,volere,AUX,_,_
 1482-1,TO052,1482,1482,2,dire,dire,dire,VERB,_,_
 1482-2,TO052,1482,1482,3,e::h,eh,eh,INTJ,_,_

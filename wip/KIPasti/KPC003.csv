@@ -1717,7 +1717,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 264-2,PKP093,264,parente,parente,parente,NOUN,_,_
 264-3,PKP093,264,insomma,insomma,insomma,ADV,_,_
 264-4,PKP093,264,è,è,essere,VERB,_,_
-264-5,PKP093,264,un,un,uno,PRON,_,_
+264-5,PKP093,264,un,un,uno,DET,_,_
 264-6,PKP093,264,è,è,essere,AUX,_,_
 264-7,PKP093,264,morto,morto,morire,VERB,_,_
 264-8,PKP093,264,di,di,di,ADP,_,_
@@ -2933,7 +2933,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 428-5,PKP024,428,amo,amo,amo,NOUN,_,_
 428-6,PKP024,428,devo,devo,dovere,AUX,_,_
 428-7,PKP024,428,andare,andare,andare,VERB,_,_
-429-0,PKP093,429,dove?,dove,dove,PRON,Intonation=rising,_
+429-0,PKP093,429,dove?,dove,dove,ADV,Intonation=rising,_
 430-0,PKP024,430,dalla,dalla,da+il,ADP+DET,_,_
 430-0a,_,_,_,da,da,ADP,_,_
 430-0b,_,_,_,la,il,DET,_,_
@@ -3379,7 +3379,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 493-3,PKP093,493,un,un,uno,DET,_,_
 493-4,PKP093,493,capitolo,capitolo,capitolo,NOUN,_,_
 494-0,PKP024,494,a:h,ah,ah,INTJ,_,_
-494-1,PKP024,494,okay,okay,okay,NOUN,_,_
+494-1,PKP024,494,okay,okay,okay,INTJ,_,_
 494-2,PKP024,494,allora,allora,allora,ADV,_,_
 494-3,PKP024,494,ho,ho,avere,AUX,_,_
 494-4,PKP024,494,capito,capito,capire,VERB,_,_
@@ -3406,7 +3406,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 498-6,PKP093,498,la,la,il,DET,_,_
 498-7,PKP093,498,verità,verità,verità,NOUN,_,_
 499-0,PKP024,499,no:,no,no,ADV,_,_
-499-1,PKP024,499,>vabbè<,vabbè,vabbé,INTJ,_,_
+499-1,PKP024,499,>vabbè<,vabbè,vabbè,INTJ,_,_
 499-2,PKP024,499,ho,ho,avere,AUX,_,_
 499-3,PKP024,499,detto,detto,dire,VERB,_,_
 499-4,PKP024,499,ho,ho,avere,AUX,_,_
@@ -3463,7 +3463,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 509-5,PKP024,509,una,una,uno,DET,_,_
 509-6,PKP024,509,cimice,cimice,cimice,NOUN,_,_
 510-0,PKP024,510,bleah,bleah,bleah,INTJ,_,_
-511-0,PKP093,511,dove?,dove,dove,PRON,Intonation=rising,_
+511-0,PKP093,511,dove?,dove,dove,ADV,Intonation=rising,_
 512-0,PKP024,512,di,di,di,ADP,_,_
 512-1,PKP024,512,là,là,là,ADV,_,_
 513-0,PKP024,513,cioè,cioè,cioè,CCONJ,_,_

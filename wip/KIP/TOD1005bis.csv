@@ -3735,7 +3735,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 553-0,TO017,553,553,2-3,della,della,di+il,ADP+DET,_,_
 553-0a,_,_,553,2,_,di,di,ADP,_,_
 553-0b,_,_,553,3,_,la,il,DET,_,_
-554-1,TO017,554,554,4,un,un,un,X,_,_
+554-1,TO017,554,554,4,un,un,uno,DET,_,_
 554-20,TO017,554,554,5,un,un,uno,DET,_,_
 554-2,TO017,554,554,6,migliaio,migliaio,migliaio,NOUN,_,_
 554-3,TO017,554,554,7,di,di,di,ADP,_,_
@@ -4555,7 +4555,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 701-9,TO017,701,701,12,albero,albero,albero,NOUN,_,_
 701-10,TO017,701,701,13,l',l',il,DET,_,SpaceAfter=No
 701-11,TO017,701,701,14,olibano.,olibano,olibano,NOUN,_,_
-702-0,TO017,702,702,1,"okay,",okay,okay,NOUN,_,_
+702-0,TO017,702,702,1,"okay,",okay,okay,INTJ,_,_
 702-1,TO017,702,702,2,che,che,che,PRON,_,_
 702-2,TO017,702,702,3,cresce,cresce,crescere,VERB,_,_
 703-0,TO017,703,703,1,cresce,cresce,crescere,VERB,_,_
@@ -5491,7 +5491,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 837-9,TO017,837,837,12,piccole,piccole,piccolo,ADJ,_,_
 837-10,TO017,837,837,13,città,città,città,NOUN,_,_
 837-11,TO017,837,837,14,stato,stato,essere,NOUN,_,_
-837-12,TO017,837,837,15,dove,dove,dove,PRON,_,_
+837-12,TO017,837,837,15,dove,dove,dove,ADV,_,_
 837-13,TO017,837,837,16,si,si,si,PRON,_,_
 838-0,TO017,838,838,17,parlavano,parlavano,parlare,VERB,_,_
 838-1,TO017,838,838,18,queste,queste,questo,DET,_,_
@@ -6413,7 +6413,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 968-1a,_,_,968,7,_,di,di,ADP,_,_
 968-1b,_,_,968,8,_,i,il,DET,_,_
 968-2,TO017,968,968,9,"romani,",romani,romano,ADJ,_,_
-968-3,TO017,968,968,10,"okay,",okay,okay,NOUN,_,_
+968-3,TO017,968,968,10,"okay,",okay,okay,INTJ,_,_
 969-0,TO017,969,969,1,e,e,e,CCONJ,_,_
 969-1,TO017,969,969,2,quindi,quindi,quindi,CCONJ,_,_
 969-2,TO017,969,969,3,riusciamo,riusciamo,riuscire,VERB,_,_
@@ -7146,7 +7146,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1088-15a,_,_,1088,6,_,su,su,ADP,_,_
 1088-15b,_,_,1088,7,_,i,il,DET,_,_
 1088-16,TO017,1088,1088,17,sassi.,sassi,sasso,NOUN,_,_
-1089-0,TO017,1089,1089,1,>allora,allora,allora,CCONJ,_,_
+1089-0,TO017,1089,1089,1,>allora,allora,allora,ADV,_,_
 1089-1,TO017,1089,1089,2,dove<,dove,dove,ADV,_,_
 1089-2,TO017,1089,1089,3,abbiamo,abbiamo,avere,AUX,_,_
 1089-3,TO017,1089,1089,4,visto,visto,vedere,VERB,_,_
@@ -7426,7 +7426,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1133-7,TO017,1133,1133,8,il,il,il,DET,_,_
 1133-8,TO017,1133,1133,9,tempo?,tempo,tempo,NOUN,_,_
 1134-0,TO017,1134,1134,1,e,e,e,CCONJ,_,_
-1134-1,TO017,1134,1134,2,"allo:ra,",allora,allora,CCONJ,_,_
+1134-1,TO017,1134,1134,2,"allo:ra,",allora,allora,ADV,_,_
 1135-0,TO017,1135,1135,1,ci,ci,ci,PRON,_,_
 1135-1,TO017,1135,1135,2,possiamo,possiamo,potere,AUX,_,_
 1135-2,TO017,1135,1135,3,fermare,fermare,fermare,VERB,_,_

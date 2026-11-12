@@ -114,7 +114,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 7-10,BO056,7,7,11,altro,altro,altro,ADJ,_,_
 7-11,BO056,7,7,12,quartiere,quartiere,quartiere,NOUN,_,_
 8-0,BO054,8,8,1,a:::h,ah,ah,INTJ,_,_
-8-1,BO054,8,8,2,okay,okay,ok,NOUN,_,_
+8-1,BO054,8,8,2,okay,okay,ok,INTJ,_,_
 9-0,BO056,9,9,1,poi,poi,poi,ADV,_,_
 9-1,BO056,9,9,2,dopo,dopo,dopo,ADV,_,_
 9-2,BO056,9,9,3,ma,ma,ma,CCONJ,_,_
@@ -207,7 +207,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 14-11,BO056,14,14,12,tutto,tutto,tutto,DET,_,_
 14-12,BO056,14,14,13,il,il,il,DET,_,_
 14-13,BO056,14,14,14,mutuo,mutuo,mutuo,NOUN,_,_
-14-14,BO056,14,14,15,vabbè,vabbè,vabbere,VERB,_,_
+14-14,BO056,14,14,15,vabbè,vabbè,vabbè,INTJ,_,_
 15-0,BO056,15,15,1,ah,ah,ah,INTJ,_,_
 15-1,BO056,15,15,2,ma,ma,ma,CCONJ,_,_
 15-2,BO056,15,15,3,sì,sì,sì,ADV,_,_
@@ -261,7 +261,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 20-3,BO056,20,20,5,o,o,o,CCONJ,_,_
 20-4,BO056,20,20,6,[vestiti:],vestiti,vestito,NOUN,_,_
 21-0,BO054,21,21,1,[vabbè,vabbè,vabbè,INTJ,_,_
-21-1,BO054,21,21,2,oh],oh,oh,ADV,_,_
+21-1,BO054,21,21,2,oh],oh,oh,INTJ,_,_
 21-2,BO054,21,21,3,ci,ci,ci,PRON,_,_
 21-3,BO054,21,21,4,sta,sta,stare,VERB,_,_
 21-4,BO054,21,21,5,come::,come,come,ADP,_,_
@@ -329,7 +329,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 25-18,BO056,25,25,20,n:::~,n~,x,X,_,_
 26-0,BO054,26,26,1,°[ah,ah,ah,INTJ,_,_
 26-1,BO054,26,26,2,sì,sì,sì,ADV,_,_
-26-2,BO054,26,26,3,vabbè,vabbè,vabbere,VERB,_,_
+26-2,BO054,26,26,3,vabbè,vabbè,vabbè,INTJ,_,_
 26-3,BO054,26,26,4,(quello,quello,quello,PRON,_,_
 26-4,BO054,26,26,5,sì,sì,sì,ADV,_,_
 26-5,BO054,26,26,6,>cioè<)]°,cioè,cioè,CCONJ,_,_
@@ -2108,7 +2108,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 253-2,BO056,253,253,3,[dipende,dipende,dipendere,VERB,_,_
 253-3,BO056,253,253,4,ah,ah,ah,INTJ,_,_
 253-4,BO056,253,253,5,no,no,no,ADV,_,_
-253-5,BO056,253,253,6,vabbè],vabbè,vabbere,VERB,_,_
+253-5,BO056,253,253,6,vabbè],vabbè,vabbè,INTJ,_,_
 254-0,BO054,254,254,1,[call,call,call,NOUN,_,_
 254-1,BO054,254,254,2,of,of,of,ADP,_,_
 254-2,BO054,254,254,3,duty,duty,duty,NOUN,_,_
@@ -2393,7 +2393,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 291-2,BO056,291,291,3,va:i,vai,andare,VERB,_,_
 292-0,BO054,292,292,1,no,no,no,ADV,_,_
 292-1,BO054,292,292,2,no,no,no,ADV,_,_
-292-2,BO054,292,292,3,vabbè,vabbè,vabbere,VERB,_,_
+292-2,BO054,292,292,3,vabbè,vabbè,vabbè,INTJ,_,_
 292-3,BO054,292,292,4,no,no,no,ADV,_,_
 293-0,BO056,293,293,1,meno,meno,meno,ADV,_,_
 293-1,BO056,293,293,2,grave,grave,grave,ADJ,_,_
@@ -3622,7 +3622,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 416-3,BO054,416,416,4,xx),xx,x,X,_,_
 417-0,BO056,417,417,1,ma,ma,ma,CCONJ,_,_
 417-1,BO056,417,417,2,figurati,figurati,figurare,VERB,_,_
-417-2,BO056,417,417,3,e::hm,ehm,ehm,X,_,_
+417-2,BO056,417,417,3,e::hm,ehm,ehm,INTJ,_,_
 418-0,BO056,418,418,1,e,e,e,CCONJ,_,_
 418-1,BO056,418,418,2,quindi,quindi,quindi,ADV,_,_
 418-2,BO056,418,418,3,lui,lui,lui,PRON,_,_
@@ -5875,7 +5875,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 657-6,BO056,657,657,7,cagare,cagare,cagare,VERB,_,_
 657-7,BO056,657,657,8,ha,ha,avere,AUX,_,_
 657-8,BO056,657,657,9,detto,detto,dire,VERB,_,_
-657-9,BO056,657,657,10,vabbè,vabbè,vabbé,INTJ,_,_
+657-9,BO056,657,657,10,vabbè,vabbè,vabbè,INTJ,_,_
 657-10,BO056,657,657,11,adesso,adesso,adesso,ADV,_,_
 657-11,BO056,657,657,12,[xxx],xxx,x,X,_,_
 657-12,BO056,657,657,13,sì,sì,sì,ADV,_,_
@@ -6107,7 +6107,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 682-4,BO056,682,682,5,sta,sta,stare,VERB,_,_
 682-5,BO056,682,682,6,che,che,che,SCONJ,_,_
 682-6,BO056,682,682,7,tipo,tipo,tipo,NOUN,_,_
-683-0,BO056,683,683,1,vabbè,vabbè,vabbé,ADV,_,_
+683-0,BO056,683,683,1,vabbè,vabbè,vabbè,INTJ,_,_
 683-1,BO056,683,683,2,si,si,si,PRON,_,_
 683-2,BO056,683,683,3,può,può,potere,AUX,_,_
 683-3,BO056,683,683,4,anche,anche,anche,ADV,_,_

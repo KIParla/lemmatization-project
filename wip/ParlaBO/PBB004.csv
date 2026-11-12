@@ -394,7 +394,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 79-14,BOI012,79,79,15,((ride)),((ride)),NVB,NVB,_,_
 79-15,BOI012,79,79,16,e,e,e,CCONJ,_,_
 79-16,BOI012,79,79,17,vai,vai,andare,VERB,_,_
-79-17,BOI012,79,79,18,dove,dove,dove,PRON,_,_
+79-17,BOI012,79,79,18,dove,dove,dove,ADV,_,_
 79-18,BOI012,79,79,19,devi,devi,dovere,AUX,_,_
 79-19,BOI012,79,79,20,andare,andare,andare,VERB,_,_
 79-20,BOI012,79,79,21,°>cioè<°,cioè,cioè,CCONJ,_,_
@@ -2359,7 +2359,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 421-0,BOI012,421,421,1,((ride)),((ride)),NVB,NVB,_,_
 422-0,BOI012,422,422,1,sì::,sì,sì,ADV,_,_
 422-1,BOI012,422,422,2,ma,ma,ma,CCONJ,_,_
-422-2,BOI012,422,422,3,vabbè,vabbè,vabbé,INTJ,_,_
+422-2,BOI012,422,422,3,vabbè,vabbè,vabbè,INTJ,_,_
 422-3,BOI012,422,422,4,>ma,ma,ma,CCONJ,_,_
 422-4,BOI012,422,422,5,infatti,infatti,infatti,ADV,_,_
 422-5,BOI012,422,422,6,non,non,non,ADV,_,_
@@ -3293,7 +3293,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 575-0,BOR005,575,575,1,e,e,e,CCONJ,_,_
 575-1,BOR005,575,575,2,infatti,infatti,infatti,ADV,_,_
 575-2,BOR005,575,575,3,quando:,quando,quando,SCONJ,_,_
-575-3,BOR005,575,575,4,>ecco,ecco,ecco,INTJ,_,_
+575-3,BOR005,575,575,4,>ecco,ecco,ecco,ADV,_,_
 575-4,BOR005,575,575,5,quando,quando,quando,SCONJ,_,_
 575-5,BOR005,575,575,6,capita:<,capita,capitare,VERB,_,_
 576-0,BOR005,576,576,7,>di,di,di,ADP,_,_
@@ -3358,7 +3358,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 584-8,BOI013,584,584,9,b[ologna<],bologna,Bologna,PROPN,_,_
 585-0,BOI012,585,585,1,[quando,quando,quando,SCONJ,_,_
 585-1,BOI012,585,585,2,piove],piove,piovere,VERB,_,_
-585-2,BOI012,585,585,3,o::h,oh,oh,ADV,_,_
+585-2,BOI012,585,585,3,o::h,oh,oh,INTJ,_,_
 585-3,BOI012,585,585,4,ci,ci,ci,PRON,_,_
 585-4,BOI012,585,585,5,son,son,essere,AUX,_,_
 585-5,BOI012,585,585,6,gli,gli,il,DET,_,_
@@ -3414,7 +3414,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 594-0,BOR005,594,594,2,se,se,se,SCONJ,_,_
 594-1,BOR005,594,594,3,lo,lo,lo,PRON,_,_
 594-2,BOR005,594,594,4,sapete,sapete,sapere,VERB,_,_
-594-3,BOR005,594,594,5,eh,eh,eh,ADV,_,_
+594-3,BOR005,594,594,5,eh,eh,eh,INTJ,_,_
 594-4,BOR005,594,594,6,se,se,se,SCONJ,_,_
 594-5,BOR005,594,594,7,[no::],no,no,ADV,_,_
 595-0,BOI013,595,595,1,[no~],no~,x,X,_,_
@@ -4216,7 +4216,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 750-7,BOR005,750,750,8,posto,posto,posto,NOUN,_,_
 750-8,BOR005,750,750,9,per,per,per,ADP,_,_
 750-9,BOR005,750,750,10,lavorare?,lavorare,lavorare,VERB,_,_
-751-0,BOI012,751,751,1,[oh,oh,oh,ADV,_,_
+751-0,BOI012,751,751,1,[oh,oh,oh,INTJ,_,_
 751-1,BOI012,751,751,2,d]io,dio,Dio,PROPN,_,_
 751-2,BOI012,751,751,3,cioè::,cioè,cioè,ADV,_,_
 751-3,BOI012,751,751,4,non,non,non,ADV,_,_
