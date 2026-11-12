@@ -1881,7 +1881,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 280-8,TO004,280,280,10,l',l',il,DET,_,_
 280-9,TO004,280,280,11,uso,uso,uso,NOUN,_,_
 280-10,TO004,280,280,12,di,di,di,ADP,_,_
-280-11,TO004,280,280,13,facebook.,facebook,facebook,PROPN,_,_
+280-11,TO004,280,280,13,facebook.,facebook,Facebook,PROPN,_,_
 281-0,TO004,281,281,1,questo,questo,questo,DET,_,_
 281-1,TO004,281,281,2,"corso:,",corso,corso,NOUN,_,_
 282-0,TO004,282,282,1,lavorerà,lavorerà,lavorare,VERB,_,_
@@ -4350,8 +4350,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 685-10,TO004,685,685,12,tipo.,tipo,tipo,NOUN,_,_
 686-0,TO004,686,686,1,per,per,per,ADP,_,_
 686-1,TO004,686,686,2,esempio,esempio,esempio,NOUN,_,_
-686-2,TO004,686,686,3,facebook.,facebook,facebook,PROPN,_,_
-687-0,TO004,687,687,1,facebook,facebook,facebook,PROPN,_,_
+686-2,TO004,686,686,3,facebook.,facebook,Facebook,PROPN,_,_
+687-0,TO004,687,687,1,facebook,facebook,Facebook,PROPN,_,_
 687-1,TO004,687,687,2,è,è,essere,AUX,_,_
 687-2,TO004,687,687,3,una,una,uno,DET,_,_
 687-3,TO004,687,687,4,comunicazione,comunicazione,comunicazione,NOUN,_,_
@@ -4552,7 +4552,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 712-10,TO004,712,712,11,molti.,molti,molto,PRON,_,_
 713-0,TO004,713,713,1,lo,lo,il,DET,_,_
 713-1,TO004,713,713,2,stesso,stesso,stesso,ADJ,_,_
-713-2,TO004,713,713,3,facebook,facebook,facebook,PROPN,_,_
+713-2,TO004,713,713,3,facebook,facebook,Facebook,PROPN,_,_
 713-3,TO004,713,713,4,"se,",se,se,SCONJ,_,_
 714-0,TO004,714,714,1,i,i,il,DET,_,_
 714-1,TO004,714,714,2,gruppi,gruppi,gruppo,NOUN,_,_
@@ -5272,7 +5272,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 828-7,TO004,828,828,8,può,può,potere,AUX,_,_
 828-8,TO004,828,828,9,essere,essere,essere,AUX,_,_
 828-9,TO004,828,828,10,praticamente,praticamente,praticamente,ADV,_,_
-828-10,TO004,828,828,11,dio,dio,dio,NOUN,_,_
+828-10,TO004,828,828,11,dio,dio,Dio,PROPN,_,_
 828-11,TO004,828,828,12,in,in,in,ADP,_,_
 828-12,TO004,828,828,13,quel,quel,quello,DET,_,_
 828-13,TO004,828,828,14,momento.,momento,momento,NOUN,_,_
@@ -5513,7 +5513,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 875-5,TO004,875,875,6,pennarello.,pennarello,pennarello,NOUN,_,_
 876-0,TO004,876,876,1,anche,anche,anche,ADV,_,_
 876-1,TO004,876,876,2,su,su,su,ADP,_,_
-876-2,TO004,876,876,3,youtube,youtube,youtube,PROPN,_,_
+876-2,TO004,876,876,3,youtube,youtube,YouTube,PROPN,_,_
 876-3,TO004,876,876,4,trovate,trovate,trovare,VERB,_,_
 876-4,TO004,876,876,5,molta,molta,molto,DET,_,_
 876-5,TO004,876,876,6,roba,roba,roba,NOUN,_,_
@@ -6170,7 +6170,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 979-0,TO004,979,979,1,dove,dove,dove,ADV,_,_
 979-1,TO004,979,979,2,c',c',ci,PRON,_,_
 979-2,TO004,979,979,3,è,è,essere,VERB,_,_
-979-3,TO004,979,979,4,"dio,",dio,dio,NOUN,_,_
+979-3,TO004,979,979,4,"dio,",dio,Dio,PROPN,_,_
 980-0,TO004,980,980,1,cioè,cioè,cioè,ADV,_,_
 980-1,TO004,980,980,2,l',l',il,DET,_,_
 980-2,TO004,980,980,3,esecutore,esecutore,esecutore,NOUN,_,_
@@ -6799,7 +6799,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1093-1,TO004,1093,1093,2,(.),(.),PAUSE,NVB,_,_
 1093-2,TO004,1093,1093,3,un,un,uno,DET,_,_
 1093-3,TO004,1093,1093,4,significato,significato,significato,NOUN,_,_
-1093-4,TO004,1093,1093,5,esclusivamente,esclusivamente,esclusivo,ADV,_,_
+1093-4,TO004,1093,1093,5,esclusivamente,esclusivamente,esclusivamente,ADV,_,_
 1093-5,TO004,1093,1093,6,operativo.,operativo,operativo,ADJ,_,_
 1094-0,TO004,1094,1094,1,"giusto:,",giusto,giusto,ADJ,_,_
 1095-0,TO004,1095,1095,1,vi,vi,vi,PRON,_,_
@@ -8840,7 +8840,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1482-7,TO004,1482,1482,8,questo.,questo,questo,PRON,_,_
 1483-0,TO004,1483,1483,1,noi,noi,noi,PRON,_,_
 1483-1,TO004,1483,1483,2,attraverso,attraverso,attraverso,ADP,_,_
-1483-2,TO004,1483,1483,3,google,google,google,PROPN,_,_
+1483-2,TO004,1483,1483,3,google,google,Google,PROPN,_,_
 1483-3,TO004,1483,1483,4,possiamo,possiamo,potere,AUX,_,_
 1483-4,TO004,1483,1483,5,andare,andare,andare,VERB,_,_
 1483-5,TO004,1483,1483,6,a,a,a,ADP,_,_
@@ -8869,7 +8869,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1488-2,TO004,1488,1488,4,di,di,di,ADP,_,_
 1488-3,TO004,1488,1488,5,"vista,",vista,vista,NOUN,_,_
 1489-0,TO004,1489,1489,1,di,di,di,ADP,_,_
-1489-1,TO004,1489,1489,2,google,google,google,PROPN,_,_
+1489-1,TO004,1489,1489,2,google,google,Google,PROPN,_,_
 1489-2,TO004,1489,1489,3,e,e,e,CCONJ,_,_
 1489-3,TO004,1489,1489,4,dal,dal,da+il,ADP+DET,_,_
 1489-3a,,,,,_,da,da,ADP,_,_
@@ -9265,7 +9265,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1555-4,TO004,1555,1555,6,tanti,tanti,tanto,DET,_,_
 1555-5,TO004,1555,1555,7,"messaggi,",messaggi,messaggio,NOUN,_,_
 1556-0,TO004,1556,1556,1,"è,",è,essere,AUX,_,_
-1557-0,TO004,1557,1557,1,difficilmente,difficilmente,difficile,ADV,_,_
+1557-0,TO004,1557,1557,1,difficilmente,difficilmente,difficilmente,ADV,_,_
 1557-1,TO004,1557,1557,2,traducibile.,traducibile,traducibile,ADJ,_,_
 1557-2,TO004,1557,1557,3,perché,perché,perché,SCONJ,_,_
 1557-3,TO004,1557,1557,4,un,un,uno,DET,_,_
@@ -10471,7 +10471,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1761-16,TO004,1761,1761,17,la,la,il,DET,_,_
 1761-17,TO004,1761,1761,18,cosa,cosa,cosa,NOUN,_,_
 1761-18,TO004,1761,1761,19,giusta.,giusta,giusto,ADJ,_,_
-1762-0,TO004,1762,1762,1,internet,internet,internet,PROPN,_,_
+1762-0,TO004,1762,1762,1,internet,internet,internet,NOUN,_,_
 1762-1,TO004,1762,1762,2,è,è,essere,AUX,_,_
 1762-2,TO004,1762,1762,3,più,più,più,ADV,_,_
 1762-3,TO004,1762,1762,4,avanzato,avanzato,avanzare,VERB,_,_

@@ -10,7 +10,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1-3,PKP060,1,bottiglia,bottiglia,bottiglia,NOUN,_,_
 2-0,PKP057,2,però,però,però,ADV,_,_
 2-1,PKP057,2,è,è,essere,AUX,_,_
-2-2,PKP057,2,giotto,giotto,giurre,PROPN,_,_
+2-2,PKP057,2,giotto,giotto,Giotto,PROPN,_,_
 2-3,PKP057,2,eh,eh,eh,INTJ,_,_
 3-0,PKP060,3,eh,eh,eh,INTJ,_,_
 3-1,PKP060,3,ma,ma,ma,CCONJ,_,_
@@ -346,7 +346,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 68-10,PKP060,68,giappo,giappo,giappo,NOUN,_,_
 68-11,PKP060,68,(.),(.),PAUSE,NVB,_,_
 68-12,PKP060,68,con,con,con,ADP,_,_
-68-13,PKP060,68,raffa,raffa,raffa,PROPN,_,_
+68-13,PKP060,68,raffa,raffa,Raffa,PROPN,_,_
 69-0,PKP057,69,mh,mh,mh,INTJ,_,_
 70-0,PKP060,70,al,al,a+il,ADP+DET,_,_
 70-0a,_,_,_,a,a,ADP,_,_
@@ -671,8 +671,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 138-0,PKP057,138,mh,mh,mh,INTJ,_,_
 138-1,PKP057,138,(.),(.),PAUSE,NVB,_,_
 138-2,PKP057,138,e,e,e,CCONJ,_,_
-138-3,PKP057,138,stefano,stefano,stefare,PROPN,_,_
-139-0,PKP060,139,stefano:,stefano,stefare,PROPN,_,_
+138-3,PKP057,138,stefano,stefano,Stefano,PROPN,_,_
+139-0,PKP060,139,stefano:,stefano,Stefano,PROPN,_,_
 139-1,PKP060,139,non,non,non,ADV,_,_
 139-2,PKP060,139,gliel',gliel',gli+lo,PRON+PRON,_,SpaceAfter=No
 139-2a,_,_,_,glie,gli,PRON,_,_
@@ -823,7 +823,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 156-3,PKP060,156,credere,credere,credere,VERB,_,_
 157-0,PKP060,157,l',l',il,DET,_,SpaceAfter=No
 157-1,PKP060,157,acqua,acqua,acqua,NOUN,_,_
-157-2,PKP060,157,recoaro,recoaro,recoaro,PROPN,_,_
+157-2,PKP060,157,recoaro,recoaro,Recoaro,PROPN,_,_
 158-0,PKP057,158,e:,e,e,CCONJ,_,_
 158-1,PKP057,158,che,che,che,SCONJ,_,_
 158-2,PKP057,158,acqua,acqua,acqua,NOUN,_,_
@@ -851,7 +851,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 161-7,PKP060,161,chiamato,chiamato,chiamare,VERB,_,_
 161-8,PKP060,161,questa,questa,questo,DET,_,_
 161-9,PKP060,161,cosa,cosa,coso,NOUN,_,_
-161-10,PKP060,161,recoaro,recoaro,recoaro,PROPN,_,_
+161-10,PKP060,161,recoaro,recoaro,Recoaro,PROPN,_,_
 161-11,PKP060,161,((ride)),((ride)),NVB,NVB,_,_
 162-0,PKP057,162,((ride)),((ride)),NVB,NVB,_,_
 163-0,PKP060,163,perché:,perché,perché,SCONJ,_,_
@@ -868,7 +868,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 163-11,PKP060,163,di,di,di,ADP,_,_
 163-12,PKP060,163,quest',quest',questo,DET,_,SpaceAfter=No
 163-13,PKP060,163,acqua,acqua,acqua,NOUN,_,_
-163-14,PKP060,163,recoaro,recoaro,recoaro,PROPN,_,_
+163-14,PKP060,163,recoaro,recoaro,Recoaro,PROPN,_,_
 164-0,PKP060,164,e,e,e,CCONJ,_,_
 164-1,PKP060,164,nella,nella,in+il,ADP+DET,_,_
 164-1a,_,_,_,in,in,ADP,_,_
@@ -878,7 +878,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 164-4,PKP060,164,dicevano,dicevano,dire,VERB,_,_
 164-5,PKP060,164,chiaro,chiaro,chiaro,ADJ,_,_
 164-6,PKP060,164,limpido,limpido,limpido,ADJ,_,_
-164-7,PKP060,164,recoaro,recoaro,recoaro,PROPN,_,_
+164-7,PKP060,164,recoaro,recoaro,Recoaro,PROPN,_,_
 165-0,PKP057,165,ah,ah,ah,INTJ,_,_
 166-0,PKP060,166,e,e,e,CCONJ,_,_
 166-1,PKP060,166,lui,lui,lui,PRON,_,_
@@ -917,7 +917,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 170-5,PKP060,170,del,del,di+il,ADP+DET,_,_
 170-5a,_,_,_,di,di,ADP,_,_
 170-5b,_,_,_,il,il,DET,_,_
-170-6,PKP060,170,recoaro,recoaro,recoaro,PROPN,_,_
+170-6,PKP060,170,recoaro,recoaro,Recoaro,PROPN,_,_
 170-7,PKP060,170,((ride)),((ride)),NVB,NVB,_,_
 171-0,PKP057,171,>vai,vai,andare,VERB,_,_
 171-1,PKP057,171,vai,vai,andare,VERB,_,_
@@ -1068,8 +1068,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 203-4,PKP060,203,le,le,il,DET,_,_
 203-5,PKP060,203,storie,storie,storia,NOUN,_,_
 203-6,PKP060,203,di,di,di,ADP,_,_
-203-7,PKP060,203,filippo,filippo,filippo,PROPN,_,_
-203-8,PKP060,203,rossin,rossin,rossino,PROPN,_,_
+203-7,PKP060,203,filippo,filippo,Filippo,PROPN,_,_
+203-8,PKP060,203,rossin,rossin,Rossin,PROPN,_,_
 203-9,PKP060,203,di,di,di,ADP,_,_
 203-10,PKP060,203,ieri,ieri,ieri,ADV,_,_
 203-11,PKP060,203,sera?,sera,sera,NOUN,Intonation=rising,_
@@ -1138,7 +1138,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 211-8,PKP060,211,(.),(.),PAUSE,NVB,_,_
 211-9,PKP060,211,andando,andando,andare,VERB,_,_
 211-10,PKP060,211,a,a,a,ADP,_,_
-211-11,PKP060,211,correggio,correggio,correggio,PROPN,_,_
+211-11,PKP060,211,correggio,correggio,Correggio,PROPN,_,_
 211-12,PKP060,211,che,che,che,PRON,_,_
 211-13,PKP060,211,andavano,andavano,andare,VERB,_,_
 211-14,PKP060,211,a,a,a,ADP,_,_
@@ -1503,7 +1503,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 270-7,PKP060,270,di,di,di,ADP,_,_
 270-8,PKP060,270,liceo,liceo,liceo,NOUN,_,_
 271-0,PKP057,271,°mh°,mh,mh,INTJ,Volume=low,_
-272-0,PKP060,272,marco,marco,marco,PROPN,_,_
+272-0,PKP060,272,marco,marco,Marco,PROPN,_,_
 272-1,PKP060,272,rossi,rossi,rossi,PROPN,_,_
 273-0,PKP057,273,ah:,ah,ah,INTJ,_,_
 273-1,PKP057,273,eh:,eh,eh,INTJ,_,_
@@ -1592,8 +1592,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 286-4,PKP060,286,ma,ma,ma,CCONJ,_,_
 286-5,PKP060,286,in,in,in,ADP,_,_
 286-6,PKP060,286,realtà:,realtà,realtà,NOUN,_,_
-287-0,PKP060,287,filippo:,filippo,filippo,PROPN,_,_
-287-1,PKP060,287,rossin,rossin,rossino,PROPN,_,_
+287-0,PKP060,287,filippo:,filippo,Filippo,PROPN,_,_
+287-1,PKP060,287,rossin,rossin,Rossin,PROPN,_,_
 287-2,PKP060,287,m',m',mi,PRON,_,SpaceAfter=No
 287-3,PKP060,287,ha,ha,avere,AUX,_,_
 287-4,PKP060,287,detto,detto,dire,VERB,_,_
@@ -2531,7 +2531,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 440-0,PKP057,440,negozio,negozio,negozio,NOUN,_,_
 440-1,PKP057,440,dove?,dove,dove,ADV,Intonation=rising,_
 441-0,PKP060,441,a,a,a,ADP,_,_
-441-1,PKP060,441,reggio,reggio,reggio,PROPN,_,_
+441-1,PKP060,441,reggio,reggio,Reggio,PROPN,_,_
 441-2,PKP060,441,(.),(.),PAUSE,NVB,_,_
 441-3,PKP060,441,quello,quello,quello,PRON,_,_
 441-4,PKP060,441,da,da,da,ADP,_,_
@@ -2550,10 +2550,10 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 444-2,PKP060,444,c',c',ci,PRON,_,SpaceAfter=No
 444-3,PKP060,444,è,è,essere,AUX,_,_
 444-4,PKP060,444,andato?,andato,andare,VERB,Intonation=rising,_
-445-0,PKP057,445,luca,luca,luca,PROPN,_,_
+445-0,PKP057,445,luca,luca,Luca,PROPN,_,_
 446-0,PKP057,446,classico,classico,classico,ADJ,_,_
 447-0,PKP060,447,anche,anche,anche,ADV,_,_
-447-1,PKP060,447,marco,marco,marco,PROPN,_,_
+447-1,PKP060,447,marco,marco,Marco,PROPN,_,_
 448-0,PKP057,448,mh,mh,mh,INTJ,_,_
 449-0,PKP057,449,li,li,li,PRON,_,_
 449-1,PKP057,449,aveva,aveva,avere,AUX,_,_
@@ -2572,7 +2572,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 451-6,PKP057,451,ingredienti?,ingredienti,ingrediente,NOUN,Intonation=rising,_
 452-0,PKP060,452,[sì,sì,sì,ADV,_,_
 452-1,PKP060,452,sì],sì,sì,ADV,_,_
-453-0,PKP060,453,luca,luca,luca,PROPN,_,_
+453-0,PKP060,453,luca,luca,Luca,PROPN,_,_
 453-1,PKP060,453,invece,invece,invece,ADV,_,_
 453-2,PKP060,453,ha,ha,avere,AUX,_,_
 453-3,PKP060,453,preso:,preso,prendere,VERB,_,_
@@ -2756,7 +2756,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 485-2,PKP057,485,facevo,facevo,fare,VERB,_,_
 485-3,PKP057,485,così,così,così,ADV,_,_
 485-4,PKP057,485,riservato,riservato,riservare,ADJ,_,_
-485-5,PKP057,485,luca,luca,luca,PROPN,_,_
+485-5,PKP057,485,luca,luca,Luca,PROPN,_,_
 485-6,PKP057,485,è,è,essere,AUX,_,_
 485-7,PKP057,485,uno,uno,uno,PRON,_,_
 485-8,PKP057,485,che,che,che,PRON,_,_
@@ -3365,7 +3365,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 619-0,PKP060,619,verdi,verdi,verde,ADJ,_,_
 619-1,PKP060,619,(.),(.),PAUSE,NVB,_,_
 619-2,PKP060,619,in,in,in,ADP,_,_
-619-3,PKP060,619,australia,australia,australia,PROPN,_,_
+619-3,PKP060,619,australia,australia,Australia,PROPN,_,_
 619-4,PKP060,619,aveva,aveva,avere,VERB,_,_
 619-5,PKP060,619,una:,una,uno,DET,_,_
 619-6,PKP060,619,coinquilina,coinquilina,coinquilino,NOUN,_,_
@@ -4081,7 +4081,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 748-3a,_,_,_,trovar,trovare,VERB,_,_
 748-3b,_,_,_,la,la,PRON,_,_
 748-4,PKP057,748,a,a,a,ADP,_,_
-748-5,PKP057,748,correggio,correggio,correggio,PROPN,_,_
+748-5,PKP057,748,correggio,correggio,Correggio,PROPN,_,_
 749-0,PKP060,749,nel,nel,in+il,ADP+DET,_,_
 749-0a,_,_,_,in,in,ADP,_,_
 749-0b,_,_,_,il,il,DET,_,_
@@ -4093,11 +4093,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 749-6,PKP060,749,prima,prima,prima,ADV,_,_
 749-7,PKP060,749,(.),(.),PAUSE,NVB,_,_
 749-8,PKP060,749,a,a,a,ADP,_,_
-749-9,PKP060,749,reggio,reggio,reggio,PROPN,_,_
+749-9,PKP060,749,reggio,reggio,Reggio,PROPN,_,_
 750-0,PKP057,750,quindi,quindi,quindi,ADV,_,_
 750-1,PKP057,750,non,non,non,ADV,_,_
 750-2,PKP057,750,a,a,a,ADP,_,_
-750-3,PKP057,750,correggio,correggio,correggio,PROPN,_,_
+750-3,PKP057,750,correggio,correggio,Correggio,PROPN,_,_
 751-0,PKP057,751,ah,ah,ah,INTJ,_,_
 751-1,PKP057,751,ah,ah,ah,INTJ,_,_
 751-2,PKP057,751,è,è,essere,AUX,_,_

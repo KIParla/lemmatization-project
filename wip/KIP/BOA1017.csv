@@ -45,7 +45,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 10-2,BO082,10,è,è,essere,AUX,_,_
 10-3,BO082,10,si,si,si,PRON,_,_
 10-4,BO082,10,chiama?,chiama,chiamare,VERB,Intonation=rising,_
-11-0,BO084,11,miriam,miriam,miriam,PROPN,_,_
+11-0,BO084,11,miriam,miriam,Miriam,PROPN,_,_
 12-0,BO082,12,allora,allora,allora,ADV,_,_
 12-1,BO082,12,cognome?,cognome,cognome,NOUN,Intonation=rising,_
 13-0,BO084,13,rossi.,rossi,rossi,PROPN,Intonation=falling,_
@@ -330,7 +330,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 53-27,BO084,53,ma,ma,ma,CCONJ,_,_
 53-28,BO084,53,anche,anche,anche,ADV,_,_
 53-29,BO084,53,con,con,con,ADP,_,_
-53-30,BO084,53,"brugnatelli,",brugnatelli,brugnatello,PROPN,Intonation=weakly_rising,_
+53-30,BO084,53,"brugnatelli,",brugnatelli,Brugnatelli,PROPN,Intonation=weakly_rising,_
 54-0,BO082,54,"sì:,",sì,sì,ADV,Intonation=weakly_rising,_
 55-0,BO084,55,quindi,quindi,quindi,ADV,_,_
 55-1,BO084,55,e:,e,e,CCONJ,_,_
@@ -346,7 +346,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 56-2,BO082,56,un,un,uno,DET,_,_
 56-3,BO082,56,articolo,articolo,articolo,NOUN,_,_
 56-4,BO082,56,con,con,con,ADP,_,_
-56-5,BO082,56,brugnatelli]?,brugnatelli,brugnatello,PROPN,Intonation=rising,_
+56-5,BO082,56,brugnatelli]?,brugnatelli,Brugnatelli,PROPN,Intonation=rising,_
 57-0,BO084,57,"dell[a::],",della,di+il,ADP+DET,Intonation=weakly_rising,_
 57-0a,_,_,_,di,di,ADP,_,_
 57-0b,_,_,_,la,il,DET,_,_
@@ -372,7 +372,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 60-7,BO082,60,un,un,uno,DET,_,_
 60-8,BO082,60,articolo,articolo,articolo,NOUN,_,_
 60-9,BO082,60,con,con,con,ADP,_,_
-60-10,BO082,60,brugnatelli,brugnatelli,brugnatello,PROPN,_,_
+60-10,BO082,60,brugnatelli,brugnatelli,Brugnatelli,PROPN,_,_
 60-11,BO082,60,[sul,sul,su+il,ADP+DET,_,_
 60-11a,_,_,_,su,su,ADP,_,_
 60-11b,_,_,_,il,il,DET,_,_
@@ -461,8 +461,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 71-9,BO084,71,è,è,essere,AUX,_,_
 71-10,BO084,71,l',l',il,DET,Truncated=Yes,_
 71-11,BO084,71,"ipotesi,",ipotesi,ipotesi,NOUN,Intonation=weakly_rising,_
-72-0,BO084,72,[sapir,sapir,sapir,PROPN,_,_
-72-1,BO084,72,"woh:]rf,",wohrf,wohrf,PROPN,Intonation=weakly_rising,_
+72-0,BO084,72,[sapir,sapir,Sapir,PROPN,_,_
+72-1,BO084,72,"who:]rf,",whorf,Whorf,PROPN,Intonation=weakly_rising,_
 73-0,BO082,73,"[mhmh],",mhmh,mhmh,INTJ,Intonation=weakly_rising,_
 74-0,BO082,74,"mhmh,",mhmh,mhmh,INTJ,Intonation=weakly_rising,_
 75-0,BO084,75,e,e,e,CCONJ,_,_
@@ -496,7 +496,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 78-5,BO084,78,varie,varie,vario,DET,_,_
 78-6,BO084,78,"lingue,",lingue,lingua,NOUN,Intonation=weakly_rising,_
 79-0,BO084,79,e,e,e,CCONJ,_,_
-79-1,BO084,79,contemporaneamente,contemporaneamente,contemporaneo,ADV,_,_
+79-1,BO084,79,contemporaneamente,contemporaneamente,contemporaneamente,ADV,_,_
 79-2,BO084,79,vedere,vedere,vedere,VERB,_,_
 79-3,BO084,79,la,la,il,DET,_,_
 79-4,BO084,79,"cultura,",cultura,cultura,NOUN,Intonation=weakly_rising,_
@@ -789,7 +789,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 128-4,BO082,128,secondo,secondo,secondo,ADP,_,_
 128-5,BO082,128,me,me,me,PRON,_,_
 128-6,BO082,128,di,di,di,ADP,_,_
-128-7,BO082,128,"lura[ghi],",luraghi,luraghi,PROPN,Intonation=weakly_rising,_
+128-7,BO082,128,"lura[ghi],",luraghi,Luraghi,PROPN,Intonation=weakly_rising,_
 129-0,BO084,129,[però],però,però,ADV,_,_
 129-1,BO084,129,se,se,se,SCONJ,_,_
 129-2,BO084,129,[posso]:::,posso,potere,AUX,_,_
@@ -881,7 +881,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 142-2,BO084,142,vedere,vedere,vedere,VERB,_,_
 142-3,BO084,142,come,come,come,ADV,_,_
 142-4,BO084,142,l',l',il,DET,Truncated=Yes,_
-142-5,BO084,142,inghilterra,inghilterra,inghilterra,PROPN,_,_
+142-5,BO084,142,inghilterra,inghilterra,Inghilterra,PROPN,_,_
 142-6,BO084,142,è,è,essere,AUX,_,_
 142-7,BO084,142,la,la,il,DET,_,_
 142-8,BO084,142,prima,prima,primo,ADJ,_,_
@@ -945,7 +945,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 144-27,BO084,144,del,del,di+il,ADP+DET,_,_
 144-27a,_,_,_,di,di,ADP,_,_
 144-27b,_,_,_,il,il,DET,_,_
-144-28,BO084,144,"risorgimento,",risorgimento,risorgimento,PROPN,Intonation=weakly_rising,_
+144-28,BO084,144,"risorgimento,",risorgimento,Risorgimento,PROPN,Intonation=weakly_rising,_
 145-0,BO084,145,perché,perché,perché,SCONJ,_,_
 145-1,BO084,145,io,io,io,PRON,_,_
 145-2,BO084,145,leggevo,leggevo,leggere,VERB,_,_
@@ -964,7 +964,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 145-13,BO084,145,nel,nel,in+il,ADP+DET,_,_
 145-13a,_,_,_,in,in,ADP,_,_
 145-13b,_,_,_,il,il,DET,_,_
-145-14,BO084,145,risorgimento,risorgimento,risorgimento,PROPN,_,_
+145-14,BO084,145,risorgimento,risorgimento,Risorgimento,PROPN,_,_
 145-15,BO084,145,inzia,inzia,inziare,VERB,_,_
 145-16,BO084,145,la,la,il,DET,_,_
 145-17,BO084,145,distinzione,distinzione,distinzione,NOUN,_,_
@@ -1008,7 +1008,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 149-1,BO084,149,cuore,cuore,cuore,NOUN,_,_
 149-2,BO084,149,di,di,di,ADP,_,_
 149-3,BO084,149,de,de,de,PROPN,_,_
-149-4,BO084,149,amicis,amicis,amicis,PROPN,_,_
+149-4,BO084,149,amicis,amicis,Amicis,PROPN,_,_
 149-5,BO084,149,"eccete[ra],",eccetera,eccetera,ADV,Intonation=weakly_rising,_
 150-0,BO082,150,"[mh]mh,",mhmh,mhmh,INTJ,Intonation=weakly_rising,_
 151-0,BO084,151,quindi,quindi,quindi,ADV,_,_
@@ -1240,9 +1240,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 184-8,BO082,184,e,e,e,CCONJ,_,_
 184-9,BO082,184,"usi,",usi,uso,NOUN,Intonation=weakly_rising,_
 185-0,BO082,185,di,di,di,ADP,_,_
-185-1,BO082,185,luraghi,luraghi,lurago,PROPN,_,_
+185-1,BO082,185,luraghi,luraghi,Luraghi,PROPN,_,_
 185-2,BO082,185,e,e,e,CCONJ,_,_
-185-3,BO082,185,"olita,",olita,olita,PROPN,Intonation=weakly_rising,_
+185-3,BO082,185,"olita,",olita,Olita,PROPN,Intonation=weakly_rising,_
 186-0,BO084,186,"pos[so:::],",posso,potere,AUX,Intonation=weakly_rising,_
 187-0,BO082,187,[a,a,a,ADP,_,_
 187-1,BO082,187,cura,cura,cura,NOUN,_,_
@@ -1276,9 +1276,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 196-1,BO082,196,e,e,e,CCONJ,_,_
 196-2,BO082,196,genere.,genere,genere,NOUN,Intonation=falling,_
 197-0,BO082,197,eh,eh,eh,INTJ,_,_
-197-1,BO082,197,[luraghi],luraghi,luraghi,PROPN,_,_
+197-1,BO082,197,[luraghi],luraghi,Luraghi,PROPN,_,_
 197-2,BO082,197,e,e,e,CCONJ,_,_
-197-3,BO082,197,olita.,olita,olita,PROPN,Intonation=falling,_
+197-3,BO082,197,olita.,olita,Olita,PROPN,Intonation=falling,_
 198-0,BO084,198,[e,e,e,CCONJ,_,_
 198-1,BO084,198,genere].,genere,genere,NOUN,Intonation=falling,_
 199-0,BO082,199,ci,ci,ci,PRON,_,_
@@ -1294,8 +1294,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 200-2,BO082,200,da,da,da,ADP,_,_
 200-3,BO082,200,quelle,quelle,quello,PRON,_,_
 200-4,BO082,200,di,di,di,ADP,_,_
-200-5,BO082,200,alma,alma,alma,PROPN,_,_
-200-6,BO082,200,sabatini,sabatini,sabatini,PROPN,_,_
+200-5,BO082,200,alma,alma,Alma,PROPN,_,_
+200-6,BO082,200,sabatini,sabatini,Sabatini,PROPN,_,_
 200-7,BO082,200,per,per,per,ADP,_,_
 200-8,BO082,200,l',l',il,DET,Truncated=Yes,_
 200-9,BO082,200,"uso:,",uso,uso,NOUN,Intonation=weakly_rising,_
@@ -1321,8 +1321,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 204-4,BO084,204,dell',dell',di+il,ADP+DET,Truncated=Yes,_
 204-4a,_,_,_,di,di,ADP,_,_
 204-4b,_,_,_,l',il,DET,_,_
-204-5,BO084,204,alma,alma,alma,PROPN,_,_
-204-6,BO084,204,saba[ti]ni.,sabatini,sabatini,PROPN,Intonation=falling,_
+204-5,BO084,204,alma,alma,Alma,PROPN,_,_
+204-6,BO084,204,saba[ti]ni.,sabatini,Sabatini,PROPN,Intonation=falling,_
 205-0,BO082,205,[e:]?,e,e,CCONJ,Intonation=rising,_
 206-0,BO082,206,"[poi],",poi,poi,ADV,Intonation=weakly_rising,_
 207-0,BO082,207,può,può,potere,AUX,_,_
@@ -1341,8 +1341,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 208-5,BO082,208,su,su,su,ADP,_,_
 208-6,BO082,208,anche,anche,anche,ADV,_,_
 208-7,BO082,208,su,su,su,ADP,_,_
-208-8,BO082,208,google,google,google,PROPN,_,_
-208-9,BO082,208,scho:lar,scholar,scholare,PROPN,_,_
+208-8,BO082,208,google,google,Google,PROPN,_,_
+208-9,BO082,208,scho:lar,scholar,Scholar,PROPN,_,_
 208-10,BO082,208,"eccetera,",eccetera,eccetera,ADV,Intonation=weakly_rising,_
 209-0,BO082,209,quindi,quindi,quindi,ADV,_,_
 209-1,BO082,209,lei,lei,lei,PRON,_,_
@@ -1429,8 +1429,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 222-0,BO082,222,però,però,però,ADV,_,_
 222-1,BO082,222,piuttosto,piuttosto,piuttosto,ADV,_,_
 222-2,BO082,222,"vecchio,",vecchio,vecchio,ADJ,Intonation=weakly_rising,_
-222-3,BO082,222,gianna,gianna,gianna,PROPN,_,_
-222-4,BO082,222,marcato,marcato,marcato,PROPN,_,_
+222-3,BO082,222,gianna,gianna,Gianna,PROPN,_,_
+222-4,BO082,222,marcato,marcato,Marcato,PROPN,_,_
 222-5,BO082,222,donna,donna,donna|nonno,NOUN,_,_
 222-6,BO082,222,e,e,e,CCONJ,_,_
 222-7,BO082,222,"linguaggio,",linguaggio,linguaggio,NOUN,Intonation=weakly_rising,_
@@ -1608,7 +1608,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 246-7b,_,_,_,le,il,DET,_,_
 246-8,BO082,246,vacanze,vacanze,vacanza,NOUN,_,_
 246-9,BO082,246,di,di,di,ADP,_,_
-246-10,BO082,246,natale,natale,natale,PROPN,_,_
+246-10,BO082,246,natale,natale,Natale,PROPN,_,_
 246-11,BO082,246,quindi,quindi,quindi,ADV,_,_
 246-12,BO082,246,entro,entro,entro,ADP,_,_
 246-13,BO082,246,tre,tre,tre,NUM,_,_
@@ -1618,11 +1618,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 247-2,BO082,247,subito,subito,subito,ADV,_,_
 247-3,BO082,247,dopo,dopo,dopo,ADP,_,_
 247-4,BO082,247,l',l',il,DET,Truncated=Yes,_
-247-5,BO082,247,epifania.,epifania,epifania,PROPN,Intonation=falling,_
+247-5,BO082,247,epifania.,epifania,Epifania,PROPN,Intonation=falling,_
 248-0,BO084,248,quindi,quindi,quindi,ADV,_,_
 248-1,BO084,248,[o,o,o,CCONJ,_,_
 248-2,BO084,248,entro],entro,entro,ADP,_,_
-248-3,BO084,248,natale,natale,natale,PROPN,_,_
+248-3,BO084,248,natale,natale,Natale,PROPN,_,_
 248-4,BO084,248,[o,o,o,CCONJ,_,_
 248-5,BO084,248,direttamente,direttamente,direttamente,ADV,_,_
 248-6,BO084,248,a,a,a,ADP,_,_
@@ -1633,7 +1633,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 250-2,BO082,250,la,la,la,PRON,_,_
 250-3,BO082,250,fa,fa,fare,VERB,_,_
 250-4,BO082,250,entro,entro,entro,ADP,_,_
-250-5,BO082,250,natale],natale,natale,PROPN,_,_
+250-5,BO082,250,natale],natale,Natale,PROPN,_,_
 250-6,BO082,250,va,va,andare,VERB,_,_
 250-7,BO082,250,"bene,",bene,bene,ADV,Intonation=weakly_rising,_
 251-0,BO082,251,se,se,se,SCONJ,_,_

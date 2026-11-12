@@ -106,10 +106,10 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 15-5,BO005,15,<più,più,più,ADV,_,_
 15-6,BO005,15,marcato>,marcato,marcare,VERB,_,_
 15-7,BO005,15,i:n,in,in,ADP,_,_
-15-8,BO005,15,america,america,america,PROPN,_,_
+15-8,BO005,15,america,america,America,PROPN,_,_
 15-9,BO005,15,che,che,che,PRON,_,_
 15-10,BO005,15,in,in,in,ADP,_,_
-15-11,BO005,15,spagna.,spagna,spagna,PROPN,Intonation=falling,_
+15-11,BO005,15,spagna.,spagna,Spagna,PROPN,Intonation=falling,_
 16-0,BO117,16,m:[h],mh,mh,INTJ,_,_
 17-0,BO005,17,[q]uindi,quindi,quindi,VERB,_,_
 17-1,BO005,17,volevo,volevo,volere,VERB,_,_
@@ -133,7 +133,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 19-2,BO005,19,i:n,in,in,ADP,_,_
 19-3,BO005,19,>noi,noi,noi,PRON,_,_
 19-4,BO005,19,in,in,in,ADP,_,_
-19-5,BO005,19,latinoamerica,latinoamerica,latinoamerica,PROPN,_,_
+19-5,BO005,19,latinoamerica,latinoamerica,Latinoamerica,PROPN,_,_
 19-7,BO005,19,usiamo,usiamo,usare,VERB,_,_
 19-8,BO005,19,troppo,troppo,troppo,ADV,_,_
 19-9,BO005,19,come,come,come,SCONJ,_,_
@@ -160,8 +160,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 25-1,BO117,25,d]i,di,di,ADP,_,_
 25-2,BO117,25,dov',dov',dove,ADV,Truncated=Yes,_
 25-3,BO117,25,è?,è,essere,AUX,Intonation=rising,_
-26-0,BO005,26,colombia.,colombia,colombia,PROPN,Intonation=falling,_
-27-0,BO117,27,colombia.,colombia,colombia,PROPN,Intonation=falling,_
+26-0,BO005,26,colombia.,colombia,Colombia,PROPN,Intonation=falling,_
+27-0,BO117,27,colombia.,colombia,Colombia,PROPN,Intonation=falling,_
 28-0,BO005,28,°mh,mh,mh,INTJ,Volume=low,_
 28-1,BO005,28,m[h°],mh,mh,INTJ,Volume=low,_
 29-0,BO117,29,[be]nissimo.,benissimo,bene,ADV,Intonation=falling,_
@@ -202,7 +202,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 33-6,BO005,33,"dice,",dice,dire,VERB,Intonation=weakly_rising,_
 34-0,BO005,34,che,che,che,SCONJ,_,_
 34-1,BO005,34,su,su,su,ADP,_,_
-34-2,BO005,34,sketchengine,sketchengine,sketchengine,PROPN,_,_
+34-2,BO005,34,sketchengine,sketchengine,Sketchengine,PROPN,_,_
 34-4,BO005,34,funziona,funziona,funzionare,VERB,_,_
 34-5,BO005,34,un,un,uno,DET,_,_
 34-6,BO005,34,po',po',poco,ADV,_,_
@@ -465,7 +465,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 81-3,BO005,81,già,già,già,ADV,_,_
 81-4,BO005,81,con,con,con,ADP,_,_
 81-5,BO005,81,lo,lo,il,DET,_,_
-81-6,BO005,81,sketchengine,sketchengine,sketchengine,PROPN,_,_
+81-6,BO005,81,sketchengine,sketchengine,Sketchengine,PROPN,_,_
 81-8,BO005,81,e:,e,e,CCONJ,_,_
 82-0,BO005,82,sempre,sempre,sempre,ADV,_,_
 82-1,BO005,82,dice,dice,dire,VERB,_,_

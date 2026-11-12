@@ -452,7 +452,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 104-1,BO145,104,104,2,monologo,monologo,monologo,NOUN,_,_
 104-2,BO145,104,104,3,di,di,di,ADP,_,_
 104-3,BO145,104,104,4,andrea,andrea,Andrea,PROPN,_,_
-104-4,BO145,104,104,5,verdi,verdi,Verdì,PROPN,_,_
+104-4,BO145,104,104,5,verdi,verdi,Verdi,PROPN,_,_
 104-5,BO145,104,104,6,per,per,per,ADP,_,_
 104-6,BO145,104,104,7,dodici,dodici,dodici,NUM,_,_
 104-7,BO145,104,104,8,ore,ore,ora,NOUN,_,_
@@ -2496,7 +2496,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 597-3,BO145,597,597,4,l',l',il,DET,_,SpaceAfter=No
 597-4,BO145,597,597,5,(uovo)?,uovo,uovo,NOUN,_,_
 598-0,BO146,598,598,1,[m::h,mh,mh,INTJ,_,_
-598-1,BO146,598,598,2,(madonna),madonna,madonna,NOUN,_,_
+598-1,BO146,598,598,2,(madonna),madonna,Madonna,PROPN,_,_
 598-2,BO146,598,598,3,qua]nt',quant',quanto,ADV,_,SpaceAfter=No
 598-3,BO146,598,598,4,è,è,essere,AUX,_,_
 598-4,BO146,598,598,5,(buono),buono,buono,ADJ,_,_
@@ -3429,7 +3429,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 783-17,BO145,783,783,19,[è::],è,essere,AUX,_,_
 784-0,BO146,784,784,1,[(mh),mh,mh,INTJ,_,_
 784-1,BO146,784,784,2,no:,no,no,ADV,_,_
-784-2,BO146,784,784,3,madon]na,madonna,madonna,NOUN,_,_
+784-2,BO146,784,784,3,madon]na,madonna,Madonna,PROPN,_,_
 784-3,BO146,784,784,4,intollerante,intollerante,intollerante,ADJ,_,_
 784-4,BO146,784,784,5-6,al,al,a+il,ADP+DET,_,_
 784-4a,_,_,784,5,_,a,a,ADP,_,_
@@ -4966,7 +4966,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1139-0,BO139,1139,1139,1,è,è,essere,AUX,_,_
 1139-1,BO139,1139,1139,2,[rimasto,rimasto,rimanere,VERB,_,_
 1139-2,BO139,1139,1139,3,tipo],tipo,tipo,NOUN,_,_
-1140-0,BO145,1140,1140,1,[madonna,madonna,madonna,NOUN,_,_
+1140-0,BO145,1140,1140,1,[madonna,madonna,Madonna,PROPN,_,_
 1140-1,BO145,1140,1140,2,sai],sai,sapere,VERB,_,_
 1140-2,BO145,1140,1140,3-4,trasferirsi,trasferirsi,trasferire+si,VERB+PRON,_,_
 1140-2a,_,_,1140,3,_,trasferir,trasferire,VERB,_,_

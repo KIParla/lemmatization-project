@@ -1005,7 +1005,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 187-1b,_,_,187,3,_,i,il,DET,_,_
 187-2,TO062,187,187,4,rerum,rerum,Rerum,PROPN,Lang=la,_
 187-3,TO062,187,187,5,vulgarium,vulgarium,Vulgarium,PROPN,Lang=la,_
-187-4,TO062,187,187,6,fragmenta,fragmenta,Fragmenta,PROPN,Lang=la,_
+187-4,TO062,187,187,6,fragmenta,fragmenta,Fragmenta,NOUN,Lang=la,_
 188-0,TO062,188,188,1-2,sulla,sulla,su+il,ADP+DET,_,_
 188-0a,_,_,188,1,_,su,su,ADP,_,_
 188-0b,_,_,188,2,_,la,il,DET,_,_
@@ -1477,7 +1477,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 270-2,TO062,270,270,4,il,il,il,DET,_,_
 270-3,TO062,270,270,5,>rerum,rerum,Rerum,PROPN,Lang=la,_
 270-4,TO062,270,270,6,vulgarum<,vulgarum,Vulgarum,PROPN,Lang=la,_
-270-5,TO062,270,270,7,fragmenta,fragmenta,Fragmenta,PROPN,Lang=la,_
+270-5,TO062,270,270,7,fragmenta,fragmenta,Fragmenta,NOUN,Lang=la,_
 271-0,TO062,271,271,1,chi,chi,chi,PRON,_,_
 271-1,TO062,271,271,2,dice,dice,dire,VERB,_,_
 271-2,TO062,271,271,3,"i:o,",io,io,PRON,_,_
@@ -2379,7 +2379,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 420-2,TO062,420,420,3,poetae,poetae,poeta,NOUN,Lang=la,_
 421-0,TO062,421,421,1,rerum,rerum,Rerum,PROPN,Lang=la,_
 421-1,TO062,421,421,2,vulgarium,vulgarium,Vulgarium,PROPN,Lang=la,_
-421-2,TO062,421,421,3,fragmenta.,fragmenta,fragmentare,PROPN,_,_
+421-2,TO062,421,421,3,fragmenta.,fragmenta,Fragmenta,NOUN,_,_
 422-0,TO062,422,422,1,cioè,cioè,cioè,CCONJ,_,_
 422-1,TO062,422,422,2,prima,prima,prima,ADV,_,_
 422-2,TO062,422,422,3,c',c',ci,PRON,_,_
@@ -2398,7 +2398,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 425-1,TO062,425,425,2,laurea:to,laureato,laureato,ADJ,_,_
 426-0,TO062,426,426,1,rerum,rerum,Rerum,PROPN,Lang=la,_
 426-1,TO062,426,426,2,vulgarium,vulgarium,Vulgarium,PROPN,Lang=la,_
-426-2,TO062,426,426,3,fragmenta,fragmenta,Fragmenta,PROPN,Lang=la,_
+426-2,TO062,426,426,3,fragmenta,fragmenta,Fragmenta,NOUN,Lang=la,_
 427-0,TO062,427,427,1,frammenti,frammenti,frammento,NOUN,_,_
 427-1,TO062,427,427,2-3,delle,delle,di+il,ADP+DET,_,_
 427-1a,_,_,427,2,_,di,di,ADP,_,_
@@ -2432,7 +2432,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 432-1,TO062,432,432,2,(.),(.),PAUSE,NVB,_,_
 432-2,TO062,432,432,3,rerum,rerum,Rerum,PROPN,Lang=la,_
 432-3,TO062,432,432,4,vulgarium,vulgarium,Vulgarium,PROPN,Lang=la,_
-432-4,TO062,432,432,5,fragmenta,fragmenta,Fragmenta,PROPN,Lang=la,_
+432-4,TO062,432,432,5,fragmenta,fragmenta,Fragmenta,NOUN,Lang=la,_
 433-0,TO062,433,433,1,perché,perché,perché,SCONJ,_,_
 433-1,TO062,433,433,2,il,il,il,DET,_,_
 433-2,TO062,433,433,3,neutro,neutro,neutro,NOUN,_,_
@@ -2461,7 +2461,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 435-4,TO062,435,435,5,il::,il,il,DET,_,_
 436-0,TO062,436,436,1,rerum,rerum,Rerum,PROPN,Lang=la,_
 436-1,TO062,436,436,2,vulgarium,vulgarium,Vulgarium,PROPN,Lang=la,_
-436-2,TO062,436,436,3,fragmenta,fragmenta,Fragmenta,PROPN,Lang=la,_
+436-2,TO062,436,436,3,fragmenta,fragmenta,Fragmenta,NOUN,Lang=la,_
 437-0,TO062,437,437,1,intendendo,intendendo,intendere,VERB,_,_
 437-1,TO062,437,437,2,il:,il,il,DET,_,_
 437-2,TO062,437,437,3,canzoniere,canzoniere,Canzoniere,PROPN,_,_
@@ -2489,7 +2489,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 442-1,TO062,442,442,2,i:,i,il,DET,_,_
 443-0,TO062,443,443,1,rerum,rerum,Rerum,PROPN,Lang=la,_
 443-1,TO062,443,443,2,vulgarium,vulgarium,Vulgarium,PROPN,Lang=la,_
-443-2,TO062,443,443,3,fragmenta,fragmenta,Fragmenta,PROPN,Lang=la,_
+443-2,TO062,443,443,3,fragmenta,fragmenta,Fragmenta,NOUN,Lang=la,_
 444-0,TO062,444,444,1,eh,eh,eh,INTJ,_,_
 444-1,TO062,444,444,2,i,i,il,DET,_,_
 444-2,TO062,444,444,3,frammenti:,frammenti,frammento,NOUN,_,_
@@ -4593,7 +4593,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 794-6,TO062,794,794,7,a,a,a,ADP,_,_
 794-7,TO062,794,794,8,questa,questa,questo,DET,_,_
 794-8,TO062,794,794,9,nota,nota,nota,NOUN,_,_
-795-0,TO062,795,795,1,probalimente,probalimente,probabilmente,ADV,_,_
+795-0,TO062,795,795,1,probabilmente,probabilmente,probabilmente,ADV,_,_
 795-1,TO062,795,795,2,si,si,si,PRON,_,_
 795-2,TO062,795,795,3,chia~,chia~,x,X,_,_
 796-0,TO062,796,796,1,si,si,si,PRON,_,_
@@ -4806,7 +4806,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 830-5b,_,_,830,8,_,i,il,DET,_,_
 830-6,TO062,830,830,9,>rerum,rerum,Rerum,PROPN,Lang=la,_
 830-7,TO062,830,830,10,vulgarium,vulgarium,Vulgarium,PROPN,Lang=la,_
-830-8,TO062,830,830,11,fragmenta<,fragmenta,Fragmenta,PROPN,Lang=la,_
+830-8,TO062,830,830,11,fragmenta<,fragmenta,Fragmenta,NOUN,Lang=la,_
 830-9,TO062,830,830,12,lo,lo,lo,PRON,_,_
 830-10,TO062,830,830,13,faremo,faremo,fare,VERB,_,_
 830-11,TO062,830,830,14,a,a,a,ADP,_,_
@@ -4912,7 +4912,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 845-4a,_,_,845,6,_,di,di,ADP,_,_
 845-4b,_,_,845,7,_,il,il,DET,_,_
 846-0,TO062,846,846,1,degni,degni,Degno,PROPN,Lang=la,_
-846-1,TO062,846,846,2,de,de,De,PROPN,Lang=la,_
+846-1,TO062,846,846,2,de,de,De,ADP,Lang=la,_
 846-2,TO062,846,846,3,dignitate,dignitate,Dignitato,PROPN,Lang=la,_
 846-3,TO062,846,846,4,n:atura,natura,Natura,PROPN,Lang=la,_
 846-4,TO062,846,846,5,moris,moris,Moris,PROPN,Lang=la,_
@@ -5048,7 +5048,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 865-1b,_,_,865,4,_,il,il,DET,_,_
 865-2,TO062,865,865,5,programma,programma,programma,NOUN,_,_
 865-3,TO062,865,865,6,"insomma,",insomma,insomma,ADV,_,_
-866-0,TO062,866,866,1,di:o,dio,dio,NOUN,_,_
+866-0,TO062,866,866,1,di:o,dio,Dio,PROPN,_,_
 866-1,TO062,866,866,2,"nemico,",nemico,nemico,ADJ,_,_
 866-2,TO062,866,866,3,"desiderio,",desiderio,desiderio,NOUN,_,_
 866-3,TO062,866,866,4,accidente,accidente,accidente,NOUN,_,_
@@ -5072,7 +5072,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 868-4,TO062,868,868,6,antica<,antica,antica,ADJ,_,_
 868-5,TO062,868,868,7,in,in,in,ADP,_,_
 868-6,TO062,868,868,8,petrarca,petrarca,Petrarca,PROPN,_,_
-868-7,TO062,868,868,9,"di:o,",dio,dio,NOUN,_,_
+868-7,TO062,868,868,9,"di:o,",dio,Dio,PROPN,_,_
 869-0,TO062,869,869,1,"nemi:co,",nemico,nemico,NOUN,_,_
 869-1,TO062,869,869,2,"deside:rio,",desiderio,desiderio,NOUN,_,_
 869-2,TO062,869,869,3,accidente,accidente,accidente,NOUN,_,_
@@ -5091,7 +5091,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 872-0,TO062,872,872,1,amore,amore,amore,NOUN,_,_
 872-1,TO062,872,872,2,è,è,essere,AUX,_,_
 872-2,TO062,872,872,3,un,un,uno,DET,_,_
-872-3,TO062,872,872,4,di:o,dio,dio,NOUN,_,_
+872-3,TO062,872,872,4,di:o,dio,Dio,PROPN,_,_
 873-0,TO062,873,873,1,no:i,noi,noi,PRON,_,_
 874-0,TO062,874,874,1,parleremo,parleremo,parlare,VERB,_,_
 874-1,TO062,874,874,2,sempre,sempre,sempre,ADV,_,_
@@ -5129,7 +5129,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 880-5,TO062,880,880,6,amo:re,amore,amore,NOUN,_,_
 880-6,TO062,880,880,7,è,è,essere,AUX,_,_
 880-7,TO062,880,880,8,un,un,uno,DET,_,_
-880-8,TO062,880,880,9,dio,dio,dio,NOUN,_,_
+880-8,TO062,880,880,9,dio,dio,Dio,PROPN,_,_
 881-0,TO062,881,881,1,che,che,che,PRON,_,_
 881-1,TO062,881,881,2,tiranne:ggia,tiranneggia,tiranneggiare,VERB,_,_
 882-0,TO062,882,882,1,l',l',il,DET,_,_
@@ -10291,7 +10291,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1786-3,TO062,1786,1786,4,poetae::,poetae,poeta,NOUN,Lang=la,_
 1786-4,TO062,1786,1786,5,rerum,rerum,Rerum,PROPN,Lang=la,_
 1786-5,TO062,1786,1786,6,vulagarum,vulagarum,Vulagarum,PROPN,Lang=la,_
-1786-6,TO062,1786,1786,7,fragmenta,fragmenta,Fragmenta,PROPN,Lang=la,_
+1786-6,TO062,1786,1786,7,fragmenta,fragmenta,Fragmenta,NOUN,Lang=la,_
 1787-0,TO062,1787,1787,1,è,è,essere,AUX,_,_
 1787-1,TO062,1787,1787,2,la,la,il,DET,_,_
 1787-2,TO062,1787,1787,3,carta,carta,carta,NOUN,_,_
@@ -11285,7 +11285,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1954-4,TO062,1954,1954,5,in,in,in,ADP,_,_
 1954-5,TO062,1954,1954,6,vita,vita,vita,NOUN,_,_
 1954-6,TO062,1954,1954,7,di,di,di,ADP,_,_
-1954-7,TO062,1954,1954,8,madonna,madonna,madonna,NOUN,_,_
+1954-7,TO062,1954,1954,8,madonna,madonna,Madonna,PROPN,_,_
 1954-8,TO062,1954,1954,9,laura.,laura,Laura,PROPN,_,_
 1955-0,TO062,1955,1955,1,forse,forse,forse,ADV,_,_
 1955-1,TO062,1955,1955,2,saprete,saprete,sapere,VERB,_,_

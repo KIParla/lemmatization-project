@@ -390,7 +390,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 42-26,BO021,42,42,27,è,è,essere,AUX,_,_
 42-27,BO021,42,42,28,[perch~],perch~,perché,SCONJ,_,_
 43-0,BO046,43,43,1,[ma,ma,ma,CCONJ,_,_
-43-1,BO046,43,43,2,dio],dio,dio,NOUN,_,_
+43-1,BO046,43,43,2,dio],dio,Dio,PROPN,_,_
 43-2,BO046,43,43,3,cane,cane,cane,NOUN,_,_
 44-0,BO021,44,44,1,poi,poi,poi,ADV,_,_
 44-1,BO021,44,44,2,lo,lo,lo,PRON,_,_
@@ -4703,7 +4703,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 572-0,BO046,572,572,1,che,che,che,SCONJ,_,_
 572-1,BO046,572,572,2,"poi,",poi,poi,ADV,_,_
 572-2,BO046,572,572,3,porco,porco,porco,NOUN,_,_
-572-3,BO046,572,572,4,"dio,",dio,dio,NOUN,_,_
+572-3,BO046,572,572,4,"dio,",dio,Dio,PROPN,_,_
 572-4,BO046,572,572,5,volevo,volevo,volere,AUX,_,_
 572-5,BO046,572,572,6-7,"dirgli,",dirgli,dire+gli,VERB+PRON,_,_
 572-5a,_,_,572,6,_,dir,dire,VERB,_,_
@@ -5485,9 +5485,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 691-5,BO046,691,691,6,che,che,che,SCONJ,_,_
 691-6,BO046,691,691,7,è,è,essere,VERB,_,_
 691-7,BO046,691,691,8,indu~,indu~,x,X,_,_
-691-8,BO046,691,691,9,induang,induang,induang,PROPN,_,_
+691-8,BO046,691,691,9,induang,induang,Induang,PROPN,_,_
 692-0,BO021,692,692,1,[eh,eh,eh,INTJ,_,_
-692-1,BO021,692,692,2,induang],induang,induang,PROPN,_,_
+692-1,BO021,692,692,2,induang],induang,Induang,PROPN,_,_
 692-2,BO021,692,692,3,((ride)),((ride)),NVB,NVB,_,_
 693-0,BO046,693,693,1,[cazzo,cazzo,cazzo,INTJ,_,_
 693-1,BO046,693,693,2,che,che,che,PRON,_,_
@@ -6561,11 +6561,11 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 852-14,BO021,852,852,16,i,i,il,DET,_,_
 852-15,BO021,852,852,17,pasti.,pasti,pasto,NOUN,_,_
 853-0,BO046,853,853,1,che,che,che,PRON,_,_
-853-1,BO046,853,853,2,ovviamente,ovviamente,ovvio,ADV,_,_
+853-1,BO046,853,853,2,ovviamente,ovviamente,ovviamente,ADV,_,_
 853-2,BO046,853,853,3,sono,sono,essere,VERB,_,_
 853-3,BO046,853,853,4,sporchi,sporchi,sporco,ADJ,_,_
 854-0,BO021,854,854,1,che,che,che,SCONJ,_,_
-854-1,BO021,854,854,2,ovviamente,ovviamente,ovvio,ADV,_,_
+854-1,BO021,854,854,2,ovviamente,ovviamente,ovviamente,ADV,_,_
 854-2,BO021,854,854,3,sono,sono,essere,VERB,_,_
 854-3,BO021,854,854,4,sporchi,sporchi,sporco,ADJ,_,_
 855-0,BO021,855,855,1,questo,questo,questo,DET,_,_
@@ -7428,7 +7428,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 973-12,BO021,973,973,13,capoverso,capoverso,capoverso,NOUN,_,_
 974-0,BO021,974,974,1,eh,eh,eh,INTJ,_,_
 974-1,BO021,974,974,2,no.,no,no,ADV,_,_
-975-0,BO021,975,975,1,solamente,solamente,solo,ADV,_,_
+975-0,BO021,975,975,1,solamente,solamente,solamente,ADV,_,_
 975-1,BO021,975,975,2,il,il,il,DET,_,_
 975-2,BO021,975,975,3,primo,primo,primo,ADJ,_,_
 975-3,BO021,975,975,4,rigo,rigo,rigo,NOUN,_,_

@@ -728,7 +728,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 98-8b,_,_,98,10,_,lo,il,DET,_,_
 98-9,BO021,98,98,11,[stesso,stesso,stesso,ADJ,_,_
 98-10,BO021,98,98,12,palazzo]?,palazzo,palazzo,NOUN,_,_
-99-0,BO073,99,99,1,[mado':,mado':,madonna,NOUN,_,_
+99-0,BO073,99,99,1,[mado':,mado':,Madonna,PROPN,_,_
 99-1,BO073,99,99,2,per,per,per,ADP,_,_
 99-2,BO073,99,99,3,me,me,me,PRON,_,_
 99-3,BO073,99,99,4,era,era,essere,AUX,_,_
@@ -1772,7 +1772,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 228-12,BO021,228,228,13,paio,paio,paio,NOUN,_,_
 228-13,BO021,228,228,14,di,di,di,ADP,_,_
 228-14,BO021,228,228,15,case?,case,casa,NOUN,_,_
-229-0,BO073,229,229,1,madonna,madonna,madonna,NOUN,_,_
+229-0,BO073,229,229,1,madonna,madonna,Madonna,PROPN,_,_
 230-0,BO021,230,230,0,((ride)),((ride)),NVB,NVB,_,_
 231-0,BO021,231,231,1,giusto,giusto,giusto,ADV,_,_
 231-1,BO021,231,231,2,un,un,uno,DET,_,_
@@ -1844,7 +1844,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 240-22,BO021,240,240,25,esper]ta,esperta,esperto,ADJ,_,_
 240-23,BO021,240,240,26,in,in,in,ADP,_,_
 240-24,BO021,240,240,27,traslochi,traslochi,trasloco,NOUN,_,_
-241-0,BO073,241,241,1,[madonna,madonna,madonna,NOUN,_,_
+241-0,BO073,241,241,1,[madonna,madonna,Madonna,PROPN,_,_
 241-1,BO073,241,241,2,veramente],veramente,veramente,ADV,_,_
 242-0,BO073,242,242,1,minchia,minchia,minchia,NOUN,_,_
 242-1,BO073,242,242,2,sono,sono,essere,AUX,_,_
@@ -3456,7 +3456,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 443-12,BO021,443,443,14,vivere,vivere,vivere,VERB,_,_
 443-13,BO021,443,443,15,in,in,in,ADP,_,_
 443-14,BO021,443,443,16,"futuro,",futuro,futuro,NOUN,_,_
-444-0,BO073,444,444,1,madonna,madonna,madonna,NOUN,_,_
+444-0,BO073,444,444,1,madonna,madonna,Madonna,PROPN,_,_
 444-1,BO073,444,444,2,mia,mia,mio,DET,_,_
 444-2,BO073,444,444,3,che,che,che,PRON,_,_
 444-3,BO073,444,444,4-5,domandone,domandone,domanda,NOUN,_,_
@@ -3779,7 +3779,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 491-5,BO073,491,491,6,tutorial,tutorial,tutorial,NOUN,_,_
 492-0,BO021,492,492,0,((ride)),((ride)),NVB,NVB,_,_
 493-0,BO021,493,493,1,su,su,su,ADP,_,_
-493-1,BO021,493,493,2,youtube,youtube,Youtube,PROPN,_,_
+493-1,BO021,493,493,2,youtube,youtube,YouTube,PROPN,_,_
 493-2,BO021,493,493,3,((ride)),((ride)),NVB,NVB,_,_
 494-0,BO021,494,494,1,anzi,anzi,anzi,ADV,_,_
 494-1,BO021,494,494,2,no,no,no,ADV,_,_
@@ -4785,7 +4785,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 622-6,BO021,622,622,8,casa,casa,casa,NOUN,_,_
 622-7,BO021,622,622,9,senza,senza,senza,ADP,_,_
 622-8,BO021,622,622,10,"porte,",porte,porta,NOUN,_,_
-623-0,BO073,623,623,1,mado':,mado,madonna,NOUN,Lang=und|Dialect=Yes,_
+623-0,BO073,623,623,1,mado':,mado,Madonna,PROPN,Lang=und|Dialect=Yes,_
 623-1,BO073,623,623,2,no,no,no,ADV,_,_
 623-2,BO073,623,623,3,vabbè,vabbè,vabbè,INTJ,_,_
 623-3,BO073,623,623,4,le,le,il,DET,_,_
@@ -5760,7 +5760,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 748-2,BO021,748,748,3,è,è,essere,AUX,_,_
 748-3,BO021,748,748,4,un,un,uno,DET,_,_
 748-4,BO021,748,748,5,"[vomi:]tino,",vomitino,vomito,NOUN,_,_
-749-0,BO072,749,749,1,[madonna],madonna,madonna,NOUN,_,_
+749-0,BO072,749,749,1,[madonna],madonna,Madonna,PROPN,_,_
 750-0,BO073,750,750,1,un,un,uno,DET,_,_
 750-1,BO073,750,750,2,"[vomitino,",vomitino,vomito,NOUN,_,_
 750-2,BO073,750,750,3,è,è,essere,AUX,_,_
@@ -5780,8 +5780,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 751-9,BO072,751,751,11,livello,livello,livello,NOUN,_,_
 751-10,BO072,751,751,12,tipo,tipo,tipo,NOUN,_,_
 751-11,BO072,751,751,13,((fa_versi)),((fa_versi)),NVB,NVB,_,_
-752-0,BO073,752,752,1-2,mado',mado',madonna,NOUN,Lang=und|Dialect=Yes,_
-753-0,BO021,753,753,1-2,mado',mado',madonna,NOUN,Lang=und|Dialect=Yes,_
+752-0,BO073,752,752,1-2,mado',mado',Madonna,PROPN,Lang=und|Dialect=Yes,_
+753-0,BO021,753,753,1-2,mado',mado',Madonna,PROPN,Lang=und|Dialect=Yes,_
 753-1,BO021,753,753,3,no,no,no,ADV,_,_
 753-2,BO021,753,753,4,no,no,no,ADV,_,_
 754-0,BO021,754,754,1,e,e,e,CCONJ,_,_

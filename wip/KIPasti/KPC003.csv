@@ -601,7 +601,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 95-3,PKP093,95,per,per,per,ADP,_,_
 95-4,PKP093,95,pran~],pran~,x,X,Interrupted=Yes,_
 96-0,PKP093,96,oh,oh,oh,INTJ,_,_
-96-1,PKP093,96,dio:,dio,dio,NOUN,_,_
+96-1,PKP093,96,dio:,dio,Dio,PROPN,_,_
 97-0,PKP024,97,eh,eh,eh,INTJ,_,_
 97-1,PKP024,97,oh,oh,oh,INTJ,_,_
 98-0,PKP024,98,così,così,così,ADV,_,_
@@ -713,7 +713,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 113-1,PKP024,113,allora,allora,allora,ADV,_,_
 113-2,PKP024,113,no,no,no,ADV,_,_
 113-3,PKP024,113,(.),(.),PAUSE,NVB,_,_
-113-4,PKP024,113,madonna,madonna,madonna,NOUN,_,_
+113-4,PKP024,113,madonna,madonna,Madonna,PROPN,_,_
 113-5,PKP024,113,santa,santa,santo,ADJ,_,_
 113-6,PKP024,113,mio,mio,mio,DET,_,_
 114-0,PKP024,114,no,no,no,ADV,_,_
@@ -945,7 +945,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 144-14,PKP024,144,te,te,te,PRON,_,_
 145-0,PKP093,145,no,no,no,ADV,_,_
 145-1,PKP093,145,ma,ma,ma,CCONJ,_,_
-146-0,PKP093,146,dio,dio,dio,NOUN,_,_
+146-0,PKP093,146,dio,dio,Dio,PROPN,_,_
 146-1,PKP093,146,bono,bono,bono,ADJ,_,_
 147-0,PKP024,147,è,è,essere,AUX,_,_
 147-1,PKP024,147,vero,vero,vero,ADJ,_,_
@@ -1352,7 +1352,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 225-2,PKP024,225,io,io,io,PRON,_,_
 225-3,PKP024,225,se,se,se,SCONJ,_,_
 225-4,PKP024,225,mangio,mangio,mangiare,VERB,_,_
-226-0,PKP093,226,mado:nna,madonna,madonna,NOUN,_,_
+226-0,PKP093,226,mado:nna,madonna,Madonna,PROPN,_,_
 226-1,PKP093,226,mi,mi,mi,PRON,_,_
 226-2,PKP093,226,(.),(.),PAUSE,NVB,_,_
 226-3,PKP093,226,>cioè,cioè,cioè,CCONJ,_,_
@@ -2064,7 +2064,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 314-3,PKP024,314,coppia,coppia,coppia,NOUN,_,_
 314-4,PKP024,314,(i)n,in,in,ADP,_,_
 314-5,PKP024,314,camera,camera,camera,NOUN,_,_
-314-6,PKP024,314,madonna,madonna,madonna,NOUN,_,_
+314-6,PKP024,314,madonna,madonna,Madonna,PROPN,_,_
 315-0,PKP093,315,((ride)),((ride)),NVB,NVB,_,_
 315-1,PKP093,315,se,se,se,SCONJ,_,_
 315-2,PKP093,315,no,no,no,ADV,_,_
@@ -2083,7 +2083,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 318-1,PKP024,318,(.),(.),PAUSE,NVB,_,_
 318-2,PKP024,318,cioè,cioè,cioè,CCONJ,_,_
 318-3,PKP024,318,oh,oh,oh,INTJ,_,_
-318-4,PKP024,318,dio,dio,dio,NOUN,_,_
+318-4,PKP024,318,dio,dio,Dio,PROPN,_,_
 318-5,PKP024,318,>c',c',ci,PRON,_,SpaceAfter=No
 318-6,PKP024,318,è,è,essere,VERB,_,_
 318-7,PKP024,318,poco,poco,poco,PRON,_,_
@@ -2103,7 +2103,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 320-3,PKP024,320,(.),(.),PAUSE,NVB,_,_
 320-4,PKP024,320,in,in,in,ADP,_,_
 320-5,PKP024,320,terra,terra,terra,NOUN,_,_
-320-6,PKP024,320,madonna,madonna,madonna,NOUN,_,_
+320-6,PKP024,320,madonna,madonna,Madonna,PROPN,_,_
 321-0,PKP093,321,ma,ma,ma,CCONJ,_,_
 321-1,PKP093,321,quando?,quando,quando,PRON,Intonation=rising,_
 322-0,PKP024,322,quando,quando,quando,SCONJ,_,_
@@ -2207,7 +2207,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 335-0,PKP093,335,ma,ma,ma,CCONJ,_,_
 335-1,PKP093,335,vaffanculo,vaffanculo,vaffanculo,INTJ,_,_
 336-0,PKP024,336,((ride)),((ride)),NVB,NVB,_,_
-337-0,PKP024,337,madonna,madonna,madonna,NOUN,_,_
+337-0,PKP024,337,madonna,madonna,Madonna,PROPN,_,_
 338-0,PKP024,338,io,io,io,PRON,_,_
 338-1,PKP024,338,sto,sto,stare,AUX,_,_
 338-2,PKP024,338,pensando,pensando,pensare,VERB,_,_
@@ -2227,7 +2227,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 340-4,PKP024,340,casino,casino,casino,NOUN,_,_
 340-5,PKP024,340,((ride)),((ride)),NVB,NVB,_,_
 341-0,PKP024,341,>oh,oh,oh,INTJ,_,_
-341-1,PKP024,341,dio,dio,dio,NOUN,_,_
+341-1,PKP024,341,dio,dio,Dio,PROPN,_,_
 341-2,PKP024,341,mi,mi,mi,PRON,_,_
 341-3,PKP024,341,sa,sa,sapere,VERB,_,_
 341-4,PKP024,341,che,che,che,SCONJ,_,_
@@ -2366,7 +2366,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 355-10a,_,_,_,di,di,ADP,_,_
 355-10b,_,_,_,l',il,DET,_,_
 355-11,PKP024,355,umido,umido,umido,NOUN,_,_
-355-12,PKP024,355,madonna,madonna,madonna,NOUN,_,_
+355-12,PKP024,355,madonna,madonna,Madonna,PROPN,_,_
 355-13,PKP024,355,cara,cara,caro,ADJ,_,_
 355-14,PKP024,355,c',c',ci,PRON,_,SpaceAfter=No
 355-15,PKP024,355,entrano,entrano,entrare,VERB,_,_
@@ -2867,7 +2867,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 419-0,PKP024,419,((canta)),((canta)),NVB,NVB,_,_
 420-0,PKP024,420,((canta)),((canta)),NVB,NVB,_,_
 421-0,PKP024,421,oh,oh,oh,INTJ,_,_
-421-1,PKP024,421,dio,dio,dio,NOUN,_,_
+421-1,PKP024,421,dio,dio,Dio,PROPN,_,_
 421-2,PKP024,421,(.),(.),PAUSE,NVB,_,_
 421-3,PKP024,421,che,che,che,PRON,_,_
 421-4,PKP024,421,è,è,essere,AUX,_,_

@@ -552,7 +552,7 @@
 60-4a,_,_,60,5,_,a,a,ADP,E,,case:7,_,_,_,_,_,_,_,_
 60-4b,_,_,60,6,_,il,il,DET,RD,Definite=Def|Gender=Masc|Number=Sing|PronType=Art,det:7,_,_,_,_,_,_,_,_
 60-5,TO030,60,60,7,dams.,dams,dams,NOUN,S,Gender=Masc,obl:3,linguistic,_,Intonation=falling,End=161.222,_,_,_,_
-61-0,TO054,61,61,1,politicamen[te,politicamente,politico,ADV,B,,advmod:2,linguistic,_,_,Begin=161.594,_,_,_,11-13(33)
+61-0,TO054,61,61,1,politicamen[te,politicamente,politicamente,ADV,B,,advmod:2,linguistic,_,_,Begin=161.594,_,_,_,11-13(33)
 61-1,TO054,61,61,2,xxx],x,x,X,X,,root:0,unknown,_,_,End=163.11,_,_,_,0-3(33)
 62-0,TO030,62,62,1,[come,come,come,ADV,B,,advmod:2,linguistic,_,_,Begin=162.199,_,_,_,0-4(33)
 62-1,TO030,62,62,2,"faccio],",faccio,fare,VERB,V,Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin,root:0,linguistic,_,Intonation=weakly_rising,End=163.125,_,_,_,0-6(33)
@@ -1802,7 +1802,7 @@
 148-6,TO030,148,148,7,milio:ne,milione,milione,NOUN,S,Gender=Masc|Number=Sing,nmod:13,linguistic,_,_,_,4x1,_,_,_
 148-7,TO030,148,148,8,che,che,che,PRON,PR,PronType=Rel,nsubj:9,linguistic,_,_,_,_,_,_,_
 148-8,TO030,148,148,9,entriamo,entriamo,entrere,VERB,V,Mood=Ind|Number=Plur|Person=1|Tense=Pres|VerbForm=Fin,acl:relcl:13,linguistic,_,_,_,_,_,_,_
-148-9,TO030,148,148,10,veramente.,veramente,vero,ADV,B,,advmod:9,linguistic,_,Intonation=falling,_,_,_,_,_
+148-9,TO030,148,148,10,veramente.,veramente,veramente,ADV,B,,advmod:9,linguistic,_,Intonation=falling,_,_,_,_,_
 148-10,TO030,148,148,11,cioè,cioè,cioè,CCONJ,CC,,cc:13,linguistic,_,_,_,_,_,_,_
 148-11,TO030,148,148,12,non,non,non,ADV,BN,PronType=Neg,advmod:13,linguistic,_,ProsodicLink=Yes,_,_,_,_,_
 148-12,TO030,148,148,13,"e::::h,",eh,eh,INTJ,I,,advmod:2,linguistic,_,Intonation=weakly_rising,End=495.401,0x4,_,_,_
@@ -2038,15 +2038,15 @@
 163-34b,_,_,163,38,_,il,il,DET,RD,Definite=Def|Gender=Masc|Number=Sing|PronType=Art,det:39,_,_,_,_,_,_,_,_
 163-35,TO030,163,163,39,sen]so.,senso,senso,NOUN,S,Gender=Masc|Number=Sing,nmod:28,linguistic,_,Intonation=falling,End=555.429,_,_,_,0-3(87)
 164-0,TO054,164,164,1,"[mh],",mh,mh,NOUN,S,Gender=Masc,root:0,linguistic,_,Intonation=weakly_rising,Begin=548.501|End=548.899,_,_,_,0-2(86)
-165-0,TO054,165,165,1,[giustamente].,giustamente,giusto,ADV,B,,root:0,linguistic,_,Intonation=falling,Begin=554.012|End=555.03,_,_,_,0-11(87)
+165-0,TO054,165,165,1,[giustamente].,giustamente,giustamente,ADV,B,,root:0,linguistic,_,Intonation=falling,Begin=554.012|End=555.03,_,_,_,0-11(87)
 166-0,TO030,166,166,1-2,>alla,alla,a+il,ADP+DET,_,_,_,linguistic,_,_,Begin=555.768,_,Fast=0-4(0),_,_
 166-0a,_,_,166,1,_,a,a,ADP,E,,case:3,_,_,_,_,_,_,_,_
 166-0b,_,_,166,2,_,la,il,DET,RD,Definite=Def|Gender=Fem|Number=Sing|PronType=Art,det:3,_,_,_,_,_,_,_,_
 166-1,TO030,166,166,3,magistrale,magistrale,magistrale,NOUN,S,Gender=Fem|Number=Sing,obl:6,linguistic,_,_,_,_,Fast=0-10(0),_,_
 166-2,TO030,166,166,4,a,a,a,ADP,E,,case:5,linguistic,_,_,_,_,Fast=0-1(0),_,_
-166-3,TO030,166,166,5,bologna,bologna,bologna,NOUN,S,Gender=Fem|Number=Sing,nmod:3,linguistic,_,_,_,_,Fast=0-7(0),_,_
+166-3,TO030,166,166,5,bologna,bologna,Bologna,PROPN,S,Gender=Fem|Number=Sing,nmod:3,linguistic,_,_,_,_,Fast=0-7(0),_,_
 166-4,TO030,166,166,6,(eh),eh,eh,INTJ,I,,root:0,linguistic,_,_,_,_,Fast=0-2(0),0-2(0),_
-166-5,TO030,166,166,7,ovviamente,ovviamente,ovvio,ADV,B,,case:6,linguistic,_,_,_,_,Fast=0-10(0),_,_
+166-5,TO030,166,166,7,ovviamente,ovviamente,ovviamente,ADV,B,,case:6,linguistic,_,_,_,_,Fast=0-10(0),_,_
 166-6,TO030,166,166,8,(perché),perché,perché,SCONJ,CS,,mark:7,linguistic,_,_,_,_,Fast=0-6(0),0-6(1),_
 166-7,TO030,166,166,9,"qua<,",qua,qua,ADV,B,,advmod:7,linguistic,_,Intonation=weakly_rising,End=557.459,_,Fast=0-3(0),_,_
 167-0,TO030,167,167,1,ehm::,ehm,ehm,NOUN,S,Gender=Masc,root:0,linguistic,_,_,Begin=557.928|End=558.984,2x2,_,_,_
@@ -2358,7 +2358,7 @@
 189-1b,_,_,189,3,_,il,il,DET,RD,Definite=Def|Gender=Masc|Number=Sing|PronType=Art,det:4,_,_,_,_,_,_,_,_
 189-2,TO054,189,189,4,dam]s,dams,dams,NOUN,S,Gender=Masc,nmod:1,linguistic,_,_,_,_,_,_,0-3(93)
 189-3,TO054,189,189,5,di,di,di,ADP,E,,case:6,linguistic,_,_,_,_,_,_,_
-189-4,TO054,189,189,6,bologna?,bologna,bologna,NOUN,S,Gender=Fem|Number=Sing,nmod:4,linguistic,_,Intonation=rising,End=650.65,_,_,_,_
+189-4,TO054,189,189,6,bologna?,bologna,Bologna,PROPN,S,Gender=Fem|Number=Sing,nmod:4,linguistic,_,Intonation=rising,End=650.65,_,_,_,_
 190-0,TO030,190,190,1,sì.,sì,sì,ADV,B,,root:0,linguistic,_,Intonation=falling,Begin=650.65|End=651.0,_,_,_,_
 191-0,TO030,191,191,1,sì,sì,sì,ADV,B,,advmod:22,linguistic,_,_,Begin=651.32,_,_,_,_
 191-1,TO030,191,191,2,"sì,",sì,sì,ADV,B,,advmod:3,linguistic,_,Intonation=weakly_rising,_,_,_,_,_
@@ -2656,7 +2656,7 @@
 205-39,TO030,205,205,44,(.),(.),PAUSE,NVB,_,_
 205-40,TO030,205,205,45,[cioè,cioè,cioè,ADV,B,,advmod:46,linguistic,_,_,_,_,_,_,0-4(103)
 205-41,TO030,205,205,46,raga,raga,raere,VERB,V,Mood=Sub|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,advcl:57,linguistic,_,_,_,_,_,_,0-4(103)
-205-42,TO030,205,205,47,veramente.,veramente,vero,ADV,B,,advmod:46,linguistic,_,Intonation=falling,_,_,_,_,0-9(103)
+205-42,TO030,205,205,47,veramente.,veramente,veramente,ADV,B,,advmod:46,linguistic,_,Intonation=falling,_,_,_,_,0-9(103)
 205-43,TO030,205,205,48,qualcuno,qualcuno,qualcuno,PRON,PI,Gender=Masc|Number=Sing|PronType=Ind,obj:46,linguistic,_,_,_,_,_,_,0-8(103)
 205-44,TO030,205,205,49,mi],mi,mi,PRON,PC,Clitic=Yes|Number=Sing|Person=1|PronType=Prs,expl:51,linguistic,_,_,_,_,_,_,0-2(103)
 205-45,TO030,205,205,50,può,può,potere,AUX,VM,Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin,aux:51,linguistic,_,_,_,_,_,_,_
@@ -3850,7 +3850,7 @@
 290-12,TO030,290,290,13,che,che,che,SCONJ,CS,,mark:27,linguistic,_,_,_,_,_,_,_
 290-13,TO030,290,290,14,comunque,comunque,comunque,ADV,B,,advmod:27,linguistic,_,_,_,_,_,_,_
 290-14,TO030,290,290,15,cioè,cioè,cioè,CCONJ,CC,,cc:27,linguistic,_,_,_,_,_,_,_
-290-15,TO030,290,290,16,lentamente,lentamente,lento,ADV,B,,advmod:27,linguistic,_,_,_,_,_,_,_
+290-15,TO030,290,290,16,lentamente,lentamente,lentamente,ADV,B,,advmod:27,linguistic,_,_,_,_,_,_,_
 290-16,TO030,290,290,17,ma,ma,ma,CCONJ,CC,,cc:19,linguistic,_,_,_,_,_,_,_
 290-17,TO030,290,290,18,il,il,il,DET,RD,Definite=Def|Gender=Masc|Number=Sing|PronType=Art,det:19,linguistic,_,_,_,_,_,_,_
 290-18,TO030,290,290,19,panorama,panorama,panorama,NOUN,S,Gender=Masc|Number=Sing,nsubj:27,linguistic,_,_,_,_,_,_,_
