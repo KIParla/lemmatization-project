@@ -111,7 +111,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 20-4,PKP060,20,tradotto,tradotto,tradurre,VERB,_,_
 20-5,PKP060,20,una,una,uno,DET,_,_
 20-6,PKP060,20,parola,parola,parola,NOUN,_,_
-21-0,PKP057,21,esatto,esatto,esatto,ADV,_,_
+21-0,PKP057,21,esatto,esatto,esatto,ADJ,_,_
 21-1,PKP057,21,((ride)),((ride)),NVB,NVB,_,_
 22-0,PKP060,22,((ride)),((ride)),NVB,NVB,_,_
 23-0,PKP057,23,((si_schiarisce_la_gola)),((si_schiarisce_la_gola)),NVB,NVB,_,_
@@ -501,7 +501,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 108-0,PKP057,108,non,non,non,ADV,_,_
 108-1,PKP057,108,sa,sa,sapere,VERB,_,_
 108-2,PKP057,108,di?,di,di,ADP,Intonation=rising,_
-108-3,PKP057,108,no,no,no,NOUN,_,_
+108-3,PKP057,108,no,no,no,ADV,_,_
 108-4,PKP057,108,di,di,di,ADP,_,_
 108-5,PKP057,108,cantuccio,cantuccio,cantuccio,NOUN,_,_
 109-0,PKP060,109,di,di,di,ADP,_,_
@@ -562,16 +562,16 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 120-0,PKP057,120,mh,mh,mh,INTJ,_,_
 121-0,PKP060,121,duecentocinquanta,duecentocinquanta,duecentocinquanta,NUM,_,_
 121-1,PKP060,121,trecento,trecento,trecento,NUM,_,_
-121-2,PKP060,121,emme,emme,M,NOUN,_,_
-121-3,PKP060,121,elle,elle,L,NOUN,_,_
-122-0,PKP057,122,ve,ve,V,NOUN,_,_
+121-2,PKP060,121,emme,emme,emme,NOUN,_,_
+121-3,PKP060,121,elle,elle,elle,NOUN,_,_
+122-0,PKP057,122,ve,ve,vi,NOUN,_,_
 122-1,PKP057,122,ma:,ma,ma,CCONJ,_,_
 122-2,PKP057,122,(.),(.),PAUSE,NVB,_,_
 122-3,PKP057,122,l',l',il,DET,_,SpaceAfter=No
 122-4,PKP057,122,hai:,hai,avere,NOUN,_,_
 123-0,PKP060,123,che,che,che,ADV,_,_
 123-1,PKP060,123,cosa?,cosa,cosa,NOUN,Intonation=rising,_
-124-0,PKP057,124,l',l',il,PRON,_,SpaceAfter=No
+124-0,PKP057,124,l',l',lo,PRON,_,SpaceAfter=No
 124-1,PKP057,124,hai,hai,avere,AUX,_,_
 124-2,PKP057,124,raccontato:,raccontato,raccontare,VERB,_,_
 124-3,PKP057,124,ai,ai,a+il,ADP+DET,_,_
@@ -649,8 +649,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 136-12,PKP060,136,c',c',ci,PRON,_,SpaceAfter=No
 136-13,PKP060,136,era,era,essere,VERB,_,_
 136-14,PKP060,136,mentre,mentre,mentre,SCONJ,_,_
-136-15,PKP060,136,lo,lo,il,PRON,_,_
-136-16,PKP060,136,lo,lo,il,PRON,_,_
+136-15,PKP060,136,lo,lo,lo,PRON,_,_
+136-16,PKP060,136,lo,lo,lo,PRON,_,_
 136-17,PKP060,136,dicevo,dicevo,dire,VERB,_,_
 136-18,PKP060,136,e,e,e,CCONJ,_,_
 136-19,PKP060,136,mi,mi,mi,PRON,_,_
@@ -2039,7 +2039,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 355-6,PKP060,355,a,a,a,ADP,_,_
 355-7,PKP060,355,zigzag,zigzag,zigzag,NOUN,_,_
 355-9,PKP060,355,con,con,con,ADP,_,_
-355-10,PKP060,355,la,la,la,DET,_,_
+355-10,PKP060,355,la,la,il,DET,_,_
 355-11,PKP060,355,con,con,con,ADP,_,_
 355-12,PKP060,355,la,la,il,DET,_,_
 355-13,PKP060,355,classica,classica,classica,ADJ,_,_
@@ -2332,7 +2332,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 406-5,PKP057,406,mamma,mamma,mamma,NOUN,_,_
 406-6,PKP057,406,che:,che,che,PRON,_,_
 406-7,PKP057,406,quando,quando,quando,SCONJ,_,_
-406-8,PKP057,406,le,le,il,PRON,_,_
+406-8,PKP057,406,le,le,le,PRON,_,_
 406-9,PKP057,406,hai,hai,avere,AUX,_,_
 406-10,PKP057,406,detto,detto,dire,VERB,_,_
 406-11,PKP057,406,che,che,che,SCONJ,_,_
@@ -2742,7 +2742,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 482-2,PKP060,482,sì,sì,sì,ADV,_,_
 483-0,PKP057,483,°mh:°,mh,mh,INTJ,Volume=low,_
 484-0,PKP060,484,se,se,se,SCONJ,_,_
-484-1,PKP060,484,gli,gli,il,PRON,_,_
+484-1,PKP060,484,gli,gli,gli,PRON,_,_
 484-2,PKP060,484,chiedi,chiedi,chiedere,VERB,_,_
 484-3,PKP060,484,le,le,il,DET,_,_
 484-4,PKP060,484,cose,cose,cosa,NOUN,_,_
@@ -3020,7 +3020,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 540-3,PKP060,540,prima,prima,prima,ADV,_,_
 541-0,PKP057,541,mh,mh,mh,INTJ,_,_
 542-0,PKP057,542,buono.,buono,buono,ADJ,Intonation=falling,_
-543-0,PKP060,543,l',l',il,PRON,_,SpaceAfter=No
+543-0,PKP060,543,l',l',lo,PRON,_,SpaceAfter=No
 543-1,PKP060,543,hai,hai,avere,AUX,_,_
 543-2,PKP060,543,divorato,divorato,divorare,VERB,_,_
 544-0,PKP057,544,chè,chè,perché,SCONJ,_,_
@@ -3190,7 +3190,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 588-0,PKP057,588,dai:,dai,dare,VERB,_,_
 588-1,PKP057,588,[smettila:],smettila,smettere+lo,VERB+PRON,_,_
 588-1a,_,_,_,smetti,smettere,VERB,_,_
-588-1b,_,_,_,la,lo,PRON,_,_
+588-1b,_,_,_,la,la,PRON,_,_
 589-0,PKP060,589,[CHIEDILO],chiedilo,chiedere+lo,VERB+PRON,Volume=high,_
 589-0a,_,_,_,chiedi,chiedere,VERB,_,_
 589-0b,_,_,_,lo,lo,PRON,_,_
@@ -3356,7 +3356,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 617-0,PKP060,617,((fa_il_verso)),((fa_il_verso)),NVB,NVB,_,_
 618-0,PKP057,618,mi,mi,mi,PRON,_,_
 618-1,PKP057,618,passi,passi,passare,VERB,_,_
-618-2,PKP057,618,la:,la,la,DET,_,_
+618-2,PKP057,618,la:,la,il,DET,_,_
 618-3,PKP057,618,(.),(.),PAUSE,NVB,_,_
 618-4,PKP057,618,la,la,il,DET,_,_
 618-5,PKP057,618,pinza,pinza,pinza,NOUN,_,_
@@ -3601,7 +3601,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 653-16,PKP057,653,la,la,il,DET,_,_
 653-17,PKP057,653,tiri,tiri,tirare,VERB,_,_
 653-18,PKP057,653,su,su,su,ADP,_,_
-654-0,PKP060,654,l',l',il,PRON,_,SpaceAfter=No
+654-0,PKP060,654,l',l',lo,PRON,_,SpaceAfter=No
 654-1,PKP060,654,hai,hai,avere,AUX,_,_
 654-2,PKP060,654,assaggiato?,assaggiato,assaggiare,VERB,Intonation=rising,_
 655-0,PKP057,655,sì,sì,sì,ADV,_,_
@@ -3638,7 +3638,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 662-1,PKP060,662,carne,carne,carne,NOUN,_,_
 663-0,PKP057,663,ah,ah,ah,INTJ,_,_
 663-1,PKP057,663,questa,questa,questo,PRON,_,_
-663-2,PKP057,663,sì,sì,sì,INTJ,_,_
+663-2,PKP057,663,sì,sì,sì,ADV,_,_
 664-0,PKP060,664,io,io,io,PRON,_,_
 664-1,PKP060,664,aspetterei,aspetterei,aspettare,VERB,_,_
 664-2,PKP060,664,un,un,uno,DET,_,_
@@ -3802,7 +3802,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 695-2,PKP057,695,è,è,essere,VERB,_,_
 695-3,PKP057,695,sesamo,sesamo,sesamo,NOUN,_,_
 695-4,PKP057,695,nero,nero,nero,ADJ,_,_
-696-0,PKP057,696,L',l',il,PRON,Volume=high,SpaceAfter=No
+696-0,PKP057,696,L',l',la,PRON,Volume=high,SpaceAfter=No
 696-1,PKP057,696,HAI,hai,avere,AUX,Volume=high,_
 696-2,PKP057,696,FINITA:,finita,finire,VERB,Volume=high,_
 697-0,PKP060,697,io,io,io,PRON,_,_
@@ -3996,7 +3996,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 733-7,PKP060,733,ci,ci,ci,PRON,_,_
 733-8,PKP060,733,fosse,fosse,essere,AUX,_,_
 733-9,PKP060,733,stata,stata,essere,VERB,_,_
-733-10,PKP060,733,l',l',il,PRON,_,SpaceAfter=No
+733-10,PKP060,733,l',l',la,PRON,_,SpaceAfter=No
 733-11,PKP060,733,avrei,avrei,avere,AUX,_,_
 733-12,PKP060,733,finita,finita,finire,VERB,_,_
 734-0,PKP060,734,se,se,se,SCONJ,_,_
@@ -4108,7 +4108,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 752-1,PKP060,752,ma,ma,ma,CCONJ,_,_
 752-2,PKP060,752,tu,tu,tu,PRON,_,_
 752-3,PKP060,752,dove,dove,dove,ADV,_,_
-752-4,PKP060,752,l',l',il,PRON,_,SpaceAfter=No
+752-4,PKP060,752,l',l',la,PRON,_,SpaceAfter=No
 752-5,PKP060,752,avevi,avevi,avere,AUX,_,_
 752-6,PKP060,752,comprata?,comprata,comprare,VERB,Intonation=rising,_
 753-0,PKP057,753,a,a,a,ADP,_,_

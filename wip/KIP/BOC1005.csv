@@ -43,7 +43,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 7-6,BO104,7,parlare,parlare,parlare,VERB,_,_
 7-7,BO104,7,di,di,di,ADP,_,_
 7-8,BO104,7,valutazione.,valutazione,valutazione,NOUN,Intonation=falling,_
-8-0,BO105,8,sì,sì,sì,INTJ,_,_
+8-0,BO105,8,sì,sì,sì,ADV,_,_
 9-0,BO104,9,intanto,intanto,intanto,ADV,_,_
 9-1,BO104,9,che,che,che,DET,_,_
 9-2,BO104,9,cosa,cosa,cosa,NOUN,_,_
@@ -1045,7 +1045,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 110-9,BO104,110,"redattore,",redattore,redattore,NOUN,Intonation=weakly_rising,_
 110-10,BO104,110,[no]?,no,no,ADV,Intonation=rising,_
 111-0,BO105,111,[sì].,sì,sì,ADV,Intonation=falling,_
-112-0,BO105,112,[certo].,certo,certo,ADV,Intonation=falling,_
+112-0,BO105,112,[certo].,certo,certo,ADJ,Intonation=falling,_
 113-0,BO105,113,[sì,sì,sì,ADV,_,_
 113-1,BO105,113,sì,sì,sì,ADV,_,_
 113-2,BO105,113,sì].,sì,sì,ADV,Intonation=falling,_
@@ -1095,7 +1095,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 119-7,BO104,119,avvantaggiare,avvantaggiare,avvantaggiare,VERB,_,_
 119-8,BO104,119,alcuni,alcuni,alcuno,DET,_,_
 120-0,BO105,120,[sì].,sì,sì,ADV,Intonation=falling,_
-121-0,BO105,121,[esatto],esatto,esatto,ADV,_,_
+121-0,BO105,121,[esatto],esatto,esatto,ADJ,_,_
 122-0,BO105,122,tra,tra,tra,ADP,_,_
 122-1,BO105,122,l',l',il,DET,Truncated=Yes,_
 122-2,BO105,122,altro,altro,altro,PRON,_,_
@@ -1157,7 +1157,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 129-6,BO105,129,al,al,a+il,ADP+DET,_,_
 129-6a,_,_,_,a,a,ADP,_,_
 129-6b,_,_,_,il,il,DET,_,_
-129-7,BO105,129,"ket,",ket,Ket,PROPN,Intonation=weakly_rising,_
+129-7,BO105,129,"ket,",ket,KET,PROPN,Intonation=weakly_rising,_
 129-8,BO105,129,delle,delle,di+il,ADP+DET,_,_
 129-8a,_,_,_,di,di,ADP,_,_
 129-8b,_,_,_,le,il,DET,_,_
@@ -1325,7 +1325,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 145-10,BO105,145,barney,barney,Barney,PROPN,_,_
 145-11,BO105,145,sconsiglia,sconsiglia,sconsigliare,VERB,_,_
 145-12,BO105,145,diciamo,diciamo,dire,VERB,_,_
-145-13,BO105,145,la:,la,la,DET,_,_
+145-13,BO105,145,la:,la,il,DET,_,_
 146-0,BO105,146,valutazione,valutazione,valutazione,NOUN,_,_
 146-1,BO105,146,"statistica,",statistica,statistico,ADJ,Intonation=weakly_rising,_
 146-2,BO105,146,in,in,in,ADP,_,_
@@ -1423,7 +1423,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 157-0,BO105,157,[allora],allora,allora,ADV,_,_
 157-1,BO105,157,la,la,il,DET,_,_
 157-2,BO105,157,(.),(.),PAUSE,NVB,_,_
-157-3,BO105,157,la:::,la,la,DET,_,_
+157-3,BO105,157,la:::,la,il,DET,_,_
 157-4,BO105,157,la,la,il,DET,_,_
 157-5,BO105,157,"validità,",validità,validità,NOUN,Intonation=weakly_rising,_
 157-6,BO105,157,significa,significa,significare,VERB,_,_
@@ -1440,7 +1440,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 158-7,BO105,158,intende,intende,intendere,VERB,_,_
 158-8,BO105,158,valutare.,valutare,valutare,VERB,Intonation=falling,_
 159-0,BO104,159,ripeti,ripeti,ripetere,VERB,_,_
-159-1,BO104,159,"scusa,",scusa,scusa,NOUN,Intonation=weakly_rising,_
+159-1,BO104,159,"scusa,",scusa,scusare,VERB,Intonation=weakly_rising,_
 160-0,BO105,160,"validità,",validità,validità,NOUN,_,_
 160-1,BO105,160,significa,significa,significare,VERB,_,_
 160-2,BO105,160,che,che,che,SCONJ,_,_
@@ -1462,7 +1462,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 162-1,BO104,162,cosa],cosa,cosa,NOUN,_,_
 162-2,BO104,162,vuol,vuol,volere,VERB,_,_
 162-3,BO104,162,dire?,dire,dire,VERB,Intonation=rising,_
-163-0,BO105,163,l',l',lo,DET,Truncated=Yes,_
+163-0,BO105,163,l',l',il,DET,Truncated=Yes,_
 163-1,BO105,163,ho,ho,avere,AUX,_,_
 163-2,BO105,163,trovata,trovata,trovare,VERB,_,_
 163-3,BO105,163,anche,anche,anche,ADV,_,_
@@ -1646,8 +1646,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 178-29,BO104,178,"[contenuti],",contenuti,contenuto,NOUN,Intonation=weakly_rising,_
 179-0,BO105,179,[okay.,okay,okay,INTJ,Intonation=falling,_
 179-1,BO105,179,"okay],",okay,okay,INTJ,Intonation=weakly_rising,_
-180-0,BO105,180,[esatto].,esatto,esatto,ADV,Intonation=falling,_
-181-0,BO105,181,[esatto],esatto,esatto,ADV,_,_
+180-0,BO105,180,[esatto].,esatto,esatto,ADJ,Intonation=falling,_
+181-0,BO105,181,[esatto],esatto,esatto,ADJ,_,_
 181-1,BO105,181,e,e,e,CCONJ,_,_
 181-2,BO105,181,cioè,cioè,cioè,ADV,_,_
 181-3,BO105,181,che,che,che,SCONJ,_,_
@@ -1724,12 +1724,12 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 191-6,BO104,191,prova,prova,prova,NOUN,_,_
 191-7,BO104,191,rimane::,rimane,rimanere,VERB,_,_
 191-8,BO104,191,diciamo,diciamo,dire,VERB,_,_
-191-9,BO104,191,la:,la,la,DET,_,_
-191-10,BO104,191,sì,sì,sì,INTJ,_,_
+191-9,BO104,191,la:,la,il,DET,_,_
+191-10,BO104,191,sì,sì,sì,ADV,_,_
 191-11,BO104,191,la,la,il,DET,_,_
 191-12,BO104,191,prova,prova,prova,NOUN,_,_
 191-13,BO104,191,rimane,rimane,rimanere,VERB,_,_
-191-14,BO104,191,la,la,la,DET,_,_
+191-14,BO104,191,la,la,il,DET,_,_
 191-15,BO104,191,la,la,il,DET,_,_
 191-16,BO104,191,stessa.,stessa,stesso,PRON,Intonation=falling,_
 191-17,BO104,191,i,i,il,DET,_,_
@@ -1747,7 +1747,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 193-1,BO105,193,risultati],risultati,risultato,NOUN,_,_
 193-2,BO105,193,(.),(.),PAUSE,NVB,_,_
 193-3,BO105,193,[son~],son~,x,X,Interrupted=Yes,_
-193-4,BO105,193,esatto.,esatto,esatto,ADV,Intonation=falling,_
+193-4,BO105,193,esatto.,esatto,esatto,ADJ,Intonation=falling,_
 194-0,BO104,194,"oppure,",oppure,oppure,CCONJ,Intonation=weakly_rising,_
 195-0,BO105,195,"oppure,",oppure,oppure,CCONJ,_,_
 195-1,BO105,195,anche,anche,anche,ADV,_,_
@@ -1854,7 +1854,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 206-0,BO104,206,[non],non,non,ADV,_,_
 206-1,BO104,206,so,so,sapere,VERB,_,_
 206-2,BO104,206,se,se,se,SCONJ,_,_
-206-3,BO104,206,l',l',il,PRON,Truncated=Yes,_
+206-3,BO104,206,l',l',lo,PRON,Truncated=Yes,_
 206-4,BO104,206,hai,hai,avere,AUX,_,_
 206-5,BO104,206,"fatto,",fatto,fare,VERB,Intonation=weakly_rising,_
 207-0,BO104,207,language,language,language,ADJ,Lang=en,_
@@ -1920,7 +1920,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 215-0,BO104,215,e::hm,ehm,ehm,INTJ,_,_
 216-0,BO104,216,ad,ad,a,ADP,_,_
 216-1,BO104,216,un,un,uno,DET,_,_
-216-2,BO104,216,certo,certo,certo,ADV,_,_
+216-2,BO104,216,certo,certo,certo,ADJ,_,_
 216-3,BO104,216,"punto,",punto,punto,NOUN,Intonation=weakly_rising,_
 216-4,BO104,216,si,si,si,PRON,_,_
 216-5,BO104,216,parla,parla,parlare,VERB,_,_
@@ -1966,7 +1966,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 224-1,BO104,224,che,che,che,DET,_,_
 224-2,BO104,224,modo,modo,modo,NOUN,_,_
 224-3,BO104,224,diciamo,diciamo,dire,VERB,_,_
-224-4,BO104,224,l',l',l',DET,Truncated=Yes,_
+224-4,BO104,224,l',l',il,DET,Truncated=Yes,_
 224-5,BO104,224,"insegnante,",insegnante,insegnante,NOUN,Intonation=weakly_rising,_
 224-6,BO104,224,può,può,potere,AUX,_,_
 224-7,BO104,224,tenere,tenere,tenere,VERB,_,_
@@ -2121,8 +2121,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 235-10,BO104,235,questi:,questi,questo,DET,_,_
 235-11,BO104,235,[fattori,fattori,fattore,NOUN,_,_
 235-12,BO104,235,"interni,",interni,interno,ADJ,Intonation=weakly_rising,_
-235-13,BO104,235,sì,sì,sì,INTJ,_,_
-235-14,BO104,235,sì],sì,sì,INTJ,_,_
+235-13,BO104,235,sì,sì,sì,ADV,_,_
+235-14,BO104,235,sì],sì,sì,ADV,_,_
 236-0,BO105,236,[ah,ah,ah,INTJ,_,_
 236-1,BO105,236,okay,okay,okay,INTJ,_,_
 236-2,BO105,236,okay.,okay,okay,INTJ,Intonation=falling,_
@@ -2312,7 +2312,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 254-0a,_,_,_,di,di,ADP,_,_
 254-0b,_,_,_,le,il,DET,_,_
 254-1,BO105,254,(.),(.),PAUSE,NVB,_,_
-254-2,BO105,254,esatto.,esatto,esatto,ADV,Intonation=falling,_
+254-2,BO105,254,esatto.,esatto,esatto,ADJ,Intonation=falling,_
 254-3,BO105,254,del,del,di+il,ADP+DET,_,_
 254-3a,_,_,_,di,di,ADP,_,_
 254-3b,_,_,_,il,il,DET,_,_
@@ -3200,7 +3200,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 356-13,BO105,356,presenza,presenza,presenza,NOUN,_,_
 356-14,BO105,356,(.),(.),PAUSE,NVB,_,_
 356-15,BO105,356,aiuta,aiuta,aiutare,VERB,_,_
-356-16,BO105,356,gli,gli,gli,DET,_,_
+356-16,BO105,356,gli,gli,il,DET,_,_
 356-17,BO105,356,studenti.,studenti,studente,NOUN,Intonation=falling,_
 356-18,BO105,356,o,o,o,CCONJ,_,_
 356-19,BO105,356,li:,li,li,PRON,_,_
@@ -3569,7 +3569,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 390-5,BO105,390,sì,sì,sì,ADV,_,_
 390-6,BO105,390,sì].,sì,sì,ADV,Intonation=falling,_
 390-7,BO105,390,"[sicuramente],",sicuramente,sicuramente,ADV,Intonation=weakly_rising,_
-391-0,BO105,391,certo.,certo,certo,ADV,Intonation=falling,_
+391-0,BO105,391,certo.,certo,certo,ADJ,Intonation=falling,_
 391-1,BO105,391,però,però,però,ADV,_,_
 391-2,BO105,391,(.),(.),PAUSE,NVB,_,_
 391-3,BO105,391,magari,magari,magari,ADV,_,_
@@ -4007,7 +4007,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 438-3,BO105,438,"foglio::,",foglio,foglio,NOUN,Intonation=weakly_rising,_
 439-0,BO104,439,"no,",no,no,ADV,Intonation=weakly_rising,_
 439-1,BO104,439,perché,perché,perché,SCONJ,_,_
-439-2,BO104,439,le,le,il,PRON,_,_
+439-2,BO104,439,le,le,le,PRON,_,_
 439-3,BO104,439,mando,mando,mandare,VERB,_,_
 439-4,BO104,439,una,una,uno,DET,_,_
 439-5,BO104,439,"mail,",mail,mail,NOUN,Intonation=weakly_rising,_

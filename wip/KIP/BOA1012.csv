@@ -98,7 +98,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 21-2,BO042,21,21,3,già,già,già,ADV,_,_
 21-3,BO042,21,21,4,iscritta,iscritta,iscrivere,VERB,_,_
 21-4,BO042,21,21,5,(.),(.),PAUSE,NVB,_,_
-21-5,BO042,21,21,6,esa]tto.,esatto,esatto,ADV,_,_
+21-5,BO042,21,21,6,esa]tto.,esatto,esatto,ADJ,_,_
 22-0,BO026,22,22,1,[e::],e,e,CCONJ,_,_
 23-0,BO042,23,23,1,[anche,anche,anche,ADV,_,_
 23-1,BO042,23,23,2,a,a,a,ADP,_,_
@@ -190,7 +190,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 33-2,BO042,33,33,3,solo,solo,solo,ADV,_,_
 33-3,BO042,33,33,4,quello,quello,quello,PRON,_,_
 33-4,BO042,33,33,5,aperto,aperto,aperto,ADJ,_,_
-33-5,BO042,33,33,6,giu[sto]?,giusto,giusto,ADV,_,_
+33-5,BO042,33,33,6,giu[sto]?,giusto,giusto,ADJ,_,_
 34-0,BO026,34,34,1,[sì].,sì,sì,ADV,_,_
 35-0,BO026,35,35,1,sì.,sì,sì,ADV,_,_
 36-0,BO042,36,36,1,e::h,eh,eh,INTJ,_,_
@@ -248,7 +248,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 42-7,BO026,42,42,8,il,il,il,DET,_,_
 42-8,BO026,42,42,9,suo,suo,suo,ADJ,_,_
 42-9,BO026,42,42,10,nome:,nome,nome,NOUN,_,_
-43-0,BO042,43,43,1,[certo].,certo,certo,ADV,_,_
+43-0,BO042,43,43,1,[certo].,certo,certo,ADJ,_,_
 44-0,BO042,44,44,1,"<q[uindi]>,",quindi,quindi,CCONJ,_,_
 45-0,BO026,45,45,1,[se,se,se,SCONJ,_,_
 45-1,BO026,45,45,2,pro]prio,proprio,proprio,ADV,_,_
@@ -299,7 +299,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 51-3,BO026,51,51,4,oltre::,oltre,oltre,ADP,_,_
 51-4,BO026,51,51,5,luglio,luglio,luglio,NOUN,_,_
 51-5,BO026,51,51,6,eh.,eh,eh,INTJ,_,_
-52-0,BO042,52,52,1,certo,certo,certo,ADV,_,_
+52-0,BO042,52,52,1,certo,certo,certo,ADJ,_,_
 52-1,BO042,52,52,2,no,no,no,ADV,_,_
 52-2,BO042,52,52,3,ma,ma,ma,CCONJ,_,_
 52-3,BO042,52,52,4,io,io,io,PRON,_,_
@@ -377,7 +377,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 61-5,BO026,61,61,6,q[uando,quando,quando,SCONJ,_,_
 61-6,BO026,61,61,7,è],è,essere,AUX,_,_
 61-7,BO026,61,61,8,inserit[a:],inserita,inserire,VERB,_,_
-62-0,BO042,62,62,1,[certo].,certo,certo,ADV,_,_
+62-0,BO042,62,62,1,[certo].,certo,certo,ADJ,_,_
 63-0,BO042,63,63,1,[i]o,io,io,PRON,_,_
 63-1,BO042,63,63,2,so,so,sapere,VERB,_,_
 63-2,BO042,63,63,3,che,che,che,SCONJ,_,_
@@ -484,7 +484,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 77-1,BO026,77,77,2,non,non,non,ADV,_,_
 77-2,BO026,77,77,3,il,il,il,DET,_,_
 77-3,BO026,77,77,4,dodici.,dodici,dodici,NUM,_,_
-78-0,BO042,78,78,1,esatto.,esatto,esatto,ADV,_,_
+78-0,BO042,78,78,1,esatto.,esatto,esatto,ADJ,_,_
 79-0,BO042,79,79,1,luglio.,luglio,luglio,NOUN,_,_
 80-0,BO026,80,80,1,comunque,comunque,comunque,ADV,_,_
 80-1,BO026,80,80,2,lei,lei,lei,PRON,_,_
@@ -494,7 +494,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 80-4a,_,_,80,5,_,in,in,ADP,_,_
 80-4b,_,_,80,6,_,le,il,DET,_,_
 80-5,BO026,80,80,7,liste.,liste,lista,NOUN,_,_
-81-0,BO042,81,81,1,c[erto].,certo,certo,ADV,_,_
+81-0,BO042,81,81,1,c[erto].,certo,certo,ADJ,_,_
 82-0,BO026,82,82,1,[che,che,che,PRON,_,_
 82-1,BO026,82,82,2,sarann]o,saranno,essere,AUX,_,_
 82-2,BO026,82,82,3,online,online,online,ADV,_,_
@@ -529,7 +529,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 87-4,BO026,87,87,5,s[tesso],stesso,stesso,ADJ,_,_
 87-5,BO026,87,87,6,giorno.,giorno,giorno,NOUN,_,_
 88-0,BO042,88,88,1,[sì].,sì,sì,ADV,_,_
-89-0,BO042,89,89,1,certo.,certo,certo,ADV,_,_
+89-0,BO042,89,89,1,certo.,certo,certo,ADJ,_,_
 90-0,BO042,90,90,1,°eh,eh,eh,INTJ,_,_
 90-1,BO042,90,90,2,mh°,mh,mh,INTJ,_,_
 91-0,BO026,91,91,1,a,a,a,ADP,_,_

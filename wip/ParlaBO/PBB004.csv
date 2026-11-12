@@ -510,7 +510,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 97-12,BOR005,97,97,13,dappertutto],dappertutto,dappertutto,ADV,_,_
 98-0,BOI013,98,98,1,[in,in,in,ADP,_,_
 98-1,BOI013,98,98,2,ge:~,ge~,x,X,_,_
-98-2,BOI013,98,98,3,no,no,no,INTJ,_,_
+98-2,BOI013,98,98,3,no,no,no,ADV,_,_
 98-3,BOI013,98,98,4,e:]::h,eh,eh,INTJ,_,_
 98-4,BOI013,98,98,5,in,in,in,ADP,_,_
 98-5,BOI013,98,98,6,determinate,determinate,determinato,DET,_,_
@@ -579,7 +579,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 109-2,BOI012,109,109,_,(.),(.),PAUSE,NVB,_,_
 109-3,BOI012,109,109,7,_,c',ci,PRON,_,SpaceAfter=No
 109-4,BOI012,109,109,8,_,entra,entrare,VERB,_,_
-110-0,BOI013,110,110,1,no:,no,no,INTJ,_,_
+110-0,BOI013,110,110,1,no:,no,no,ADV,_,_
 110-1,BOI013,110,110,2,la:,la,il,DET,_,_
 110-2,BOI013,110,110,3,gente,gente,gente,NOUN,_,_
 110-3,BOI013,110,110,4,ha,ha,avere,VERB,_,_
@@ -669,7 +669,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 126-3,BOI013,126,126,4,casa,casa,casa,NOUN,_,_
 126-4,BOI013,126,126,5,senza,senza,senza,ADP,_,_
 126-5,BOI013,126,126,6,problemi,problemi,problema,NOUN,_,_
-127-0,BOI012,127,127,1,sì,sì,sì,INTJ,_,_
+127-0,BOI012,127,127,1,sì,sì,sì,ADV,_,_
 127-1,BOI012,127,127,_,(.),(.),PAUSE,NVB,_,_
 127-2,BOI012,127,127,3,poi,poi,poi,ADV,_,_
 127-3,BOI012,127,127,4,hanno,hanno,avere,AUX,_,_
@@ -1142,7 +1142,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 206-14,BOI012,206,206,15,abit]ata,abitata,abitare,VERB,_,_
 206-15,BOI012,206,206,16,di,di,di,ADP,_,_
 206-16,BOI012,206,206,17,"fatto,",fatto,fatto,NOUN,_,_
-207-0,BOI013,207,207,1,[°certo°],certo,certo,ADV,_,_
+207-0,BOI013,207,207,1,[°certo°],certo,certo,ADJ,_,_
 208-0,BOI012,208,208,1,come,come,come,ADV,_,_
 208-1,BOI012,208,208,2,fai,fai,fare,VERB,_,_
 208-2,BOI012,208,208,3,a,a,a,ADP,_,_
@@ -1268,8 +1268,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 232-1,BOI012,232,232,2,beh<,beh,beh,INTJ,_,_
 232-2,BOI012,232,232,3,sicu:ro,sicuro,sicuro,ADJ,_,_
 232-3,BOI012,232,232,4,beh,beh,beh,INTJ,_,_
-232-4,BOI012,232,232,5,certo,certo,certo,ADV,_,_
-233-0,BOI012,233,233,6,certo,certo,certo,ADV,_,_
+232-4,BOI012,232,232,5,certo,certo,certo,ADJ,_,_
+233-0,BOI012,233,233,6,certo,certo,certo,ADJ,_,_
 234-0,BOR005,234,234,1,mh,mh,mh,INTJ,_,_
 235-0,BOR005,235,235,2,e,e,e,CCONJ,_,_
 236-0,BOR005,236,236,3,m::h,mh,mh,INTJ,_,_
@@ -1810,7 +1810,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 315-8,BOI012,315,315,16,centro<,centro,centro,NOUN,_,_
 315-9,BOI012,315,315,17,storico],storico,storico,ADJ,_,_
 315-10,BOI012,315,315,18,"indipendenza,",indipendenza,Indipendenza,PROPN,_,_
-315-11,BOI012,315,315,19,esatto,esatto,esatto,ADV,_,_
+315-11,BOI012,315,315,19,esatto,esatto,esatto,ADJ,_,_
 316-0,BOI013,316,316,1,[via,via,via,NOUN,_,_
 316-1,BOI013,316,316,2,"indipendenza],",indipendenza,Indipendenza,PROPN,_,_
 317-0,BOR005,317,317,1,anche,anche,anche,ADV,_,_
@@ -1884,7 +1884,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 336-5,BOR005,336,336,6,sono,sono,essere,AUX,_,_
 336-6,BOR005,336,336,7,diventati::,diventati,diventare,VERB,_,_
 336-7,BOR005,336,336,8,[patrimonio:],patrimonio,patrimonio,NOUN,_,_
-336-8,BOR005,336,336,9,esatto,esatto,esatto,ADV,_,_
+336-8,BOR005,336,336,9,esatto,esatto,esatto,ADJ,_,_
 336-9,BOR005,336,336,_,(.),(.),PAUSE,NVB,_,_
 336-10,BOR005,336,336,11,patrimonio,patrimonio,patrimonio,NOUN,_,_
 336-11,BOR005,336,336,12-13,dell',dell',di+il,ADP+DET,_,_
@@ -4014,7 +4014,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 713-0,BOI013,713,713,1,che,che,che,SCONJ,_,_
 713-1,BOI013,713,713,2,essendo,essendo,essere,AUX,_,_
 713-2,BOI013,713,713,3,un',un',uno,DET,_,SpaceAfter=No
-713-3,BOI013,713,713,4,erressea,erressea,rsa,NOUN,_,_
+713-3,BOI013,713,713,4,erressea,erressea,RSA,NOUN,_,_
 713-4,BOI013,713,713,5,noi,noi,noi,PRON,_,_
 713-5,BOI013,713,713,6,dobbiamo,dobbiamo,dovere,AUX,_,_
 713-6,BOI013,713,713,7,prendere,prendere,prendere,VERB,_,_
@@ -4226,7 +4226,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 752-0,BOI013,752,752,1,[sì],sì,sì,ADV,_,_
 753-0,BOI013,753,753,1,[per,per,per,ADP,_,_
 753-1,BOI013,753,753,2,me,me,me,PRON,_,_
-753-2,BOI013,753,753,3,sì],sì,sì,INTJ,_,_
+753-2,BOI013,753,753,3,sì],sì,sì,ADV,_,_
 754-0,BOI012,754,754,1,non,non,non,ADV,_,_
 754-1,BOI012,754,754,2,lo,lo,lo,PRON,_,_
 754-2,BOI012,754,754,3,so,so,sapere,VERB,_,_
@@ -4671,7 +4671,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 820-1,BOI012,820,820,3,mi,mi,mi,PRON,_,_
 820-2,BOI012,820,820,4,devo,devo,dovere,AUX,_,_
 820-3,BOI012,820,820,5,laureare,laureare,laureare,VERB,_,_
-821-0,BOI012,821,821,6,i:,i,i,ADJ,_,_
+821-0,BOI012,821,821,6,i~,i~,in,ADP,_,_
 821-1,BOI012,821,821,7,in,in,in,ADP,_,_
 821-2,BOI012,821,821,8,in,in,in,ADP,_,_
 821-3,BOI012,821,821,9,meccanica,meccanica,meccanica,NOUN,_,_
@@ -4753,7 +4753,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 830-6b,_,_,830,8,_,l',il,DET,_,_
 830-7,BOR005,830,830,9,estero,estero,estero,NOUN,_,_
 831-0,BOI012,831,831,1,[eh],eh,eh,INTJ,_,_
-832-0,BOI012,832,832,1,no,no,no,INTJ,_,_
+832-0,BOI012,832,832,1,no,no,no,ADV,_,_
 833-0,BOI012,833,833,2,onestamente,onestamente,onestamente,ADV,_,_
 833-1,BOI012,833,833,3,no,no,no,ADV,_,_
 833-2,BOI012,833,833,4,io,io,io,PRON,_,_
@@ -4824,7 +4824,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 847-3,BOI013,847,847,4,d[i,di,di,ADP,_,_
 847-4,BOI013,847,847,5,mia,mia,mio,DET,_,_
 847-5,BOI013,847,847,6,volontà,volontà,volontà,NOUN,_,_
-847-6,BOI013,847,847,7,no],no,no,INTJ,_,_
+847-6,BOI013,847,847,7,no],no,no,ADV,_,_
 848-0,BOI012,848,848,1,[perché,perché,perché,SCONJ,_,_
 848-1,BOI012,848,848,2,eri,eri,essere,AUX,_,_
 848-2,BOI012,848,848,3,piccoli~,piccoli~,piccolina,ADJ,_,_
@@ -5315,7 +5315,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 931-2,BOI013,931,931,3,okay,okay,okay,INTJ,_,_
 931-3,BOI013,931,931,4,di,di,di,ADP,_,_
 931-4,BOI013,931,931,5,sera,sera,sera,NOUN,_,_
-931-5,BOI013,931,931,6,no,no,no,INTJ,_,_
+931-5,BOI013,931,931,6,no,no,no,ADV,_,_
 931-6,BOI013,931,931,7,mi,mi,mi,PRON,_,_
 931-7,BOI013,931,931,8,guardo::,guardo,guardare,VERB,_,_
 931-8,BOI013,931,931,9,>ormai,ormai,ormai,ADV,_,_
@@ -5429,9 +5429,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 953-14,BOR005,953,953,15,calcio,calcio,calcio,NOUN,_,_
 953-15,BOR005,953,953,16,seguite,seguite,seguire,VERB,_,_
 953-16,BOR005,953,953,17,qualcuna?,qualcuna,qualcuno,PRON,_,_
-954-0,BOI012,954,954,1,no,no,no,INTJ,_,_
+954-0,BOI012,954,954,1,no,no,no,ADV,_,_
 954-1,BOI012,954,954,_,(.),(.),PAUSE,NVB,_,_
-954-2,BOI012,954,954,3,sì:,sì,sì,INTJ,_,_
+954-2,BOI012,954,954,3,sì:,sì,sì,ADV,_,_
 954-3,BOI012,954,954,_,(.),(.),PAUSE,NVB,_,_
 954-4,BOI012,954,954,5,no,no,no,ADV,_,_
 955-0,BOI012,955,955,1-2,allo,allo,a+il,ADP+DET,_,_
@@ -5531,8 +5531,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 969-0,BOR005,969,969,1,abbonamento?,abbonamento,abbonamento,NOUN,_,_
 970-0,BOI013,970,970,1,NO::,no,no,ADV,_,_
 970-1,BOI013,970,970,2,anda:~,anda~,x,X,_,_
-970-2,BOI013,970,970,3,no::,no,no,INTJ,_,_
-970-3,BOI013,970,970,4,no,no,no,INTJ,_,_
+970-2,BOI013,970,970,3,no::,no,no,ADV,_,_
+970-3,BOI013,970,970,4,no,no,no,ADV,_,_
 970-4,BOI013,970,970,5,però,però,però,ADV,_,_
 970-5,BOI013,970,970,6,andavamo,andavamo,andare,VERB,_,_
 970-6,BOI013,970,970,7,anche,anche,anche,ADV,_,_
@@ -6212,8 +6212,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1109-3,BOR005,1109,1109,4,ancora,ancora,ancora,ADV,_,_
 1109-4,BOR005,1109,1109,5,questi,questi,questo,DET,_,_
 1109-5,BOR005,1109,1109,6,posti?,posti,posto,NOUN,_,_
-1110-0,BOI012,1110,1110,1,no,no,no,INTJ,_,_
-1111-0,BOI013,1111,1111,1,no,no,no,INTJ,_,_
+1110-0,BOI012,1110,1110,1,no,no,no,ADV,_,_
+1111-0,BOI013,1111,1111,1,no,no,no,ADV,_,_
 1112-0,BOI012,1112,1112,1,>il,il,il,DET,_,_
 1112-1,BOI012,1112,1112,2,living,living,Living,PROPN,_,_
 1112-2,BOI012,1112,1112,3,non,non,non,ADV,_,_

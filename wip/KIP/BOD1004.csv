@@ -36,7 +36,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1-13,BO093,1,1,17,corso,corso,corso,NOUN,_,_
 1-14,BO093,1,1,18,da,da,da,ADP,_,_
 1-15,BO093,1,1,19,sei,sei,sei,NUM,_,_
-1-16,BO093,1,1,20,"cfu,",cfu,cfu,NOUN,_,_
+1-16,BO093,1,1,20,"cfu,",cfu,CFU,NOUN,_,_
 2-0,BO093,2,2,1,a::,a,a,ADP,_,_
 2-1,BO093,2,2,2,giovedì,giovedì,giovedì,NOUN,_,_
 2-2,BO093,2,2,3,e,e,e,CCONJ,_,_
@@ -45,7 +45,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 2-4a,_,_,2,5,_,da,da,ADP,_,_
 2-4b,_,_,2,6,_,le,il,DET,_,_
 2-5,BO093,2,2,7,nov~,nov~,nove,NUM,_,_
-2-6,BO093,2,2,8,no,no,no,INTJ,_,_
+2-6,BO093,2,2,8,no,no,no,ADV,_,_
 2-7,BO093,2,2,9,non,non,non,ADV,_,_
 2-8,BO093,2,2,10,è,è,essere,AUX,_,_
 2-9,BO093,2,2,11,vero,vero,vero,ADJ,_,_
@@ -4386,7 +4386,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 376-2,???,376,376,3,necrosi,necrosi,necrosi,NOUN,_,_
 376-3,???,376,376,4,programma[ta],programmata,programmato,ADJ,_,_
 377-0,BO093,377,377,1,[x]xxxx,xxxxx,x,X,_,_
-377-1,BO093,377,377,2,sì,sì,sì,INTJ,_,_
+377-1,BO093,377,377,2,sì,sì,sì,ADV,_,_
 378-0,???,378,378,1,quella,quella,quello,PRON,_,_
 378-1,???,378,378,2,lì,lì,lì,ADV,_,_
 378-2,???,378,378,3,esiste,esiste,esistere,VERB,_,_
@@ -4395,8 +4395,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 378-5,???,378,378,6,una,una,uno,DET,_,_
 378-6,???,378,378,7,condizione,condizione,condizione,NOUN,_,_
 378-7,???,378,378,8,patologica,patologica,patologico,ADJ,_,_
-379-0,BO093,379,379,1,no,no,no,INTJ,_,_
-379-1,BO093,379,379,2,no,no,no,INTJ,_,_
+379-0,BO093,379,379,1,no,no,no,ADV,_,_
+379-1,BO093,379,379,2,no,no,no,ADV,_,_
 379-2,BO093,379,379,3,è,è,essere,AUX,_,_
 379-3,BO093,379,379,4,anche,anche,anche,ADV,_,_
 379-4,BO093,379,379,5,fisiologica,fisiologica,fisiologico,ADJ,_,_
@@ -4535,7 +4535,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 390-18,BO093,390,390,19,l',l',il,DET,_,_
 390-19,BO093,390,390,20,apoptosi,apoptosi,apoptosi,NOUN,_,_
 390-20,BO093,390,390,21,evidentemente,evidentemente,evidentemente,ADV,_,_
-390-21,BO093,390,390,22,no.,no,no,INTJ,_,_
+390-21,BO093,390,390,22,no.,no,no,ADV,_,_
 390-22,BO093,390,390,23,>diciamo<,diciamo,dire,VERB,_,_
 390-23,BO093,390,390,24,sono,sono,essere,AUX,_,_
 390-24,BO093,390,390,25-26,dei,dei,di+il,ADP+DET,_,_
@@ -5485,7 +5485,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 442-0,BO093,442,442,1,allora,allora,allora,ADV,_,_
 443-0,BO093,443,443,1,qualcuno,qualcuno,qualcuno,PRON,_,_
 443-1,BO093,443,443,2,(.),(.),PAUSE,NVB,_,_
-443-2,BO093,443,443,3,no,no,no,INTJ,_,_
+443-2,BO093,443,443,3,no,no,no,ADV,_,_
 444-0,BO093,444,444,1,e::hm,ehm,ehm,INTJ,_,_
 444-1,BO093,444,444,2,l',l',il,DET,_,_
 444-2,BO093,444,444,3,ultimo,ultimo,ultimo,ADJ,_,_

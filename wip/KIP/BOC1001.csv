@@ -50,7 +50,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 4-25,BO087,4,4,26,lei,lei,lei,PRON,_,_
 4-26,BO087,4,4,27,è,è,essere,AUX,_,_
 4-27,BO087,4,4,28,bolognese?,bolognese,bolognese,ADJ,_,_
-5-0,BO088,5,5,1,[esatto].,esatto,esatto,ADV,_,_
+5-0,BO088,5,5,1,[esatto].,esatto,esatto,ADJ,_,_
 6-0,BO088,6,6,1,"sì,",sì,sì,ADV,_,_
 6-1,BO088,6,6,2,di,di,di,ADP,_,_
 6-2,BO088,6,6,3,xxx,xxx,x,X,_,_
@@ -122,7 +122,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 14-7,BO087,14,14,8,religiosa,religiosa,religioso,ADJ,_,_
 14-8,BO087,14,14,9,"xx,°",xx,x,X,_,_
 14-9,BO087,14,14,10,[no]?,no,no,ADV,_,_
-15-0,BO088,15,15,1,[esa]tto.,esatto,esatto,ADV,_,_
+15-0,BO088,15,15,1,[esa]tto.,esatto,esatto,ADJ,_,_
 16-0,BO088,16,16,1,ehm:,ehm,ehm,INTJ,_,_
 16-1,BO088,16,16,2,"intanto,",intanto,intanto,ADV,_,_
 16-2,BO088,16,16,3,la,la,il,DET,_,_
@@ -291,7 +291,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 31-6,BO088,31,31,7,[san,san,santo,NOUN,_,_
 31-7,BO088,31,31,8,benedetto,benedetto,Benedetto,PROPN,_,_
 31-8,BO088,31,31,9,(.),(.),PAUSE,NVB,_,_
-31-9,BO088,31,31,10,esatto].,esatto,esatto,ADV,_,_
+31-9,BO088,31,31,10,esatto].,esatto,esatto,ADJ,_,_
 32-0,BO087,32,32,1-2,[dal,dal,da+il,ADP+DET,_,_
 32-0a,_,_,32,1,_,da,da,ADP,_,_
 32-0b,_,_,32,2,_,il,il,DET,_,_
@@ -579,7 +579,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 63-1,BO088,63,63,2,roma?,roma,Roma,PROPN,_,_
 64-0,BO087,64,64,1,a,a,a,ADP,_,_
 64-1,BO087,64,64,2,"roma,",roma,Roma,PROPN,_,_
-64-2,BO087,64,64,3,esatto.,esatto,esatto,ADV,_,_
+64-2,BO087,64,64,3,esatto.,esatto,esatto,ADJ,_,_
 65-0,BO088,65,65,1,e:hm:,ehm,ehm,INTJ,_,_
 65-1,BO088,65,65,2,tra:,tra,tra,ADP,_,_
 65-2,BO088,65,65,3,la:,la,il,DET,_,_
@@ -594,7 +594,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 65-11,BO088,65,65,12,(.),(.),PAUSE,NVB,_,_
 65-12,BO088,65,65,13,[vaticana].,vaticana,vaticano,ADJ,_,_
 66-0,BO087,66,66,1,"[vaticana],",vaticana,vaticano,ADJ,_,_
-66-1,BO087,66,66,2,°perfetto°,perfetto,perfetto,ADV,_,_
+66-1,BO087,66,66,2,°perfetto°,perfetto,perfetto,ADJ,_,_
 66-2,,,,,(.),(.),PAUSE,NVB,_,_
 66-3,BO087,66,66,3,e::h,eh,eh,INTJ,_,_
 66-4,BO087,66,66,4,oggi,oggi,oggi,ADV,_,_
@@ -729,7 +729,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 85-16a,_,_,85,17,_,di,di,ADP,_,_
 85-16b,_,_,85,18,_,la,il,DET,_,_
 85-17,BO088,85,85,19,"musica,",musica,musica,NOUN,_,_
-86-0,BO088,86,86,1,"esatto,",esatto,esatto,ADV,_,_
+86-0,BO088,86,86,1,"esatto,",esatto,esatto,ADJ,_,_
 86-1,BO088,86,86,2,questi,questi,questo,DET,_,_
 86-2,BO088,86,86,3,"segni,",segni,segno,NOUN,_,_
 86-3,BO088,86,86,4,eh,eh,eh,INTJ,_,_
@@ -1222,7 +1222,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 140-4,BO088,140,140,5,[le,le,il,DET,_,_
 140-5,BO088,140,140,6,norme,norme,norma,NOUN,_,_
 140-6,BO088,140,140,7,(.),(.),PAUSE,NVB,_,_
-140-7,BO088,140,140,8,esatto,esatto,esatto,ADV,_,_
+140-7,BO088,140,140,8,esatto,esatto,esatto,ADJ,_,_
 140-8,BO088,140,140,9,i,i,il,DET,_,_
 140-9,BO088,140,140,10,compiti,compiti,compito,NOUN,_,_
 140-10,BO088,140,140,11-12,del,del,di+il,ADP+DET,_,_
@@ -1246,7 +1246,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 142-6,BO087,142,142,8,biblioteche,biblioteche,biblioteca,NOUN,_,_
 142-7,BO087,142,142,9,si,si,si,PRON,_,_
 142-8,BO087,142,142,10,"off[riva:no],",offrivano,offrire,VERB,_,_
-143-0,BO088,143,143,1,[esatto].,esatto,esatto,ADV,_,_
+143-0,BO088,143,143,1,[esatto].,esatto,esatto,ADJ,_,_
 144-0,BO087,144,144,1,di,di,di,ADP,_,_
 144-1,BO087,144,144,2,tutta,tutta,tutto,DET,_,_
 144-2,BO087,144,144,3,la,la,il,DET,_,_
@@ -1271,7 +1271,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 144-20a,_,_,144,21,_,di,di,ADP,_,_
 144-20b,_,_,144,22,_,le,il,DET,_,_
 144-21,BO087,144,144,23,biblioteche.,biblioteche,biblioteca,NOUN,_,_
-145-0,BO088,145,145,1,esatto.,esatto,esatto,ADV,_,_
+145-0,BO088,145,145,1,esatto.,esatto,esatto,ADJ,_,_
 146-0,BO088,146,146,1,e::hm,ehm,ehm,INTJ,_,_
 146-1,BO088,146,146,2,(.),(.),PAUSE,NVB,_,_
 146-2,BO088,146,146,3,e,e,e,CCONJ,_,_
@@ -1320,7 +1320,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 148-12,BO087,148,148,18,età,età,età,NOUN,_,_
 148-13,BO087,148,148,19,nonantolana,nonantolana,nonantolano,ADJ,_,_
 148-14,BO087,148,148,20,no?,no,no,ADV,_,_
-149-0,BO088,149,149,1,[esatto].,esatto,esatto,ADV,_,_
+149-0,BO088,149,149,1,[esatto].,esatto,esatto,ADJ,_,_
 150-0,BO087,150,150,1,e::hm,ehm,ehm,INTJ,_,_
 150-1,BO087,150,150,2,e,e,e,CCONJ,_,_
 150-2,BO087,150,150,3,quindi,quindi,quindi,ADV,_,_
@@ -1335,7 +1335,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 150-11,BO087,150,150,13,ragguardevoli,ragguardevoli,ragguardevole,ADJ,_,_
 150-12,BO087,150,150,14,no?,no,no,ADV,_,_
 151-0,BO088,151,151,1,"[e::::],",e,e,CCONJ,_,_
-152-0,BO088,152,152,1,esatto.,esatto,esatto,ADV,_,_
+152-0,BO088,152,152,1,esatto.,esatto,esatto,ADJ,_,_
 153-0,BO088,153,153,1,e::hm:,ehm,ehm,INTJ,_,_
 154-0,BO088,154,154,1,per,per,per,ADP,_,_
 154-1,BO088,154,154,2,quanto,quanto,quanto,PRON,_,_
@@ -1485,7 +1485,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 170-23a,_,_,170,24,_,da,da,ADP,_,_
 170-23b,_,_,170,25,_,le,il,DET,_,_
 170-24,BO087,170,170,26,rego]le,regole,regola,NOUN,_,_
-171-0,BO088,171,171,1,[esatto].,esatto,esatto,ADV,_,_
+171-0,BO088,171,171,1,[esatto].,esatto,esatto,ADJ,_,_
 172-0,BO087,172,172,1,xx,xx,x,X,_,_
 172-1,BO087,172,172,2,[xxx]x,xxxx,x,X,_,_
 173-0,BO088,173,173,1,[xxxx],xxxx,x,X,_,_
@@ -1585,7 +1585,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 186-11,BO087,186,186,12,cataloghi,cataloghi,catalogo,NOUN,_,_
 186-12,BO087,186,186,13,a,a,a,ADP,_,_
 186-13,BO087,186,186,14,stampa?,stampa,stampa,NOUN,_,_
-187-0,BO088,187,187,1,[esatto].,esatto,esatto,ADV,_,_
+187-0,BO088,187,187,1,[esatto].,esatto,esatto,ADJ,_,_
 188-0,BO088,188,188,1,"m:::h,",mh,mh,INTJ,_,_
 188-1,BO088,188,188,2,(.),(.),PAUSE,NVB,_,_
 188-2,BO088,188,188,3,"allora,",allora,allora,ADV,_,_
@@ -1692,7 +1692,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 198-12,BO087,198,198,13,di,di,di,ADP,_,_
 198-13,BO087,198,198,14,asta.,asta,asta,NOUN,_,_
 199-0,BO088,199,199,1,[sì].,sì,sì,ADV,_,_
-200-0,BO088,200,200,1,esatto,esatto,esatto,ADV,_,_
+200-0,BO088,200,200,1,esatto,esatto,esatto,ADJ,_,_
 200-1,BO088,200,200,2,"sì,",sì,sì,ADV,_,_
 200-2,BO088,200,200,3,e::h,eh,eh,INTJ,_,_
 200-3,BO088,200,200,4,successivi,successivi,successivo,ADJ,_,_
@@ -1755,7 +1755,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 203-1,BO087,203,203,2,un,un,uno,DET,_,_
 203-2,BO087,203,203,3,provvedimento,provvedimento,provvedimento,NOUN,_,_
 203-3,BO087,203,203,4,"l[aico],",laico,laico,ADJ,_,_
-204-0,BO088,204,204,1,"[esa]tto,",esatto,esatto,ADV,_,_
+204-0,BO088,204,204,1,"[esa]tto,",esatto,esatto,ADJ,_,_
 204-1,BO088,204,204,2,è,è,essere,AUX,_,_
 204-2,BO088,204,204,3,un,un,uno,DET,_,_
 204-3,BO088,204,204,4,provvedimento,provvedimento,provvedimento,NOUN,_,_
@@ -1836,7 +1836,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 216-7,BO087,216,216,9,°appunto°,appunto,appunto,ADV,_,_
 216-8,BO087,216,216,10,riguarda,riguarda,riguardare,VERB,_,_
 216-9,BO087,216,216,11,"universalmente,",universalmente,universalmente,ADV,_,_
-217-0,BO088,217,217,1,[esatto],esatto,esatto,ADV,_,_
+217-0,BO088,217,217,1,[esatto],esatto,esatto,ADJ,_,_
 218-0,BO087,218,218,1,in,in,in,ADP,_,_
 218-1,BO087,218,218,2,verità,verità,verità,NOUN,_,_
 218-2,BO087,218,218,3,ci,ci,ci,PRON,_,_

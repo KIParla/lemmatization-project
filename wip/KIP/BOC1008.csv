@@ -563,7 +563,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 52-0,BO141,52,52,1,e:,e,e,CCONJ,_,_
 52-1,BO141,52,52,2,e,e,e,CCONJ,_,_
 52-2,BO141,52,52,3,la,la,il,DET,_,_
-52-3,BO141,52,52,4,la,la,la,DET,_,_
+52-3,BO141,52,52,4,la,la,il,DET,_,_
 52-4,BO141,52,52,5,e,e,e,CCONJ,_,_
 52-5,BO141,52,52,6,l',l',il,DET,Truncated=Yes,_
 52-6,BO141,52,52,7,essere,essere,essere,AUX,_,_
@@ -934,7 +934,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 79-1,BO141,79,79,2,in,in,in,ADP,_,_
 79-2,BO141,79,79,3,accordo,accordo,accordo,NOUN,_,_
 79-3,BO141,79,79,4,con,con,con,ADP,_,_
-79-4,BO141,79,79,5,la,la,la,DET,_,_
+79-4,BO141,79,79,5,la,la,il,DET,_,_
 79-5,BO141,79,79,6,con,con,con,ADP,_,_
 79-6,BO141,79,79,7,la,la,il,DET,_,_
 79-7,BO141,79,79,8,valutazione,valutazione,valutazione,NOUN,_,_
@@ -951,7 +951,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 79-16,BO141,79,79,18,ascoltatore,ascoltatore,ascoltatore,NOUN,_,_
 80-0,BO141,80,80,1,quindi,quindi,quindi,ADV,_,_
 80-1,BO141,80,80,2,ehm,ehm,ehm,INTJ,_,_
-81-0,BO141,81,81,1,(no),no,no,INTJ,_,_
+81-0,BO141,81,81,1,(no),no,no,ADV,_,_
 81-1,BO141,81,81,2,p~,p~,per,ADP,Interrupted=Yes,_
 81-2,BO141,81,81,3,p~,p~,per,ADP,Interrupted=Yes,_
 81-3,BO141,81,81,4,p~,p~,per,ADP,Interrupted=Yes,_
@@ -1141,8 +1141,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 94-8,BO141,94,94,9,come,come,come,SCONJ,_,_
 94-9,BO141,94,94,10,dividono,dividono,dividere,VERB,_,_
 94-10,BO141,94,94,11,eh,eh,eh,INTJ,_,_
-94-11,BO141,94,94,12,la,la,la,DET,_,_
-95-0,BO117,95,95,1,no,no,non,ADV,_,_
+94-11,BO141,94,94,12,la,la,il,DET,_,_
+95-0,BO117,95,95,1,no,no,no,ADV,_,_
 95-1,BO117,95,95,2,la,la,il,DET,_,_
 95-2,BO117,95,95,3,faccia,faccia,faccia,NOUN,_,_
 95-3,BO117,95,95,4,non,non,non,ADV,_,_
@@ -1705,7 +1705,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 137-4,BO141,137,137,7,ordine,ordine,ordine,NOUN,_,_
 137-5,BO141,137,137,8,per,per,per,ADP,_,_
 137-6,BO141,137,137,9,esempio,esempio,esempio,NOUN,_,_
-137-7,BO141,137,137,10,"svo,",svo,SVO,NOUN,Intonation=weakly_rising,_
+137-7,BO141,137,137,10,"essevio,",essevio,SVO,NOUN,Intonation=weakly_rising,_
 137-8,BO141,137,137,11,oppure,oppure,oppure,CCONJ,_,_
 137-9,BO141,137,137,12-13,nei,nei,in+il,ADP+DET,_,_
 137-9a,_,_,137,12,_,in,in,ADP,_,_

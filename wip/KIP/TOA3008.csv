@@ -227,7 +227,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 46-1,TO048,46,46,2,augias.,augias,Augias,PROPN,Intonation=falling,_
 47-0,TO050,47,47,1,ma,ma,ma,CCONJ,_,_
 47-1,TO050,47,47,2,tu,tu,tu,PRON,_,_
-47-2,TO050,47,47,3,l',l',il,PRON,Truncated=Yes,_
+47-2,TO050,47,47,3,l',l',lo,PRON,Truncated=Yes,_
 47-3,TO050,47,47,4,hai,hai,avere,AUX,_,_
 47-4,TO050,47,47,5,vist(o),visto,visto,VERB,_,_
 47-5,TO050,47,47,6,marina,marina,Marina,PROPN,_,_
@@ -253,7 +253,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 50-12,TO052,50,50,13,lei,lei,lei,PRON,_,_
 50-13,TO052,50,50,14,la,la,il,DET,_,_
 50-14,TO052,50,50,15,marina,marina,Marina,PROPN,_,_
-50-15,TO052,50,50,16,abra~,abra~,abramovic,PROPN,Interrupted=Yes,_
+50-15,TO052,50,50,16,abra~,abra~,Abramovic,PROPN,Interrupted=Yes,_
 50-16,TO052,50,50,17,<abramovic>,abramovic,Abramovic,PROPN,_,_
 50-17,TO052,50,50,18,non,non,non,ADV,_,_
 50-18,TO052,50,50,19,la,la,la,PRON,_,_
@@ -514,7 +514,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 122-1,TO052,122,122,2,non,non,non,ADV,_,_
 122-2,TO052,122,122,3,ho,ho,avere,VERB,_,_
 122-3,TO052,122,122,4,la,la,il,DET,_,_
-122-4,TO052,122,122,5,la,la,la,DET,_,_
+122-4,TO052,122,122,5,la,la,il,DET,_,_
 122-5,TO052,122,122,6,la,la,il,DET,ProsodicLink=Yes,_
 122-6,TO052,122,122,7,"m::h,",mh,mh,INTJ,Intonation=weakly_rising,_
 123-0,TO052,123,123,1,e,e,e,CCONJ,_,_
@@ -728,8 +728,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 149-10,TO052,149,149,11,aveva,aveva,avere,AUX,_,_
 149-11,TO052,149,149,12,chiesto,chiesto,chiedere,VERB,_,_
 149-12,TO052,149,149,13,volete,volete,volere,VERB,_,_
-149-13,TO052,149,149,14,la,la,la,DET,_,_
-149-14,TO052,149,149,15,la,la,la,DET,_,_
+149-13,TO052,149,149,14,la,la,il,DET,_,_
+149-14,TO052,149,149,15,la,la,il,DET,_,_
 149-15,TO052,149,149,16,la,la,il,DET,_,_
 149-16,TO052,149,149,17,stanza,stanza,stanza,NOUN,_,_
 149-17,TO052,149,149,18-19,al,al,a+il,ADP+DET,_,_
@@ -826,7 +826,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 161-4,TO052,161,161,5,io.,io,io,PRON,Intonation=falling,_
 162-0,TO048,162,162,1,il,il,il,DET,_,_
 162-1,TO048,162,162,2,convegno?,convegno,convegno,NOUN,Intonation=rising,_
-163-0,TO052,163,163,1,ce[rto].,certo,certo,ADV,Intonation=falling,_
+163-0,TO052,163,163,1,ce[rto].,certo,certo,ADJ,Intonation=falling,_
 164-0,TO048,164,164,1,[non,non,non,ADV,_,_
 164-1,TO048,164,164,2,t]e,te,te,PRON,_,_
 164-2,TO048,164,164,3,lo,lo,lo,PRON,_,_
@@ -1755,7 +1755,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 279-9,TO052,279,279,10,loro.,loro,loro,PRON,Intonation=falling,_
 280-0,TO052,280,280,1,°i,i,il,DET,Volume=low,_
 280-1,TO052,280,280,2,dottorandi,dottorandi,dottorando,NOUN,Volume=low,_
-280-2,TO052,280,280,3,sì.°,sì,sì,INTJ,Intonation=falling|Volume=low,_
+280-2,TO052,280,280,3,sì.°,sì,sì,ADV,Intonation=falling|Volume=low,_
 281-0,TO052,281,281,1,e,e,e,CCONJ,_,_
 281-1,TO052,281,281,2,e:,e,e,CCONJ,_,_
 281-2,TO052,281,281,3,e::h,eh,eh,INTJ,ProsodicLink=Yes,_
@@ -1854,7 +1854,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 302-0,TO050,302,302,1,va,va,andare,VERB,_,_
 302-1,TO050,302,302,2,bene,bene,bene,ADV,_,_
 302-2,TO050,302,302,3,così.,così,così,ADV,Intonation=falling,_
-303-0,TO048,303,303,1,certo,certo,certo,ADV,_,_
+303-0,TO048,303,303,1,certo,certo,certo,ADJ,_,_
 303-1,TO048,303,303,2,che,che,che,SCONJ,_,_
 303-2,TO048,303,303,3,va,va,andare,VERB,_,_
 303-3,TO048,303,303,4,bene,bene,bene,ADV,_,_
@@ -1865,7 +1865,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 305-2,TO052,305,305,3,"praticamente,",praticamente,praticamente,ADV,Intonation=weakly_rising,_
 306-0,TO052,306,306,1,figure,figure,figura,NOUN,_,_
 306-1,TO052,306,306,2,"di,",di,di,ADP,Intonation=weakly_rising,_
-307-0,TO048,307,307,1,certo.,certo,certo,ADV,Intonation=falling,_
+307-0,TO048,307,307,1,certo.,certo,certo,ADJ,Intonation=falling,_
 308-0,TO050,308,308,1,xxxxxxxxxx,xxxxxxxxxx,x,X,_,_
 309-0,TO048,309,309,1,aspetta,aspetta,aspettare,VERB,_,_
 309-1,TO048,309,309,2,deve,deve,dovere,AUX,_,_
@@ -2419,7 +2419,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 402-6,TO052,402,402,7,ero,ero,essere,AUX,_,_
 402-7,TO052,402,402,8,convinto,convinto,convinto,VERB,_,_
 402-8,TO052,402,402,9,che,che,che,SCONJ,_,_
-402-9,TO052,402,402,10,l',l',lo,DET,Truncated=Yes,_
+402-9,TO052,402,402,10,l',l',il,DET,Truncated=Yes,_
 402-10,TO052,402,402,11,avevo,avevo,avere,AUX,_,_
 402-11,TO052,402,402,12,fatto,fatto,fare,VERB,_,_
 402-12,TO052,402,402,13,per,per,per,ADP,_,_
@@ -3349,7 +3349,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 520-3,TO048,520,520,4,che,che,che,SCONJ,_,_
 520-4,TO048,520,520,5,(.),(.),PAUSE,NVB,_,_
 520-5,TO048,520,520,6,come,come,come,ADP,_,_
-520-6,TO048,520,520,7,le,le,il,PRON,_,_
+520-6,TO048,520,520,7,le,le,le,PRON,_,_
 520-7,TO048,520,520,8,hai,hai,avere,AUX,_,_
 520-8,TO048,520,520,9,messe,messe,mettere,VERB,_,_
 520-9,TO048,520,520,10,insieme,insieme,insieme,ADV,_,_
@@ -3450,7 +3450,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 524-21,TO052,524,524,24,banalità,banalità,banalità,NOUN,_,_
 524-22,TO052,524,524,25,no?,no,no,ADV,Intonation=rising,_
 525-0,TO048,525,525,1,e,e,e,CCONJ,_,_
-525-1,TO048,525,525,2,l',l',il,PRON,Truncated=Yes,_
+525-1,TO048,525,525,2,l',l',la,PRON,Truncated=Yes,_
 525-2,TO048,525,525,3,hai,hai,avere,AUX,_,_
 525-3,TO048,525,525,4,fatta,fatta,fare,VERB,_,_
 525-4,TO048,525,525,5,tu?,tu,tu,PRON,Intonation=rising,_
@@ -3582,7 +3582,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 539-13,TO052,539,539,14,non,non,non,ADV,_,_
 539-14,TO052,539,539,15,ride.,ride,ridere,VERB,Intonation=falling,_
 540-0,TO050,540,540,1,e,e,e,CCONJ,_,_
-540-1,TO050,540,540,2,ce[rto].,certo,certo,ADV,Intonation=falling,_
+540-1,TO050,540,540,2,ce[rto].,certo,certo,ADJ,Intonation=falling,_
 541-0,TO052,541,541,1,[e,e,e,CCONJ,_,_
 541-1,TO052,541,541,2,qu]indi,quindi,quindi,ADV,_,_
 541-2,TO052,541,541,3,c',c',ci,PRON,Truncated=Yes,_
@@ -3809,7 +3809,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 570-5,TO052,570,570,6,chiamare,chiamare,chiamare,VERB,_,_
 570-6,TO052,570,570,7,giuseppe,giuseppe,Giuseppe,PROPN,_,_
 570-7,TO052,570,570,8,"[quando],",quando,quando,SCONJ,Intonation=weakly_rising,_
-571-0,TO050,571,571,1,[(certo),certo,certo,ADV,_,_
+571-0,TO050,571,571,1,[(certo),certo,certo,ADJ,_,_
 571-1,TO050,571,571,2,co]sì,così,così,ADV,_,_
 571-2,TO050,571,571,3,le,le,il,DET,_,_
 571-3,TO050,571,571,4,critiche,critiche,critica,NOUN,_,_
@@ -4718,7 +4718,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 683-2,TO052,683,683,3,"[a],",a,a,ADP,Intonation=weakly_rising,_
 684-0,TO048,684,684,1,[xx]xxxx,xxxxxx,x,X,_,_
 685-0,TO050,685,685,1,no,no,no,ADV,_,_
-685-1,TO050,685,685,2,lo,lo,il,PRON,_,_
+685-1,TO050,685,685,2,lo,lo,lo,PRON,_,_
 685-2,TO050,685,685,3,(spasi),spasi,spasi,ADJ,_,_
 685-3,TO050,685,685,4,questa,questa,questo,PRON,_,_
 685-4,TO050,685,685,5,non,non,non,ADV,_,_
@@ -5105,7 +5105,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 740-6,TO052,740,740,7,invitato,invitato,invitare,VERB,_,_
 740-7,TO052,740,740,8,a,a,a,ADP,_,_
 740-8,TO052,740,740,9,milano.,milano,milano,PROPN,Intonation=falling,_
-741-0,TO048,741,741,1,certo,certo,certo,ADV,_,_
+741-0,TO048,741,741,1,certo,certo,certo,ADJ,_,_
 741-1,TO048,741,741,2,"[xx],",xx,x,X,Intonation=weakly_rising,_
 742-0,TO052,742,742,1,[(e,e,e,CCONJ,_,_
 742-1,TO052,742,742,2,"che,)]",che,che,SCONJ,Intonation=weakly_rising,_
@@ -6417,7 +6417,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 978-3,TO048,978,978,4,lo,lo,lo,PRON,_,_
 978-4,TO048,978,978,5,sa?,sa,sapere,VERB,Intonation=rising,_
 979-0,TO050,979,979,1,šklovskij,šklovskij,Šklovskij,PROPN,_,_
-979-1,TO050,979,979,2,sì.,sì,sì,INTJ,Intonation=falling,_
+979-1,TO050,979,979,2,sì.,sì,sì,ADV,Intonation=falling,_
 980-0,TO050,980,980,1,xxx.,xxx,x,X,Intonation=falling,_
 981-0,TO048,981,981,1,la,la,il,DET,_,_
 981-1,TO048,981,981,2,mia,mia,mio,DET,_,_
@@ -6582,7 +6582,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1006-4,TO052,1006,1006,5,dovrebbe,dovrebbe,dovere,AUX,_,_
 1006-5,TO052,1006,1006,6,fare.,fare,fare,VERB,Intonation=falling,_
 1007-0,TO048,1007,1007,1,"°a::h,°",ah,ah,INTJ,Intonation=weakly_rising|Volume=low,_
-1008-0,TO050,1008,1008,1,°certo.°,certo,certo,ADV,Intonation=falling|Volume=low,_
+1008-0,TO050,1008,1008,1,°certo.°,certo,certo,ADJ,Intonation=falling|Volume=low,_
 1009-0,TO050,1009,1009,1,°ah.°,ah,ah,INTJ,Intonation=falling|Volume=low,_
 1010-0,TO052,1010,1010,1,però,però,però,ADV,_,_
 1010-1,TO052,1010,1010,2,se,se,se,SCONJ,_,_
@@ -6624,10 +6624,10 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1013-10,TO050,1013,1013,11,faccia,faccia,fare,VERB,_,_
 1013-11,TO050,1013,1013,12,la,la,il,DET,_,_
 1013-12,TO050,1013,1013,13,barba.,barba,barba,NOUN,Intonation=falling,_
-1014-0,TO052,1014,1014,1,no,no,no,INTJ,_,_
+1014-0,TO052,1014,1014,1,no,no,no,ADV,_,_
 1014-1,TO052,1014,1014,2,[l~,l~,x,X,Interrupted=Yes,_
 1014-2,TO052,1014,1014,3,l~,l~,x,X,Interrupted=Yes,_
-1014-3,TO052,1014,1014,4,l',l',lo,DET,Truncated=Yes,_
+1014-3,TO052,1014,1014,4,l',l',il,DET,Truncated=Yes,_
 1014-4,TO052,1014,1014,5,enunciato,enunciato,enunciato,NOUN,_,_
 1014-5,TO052,1014,1014,6,(.),(.),PAUSE,NVB,_,_
 1014-6,TO052,1014,1014,7,l',l',il,DET,Truncated=Yes,_
@@ -6764,14 +6764,14 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1026-4,TO052,1026,1026,5,russel,russel,Russel,PROPN,_,_
 1026-5,TO052,1026,1026,6,veramen[te]?,veramente,veramente,ADV,Intonation=rising,_
 1027-0,TO048,1027,1027,1,[ma],ma,ma,CCONJ,_,_
-1027-1,TO048,1027,1027,2,scusa,scusa,scusa,NOUN,_,_
+1027-1,TO048,1027,1027,2,scusa,scusa,scusare,VERB,_,_
 1027-2,TO048,1027,1027,3,qual,qual,quale,PRON,_,_
 1027-3,TO048,1027,1027,4,è,è,essere,AUX,_,_
 1027-4,TO048,1027,1027,5,"i:l,",il,il,DET,Intonation=weakly_rising,_
 1028-0,TO048,1028,1028,1,[ma,ma,ma,CCONJ,_,_
 1028-1,TO048,1028,1028,2,io,io,io,PRON,_,_
 1028-2,TO048,1028,1028,3,adesso,adesso,adesso,ADV,_,_
-1028-3,TO048,1028,1028,4,lo,lo,il,PRON,_,_
+1028-3,TO048,1028,1028,4,lo,lo,lo,PRON,_,_
 1028-4,TO048,1028,1028,5,vog]lio,voglio,volere,AUX,_,_
 1028-5,TO048,1028,1028,6,sapere.,sapere,sapere,VERB,Intonation=falling,_
 1029-0,TO052,1029,1029,1,[il,il,il,DET,_,_
@@ -7233,7 +7233,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1112-7,TO048,1112,1112,8,lo,lo,lo,PRON,_,_
 1112-8,TO048,1112,1112,9,deve,deve,dovere,AUX,_,_
 1112-9,TO048,1112,1112,10,mangiare.,mangiare,mangiare,VERB,Intonation=falling,_
-1113-0,TO048,1113,1113,1,lo,lo,il,PRON,_,_
+1113-0,TO048,1113,1113,1,lo,lo,lo,PRON,_,_
 1113-1,TO048,1113,1113,2,devo,devo,dovere,AUX,_,_
 1113-2,TO048,1113,1113,3,mettere,mettere,mettere,VERB,_,_
 1113-3,TO048,1113,1113,4,in,in,in,ADP,_,_
@@ -7267,7 +7267,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1119-0,TO048,1119,1119,1,[a,a,a,ADP,_,_
 1119-1,TO048,1119,1119,2,me,me,me,PRON,_,_
 1119-2,TO048,1119,1119,3,piace,piace,piacere,VERB,_,_
-1119-3,TO048,1119,1119,4,lo,lo,il,PRON,_,_
+1119-3,TO048,1119,1119,4,lo,lo,lo,PRON,_,_
 1119-4,TO048,1119,1119,5,tan]tissimo.,tantissimo,tanto,ADJ,Intonation=falling,_
 1120-0,TO052,1120,1120,1,no,no,no,ADV,_,_
 1120-1,TO052,1120,1120,2,no,no,no,ADV,_,_
@@ -7335,7 +7335,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1138-0a,_,_,1138,1,_,figura,figurare,VERB,_,_
 1138-0b,_,_,1138,2,_,ti,ti,PRON,_,_
 1139-0,TO052,1139,1139,1,se,se,se,SCONJ,_,_
-1139-1,TO052,1139,1139,2,l',l',il,PRON,Truncated=Yes,_
+1139-1,TO052,1139,1139,2,l',l',la,PRON,Truncated=Yes,_
 1139-2,TO052,1139,1139,3,hai,hai,avere,AUX,_,_
 1139-3,TO052,1139,1139,4,scritta,scritta,scrivere,VERB,_,_
 1139-4,TO052,1139,1139,5,poi,poi,poi,ADV,_,_
@@ -7367,7 +7367,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1140-7,TO050,1140,1140,8,che,che,che,PRON,_,_
 1140-8,TO050,1140,1140,9,"fan[no:],",fanno,fare,VERB,Intonation=weakly_rising,_
 1141-0,TO048,1141,1141,1,[xxxxx],xxxxx,x,X,_,_
-1142-0,TO052,1142,1142,1,[certo].,certo,certo,ADV,Intonation=falling,_
+1142-0,TO052,1142,1142,1,[certo].,certo,certo,ADJ,Intonation=falling,_
 1143-0,TO048,1143,1143,1,ma,ma,ma,CCONJ,_,_
 1143-1,TO048,1143,1143,2,sono,sono,essere,AUX,_,_
 1143-2,TO048,1143,1143,3,diciotto,diciotto,diciotto,NUM,_,_
@@ -7431,7 +7431,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1152-0,TO050,1152,1152,1,[ah,ah,ah,INTJ,_,_
 1152-1,TO050,1152,1152,2,"(venga,)]",venga,venire,VERB,Intonation=weakly_rising,_
 1153-0,TO052,1153,1153,1,"no::,",no,no,ADV,Intonation=weakly_rising,_
-1154-0,TO048,1154,1154,1,no,no,no,INTJ,_,_
+1154-0,TO048,1154,1154,1,no,no,no,ADV,_,_
 1154-1,TO048,1154,1154,2,però,però,però,CCONJ,_,_
 1154-2,TO048,1154,1154,3,ci,ci,ci,PRON,_,_
 1154-3,TO048,1154,1154,4,vuole,vuole,volere,VERB,_,_
@@ -7474,13 +7474,13 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1162-0,TO048,1162,1162,1,mh,mh,mh,INTJ,_,_
 1162-1,TO048,1162,1162,2,qualcosa,qualcosa,qualcosa,PRON,_,_
 1162-2,TO048,1162,1162,3,te,te,te,PRON,_,_
-1162-3,TO048,1162,1162,4,lo,lo,il,PRON,_,_
+1162-3,TO048,1162,1162,4,lo,lo,lo,PRON,_,_
 1162-4,TO048,1162,1162,5,devo,devo,dovere,AUX,_,_
 1162-5,TO048,1162,1162,6,(imboccare),imboccare,imboccare,VERB,_,_
 1162-6,TO048,1162,1162,7,io,io,io,PRON,_,_
 1162-7,TO048,1162,1162,8,e,e,e,CCONJ,_,_
 1162-8,TO048,1162,1162,9,poi,poi,poi,ADV,_,_
-1162-9,TO048,1162,1162,10,lo,lo,il,PRON,_,_
+1162-9,TO048,1162,1162,10,lo,lo,lo,PRON,_,_
 1162-10,TO048,1162,1162,11,devi,devi,dovere,AUX,_,_
 1162-11,TO048,1162,1162,12,(imboccare,imboccare,imboccare,VERB,_,_
 1162-12,TO048,1162,1162,13,[a,a,a,ADP,_,_
@@ -7811,7 +7811,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1221-8,TO050,1221,1221,9,diciamo,diciamo,dire,VERB,_,_
 1221-9,TO050,1221,1221,10,"come:,",come,come,SCONJ,Intonation=weakly_rising,_
 1222-0,TO048,1222,1222,1,sì.,sì,sì,ADV,Intonation=falling,_
-1223-0,TO052,1223,1223,1,sì,sì,sì,INTJ,_,_
+1223-0,TO052,1223,1223,1,sì,sì,sì,ADV,_,_
 1223-1,TO052,1223,1223,2,però,però,però,ADV,_,_
 1223-2,TO052,1223,1223,3,[xx,xx,x,X,_,_
 1223-3,TO052,1223,1223,4,capirò:,capirò,capire,VERB,_,_
@@ -8600,7 +8600,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1362-7,TO048,1362,1362,8,andare,andare,andare,VERB,_,_
 1362-8,TO048,1362,1362,9,chiunque.,chiunque,chiunque,PRON,Intonation=falling,_
 1363-0,TO052,1363,1363,1,beh,beh,beh,INTJ,_,_
-1363-1,TO052,1363,1363,2,certo.,certo,certo,ADV,Intonation=falling,_
+1363-1,TO052,1363,1363,2,certo.,certo,certo,ADJ,Intonation=falling,_
 1364-0,TO048,1364,1364,1,e::h,eh,eh,INTJ,ProsodicLink=Yes,_
 1364-1,TO048,1364,1364,2,"mh,",mh,mh,INTJ,Intonation=weakly_rising,_
 1365-0,TO048,1365,1365,1,no,no,no,ADV,_,_
@@ -8826,7 +8826,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1400-0,TO048,1400,1400,1,xx,xx,x,X,_,_
 1400-1,TO048,1400,1400,2,x,x,x,X,_,_
 1400-2,TO048,1400,1400,3,infiltra~,infiltra~,x,X,Interrupted=Yes,_
-1400-3,TO048,1400,1400,4,certo,certo,certo,ADV,_,_
+1400-3,TO048,1400,1400,4,certo,certo,certo,ADJ,_,_
 1400-4,TO048,1400,1400,5,(.),(.),PAUSE,NVB,_,_
 1400-5,TO048,1400,1400,6,ho,ho,avere,VERB,_,_
 1400-6,TO048,1400,1400,7,un,un,uno,DET,_,_
@@ -8932,7 +8932,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1415-0a,_,_,1415,1,_,su,su,ADP,_,_
 1415-0b,_,_,1415,2,_,l',il,DET,_,_
 1415-1,TO048,1415,1415,3,"analisi],",analisi,analisi,NOUN,Intonation=weakly_rising,_
-1416-0,TO048,1416,1416,1,no,no,no,INTJ,_,_
+1416-0,TO048,1416,1416,1,no,no,no,ADV,_,_
 1416-1,TO048,1416,1416,2,non,non,non,ADV,_,_
 1416-2,TO048,1416,1416,3,lo,lo,lo,PRON,_,_
 1416-3,TO048,1416,1416,4,so.,so,sapere,VERB,Intonation=falling,_
@@ -9385,7 +9385,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1466-1,TO052,1466,1466,2,non,non,non,ADV,_,_
 1466-2,TO052,1466,1466,3-4,glielo,glielo,gli+lo,PRON+PRON,_,_
 1466-2a,_,_,1466,3,_,glie,gli,PRON,_,_
-1466-2b,_,_,1466,4,_,lo,il,PRON,_,_
+1466-2b,_,_,1466,4,_,lo,lo,PRON,_,_
 1466-3,TO052,1466,1466,5,[xx].,xx,x,X,Intonation=falling,_
 1467-0,TO048,1467,1467,1,[tatiana],tatiana,Tatiana,PROPN,_,_
 1467-1,TO048,1467,1467,2,non,non,non,ADV,_,_
@@ -9429,7 +9429,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1473-9,TO052,1473,1473,10,saggistica.,saggistica,saggistico,ADJ,Intonation=falling,_
 1474-0,TO048,1474,1474,1-2,sui,sui,suus,ADJ,_,_
 1474-1,TO048,1474,1474,3,generis?,generis,genus,NOUN,Intonation=rising,_
-1475-0,TO052,1475,1475,1,sì,sì,sì,INTJ,_,_
+1475-0,TO052,1475,1475,1,sì,sì,sì,ADV,_,_
 1475-1,TO052,1475,1475,2,non,non,non,ADV,_,_
 1475-2,TO052,1475,1475,3,so,so,sapere,VERB,_,_
 1475-3,TO052,1475,1475,4,perché,perché,perché,SCONJ,_,_
@@ -9644,7 +9644,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1499-5,TO052,1499,1499,6,[l',l',il,DET,Truncated=Yes,_
 1499-6,TO052,1499,1499,7,altra,altra,altro,ADJ,_,_
 1499-7,TO052,1499,1499,8,"volta],",volta,volta,NOUN,Intonation=weakly_rising,_
-1500-0,TO050,1500,1500,1,[certo,certo,certo,ADV,_,_
+1500-0,TO050,1500,1500,1,[certo,certo,certo,ADJ,_,_
 1500-1,TO050,1500,1500,2,xx,xx,x,X,_,_
 1500-2,TO050,1500,1500,3,me]ttere,mettere,mettere,VERB,_,_
 1500-3,TO050,1500,1500,4,il,il,il,DET,_,_
@@ -9708,7 +9708,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1505-26,TO048,1505,1505,27,bandella,bandella,bandella,NOUN,_,_
 1505-27,TO048,1505,1505,28,solo,solo,solo,ADV,_,_
 1505-28,TO048,1505,1505,29,eh,eh,eh,INTJ,_,_
-1505-29,TO048,1505,1505,30,la,la,la,DET,_,_
+1505-29,TO048,1505,1505,30,la,la,il,DET,_,_
 1505-30,TO048,1505,1505,31,la,la,il,DET,_,_
 1505-31,TO048,1505,1505,32,sovraccoperta,sovraccoperta,sovraccoperta,NOUN,_,_
 1505-32,TO048,1505,1505,33,(.),(.),PAUSE,NVB,_,_
@@ -9853,7 +9853,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1522-0,TO052,1522,1522,1,[ah,ah,ah,INTJ,_,_
 1522-1,TO052,1522,1522,2,beh,beh,beh,INTJ,_,_
 1522-2,TO052,1522,1522,3,chia]ro.,chiaro,chiaro,ADJ,Intonation=falling,_
-1523-0,TO050,1523,1523,1,[°certo.°],certo,certo,ADV,Intonation=falling|Volume=low,_
+1523-0,TO050,1523,1523,1,[°certo.°],certo,certo,ADJ,Intonation=falling|Volume=low,_
 1524-0,TO048,1524,1524,1,e,e,e,CCONJ,_,_
 1524-1,TO048,1524,1524,2,"quindi::,",quindi,quindi,ADV,Intonation=weakly_rising,_
 1525-0,TO052,1525,1525,1,no,no,no,ADV,_,_
@@ -9898,7 +9898,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1527-7,TO052,1527,1527,8,teatrale.,teatrale,teatrale,ADJ,Intonation=falling,_
 1528-0,TO048,1528,1528,1,no,no,no,ADV,_,_
 1528-1,TO048,1528,1528,2,però,però,però,ADV,_,_
-1528-2,TO048,1528,1528,3,lo,lo,il,PRON,_,_
+1528-2,TO048,1528,1528,3,lo,lo,lo,PRON,_,_
 1528-3,TO048,1528,1528,4,potresti,potresti,potere,AUX,_,_
 1528-4,TO048,1528,1528,5,trasformare,trasformare,trasformare,VERB,_,_
 1528-5,TO048,1528,1528,6,in,in,in,ADP,_,_
@@ -10097,7 +10097,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1545-13,TO048,1545,1545,15,sono,sono,essere,AUX,_,_
 1545-14,TO048,1545,1545,16,sonetti].,sonetti,sonetto,NOUN,Intonation=falling,_
 1546-0,TO052,1546,1546,1,[beh,beh,beh,INTJ,_,_
-1546-1,TO052,1546,1546,2,cer]to,certo,certo,ADV,_,_
+1546-1,TO052,1546,1546,2,cer]to,certo,certo,ADJ,_,_
 1546-2,TO052,1546,1546,3,sì,sì,sì,ADV,_,_
 1546-3,TO052,1546,1546,4,però,però,però,ADV,_,_
 1546-4,TO052,1546,1546,5-6,nel,nel,in+il,ADP+DET,_,_
@@ -10699,7 +10699,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1633-2,TO050,1633,1633,3,lo,lo,lo,PRON,Volume=low,_
 1633-3,TO050,1633,1633,4,apprezzi,apprezzi,apprezzare,VERB,Volume=low,_
 1633-4,TO050,1633,1633,5,quando,quando,quando,SCONJ,Volume=low,_
-1633-5,TO050,1633,1633,6,l',l',il,PRON,Truncated=Yes|Volume=low,_
+1633-5,TO050,1633,1633,6,l',l',lo,PRON,Truncated=Yes|Volume=low,_
 1633-6,TO050,1633,1633,7,hai,hai,avere,AUX,Volume=low,_
 1633-7,TO050,1633,1633,8,letto,letto,leggere,VERB,Volume=low,_
 1633-8,TO050,1633,1633,9,una,una,uno,DET,Volume=low,_
@@ -11845,7 +11845,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1811-0,TO048,1811,1811,0,((sospira)),((sospira)),NVB,NVB,_,_
 1812-0,TO052,1812,1812,1,°canta°?,canta,cantare,VERB,Intonation=rising|Volume=low,_
 1813-0,TO050,1813,1813,1,°non,non,non,ADV,Volume=low,_
-1813-1,TO050,1813,1813,2,la,la,la,DET,Volume=low,_
+1813-1,TO050,1813,1813,2,la,la,il,DET,Volume=low,_
 1813-2,TO050,1813,1813,3,xxx,xxx,x,X,Volume=low,_
 1813-3,TO050,1813,1813,4,"da:i,°",dai,dare,VERB,Intonation=weakly_rising|Volume=low,_
 1814-0,TO052,1814,1814,1,°è,è,essere,AUX,Volume=low,_
@@ -11866,7 +11866,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1816-9,TO050,1816,1816,10,carina.,carina,carina,NOUN,Intonation=falling,_
 1817-0,TO052,1817,1817,1,ora,ora,ora,ADV,_,_
 1817-1,TO052,1817,1817,2,però,però,però,ADV,_,_
-1817-2,TO052,1817,1817,3,lo,lo,il,PRON,_,_
+1817-2,TO052,1817,1817,3,lo,lo,lo,PRON,_,_
 1817-3,TO052,1817,1817,4,voglio,voglio,volere,AUX,_,_
 1817-4,TO052,1817,1817,5,sentire.,sentire,sentire,VERB,Intonation=falling,_
 1818-0,TO050,1818,1818,1,può,può,potere,AUX,_,_
@@ -12381,7 +12381,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1890-12b,_,_,1890,14,_,lo,il,DET,_,_
 1890-13,TO048,1890,1890,15,stes]so,stesso,stesso,ADJ,_,_
 1890-14,TO048,1890,1890,16,[punto].,punto,punto,NOUN,Intonation=falling,_
-1891-0,TO052,1891,1891,1,[no,no,no,INTJ,_,_
+1891-0,TO052,1891,1891,1,[no,no,no,ADV,_,_
 1891-1,TO052,1891,1891,2,però,però,però,ADV,_,_
 1891-2,TO052,1891,1891,3,"sono],",sono,essere,AUX,Intonation=weakly_rising,_
 1892-0,TO050,1892,1892,1,[sì,sì,sì,ADV,_,_
@@ -12546,7 +12546,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1918-5,TO048,1918,1918,6,due.,due,due,NUM,Intonation=falling,_
 1919-0,TO048,1919,1919,1,<in,in,in,ADP,_,_
 1919-1,TO048,1919,1919,2,origi[ne>].,origine,origine,NOUN,Intonation=falling,_
-1920-0,TO052,1920,1920,1,[sì],sì,sì,INTJ,_,_
+1920-0,TO052,1920,1920,1,[sì],sì,sì,ADV,_,_
 1920-1,TO052,1920,1920,2,però,però,però,ADV,_,_
 1920-2,TO052,1920,1920,3,poi,poi,poi,ADV,_,_
 1920-3,TO052,1920,1920,4,l',l',il,DET,Truncated=Yes,_
@@ -12556,7 +12556,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1920-7,TO052,1920,1920,8,[unico].,unico,unico,ADJ,Intonation=falling,_
 1921-0,TO048,1921,1921,1,[ah,ah,ah,INTJ,_,_
 1921-1,TO048,1921,1921,2,sì],sì,sì,ADV,_,_
-1921-2,TO048,1921,1921,3,sì,sì,sì,INTJ,_,_
+1921-2,TO048,1921,1921,3,sì,sì,sì,ADV,_,_
 1921-3,TO048,1921,1921,4,okay.,okay,ok,INTJ,Intonation=falling,_
 1922-0,TO050,1922,1922,1,per,per,per,ADP,_,_
 1922-1,TO050,1922,1922,2,questo,questo,questo,PRON,_,_
@@ -12653,7 +12653,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1934-2,TO048,1934,1934,3,perché,perché,perché,SCONJ,_,_
 1934-3,TO048,1934,1934,4,bom,bom,bom,INTJ,_,_
 1934-4,TO048,1934,1934,5,"però,",però,però,ADV,Intonation=weakly_rising,_
-1935-0,TO050,1935,1935,1,certo.,certo,certo,ADV,Intonation=falling,_
+1935-0,TO050,1935,1935,1,certo.,certo,certo,ADJ,Intonation=falling,_
 1936-0,TO048,1936,1936,1,cioè,cioè,cioè,CCONJ,_,_
 1936-1,TO048,1936,1936,2,non,non,non,ADV,_,_
 1936-2,TO048,1936,1936,3,han~,han~,x,X,Interrupted=Yes,_
@@ -13023,7 +13023,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1990-1,TO050,1990,1990,2,che,che,che,DET,Volume=low,_
 1990-2,TO050,1990,1990,3,ore,ore,ora,NOUN,Volume=low,_
 1990-3,TO050,1990,1990,4,sono?°,sono,essere,AUX,Intonation=rising|Volume=low,_
-1991-0,TO048,1991,1991,1,l',l',l',DET,Truncated=Yes,_
+1991-0,TO048,1991,1991,1,l',l',il,DET,Truncated=Yes,_
 1991-1,TO048,1991,1991,2,una.,una,uno,DET,Intonation=falling,_
 1992-0,TO052,1992,1992,1,ne,ne,ne,PRON,_,_
 1992-1,TO052,1992,1992,2,parleremo.,parleremo,parlare,VERB,Intonation=falling,_
@@ -13082,7 +13082,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 2005-4,TO052,2005,2005,5,pratica[mente.°],praticamente,praticamente,ADV,Intonation=falling|Volume=low,_
 2006-0,TO048,2006,2006,1,[in,in,in,ADP,_,_
 2006-1,TO048,2006,2006,2,eff]etti,effetti,effetto,NOUN,_,_
-2006-2,TO048,2006,2006,3,certo,certo,certo,ADV,_,_
+2006-2,TO048,2006,2006,3,certo,certo,certo,ADJ,_,_
 2006-3,TO048,2006,2006,4,xx,xx,x,X,_,_
 2006-4,TO048,2006,2006,5,è,è,essere,AUX,_,_
 2006-5,TO048,2006,2006,6,piccola.,piccola,piccolo,ADJ,Intonation=falling,_

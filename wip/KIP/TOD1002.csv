@@ -1234,7 +1234,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 192-0,TO004,192,192,1,ammazza,ammazza,ammazzare,VERB,_,_
 192-1,TO004,192,192,2,l',l',il,DET,_,_
 192-2,TO004,192,192,3,interlocutore.,interlocutore,interlocutore,NOUN,_,_
-193-0,TO004,193,193,1,"giusto,",giusto,giusto,ADV,_,_
+193-0,TO004,193,193,1,"giusto,",giusto,giusto,ADJ,_,_
 194-0,TO004,194,194,1,ma,ma,ma,CCONJ,_,_
 194-1,TO004,194,194,2,(.),(.),PAUSE,NVB,_,_
 194-2,TO004,194,194,3,l',l',il,DET,_,_
@@ -2149,7 +2149,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 327-3,TO004,327,327,4,computer,computer,computer,NOUN,_,_
 327-4,TO004,327,327,5,di,di,di,ADP,_,_
 327-5,TO004,327,327,6,serie,serie,serie,NOUN,_,_
-327-6,TO004,327,327,7,bi.,bi,B,NOUN,_,_
+327-6,TO004,327,327,7,bi.,bi,bi,NOUN,_,_
 328-0,TO004,328,328,1,andatelo,andatelo,andare+lo,VERB+PRON,_,_
 328-0a,,,,,,andate,andare,VERB,_,_
 328-0b,,,,,,lo,lo,PRON,_,_
@@ -2471,7 +2471,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 384-2,TO004,384,384,3,una,una,uno,DET,_,_
 384-3,TO004,384,384,4,(.),(.),PAUSE,NVB,_,_
 384-4,TO004,384,384,5,"<dis:parità>,",disparità,disparità,NOUN,_,_
-385-0,TO004,385,385,1,<giu:sto>?,giusto,giusto,ADV,_,_
+385-0,TO004,385,385,1,<giu:sto>?,giusto,giusto,ADJ,_,_
 386-0,TO004,386,386,1,c',c',ci,PRON,_,_
 386-1,TO004,386,386,2,è,è,essere,VERB,_,_
 386-2,TO004,386,386,3,(.),(.),PAUSE,NVB,_,_
@@ -2810,8 +2810,8 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 437-6b,_,_,437,8,_,i,il,DET,_,_
 437-7,TO004,437,437,9,semplici,semplici,semplice,ADJ,_,_
 437-8,TO004,437,437,10,sedili.,sedili,sedile,NOUN,_,_
-438-0,TO004,438,438,1,giusto?,giusto,giusto,ADV,_,_
-439-0,TO004,439,439,1,"bi:,",bi,B,NOUN,_,_
+438-0,TO004,438,438,1,giusto?,giusto,giusto,ADJ,_,_
+439-0,TO004,439,439,1,"bi:,",bi,bi,NOUN,_,_
 440-0,TO004,440,440,1,"<sono>,",sono,essere,AUX,_,_
 441-0,TO004,441,441,1,<confermato>,confermato,confermare,VERB,_,_
 441-1,TO004,441,441,2-3,dall',dall',da+il,ADP+DET,_,_
@@ -4207,7 +4207,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 658-1,TO004,658,658,2,posso,posso,potere,AUX,_,_
 658-2,TO004,658,658,3,assicurare,assicurare,assicurare,VERB,_,_
 658-3,TO004,658,658,4,che,che,che,SCONJ,_,_
-658-4,TO004,658,658,5,lo,lo,il,PRON,_,_
+658-4,TO004,658,658,5,lo,lo,lo,PRON,_,_
 658-5,TO004,658,658,6,ricevevo,ricevevo,ricevere,VERB,_,_
 658-6,TO004,658,658,7,questo,questo,questo,DET,_,_
 658-7,TO004,658,658,8,messaggio,messaggio,messaggio,NOUN,_,_
@@ -4916,7 +4916,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 773-8,TO004,773,773,9,sentire,sentire,sentire,VERB,_,_
 773-9,TO004,773,773,10,una,una,uno,DET,_,_
 773-10,TO004,773,773,11,parola.,parola,parola,NOUN,_,_
-773-11,TO004,773,773,12,giusto?,giusto,giusto,ADV,_,_
+773-11,TO004,773,773,12,giusto?,giusto,giusto,ADJ,_,_
 774-0,TO004,774,774,1,se,se,se,SCONJ,_,_
 774-1,TO004,774,774,2,andate,andate,andare,VERB,_,_
 774-2,TO004,774,774,3,in,in,in,ADP,_,_
@@ -5406,7 +5406,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 859-1,TO004,859,859,2,solo,solo,solo,ADV,_,_
 859-2,TO004,859,859,3,(.),(.),PAUSE,NVB,_,_
 859-3,TO004,859,859,4,orecchie.,orecchie,orecchio,NOUN,_,_
-860-0,TO004,860,860,1,"certo,",certo,certo,ADV,_,_
+860-0,TO004,860,860,1,"certo,",certo,certo,ADJ,_,_
 861-0,TO004,861,861,1,c',c',ci,PRON,_,_
 861-1,TO004,861,861,2,è,è,essere,VERB,_,_
 861-2,TO004,861,861,3,un,un,uno,DET,_,_
@@ -7139,7 +7139,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1152-0,TO004,1152,1152,1,mi,mi,mi,PRON,_,_
 1152-1,TO004,1152,1152,2,sorse,sorse,sorgere,VERB,_,_
 1152-2,TO004,1152,1152,3,quando,quando,quando,SCONJ,_,_
-1152-3,TO004,1152,1152,4,lo,lo,il,PRON,_,_
+1152-3,TO004,1152,1152,4,lo,lo,lo,PRON,_,_
 1152-4,TO004,1152,1152,5,sentii,sentii,sentire,VERB,_,_
 1152-5,TO004,1152,1152,6,la,la,il,DET,_,_
 1152-6,TO004,1152,1152,7,prima,prima,primo,ADJ,_,_
@@ -7954,9 +7954,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1314-4,TO004,1314,1314,5,la,la,il,DET,_,_
 1314-5,TO004,1314,1314,6,parola,parola,parola,NOUN,_,_
 1314-6,TO004,1314,1314,7,bit,bit,bit,ADJ,_,_
-1314-7,TO004,1314,1314,8,bi,bi,B,NOUN,_,_
-1314-8,TO004,1314,1314,9,i,i,I,NOUN,_,_
-1314-9,TO004,1314,1314,10,ti.,ti,T,NOUN,_,_
+1314-7,TO004,1314,1314,8,bi,bi,bi,NOUN,_,_
+1314-8,TO004,1314,1314,9,i,i,i,NOUN,_,_
+1314-9,TO004,1314,1314,10,ti.,ti,ti,NOUN,_,_
 1315-0,TO004,1315,1315,1,cosa,cosa,cosa,PRON,_,_
 1315-1,TO004,1315,1315,2,vuol,vuol,volere,AUX,_,_
 1315-2,TO004,1315,1315,3,dire?,dire,dire,VERB,_,_
@@ -8039,7 +8039,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1329-5,TO004,1329,1329,6,"dire,",dire,dire,VERB,_,_
 1330-0,TO004,1330,1330,1,quando,quando,quando,SCONJ,_,_
 1330-1,TO004,1330,1330,2,dite,dite,dire,VERB,_,_
-1330-2,TO004,1330,1330,3,kappa,kappa,K,NOUN,_,_
+1330-2,TO004,1330,1330,3,kappa,kappa,kappa,NOUN,_,_
 1330-3,TO004,1330,1330,4,media,media,medio,NOUN,_,_
 1330-4,TO004,1330,1330,5,eccetera,eccetera,eccetera,ADV,_,_
 1330-5,TO004,1330,1330,6,eccetera,eccetera,eccetera,ADV,_,_
@@ -8178,7 +8178,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1355-1,TO004,1355,1355,2,(.),(.),PAUSE,NVB,_,_
 1355-2,TO004,1355,1355,3,"perché,",perché,perché,SCONJ,_,_
 1356-0,TO004,1356,1356,1,i,i,il,DET,_,_
-1356-1,TO004,1356,1356,2,ti,ti,T,NOUN,_,_
+1356-1,TO004,1356,1356,2,ti,ti,ti,NOUN,_,_
 1356-2,TO004,1356,1356,3,è,è,essere,AUX,_,_
 1356-3,TO004,1356,1356,4,la,la,il,DET,_,_
 1356-4,TO004,1356,1356,5,fine,fine,fine,NOUN,_,_
@@ -9393,7 +9393,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1571-5,TO004,1571,1571,6,differenza,differenza,differenza,NOUN,_,_
 1571-6,TO004,1571,1571,7,c',c',ci,PRON,_,_
 1571-7,TO004,1571,1571,8,è.,è,essere,VERB,_,_
-1572-0,TO004,1572,1572,1,lo,lo,il,PRON,_,_
+1572-0,TO004,1572,1572,1,lo,lo,lo,PRON,_,_
 1572-1,TO004,1572,1572,2,sapete,sapete,sapere,VERB,_,_
 1572-2,TO004,1572,1572,3,quando,quando,quando,SCONJ,_,_
 1572-3,TO004,1572,1572,4,scegliete,scegliete,scegliere,VERB,_,_
@@ -10598,5 +10598,5 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 1784-0,???,1784,1784,1,posso,posso,potere,AUX,_,_
 1784-1,???,1784,1784,2,comunque,comunque,comunque,ADV,_,_
 1784-2,???,1784,1784,3,"frequentare::,",frequentare,frequentare,VERB,_,_
-1785-0,TO004,1785,1785,1,certo.,certo,certo,ADV,_,_
+1785-0,TO004,1785,1785,1,certo.,certo,certo,ADJ,_,_
 1786-0,???,1786,1786,1,grazie.,grazie,grazie,NOUN,_,_

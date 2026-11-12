@@ -175,7 +175,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 20-9a,_,_,20,11,_,di,di,ADP,_,_
 20-9b,_,_,20,12,_,i,il,DET,_,_
 20-10,BO026,20,20,13,segni].,segni,segno,NOUN,_,_
-21-0,BO037,21,21,1,[no:,no,no,INTJ,_,_
+21-0,BO037,21,21,1,[no:,no,no,ADV,_,_
 21-1,BO037,21,21,2,lo,lo,lo,PRON,_,_
 21-2,BO037,21,21,3,so,so,sapere,VERB,_,_
 21-3,BO037,21,21,4,la],la,il,DET,_,_
@@ -330,7 +330,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 39-15,BO026,39,39,18-19,"d[ella],",della,di+il,ADP+DET,_,_
 39-15a,_,_,39,18,_,di,di,ADP,_,_
 39-15b,_,_,39,19,_,la,il,DET,_,_
-40-0,BO037,40,40,1,[certo].,certo,certo,ADV,_,_
+40-0,BO037,40,40,1,[certo].,certo,certo,ADJ,_,_
 41-0,BO037,41,41,1,[>sì,sì,sì,ADV,_,_
 41-1,BO037,41,41,2,sì<,sì,sì,ADV,_,_
 41-2,BO037,41,41,3,i]nfatti,infatti,infatti,ADV,_,_
@@ -429,7 +429,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 52-4,BO037,52,52,5,sì,sì,sì,ADV,_,_
 52-5,BO037,52,52,6,sì<,sì,sì,ADV,_,_
 52-6,BO037,52,52,7,sì],sì,sì,ADV,_,_
-52-7,BO037,52,52,8,esatto,esatto,esatto,ADV,_,_
+52-7,BO037,52,52,8,esatto,esatto,esatto,ADJ,_,_
 52-8,BO037,52,52,9,ho,ho,avere,AUX,_,_
 52-9,BO037,52,52,10,fatto,fatto,fare,VERB,_,_
 52-10,BO037,52,52,11,tre,tre,tre,NUM,_,_
@@ -522,7 +522,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 62-5,BO026,62,62,6,"geni]tori,",genitori,genitore,NOUN,_,_
 63-0,BO037,63,63,1,e::h,eh,eh,INTJ,_,_
 63-1,BO037,63,63,2,mh,mh,mh,INTJ,_,_
-63-2,BO037,63,63,3,no,no,no,INTJ,_,_
+63-2,BO037,63,63,3,no,no,no,ADV,_,_
 63-3,BO037,63,63,4,lo,lo,lo,PRON,_,_
 63-4,BO037,63,63,5,fanno,fanno,fare,VERB,_,_
 63-5,BO037,63,63,6,comunque,comunque,comunque,ADV,_,_
@@ -554,7 +554,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 65-0,BO037,65,65,1,[comunque,comunque,comunque,ADV,_,_
 65-1,BO037,65,65,2,con,con,con,ADP,_,_
 65-2,BO037,65,65,3,"ricordi],",ricordi,ricordo,NOUN,_,_
-66-0,BO037,66,66,1,[esatto,esatto,esatto,ADV,_,_
+66-0,BO037,66,66,1,[esatto,esatto,esatto,ADJ,_,_
 66-1,BO037,66,66,2,(.),(.),PAUSE,NVB,_,_
 66-2,BO037,66,66,3,es]attamente.,esattamente,esattamente,ADV,_,_
 67-0,BO026,67,67,1,gli,gli,il,DET,_,_
@@ -621,7 +621,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 76-8,BO026,76,76,9-10,del,del,di+il,ADP+DET,_,_
 76-8a,_,_,76,9,_,di,di,ADP,_,_
 76-8b,_,_,76,10,_,il,il,DET,_,_
-76-9,BO026,76,76,11,piemonte,piemonte,piemonte,NOUN,_,_
+76-9,BO026,76,76,11,piemonte,piemonte,Piemonte,PROPN,_,_
 76-10,BO026,76,76,12,dove,dove,dove,ADV,_,_
 76-11,BO026,76,76,13,hanno,hanno,avere,AUX,_,_
 76-12,BO026,76,76,14,fatto,fatto,fare,VERB,_,_
@@ -726,7 +726,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 89-4,BO026,89,89,5-6,"sulla,",sulla,su+il,ADP+DET,_,_
 89-4a,_,_,89,5,_,su,su,ADP,_,_
 89-4b,_,_,89,6,_,la,il,DET,_,_
-90-0,BO037,90,90,1,[certo].,certo,certo,ADV,_,_
+90-0,BO037,90,90,1,[certo].,certo,certo,ADJ,_,_
 91-0,BO026,91,91,7-8,sul,sul,su+il,ADP+DET,_,_
 91-0a,_,_,91,7,_,su,su,ADP,_,_
 91-0b,_,_,91,8,_,il,il,DET,_,_
@@ -1034,7 +1034,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 120-0,BO037,120,120,1,[sì,sì,sì,ADV,_,_
 120-1,BO037,120,120,2,sì,sì,sì,ADV,_,_
 120-2,BO037,120,120,3,"no],",no,no,ADV,_,_
-121-0,BO037,121,121,1,[certo,certo,certo,ADV,_,_
+121-0,BO037,121,121,1,[certo,certo,certo,ADJ,_,_
 121-1,BO037,121,121,2,di:,di,di,ADP,_,_
 121-2,BO037,121,121,3,da,da,da,ADP,_,_
 121-3,BO037,121,121,4,quel,quel,quello,DET,_,_
@@ -1269,7 +1269,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 149-1,BO026,149,149,2,mh,mh,mh,INTJ,_,_
 149-2,BO026,149,149,3,sì].,sì,sì,ADV,_,_
 150-0,BO026,150,150,1,[sì].,sì,sì,ADV,_,_
-151-0,BO026,151,151,1,cert[o].,certo,certo,ADV,_,_
+151-0,BO026,151,151,1,cert[o].,certo,certo,ADJ,_,_
 152-0,BO037,152,152,1,[e,e,e,CCONJ,_,_
 152-1,BO037,152,152,2,d]a,da,da,ADP,_,_
 152-2,BO037,152,152,3,quel,quel,quello,DET,_,_
@@ -1297,7 +1297,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 152-20,BO037,152,152,23,sordi,sordi,sordare,VERB,_,_
 152-21,BO037,152,152,24,c[he,che,che,CCONJ,_,_
 152-22,BO037,152,152,25,udenti].,udenti,udente,ADJ,_,_
-153-0,BO026,153,153,1,[certo].,certo,certo,ADV,_,_
+153-0,BO026,153,153,1,[certo].,certo,certo,ADJ,_,_
 154-0,BO026,154,154,1,[deve,deve,dovere,AUX,_,_
 154-1,BO026,154,154,2,vedere,vedere,vedere,VERB,_,_
 154-2,BO026,154,154,3,se,se,se,SCONJ,_,_

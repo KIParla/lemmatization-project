@@ -330,9 +330,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 60-7,BO026,60,60,8,sono,sono,essere,AUX,_,_
 60-8,BO026,60,60,9,insegnate,insegnate,insegnare,VERB,_,_
 60-9,BO026,60,60,10,[lì].,lì,lì,ADV,_,_
-61-0,BO039,61,61,1,[esatto.,esatto,esatto,ADV,_,_
+61-0,BO039,61,61,1,[esatto.,esatto,esatto,ADJ,_,_
 61-1,BO039,61,61,2,sì].,sì,sì,ADV,_,_
-62-0,BO038,62,62,1,[esatto].,esatto,esatto,ADV,_,_
+62-0,BO038,62,62,1,[esatto].,esatto,esatto,ADJ,_,_
 63-0,BO038,63,63,1,"quindi,",quindi,quindi,CCONJ,_,_
 64-0,BO038,64,64,1,[m:]h,mh,mh,INTJ,_,_
 64-1,BO038,64,64,2,cioè,cioè,cioè,CCONJ,_,_
@@ -396,7 +396,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 72-1,BO026,72,72,2,di,di,di,ADP,_,_
 72-2,BO026,72,72,3,variazione,variazione,variazione,NOUN,_,_
 72-3,BO026,72,72,4,"sociolingui[stica],",sociolinguistica,sociolinguistico,ADJ,_,_
-73-0,BO038,73,73,1,[esatto].,esatto,esatto,ADV,_,_
+73-0,BO038,73,73,1,[esatto].,esatto,esatto,ADJ,_,_
 74-0,BO039,74,74,1,[qu]ello:,quello,quello,DET,_,_
 74-1,BO039,74,74,2,[stesso,stesso,stesso,PRON,_,_
 74-2,BO039,74,74,3,ch]e,che,che,PRON,_,_
@@ -670,9 +670,9 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 104-7,BO038,104,104,9,di,di,di,ADP,_,_
 104-8,BO038,104,104,10,lingue,lingue,lingua,NOUN,_,_
 104-9,BO038,104,104,11,romanze].,romanze,romanzo,ADJ,_,_
-105-0,BO026,105,105,1,[certo.,certo,certo,ADV,_,_
-105-1,BO026,105,105,2,certo].,certo,certo,ADV,_,_
-106-0,BO026,106,106,1,°certo.°,certo,certo,ADV,_,_
+105-0,BO026,105,105,1,[certo.,certo,certo,ADJ,_,_
+105-1,BO026,105,105,2,certo].,certo,certo,ADJ,_,_
+106-0,BO026,106,106,1,°certo.°,certo,certo,ADJ,_,_
 107-0,BO038,107,107,1,quindi,quindi,quindi,CCONJ,_,_
 107-1,BO038,107,107,2,(.),(.),PAUSE,NVB,_,_
 107-2,BO038,107,107,3,devo,devo,dovere,AUX,_,_
@@ -717,7 +717,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 113-0,BO026,113,113,1,[che,che,che,PRON,_,_
 113-1,BO026,113,113,2,qui,qui,qui,ADV,_,_
 113-2,BO026,113,113,3,sar]ebbe,sarebbe,essere,AUX,_,_
-113-3,BO026,113,113,4,a[merican,american,American,ADJ,_,_
+113-3,BO026,113,113,4,a[merican,american,american,ADJ,_,_
 113-4,BO026,113,113,5,literature]:,literature,literature,NOUN,_,_
 113-5,BO026,113,113,6,mh.,mh,mh,INTJ,_,_
 114-0,BO038,114,114,1,[che,che,che,PRON,_,_
@@ -1417,7 +1417,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 208-7,BO026,208,208,8,perché,perché,perché,SCONJ,_,_
 208-8,BO026,208,208,9,questo,questo,questo,PRON,_,_
 208-9,BO026,208,208,10,è::,è,essere,AUX,_,_
-208-10,BO026,208,208,11,american,american,American,ADJ,_,_
+208-10,BO026,208,208,11,american,american,american,ADJ,_,_
 208-11,BO026,208,208,12,literature,literature,literature,NOUN,_,_
 208-12,BO026,208,208,13,(.),(.),PAUSE,NVB,_,_
 208-13,BO026,208,208,14,"no,",no,no,ADV,_,_
@@ -2923,7 +2923,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 387-1,BO039,387,387,2,un',un',uno,DET,_,SpaceAfter=No
 387-2,BO039,387,387,3,ultima,ultima,ultimo,ADJ,_,_
 387-3,BO039,387,387,4,cosa,cosa,cosa,NOUN,_,_
-387-4,BO039,387,387,5,le,le,gli,PRON,_,_
+387-4,BO039,387,387,5,le,le,le,PRON,_,_
 387-5,BO039,387,387,6,volevo,volevo,volere,AUX,_,_
 387-6,BO039,387,387,7,"chiedere,",chiedere,chiedere,VERB,_,_
 388-0,BO039,388,388,1-2,ne::lla,nella,in+il,ADP+DET,_,_

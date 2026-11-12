@@ -1,7 +1,7 @@
 token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 0-0,BO117,0,okay.,okay,okay,INTJ,Intonation=falling,_
 0-1,BO117,0,(.),(.),PAUSE,NVB,_,_
-0-2,BO117,0,sì.,sì,sì,INTJ,Intonation=falling,_
+0-2,BO117,0,sì.,sì,sì,ADV,Intonation=falling,_
 0-3,BO117,0,mi,mi,mi,PRON,_,_
 0-4,BO117,0,dica.,dica,dire,VERB,Intonation=falling,_
 1-0,BO005,1,quindi,quindi,quindi,ADV,_,_
@@ -11,7 +11,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1-4,BO005,1,pensato,pensato,pensare,VERB,_,_
 1-5,BO005,1,di,di,di,ADP,_,_
 1-6,BO005,1,fare,fare,fare,VERB,_,_
-1-7,BO005,1,la,la,la,DET,_,_
+1-7,BO005,1,la,la,il,DET,_,_
 1-8,BO005,1,ricerca,ricerca,ricerca,NOUN,_,_
 1-9,BO005,1,in,in,in,ADP,_,_
 1-10,BO005,1,paragoni,paragoni,paragone,NOUN,_,_
@@ -33,7 +33,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1-24,BO005,1,europeo.,europeo,europeo,ADJ,Intonation=falling,_
 2-0,BO117,2,"a:h,",ah,ah,INTJ,Intonation=weakly_rising,_
 2-1,BO117,2,benissimo.,benissimo,bene,ADV,Intonation=falling,_
-3-0,BO005,3,sì.,sì,sì,INTJ,Intonation=falling,_
+3-0,BO005,3,sì.,sì,sì,ADV,Intonation=falling,_
 3-1,BO005,3,ma,ma,ma,CCONJ,_,_
 3-2,BO005,3,e:h,eh,eh,INTJ,_,_
 4-0,BO005,4,per,per,per,ADP,_,_
@@ -50,8 +50,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 4-11,BO005,4,h[o,ho,avere,AUX,_,_
 4-12,BO005,4,pensat]o:,pensato,pensare,VERB,_,_
 5-0,BO117,5,[°u:,u,u,INTJ,Volume=low,_
-5-1,BO117,5,sì.,sì,sì,INTJ,Intonation=falling|Volume=low,_
-5-2,BO117,5,sì.°],sì,sì,INTJ,Intonation=falling|Volume=low,_
+5-1,BO117,5,sì.,sì,sì,ADV,Intonation=falling|Volume=low,_
+5-2,BO117,5,sì.°],sì,sì,ADV,Intonation=falling|Volume=low,_
 6-0,BO005,6,al,al,a+il,ADP+DET,_,_
 6-0a,_,_,_,a,a,ADP,_,_
 6-0b,_,_,_,il,il,DET,_,_
@@ -154,7 +154,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 21-0,BO117,21,m:h,mh,mh,INTJ,_,_
 22-0,BO005,22,come,come,come,ADP,ProsodicLink=Yes,_
 22-1,BO005,22,m:h,mh,mh,INTJ,_,_
-23-0,BO005,23,sì.,sì,sì,INTJ,Intonation=falling,_
+23-0,BO005,23,sì.,sì,sì,ADV,Intonation=falling,_
 24-0,BO005,24,°quel[lo].°,quello,quello,PRON,Intonation=falling|Volume=low,_
 25-0,BO117,25,[lei,lei,lei,PRON,_,_
 25-1,BO117,25,d]i,di,di,ADP,_,_
@@ -347,7 +347,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 61-6,BO117,61,contesto,contesto,contesto,NOUN,_,_
 61-7,BO117,61,lingui[stico].,linguistico,linguistico,ADJ,Intonation=falling,_
 62-0,BO005,62,[perfe]tto.,perfetto,perfetto,ADJ,Intonation=falling,_
-62-1,BO005,62,°sì.°,sì,sì,INTJ,Intonation=falling|Volume=low,_
+62-1,BO005,62,°sì.°,sì,sì,ADV,Intonation=falling|Volume=low,_
 63-0,BO117,63,quindi,quindi,quindi,ADV,_,_
 63-1,BO117,63,se,se,se,SCONJ,_,_
 63-2,BO117,63,è,è,essere,AUX,_,_
@@ -389,9 +389,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 65-17,BO117,65,"no],",no,no,ADV,Intonation=weakly_rising,_
 66-0,BO005,66,[°sì.°],sì,sì,ADV,Intonation=falling|Volume=low,_
 67-0,BO005,67,[°ok]ay.,okay,okay,INTJ,Intonation=falling|Volume=low,_
-67-1,BO005,67,[sì.,sì,sì,INTJ,Intonation=falling|Volume=low,_
-67-2,BO005,67,sì.,sì,sì,INTJ,Intonation=falling|Volume=low,_
-67-3,BO005,67,sì.°],sì,sì,INTJ,Intonation=falling|Volume=low,_
+67-1,BO005,67,[sì.,sì,sì,ADV,Intonation=falling|Volume=low,_
+67-2,BO005,67,sì.,sì,sì,ADV,Intonation=falling|Volume=low,_
+67-3,BO005,67,sì.°],sì,sì,ADV,Intonation=falling|Volume=low,_
 68-0,BO117,68,[con,con,con,ADP,_,_
 68-1,BO117,68,queste,queste,questo,DET,_,_
 68-2,BO117,68,for]me.,forme,forma,NOUN,Intonation=falling,_
@@ -625,7 +625,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 123-5,BO005,123,in,in,in,ADP,_,_
 123-6,BO005,123,european,european,european,ADJ,Lang=en,_
 123-7,BO005,123,spani[sh].,spanish,spanish,ADJ,Lang=en,_
-124-0,BO117,124,[e]satto.,esatto,esatto,ADV,Intonation=falling,_
+124-0,BO117,124,[e]satto.,esatto,esatto,ADJ,Intonation=falling,_
 125-0,BO005,125,okay.,okay,okay,INTJ,Intonation=falling,_
 126-0,BO005,126,°e,e,e,CCONJ,Volume=low,_
 126-1,BO005,126,[faccio,faccio,fare,VERB,Volume=low,_
@@ -663,7 +663,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 128-18a,_,_,_,in,in,ADP,_,_
 128-18b,_,_,_,la,il,DET,_,_
 128-19,BO005,128,"(guide),",guide,guide,NOUN,Intonation=weakly_rising,_
-129-0,BO117,129,esatto.,esatto,esatto,ADV,Intonation=falling,_
+129-0,BO117,129,esatto.,esatto,esatto,ADJ,Intonation=falling,_
 130-0,BO005,130,lo,lo,lo,PRON,_,_
 130-1,BO005,130,posso,posso,potere,AUX,_,_
 130-2,BO005,130,"fare,",fare,fare,VERB,Intonation=weakly_rising,_
@@ -682,7 +682,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 132-9,BO005,132,mia,mia,mio,DET,_,_
 132-10,BO005,132,ricerca,ricerca,ricerca,NOUN,_,_
 132-11,BO005,132,"cio[è],",cioè,cioè,ADV,Intonation=weakly_rising,_
-133-0,BO117,133,[ce]rt[o].,certo,certo,ADV,Intonation=falling,_
+133-0,BO117,133,[ce]rt[o].,certo,certo,ADJ,Intonation=falling,_
 134-0,BO005,134,[fa]re,fare,fare,VERB,_,_
 134-1,BO005,134,come,come,come,SCONJ,_,_
 134-2,BO005,134,un',un',uno,DET,Truncated=Yes,_
@@ -783,7 +783,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 145-6,BO117,145,più,più,più,ADV,_,_
 145-7,BO117,145,attivo,attivo,attivo,ADJ,_,_
 145-8,BO117,145,"[no],",no,no,ADV,Intonation=weakly_rising,_
-146-0,BO005,146,[certo],certo,certo,ADV,_,_
+146-0,BO005,146,[certo],certo,certo,ADJ,_,_
 146-1,BO005,146,sui,sui,su+il,ADP+DET,_,_
 146-1a,_,_,_,su,su,ADP,_,_
 146-1b,_,_,_,i,il,DET,_,_
@@ -805,8 +805,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 147-3,BO117,147,"dati],",dati,dato,NOUN,Intonation=weakly_rising,_
 148-0,TO999,148,[scusate],scusate,scusare,VERB,_,_
 148-1,TO999,148,posso?,posso,potere,VERB,Intonation=rising,_
-149-0,BO117,149,certo,certo,certo,ADV,_,_
-149-1,BO117,149,certo,certo,certo,ADV,_,_
+149-0,BO117,149,certo,certo,certo,ADJ,_,_
+149-1,BO117,149,certo,certo,certo,ADJ,_,_
 150-0,BO117,150,una,una,uno,DET,_,_
 150-1,BO117,150,piccola,piccola,piccolo,ADJ,_,_
 150-2,BO117,150,[ricerca,ricerca,ricerca,NOUN,_,_

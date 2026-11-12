@@ -174,7 +174,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 22-12,PKP069,22,inesis[tenti],inesistenti,inesistente,ADJ,_,_
 23-0,PKP063,23,[sì:],sì,sì,ADV,_,_
 24-0,PKP063,24,[mhmh],mhmh,mhmh,INTJ,_,_
-25-0,PKP063,25,[esa]tto,esatto,esatto,ADV,_,_
+25-0,PKP063,25,[esa]tto,esatto,esatto,ADJ,_,_
 25-1,PKP063,25,problematiche,problematiche,problematica,NOUN,_,_
 25-2,PKP063,25,((ride)),((ride)),NVB,NVB,_,_
 26-0,PKP069,26,((ride)),((ride)),NVB,NVB,_,_
@@ -433,7 +433,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 59-4,PKP063,59,ancora,ancora,ancora,ADV,_,_
 59-5,PKP063,59,è,è,essere,AUX,_,_
 59-6,PKP063,59,festa,festa,festa,NOUN,_,_
-60-0,PKP069,60,esa:tto,esatto,esatto,ADV,_,_
+60-0,PKP069,60,esa:tto,esatto,esatto,ADJ,_,_
 60-1,PKP069,60,e,e,e,CCONJ,_,_
 60-2,PKP069,60,anche,anche,anche,ADV,_,_
 60-3,PKP069,60,martedì,martedì,martedì,NOUN,_,_
@@ -443,7 +443,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 61-3,PKP069,61,a,a,a,ADP,_,_
 61-4,PKP069,61,[scuola],scuola,scuola,NOUN,_,_
 61-5,PKP069,61,(.),(.),PAUSE,NVB,_,_
-61-6,PKP069,61,esatto,esatto,esatto,ADV,_,_
+61-6,PKP069,61,esatto,esatto,esatto,ADJ,_,_
 62-0,PKP063,62,[lo:ro,loro,loro,DET,_,_
 62-1,PKP063,62,mh],mh,mh,INTJ,_,_
 63-0,PKP063,63,io,io,io,PRON,_,_
@@ -954,7 +954,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 125-21,PKP069,125,"no,",no,no,ADV,Intonation=weakly_rising,_
 125-22,PKP069,125,hanno::,hanno,avere,VERB,_,_
 126-0,PKP063,126,((ride)),((ride)),NVB,NVB,_,_
-127-0,PKP063,127,[esa:tto],esatto,esatto,ADV,_,_
+127-0,PKP063,127,[esa:tto],esatto,esatto,ADJ,_,_
 128-0,PKP069,128,poi,poi,poi,ADV,_,_
 128-1,PKP069,128,vabbè,vabbè,vabbè,INTJ,_,_
 128-2,PKP069,128,in,in,in,ADP,_,_
@@ -1101,7 +1101,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 146-12,PKP069,146,[mondo,mondo,mondo,NOUN,_,_
 146-13,PKP069,146,i]n,in,in,ADP,_,_
 146-14,PKP069,146,cui,cui,cui,PRON,_,_
-146-15,PKP069,146,le,le,le,DET,_,_
+146-15,PKP069,146,le,le,il,DET,_,_
 146-16,PKP069,146,le,le,il,DET,_,_
 146-17,PKP069,146,disuguaglianze,disuguaglianze,disuguaglianza,NOUN,_,_
 146-18,PKP069,146,sociali,sociali,sociale,ADJ,_,_
@@ -1156,7 +1156,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 154-2,PKP069,154,è,è,essere,AUX,_,_
 154-3,PKP069,154,il:,il,il,DET,_,_
 154-4,PKP069,154,eh,eh,eh,INTJ,_,_
-154-5,PKP069,154,paese,paese,Paese,NOUN,_,_
+154-5,PKP069,154,paese,paese,paese,NOUN,_,_
 154-6,PKP069,154,più,più,più,ADV,_,_
 154-7,PKP069,154,disuguale,disuguale,disuguale,ADJ,_,_
 155-0,PKP063,155,((ride)),((ride)),NVB,NVB,_,_
@@ -1181,7 +1181,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 159-0,PKP069,159,[brasile,brasile,Brasile,PROPN,_,_
 159-1,PKP069,159,è,è,essere,VERB,_,_
 159-2,PKP069,159,il,il,il,DET,_,_
-159-3,PKP069,159,paese],paese,Paese,NOUN,_,_
+159-3,PKP069,159,paese],paese,paese,NOUN,_,_
 160-0,PKP069,160,brasile,brasile,Brasile,PROPN,_,_
 161-0,PKP063,161,sì,sì,sì,ADV,_,_
 161-1,PKP063,161,l',l',il,DET,_,SpaceAfter=No
@@ -1224,7 +1224,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 166-3,PKP069,166,poi,poi,poi,ADV,_,_
 166-4,PKP069,166,è,è,essere,AUX,_,_
 166-5,PKP069,166,un,un,uno,DET,_,_
-166-6,PKP069,166,paese,paese,Paese,NOUN,_,_
+166-6,PKP069,166,paese,paese,paese,NOUN,_,_
 167-0,PKP069,167,vediamo,vediamo,vedere,VERB,_,_
 167-1,PKP069,167,[adesso,adesso,adesso,ADV,_,_
 167-2,PKP069,167,se],se,se,SCONJ,_,_
@@ -1238,7 +1238,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 168-7,PKP063,168,di,di,di,ADP,_,_
 168-8,PKP063,168,scottex,scottex,scottex,NOUN,_,_
 168-9,PKP063,168,inta[nto],intanto,intanto,ADV,_,_
-169-0,PKP069,169,[cer]to,certo,certo,ADV,_,_
+169-0,PKP069,169,[cer]to,certo,certo,ADJ,_,_
 170-0,PKP069,170,ti,ti,ti,PRON,_,_
 170-1,PKP069,170,potrei,potrei,potere,AUX,_,_
 170-2,PKP069,170,dare,dare,dare,VERB,_,_
@@ -1273,7 +1273,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 174-5,PKP063,174,più,più,più,ADV,_,_
 174-6,PKP063,174,o,o,o,CCONJ,_,_
 174-7,PKP063,174,meno,meno,meno,ADV,_,_
-175-0,PKP063,175,perfetto,perfetto,perfetto,ADV,_,_
+175-0,PKP063,175,perfetto,perfetto,perfetto,ADJ,_,_
 175-1,PKP063,175,"gra:zie,",grazie,grazie,INTJ,Intonation=weakly_rising,_
 176-0,PKP069,176,quindi,quindi,quindi,CCONJ,_,_
 176-1,PKP069,176,la,la,il,DET,_,_
@@ -1319,7 +1319,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 181-6,PKP069,181,dello,dello,di+il,ADP+DET,_,_
 181-6a,_,_,_,di,di,ADP,_,_
 181-6b,_,_,_,lo,il,DET,_,_
-181-7,PKP069,181,stato,stato,Stato,NOUN,_,_
+181-7,PKP069,181,stato,stato,stato,NOUN,_,_
 181-8,PKP069,181,come,come,come,ADP,_,_
 181-9,PKP069,181,ente,ente,ente,NOUN,_,_
 181-10,PKP069,181,"retto:re,",rettore,rettore,ADJ,Intonation=weakly_rising,_
@@ -1436,7 +1436,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 197-17,PKP069,197,si,si,si,PRON,_,_
 197-18,PKP069,197,apre,apre,aprire,VERB,_,_
 197-19,PKP069,197,veramen[te],veramente,veramente,ADV,_,_
-198-0,PKP063,198,[esa:tto],esatto,esatto,ADV,_,_
+198-0,PKP063,198,[esa:tto],esatto,esatto,ADJ,_,_
 199-0,PKP063,199,[un,un,uno,DET,_,_
 199-1,PKP063,199,m]ondo:,mondo,mondo,NOUN,_,_
 200-0,PKP069,200,però:,però,però,CCONJ,_,_
@@ -1451,7 +1451,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 201-1,PKP069,201,che,che,che,SCONJ,_,_
 201-2,PKP069,201,poi],poi,poi,ADV,_,_
 201-3,PKP069,201,(.),(.),PAUSE,NVB,_,_
-201-4,PKP069,201,°esatto,esatto,esatto,ADV,Volume=low,_
+201-4,PKP069,201,°esatto,esatto,esatto,ADJ,Volume=low,_
 201-5,PKP069,201,no°,no,no,ADV,Volume=low,_
 201-6,PKP069,201,poi,poi,poi,ADV,_,_
 201-7,PKP069,201,è,è,essere,AUX,_,_
@@ -1501,9 +1501,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 208-7,PKP069,208,tutti,tutti,tutto,DET,_,_
 208-8,PKP069,208,gli,gli,il,DET,_,_
 208-9,PKP069,208,anni,anni,anno,NOUN,_,_
-208-10,PKP069,208,ottanta,ottanta,Ottanta,NUM,_,_
+208-10,PKP069,208,ottanta,ottanta,ottanta,NUM,_,_
 208-11,PKP069,208,e,e,e,CCONJ,_,_
-208-12,PKP069,208,novanta,novanta,Novanta,NUM,_,_
+208-12,PKP069,208,novanta,novanta,novanta,NUM,_,_
 208-13,PKP069,208,di,di,di,ADP,_,_
 208-14,PKP069,208,"politiche,",politiche,politica,NOUN,Intonation=weakly_rising,_
 209-0,PKP069,209,neoliberali,neoliberali,neoliberale,ADJ,_,_
@@ -1524,7 +1524,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 210-0,PKP063,210,[là],là,là,ADV,_,_
 211-0,PKP063,211,[chiamiamolo,chiamiamolo,chiamare+il,VERB+PRON,_,_
 211-0a,_,_,_,chiamiamo,chiamare,VERB,_,_
-211-0b,_,_,_,lo,il,PRON,_,_
+211-0b,_,_,_,lo,lo,PRON,_,_
 211-1,PKP063,211,così:],così,così,ADV,_,_
 212-0,PKP069,212,sos[tanzia~,sostanzia~,x,X,Interrupted=Yes,_
 212-1,PKP069,212,sostanzial]mente,sostanzialmente,sostanzialmente,ADV,_,_
@@ -1550,7 +1550,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 213-5,PKP069,213,cittadino,cittadino,cittadino,NOUN,_,_
 213-6,PKP069,213,sostanzialmen[te],sostanzialmente,sostanzialmente,ADV,_,_
 214-0,PKP063,214,[privati]zzazio:ne,privatizzazione,privatizzazione,NOUN,_,_
-215-0,PKP069,215,esatto,esatto,esatto,ADV,_,_
+215-0,PKP069,215,esatto,esatto,esatto,ADJ,_,_
 215-1,PKP069,215,che,che,che,SCONJ,_,_
 215-2,PKP069,215,sono,sono,essere,AUX,_,_
 215-3,PKP069,215,stati,stati,essere,AUX,_,_
@@ -1638,7 +1638,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 225-5a,_,_,_,gestir,gestire,VERB,_,_
 225-5b,_,_,_,lo,lo,PRON,_,_
 225-6,PKP069,225,democraticamen[te],democraticamente,democraticamente,ADV,_,_
-226-0,PKP063,226,[esa]:tto,esatto,esatto,ADV,_,_
+226-0,PKP063,226,[esa]:tto,esatto,esatto,ADJ,_,_
 227-0,PKP069,227,no,no,no,ADV,_,_
 227-1,PKP069,227,quindi,quindi,quindi,CCONJ,_,_
 227-2,PKP069,227,ognuno,ognuno,ognuno,PRON,_,_
@@ -1707,14 +1707,14 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 233-8,PKP069,233,perché,perché,perché,SCONJ,_,_
 233-9,PKP069,233,m::h,mh,mh,INTJ,_,_
 234-0,PKP069,234,cioè,cioè,cioè,CCONJ,_,_
-234-1,PKP069,234,l',l',lo,DET,_,SpaceAfter=No
+234-1,PKP069,234,l',l',il,DET,_,SpaceAfter=No
 234-2,PKP069,234,ecuador,ecuador,Ecuador,PROPN,_,_
 234-3,PKP069,234,tipo,tipo,tipo,NOUN,_,_
 234-4,PKP069,234,negli,negli,in+il,ADP+DET,_,_
 234-4a,_,_,_,in,in,ADP,_,_
 234-4b,_,_,_,gli,il,DET,_,_
 234-5,PKP069,234,anni:,anni,anno,NOUN,_,_
-235-0,PKP069,235,nova:nta,novanta,Novanta,NUM,_,_
+235-0,PKP069,235,nova:nta,novanta,novanta,NUM,_,_
 235-1,PKP069,235,c',c',ci,PRON,_,SpaceAfter=No
 235-2,PKP069,235,ha,ha,avere,AUX,_,_
 235-3,PKP069,235,avuto,avuto,avere,VERB,_,_
@@ -1759,7 +1759,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 239-3,PKP069,239,pre:ndi,prendi,prendere,VERB,_,_
 239-4,PKP069,239,(.),(.),PAUSE,NVB,_,_
 239-5,PKP069,239,il,il,il,DET,_,_
-239-6,PKP069,239,paese,paese,Paese,NOUN,_,_
+239-6,PKP069,239,paese,paese,paese,NOUN,_,_
 239-7,PKP069,239,è,è,essere,AUX,_,_
 239-8,PKP069,239,"ingoverna:bile,",ingovernabile,ingovernabile,ADJ,Intonation=weakly_rising,_
 240-0,PKP069,240,perché,perché,perché,SCONJ,_,_
@@ -1808,7 +1808,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 244-10,PKP069,244,insomma,insomma,insomma,ADV,_,_
 245-0,PKP069,245,è::,è,essere,AUX,_,_
 245-1,PKP069,245,un,un,uno,DET,_,_
-245-2,PKP069,245,paese,paese,Paese,NOUN,_,_
+245-2,PKP069,245,paese,paese,paese,NOUN,_,_
 245-3,PKP069,245,c[osì,così,così,ADV,_,_
 245-4,PKP069,245,assolut]amente,assolutamente,assolutamente,ADV,_,_
 245-5,PKP069,245,ingestibile,ingestibile,ingestibile,ADJ,_,_
@@ -1816,7 +1816,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 245-7,PKP069,245,quello,quello,quello,PRON,_,_
 245-8,PKP069,245,è,è,essere,AUX,_,_
 245-9,PKP069,245,l~,l~,x,X,Interrupted=Yes,_
-245-10,PKP069,245,una,una,una,DET,_,_
+245-10,PKP069,245,una,una,uno,DET,_,_
 245-11,PKP069,245,è,è,essere,AUX,_,_
 245-12,PKP069,245,la,la,il,DET,_,_
 245-13,PKP069,245,stessa,stessa,stesso,ADJ,_,_
@@ -1875,7 +1875,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 253-19,PKP069,253,"al[ti,",alti,alto,ADJ,Intonation=weakly_rising,_
 254-0,PKP063,254,[mhmh],mhmh,mhmh,INTJ,_,_
 255-0,PKP069,255,i,i,il,DET,_,_
-255-1,PKP069,255,pa]esi,paesi,Paese,NOUN,_,_
+255-1,PKP069,255,pa]esi,paesi,paese,NOUN,_,_
 255-2,PKP069,255,espo>rtatori,esportatori,esportatore,NOUN,_,_
 255-3,PKP069,255,di,di,di,ADP,_,_
 255-4,PKP069,255,materie,materie,materia,NOUN,_,_
@@ -1989,7 +1989,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 271-10,PKP069,271,costruire,costruire,costruire,VERB,_,_
 271-11,PKP069,271,un,un,uno,DET,_,_
 271-12,PKP069,271,altro,altro,altro,ADJ,_,_
-271-13,PKP069,271,paese,paese,Paese,NOUN,_,_
+271-13,PKP069,271,paese,paese,paese,NOUN,_,_
 272-0,PKP069,272,cioè,cioè,cioè,CCONJ,_,_
 272-1,PKP069,272,la,la,il,DET,_,_
 272-2,PKP069,272,costituzione,costituzione,costituzione,NOUN,_,_
@@ -2100,7 +2100,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 284-0,PKP069,284,poi,poi,poi,ADV,_,_
 284-1,PKP069,284,in,in,in,ADP,_,_
 284-2,PKP069,284,un,un,uno,DET,_,_
-284-3,PKP069,284,paese,paese,Paese,NOUN,_,_
+284-3,PKP069,284,paese,paese,paese,NOUN,_,_
 284-4,PKP069,284,in,in,in,ADP,_,_
 284-5,PKP069,284,cui,cui,cui,PRON,_,_
 284-6,PKP069,284,quando,quando,quando,SCONJ,_,_
@@ -2113,7 +2113,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 285-1,PKP069,285,erano,erano,essere,VERB,_,_
 285-2,PKP069,285,alcuni::,alcuni,alcuno,DET,_,_
 286-0,PKP069,286,appunto,appunto,appunto,ADV,_,_
-286-1,PKP069,286,paese,paese,Paese,NOUN,_,_
+286-1,PKP069,286,paese,paese,paese,NOUN,_,_
 286-2,PKP069,286,molto,molto,molto,ADV,_,_
 286-3,PKP069,286,disuguale,disuguale,disuguale,ADJ,_,_
 286-4,PKP069,286,come,come,come,ADP,_,_
@@ -3094,7 +3094,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 406-18,PKP063,406,a,a,a,ADP,_,_
 406-19,PKP063,406,livello,livello,livello,NOUN,_,_
 406-20,PKP063,406,ambientale,ambientale,ambientale,ADJ,_,_
-407-0,PKP069,407,[certo],certo,certo,ADV,_,_
+407-0,PKP069,407,[certo],certo,certo,ADJ,_,_
 408-0,PKP069,408,mh,mh,mh,INTJ,_,_
 409-0,PKP069,409,ma,ma,ma,CCONJ,_,_
 409-1,PKP069,409,no,no,no,ADV,_,_
@@ -3181,7 +3181,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 423-0,PKP069,423,poi,poi,poi,ADV,_,_
 423-1,PKP069,423,(.),(.),PAUSE,NVB,_,_
 423-2,PKP069,423,un,un,uno,DET,_,_
-423-3,PKP069,423,paese,paese,Paese,NOUN,_,_
+423-3,PKP069,423,paese,paese,paese,NOUN,_,_
 423-4,PKP069,423,di,di,di,ADP,_,_
 423-5,PKP069,423,disuguali,disuguali,disuguale,ADJ,_,_
 423-6,PKP069,423,quindi,quindi,quindi,CCONJ,_,_
@@ -3222,7 +3222,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 425-25,PKP069,425,di,di,di,ADP,_,_
 425-26,PKP069,425,cilindrata,cilindrata,cilindrata,NOUN,_,_
 426-0,PKP063,426,((ride)),((ride)),NVB,NVB,_,_
-426-1,PKP063,426,esatto,esatto,esatto,ADV,_,_
+426-1,PKP063,426,esatto,esatto,esatto,ADJ,_,_
 426-2,PKP063,426,[il,il,il,DET,_,_
 426-3,PKP063,426,mega],mega,mega,ADJ,_,_
 426-4,PKP063,426,su:v,suv,suv,NOUN,_,_
@@ -3274,7 +3274,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 429-29,PKP069,429,vabbè,vabbè,vabbè,INTJ,Volume=low,_
 429-30,PKP069,429,comunque°,comunque,comunque,CCONJ,Volume=low,_
 430-0,PKP063,430,[mh],mh,mh,INTJ,_,_
-431-0,PKP063,431,[certo],certo,certo,ADV,_,_
+431-0,PKP063,431,[certo],certo,certo,ADJ,_,_
 432-0,PKP069,432,no,no,no,ADV,_,_
 432-1,PKP069,432,quindi,quindi,quindi,CCONJ,_,_
 432-2,PKP069,432,ecco,ecco,ecco,ADV,_,_
@@ -3286,7 +3286,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 432-6,PKP069,432,lato:,lato,lato,NOUN,_,_
 432-7,PKP069,432,ecologico:,ecologico,ecologico,ADJ,_,_
 432-8,PKP069,432,un,un,uno,DET,_,_
-432-9,PKP069,432,paese,paese,Paese,NOUN,_,_
+432-9,PKP069,432,paese,paese,paese,NOUN,_,_
 432-10,PKP069,432,in,in,in,ADP,_,_
 432-11,PKP069,432,cui,cui,cui,PRON,_,_
 432-12,PKP069,432,che,che,che,SCONJ,_,_
@@ -3312,7 +3312,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 434-4,PKP069,434,in,in,in,ADP,_,_
 434-5,PKP069,434,tutto,tutto,tutto,DET,_,_
 434-6,PKP069,434,il,il,il,DET,_,_
-434-7,PKP069,434,paese,paese,Paese,NOUN,_,_
+434-7,PKP069,434,paese,paese,paese,NOUN,_,_
 434-8,PKP069,434,che,che,che,SCONJ,_,_
 434-9,PKP069,434,trattano,trattano,trattare,VERB,_,_
 434-10,PKP069,434,le,le,il,DET,_,_
@@ -3320,7 +3320,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 434-12,PKP069,434,residua:li,residuali,residuale,ADJ,_,_
 435-0,PKP069,435,se,se,se,SCONJ,_,_
 435-1,PKP069,435,no,no,no,ADV,_,_
-435-2,PKP069,435,le,le,il,PRON,_,_
+435-2,PKP069,435,le,le,le,PRON,_,_
 435-3,PKP069,435,altre,altre,altro,PRON,_,_
 435-4,PKP069,435,le:::,le,le,PRON,_,_
 435-5,PKP069,435,spediscono,spediscono,spedire,VERB,_,_
@@ -3346,7 +3346,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 438-5,PKP069,438,dei,dei,di+il,ADP+DET,_,_
 438-5a,_,_,_,di,di,ADP,_,_
 438-5b,_,_,_,i,il,DET,_,_
-438-6,PKP069,438,paesi,paesi,Paese,NOUN,_,_
+438-6,PKP069,438,paesi,paesi,paese,NOUN,_,_
 438-7,PKP069,438,mega,mega,mega,ADJ,_,_
 438-8,PKP069,438,diversi,diversi,diverso,ADJ,_,_
 439-0,PKP069,439,perché,perché,perché,SCONJ,_,_
@@ -3354,7 +3354,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 439-2,PKP069,439,e[cuador,ecuador,Ecuador,PROPN,_,_
 439-3,PKP069,439,è,è,essere,AUX,_,_
 439-4,PKP069,439,u]n,un,uno,DET,_,_
-439-5,PKP069,439,paese,paese,Paese,NOUN,_,_
+439-5,PKP069,439,paese,paese,paese,NOUN,_,_
 439-6,PKP069,439,mega,mega,mega,ADJ,_,_
 439-7,PKP069,439,diverso,diverso,diverso,ADJ,_,_
 439-8,PKP069,439,°x[xxx],xxxx,x,X,Volume=low,_
@@ -3364,7 +3364,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 441-1,PKP063,441,sì],sì,sì,ADV,_,_
 442-0,PKP069,442,dicono,dicono,dire,VERB,_,_
 442-1,PKP069,442,il,il,il,DET,_,_
-442-2,PKP069,442,paese,paese,Paese,NOUN,_,_
+442-2,PKP069,442,paese,paese,paese,NOUN,_,_
 442-3,PKP069,442,più,più,più,ADV,_,_
 442-4,PKP069,442,bio~,bio~,x,X,Interrupted=Yes,_
 442-5,PKP069,442,più,più,più,ADV,_,_
@@ -3377,7 +3377,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 444-4,PKP069,444,qual,qual,quale,PRON,_,_
 444-5,PKP069,444,è,è,essere,AUX,_,_
 444-6,PKP069,444,il,il,il,DET,_,_
-444-7,PKP069,444,paese,paese,Paese,NOUN,_,_
+444-7,PKP069,444,paese,paese,paese,NOUN,_,_
 444-8,PKP069,444,(.),(.),PAUSE,NVB,_,_
 444-9,PKP069,444,[più,più,più,ADV,_,_
 444-10,PKP069,444,d]iverso,diverso,diverso,ADJ,_,_
@@ -3437,9 +3437,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 453-3,PKP069,453,esercizio,esercizio,esercizio,NOUN,_,_
 453-4,PKP069,453,in,in,in,ADP,_,_
 453-5,PKP069,453,vari,vari,vario,DET,_,_
-453-6,PKP069,453,pae:si,paesi,Paese,NOUN,_,_
+453-6,PKP069,453,pae:si,paesi,paese,NOUN,_,_
 454-0,PKP069,454,il,il,il,DET,_,_
-454-1,PKP069,454,paese,paese,Paese,NOUN,_,_
+454-1,PKP069,454,paese,paese,paese,NOUN,_,_
 454-2,PKP069,454,in,in,in,ADP,_,_
 454-3,PKP069,454,cui,cui,cui,PRON,_,_
 454-4,PKP069,454,è,è,essere,AUX,_,_
@@ -3551,7 +3551,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 473-11,PKP069,473,impossibile,impossibile,impossibile,ADJ,_,_
 473-12,PKP069,473,gestire,gestire,gestire,VERB,_,_
 473-13,PKP069,473,un,un,uno,DET,_,_
-473-14,PKP069,473,pa[ese::],paese,Paese,NOUN,_,_
+473-14,PKP069,473,pa[ese::],paese,paese,NOUN,_,_
 473-15,PKP069,473,(.),(.),PAUSE,NVB,_,_
 473-16,PKP069,473,così,così,così,ADV,_,_
 474-0,PKP063,474,[mh],mh,mh,INTJ,_,_
@@ -3566,7 +3566,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 478-1,PKP063,478,(.),(.),PAUSE,NVB,_,_
 478-2,PKP063,478,[è,è,essere,AUX,_,_
 478-3,PKP063,478,considerato],considerato,considerare,VERB,_,_
-478-4,PKP063,478,paese:,paese,Paese,NOUN,_,_
+478-4,PKP063,478,paese:,paese,paese,NOUN,_,_
 478-5,PKP063,478,sviluppato,sviluppato,sviluppato,ADJ,_,_
 478-6,PKP063,478,o,o,o,CCONJ,_,_
 478-7,PKP063,478,in,in,in,ADP,_,_
@@ -3595,7 +3595,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 483-9,PKP069,483,non,non,non,ADV,_,_
 483-10,PKP069,483,so,so,sapere,VERB,_,_
 483-11,PKP069,483,se,se,se,SCONJ,_,_
-483-12,PKP069,483,l',l',il,PRON,_,SpaceAfter=No
+483-12,PKP069,483,l',l',la,PRON,_,SpaceAfter=No
 483-13,PKP069,483,avete,avete,avere,AUX,_,_
 483-14,PKP069,483,vista,vista,vedere,VERB,_,_
 483-15,PKP069,483,sì,sì,sì,ADV,_,_
@@ -3617,7 +3617,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 487-6a,_,_,_,di,di,ADP,_,_
 487-6b,_,_,_,il,il,DET,_,_
 487-7,PKP063,487,mo:n[do:],mondo,mondo,NOUN,_,_
-488-0,PKP069,488,[esatto],esatto,esatto,ADV,_,_
+488-0,PKP069,488,[esatto],esatto,esatto,ADJ,_,_
 488-1,PKP069,488,tutta,tutta,tutto,DET,_,_
 488-2,PKP069,488,l',l',il,DET,_,SpaceAfter=No
 488-3,PKP069,488,america,america,America,PROPN,_,_
@@ -3947,8 +3947,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 531-4a,_,_,_,legger,leggere,VERB,_,_
 531-4b,_,_,_,lo,lo,PRON,_,_
 532-0,PKP069,532,((ride)),((ride)),NVB,NVB,_,_
-532-1,PKP069,532,madonna,madonna,Madonna,INTJ,_,_
-532-2,PKP069,532,aiu:to,aiuto,aiuto,INTJ,_,_
+532-1,PKP069,532,madonna,madonna,Madonna,PROPN,_,_
+532-2,PKP069,532,aiu:to,aiuto,aiutare,VERB,_,_
 533-0,PKP063,533,>ha,ha,avere,AUX,_,_
 533-1,PKP063,533,detto<,detto,dire,VERB,_,_
 533-2,PKP063,533,non,non,non,ADV,_,_
@@ -4314,7 +4314,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 575-5,PKP063,575,im~<,im~,x,X,Interrupted=Yes,_
 575-6,PKP063,575,eccolo,eccolo,ecco+il,ADV+PRON,_,_
 575-6a,_,_,_,ecco,ecco,ADV,_,_
-575-6b,_,_,_,lo,il,PRON,_,_
+575-6b,_,_,_,lo,lo,PRON,_,_
 575-7,PKP063,575,questo,questo,questo,PRON,_,_
 575-8,PKP063,575,qua,qua,qua,ADV,_,_
 575-9,PKP063,575,con,con,con,ADP,_,_
@@ -4464,7 +4464,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 596-2,PKP063,596,il,il,il,DET,_,_
 596-3,PKP063,596,programma,programma,programma,NOUN,_,_
 596-4,PKP063,596,su,su,su,ADP,_,_
-596-5,PKP063,596,rai,rai,rai,NOUN,_,_
+596-5,PKP063,596,rai,rai,Rai,PROPN,_,_
 596-6,PKP063,596,tre,tre,tre,NUM,_,_
 596-7,PKP063,596,(.),(.),PAUSE,NVB,_,_
 596-8,PKP063,596,indovina,indovina,indovinare,VERB,_,_
@@ -4686,7 +4686,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 624-4,PKP069,624,secondo,secondo,secondo,ADP,_,_
 624-5,PKP069,624,me,me,me,PRON,_,_
 624-6,PKP069,624,(.),(.),PAUSE,NVB,_,_
-624-7,PKP069,624,i,i,i,DET,_,_
+624-7,PKP069,624,i,i,il,DET,_,_
 625-0,PKP069,625,la,la,il,DET,_,_
 625-1,PKP069,625,globalizzazione,globalizzazione,globalizzazione,NOUN,_,_
 625-2,PKP069,625,e,e,e,CCONJ,_,_
@@ -4732,7 +4732,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 631-9,PKP069,631,proprio,proprio,proprio,ADV,Volume=low,_
 631-10,PKP069,631,[vabbè]°,vabbè,vabbé,INTJ,Volume=low,_
 632-0,PKP063,632,[mh],mh,mh,INTJ,_,_
-632-1,PKP063,632,esatto,esatto,esatto,ADV,_,_
+632-1,PKP063,632,esatto,esatto,esatto,ADJ,_,_
 632-2,PKP063,632,((ride)),((ride)),NVB,NVB,_,_
 632-3,PKP063,632,decrescita,decrescita,decrescita,NOUN,_,_
 632-4,PKP063,632,e,e,e,CCONJ,_,_
@@ -4858,7 +4858,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 653-6,PKP069,653,te:rra°,terra,terra,NOUN,Volume=low,_
 654-0,PKP069,654,bau~,bau~,x,X,Interrupted=Yes,_
 654-1,PKP069,654,((fa_una_pernacchia)),((fa_una_pernacchia)),NVB,NVB,_,_
-654-2,PKP069,654,°maronna°,maronna,Madonna,INTJ,Volume=low Lang=und|Dialect=Yes,_
+654-2,PKP069,654,°maronna°,maronna,Madonna,PROPN,Volume=low Lang=und|Dialect=Yes,_
 655-0,PKP063,655,n:~,n~,x,X,Interrupted=Yes,_
 655-1,PKP063,655,non,non,non,ADV,_,_
 655-2,PKP063,655,ti,ti,ti,PRON,_,_
@@ -5055,7 +5055,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 679-9b,_,_,_,il,il,DET,_,_
 679-10,PKP063,679,duemilaequattr(o),duemilaequattro,duemilaequattro,NUM,_,_
 680-0,PKP069,680,°no,no,no,ADV,Volume=low,_
-680-1,PKP069,680,esatto,esatto,esatto,ADV,Volume=low,_
+680-1,PKP069,680,esatto,esatto,esatto,ADJ,Volume=low,_
 680-2,PKP069,680,non,non,non,ADV,Volume=low,_
 680-3,PKP069,680,è:°,è,essere,AUX,Volume=low,_
 681-0,PKP063,681,[è:,è,essere,AUX,_,_
@@ -5067,7 +5067,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 683-0,PKP063,683,°ah,ah,ah,INTJ,Volume=low,_
 683-1,PKP063,683,anche,anche,anche,ADV,Volume=low,_
 683-2,PKP063,683,questo,questo,questo,PRON,Volume=low,_
-683-3,PKP063,683,sì°,sì,sì,INTJ,Volume=low,_
+683-3,PKP063,683,sì°,sì,sì,ADV,Volume=low,_
 684-0,PKP063,684,mh,mh,mh,INTJ,_,_
 685-0,PKP069,685,ah,ah,ah,INTJ,_,_
 685-1,PKP069,685,per,per,per,ADP,_,_
@@ -5202,7 +5202,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 705-1,PKP063,705,ho,ho,avere,AUX,_,_
 705-2,PKP063,705,sentito,sentito,sentire,VERB,_,_
 706-0,PKP069,706,((ride)),((ride)),NVB,NVB,_,_
-706-1,PKP069,706,l',l',il,PRON,_,SpaceAfter=No
+706-1,PKP069,706,l',l',lo,PRON,_,SpaceAfter=No
 706-2,PKP069,706,hai,hai,avere,AUX,_,_
 706-3,PKP069,706,>senti(to),sentito,sentire,VERB,_,_
 706-4,PKP069,706,ma<,ma,ma,CCONJ,_,_
@@ -5252,7 +5252,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 715-0,PKP063,715,"mh,",mh,mh,INTJ,Intonation=weakly_rising,_
 715-1,PKP063,715,eccolo,eccolo,ecco+il,ADV+PRON,_,_
 715-1a,_,_,_,ecco,ecco,ADV,_,_
-715-1b,_,_,_,lo,il,PRON,_,_
+715-1b,_,_,_,lo,lo,PRON,_,_
 716-0,PKP069,716,allo::ra,allora,allora,ADV,_,_
 716-1,PKP069,716,elogio,elogio,elogio,NOUN,_,_
 716-2,PKP069,716,della,della,di+il,ADP+DET,_,_
@@ -5735,7 +5735,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 783-5,PKP069,783,e]cuador,ecuador,Ecuador,PROPN,_,_
 783-6,PKP069,783,da,da,da,ADP,_,_
 783-7,PKP069,783,so:lo,solo,solo,ADV,_,_
-783-8,PKP069,783,lo,lo,il,PRON,_,_
+783-8,PKP069,783,lo,lo,lo,PRON,_,_
 783-9,PKP069,783,devi,devi,dovere,AUX,_,_
 783-10,PKP069,783,studiare,studiare,studiare,VERB,_,_
 783-11,PKP069,783,in,in,in,ADP,_,_
@@ -5800,7 +5800,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 793-6,PKP069,793,>dei,dei,di+il,ADP+DET,_,_
 793-6a,_,_,_,di,di,ADP,_,_
 793-6b,_,_,_,i,il,DET,_,_
-793-7,PKP069,793,paesi,paesi,Paese,NOUN,_,_
+793-7,PKP069,793,paesi,paesi,paese,NOUN,_,_
 793-8,PKP069,793,come,come,come,ADP,_,_
 793-9,PKP069,793,l',l',il,DET,_,SpaceAfter=No
 793-10,PKP069,793,italia<,italia,Italia,PROPN,_,_
@@ -5823,7 +5823,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 795-15,PKP069,795,non,non,non,ADV,_,_
 795-16,PKP069,795,non,non,non,ADV,_,_
 796-0,PKP063,796,[sì],sì,sì,ADV,_,_
-797-0,PKP063,797,[esa:tto],esatto,esatto,ADV,_,_
+797-0,PKP063,797,[esa:tto],esatto,esatto,ADJ,_,_
 798-0,PKP063,798,>cioè<,cioè,cioè,CCONJ,_,_
 798-1,PKP063,798,capisci,capisci,capire,VERB,_,_
 798-2,PKP063,798,a,a,a,ADP,_,_
@@ -6161,7 +6161,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 842-7,PKP069,842,individualismo,individualismo,individualismo,NOUN,_,_
 842-8,PKP069,842,"metodologi[co],",metodologico,metodologico,ADJ,Intonation=weakly_rising,_
 843-0,PKP063,843,[s~,s~,x,X,Interrupted=Yes,_
-843-1,PKP063,843,esatto],esatto,esatto,ADV,_,_
+843-1,PKP063,843,esatto],esatto,esatto,ADJ,_,_
 844-0,PKP069,844,[che,che,che,SCONJ,_,_
 844-1,PKP069,844,vuol,vuol,volere,AUX,_,_
 844-2,PKP069,844,dire],dire,dire,VERB,_,_
@@ -6246,7 +6246,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 854-0,PKP063,854,okay,okay,okay,INTJ,_,_
 855-0,PKP069,855,in,in,in,ADP,_,_
 855-1,PKP069,855,ecuador,ecuador,Ecuador,PROPN,_,_
-855-2,PKP069,855,la:,la,la,DET,_,_
+855-2,PKP069,855,la:,la,il,DET,_,_
 855-3,PKP069,855,che,che,che,SCONJ,_,_
 855-4,PKP069,855,si,si,si,PRON,_,_
 855-5,PKP069,855,usa,usa,usare,VERB,_,_
@@ -6285,7 +6285,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 858-1,PKP063,858,((ride)),((ride)),NVB,NVB,_,_
 859-0,PKP063,859,[palma,palma,palma,NOUN,_,_
 859-1,PKP063,859,africana],africana,africano,ADJ,_,_
-860-0,PKP069,860,esatto,esatto,esatto,ADV,_,_
+860-0,PKP069,860,esatto,esatto,esatto,ADJ,_,_
 860-1,PKP069,860,però,però,però,CCONJ,_,_
 860-2,PKP069,860,tipo,tipo,tipo,NOUN,_,_
 860-3,PKP069,860,in,in,in,ADP,_,_
@@ -6334,7 +6334,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 869-5,PKP069,869,e,e,e,CCONJ,_,_
 870-0,PKP063,870,[sì:],sì,sì,ADV,_,_
 871-0,PKP069,871,destruttura,destruttura,destrutturare,VERB,_,_
-871-1,PKP069,871,i::,i,i,DET,_,_
+871-1,PKP069,871,i::,i,il,DET,_,_
 871-2,PKP069,871,acidifica,acidifica,acidificare,VERB,_,_
 871-3,PKP069,871,i,i,il,DET,_,_
 871-4,PKP069,871,suoli,suoli,suolo,NOUN,_,_
@@ -6474,8 +6474,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 888-13,PKP063,888,bene,bene,bene,ADV,_,_
 888-14,PKP063,888,la,la,il,DET,_,_
 888-15,PKP063,888,problematica?,problematica,problematica,NOUN,Intonation=rising,_
-889-0,PKP069,889,[esatto],esatto,esatto,ADV,_,_
-890-0,PKP069,890,esa[tto],esatto,esatto,ADV,_,_
+889-0,PKP069,889,[esatto],esatto,esatto,ADJ,_,_
+890-0,PKP069,890,esa[tto],esatto,esatto,ADJ,_,_
 891-0,PKP063,891,[punto,punto,punto,NOUN,_,_
 891-1,PKP063,891,di],di,di,ADP,_,_
 891-2,PKP063,891,domand[a]?,domanda,domanda,NOUN,Intonation=rising,_
@@ -6545,7 +6545,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 898-0,PKP063,898,più,più,più,ADV,_,_
 898-1,PKP063,898,o,o,o,CCONJ,_,_
 898-2,PKP063,898,meno,meno,meno,ADV,_,_
-899-0,PKP069,899,sì:,sì,sì,INTJ,_,_
+899-0,PKP069,899,sì:,sì,sì,ADV,_,_
 899-1,PKP069,899,però,però,però,CCONJ,_,_
 899-2,PKP069,899,almeno,almeno,almeno,ADV,_,_
 899-3,PKP069,899,mh,mh,mh,INTJ,_,_
@@ -6668,7 +6668,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 913-2,PKP069,913,quelle,quelle,quello,PRON,_,_
 913-3,PKP069,913,"neoclassiche,",neoclassiche,neoclassico,ADJ,Intonation=weakly_rising,_
 914-0,PKP063,914,sì,sì,sì,ADV,_,_
-914-1,PKP063,914,esatto,esatto,esatto,ADV,_,_
+914-1,PKP063,914,esatto,esatto,esatto,ADJ,_,_
 914-2,PKP063,914,((ride)),((ride)),NVB,NVB,_,_
 914-3,PKP063,914,e,e,e,CCONJ,_,_
 914-4,PKP063,914,invece,invece,invece,ADV,_,_
@@ -6810,7 +6810,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 934-6,PKP069,934,me,me,me,PRON,_,_
 934-7,PKP069,934,chiamarle,chiamarle,chiamare+il,VERB+PRON,_,_
 934-7a,_,_,_,chiamar,chiamare,VERB,_,_
-934-7b,_,_,_,le,il,PRON,_,_
+934-7b,_,_,_,le,le,PRON,_,_
 934-8,PKP069,934,(.),(.),PAUSE,NVB,_,_
 934-9,PKP069,934,"mainstream,",mainstream,mainstream,ADJ,Intonation=weakly_rising  Lang=en,_
 935-0,PKP069,935,no,no,no,ADV,_,_
@@ -7200,9 +7200,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 975-13,PKP063,975,rimodulare,rimodulare,rimodulare,VERB,_,_
 975-14,PKP063,975,l',l',il,DET,_,SpaceAfter=No
 975-15,PKP063,975,offerta,offerta,offerta,NOUN,_,_
-976-0,PKP069,976,esatto,esatto,esatto,ADV,_,_
+976-0,PKP069,976,esatto,esatto,esatto,ADJ,_,_
 976-1,PKP069,976,(.),(.),PAUSE,NVB,_,_
-976-2,PKP069,976,°esatto°,esatto,esatto,ADV,Volume=low,_
+976-2,PKP069,976,°esatto°,esatto,esatto,ADJ,Volume=low,_
 977-0,PKP063,977,((ride)),((ride)),NVB,NVB,_,_
 978-0,PKP069,978,va,va,andare,VERB,_,_
 978-1,PKP069,978,bene,bene,bene,ADV,_,_

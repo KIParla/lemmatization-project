@@ -354,7 +354,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 88-10,TOR001,88,88,11,cioè,cioè,cioè,ADV,_,_
 88-11,TOR001,88,88,12,l~,l~,x,X,_,_
 88-12,TOR001,88,88,13,l~,l~,x,X,_,_
-88-13,TOR001,88,88,14,la,la,la,DET,_,_
+88-13,TOR001,88,88,14,la,la,il,DET,_,_
 88-14,TOR001,88,88,15,[la,la,il,DET,_,_
 88-15,TOR001,88,88,16,tua,tua,tuo,DET,_,_
 88-16,TOR001,88,88,17,giornata,giornata,giornata,NOUN,_,_
@@ -621,10 +621,10 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 141-4b,_,_,141,6,_,l',il,DET,_,_
 141-5,TOR001,141,141,7,auto,auto,auto,NOUN,_,_
 141-6,TOR001,141,141,8,(.),(.),PAUSE,NVB,_,_
-141-7,TOR001,141,141,9,certo,certo,certo,ADV,_,_
-141-8,TOR001,141,141,10,certo,certo,certo,ADV,_,_
-141-9,TOR001,141,141,11,sì,sì,sì,INTJ,_,_
-141-10,TOR001,141,141,12,sì],sì,sì,INTJ,_,_
+141-7,TOR001,141,141,9,certo,certo,certo,ADJ,_,_
+141-8,TOR001,141,141,10,certo,certo,certo,ADJ,_,_
+141-9,TOR001,141,141,11,sì,sì,sì,ADV,_,_
+141-10,TOR001,141,141,12,sì],sì,sì,ADV,_,_
 142-0,TOI003,142,142,1,[la,la,il,DET,_,_
 142-1,TOI003,142,142,2,re~,re~,x,X,_,_
 142-2,TOI003,142,142,3,(.),(.),PAUSE,NVB,_,_
@@ -813,7 +813,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 162-15a,_,_,162,17,_,di,di,ADP,_,_
 162-15b,_,_,162,18,_,il,il,DET,_,_
 162-16,TOI003,162,162,19,veicolo,veicolo,veicolo,NOUN,_,_
-163-0,TOR001,163,163,1,[certo],certo,certo,ADV,_,_
+163-0,TOR001,163,163,1,[certo],certo,certo,ADJ,_,_
 164-0,TOR002,164,164,1,pensa,pensa,pensare,VERB,_,_
 164-1,TOR002,164,164,2,te,te,te,PRON,_,_
 165-0,TOI003,165,165,1,se,se,se,SCONJ,_,_
@@ -863,7 +863,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 169-5,TOI003,169,169,6,andavo,andavo,andare,VERB,_,_
 169-6,TOI003,169,169,7,in,in,in,ADP,_,_
 169-7,TOI003,169,169,8,galera.,galera,galera,NOUN,_,_
-170-0,TOR001,170,170,1,ma[(donna)],madonna,madonna,INTJ,_,_
+170-0,TOR001,170,170,1,ma[(donna)],madonna,Madonna,PROPN,_,_
 171-0,TOI003,171,171,1,[il,il,il,DET,_,_
 171-1,TOI003,171,171,2,primo],primo,primo,ADJ,_,_
 171-2,TOI003,171,171,3,che,che,che,PRON,_,_

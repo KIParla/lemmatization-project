@@ -229,7 +229,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 43-2,BO084,43,genere,genere,genere,NOUN,_,_
 43-3,BO084,43,"linguistico,",linguistico,linguistico,ADJ,Intonation=weakly_rising,_
 44-0,BO082,44,"mh[mh],",mhmh,mhmh,INTJ,Intonation=weakly_rising,_
-45-0,BO084,45,[lo],lo,il,PRON,_,_
+45-0,BO084,45,[lo],lo,lo,PRON,_,_
 45-1,BO084,45,tratterei,tratterei,trattare,VERB,_,_
 45-2,BO084,45,prima,prima,prima,ADV,_,_
 45-3,BO084,45,in,in,in,ADP,_,_
@@ -441,8 +441,8 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 66-24,BO082,66,internet?,internet,internet,NOUN,Intonation=rising,_
 67-0,BO084,67,[sì].,sì,sì,ADV,Intonation=falling,_
 68-0,BO084,68,sì,sì,sì,ADV,_,_
-68-1,BO084,68,sì,sì,sì,INTJ,_,_
-68-2,BO084,68,sì.,sì,sì,INTJ,Intonation=falling,_
+68-1,BO084,68,sì,sì,sì,ADV,_,_
+68-2,BO084,68,sì.,sì,sì,ADV,Intonation=falling,_
 69-0,BO082,69,pensavo,pensavo,pensare,VERB,_,_
 69-1,BO082,69,avessero,avessero,avere,AUX,_,_
 69-2,BO082,69,bonificato,bonificato,bonificare,VERB,_,_
@@ -534,7 +534,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 85-4,BO084,85,[xxx,xxx,x,X,_,_
 85-5,BO084,85,"linguistico],",linguistico,linguistico,ADJ,Intonation=weakly_rising,_
 86-0,BO082,86,[allora,allora,allora,ADV,_,_
-86-1,BO082,86,le,le,il,PRON,_,_
+86-1,BO082,86,le,le,le,PRON,_,_
 86-2,BO082,86,"li,",li,li,PRON,Intonation=weakly_rising,_
 86-3,BO082,86,allora,allora,allora,ADV,_,_
 86-4,BO082,86,maschile],maschile,maschile,ADJ,_,_
@@ -820,7 +820,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 129-23,BO084,129,"genere,",genere,genere,NOUN,Intonation=weakly_rising,_
 130-0,BO082,130,[sì,sì,sì,ADV,_,_
 130-1,BO082,130,dica].,dica,dire,VERB,Intonation=falling,_
-131-0,BO082,131,[certo],certo,certo,ADV,_,_
+131-0,BO082,131,[certo],certo,certo,ADJ,_,_
 132-0,BO082,132,[sì].,sì,sì,ADV,Intonation=falling,_
 133-0,BO084,133,come,come,come,ADV,_,_
 133-1,BO084,133,si,si,si,PRON,_,_
@@ -1454,7 +1454,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 226-5,BO082,226,insomma:,insomma,insomma,ADV,_,_
 226-6,BO082,226,aspetti,aspetti,aspettere,VERB,_,_
 226-7,BO082,226,che,che,che,SCONJ,_,_
-226-8,BO082,226,le,le,il,PRON,_,_
+226-8,BO082,226,le,le,le,PRON,_,_
 226-9,BO082,226,mando,mando,mandare,VERB,_,_
 226-10,BO082,226,un,un,uno,DET,_,_
 226-11,BO082,226,link.,link,link,NOUN,Intonation=falling,_
@@ -1489,7 +1489,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 232-0,BO082,232,perché?,perché,perché,SCONJ,Intonation=rising,_
 233-0,BO082,233,eccola.,eccola,ecco+lo,ADV+PRON,Intonation=falling,_
 233-0a,_,_,_,ecco,ecco,ADV,_,_
-233-0b,_,_,_,la,lo,PRON,_,_
+233-0b,_,_,_,la,la,PRON,_,_
 234-0,BO082,234,okay,okay,okay,INTJ,_,_
 234-1,BO082,234,l',l',lo,PRON,Truncated=Yes,_
 234-2,BO082,234,ho,ho,avere,AUX,_,_

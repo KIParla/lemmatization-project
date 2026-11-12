@@ -140,7 +140,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 24-5,BO026,24,24,7-8,de]lla::,della,di+il,ADP+DET,_,_
 24-5a,_,_,24,7,_,di,di,ADP,_,_
 24-5b,_,_,24,8,_,la,il,DET,_,_
-25-0,BO027,25,25,1,[esatto].,esatto,esatto,ADV,_,_
+25-0,BO027,25,25,1,[esatto].,esatto,esatto,ADJ,_,_
 26-0,BO026,26,26,1,e:h,eh,eh,INTJ,_,_
 26-1,BO026,26,26,2,mh,mh,mh,INTJ,_,_
 27-0,BO026,27,27,1,mh,mh,mh,INTJ,_,_
@@ -220,7 +220,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 33-9,BO026,33,33,10,alcuni,alcuni,alcuno,DET,_,_
 33-10,BO026,33,33,11,anni,anni,anno,NOUN,_,_
 33-11,BO026,33,33,12,[fa].,fa,fa,ADV,_,_
-34-0,BO027,34,34,1,[esa]tto,esatto,esatto,ADV,_,_
+34-0,BO027,34,34,1,[esa]tto,esatto,esatto,ADJ,_,_
 34-1,BO027,34,34,2,[stiamo,stiamo,stare,AUX,_,_
 34-2,BO027,34,34,3,parlando,parlando,parlare,VERB,_,_
 34-3,BO027,34,34,4-5,del,del,di+il,ADP+DET,_,_
@@ -274,13 +274,13 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 41-11,BO026,41,41,12,lingue,lingue,lingua,NOUN,_,_
 41-12,BO026,41,41,13,in,in,in,ADP,_,_
 41-13,BO026,41,41,14,"cla]sse,",classe,classe,NOUN,_,_
-42-0,BO027,42,42,1,[esatto].,esatto,esatto,ADV,_,_
+42-0,BO027,42,42,1,[esatto].,esatto,esatto,ADJ,_,_
 43-0,BO026,43,43,1,e:,e,e,CCONJ,_,_
 43-1,BO026,43,43,2,i,i,il,DET,_,_
 43-2,BO026,43,43,3,capitoli,capitoli,capitolo,NOUN,_,_
 43-3,BO026,43,43,4,di,di,di,ADP,_,_
 43-4,BO026,43,43,5,fasulo.,fasulo,Fasulo,PROPN,_,_
-44-0,BO027,44,44,1,esatto.,esatto,esatto,ADV,_,_
+44-0,BO027,44,44,1,esatto.,esatto,esatto,ADJ,_,_
 45-0,BO026,45,45,1,che,che,che,SCONJ,_,_
 45-1,BO026,45,45,2,le,le,le,PRON,_,_
 45-2,BO026,45,45,3,servono,servono,servire,VERB,_,_
@@ -345,7 +345,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 52-14,BO026,52,52,16,in,in,in,ADP,_,_
 52-15,BO026,52,52,17,"classe,",classe,classe,NOUN,_,_
 53-0,BO027,53,53,1,[sì].,sì,sì,ADV,_,_
-54-0,BO027,54,54,1,[esatto].,esatto,esatto,ADV,_,_
+54-0,BO027,54,54,1,[esatto].,esatto,esatto,ADJ,_,_
 55-0,BO026,55,55,1,e::h,eh,eh,INTJ,_,_
 55-1,BO026,55,55,2,mh,mh,mh,INTJ,_,_
 56-0,BO026,56,56,1,le,le,le,PRON,_,_
@@ -468,7 +468,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 77-6a,_,_,77,7,_,di,di,ADP,_,_
 77-6b,_,_,77,8,_,gli,il,DET,_,_
 77-7,BO026,77,77,9,esem[pi].,esempi,esempio,NOUN,_,_
-78-0,BO027,78,78,1,[c]erto.,certo,certo,ADV,_,_
+78-0,BO027,78,78,1,[c]erto.,certo,certo,ADJ,_,_
 79-0,BO026,79,79,1,così,così,così,ADV,_,_
 79-1,BO026,79,79,2,le,le,le,PRON,_,_
 79-2,BO026,79,79,3,serve,serve,servire,VERB,_,_
@@ -522,7 +522,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 87-0,BO026,87,87,1,[xx,xx,x,X,_,_
 87-1,BO026,87,87,2,lo,lo,il,DET,_,_
 87-2,BO026,87,87,3,scritto],scritto,scritto,NOUN,_,_
-87-3,BO026,87,87,4,lo,lo,il,PRON,_,_
+87-3,BO026,87,87,4,lo,lo,lo,PRON,_,_
 87-4,BO026,87,87,5,deve,deve,dovere,AUX,_,_
 87-5,BO026,87,87,6,sostituire.,sostituire,sostituire,VERB,_,_
 88-0,BO027,88,88,1,[e,e,e,CCONJ,_,_
@@ -660,7 +660,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 104-10,BO027,104,104,11,u[na,una,uno,DET,_,_
 104-11,BO027,104,104,12,parte,parte,parte,NOUN,_,_
 104-12,BO027,104,104,13,scr~,scr~,scrivere,VERB,_,_
-104-13,BO027,104,104,14,esatto].,esatto,esatto,ADV,_,_
+104-13,BO027,104,104,14,esatto].,esatto,esatto,ADJ,_,_
 105-0,BO026,105,105,1,[mentre,mentre,mentre,SCONJ,_,_
 105-1,BO026,105,105,2,questo,questo,questo,DET,_,_
 105-2,BO026,105,105,3,riguarda,riguarda,riguardare,VERB,_,_
@@ -683,7 +683,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 107-9a,_,_,107,10,_,di,di,ADP,_,_
 107-9b,_,_,107,11,_,l',il,DET,_,_
 107-10,BO026,107,107,12,in[terlingua].,interlingua,interlingua,NOUN,_,_
-108-0,BO027,108,108,1,[esatto].,esatto,esatto,ADV,_,_
+108-0,BO027,108,108,1,[esatto].,esatto,esatto,ADJ,_,_
 109-0,BO027,109,109,1,[benissimo].,benissimo,bene,ADV,_,_
 110-0,BO027,110,111,1,[e:]:h,eh,eh,INTJ,_,_
 110-1,BO027,110,111,2,mh,mh,mh,INTJ,_,_
@@ -733,7 +733,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 117-5,BO026,117,117,6,dodi[ci,dodici,dodici,NUM,_,_
 117-6,BO026,117,117,7,(.),(.),PAUSE,NVB,_,_
 117-7,BO026,117,117,8,giu]gno?,giugno,giugno,NOUN,_,_
-118-0,BO027,118,118,1,[esatto].,esatto,esatto,ADV,_,_
+118-0,BO027,118,118,1,[esatto].,esatto,esatto,ADJ,_,_
 119-0,BO026,119,119,1,e:,e,e,CCONJ,_,_
 119-1,BO026,119,119,2,io,io,io,PRON,_,_
 119-2,BO026,119,119,3,avrò:,avrò,avere,VERB,_,_
@@ -808,7 +808,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 125-9,BO026,125,125,10,le,le,le,PRON,_,_
 125-10,BO026,125,125,11,mando,mando,mandare,VERB,_,_
 125-11,BO026,125,125,12,anche,anche,anche,ADV,_,_
-125-12,BO026,125,125,13,le,le,le,DET,_,_
+125-12,BO026,125,125,13,le,le,il,DET,_,_
 125-13,BO026,125,125,14,l',l',il,DET,_,_
 125-14,BO026,125,125,15,indicazione,indicazione,indicazione,NOUN,_,_
 125-15,BO026,125,125,16,de~,de~,x,X,_,_
@@ -881,7 +881,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 139-8,BO027,139,139,11,scritto,scritto,scritto,NOUN,_,_
 139-9,BO027,139,139,12,e,e,e,CCONJ,_,_
 139-10,BO027,139,139,13,"comunque,",comunque,comunque,ADV,_,_
-139-11,BO027,139,139,14,esatto].,esatto,esatto,ADV,_,_
+139-11,BO027,139,139,14,esatto].,esatto,esatto,ADJ,_,_
 140-0,BO026,140,140,1,[da,da,da,ADP,_,_
 140-1,BO026,140,140,2,oggi,oggi,oggi,ADV,_,_
 140-2,BO026,140,140,3,da,da,da,ADP,_,_
@@ -1122,7 +1122,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 166-23,???,166,166,29,scritto.,scritto,scritto,NOUN,_,_
 167-0,BO026,167,167,1,[sì].,sì,sì,ADV,_,_
 168-0,BO026,168,168,1,[sì].,sì,sì,ADV,_,_
-169-0,BO026,169,169,1,[°esatto.°],esatto,esatto,ADV,_,_
+169-0,BO026,169,169,1,[°esatto.°],esatto,esatto,ADJ,_,_
 170-0,BO026,170,170,1,[sì].,sì,sì,ADV,_,_
 171-0,BO026,171,171,1,no.,no,no,ADV,_,_
 172-0,???,172,172,1,okay.,okay,ok,INTJ,_,_

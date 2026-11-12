@@ -83,7 +83,7 @@
 11-4,PKP028,11,che,che,che,SCONJ,_
 12-0,PKP027,12,ah,ah,ah,INTJ,_
 12-1,PKP027,12,sì,sì,sì,ADV,_
-12-2,PKP027,12,certo,certo,certo,ADV,_
+12-2,PKP027,12,certo,certo,certo,ADJ,_
 13-0,PKP027,13,[vabbè],vabbè,vabbè,INTJ,_
 14-0,PKP028,14,[devi],devi,dovere,AUX,_
 14-1,PKP028,14,(.),(.),PAUSE,NVB,_,_
@@ -257,7 +257,7 @@
 44-2,PKP028,44,è,è,essere,AUX,_
 44-3,PKP028,44,bellissimo,bellissimo,bello,ADJ,_
 45-0,PKP027,45,bellissimo,bellissimo,bello,ADJ,_
-45-1,PKP027,45,certo,certo,certo,ADV,_
+45-1,PKP027,45,certo,certo,certo,ADJ,_
 45-2,PKP027,45,mh,mh,mh,INTJ,_
 45-3,PKP027,45,d',d',di,ADP,SpaceAfter=No
 45-4,PKP027,45,altronde,altronde,altronde,ADV,_
@@ -283,7 +283,7 @@
 49-6,PKP028,49,quant',quant',quanto,ADV,SpaceAfter=No
 49-7,PKP028,49,è,è,essere,AUX,_
 49-8,PKP028,49,bravo,bravo,bravo,ADJ,_
-49-9,PKP028,49,scusa,scusa,scusa,NOUN,_
+49-9,PKP028,49,scusa,scusa,scusare,VERB,_
 50-0,PKP028,50,a,a,a,ADP,_
 50-1,PKP028,50,livello,livello,livello,NOUN,_
 50-2,PKP028,50,professionale,professionale,professionale,ADJ,_
@@ -2177,7 +2177,7 @@
 313-1,PKP027,313,la,la,il,DET,Volume=low
 313-2,PKP027,313,cosa°,cosa,cosa,NOUN,Volume=low
 314-0,PKP028,314,°sì,sì,sì,ADV,Volume=low
-314-1,PKP028,314,sì,sì,sì,INTJ,Volume=low
+314-1,PKP028,314,sì,sì,sì,ADV,Volume=low
 314-2,PKP028,314,è,è,essere,AUX,Volume=low
 314-3,PKP028,314,quel,quel,quello,DET,Volume=low
 314-4,PKP028,314,personaggio,personaggio,personaggio,NOUN,Volume=low
@@ -2420,7 +2420,7 @@
 351-7,PKP028,351,capolavoro,capolavoro,capolavoro,NOUN,_
 352-0,PKP028,352,però,però,però,ADV,_
 353-0,PKP028,353,[te,te,te,PRON,_
-353-1,PKP028,353,lo,lo,il,PRON,_
+353-1,PKP028,353,lo,lo,lo,PRON,_
 353-2,PKP028,353,vedi::],vedi,vedere,VERB,_
 354-0,PKP027,354,[drive],drive,drive,NOUN,Lang=eng
 355-0,PKP027,355,drive,drive,drive,NOUN,Lang=eng
@@ -3963,7 +3963,7 @@
 598-8a,_,_,_,su,su,ADP,_
 598-8b,_,_,_,gli,il,DET,_
 598-9,PKP028,598,animali,animali,animale,NOUN,_
-598-10,PKP028,598,francesco,francesco,francesco,ADJ,_
+598-10,PKP028,598,francesco,francesco,Francesco,PROPN,_
 599-0,PKP027,599,°m::::::h°,mh,mh,INTJ,Volume=low
 600-0,PKP027,600,°eh,eh,eh,INTJ,Volume=low
 600-1,PKP027,600,vabbè°,vabbè,vabbè,INTJ,Volume=low
@@ -4269,7 +4269,7 @@
 655-2,PKP028,655,un',un',uno,DET,SpaceAfter=No
 655-3,PKP028,655,aperitivo,aperitivo,aperitivo,NOUN,_
 656-0,PKP027,656,no,no,no,ADV,_
-656-1,PKP027,656,certo,certo,certo,ADV,_
+656-1,PKP027,656,certo,certo,certo,ADJ,_
 657-0,PKP028,657,perché,perché,perché,SCONJ,_
 657-1,PKP028,657,(.),(.),PAUSE,NVB,_,_
 657-2,PKP028,657,cioè,cioè,cioè,CCONJ,_
@@ -4773,7 +4773,7 @@
 729-19,PKP028,729,quindi,quindi,quindi,ADV,_
 729-20,PKP028,729,dev]i,devi,dovere,AUX,_
 729-21,PKP028,729,andare>,andare,andare,VERB,_
-730-0,PKP027,730,[<certo>],certo,certo,ADV,_
+730-0,PKP027,730,[<certo>],certo,certo,ADJ,_
 731-0,PKP028,731,<nei,nei,in+il,ADP+DET,_
 731-0a,_,_,_,in,in,ADP,_
 731-0b,_,_,_,i,il,DET,_
@@ -4899,7 +4899,7 @@
 753-7,PKP028,753,una,una,uno,DET,_
 753-8,PKP028,753,stagi[one],stagione,stagione,NOUN,_
 754-0,PKP027,754,[e::h],eh,eh,INTJ,_
-754-1,PKP027,754,certo,certo,certo,ADV,_
+754-1,PKP027,754,certo,certo,certo,ADJ,_
 755-0,PKP028,755,che,che,che,SCONJ,_
 755-1,PKP028,755,>magari,magari,magari,ADV,_
 755-2,PKP028,755,a,a,a,ADP,_
@@ -4914,7 +4914,7 @@
 755-11,PKP028,755,non<,non,non,ADV,_
 755-12,PKP028,755,magari,magari,magari,ADV,_
 755-13,PKP028,755,lei,lei,lei,PRON,_
-755-14,PKP028,755,lo,lo,il,PRON,_
+755-14,PKP028,755,lo,lo,lo,PRON,_
 755-15,PKP028,755,vuole,vuole,volere,AUX,_
 755-16,PKP028,755,tenere,tenere,tenere,VERB,_
 755-17,PKP028,755,solo,solo,solo,ADV,_

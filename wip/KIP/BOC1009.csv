@@ -467,7 +467,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 77-0,BO142,77,77,1,transizionale.,transizionale,transizionale,ADJ,Intonation=falling,_
 78-0,BO117,78,78,1,[e:::h,eh,eh,INTJ,_,_
 78-1,BO117,78,78,2,(.),(.),PAUSE,NVB,_,_
-78-2,BO117,78,78,3,sì].,sì,sì,INTJ,Intonation=falling,_
+78-2,BO117,78,78,3,sì].,sì,sì,ADV,Intonation=falling,_
 79-0,BO142,79,79,1,[punti,punti,punto,NOUN,_,_
 79-1,BO142,79,79,2,di,di,di,ADP,_,_
 79-2,BO142,79,79,3,rilevanza,rilevanza,rilevanza,NOUN,_,_
@@ -592,7 +592,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 95-3,BO142,95,95,4,per,per,per,ADP,_,_
 95-4,BO142,95,95,5,"continuarlo,",continuarlo,continuare+lo,VERB+PRON,Intonation=weakly_rising,_
 95-4a,-,-,95,4,-,continuare,continuare,VERB,_,_
-95-4b,-,-,95,4,-,lo,il,PRON,_,_
+95-4b,-,-,95,4,-,lo,lo,PRON,_,_
 96-0,BO142,96,96,1,(l',l',il,DET,Truncated=Yes,_
 96-1,BO142,96,96,2,int~),int~,x,X,Interrupted=Yes,_
 96-2,BO142,96,96,3,il:,il,il,DET,_,_
@@ -804,7 +804,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 130-3,BO142,130,130,4,che,che,che,SCONJ,_,_
 130-4,BO142,130,130,5,è,è,essere,AUX,_,_
 130-5,BO142,130,130,6,"i[l:],",il,il,DET,Intonation=weakly_rising,_
-131-0,BO117,131,131,1,[sì,sì,sì,INTJ,_,_
+131-0,BO117,131,131,1,[sì,sì,sì,ADV,_,_
 131-1,BO117,131,131,2,c]he,che,che,PRON,_,_
 131-2,BO117,131,131,3,lo,lo,lo,PRON,_,_
 131-3,BO117,131,131,4,condiziona,condiziona,condizionare,VERB,_,_
@@ -1277,7 +1277,7 @@ token_id,speaker,tu_id,unit,id,span,form,lemma,upos,jefferson_feats,space_after
 195-9,BO142,195,195,11,ad,ad,a,ADP,_,_
 195-10,BO142,195,195,12-13,apportarle,apportarle,apportare+il,VERB+PRON,_,_
 195-10a,_,_,195,12,_,apportar,apportare,VERB,_,_
-195-10b,_,_,195,13,_,le,il,PRON,_,_
+195-10b,_,_,195,13,_,le,le,PRON,_,_
 195-11,BO142,195,195,14,una,una,uno,DET,_,_
 195-12,BO142,195,195,15,modifica,modifica,modifica,NOUN,_,_
 195-13,BO142,195,195,16,di:,di,di,ADP,_,_
