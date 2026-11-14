@@ -29,7 +29,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 6-2,TO086,6,un,un,uno,DET,_,_
 6-3,TO086,6,modello::,modello,modello,NOUN,_,_
 6-4,TO086,6,famoso,famoso,famoso,ADJ,_,_
-6-5,TO086,6,nell',nell',in+il,ADP+DET,_,_
+6-5,TO086,6,nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 6-5a,_,_,_,in,in,ADP,_,_
 6-5b,_,_,_,l',il,DET,_,_
 6-6,TO086,6,ambito,ambito,ambito,NOUN,_,_
@@ -101,7 +101,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 18-4,TO085,18,era,era,essere,VERB,_,_
 18-5,TO085,18,tipo::,tipo,tipo,NOUN,_,_
 18-6,TO085,18,>cioè<,cioè,cioè,CCONJ,_,_
-18-7,TO085,18,l',l',il,DET,_,_
+18-7,TO085,18,l',l',il,DET,_,SpaceAfter=No
 18-8,TO085,18,ho,ho,avere,AUX,_,_
 18-9,TO085,18,trovata,trovata,trovare,VERB,_,_
 18-10,TO085,18,in,in,in,ADP,_,_
@@ -202,12 +202,12 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 29-1,TO085,29,sì,sì,sì,ADV,_,_
 29-2,TO085,29,è,è,essere,VERB,_,_
 29-3,TO085,29,buono,buono,buono,ADJ,_,_
-29-4,TO085,29,l',l',il,DET,_,_
+29-4,TO085,29,l',l',il,DET,_,SpaceAfter=No
 29-5,TO085,29,abbinamento,abbinamento,abbinamento,NOUN,_,_
 30-0,TO086,30,vediamo,vediamo,vedere,VERB,_,_
 30-1,TO086,30,sta,sta,questa,DET,_,_
 30-2,TO086,30,pizza,pizza,pizza,NOUN,_,_
-30-3,TO086,30,com',com',come,ADV,_,_
+30-3,TO086,30,com',com',come,ADV,_,SpaceAfter=No
 30-4,TO086,30,è,è,essere,AUX,_,_
 31-0,TO086,31,°xxx°,xxx,x,X,_,_
 32-0,TO085,32,sembra,sembra,sembrare,VERB,_,_
@@ -238,7 +238,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 40-2,TO086,40,anche,anche,anche,ADV,_,_
 40-3,TO086,40,abbastanza,abbastanza,abbastanza,ADV,_,_
 40-4,TO086,40,fresca,fresca,fresco,ADJ,_,_
-40-5,TO086,40,l',l',lo,PRON,_,_
+40-5,TO086,40,l',l',lo,PRON,_,SpaceAfter=No
 40-6,TO086,40,ho,ho,avere,AUX,_,_
 40-7,TO086,40,presa,presa,prendere,VERB,_,_
 40-8,TO086,40,in,in,in,ADP,_,_
@@ -395,7 +395,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 70-0,TO086,70,però::,però,però,ADV,_,_
 70-1,TO086,70,diciamo,diciamo,dire,VERB,_,_
 70-2,TO086,70,è,è,essere,VERB,_,_
-70-3,TO086,70,l',l',il,DET,_,_
+70-3,TO086,70,l',l',il,DET,_,SpaceAfter=No
 70-4,TO086,70,esperienza,esperienza,esperienza,NOUN,_,_
 70-5,TO086,70,che,che,che,PRON,_,_
 70-6,TO086,70,mi,mi,mi,PRON,_,_
@@ -443,7 +443,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 78-3a,_,_,_,di,di,ADP,_,_
 78-3b,_,_,_,le,il,DET,_,_
 78-4,TO086,78,robe,robe,roba,NOUN,_,_
-78-5,TO086,78,d',d',di,ADP,_,_
+78-5,TO086,78,d',d',di,ADP,_,SpaceAfter=No
 78-6,TO086,78,ingegneria,ingegneria,ingegneria,NOUN,_,_
 78-7,TO086,78,non,non,non,ADV,_,_
 78-8,TO086,78,so,so,sapere,VERB,_,_
@@ -485,7 +485,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 83-1,TO086,83,salu:to,saluto,saluto,NOUN,_,_
 84-0,TO085,84,ma,ma,ma,CCONJ,_,_
 84-1,TO085,84,da,da,da,ADP,_,_
-84-2,TO085,84,quant',quant',quanto,ADV,_,_
+84-2,TO085,84,quant',quant',quanto,ADV,_,SpaceAfter=No
 84-3,TO085,84,è,è,essere,VERB,_,_
 84-4,TO085,84,che,che,che,SCONJ,_,_
 84-5,TO085,84,è,è,essere,VERB,_,_
@@ -543,16 +543,16 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 97-8,TO086,97,un,un,uno,DET,_,_
 97-9,TO086,97,sacco,sacco,sacco,NOUN,_,_
 97-10,TO086,97,però,però,però,ADV,_,_
-98-0,TO086,98,l',l',il,DET,_,_
+98-0,TO086,98,l',l',il,DET,_,SpaceAfter=No
 98-1,TO086,98,emozione,emozione,emozione,NOUN,_,_
-98-2,TO086,98,c',c',ci,PRON,_,_
+98-2,TO086,98,c',c',ci,PRON,_,SpaceAfter=No
 98-3,TO086,98,è,è,essere,VERB,_,_
 98-4,TO086,98,sempre,sempre,sempre,ADV,_,_
 98-5,TO086,98,non:::,non,non,ADV,_,_
 99-0,TO085,99,ti,ti,ti,PRON,_,_
 99-1,TO085,99,capisco,capisco,capire,VERB,_,_
 100-0,TO085,100,io,io,io,PRON,_,_
-100-1,TO085,100,l',l',il,DET,_,_
+100-1,TO085,100,l',l',il,DET,_,SpaceAfter=No
 100-2,TO085,100,altro,altro,altro,ADJ,_,_
 100-3,TO085,100,giorno,giorno,giorno,NOUN,_,_
 100-4,TO085,100,stavo,stavo,stare,AUX,_,_
@@ -597,7 +597,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 107-6,TO086,107,lo,lo,lo,PRON,_,_
 107-7,TO086,107,so::,so,sapere,VERB,_,_
 108-0,TO086,108,>cioè<,cioè,cioè,CCONJ,_,_
-108-1,TO086,108,c',c',ci,PRON,_,_
+108-1,TO086,108,c',c',ci,PRON,_,SpaceAfter=No
 108-2,TO086,108,ho,ho,avere,AUX,_,_
 108-3,TO086,108,anche,anche,anche,ADV,_,_
 108-4,TO086,108,pensato,pensato,pensare,VERB,_,_
@@ -690,7 +690,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 122-9,TO086,122,ha,ha,avere,AUX,_,_
 122-10,TO086,122,ricercato,ricercato,ricercare,VERB,_,_
 123-0,TO086,123,>cioè<,cioè,cioè,CCONJ,_,_
-123-1,TO086,123,all',all',a+il,ADP+DET,_,_
+123-1,TO086,123,all',all',a+il,ADP+DET,_,SpaceAfter=No
 123-1a,_,_,_,a,a,ADP,_,_
 123-1b,_,_,_,l',il,DET,_,_
 123-2,TO086,123,inizio,inizio,inizio,NOUN,_,_
@@ -723,7 +723,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 126-6,TO086,126,visto,visto,vedere,VERB,_,_
 126-7,TO086,126,che,che,che,SCONJ,_,_
 126-8,TO086,126,qualcosa,qualcosa,qualcosa,PRON,_,_
-126-9,TO086,126,l',l',lo,PRON,_,_
+126-9,TO086,126,l',l',lo,PRON,_,SpaceAfter=No
 126-10,TO086,126,ho,ho,avere,AUX,_,_
 126-11,TO086,126,lasciato:,lasciato,lasciare,VERB,_,_
 127-0,TO085,127,ma,ma,ma,CCONJ,_,_
@@ -795,7 +795,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 137-1,TO085,137,ah,ah,ah,INTJ,_,_
 137-2,TO085,137,sì,sì,sì,ADV,_,_
 137-3,TO085,137,te,te,ti,PRON,_,_
-137-4,TO085,137,l',l',lo,PRON,_,_
+137-4,TO085,137,l',l',lo,PRON,_,SpaceAfter=No
 137-5,TO085,137,ho,ho,avere,AUX,_,_
 137-6,TO085,137,detto,detto,dire,VERB,_,_
 137-7,TO085,137,che,che,che,SCONJ,_,_
@@ -1028,7 +1028,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 182-0,TO085,182,bene,bene,bene,ADV,_,_
 183-0,TO086,183,mh,mh,mh,INTJ,_,_
 183-1,TO086,183,tra,tra,tra,ADP,_,_
-183-2,TO086,183,l',l',il,DET,_,_
+183-2,TO086,183,l',l',il,DET,_,SpaceAfter=No
 183-3,TO086,183,altro,altro,altro,PRON,_,_
 183-4,TO086,183,penso,penso,pensare,VERB,_,_
 183-5,TO086,183,che,che,che,SCONJ,_,_
@@ -1036,7 +1036,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 183-7,TO086,183,qui:,qui,qui,ADV,_,_
 184-0,TO086,184,>cioè<,cioè,cioè,CCONJ,_,_
 184-1,TO086,184,tra,tra,tra,ADP,_,_
-184-2,TO086,184,l',l',il,DET,_,_
+184-2,TO086,184,l',l',il,DET,_,SpaceAfter=No
 184-3,TO086,184,altro,altro,altro,PRON,_,_
 184-4,TO086,184,lo,lo,lo,PRON,_,_
 184-5,TO086,184,so,so,sapere,VERB,_,_
@@ -1128,7 +1128,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 198-1,TO085,198,abita?,abita,abitare,VERB,_,_
 199-0,TO086,199,>cioè<,cioè,cioè,CCONJ,_,_
 199-1,TO086,199,di,di,di,ADP,_,_
-199-2,TO086,199,dov',dov',dove,ADV,_,_
+199-2,TO086,199,dov',dov',dove,ADV,_,SpaceAfter=No
 199-3,TO086,199,è,è,essere,VERB,_,_
 199-4,TO086,199,originario,originario,originario,ADJ,_,_
 199-5,TO086,199,o,o,o,CCONJ,_,_
@@ -1152,7 +1152,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 200-14,TO085,200,studiare,studiare,studiare,VERB,_,_
 201-0,TO086,201,sì,sì,sì,ADV,_,_
 202-0,TO085,202,°mh°,mh,mh,INTJ,_,_
-203-0,TO086,203,dell',dell',di+il,ADP+DET,_,_
+203-0,TO086,203,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 203-0a,_,_,_,di,di,ADP,_,_
 203-0b,_,_,_,l',il,DET,_,_
 203-1,TO086,203,umbria,umbria,Umbria,PROPN,_,_
@@ -1217,7 +1217,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 213-6,TO086,213,altre,altre,altro,ADJ,_,_
 213-7,TO086,213,persone::,persone,persona,NOUN,_,_
 213-8,TO086,213,di,di,di,ADP,_,_
-213-9,TO086,213,dov',dov',dove,ADV,_,_
+213-9,TO086,213,dov',dov',dove,ADV,_,SpaceAfter=No
 213-10,TO086,213,è,è,essere,VERB,_,_
 213-11,TO086,213,lui,lui,lui,PRON,_,_
 214-0,TO086,214,non,non,non,ADV,_,_
@@ -1258,7 +1258,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 221-4,TO085,221,capire,capire,capire,VERB,_,_
 221-5,TO085,221,perché,perché,perché,SCONJ,_,_
 221-6,TO085,221,non,non,non,ADV,_,_
-221-7,TO085,221,c',c',ci,PRON,_,_
+221-7,TO085,221,c',c',ci,PRON,_,SpaceAfter=No
 221-8,TO085,221,è,è,essere,VERB,_,_
 221-9,TO085,221,nessuno,nessuno,nessuno,PRON,_,_
 221-10,TO085,221,in,in,in,ADP,_,_
@@ -1272,7 +1272,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 222-2,TO085,222,le,le,il,DET,_,_
 222-3,TO085,222,lezioni]?,lezioni,lezione,NOUN,_,_
 223-0,TO086,223,[forse,forse,forse,ADV,_,_
-223-1,TO086,223,c',c',ci,PRON,_,_
+223-1,TO086,223,c',c',ci,PRON,_,SpaceAfter=No
 223-2,TO086,223,è,è,essere,VERB,_,_
 223-3,TO086,223,una,una,uno,DET,_,_
 223-4,TO086,223,pausa]?,pausa,pausa,NOUN,_,_
@@ -1280,7 +1280,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 224-1,TO086,224,lo,lo,lo,PRON,_,_
 224-2,TO086,224,so,so,sapere,VERB,_,_
 225-0,TO085,225,non,non,non,ADV,_,_
-225-1,TO085,225,c',c',ci,PRON,_,_
+225-1,TO085,225,c',c',ci,PRON,_,SpaceAfter=No
 225-2,TO085,225,è,è,essere,VERB,_,_
 225-3,TO085,225,più,più,più,ADV,_,_
 225-4,TO085,225,nessuno,nessuno,nessuno,PRON,_,_
@@ -1289,7 +1289,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 225-7,TO085,225,studiare,studiare,studiare,VERB,_,_
 225-8,TO085,225,°>cioè<°,cioè,cioè,CCONJ,_,_
 226-0,TO085,226,quando,quando,quando,SCONJ,_,_
-226-1,TO085,226,c',c',ci,PRON,_,_
+226-1,TO085,226,c',c',ci,PRON,_,SpaceAfter=No
 226-2,TO085,226,era,era,essere,VERB,_,_
 226-3,TO085,226,il,il,il,DET,_,_
 226-4,TO085,226,sole,sole,sole,NOUN,_,_
@@ -1331,11 +1331,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 233-5,TO086,233,voglia,voglia,voglia,NOUN,_,_
 233-6,TO086,233,poi,poi,poi,ADV,_,_
 234-0,TO086,234,se,se,se,SCONJ,_,_
-234-1,TO086,234,c',c',ci,PRON,_,_
+234-1,TO086,234,c',c',ci,PRON,_,SpaceAfter=No
 234-2,TO086,234,è,è,essere,VERB,_,_
 234-3,TO086,234,qualcuno,qualcuno,qualcuno,PRON,_,_
 234-4,TO086,234,vengo,vengo,venire,VERB,_,_
-234-5,TO086,234,anch',anch',anche,ADV,_,_
+234-5,TO086,234,anch',anch',anche,ADV,_,SpaceAfter=No
 234-6,TO086,234,io,io,io,PRON,_,_
 234-7,TO086,234,perché,perché,perché,SCONJ,_,_
 234-8,TO086,234,so,so,sapere,VERB,_,_
@@ -1438,7 +1438,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 251-9,TO086,251,preso,preso,prendere,VERB,_,_
 251-10,TO086,251,un,un,uno,DET,_,_
 251-11,TO086,251,po',po',poco,NOUN,_,_
-251-12,TO086,251,d',d',di,ADP,_,_
+251-12,TO086,251,d',d',di,ADP,_,SpaceAfter=No
 251-13,TO086,251,aria,aria,aria,NOUN,_,_
 252-0,TO086,252,che,che,che,PRON,_,_
 252-1,TO086,252,magari,magari,magari,ADV,_,_
@@ -1459,7 +1459,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 255-2a,_,_,_,chiamar,chiamare,VERB,_,_
 255-2b,_,_,_,la,la,PRON,_,_
 256-0,TO086,256,ma,ma,ma,CCONJ,_,_
-256-1,TO086,256,l',l',il,DET,_,_
+256-1,TO086,256,l',l',il,DET,_,SpaceAfter=No
 256-2,TO086,256,aneddoto,aneddoto,aneddoto,NOUN,_,_
 256-3,TO086,256,della,della,di+il,ADP+DET,_,_
 256-3a,_,_,_,di,di,ADP,_,_
@@ -1488,11 +1488,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 259-1,TO085,259,chi]?,chi,chi,PRON,_,_
 260-0,TO086,260,luca,luca,Luca,PROPN,_,_
 261-0,TO085,261,non,non,non,ADV,_,_
-261-1,TO085,261,c',c',ci,PRON,_,_
+261-1,TO085,261,c',c',ci,PRON,_,SpaceAfter=No
 261-2,TO085,261,ero,ero,essere,VERB,_,_
 262-0,TO086,262,ah,ah,ah,INTJ,_,_
 262-1,TO086,262,non,non,non,ADV,_,_
-262-2,TO086,262,c',c',ci,PRON,_,_
+262-2,TO086,262,c',c',ci,PRON,_,SpaceAfter=No
 262-3,TO086,262,eri,eri,essere,VERB,_,_
 262-4,TO086,262,quando,quando,quando,SCONJ,_,_
 262-5,TO086,262,x?,x,x,X,_,_
@@ -1507,7 +1507,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 264-6,TO086,264,a,a,a,ADP,_,_
 264-7,TO086,264,casa,casa,casa,NOUN,_,_
 264-8,TO086,264,è,è,essere,AUX,_,_
-264-9,TO086,264,l',l',il,DET,_,_
+264-9,TO086,264,l',l',il,DET,_,SpaceAfter=No
 264-10,TO086,264,addetto,addetto,addetto,NOUN,_,_
 264-11,TO086,264,alla,alla,a+il,ADP+DET,_,_
 264-11a,_,_,_,a,a,ADP,_,_
@@ -1519,7 +1519,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 265-3,TO085,265,non,non,non,ADV,_,_
 265-4,TO085,265,no::,no,no,ADV,_,_
 265-5,TO085,265,non,non,non,ADV,_,_
-265-6,TO085,265,c',c',ci,PRON,_,_
+265-6,TO085,265,c',c',ci,PRON,_,SpaceAfter=No
 265-7,TO085,265,ero,ero,essere,AUX,_,_
 266-0,TO085,266,((ride)),((ride)),NVB,NVB,_,_
 266-1,TO085,266,[ma,ma,ma,CCONJ,_,_
@@ -1558,7 +1558,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 271-0,TO086,271,magari,magari,magari,ADV,_,_
 271-1,TO086,271,[mette,mette,mettere,VERB,_,_
 271-2,TO086,271,lì,lì,lì,ADV,_,_
-271-3,TO086,271,l',l',il,DET,_,_
+271-3,TO086,271,l',l',il,DET,_,SpaceAfter=No
 271-4,TO086,271,aneddoto,aneddoto,aneddoto,NOUN,_,_
 271-5,TO086,271,legandolo],legandolo,legare+lo,VERB+PRON,_,_
 271-5a,_,_,_,legando,legare,VERB,_,_
@@ -1597,10 +1597,10 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 277-7a,_,_,_,contestualizzar,contestualizzare,VERB,_,_
 277-7b,_,_,_,la,la,PRON,_,_
 278-0,TO085,278,[o,o,o,CCONJ,_,_
-278-1,TO085,278,c',c',ci,PRON,_,_
+278-1,TO085,278,c',c',ci,PRON,_,SpaceAfter=No
 278-2,TO085,278,]ero:?,ero,essere,VERB,_,_
 279-0,TO085,279,forse,forse,forse,ADV,_,_
-279-1,TO085,279,c',c',ci,PRON,_,_
+279-1,TO085,279,c',c',ci,PRON,_,SpaceAfter=No
 279-2,TO085,279,ero,ero,essere,VERB,_,_
 280-0,TO085,280,secondo,secondo,secondo,ADP,_,_
 280-1,TO085,280,me,me,me,PRON,_,_
@@ -1611,7 +1611,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 281-0,TO085,281,di,di,di,ADP,_,_
 281-1,TO085,281,ri~,ri~,riallocazione,NOUN,_,_
 281-2,TO085,281,riallocazione,riallocazione,riallocazione,NOUN,_,_
-282-0,TO086,282,anch',anch',anche,ADV,_,_
+282-0,TO086,282,anch',anch',anche,ADV,_,SpaceAfter=No
 282-1,TO086,282,io,io,io,PRON,_,_
 282-2,TO086,282,s[tavo,stavo,stare,AUX,_,_
 282-3,TO086,282,pensando],pensando,pensare,VERB,_,_
@@ -1703,7 +1703,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 298-8,TO086,298,voi,voi,voi,PRON,_,_
 298-9,TO086,298,di,di,di,ADP,_,_
 298-10,TO086,298,solito,solito,solito,NOUN,_,_
-299-0,TO086,299,dev',dev',dovere,AUX,_,_
+299-0,TO086,299,dev',dev',dovere,AUX,_,SpaceAfter=No
 299-1,TO086,299,essere,essere,essere,VERB,_,_
 299-2,TO086,299,buonis[sima],buonissima,buono,ADJ,_,_
 300-0,TO085,300,[buoni]ssima,buonissima,buono,ADJ,_,_
@@ -1713,7 +1713,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 301-3,TO086,301,piccola,piccola,piccolo,ADJ,_,_
 301-4,TO086,301,la,la,la,PRON,_,_
 301-5,TO086,301,mangiavo,mangiavo,mangiare,VERB,_,_
-301-6,TO086,301,anch',anch',anche,ADV,_,_
+301-6,TO086,301,anch',anch',anche,ADV,_,SpaceAfter=No
 301-7,TO086,301,io,io,io,PRON,_,_
 301-8,TO086,301,però,però,però,ADV,_,_
 301-9,TO086,301,non,non,non,ADV,_,_
@@ -1819,7 +1819,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 316-2,TO085,316,no,no,no,ADV,_,_
 316-3,TO085,316,(.),(.),PAUSE,NVB,_,_
 316-4,TO085,316,non,non,non,ADV,_,_
-316-5,TO085,316,gliel',gliel',gli+lo,PRON+PRON,_,_
+316-5,TO085,316,gliel',gliel',gli+lo,PRON+PRON,_,SpaceAfter=No
 316-5a,_,_,_,glie,gli,PRON,_,_
 316-5b,_,_,_,l',lo,PRON,_,_
 316-6,TO085,316,ho,ho,avere,AUX,_,_
@@ -1862,7 +1862,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 322-7,TO085,322,del::,del,di+il,ADP+DET,_,_
 322-7a,_,_,_,di,di,ADP,_,_
 322-7b,_,_,_,il,il,DET,_,_
-322-8,TO085,322,dell',dell',di+il,ADP+DET,_,_
+322-8,TO085,322,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 322-8a,_,_,_,di,di,ADP,_,_
 322-8b,_,_,_,l',il,DET,_,_
 322-9,TO085,322,uni,uni,università,PRON,_,_
@@ -1875,7 +1875,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 325-2,TO085,325,secondo,secondo,secondo,ADP,_,_
 325-3,TO085,325,lucia,lucia,Lucia,PROPN,_,_
 325-4,TO085,325,non,non,non,ADV,_,_
-325-5,TO085,325,c',c',ci,PRON,_,_
+325-5,TO085,325,c',c',ci,PRON,_,SpaceAfter=No
 325-6,TO085,325,è,è,essere,VERB,_,_
 325-7,TO085,325,stasera,stasera,stasera,ADV,_,_
 326-0,TO085,326,perché,perché,perché,SCONJ,_,_
@@ -1901,7 +1901,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 328-0,TO085,328,e,e,e,CCONJ,_,_
 328-1,TO085,328,lei,lei,lei,PRON,_,_
 328-2,TO085,328,non,non,non,ADV,_,_
-328-3,TO085,328,c',c',ci,PRON,_,_
+328-3,TO085,328,c',c',ci,PRON,_,SpaceAfter=No
 328-4,TO085,328,è,è,essere,VERB,_,_
 328-5,TO085,328,secondo,secondo,secondo,ADP,_,_
 328-6,TO085,328,me,me,me,PRON,_,_
@@ -1969,7 +1969,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 340-3,TO086,340,ti,ti,ti,PRON,_,_
 340-4,TO086,340,dice,dice,dire,VERB,_,_
 340-5,TO086,340,tutto,tutto,tutto,PRON,_,_
-340-6,TO086,340,l',l',il,DET,_,_
+340-6,TO086,340,l',l',il,DET,_,SpaceAfter=No
 340-7,TO086,340,istruttore,istruttore,istruttore,NOUN,_,_
 340-8,TO086,340,essendo,essendo,essere,VERB,_,_
 340-9,TO086,340,la,la,il,DET,_,_
@@ -1998,7 +1998,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 344-0,TO085,344,[ma,ma,ma,CCONJ,_,_
 344-1,TO085,344,tu:,tu,tu,PRON,_,_
 344-2,TO085,344,avevi],avevi,avere,VERB,_,_
-344-3,TO085,344,un',un',uno,DET,_,_
+344-3,TO085,344,un',un',uno,DET,_,SpaceAfter=No
 344-4,TO085,344,idea,idea,idea,NOUN,_,_
 344-5,TO085,344,di,di,di,ADP,_,_
 344-6,TO085,344,come,come,come,ADV,_,_
@@ -2034,7 +2034,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 349-1,TO085,349,sì,sì,sì,ADV,_,_
 350-0,TO086,350,invece,invece,invece,ADV,_,_
 350-1,TO086,350,con,con,con,ADP,_,_
-350-2,TO086,350,l',l',il,DET,_,_
+350-2,TO086,350,l',l',il,DET,_,SpaceAfter=No
 350-3,TO086,350,istruttore,istruttore,istruttore,NOUN,_,_
 350-4,TO086,350,non,non,non,ADV,_,_
 350-5,TO086,350,ho,ho,avere,AUX,_,_
@@ -2174,7 +2174,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 375-2,TO085,375,i,i,il,DET,_,_
 375-3,TO085,375,panzerotti,panzerotti,panzerotto,NOUN,_,_
 375-4,TO085,375,da,da,da,ADP,_,_
-375-5,TO085,375,un',un',uno,DET,_,_
+375-5,TO085,375,un',un',uno,DET,_,SpaceAfter=No
 375-6,TO085,375,amica,amica,amico,NOUN,_,_
 375-7,TO085,375,della,della,di+il,ADP+DET,_,_
 375-7a,_,_,_,di,di,ADP,_,_
@@ -2233,7 +2233,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 383-2,TO085,383,centrale,centrale,centrale,ADJ,_,_
 383-3,TO085,383,ma,ma,ma,CCONJ,_,_
 383-4,TO085,383,non,non,non,ADV,_,_
-383-5,TO085,383,c',c',ci,PRON,_,_
+383-5,TO085,383,c',c',ci,PRON,_,SpaceAfter=No
 383-6,TO085,383,è,è,essere,VERB,_,_
 383-7,TO085,383,niente,niente,niente,PRON,_,_
 384-0,TO086,384,eh,eh,eh,INTJ,_,_
@@ -2306,11 +2306,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 392-5,TO085,392,più::,più,più,ADV,_,_
 393-0,TO085,393,>cioè<,cioè,cioè,CCONJ,_,_
 393-1,TO085,393,non,non,non,ADV,_,_
-393-2,TO085,393,c',c',ci,PRON,_,_
+393-2,TO085,393,c',c',ci,PRON,_,SpaceAfter=No
 393-3,TO085,393,è,è,essere,VERB,_,_
 393-4,TO085,393,p~,p~,x,X,_,_
 393-5,TO085,393,non,non,non,ADV,_,_
-393-6,TO085,393,c',c',ci,PRON,_,_
+393-6,TO085,393,c',c',ci,PRON,_,SpaceAfter=No
 393-7,TO085,393,è,è,essere,VERB,_,_
 393-8,TO085,393,niente,niente,niente,PRON,_,_
 394-0,TO086,394,perché,perché,perché,SCONJ,_,_
@@ -2337,7 +2337,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 398-7,TO086,398,non,non,non,ADV,_,_
 398-8,TO086,398,piace,piace,piacere,VERB,_,_
 398-9,TO086,398,st]are::,stare,stare,VERB,_,_
-399-0,TO085,399,[neanch',neanch',neanche,ADV,_,_
+399-0,TO085,399,[neanch',neanch',neanche,ADV,_,SpaceAfter=No
 399-1,TO085,399,io],io,io,PRON,_,_
 400-0,TO086,400,io,io,io,PRON,_,_
 400-1,TO086,400,sono,sono,essere,VERB,_,_
@@ -2345,7 +2345,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 400-3,TO086,400,cittadina,cittadina,cittadino,ADJ,_,_
 400-4,TO086,400,quindi::,quindi,quindi,ADV,_,_
 401-0,TO085,401,ma,ma,ma,CCONJ,_,_
-401-1,TO085,401,anch',anch',anche,ADV,_,_
+401-1,TO085,401,anch',anch',anche,ADV,_,SpaceAfter=No
 401-2,TO085,401,io,io,io,PRON,_,_
 402-0,TO085,402,non,non,non,ADV,_,_
 402-1,TO085,402,ci,ci,ci,PRON,_,_
@@ -2367,7 +2367,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 405-4,TO085,405,di,di,di,ADP,_,_
 405-5,TO085,405,essere,essere,essere,VERB,_,_
 405-6,TO085,405,in,in,in,ADP,_,_
-405-7,TO085,405,un',un',uno,DET,_,_
+405-7,TO085,405,un',un',uno,DET,_,SpaceAfter=No
 405-8,TO085,405,altra,altra,altro,ADJ,_,_
 405-9,TO085,405,città,città,città,NOUN,_,_
 405-10,TO085,405,poi,poi,poi,ADV,_,_
@@ -2406,7 +2406,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 411-0,TO086,411,in,in,in,ADP,_,_
 411-1,TO086,411,un,un,uno,DET,_,_
 411-2,TO086,411,quarto,quarto,quarto,NUM,_,_
-411-3,TO086,411,d',d',di,ADP,_,_
+411-3,TO086,411,d',d',di,ADP,_,SpaceAfter=No
 411-4,TO086,411,ora,ora,ora,NOUN,_,_
 411-5,TO086,411,ci,ci,ci,PRON,_,_
 411-6,TO086,411,arrivi,arrivi,arrivare,VERB,_,_
@@ -2501,7 +2501,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 432-2,TO085,432,fastidio°,fastidio,fastidio,NOUN,_,_
 433-0,TO086,433,comunque,comunque,comunque,ADV,_,_
 433-1,TO086,433,aldilà,al,aldilà,ADV,_,_
-433-4,TO086,433,dell',dell',di+il,ADP+DET,_,_
+433-4,TO086,433,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 433-4a,_,_,_,di,di,ADP,_,_
 433-4b,_,_,_,l',il,DET,_,_
 433-5,TO086,433,esito,esito,esito,NOUN,_,_
@@ -2783,11 +2783,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 479-0,TO085,479,[è,è,essere,AUX,_,_
 479-1,TO085,479,vero],vero,vero,ADJ,_,_
 480-0,TO085,480,ma,ma,ma,CCONJ,_,_
-480-1,TO085,480,c',c',ci,PRON,_,_
+480-1,TO085,480,c',c',ci,PRON,_,SpaceAfter=No
 480-2,TO085,480,avevo,avevo,avere,AUX,_,_
 480-3,TO085,480,fatto,fatto,fare,VERB,_,_
 480-4,TO085,480,caso::,caso,caso,NOUN,_,_
-481-0,TO085,481,l',l',il,DET,_,_
+481-0,TO085,481,l',l',il,DET,_,SpaceAfter=No
 481-1,TO085,481,altro,altro,altro,ADJ,_,_
 481-2,TO085,481,giorno,giorno,giorno,NOUN,_,_
 482-0,TO085,482,((ride)),((ride)),NVB,NVB,_,_
@@ -2829,9 +2829,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 492-0,TO085,492,e::,e,e,CCONJ,_,_
 492-1,TO085,492,vabbè,vabbè,vabbè,INTJ,_,_
 493-0,TO085,493,oggi,oggi,oggi,ADV,_,_
-493-1,TO085,493,c',c',ci,PRON,_,_
+493-1,TO085,493,c',c',ci,PRON,_,SpaceAfter=No
 493-2,TO085,493,era::,era,essere,VERB,_,_
-493-3,TO085,493,l',l',il,DET,_,_
+493-3,TO085,493,l',l',il,DET,_,SpaceAfter=No
 493-4,TO085,493,incontro,incontro,incontro,NOUN,_,_
 494-0,TO085,494,con,con,con,ADP,_,_
 494-1,TO085,494,i::,i,il,DET,_,_
@@ -2844,13 +2844,13 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 496-4,TO085,496,rettore,rettore,rettore,NOUN,_,_
 497-0,TO086,497,ah,ah,ah,INTJ,_,_
 497-1,TO086,497,sì,sì,sì,ADV,_,_
-497-2,TO086,497,l',l',il,DET,_,_
+497-2,TO086,497,l',l',il,DET,_,SpaceAfter=No
 497-3,TO086,497,ave~,ave~,x,X,_,_
 497-4,TO086,497,forse,forse,forse,ADV,_,_
 497-5,TO086,497,ci,ci,ci,PRON,_,_
 497-6,TO086,497,hanno,hanno,avere,AUX,_,_
 497-7,TO086,497,mandato,mandato,mandare,VERB,_,_
-497-8,TO086,497,un',un',uno,DET,_,_
+497-8,TO086,497,un',un',uno,DET,_,SpaceAfter=No
 497-9,TO086,497,email,email,email,NOUN,_,_
 498-0,TO085,498,e::h,eh,eh,INTJ,_,_
 498-1,TO085,498,io,io,io,PRON,_,_
@@ -2864,7 +2864,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 499-3,TO085,499,i,i,il,DET,_,_
 499-4,TO085,499,miei,miei,mio,ADJ,_,_
 499-5,TO085,499,amici,amici,amico,NOUN,_,_
-499-6,TO085,499,dell',dell',di+il,ADP+DET,_,_
+499-6,TO085,499,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 499-6a,_,_,_,di,di,ADP,_,_
 499-6b,_,_,_,l',il,DET,_,_
 499-7,TO085,499,udu,udu,udu,NOUN,_,_
@@ -2946,7 +2946,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 514-2,TO086,514,ma,ma,ma,CCONJ,_,_
 514-3,TO086,514,da,da,da,ADP,_,_
 514-4,TO086,514,dove,dove,dove,ADV,_,_
-514-5,TO086,514,l',l',la,PRON,_,_
+514-5,TO086,514,l',l',la,PRON,_,SpaceAfter=No
 514-6,TO086,514,hai,hai,avere,AUX,_,_
 514-7,TO086,514,persa,persa,perdere,VERB,_,_
 514-8,TO086,514,la,la,il,DET,_,_

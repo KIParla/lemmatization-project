@@ -5,7 +5,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1-0,TOI019,1,da,da,da,ADP,_,_
 1-1,TOI019,1,dove,dove,dove,ADV,_,_
 1-2,TOI019,1,"comincio,",comincio,cominciare,VERB,_,_
-1-3,TOI019,1,dall',dall',da+il,ADP+DET,_,_
+1-3,TOI019,1,dall',dall',da+il,ADP+DET,_,SpaceAfter=No
 1-3a,_,_,_,da,da,ADP,_,_
 1-3b,_,_,_,l',il,DET,_,_
 1-4,TOI019,1,inizio?,inizio,inizio,NOUN,_,_
@@ -14,7 +14,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 4-0,TOI019,4,mio,mio,mio,ADJ,_,_
 4-1,TOI019,4,cugino,cugino,cugino,NOUN,_,_
 4-2,TOI019,4,che,che,che,PRON,_,_
-4-3,TOI019,4,m',m',mi,PRON,_,_
+4-3,TOI019,4,m',m',mi,PRON,_,SpaceAfter=No
 4-4,TOI019,4,accompagna,accompagna,accompagnare,VERB,_,_
 4-5,TOI019,4,perché,perché,perché,SCONJ,_,_
 4-6,TOI019,4,non,non,non,ADV,_,_
@@ -46,9 +46,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 7-7,TOI019,7,an[ni],anni,anno,NOUN,_,_
 8-0,TOR004,8,[ec]co.,ecco,ecco,ADV,_,_
 9-0,TOI019,9,prendendo,prendendo,prendere,VERB,_,_
-9-1,TOI019,9,l',l',il,DET,_,_
+9-1,TOI019,9,l',l',il,DET,_,SpaceAfter=No
 9-2,TOI019,9,euto~,euto~,x,X,_,_
-9-3,TOI019,9,l',l',il,DET,_,_
+9-3,TOI019,9,l',l',il,DET,_,SpaceAfter=No
 9-4,TOI019,9,eurostar,eurostar,Eurostar,PROPN,_,_
 10-0,TOI019,10,a,a,a,ADP,_,_
 10-1,TOI019,10,foggia,foggia,Foggia,PROPN,_,_
@@ -182,7 +182,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 35-12,TOI019,35,non:,non,non,ADV,_,_
 36-0,TOI019,36,però,però,però,ADV,_,_
 36-1,TOI019,36,non,non,non,ADV,_,_
-36-2,TOI019,36,c',c',ci,PRON,_,_
+36-2,TOI019,36,c',c',ci,PRON,_,SpaceAfter=No
 36-3,TOI019,36,acchiannene,acchiannene,salire,VERB,Lang=und|Dialect=Yes,_
 36-4,TOI019,36,soupe,soupe,sopra,ADV,Lang=und|Dialect=Yes,_
 36-5,TOI019,36,al,al,a+il,ADP+DET,_,_
@@ -205,13 +205,13 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 38-5,TOI019,38,chiù,chiù,più,ADV,Lang=und|Dialect=Yes,_
 39-0,TOI019,39,e,e,e,CCONJ,_,_
 39-1,TOI019,39,allor(a),allora,allora,ADV,_,_
-40-0,TOI019,40,(s',s',si,PRON,_,_
+40-0,TOI019,40,(s',s',si,PRON,_,SpaceAfter=No
 40-1,TOI019,40,andava),andava,andare,VERB,_,_
 40-2,TOI019,40,fino,fino,fino,ADV,_,_
 40-3,TOI019,40,a,a,a,ADP,_,_
 40-4,TOI019,40,termoli,termoli,Termoli,PROPN,_,_
 41-0,TOI019,41,termoli,termoli,Termoli,PROPN,_,_
-41-1,TOI019,41,c',c',ci,PRON,_,_
+41-1,TOI019,41,c',c',ci,PRON,_,SpaceAfter=No
 41-2,TOI019,41,è,è,essere,VERB,_,_
 41-3,TOI019,41,la,la,il,DET,_,_
 41-4,TOI019,41,prima,prima,primo,ADJ,_,_
@@ -301,7 +301,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 58-0,TOI019,58,vuoi,vuoi,volere,AUX,_,_
 58-1,TOI019,58,sapere,sapere,sapere,VERB,_,_
 58-2,TOI019,58,ancora,ancora,ancora,ADV,_,_
-58-3,TOI019,58,qualcos',qualcos',qualcosa,DET,_,_
+58-3,TOI019,58,qualcos',qualcos',qualcosa,DET,_,SpaceAfter=No
 58-4,TOI019,58,al[tro]?,altro,altro,PRON,_,_
 58-5,TOI019,58,((ride)),((ride)),NVB,NVB,_,_
 59-0,TOR004,59,[no],no,no,ADV,_,_
@@ -311,5 +311,5 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 60-1,TOI019,60,"così,",così,così,ADV,_,_
 61-0,TOR004,61,grazie,grazie,grazie,NOUN,_,_
 61-1,TOR004,61,per,per,per,ADP,_,_
-61-2,TOR004,61,l',l',il,DET,_,_
+61-2,TOR004,61,l',l',il,DET,_,SpaceAfter=No
 61-3,TOR004,61,intervista.,intervista,intervista,NOUN,_,_

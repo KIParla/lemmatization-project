@@ -3320,7 +3320,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 452-8,BO026,452,learning,learning,learning,NOUN,_,_
 452-9,BO026,452,agreement,agreement,agreement,NOUN,_,_
 452-10,BO026,452,e,e,e,CCONJ,_,_
-452-11,BO026,452,l',l',il,DET,_,_
+452-11,BO026,452,l',l',il,DET,_,SpaceAfter=No
 452-12,BO026,452,iscrizione,iscrizione,iscrizione,NOUN,_,_
 452-13,BO026,452,a,a,a,ADP,_,_
 452-14,BO026,452,copenaghen.,copenaghen,Copenaghen,PROPN,_,_
@@ -3488,7 +3488,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 472-3,BO039,472,però::,però,però,ADV,_,_
 473-0,BO026,473,perché,perché,perché,SCONJ,_,_
 473-1,BO026,473,se,se,se,SCONJ,_,_
-473-2,BO026,473,c',c',ci,PRON,_,_
+473-2,BO026,473,c',c',ci,PRON,_,SpaceAfter=No
 473-3,BO026,473,è,è,essere,AUX,_,_
 473-4,BO026,473,una,una,uno,DET,_,_
 473-5,BO026,473,scadenza,scadenza,scadenza,NOUN,_,_
@@ -3672,7 +3672,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 492-1,BO039,492,che,che,che,ADP,_,_
 492-2,BO039,492,altro,altro,altro,PRON,_,_
 492-3,BO039,492,magari,magari,magari,ADV,_,_
-492-4,BO039,492,l',l',il,DET,_,_
+492-4,BO039,492,l',l',il,DET,_,SpaceAfter=No
 492-5,BO039,492,es[ame,esame,esame,NOUN,_,_
 492-6,BO039,492,a,a,a,ADP,_,_
 492-7,BO039,492,scelta:],scelta,scelta,NOUN,_,_
@@ -3701,7 +3701,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 495-3,BO026,495,magistrale,magistrale,magistrale,NOUN,_,_
 495-4,BO026,495,>di,di,di,ADP,_,_
 495-5,BO026,495,didattica,didattica,didattica,NOUN,_,_
-495-6,BO026,495,dell',dell',di+il,ADP+DET,_,_
+495-6,BO026,495,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 495-6a,_,_,_,di,di,ADP,_,_
 495-6b,_,_,_,l',il,DET,_,_
 495-7,BO026,495,italiano<,italiano,italiano,NOUN,_,_
@@ -3731,7 +3731,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 498-8,BO038,498,mh,mh,mh,INTJ,_,_
 498-9,BO038,498,avremmo,avremmo,avere,VERB,_,_
 498-10,BO038,498,cioè,cioè,cioè,CCONJ,_,_
-498-11,BO038,498,l',l',il,DET,_,_
+498-11,BO038,498,l',l',il,DET,_,SpaceAfter=No
 498-12,BO038,498,esame,esame,esame,NOUN,_,_
 498-13,BO038,498,è,è,essere,AUX,_,_
 498-14,BO038,498,strutturato,strutturato,strutturare,VERB,_,_
@@ -3743,7 +3743,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 499-2,BO038,499,"e,",e,e,CCONJ,_,_
 500-0,BO038,500,una,una,uno,DET,_,_
 500-1,BO038,500,traduzione,traduzione,traduzione,NOUN,_,_
-500-2,BO038,500,un',un',uno,DET,_,_
+500-2,BO038,500,un',un',uno,DET,_,SpaceAfter=No
 500-3,BO038,500,analisi,analisi,analisi,NOUN,_,_
 500-4,BO038,500,del,del,di+il,ADP+DET,_,_
 500-4a,_,_,_,di,di,ADP,_,_
@@ -3790,7 +3790,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 506-2,BO026,506,no,no,no,ADV,_,_
 506-3,BO026,506,no]:n,non,non,ADV,_,_
 506-4,BO026,506,(.),(.),PAUSE,NVB,_,_
-506-5,BO026,506,l',l',il,DET,_,_
+506-5,BO026,506,l',l',il,DET,_,SpaceAfter=No
 506-6,BO026,506,importante,importante,importante,NOUN,_,_
 506-7,BO026,506,è,è,essere,VERB,_,_
 506-8,BO026,506,che,che,che,SCONJ,_,_
@@ -3827,7 +3827,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 511-1,BO039,511,là,là,là,ADV,_,_
 511-2,BO039,511,è,è,essere,AUX,_,_
 511-3,BO039,511,mh,mh,mh,INTJ,_,_
-511-4,BO039,511,l',l',il,DET,_,_
+511-4,BO039,511,l',l',il,DET,_,SpaceAfter=No
 511-5,BO039,511,esame,esame,esame,NOUN,_,_
 511-6,BO039,511,di,di,di,ADP,_,_
 511-7,BO039,511,cope[naghen],copenaghen,Copenaghen,PROPN,_,_
@@ -3875,7 +3875,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 518-3,BO026,518,siete,siete,essere,VERB,_,_
 518-4,BO026,518,lì,lì,lì,ADV,_,_
 518-5,BO026,518,se,se,se,SCONJ,_,_
-518-6,BO026,518,c',c',ci,PRON,_,_
+518-6,BO026,518,c',c',ci,PRON,_,SpaceAfter=No
 518-7,BO026,518,è,è,essere,AUX,_,_
 518-8,BO026,518,qualcosa,qualcosa,qualcosa,PRON,_,_
 518-9,BO026,518,io,io,io,PRON,_,_
@@ -3978,7 +3978,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 530-3,BO026,530,no~,no~,x,X,_,_
 530-4,BO026,530,deve,deve,dovere,AUX,_,_
 530-5,BO026,530,chiedere],chiedere,chiedere,VERB,_,_
-530-6,BO026,530,all',all',a+il,ADP+DET,_,_
+530-6,BO026,530,all',all',a+il,ADP+DET,_,SpaceAfter=No
 530-6a,_,_,_,a,a,ADP,_,_
 530-6b,_,_,_,l',il,DET,_,_
 530-7,BO026,530,ufficio,ufficio,ufficio,NOUN,_,_
@@ -4031,7 +4031,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 533-8,BO039,533,messo,messo,mettere,VERB,_,_
 533-9,BO039,533,tirocinio,tirocinio,tirocinio,NOUN,_,_
 533-10,BO039,533,presso,presso,presso,ADP,_,_
-533-11,BO039,533,l',l',il,DET,_,_
+533-11,BO039,533,l',l',il,DET,_,SpaceAfter=No
 533-12,BO039,533,universi[tà,università,università,NOUN,_,_
 533-13,BO039,533,di,di,di,ADP,_,_
 533-14,BO039,533,"cope]naghen,",copenaghen,Copenaghen,PROPN,_,_
@@ -4276,7 +4276,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 566-1,BO038,566,che,che,che,SCONJ,_,_
 566-2,BO038,566,sia,sia,essere,AUX,_,_
 566-3,BO038,566,ape]rto,aperto,aprire,VERB,_,_
-566-4,BO038,566,all',all',a+il,ADP+DET,_,_
+566-4,BO038,566,all',all',a+il,ADP+DET,_,SpaceAfter=No
 566-4a,_,_,_,a,a,ADP,_,_
 566-4b,_,_,_,l',il,DET,_,_
 566-5,BO038,566,era~,era~,x,X,_,_

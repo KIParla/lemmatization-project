@@ -2929,7 +2929,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 494-2,BOI019,494,c',c',ci,PRON,_,SpaceAfter=No
 494-3,BOI019,494,è,è,essere,VERB,_,_
 494-4,BOI019,494,più,più,più,ADV,_,_
-494-5,BOI019,494,l',l',il,DET,Truncated=Yes,_
+494-5,BOI019,494,l',l',il,DET,_,_
 494-6,BOI019,494,l',l',il,DET,_,SpaceAfter=No
 494-7,BOI019,494,architetto:,architetto,architetto,NOUN,_,_
 495-0,BOI019,495,e::h,eh,eh,INTJ,_,_
@@ -6594,7 +6594,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1003-9,BOI019,1003,questi,questi,questo,DET,_,_
 1003-10,BOI019,1003,morti,morti,morto,NOUN,_,_
 1004-0,BOI019,1004,in,in,in,ADP,_,_
-1004-1,BOI019,1004,quest',quest',questo,DET,Truncated=Yes,_
+1004-1,BOI019,1004,quest',quest',questo,DET,Truncated=Yes,SpaceAfter=No
 1004-2,BOI019,1004,infermeria,infermeria,infermeria,NOUN,_,_
 1005-0,BOI019,1005,te,te,ti,PRON,_,_
 1005-1,BOI019,1005,li,li,li,PRON,_,_

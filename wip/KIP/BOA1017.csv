@@ -83,13 +83,13 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 18-5,BO084,18,gli,gli,il,DET,_,_
 18-6,BO084,18,esami,esami,esame,NOUN,_,_
 18-7,BO084,18,di,di,di,ADP,_,_
-18-8,BO084,18,quest',quest',questo,ADJ,Truncated=Yes,_
+18-8,BO084,18,quest',quest',questo,ADJ,Truncated=Yes,SpaceAfter=No
 18-9,BO084,18,"anno,",anno,anno,NOUN,Intonation=weakly_rising,_
 18-10,BO084,18,giugno,giugno,giugno,NOUN,_,_
 18-11,BO084,18,luglio.,luglio,luglio,NOUN,Intonation=falling,_
 19-0,BO082,19,giugno,giugno,giugno,NOUN,_,_
 19-1,BO082,19,non,non,non,ADV,_,_
-19-2,BO082,19,c',c',ci,PRON,Truncated=Yes,_
+19-2,BO082,19,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 19-3,BO082,19,"è,",è,essere,VERB,Intonation=weakly_rising,_
 19-4,BO082,19,quindi,quindi,quindi,ADV,_,_
 19-5,BO082,19,[luglio].,luglio,luglio,NOUN,Intonation=falling,_
@@ -187,7 +187,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 37-0,BO084,37,[allora,allora,allora,ADV,_,_
 37-1,BO084,37,io,io,io,PRON,_,_
 37-2,BO084,37,ho,ho,avere,VERB,_,_
-37-3,BO084,37,un',un',uno,DET,Truncated=Yes,_
+37-3,BO084,37,un',un',uno,DET,Truncated=Yes,SpaceAfter=No
 37-4,BO084,37,idea,idea,idea,NOUN,_,_
 37-5,BO084,37,abbastanza,abbastanza,abbastanza,ADV,_,_
 37-6,BO084,37,precisa],precisa,preciso,ADJ,_,_
@@ -217,7 +217,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 41-6,BO084,41,quando,quando,quando,SCONJ,_,_
 41-7,BO084,41,avevo,avevo,avere,AUX,_,_
 41-8,BO084,41,fatto,fatto,fare,VERB,_,_
-41-9,BO084,41,l',l',il,DET,Truncated=Yes,_
+41-9,BO084,41,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 41-10,BO084,41,esame,esame,esame,NOUN,_,_
 41-11,BO084,41,di,di,di,ADP,_,_
 41-12,BO084,41,"[linguistica],",linguistica,linguistica,NOUN,Intonation=weakly_rising,_
@@ -247,7 +247,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 48-5a,_,_,_,di,di,ADP,_,_
 48-5b,_,_,_,i,il,DET,_,_
 48-6,BO084,48,crite:ri,criteri,criterio,NOUN,_,_
-48-7,BO084,48,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+48-7,BO084,48,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 48-7a,_,_,_,di,di,ADP,_,_
 48-7b,_,_,_,l',il,DET,_,_
 48-8,BO084,48,assegnazione,assegnazione,assegnazione,NOUN,_,_
@@ -281,7 +281,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 51-8,BO084,51,la,la,il,DET,_,_
 51-9,BO084,51,categoria,categoria,categoria,NOUN,_,_
 51-10,BO084,51,quindi,quindi,quindi,ADV,_,_
-51-11,BO084,51,[all',all',a+il,ADP+DET,Truncated=Yes,_
+51-11,BO084,51,[all',all',a+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 51-11a,_,_,_,a,a,ADP,_,_
 51-11b,_,_,_,l',il,DET,_,_
 51-12,BO084,51,universa:le],universale,universale,NOUN,_,_
@@ -305,7 +305,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 53-2,BO084,53,le,le,il,DET,_,_
 53-3,BO084,53,"differenze,",differenze,differenza,NOUN,Intonation=weakly_rising,_
 53-4,BO084,53,però,però,però,ADV,_,_
-53-5,BO084,53,l',l',il,DET,Truncated=Yes,_
+53-5,BO084,53,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 53-6,BO084,53,aspetto,aspetto,aspetto,NOUN,_,_
 53-7,BO084,53,che,che,che,PRON,_,_
 53-8,BO084,53,mi,mi,mi,PRON,_,_
@@ -313,7 +313,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 53-10,BO084,53,di,di,di,ADP,_,_
 53-11,BO084,53,più,più,più,ADV,_,_
 53-12,BO084,53,è,è,essere,VERB,_,_
-53-13,BO084,53,l',l',il,DET,Truncated=Yes,_
+53-13,BO084,53,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 53-14,BO084,53,articolo,articolo,articolo,NOUN,_,_
 53-15,BO084,53,che,che,che,PRON,_,_
 53-16,BO084,53,avevo,avevo,avere,AUX,_,_
@@ -432,7 +432,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 66-15,BO082,66,"fa,",fa,fa,ADV,Intonation=weakly_rising,_
 66-16,BO082,66,ma,ma,ma,CCONJ,_,_
 66-17,BO082,66,dove,dove,dove,ADV,_,_
-66-18,BO082,66,[l',l',lo,PRON,Truncated=Yes,_
+66-18,BO082,66,[l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 66-19,BO082,66,ha,ha,avere,AUX,_,_
 66-20,BO082,66,trovata],trovata,trovare,VERB,_,_
 66-21,BO082,66,questa,questa,questo,DET,_,_
@@ -459,7 +459,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 71-7,BO084,71,ha,ha,avere,AUX,_,_
 71-8,BO084,71,interessato,interessato,interessare,VERB,_,_
 71-9,BO084,71,è,è,essere,AUX,_,_
-71-10,BO084,71,l',l',il,DET,Truncated=Yes,_
+71-10,BO084,71,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 71-11,BO084,71,"ipotesi,",ipotesi,ipotesi,NOUN,Intonation=weakly_rising,_
 72-0,BO084,72,[sapir,sapir,Sapir,PROPN,_,_
 72-1,BO084,72,"who:]rf,",whorf,Whorf,PROPN,Intonation=weakly_rising,_
@@ -482,7 +482,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 77-1,BO084,77,quindi,quindi,quindi,ADV,_,_
 77-2,BO084,77,volevo,volevo,volere,AUX,_,_
 77-3,BO084,77,fare,fare,fare,VERB,_,_
-77-4,BO084,77,un',un',uno,DET,Truncated=Yes,_
+77-4,BO084,77,un',un',uno,DET,Truncated=Yes,SpaceAfter=No
 77-5,BO084,77,"analisi,",analisi,analisi,NOUN,Intonation=weakly_rising,_
 78-0,BO084,78,sulle,sulle,su+il,ADP+DET,_,_
 78-0a,_,_,_,su,su,ADP,_,_
@@ -515,7 +515,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 81-0,BO082,81,[sì].,sì,sì,ADV,Intonation=falling,_
 82-0,BO084,82,quindi,quindi,quindi,ADV,_,_
 82-1,BO084,82,proprio,proprio,proprio,ADV,_,_
-82-2,BO084,82,nell',nell',in+il,ADP+DET,Truncated=Yes,_
+82-2,BO084,82,nell',nell',in+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 82-2a,_,_,_,in,in,ADP,_,_
 82-2b,_,_,_,l',il,DET,_,_
 82-3,BO084,82,aspetto,aspetto,aspetto,NOUN,_,_
@@ -780,9 +780,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 127-17,BO082,127,ma,ma,ma,CCONJ,_,_
 127-18,BO082,127,può,può,potere,AUX,_,_
 127-19,BO082,127,dare,dare,dare,VERB,_,_
-127-20,BO082,127,un',un',uno,DET,Truncated=Yes,_
+127-20,BO082,127,un',un',uno,DET,Truncated=Yes,SpaceAfter=No
 127-21,BO082,127,"occhiata,",occhiata,occhiata,NOUN,Intonation=weakly_rising,_
-128-0,BO082,128,c',c',ci,PRON,Truncated=Yes,_
+128-0,BO082,128,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 128-1,BO082,128,era,era,essere,VERB,_,_
 128-2,BO082,128,un,un,uno,DET,_,_
 128-3,BO082,128,libro,libro,libro,NOUN,_,_
@@ -845,7 +845,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 136-2,BO084,136,inglese,inglese,inglese,NOUN,_,_
 136-3,BO084,136,ab~,ab~,x,X,Interrupted=Yes,_
 136-4,BO084,136,>cioè<,cioè,cioè,CCONJ,_,_
-136-5,BO084,136,c',c',ci,PRON,Truncated=Yes,_
+136-5,BO084,136,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 136-6,BO084,136,è,è,essere,VERB,_,_
 136-7,BO084,136,questo,questo,questo,DET,_,_
 136-8,BO084,136,fossile,fossile,fossile,NOUN,_,_
@@ -882,7 +882,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 142-1,BO084,142,colpiva,colpiva,colpire,VERB,_,_
 142-2,BO084,142,vedere,vedere,vedere,VERB,_,_
 142-3,BO084,142,come,come,come,ADV,_,_
-142-4,BO084,142,l',l',il,DET,Truncated=Yes,_
+142-4,BO084,142,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 142-5,BO084,142,inghilterra,inghilterra,Inghilterra,PROPN,_,_
 142-6,BO084,142,è,è,essere,AUX,_,_
 142-7,BO084,142,la,la,il,DET,_,_
@@ -923,11 +923,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 144-3,BO084,144,differenza,differenza,differenza,NOUN,_,_
 144-4,BO084,144,invece,invece,invece,ADV,_,_
 144-5,BO084,144,con,con,con,ADP,_,_
-144-6,BO084,144,l',l',il,DET,Truncated=Yes,_
+144-6,BO084,144,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 144-7,BO084,144,italiano,italiano,italiano,NOUN,_,_
 144-8,BO084,144,perché,perché,perché,SCONJ,_,_
 144-9,BO084,144,invece,invece,invece,ADV,_,_
-144-10,BO084,144,l',l',il,DET,Truncated=Yes,_
+144-10,BO084,144,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 144-11,BO084,144,italiano,italiano,italiano,NOUN,_,_
 144-12,BO084,144,a,a,a,ADP,_,_
 144-13,BO084,144,me,me,me,PRON,_,_
@@ -1040,7 +1040,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 156-1,BO082,156,però,però,però,ADV,_,_
 156-2,BO082,156,questo,questo,questo,PRON,_,_
 156-3,BO082,156,non,non,non,ADV,_,_
-156-4,BO082,156,c',c',ci,PRON,Truncated=Yes,_
+156-4,BO082,156,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 156-5,BO082,156,entra,entra,entrare,VERB,_,_
 156-6,BO082,156,niente],niente,niente,PRON,_,_
 156-7,BO082,156,col,col,con+il,ADP+DET,_,_
@@ -1260,7 +1260,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 192-0,BO082,192,prova,prova,provare,VERB,_,_
 192-1,BO082,192,a,a,a,ADP,_,_
 192-2,BO082,192,dare,dare,dare,VERB,_,_
-192-3,BO082,192,un',un',uno,DET,Truncated=Yes,_
+192-3,BO082,192,un',un',uno,DET,Truncated=Yes,SpaceAfter=No
 192-4,BO082,192,"occhiata,",occhiata,occhiata,NOUN,Intonation=weakly_rising,_
 193-0,BO082,193,sì,sì,sì,ADV,_,_
 193-1,BO082,193,ci,ci,ci,PRON,_,_
@@ -1299,7 +1299,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 200-5,BO082,200,alma,alma,Alma,PROPN,_,_
 200-6,BO082,200,sabatini,sabatini,Sabatini,PROPN,_,_
 200-7,BO082,200,per,per,per,ADP,_,_
-200-8,BO082,200,l',l',il,DET,Truncated=Yes,_
+200-8,BO082,200,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 200-9,BO082,200,"uso:,",uso,uso,NOUN,Intonation=weakly_rising,_
 201-0,BO084,201,s[ì:].,sì,sì,ADV,Intonation=falling,_
 202-0,BO082,202,[e:],e,e,CCONJ,_,_
@@ -1320,7 +1320,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 204-1,BO084,204,ho,ho,avere,AUX,_,_
 204-2,BO084,204,[vis]ti,visti,vedere,VERB,_,_
 204-3,BO084,204,quelli,quelli,quello,PRON,_,_
-204-4,BO084,204,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+204-4,BO084,204,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 204-4a,_,_,_,di,di,ADP,_,_
 204-4b,_,_,_,l',il,DET,_,_
 204-5,BO084,204,alma,alma,Alma,PROPN,_,_
@@ -1424,7 +1424,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 220-0,BO082,220,"e::,",e,e,CCONJ,Intonation=weakly_rising,_
 221-0,BO082,221,come,come,come,ADV,_,_
 221-1,BO082,221,inquadrare,inquadrare,inquadrare,VERB,_,_
-221-2,BO082,221,c',c',ci,PRON,Truncated=Yes,_
+221-2,BO082,221,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 221-3,BO082,221,è,è,essere,VERB,_,_
 221-4,BO082,221,anche,anche,anche,ADV,_,_
 221-5,BO082,221,"e:,",e,e,CCONJ,Intonation=weakly_rising,_
@@ -1466,7 +1466,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 227-3,BO082,227,"li:nk,",link,link,NOUN,Intonation=weakly_rising,_
 228-0,BO082,228,dove,dove,dove,ADV,_,_
 228-1,BO082,228,trova,trova,trovare,VERB,_,_
-228-2,BO082,228,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+228-2,BO082,228,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 228-2a,_,_,_,di,di,ADP,_,_
 228-2b,_,_,_,l',il,DET,_,_
 228-3,BO082,228,ulteriore,ulteriore,ulteriore,ADJ,_,_
@@ -1493,7 +1493,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 233-0a,_,_,_,ecco,ecco,ADV,_,_
 233-0b,_,_,_,la,la,PRON,_,_
 234-0,BO082,234,okay,okay,ok,INTJ,_,_
-234-1,BO082,234,l',l',lo,PRON,Truncated=Yes,_
+234-1,BO082,234,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 234-2,BO082,234,ho,ho,avere,AUX,_,_
 234-3,BO082,234,incollato,incollato,incollare,VERB,_,_
 234-4,BO082,234,due,due,due,NUM,_,_
@@ -1561,7 +1561,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 240-7,BO082,240,ci,ci,ci,PRON,_,_
 240-8,BO082,240,vediamo,vediamo,vedere,VERB,_,_
 240-9,BO082,240,"direi:,",direi,dire,VERB,Intonation=weakly_rising,_
-241-0,BO082,241,l',l',il,DET,Truncated=Yes,_
+241-0,BO082,241,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 241-1,BO082,241,ideale,ideale,ideale,NOUN,_,_
 241-2,BO082,241,sarebbe,sarebbe,essere,VERB,_,_
 241-3,BO082,241,se,se,se,SCONJ,_,_
@@ -1619,7 +1619,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 247-1,BO082,247,vediamo,vediamo,vedere,VERB,_,_
 247-2,BO082,247,subito,subito,subito,ADV,_,_
 247-3,BO082,247,dopo,dopo,dopo,ADP,_,_
-247-4,BO082,247,l',l',il,DET,Truncated=Yes,_
+247-4,BO082,247,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 247-5,BO082,247,epifania.,epifania,Epifania,PROPN,Intonation=falling,_
 248-0,BO084,248,quindi,quindi,quindi,ADV,_,_
 248-1,BO084,248,[o,o,o,CCONJ,_,_
@@ -1645,7 +1645,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 251-3a,_,_,_,a,a,ADP,_,_
 251-3b,_,_,_,la,il,DET,_,_
 251-4,BO082,251,ripresa,ripresa,ripresa,NOUN,_,_
-251-5,BO082,251,l',l',il,DET,Truncated=Yes,_
+251-5,BO082,251,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 251-6,BO082,251,otto,otto,otto,NUM,_,_
 251-7,BO082,251,il,il,il,DET,_,_
 251-8,BO082,251,nove,nove,nove,NUM,_,_

@@ -160,7 +160,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 18-6,BO141,18,fra,fra,fra,ADP,_,_
 18-7,BO141,18,parlante,parlante,parlante,ADJ,_,_
 18-8,BO141,18,e,e,e,CCONJ,_,_
-18-9,BO141,18,l',l',il,DET,Truncated=Yes,_
+18-9,BO141,18,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 18-10,BO141,18,ascoltatore,ascoltatore,ascoltatore,NOUN,_,_
 19-0,BO141,19,ehm,ehm,ehm,INTJ,_,_
 19-1,BO141,19,che,che,che,PRON,_,_
@@ -200,7 +200,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 20-16a,_,_,_,in,in,ADP,_,_
 20-16b,_,_,_,i,il,DET,_,_
 20-17,BO141,20,confronti,confronti,confronto,NOUN,_,_
-20-18,BO141,20,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+20-18,BO141,20,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 20-18a,_,_,_,di,di,ADP,_,_
 20-18b,_,_,_,l',il,DET,_,_
 20-19,BO141,20,"interlocutore,",interlocutore,interlocutore,NOUN,Intonation=weakly_rising,_
@@ -228,7 +228,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 22-16,BO141,22,appunto,appunto,appunto,ADV,_,_
 22-17,BO141,22,per,per,per,ADP,_,_
 22-18,BO141,22,per,per,per,ADP,_,_
-22-19,BO141,22,l',l',il,DET,Truncated=Yes,_
+22-19,BO141,22,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 22-20,BO141,22,"interlocutore,",interlocutore,interlocutore,NOUN,Intonation=weakly_rising,_
 23-0,BO141,23,abbiamo,abbiamo,avere,AUX,_,_
 23-1,BO141,23,visto,visto,vedere,VERB,_,_
@@ -305,7 +305,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 29-7,BO141,29,parte,parte,parte,NOUN,_,_
 30-0,BO141,30,che,che,che,PRON,_,_
 30-1,BO141,30,permette,permette,permettere,VERB,_,_
-30-2,BO141,30,all',all',a+il,ADP+DET,Truncated=Yes,_
+30-2,BO141,30,all',all',a+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 30-2a,_,_,_,a,a,ADP,_,_
 30-2b,_,_,_,l',il,DET,_,_
 30-3,BO141,30,interlocutore,interlocutore,interlocutore,NOUN,_,_
@@ -314,11 +314,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 30-6,BO141,30,in,in,in,ADP,_,_
 30-7,BO141,30,qualche,qualche,qualche,DET,_,_
 30-8,BO141,30,modo,modo,modo,NOUN,_,_
-30-9,BO141,30,all',all',a+il,ADP+DET,Truncated=Yes,_
+30-9,BO141,30,all',all',a+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 30-9a,_,_,_,a,a,ADP,_,_
 30-9b,_,_,_,l',il,DET,_,_
 30-10,BO141,30,intenzione,intenzione,intenzione,NOUN,_,_
-30-11,BO141,30,all',all',a+il,ADP+DET,Truncated=Yes,_
+30-11,BO141,30,all',all',a+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 30-11a,_,_,_,a,a,ADP,_,_
 30-11b,_,_,_,l',il,DET,_,_
 30-12,BO141,30,intenzione,intenzione,intenzione,NOUN,_,_
@@ -339,7 +339,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 32-2,BO141,32,enunciati,enunciati,enunciato,NOUN,_,_
 32-3,BO141,32,il,il,il,DET,_,_
 32-4,BO141,32,significato,significato,significato,NOUN,_,_
-32-5,BO141,32,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+32-5,BO141,32,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 32-5a,_,_,_,di,di,ADP,_,_
 32-5b,_,_,_,l',il,DET,_,_
 32-6,BO141,32,enunciato,enunciato,enunciato,NOUN,_,_
@@ -350,7 +350,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 32-11,BO141,32,non,non,non,ADV,_,_
 32-12,BO141,32,è,è,essere,AUX,_,_
 32-13,BO141,32,quello,quello,quello,PRON,_,_
-32-14,BO141,32,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+32-14,BO141,32,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 32-14a,_,_,_,di,di,ADP,_,_
 32-14b,_,_,_,l',il,DET,_,_
 32-15,BO141,32,in~,in~,x,X,Interrupted=Yes,_
@@ -370,7 +370,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 33-6,BO141,33,cortesia,cortesia,cortesia,NOUN,_,_
 34-0,BO141,34,e,e,e,CCONJ,_,_
 34-1,BO141,34,sta,sta,stare,VERB,_,_
-34-2,BO141,34,all',all',a+il,ADP+DET,Truncated=Yes,_
+34-2,BO141,34,all',all',a+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 34-2a,_,_,_,a,a,ADP,_,_
 34-2b,_,_,_,l',il,DET,_,_
 34-3,BO141,34,interlocutore,interlocutore,interlocutore,NOUN,_,_
@@ -380,18 +380,18 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 34-7,BO141,34,ri~,ri~,ricondurre,VERB,Interrupted=Yes,_
 34-8,BO141,34,ricondurre,ricondurre,ricondurre,VERB,_,_
 35-0,BO141,35,eh,eh,eh,INTJ,_,_
-35-1,BO141,35,l',l',il,DET,Truncated=Yes,_
+35-1,BO141,35,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 35-2,BO141,35,atto,atto,atto,NOUN,_,_
 35-3,BO141,35,linguistico,linguistico,linguistico,ADJ,_,_
 35-4,BO141,35,diretto,diretto,diretto,ADJ,_,_
-35-5,BO141,35,all',all',a+il,ADP+DET,Truncated=Yes,_
+35-5,BO141,35,all',all',a+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 35-5a,_,_,_,a,a,ADP,_,_
 35-5b,_,_,_,l',il,DET,_,_
 35-6,BO141,35,atto,atto,atto,NOUN,_,_
 35-7,BO141,35,eh,eh,eh,INTJ,_,_
 35-8,BO141,35,corretto,corretto,corretto,ADJ,_,_
 35-9,BO141,35,ovvero,ovvero,ovvero,CCONJ,_,_
-35-10,BO141,35,all',all',a+il,ADP+DET,Truncated=Yes,_
+35-10,BO141,35,all',all',a+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 35-10a,_,_,_,a,a,ADP,_,_
 35-10b,_,_,_,l',il,DET,_,_
 35-11,BO141,35,intenzione,intenzione,intenzione,NOUN,_,_
@@ -425,7 +425,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 38-7,BO117,38,da,da,da,ADP,_,_
 38-8,BO117,38,quella,quella,quello,PRON,_,_
 38-9,BO117,38,[manifestata,manifestata,manifestato,ADJ,_,_
-38-10,BO117,38,nell',nell',in+il,ADP+DET,Truncated=Yes,_
+38-10,BO117,38,nell',nell',in+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 38-10a,_,_,_,in,in,ADP,_,_
 38-10b,_,_,_,l',il,DET,_,_
 38-11,BO117,38,atto:::,atto,atto,NOUN,_,_
@@ -565,7 +565,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 52-2,BO141,52,la,la,il,DET,_,_
 52-3,BO141,52,la,la,il,DET,_,_
 52-4,BO141,52,e,e,e,CCONJ,_,_
-52-5,BO141,52,l',l',il,DET,Truncated=Yes,_
+52-5,BO141,52,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 52-6,BO141,52,essere,essere,essere,AUX,_,_
 52-7,BO141,52,chiari,chiari,chiaro,ADJ,_,_
 52-8,BO141,52,è,è,essere,AUX,_,_
@@ -618,7 +618,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 54-17,BO141,54,fai,fai,fare,VERB,_,_
 54-18,BO141,54,star,star,stare,VERB,_,_
 54-19,BO141,54,bene,bene,bene,ADV,_,_
-54-20,BO141,54,l',l',il,DET,Truncated=Yes,_
+54-20,BO141,54,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 54-21,BO141,54,altro,altro,altro,ADJ,_,_
 55-0,BO141,55,poi,poi,poi,ADV,_,_
 55-1,BO141,55,abbiamo,abbiamo,avere,AUX,_,_
@@ -671,9 +671,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 58-5,BO141,58,"generosità,",generosità,generosità,NOUN,Intonation=weakly_rising,_
 58-6,BO141,58,la,la,il,DET,_,_
 58-7,BO141,58,"modestia,",modestia,modestia,NOUN,Intonation=weakly_rising,_
-58-8,BO141,58,l',l',il,DET,Truncated=Yes,_
+58-8,BO141,58,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 58-9,BO141,58,"accordo,",accordo,accordo,NOUN,Intonation=weakly_rising,_
-58-10,BO141,58,l',l',il,DET,Truncated=Yes,_
+58-10,BO141,58,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 58-11,BO141,58,"approvazione,",approvazione,approvazione,NOUN,Intonation=weakly_rising,_
 58-12,BO141,58,la,la,il,DET,_,_
 58-13,BO141,58,"simpatia,",simpatia,simpatia,NOUN,Intonation=weakly_rising,_
@@ -731,7 +731,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 62-9,BO141,62,"parlante,",parlante,parlante,NOUN,Intonation=weakly_rising,_
 62-10,BO141,62,benefici,benefici,beneficio,NOUN,_,_
 62-11,BO141,62,per,per,per,ADP,_,_
-62-12,BO141,62,l',l',il,DET,Truncated=Yes,_
+62-12,BO141,62,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 62-13,BO141,62,interlocutore,interlocutore,interlocutore,NOUN,_,_
 63-0,BO141,63,e,e,e,CCONJ,_,_
 63-1,BO141,63,una,una,uno,DET,_,_
@@ -753,7 +753,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 64-6,BO141,64,sc~,sc~,scala,NOUN,Interrupted=Yes,_
 64-7,BO141,64,la,la,il,DET,_,_
 64-8,BO141,64,scala,scala,scala,NOUN,_,_
-64-9,BO141,64,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+64-9,BO141,64,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 64-9a,_,_,_,di,di,ADP,_,_
 64-9b,_,_,_,l',il,DET,_,_
 64-10,BO141,64,opzionalità,opzionalità,opzionalità,NOUN,_,_
@@ -761,7 +761,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 64-12,BO141,64,quanto,quanto,quanto,ADV,_,_
 64-13,BO141,64,bisogna,bisogna,bisognare,VERB,_,_
 64-14,BO141,64,dare,dare,dare,VERB,_,_
-64-15,BO141,64,all',all',a+il,ADP+DET,Truncated=Yes,_
+64-15,BO141,64,all',all',a+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 64-15a,_,_,_,a,a,ADP,_,_
 64-15b,_,_,_,l',il,DET,_,_
 64-16,BO141,64,interlocutore,interlocutore,interlocutore,NOUN,_,_
@@ -772,7 +772,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 65-0,BO141,65,e,e,e,CCONJ,_,_
 65-1,BO141,65,la,la,il,DET,_,_
 65-2,BO141,65,scala,scala,scala,NOUN,_,_
-65-3,BO141,65,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+65-3,BO141,65,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 65-3a,_,_,_,di,di,ADP,_,_
 65-3b,_,_,_,l',il,DET,_,_
 65-4,BO141,65,indirettezza,indirettezza,indirettezza,NOUN,_,_
@@ -789,7 +789,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 65-15,BO141,65,sforzo,sforzo,sforzo,NOUN,_,_
 65-16,BO141,65,interl~,interl~,x,X,Interrupted=Yes,_
 65-17,BO141,65,interpretativo,interpretativo,interpretativo,ADJ,_,_
-65-18,BO141,65,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+65-18,BO141,65,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 65-18a,_,_,_,di,di,ADP,_,_
 65-18b,_,_,_,l',il,DET,_,_
 65-19,BO141,65,interlocutore,interlocutore,interlocutore,NOUN,_,_
@@ -890,7 +890,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 76-7,BO141,76,faccia,faccia,faccia,NOUN,_,_
 76-8,BO141,76,non,non,non,ADV,_,_
 76-9,BO141,76,è,è,essere,AUX,_,_
-76-10,BO141,76,l',l',il,DET,Truncated=Yes,_
+76-10,BO141,76,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 76-11,BO141,76,obiettivo,obiettivo,obiettivo,NOUN,_,_
 76-12,BO141,76,dei,dei,di+il,ADP+DET,_,_
 76-12a,_,_,_,di,di,ADP,_,_
@@ -899,7 +899,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 77-0,BO141,77,ma,ma,ma,CCONJ,_,_
 77-1,BO141,77,il,il,il,DET,_,_
 77-2,BO141,77,risultato,risultato,risultato,NOUN,_,_
-77-3,BO141,77,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+77-3,BO141,77,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 77-3a,_,_,_,di,di,ADP,_,_
 77-3b,_,_,_,l',il,DET,_,_
 77-4,BO141,77,adeguamento,adeguamento,adeguamento,NOUN,_,_
@@ -967,7 +967,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 82-3,BO141,82,è,è,essere,AUX,_,_
 82-4,BO141,82,il,il,il,DET,_,_
 82-5,BO141,82,risultato,risultato,risultato,NOUN,_,_
-82-6,BO141,82,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+82-6,BO141,82,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 82-6a,_,_,_,di,di,ADP,_,_
 82-6b,_,_,_,l',il,DET,_,_
 82-7,BO141,82,atteggiamento,atteggiamento,atteggiamento,NOUN,_,_
@@ -986,7 +986,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 83-4,BO141,83,è,è,essere,AUX,_,_
 83-5,BO141,83,strettamente,strettamente,strettamente,ADV,_,_
 83-6,BO141,83,collegata,collegata,collegato,ADJ,_,_
-83-7,BO141,83,all',all',a+il,ADP+DET,Truncated=Yes,_
+83-7,BO141,83,all',all',a+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 83-7a,_,_,_,a,a,ADP,_,_
 83-7b,_,_,_,l',il,DET,_,_
 83-8,BO141,83,autov~,autov~,x,X,Interrupted=Yes,_
@@ -1037,7 +1037,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 85-15,BO141,85,comportano,comportano,comportare,VERB,_,_
 85-16,BO141,85,con,con,con,ADP,_,_
 85-17,BO141,85,me,me,me,PRON,_,_
-85-18,BO141,85,nell',nell',in+il,ADP+DET,Truncated=Yes,_
+85-18,BO141,85,nell',nell',in+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 85-18a,_,_,_,in,in,ADP,_,_
 85-18b,_,_,_,l',il,DET,_,_
 85-19,BO141,85,interazione,interazione,interazione,NOUN,_,_
@@ -1251,7 +1251,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 104-6,BO141,104,conversazione,conversazione,conversazione,NOUN,_,_
 104-7,BO141,104,quindi,quindi,quindi,ADV,_,_
 104-8,BO141,104,è,è,essere,AUX,_,_
-104-9,BO141,104,quell',quell',quello,DET,Truncated=Yes,_
+104-9,BO141,104,quell',quell',quello,DET,Truncated=Yes,SpaceAfter=No
 104-10,BO141,104,immagine,immagine,immagine,NOUN,_,_
 104-11,BO141,104,di,di,di,ADP,_,_
 104-12,BO141,104,sé,sé,sé,PRON,_,_
@@ -1407,7 +1407,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 118-0,BO117,118,e::h,eh,eh,INTJ,_,_
 118-1,BO117,118,e,e,e,CCONJ,_,_
 118-2,BO117,118,parliamo,parliamo,parlare,VERB,_,_
-118-3,BO117,118,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+118-3,BO117,118,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 118-3a,_,_,_,di,di,ADP,_,_
 118-3b,_,_,_,l',il,DET,_,_
 118-4,BO117,118,accessibilità,accessibilità,accessibilità,NOUN,_,_
@@ -1477,7 +1477,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 123-8a,_,_,_,a,a,ADP,_,_
 123-8b,_,_,_,il,il,DET,_,_
 123-9,BO141,123,centro,centro,centro,NOUN,_,_
-123-10,BO141,123,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+123-10,BO141,123,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 123-10a,_,_,_,di,di,ADP,_,_
 123-10b,_,_,_,l',il,DET,_,_
 123-11,BO141,123,"attenzione,",attenzione,attenzione,NOUN,Intonation=weakly_rising,_
@@ -1493,7 +1493,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 124-8a,_,_,_,a,a,ADP,_,_
 124-8b,_,_,_,il,il,DET,_,_
 124-9,BO141,124,centro,centro,centro,NOUN,_,_
-124-10,BO141,124,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+124-10,BO141,124,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 124-10a,_,_,_,di,di,ADP,_,_
 124-10b,_,_,_,l',il,DET,_,_
 124-11,BO141,124,attenzione,attenzione,attenzione,NOUN,_,_
@@ -1539,11 +1539,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 127-2a,_,_,_,a,a,ADP,_,_
 127-2b,_,_,_,il,il,DET,_,_
 127-3,BO141,127,centro,centro,centro,NOUN,_,_
-127-4,BO141,127,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+127-4,BO141,127,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 127-4a,_,_,_,di,di,ADP,_,_
 127-4b,_,_,_,l',il,DET,_,_
 127-5,BO141,127,attenzione,attenzione,attenzione,NOUN,_,_
-127-6,BO141,127,nell',nell',in+il,ADP+DET,Truncated=Yes,_
+127-6,BO141,127,nell',nell',in+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 127-6a,_,_,_,in,in,ADP,_,_
 127-6b,_,_,_,l',il,DET,_,_
 127-7,BO141,127,universo,universo,universo,NOUN,_,_
@@ -1554,7 +1554,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 128-0,BO141,128,che,che,che,PRON,_,_
 128-1,BO141,128,è,è,essere,AUX,_,_
 128-2,BO141,128,disponibile,disponibile,disponibile,ADJ,_,_
-128-3,BO141,128,nell',nell',in+il,ADP+DET,Truncated=Yes,_
+128-3,BO141,128,nell',nell',in+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 128-3a,_,_,_,in,in,ADP,_,_
 128-3b,_,_,_,l',il,DET,_,_
 128-4,BO141,128,universo,universo,universo,NOUN,_,_
@@ -1624,7 +1624,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 132-4,BO141,132,non,non,non,ADV,_,_
 132-5,BO141,132,ci,ci,ci,PRON,_,_
 132-6,BO141,132,"sono,",sono,essere,VERB,Intonation=weakly_rising,_
-132-7,BO141,132,l',l',il,DET,Truncated=Yes,_
+132-7,BO141,132,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 132-8,BO141,132,origine,origine,origine,NOUN,_,_
 132-9,BO141,132,delle,delle,di+il,ADP+DET,_,_
 132-9a,_,_,_,di,di,ADP,_,_
@@ -1699,7 +1699,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 137-2,BO141,137,nel,nel,in+il,ADP+DET,_,_
 137-2a,_,_,_,in,in,ADP,_,_
 137-2b,_,_,_,il,il,DET,_,_
-137-3,BO141,137,nell',nell',in+il,ADP+DET,Truncated=Yes,_
+137-3,BO141,137,nell',nell',in+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 137-3a,_,_,_,in,in,ADP,_,_
 137-3b,_,_,_,l',il,DET,_,_
 137-4,BO141,137,ordine,ordine,ordine,NOUN,_,_
@@ -1715,7 +1715,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 137-12,BO141,137,ho,ho,ho,ADJ,_,_
 137-13,BO141,137,ics,ics,ics,NOUN,_,_
 137-14,BO141,137,che,che,che,PRON,_,_
-137-15,BO141,137,c',c',ci,PRON,Truncated=Yes,_
+137-15,BO141,137,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 137-16,BO141,137,è,è,essere,VERB,_,_
 137-17,BO141,137,ics,ics,ics,NOUN,_,_
 137-18,BO141,137,che,che,che,SCONJ,_,_
@@ -1878,7 +1878,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 153-2,BO141,153,"generale,",generale,generale,ADJ,Intonation=weakly_rising,_
 153-3,BO141,153,abbiamo,abbiamo,avere,AUX,_,_
 153-4,BO141,153,fatto,fatto,fare,VERB,_,_
-153-5,BO141,153,l',l',il,DET,Truncated=Yes,_
+153-5,BO141,153,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 153-6,BO141,153,esempio,esempio,esempio,NOUN,_,_
 153-7,BO141,153,di,di,di,ADP,_,_
 153-8,BO141,153,quando,quando,quando,SCONJ,_,_
@@ -2006,9 +2006,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 160-1,BO141,160,e,e,e,CCONJ,_,_
 160-2,BO141,160,ciò,ciò,ciò,PRON,_,_
 160-3,BO141,160,che,che,che,PRON,_,_
-160-4,BO141,160,m',m',mi,PRON,Truncated=Yes,_
+160-4,BO141,160,m',m',mi,PRON,Truncated=Yes,SpaceAfter=No
 160-5,BO141,160,attira,attira,attirare,VERB,_,_
-160-6,BO141,160,l',l',il,DET,Truncated=Yes,_
+160-6,BO141,160,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 160-7,BO141,160,attenzione,attenzione,attenzione,NOUN,_,_
 160-8,BO141,160,per,per,per,ADP,_,_
 160-9,BO141,160,esempio,esempio,esempio,NOUN,_,_
@@ -2053,7 +2053,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 163-3,BO141,163,in,in,in,ADP,_,_
 163-4,BO141,163,modo,modo,modo,NOUN,_,_
 163-5,BO141,163,attira,attira,attirare,VERB,_,_
-163-6,BO141,163,l',l',il,DET,Truncated=Yes,_
+163-6,BO141,163,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 163-7,BO141,163,attenzione,attenzione,attenzione,NOUN,_,_
 163-8,BO141,163,come,come,come,SCONJ,_,_
 163-9,BO141,163,abbiamo,abbiamo,avere,AUX,_,_
@@ -2149,7 +2149,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 169-7,BO141,169,po',po',poco,ADV,_,_
 169-8,BO141,169,di,di,di,ADP,_,_
 169-9,BO141,169,difesa,difesa,difesa,NOUN,_,_
-169-10,BO141,169,l',l',la,PRON,Truncated=Yes,_
+169-10,BO141,169,l',l',la,PRON,Truncated=Yes,SpaceAfter=No
 169-11,BO141,169,ho,ho,avere,AUX,_,_
 169-12,BO141,169,vista,vista,vedere,VERB,_,_
 169-13,BO141,169,come,come,come,ADP,_,_
@@ -2177,7 +2177,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 174-2,BO117,174,questo,questo,questo,DET,_,_
 174-3,BO117,174,punto,punto,punto,NOUN,_,_
 174-4,BO117,174,difesa,difesa,difesa,NOUN,_,_
-174-5,BO117,174,dall',dall',da+il,ADP+DET,Truncated=Yes,_
+174-5,BO117,174,dall',dall',da+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 174-5a,_,_,_,da,da,ADP,_,_
 174-5b,_,_,_,l',il,DET,_,_
 174-6,BO117,174,abuso,abuso,abuso,NOUN,_,_
@@ -2188,7 +2188,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 174-9b,_,_,_,il,il,DET,_,_
 174-10,BO117,174,[linguaggio,linguaggio,linguaggio,NOUN,_,_
 174-11,BO117,174,"manipolatorio],",manipolatorio,manipolatorio,ADJ,Intonation=weakly_rising,_
-174-12,BO117,174,cos',cos',cos',PRON,Truncated=Yes,_
+174-12,BO117,174,cos',cos',cos',PRON,Truncated=Yes,SpaceAfter=No
 174-13,BO117,174,è?,è,essere,AUX,Intonation=rising,_
 175-0,BO141,175,"[s::ì,",sì,sì,ADV,Intonation=weakly_rising,_
 175-1,BO141,175,sì],sì,sì,ADV,_,_
@@ -2395,7 +2395,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 191-13,BO117,191,consiste?,consiste,consistere,VERB,Intonation=rising,_
 192-0,BO141,192,"[mh,",mh,mh,INTJ,Intonation=weakly_rising,_
 192-1,BO141,192,mh],mh,mh,INTJ,_,_
-193-0,BO141,193,nell',nell',in+il,ADP+DET,Truncated=Yes,_
+193-0,BO141,193,nell',nell',in+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 193-0a,_,_,_,in,in,ADP,_,_
 193-0b,_,_,_,l',il,DET,_,_
 193-1,BO141,193,attivare,attivare,attivare,VERB,_,_
@@ -2407,7 +2407,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 194-1,BO141,194,per,per,per,ADP,_,_
 194-2,BO141,194,"esempio:,",esempio,esempio,NOUN,Intonation=weakly_rising,_
 194-3,BO141,194,e::hm,ehm,ehm,INTJ,_,_
-195-0,BO141,195,l',l',il,DET,Truncated=Yes,_
+195-0,BO141,195,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 195-1,BO141,195,utilizzo:,utilizzo,utilizzo,NOUN,_,_
 195-2,BO141,195,eh,eh,eh,INTJ,_,_
 195-3,BO141,195,di,di,di,ADP,_,_
@@ -2488,7 +2488,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 202-11,BO141,202,negato,negato,negare,VERB,_,_
 202-12,BO141,202,per,per,per,ADP,_,_
 202-13,BO141,202,affermare,affermare,affermare,VERB,_,_
-202-14,BO141,202,qualcos',qualcos',qualcosa,PRON,Truncated=Yes,_
+202-14,BO141,202,qualcos',qualcos',qualcosa,PRON,Truncated=Yes,SpaceAfter=No
 202-15,BO141,202,altro.,altro,altro,ADJ,Intonation=falling,_
 203-0,BO141,203,quindi:,quindi,quindi,ADV,_,_
 203-1,BO141,203,abbiamo,abbiamo,avere,AUX,_,_
@@ -2510,13 +2510,13 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 203-17,BO141,203,che,che,che,PRON,_,_
 203-18,BO141,203,implica,implica,implicare,VERB,_,_
 203-19,BO141,203,che,che,che,SCONJ,_,_
-203-20,BO141,203,c',c',ci,PRON,Truncated=Yes,_
+203-20,BO141,203,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 203-21,BO141,203,è,è,essere,VERB,_,_
 203-22,BO141,203,del,del,di+il,ADP+DET,_,_
 203-22a,_,_,_,di,di,ADP,_,_
 203-22b,_,_,_,il,il,DET,_,_
 203-23,BO141,203,"falso,",falso,falso,ADJ,Intonation=weakly_rising,_
-204-0,BO141,204,l',l',il,DET,Truncated=Yes,_
+204-0,BO141,204,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 204-1,BO141,204,utilizzo,utilizzo,utilizzo,NOUN,_,_
 204-2,BO141,204,ehm,ehm,ehm,INTJ,_,_
 204-3,BO141,204,d~,d~,di,ADP,Interrupted=Yes,_
@@ -2554,7 +2554,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 206-10,BO141,206,abbiamo,abbiamo,avere,AUX,_,_
 206-11,BO141,206,fatto,fatto,fare,VERB,_,_
 206-12,BO141,206,xxx,xxx,x,X,_,_
-206-13,BO141,206,l',l',il,DET,Truncated=Yes,_
+206-13,BO141,206,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 206-14,BO141,206,esempio,esempio,esempio,NOUN,_,_
 206-15,BO141,206,della,della,di+il,ADP+DET,_,_
 206-15a,_,_,_,di,di,ADP,_,_
@@ -2603,7 +2603,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 209-5,BO141,209,la~,la~,lavorare,VERB,Interrupted=Yes,_
 209-6,BO141,209,lavorano,lavorano,lavorare,VERB,_,_
 209-7,BO141,209,o,o,o,CCONJ,_,_
-209-8,BO141,209,sull',sull',su+il,ADP+DET,Truncated=Yes,_
+209-8,BO141,209,sull',sull',su+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 209-8a,_,_,_,su,su,ADP,_,_
 209-8b,_,_,_,l',il,DET,_,_
 209-9,BO141,209,attivazione,attivazione,attivazione,NOUN,_,_
@@ -2625,11 +2625,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 210-9,BO141,210,i,i,il,DET,_,_
 210-10,BO141,210,"superlativi,",superlativi,superlativo,ADJ,Intonation=weakly_rising,_
 211-0,BO141,211,oppure,oppure,oppure,CCONJ,_,_
-211-1,BO141,211,l',l',il,DET,Truncated=Yes,_
+211-1,BO141,211,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 211-2,BO141,211,u~,u~,utilizzo,NOUN,Interrupted=Yes,_
-211-3,BO141,211,l',l',il,DET,Truncated=Yes,_
+211-3,BO141,211,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 211-4,BO141,211,u~,u~,utilizzo,NOUN,Interrupted=Yes,_
-211-5,BO141,211,l',l',il,DET,Truncated=Yes,_
+211-5,BO141,211,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 211-6,BO141,211,utilizzo,utilizzo,utilizzo,NOUN,_,_
 211-7,BO141,211,del~,del~,x,X,Interrupted=Yes,_
 211-8,BO141,211,della,della,di+il,ADP+DET,_,_

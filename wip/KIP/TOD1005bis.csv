@@ -143,7 +143,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 22-0,TO017,22,i,i,il,DET,_,_
 22-1,TO017,22,dialetti?,dialetti,dialetto,NOUN,_,_
 23-0,TO017,23,uno,uno,uno,PRON,_,_
-23-1,TO017,23,dall',dall',da+il,ADP+DET,_,_
+23-1,TO017,23,dall',dall',da+il,ADP+DET,_,SpaceAfter=No
 23-1a,_,_,_,da,da,ADP,_,_
 23-1b,_,_,_,l',il,DET,_,_
 23-2,TO017,23,altro?,altro,altro,PRON,_,_
@@ -903,13 +903,13 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 147-7,TO017,147,anche,anche,anche,ADV,_,_
 147-8,TO017,147,alcuni,alcuni,alcuno,DET,_,_
 147-9,TO017,147,dialetti,dialetti,dialetto,NOUN,_,_
-147-10,TO017,147,dell',dell',di+il,ADP+DET,_,_
+147-10,TO017,147,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 147-10a,_,_,_,di,di,ADP,_,_
 147-10b,_,_,_,l',il,DET,_,_
 147-11,TO017,147,uzbe~,uzbe~,x,X,_,_
 147-12,TO017,147,un,un,uno,DET,_,_
 147-13,TO017,147,dialetto,dialetto,dialetto,NOUN,_,_
-147-14,TO017,147,dell',dell',di+il,ADP+DET,_,_
+147-14,TO017,147,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 147-14a,_,_,_,di,di,ADP,_,_
 147-14b,_,_,_,l',il,DET,_,_
 147-15,TO017,147,"uzbekistan,",uzbekistan,Uzbekistan,PROPN,_,_
@@ -937,7 +937,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 152-8,TO017,152,xx,xx,x,X,_,_
 152-9,TO017,152,il,il,il,DET,_,_
 152-10,TO017,152,xx,xx,x,X,_,_
-153-0,TO017,153,dell',dell',di+il,ADP+DET,_,_
+153-0,TO017,153,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 153-0a,_,_,_,di,di,ADP,_,_
 153-0b,_,_,_,l',il,DET,_,_
 153-1,TO017,153,arabo,arabo,arabo,NOUN,_,_
@@ -1054,7 +1054,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 170-3,TO017,170,finale,finale,finale,ADJ,_,_
 170-4,TO017,170,probabilmente,probabilmente,probabilmente,ADV,_,_
 170-5,TO017,170,viene,viene,venire,VERB,_,_
-170-6,TO017,170,dall',dall',da+il,ADP+DET,_,_
+170-6,TO017,170,dall',dall',da+il,ADP+DET,_,SpaceAfter=No
 170-6a,_,_,_,da,da,ADP,_,_
 170-6b,_,_,_,l',il,DET,_,_
 170-7,TO017,170,aramaico,aramaico,aramaico,NOUN,_,_
@@ -1338,7 +1338,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 217-3,TO017,217,somiglia,somiglia,somigliare,VERB,_,_
 217-4,TO017,217,così,così,così,ADV,_,_
 217-5,TO017,217,tanto,tanto,tanto,ADV,_,_
-217-6,TO017,217,all',all',a+il,ADP+DET,_,_
+217-6,TO017,217,all',all',a+il,ADP+DET,_,SpaceAfter=No
 217-6a,_,_,_,a,a,ADP,_,_
 217-6b,_,_,_,l',il,DET,_,_
 217-7,TO017,217,inglese,inglese,inglese,NOUN,_,_
@@ -1497,11 +1497,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 237-1b,_,_,_,il,il,DET,_,_
 237-2,TO017,237,proto,proto,proto,PART,_,_
 237-3,TO017,237,in~,in~,x,X,_,_
-237-4,TO017,237,nell',nell',in+il,ADP+DET,_,_
+237-4,TO017,237,nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 237-4a,_,_,_,in,in,ADP,_,_
 237-4b,_,_,_,l',il,DET,_,_
 237-5,TO017,237,indoeuropeo°,indoeuropeo,indoeuropeo,NOUN,_,_
-237-6,TO017,237,<nell',nell',in+il,ADP+DET,_,_
+237-6,TO017,237,<nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 237-6a,_,_,_,in,in,ADP,_,_
 237-6b,_,_,_,l',il,DET,_,_
 237-7,TO017,237,indoeuropeistica>,indoeuropeistica,indoeuropeistica,NOUN,_,_
@@ -1514,7 +1514,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 239-3,TO017,239,(.),(.),PAUSE,NVB,_,_
 239-4,TO017,239,a,a,a,ADP,_,_
 239-5,TO017,239,ricostruire,ricostruire,ricostruire,VERB,_,_
-239-6,TO017,239,all',all',a+il,ADP+DET,_,_
+239-6,TO017,239,all',all',a+il,ADP+DET,_,SpaceAfter=No
 239-6a,_,_,_,a,a,ADP,_,_
 239-6b,_,_,_,l',il,DET,_,_
 239-7,TO017,239,indietro,indietro,indietro,ADV,_,_
@@ -1772,7 +1772,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 285-3,TO017,285,jahiliyya,jahiliyya,Jahiliyya,PROPN,_,_
 285-4,TO017,285,quindi,quindi,quindi,ADV,_,_
 285-5,TO017,285,prima,prima,prima,ADV,_,_
-285-6,TO017,285,dell',dell',di+il,ADP+DET,_,_
+285-6,TO017,285,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 285-6a,_,_,_,di,di,ADP,_,_
 285-6b,_,_,_,l',il,DET,_,_
 285-7,TO017,285,islam,islam,Islam,PROPN,_,_
@@ -1878,7 +1878,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 298-3,TO017,298,esprimo,esprimo,esprimere,VERB,_,_
 298-4,TO017,298,in,in,in,ADP,_,_
 298-5,TO017,298,proposito,proposito,proposito,NOUN,_,_
-298-6,TO017,298,dell',dell',di+il,ADP+DET,_,_
+298-6,TO017,298,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 298-6a,_,_,_,di,di,ADP,_,_
 298-6b,_,_,_,l',il,DET,_,_
 298-7,TO017,298,amorreo,amorreo,amorreo,NOUN,_,_
@@ -1901,7 +1901,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 300-2,TO017,300,una,una,uno,DET,_,_
 300-3,TO017,300,lingua,lingua,lingua,NOUN,_,_
 300-4,TO017,300,diversa,diversa,diverso,ADJ,_,_
-301-0,TO017,301,dall',dall',da+il,ADP+DET,_,_
+301-0,TO017,301,dall',dall',da+il,ADP+DET,_,SpaceAfter=No
 301-0a,_,_,_,da,da,ADP,_,_
 301-0b,_,_,_,l',il,DET,_,_
 301-1,TO017,301,arabo.,arabo,arabo,NOUN,_,_
@@ -1926,7 +1926,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 306-2,TO017,306,nordarabico<,nordarabico,nordarabico,NOUN,_,_
 306-3,TO017,306,ci,ci,ci,PRON,_,_
 306-4,TO017,306,arriviamo.,arriviamo,arrivare,VERB,_,_
-306-5,TO017,306,all',all',a+il,ADP+DET,_,_
+306-5,TO017,306,all',all',a+il,ADP+DET,_,SpaceAfter=No
 306-5a,_,_,_,a,a,ADP,_,_
 306-5b,_,_,_,l',il,DET,_,_
 306-6,TO017,306,amorreo,amorreo,amorreo,NOUN,_,_
@@ -2064,7 +2064,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 323-6,TO017,323,breveme:nte,brevemente,brevemente,ADV,_,_
 323-7,TO017,323,la,la,il,DET,_,_
 323-8,TO017,323,storia,storia,storia,NOUN,_,_
-323-9,TO017,323,dell',dell',di+il,ADP+DET,_,_
+323-9,TO017,323,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 323-9a,_,_,_,di,di,ADP,_,_
 323-9b,_,_,_,l',il,DET,_,_
 323-10,TO017,323,arabo.,arabo,arabo,NOUN,_,_
@@ -2126,7 +2126,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 337-2a,_,_,_,in,in,ADP,_,_
 337-2b,_,_,_,il,il,DET,_,_
 337-3,TO017,337,calendario,calendario,calendario,NOUN,_,_
-338-0,TO017,338,dell',dell',di+il,ADP+DET,_,_
+338-0,TO017,338,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 338-0a,_,_,_,di,di,ADP,_,_
 338-0b,_,_,_,l',il,DET,_,_
 338-1,TO017,338,e~,e~,x,X,_,_
@@ -2196,7 +2196,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 346-3,TO017,346,primi,primi,primo,DET,_,_
 346-4,TO017,346,anni,anni,anno,NOUN,_,_
 346-5,TO017,346,(.),(.),PAUSE,NVB,_,_
-346-6,TO017,346,dell',dell',di+il,ADP+DET,_,_
+346-6,TO017,346,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 346-6a,_,_,_,di,di,ADP,_,_
 346-6b,_,_,_,l',il,DET,_,_
 346-7,TO017,346,islam,islam,Islam,PROPN,_,_
@@ -3750,7 +3750,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 554-3,TO017,554,di,di,di,ADP,_,_
 554-4,TO017,554,anni,anni,anno,NOUN,_,_
 554-5,TO017,554,prima,prima,prima,ADV,_,_
-554-6,TO017,554,dell',dell',di+il,ADP+DET,_,_
+554-6,TO017,554,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 554-6a,_,_,_,di,di,ADP,_,_
 554-6b,_,_,_,l',il,DET,_,_
 554-7,TO017,554,iscrizione,iscrizione,iscrizione,NOUN,_,_
@@ -3901,7 +3901,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 570-4,TO017,570,secolo.,secolo,secolo,NOUN,_,_
 571-0,TO017,571,seconda,seconda,secondo,DET,_,_
 571-1,TO017,571,metà,metà,metà,NOUN,_,_
-571-2,TO017,571,dell',dell',di+il,ADP+DET,_,_
+571-2,TO017,571,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 571-2a,_,_,_,di,di,ADP,_,_
 571-2b,_,_,_,l',il,DET,_,_
 571-3,TO017,571,ottavo,ottavo,ottavo,DET,_,_
@@ -4034,7 +4034,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 593-15,TO017,593,che,che,che,PRON,_,_
 593-16,TO017,593,poteva,poteva,potere,AUX,_,_
 593-17,TO017,593,somigliare,somigliare,somigliare,VERB,_,_
-593-18,TO017,593,all',all',a+il,ADP+DET,_,_
+593-18,TO017,593,all',all',a+il,ADP+DET,_,SpaceAfter=No
 593-18a,_,_,_,a,a,ADP,_,_
 593-18b,_,_,_,l',il,DET,_,_
 593-19,TO017,593,arabo,arabo,arabo,NOUN,_,_
@@ -4141,7 +4141,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 616-8,TO017,616,altro,altro,altro,PRON,_,_
 616-9,TO017,616,che,che,che,SCONJ,_,_
 616-10,TO017,616,scriveva,scriveva,scrivere,VERB,_,_
-617-0,TO017,617,all',all',a+il,ADP+DET,_,_
+617-0,TO017,617,all',all',a+il,ADP+DET,_,SpaceAfter=No
 617-0a,_,_,_,a,a,ADP,_,_
 617-0b,_,_,_,l',il,DET,_,_
 617-1,TO017,617,epoca.,epoca,epoca,NOUN,_,_
@@ -4153,7 +4153,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 617-7,TO017,617,"<scritto>,",scritto,scritto,ADJ,_,_
 618-0,TO017,618,che,che,che,PRON,_,_
 618-1,TO017,618,<provenga,provenga,provenire,VERB,_,_
-618-2,TO017,618,dall',dall',da+il,ADP+DET,_,_
+618-2,TO017,618,dall',dall',da+il,ADP+DET,_,SpaceAfter=No
 618-2a,_,_,_,da,da,ADP,_,_
 618-2b,_,_,_,l',il,DET,_,_
 618-3,TO017,618,area,area,area,NOUN,_,_
@@ -4196,7 +4196,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 627-0a,_,_,_,in,in,ADP,_,_
 627-0b,_,_,_,il,il,DET,_,_
 627-1,TO017,627,sud,sud,sud,NOUN,_,_
-627-2,TO017,627,dell',dell',di+il,ADP+DET,_,_
+627-2,TO017,627,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 627-2a,_,_,_,di,di,ADP,_,_
 627-2b,_,_,_,l',il,DET,_,_
 627-3,TO017,627,arabia,arabia,Arabia,PROPN,_,_
@@ -4280,7 +4280,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 638-7,TO017,638,che,che,che,PRON,_,_
 638-8,TO017,638,incontra,incontra,incontrare,VERB,_,_
 638-9,TO017,638,salomone,salomone,Salomone,PROPN,_,_
-639-0,TO017,639,nell',nell',in+il,ADP+DET,_,_
+639-0,TO017,639,nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 639-0a,_,_,_,in,in,ADP,_,_
 639-0b,_,_,_,l',il,DET,_,_
 639-1,TO017,639,antico,antico,antico,ADJ,_,_
@@ -4312,7 +4312,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 645-4,TO017,645,<regni,regni,regno,NOUN,_,_
 645-5,TO017,645,molto,molto,molto,ADV,_,_
 645-6,TO017,645,"potenti>,",potenti,potente,ADJ,_,_
-646-0,TO017,646,all',all',a+il,ADP+DET,_,_
+646-0,TO017,646,all',all',a+il,ADP+DET,_,SpaceAfter=No
 646-0a,_,_,_,a,a,ADP,_,_
 646-0b,_,_,_,l',il,DET,_,_
 646-1,TO017,646,epoca,epoca,epoca,NOUN,_,_
@@ -4551,11 +4551,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 701-1,TO017,701,è,è,essere,AUX,_,_
 701-2,TO017,701,la,la,il,DET,_,_
 701-3,TO017,701,re:sina,resina,resina,NOUN,_,_
-701-4,TO017,701,dell',dell',di+il,ADP+DET,_,_
+701-4,TO017,701,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 701-4a,_,_,_,di,di,ADP,_,_
 701-4b,_,_,_,l',il,DET,_,_
 701-5,TO017,701,albero,albero,albero,NOUN,_,_
-701-6,TO017,701,dell',dell',di+il,ADP+DET,_,_
+701-6,TO017,701,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 701-6a,_,_,_,di,di,ADP,_,_
 701-6b,_,_,_,l',il,DET,_,_
 701-7,TO017,701,incenso.,incenso,incenso,NOUN,_,_
@@ -4597,7 +4597,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 708-1,TO017,708,non,non,non,ADV,_,_
 709-0,TO017,709,quanto,quanto,quanto,ADV,_,_
 709-1,TO017,709,costava,costava,costare,VERB,_,_
-710-0,TO017,710,all',all',a+il,ADP+DET,_,_
+710-0,TO017,710,all',all',a+il,ADP+DET,_,SpaceAfter=No
 710-0a,_,_,_,a,a,ADP,_,_
 710-0b,_,_,_,l',il,DET,_,_
 710-1,TO017,710,epoca.,epoca,epoca,NOUN,_,_
@@ -4633,7 +4633,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 714-7,TO017,714,il,il,il,DET,_,_
 714-8,TO017,714,monopolio,monopolio,monopolio,NOUN,_,_
 714-9,TO017,714,mondiale,mondiale,mondiale,ADJ,_,_
-714-10,TO017,714,dell',dell',di+il,ADP+DET,_,_
+714-10,TO017,714,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 714-10a,_,_,_,di,di,ADP,_,_
 714-10b,_,_,_,l',il,DET,_,_
 714-11,TO017,714,incenso,incenso,incenso,NOUN,_,_
@@ -4738,7 +4738,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 729-4,TO017,729,la,la,il,DET,_,_
 729-5,TO017,729,catena,catena,catena,NOUN,_,_
 729-6,TO017,729,montuosa,montuosa,montuoso,ADJ,_,_
-729-7,TO017,729,dell',dell',di+il,ADP+DET,_,_
+729-7,TO017,729,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 729-7a,_,_,_,di,di,ADP,_,_
 729-7b,_,_,_,l',il,DET,_,_
 729-8,TO017,729,antilibano,antilibano,Antilibano,PROPN,_,_
@@ -4908,7 +4908,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 749-6,TO017,749,chewing,chewing,chewing,NOUN,_,_
 749-7,TO017,749,gum,gum,gum,NOUN,_,_
 750-0,TO017,750,"okay,",okay,ok,INTJ,_,_
-751-0,TO017,751,all',all',a+il,ADP+DET,_,_
+751-0,TO017,751,all',all',a+il,ADP+DET,_,SpaceAfter=No
 751-0a,_,_,_,a,a,ADP,_,_
 751-0b,_,_,_,l',il,DET,_,_
 751-1,TO017,751,inizio,inizio,inizio,NOUN,_,_
@@ -5293,7 +5293,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 807-3,TO017,807,i,i,il,DET,_,_
 807-4,TO017,807,loro,loro,loro,ADJ,_,_
 807-5,TO017,807,bagni,bagni,bagno,NOUN,_,_
-807-6,TO017,807,nell',nell',in+il,ADP+DET,_,_
+807-6,TO017,807,nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 807-6a,_,_,_,in,in,ADP,_,_
 807-6b,_,_,_,l',il,DET,_,_
 807-7,TO017,807,incenso,incenso,incenso,NOUN,_,_
@@ -5394,7 +5394,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 823-2,TO017,823,<scritte>,scritte,scrivere,VERB,_,_
 824-0,TO017,824,in,in,in,ADP,_,_
 824-1,TO017,824,in,in,in,ADP,_,_
-824-2,TO017,824,nell',nell',in+il,ADP+DET,_,_
+824-2,TO017,824,nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 824-2a,_,_,_,in,in,ADP,_,_
 824-2b,_,_,_,l',il,DET,_,_
 824-3,TO017,824,area,area,area,NOUN,_,_
@@ -6172,7 +6172,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 924-1,TO017,924,"particolare,",particolare,particolare,NOUN,_,_
 925-0,TO017,925,in,in,in,ADP,_,_
 925-1,TO017,925,"particolare,",particolare,particolare,NOUN,_,_
-926-0,TO017,926,<nell',nell',in+il,ADP+DET,_,_
+926-0,TO017,926,<nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 926-0a,_,_,_,in,in,ADP,_,_
 926-0b,_,_,_,l',il,DET,_,_
 926-1,TO017,926,area>,area,area,NOUN,_,_
@@ -6197,7 +6197,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 933-0,TO017,933,"giordania,",giordania,Giordania,PROPN,_,_
 934-0,TO017,934,"<forse>,",forse,forse,ADV,_,_
 935-0,TO017,935,ovest,ovest,ovest,NOUN,_,_
-935-1,TO017,935,dell',dell',di+il,ADP+DET,_,_
+935-1,TO017,935,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 935-1a,_,_,_,di,di,ADP,_,_
 935-1b,_,_,_,l',il,DET,_,_
 935-2,TO017,935,"<iraq>,",iraq,Iraq,PROPN,_,_
@@ -6207,7 +6207,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 936-3,TO017,936,israeliano,israeliano,israeliano,ADJ,_,_
 936-4,TO017,936,e,e,e,CCONJ,_,_
 936-5,TO017,936,nord,nord,nord,NOUN,_,_
-936-6,TO017,936,dell',dell',di+il,ADP+DET,_,_
+936-6,TO017,936,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 936-6a,_,_,_,di,di,ADP,_,_
 936-6b,_,_,_,l',il,DET,_,_
 936-7,TO017,936,arabia,arabia,Arabia,PROPN,_,_
@@ -6410,7 +6410,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 965-4b,_,_,_,i,il,DET,_,_
 965-5,TO017,965,fatti,fatti,fatto,NOUN,_,_
 965-6,TO017,965,politici,politici,politico,ADJ,_,_
-965-7,TO017,965,dell',dell',di+il,ADP+DET,_,_
+965-7,TO017,965,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 965-7a,_,_,_,di,di,ADP,_,_
 965-7b,_,_,_,l',il,DET,_,_
 965-8,TO017,965,epoca,epoca,epoca,NOUN,_,_
@@ -6679,7 +6679,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1006-0,TO017,1006,"e::h,",eh,eh,INTJ,_,_
 1007-0,TO017,1007,che,che,che,PRON,_,_
 1007-1,TO017,1007,esistevano,esistevano,esistere,VERB,_,_
-1007-2,TO017,1007,all',all',a+il,ADP+DET,_,_
+1007-2,TO017,1007,all',all',a+il,ADP+DET,_,SpaceAfter=No
 1007-2a,_,_,_,a,a,ADP,_,_
 1007-2b,_,_,_,l',il,DET,_,_
 1007-3,TO017,1007,epoca,epoca,epoca,NOUN,_,_
@@ -6761,7 +6761,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1018-5,TO017,1018,<in,in,in,ADP,_,_
 1018-6,TO017,1018,questa,questa,questo,DET,_,_
 1018-7,TO017,1018,zona>,zona,zona,NOUN,_,_
-1018-8,TO017,1018,all',all',a+il,ADP+DET,_,_
+1018-8,TO017,1018,all',all',a+il,ADP+DET,_,SpaceAfter=No
 1018-8a,_,_,_,a,a,ADP,_,_
 1018-8b,_,_,_,l',il,DET,_,_
 1018-9,TO017,1018,epoca,epoca,epoca,NOUN,_,_
@@ -6786,7 +6786,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1019-4,TO017,1019,le,le,il,DET,_,_
 1019-5,TO017,1019,altre,altre,altro,ADJ,_,_
 1019-6,TO017,1019,fonti,fonti,fonte,NOUN,_,_
-1019-7,TO017,1019,dell',dell',di+il,ADP+DET,_,_
+1019-7,TO017,1019,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 1019-7a,_,_,_,di,di,ADP,_,_
 1019-7b,_,_,_,l',il,DET,_,_
 1019-8,TO017,1019,epoca?,epoca,epoca,NOUN,_,_
@@ -6896,7 +6896,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1043-0,TO017,1043,l',l',il,DET,_,SpaceAfter=No
 1043-1,TO017,1043,articolo,articolo,articolo,NOUN,_,_
 1043-2,TO017,1043,determinativo,determinativo,determinativo,ADJ,_,_
-1043-3,TO017,1043,dell',dell',di+il,ADP+DET,_,_
+1043-3,TO017,1043,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 1043-3a,_,_,_,di,di,ADP,_,_
 1043-3b,_,_,_,l',il,DET,_,_
 1043-4,TO017,1043,"arabo,",arabo,arabo,NOUN,_,_
@@ -6932,7 +6932,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1049-7,TO017,1049,la,la,il,DET,_,_
 1049-8,TO017,1049,prima,prima,primo,ADJ,_,_
 1049-9,TO017,1049,attestazione,attestazione,attestazione,NOUN,_,_
-1049-10,TO017,1049,dell',dell',di+il,ADP+DET,_,_
+1049-10,TO017,1049,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 1049-10a,_,_,_,di,di,ADP,_,_
 1049-10b,_,_,_,l',il,DET,_,_
 1049-11,TO017,1049,articolo,articolo,articolo,NOUN,_,_
@@ -7035,7 +7035,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1070-11a,_,_,_,in,in,ADP,_,_
 1070-11b,_,_,_,la,il,DET,_,_
 1070-12,TO017,1070,zona,zona,zona,NOUN,_,_
-1070-13,TO017,1070,all',all',a+il,ADP+DET,_,_
+1070-13,TO017,1070,all',all',a+il,ADP+DET,_,SpaceAfter=No
 1070-13a,_,_,_,a,a,ADP,_,_
 1070-13b,_,_,_,l',il,DET,_,_
 1070-14,TO017,1070,epoca,epoca,epoca,NOUN,_,_
@@ -7083,7 +7083,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1077-3b,_,_,_,le,il,DET,_,_
 1077-4,TO017,1077,aree,aree,area,NOUN,_,_
 1077-5,TO017,1077,fertili,fertili,fertile,ADJ,_,_
-1077-6,TO017,1077,dell',dell',di+il,ADP+DET,_,_
+1077-6,TO017,1077,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 1077-6a,_,_,_,di,di,ADP,_,_
 1077-6b,_,_,_,l',il,DET,_,_
 1077-7,TO017,1077,antichità.,antichità,antichità,NOUN,_,_
@@ -7210,7 +7210,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1097-1b,_,_,_,le,il,DET,_,_
 1097-2,TO017,1097,"zone:,",zone,zona,NOUN,_,_
 1097-3,TO017,1097,urbanizzate,urbanizzate,urbanizzato,ADJ,_,_
-1097-4,TO017,1097,dell',dell',di+il,ADP+DET,_,_
+1097-4,TO017,1097,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 1097-4a,_,_,_,di,di,ADP,_,_
 1097-4b,_,_,_,l',il,DET,_,_
 1097-5,TO017,1097,"antichità,",antichità,antichità,NOUN,_,_
@@ -7475,7 +7475,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1137-12,TO017,1137,"luogo,",luogo,luogo,NOUN,_,_
 1138-0,TO017,1138,di,di,di,ADP,_,_
 1138-1,TO017,1138,nascita,nascita,nascita,NOUN,_,_
-1138-2,TO017,1138,dell',dell',di+il,ADP+DET,_,_
+1138-2,TO017,1138,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 1138-2a,_,_,_,di,di,ADP,_,_
 1138-2b,_,_,_,l',il,DET,_,_
 1138-3,TO017,1138,arabo,arabo,arabo,ADJ,_,_

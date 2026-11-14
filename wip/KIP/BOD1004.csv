@@ -160,7 +160,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 10-0,BO093,10,e::hm,ehm,ehm,INTJ,_,_
 10-1,BO093,10,però,però,però,ADV,_,_
 10-2,BO093,10,vedete,vedete,vedere,VERB,_,_
-10-3,BO093,10,l',l',il,DET,_,_
+10-3,BO093,10,l',l',il,DET,_,SpaceAfter=No
 10-4,BO093,10,elenco,elenco,elenco,NOUN,_,_
 10-5,BO093,10,delle,delle,di+il,ADP+DET,_,_
 10-5a,_,_,_,di,di,ADP,_,_
@@ -244,7 +244,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 14-8,BO093,14,provocano,provocano,provocare,VERB,_,_
 14-9,BO093,14,"tumori,",tumori,tumore,NOUN,_,_
 15-0,BO093,15,mentre,mentre,mentre,SCONJ,_,_
-15-1,BO093,15,nell',nell',in+il,ADP+DET,_,_
+15-1,BO093,15,nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 15-1a,_,_,_,in,in,ADP,_,_
 15-1b,_,_,_,l',il,DET,_,_
 15-2,BO093,15,adulto,adulto,adulto,NOUN,_,_
@@ -358,12 +358,12 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 22-3,BO093,22,patologie,patologie,patologia,NOUN,_,_
 22-4,BO093,22,la,la,il,DET,_,_
 22-5,BO093,22,sindrome,sindrome,sindrome,NOUN,_,_
-22-6,BO093,22,dell',dell',di+il,ADP+DET,_,_
+22-6,BO093,22,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 22-6a,_,_,_,di,di,ADP,_,_
 22-6b,_,_,_,l',il,DET,_,_
 22-7,BO093,22,ics,ics,ics,NOUN,_,_
 22-28,_,_,fasi,fasi,fase,NOUN,_,_
-22-8,BO093,22,dell',dell',di+il,ADP+DET,_,_
+22-8,BO093,22,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 22-8a,_,_,_,di,di,ADP,_,_
 22-8b,_,_,_,l',il,DET,_,_
 22-9,BO093,22,xx,xx,x,X,_,_
@@ -379,7 +379,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 22-19,BO093,22,essenzialmente,essenzialmente,essenzialmente,ADV,_,_
 22-20,BO093,22,genetica,genetica,genetico,ADJ,_,_
 22-21,BO093,22,poi,poi,poi,ADV,_,_
-22-22,BO093,22,l',l',il,DET,_,_
+22-22,BO093,22,l',l',il,DET,_,SpaceAfter=No
 22-23,BO093,22,eziologia,eziologia,eziologia,NOUN,_,_
 22-24,BO093,22,genetica,genetica,genetico,ADJ,_,_
 22-25,BO093,22,può,può,potere,AUX,_,_
@@ -424,7 +424,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 28-2,BO093,28,lesioni,lesioni,lesione,NOUN,_,_
 28-3,BO093,28,cerebrali,cerebrali,cerebrale,ADJ,_,_
 28-4,BO093,28,traumatiche,traumatiche,traumatico,ADJ,_,_
-28-5,BO093,28,l',l',il,DET,_,_
+28-5,BO093,28,l',l',il,DET,_,SpaceAfter=No
 28-6,BO093,28,ictus,ictus,ictus,NOUN,_,_
 28-7,BO093,28,"ischemico,",ischemico,ischemico,ADJ,_,_
 29-0,BO093,29,e::h,eh,eh,INTJ,_,_
@@ -467,7 +467,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 30-12,BO093,30,diverse,diverse,diverso,ADJ,_,_
 30-13,BO093,30,aree,aree,area,NOUN,_,_
 30-14,BO093,30,cerebrali,cerebrali,cerebrale,ADJ,_,_
-30-15,BO093,30,nell',nell',in+il,ADP+DET,_,_
+30-15,BO093,30,nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 30-15a,_,_,_,in,in,ADP,_,_
 30-15b,_,_,_,l',il,DET,_,_
 30-16,BO093,30,uomo,uomo,uomo,NOUN,_,_
@@ -518,7 +518,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 33-0,BO093,33,del,del,di+il,ADP+DET,_,_
 33-0a,_,_,_,di,di,ADP,_,_
 33-0b,_,_,_,il,il,DET,_,_
-33-1,BO093,33,dell',dell',di+il,ADP+DET,_,_
+33-1,BO093,33,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 33-1a,_,_,_,di,di,ADP,_,_
 33-1b,_,_,_,l',il,DET,_,_
 33-2,BO093,33,area,area,area,NOUN,_,_
@@ -607,7 +607,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 40-6,BO093,40,loro,loro,loro,ADJ,_,_
 40-7,BO093,40,insieme,insieme,insieme,NOUN,_,_
 40-8,BO093,40,hanno,hanno,avere,VERB,_,_
-40-9,BO093,40,un',un',uno,DET,_,_
+40-9,BO093,40,un',un',uno,DET,_,SpaceAfter=No
 40-10,BO093,40,incidenza,incidenza,incidenza,NOUN,_,_
 40-11,BO093,40,molto,molto,molto,ADV,_,_
 40-12,BO093,40,"elevata,",elevata,elevato,ADJ,_,_
@@ -725,7 +725,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 45-27,BO093,45,questi,questi,questo,DET,_,_
 45-28,BO093,45,argomenti.,argomenti,argomento,NOUN,_,_
 46-0,BO093,46,e::hm,ehm,ehm,INTJ,_,_
-46-1,BO093,46,c',c',ci,PRON,_,_
+46-1,BO093,46,c',c',ci,PRON,_,SpaceAfter=No
 46-2,BO093,46,è,è,essere,VERB,_,_
 46-3,BO093,46,inoltre,inoltre,inoltre,ADV,_,_
 46-4,BO093,46,anche,anche,anche,ADV,_,_
@@ -814,7 +814,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 50-19,BO093,50,di,di,di,ADP,_,_
 50-20,BO093,50,questi,questi,questo,DET,_,_
 50-21,BO093,50,"processi,",processi,processo,NOUN,_,_
-51-0,BO093,51,l',l',il,DET,_,_
+51-0,BO093,51,l',l',il,DET,_,SpaceAfter=No
 51-1,BO093,51,alterazione,alterazione,alterazione,NOUN,_,_
 51-2,BO093,51,in,in,in,ADP,_,_
 51-3,BO093,51,realtà,realtà,realtà,NOUN,_,_
@@ -881,7 +881,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 55-10,BO093,55,dare,dare,dare,VERB,_,_
 55-11,BO093,55,demenza,demenza,demenza,NOUN,_,_
 55-12,BO093,55,come,come,come,ADP,_,_
-55-13,BO093,55,l',l',il,DET,_,_
+55-13,BO093,55,l',l',il,DET,_,SpaceAfter=No
 55-14,BO093,55,alzheimer,alzheimer,alzheimer,NOUN,_,_
 55-15,BO093,55,come,come,come,ADP,_,_
 55-16,BO093,55,le,le,il,DET,_,_
@@ -909,7 +909,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 57-7,BO093,57,morbo,morbo,morbo,NOUN,_,_
 57-8,BO093,57,di,di,di,ADP,_,_
 57-9,BO093,57,parkinson.,parkinson,Parkinson,PROPN,_,_
-58-0,BO093,58,un',un',uno,DET,_,_
+58-0,BO093,58,un',un',uno,DET,_,SpaceAfter=No
 58-1,BO093,58,altra,altra,altro,ADJ,_,_
 58-2,BO093,58,patologia,patologia,patologia,NOUN,_,_
 58-3,BO093,58,è,è,essere,AUX,_,_
@@ -996,7 +996,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 66-8,BO093,66,almeno,almeno,almeno,ADV,_,_
 66-9,BO093,66,inizialmente.,inizialmente,inizialmente,ADV,_,_
 67-0,BO093,67,perché,perché,perché,SCONJ,_,_
-67-1,BO093,67,nell',nell',in+il,ADP+DET,_,_
+67-1,BO093,67,nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 67-1a,_,_,_,in,in,ADP,_,_
 67-1b,_,_,_,l',il,DET,_,_
 67-2,BO093,67,alzheimer,alzheimer,alzheimer,NOUN,_,_
@@ -1004,7 +1004,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 67-4,BO093,67,sapete,sapete,sapere,VERB,_,_
 67-5,BO093,67,tutti,tutti,tutto,PRON,_,_
 67-6,BO093,67,che,che,che,PRON,_,_
-67-7,BO093,67,c',c',ci,PRON,_,_
+67-7,BO093,67,c',c',ci,PRON,_,SpaceAfter=No
 67-8,BO093,67,è,è,essere,VERB,_,_
 67-9,BO093,67,un,un,uno,DET,_,_
 67-10,BO093,67,deficit,deficit,deficit,NOUN,_,_
@@ -1300,7 +1300,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 95-2,BO093,95,un,un,uno,DET,_,_
 95-3,BO093,95,punto,punto,punto,NOUN,_,_
 95-4,BO093,95,accertato,accertato,accertato,ADJ,_,_
-95-5,BO093,95,tant',tant',tanto,ADJ,_,_
+95-5,BO093,95,tant',tant',tanto,ADJ,_,SpaceAfter=No
 95-6,BO093,95,è,è,essere,VERB,_,_
 95-7,BO093,95,che,che,che,SCONJ,_,_
 95-8,BO093,95,come,come,come,SCONJ,_,_
@@ -1416,7 +1416,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 106-8,BO093,106,queste,queste,questo,DET,_,_
 106-9,BO093,106,patologie:.,patologie,patologia,NOUN,_,_
 107-0,BO093,107,"quindi,",quindi,quindi,ADV,_,_
-108-0,BO093,108,nell',nell',in+il,ADP+DET,_,_
+108-0,BO093,108,nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 108-0a,_,_,_,in,in,ADP,_,_
 108-0b,_,_,_,l',il,DET,_,_
 108-1,BO093,108,idea,idea,idea,NOUN,_,_
@@ -1446,7 +1446,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 111-2,BO093,111,appunto,appunto,appunto,ADV,_,_
 111-3,BO093,111,più,più,più,ADV,_,_
 111-4,BO093,111,promettente,promettente,promettente,ADJ,_,_
-111-5,BO093,111,l',l',il,DET,_,_
+111-5,BO093,111,l',l',il,DET,_,SpaceAfter=No
 111-6,BO093,111,idea,idea,idea,NOUN,_,_
 111-7,BO093,111,di,di,di,ADP,_,_
 111-8,BO093,111,valutare,valutare,valutare,VERB,_,_
@@ -1516,7 +1516,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 114-8,BO093,114,comuni.,comuni,comune,ADJ,_,_
 115-0,BO093,115,allora,allora,allora,ADV,_,_
 116-0,BO093,116,facciamo,facciamo,fare,VERB,_,_
-116-1,BO093,116,un',un',uno,DET,_,_
+116-1,BO093,116,un',un',uno,DET,_,SpaceAfter=No
 116-2,BO093,116,altra,altra,altro,ADJ,_,_
 116-3,BO093,116,premessa.,premessa,premessa,NOUN,_,_
 117-0,BO093,117,m:h,mh,mh,INTJ,_,_
@@ -1535,7 +1535,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 117-13,BO093,117,neuropatologia,neuropatologia,neuropatologia,NOUN,_,_
 117-14,BO093,117,è,è,essere,AUX,_,_
 117-15,BO093,117,considerare,considerare,considerare,VERB,_,_
-117-16,BO093,117,l',l',il,DET,_,_
+117-16,BO093,117,l',l',il,DET,_,SpaceAfter=No
 117-17,BO093,117,eziologia,eziologia,eziologia,NOUN,_,_
 117-18,BO093,117,cioè,cioè,cioè,CCONJ,_,_
 117-19,BO093,117,che,che,che,PRON,_,_
@@ -1551,7 +1551,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 118-4,BO093,118,ci,ci,ci,PRON,_,_
 118-5,BO093,118,può,può,potere,AUX,_,_
 118-6,BO093,118,essere,essere,essere,AUX,_,_
-118-7,BO093,118,un',un',uno,DET,_,_
+118-7,BO093,118,un',un',uno,DET,_,SpaceAfter=No
 118-8,BO093,118,eziologia,eziologia,eziologia,NOUN,_,_
 118-9,BO093,118,genetica,genetica,genetico,ADJ,_,_
 118-10,BO093,118,quando,quando,quando,SCONJ,_,_
@@ -1599,7 +1599,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 120-18b,_,_,_,la,il,DET,_,_
 120-19,BO093,120,patologia.,patologia,patologia,NOUN,_,_
 121-0,BO093,121,tra,tra,tra,ADP,_,_
-121-1,BO093,121,l',l',il,DET,_,_
+121-1,BO093,121,l',l',il,DET,_,SpaceAfter=No
 121-2,BO093,121,altro,altro,altro,PRON,_,_
 121-3,BO093,121,dobbiamo,dobbiamo,dovere,AUX,_,_
 121-4,BO093,121,anche,anche,anche,ADV,_,_
@@ -1623,7 +1623,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 121-18,BO093,121,può,può,potere,AUX,_,_
 121-19,BO093,121,essere,essere,essere,VERB,_,_
 121-20,BO093,121,proprio,proprio,proprio,ADV,_,_
-121-21,BO093,121,un',un',uno,DET,_,_
+121-21,BO093,121,un',un',uno,DET,_,SpaceAfter=No
 121-22,BO093,121,eredità,eredità,eredità,NOUN,_,_
 121-23,BO093,121,mendelliana,mendelliana,mendelliano,ADJ,_,_
 121-24,BO093,121,quindi,quindi,quindi,ADV,_,_
@@ -1651,7 +1651,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 123-11,BO093,123,background,background,background,NOUN,_,_
 123-12,BO093,123,genetico,genetico,genetico,ADJ,_,_
 123-13,BO093,123,con,con,con,ADP,_,_
-123-14,BO093,123,un',un',uno,DET,_,_
+123-14,BO093,123,un',un',uno,DET,_,SpaceAfter=No
 123-15,BO093,123,influenza,influenza,influenza,NOUN,_,_
 123-16,BO093,123,di,di,di,ADP,_,_
 123-17,BO093,123,più,più,più,ADV,_,_
@@ -1670,7 +1670,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 126-3,BO093,126,concetto,concetto,concetto,NOUN,_,_
 126-4,BO093,126,diverso,diverso,diverso,ADJ,_,_
 126-5,BO093,126,rispetto,rispetto,rispetto,NOUN,_,_
-126-6,BO093,126,all',all',a+il,ADP+DET,_,_
+126-6,BO093,126,all',all',a+il,ADP+DET,_,SpaceAfter=No
 126-6a,_,_,_,a,a,ADP,_,_
 126-6b,_,_,_,l',il,DET,_,_
 126-7,BO093,126,ereditarietà,ereditarietà,ereditarietà,NOUN,_,_
@@ -1688,11 +1688,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 128-1,BO093,128,fa,fa,fare,VERB,_,_
 128-2,BO093,128,sì,sì,sì,ADV,_,_
 128-3,BO093,128,che,che,che,SCONJ,_,_
-128-4,BO093,128,l',l',il,DET,_,_
+128-4,BO093,128,l',l',il,DET,_,SpaceAfter=No
 128-5,BO093,128,eziologia,eziologia,eziologia,NOUN,_,_
 128-6,BO093,128,sporadica,sporadica,sporadico,ADJ,_,_
 128-7,BO093,128,abbia,abbia,avere,VERB,_,_
-128-8,BO093,128,un',un',uno,DET,_,_
+128-8,BO093,128,un',un',uno,DET,_,SpaceAfter=No
 128-9,BO093,128,incidenza,incidenza,incidenza,NOUN,_,_
 128-10,BO093,128,maggiore.,maggiore,maggiore,ADJ,_,_
 129-0,BO093,129,e::hm,ehm,ehm,INTJ,_,_
@@ -1814,10 +1814,10 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 136-5,BO093,136,casi,casi,caso,NOUN,_,_
 136-6,BO093,136,hanno,hanno,avere,VERB,_,_
 136-7,BO093,136,invece,invece,invece,ADV,_,_
-136-8,BO093,136,un',un',uno,DET,_,_
+136-8,BO093,136,un',un',uno,DET,_,SpaceAfter=No
 136-9,BO093,136,eziologia,eziologia,eziologia,NOUN,_,_
 136-10,BO093,136,sporadica.,sporadica,sporadico,ADJ,_,_
-137-0,BO093,137,l',l',il,DET,_,_
+137-0,BO093,137,l',l',il,DET,_,SpaceAfter=No
 137-1,BO093,137,altro,altro,altro,ADJ,_,_
 137-2,BO093,137,aspetto,aspetto,aspetto,NOUN,_,_
 137-3,BO093,137,comune,comune,comune,ADJ,_,_
@@ -1951,10 +1951,10 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 145-4,BO093,145,proteine,proteine,proteina,NOUN,_,_
 145-5,BO093,145,cattive.,cattive,cattivo,ADJ,_,_
 146-0,BO093,146,perché,perché,perché,SCONJ,_,_
-146-1,BO093,146,c',c',ci,PRON,_,_
+146-1,BO093,146,c',c',ci,PRON,_,SpaceAfter=No
 146-2,BO093,146,è,è,essere,VERB,_,_
 146-3,BO093,146,proprio,proprio,proprio,ADV,_,_
-146-4,BO093,146,un',un',uno,DET,_,_
+146-4,BO093,146,un',un',uno,DET,_,SpaceAfter=No
 146-5,BO093,146,aterazione,aterazione,aterazione,NOUN,_,_
 146-6,BO093,146,a,a,a,ADP,_,_
 146-7,BO093,146,carico,carico,carico,NOUN,_,_
@@ -1969,9 +1969,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 147-0,BO093,147,in,in,in,ADP,_,_
 147-1,BO093,147,particolar,particolar,particolare,ADJ,_,_
 147-2,BO093,147,modo,modo,modo,NOUN,_,_
-147-3,BO093,147,c',c',ci,PRON,_,_
+147-3,BO093,147,c',c',ci,PRON,_,SpaceAfter=No
 147-4,BO093,147,è,è,essere,VERB,_,_
-147-5,BO093,147,un',un',uno,DET,_,_
+147-5,BO093,147,un',un',uno,DET,_,SpaceAfter=No
 147-6,BO093,147,"alterazione,",alterazione,alterazione,NOUN,_,_
 148-0,BO093,148,in,in,in,ADP,_,_
 148-1,BO093,148,tutti,tutti,tutto,DET,_,_
@@ -2006,20 +2006,20 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 150-1,BO093,150,cui,cui,cui,PRON,_,_
 150-2,BO093,150,m:h,mh,mh,INTJ,_,_
 150-3,BO093,150,diciamo,diciamo,dire,VERB,_,_
-150-4,BO093,150,c',c',ci,PRON,_,_
+150-4,BO093,150,c',c',ci,PRON,_,SpaceAfter=No
 150-5,BO093,150,è,è,essere,VERB,_,_
 150-6,BO093,150,un,un,uno,DET,_,_
 150-7,BO093,150,legame,legame,legame,NOUN,_,_
 150-8,BO093,150,molto,molto,molto,ADV,_,_
 150-9,BO093,150,stretto,stretto,stretto,ADJ,_,_
 151-0,BO093,151,tra,tra,tra,ADP,_,_
-151-1,BO093,151,l',l',il,DET,_,_
+151-1,BO093,151,l',l',il,DET,_,SpaceAfter=No
 151-2,BO093,151,accumulo,accumulo,accumulo,NOUN,_,_
 151-3,BO093,151,di,di,di,ADP,_,_
 151-4,BO093,151,questi,questi,questo,DET,_,_
 151-5,BO093,151,aggregati,aggregati,aggregato,NOUN,_,_
 152-0,BO093,152,e,e,e,CCONJ,_,_
-152-1,BO093,152,l',l',il,DET,_,_
+152-1,BO093,152,l',l',il,DET,_,SpaceAfter=No
 152-2,BO093,152,alterazione,alterazione,alterazione,NOUN,_,_
 152-3,BO093,152,dei,dei,di+il,ADP+DET,_,_
 152-3a,_,_,_,di,di,ADP,_,_
@@ -2035,7 +2035,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 153-5,BO093,153,stabilire,stabilire,stabilire,VERB,_,_
 153-6,BO093,153,qual,qual,quale,PRON,_,_
 153-7,BO093,153,è,è,essere,AUX,_,_
-153-8,BO093,153,l',l',il,DET,_,_
+153-8,BO093,153,l',l',il,DET,_,SpaceAfter=No
 153-9,BO093,153,uovo,uovo,uovo,NOUN,_,_
 153-10,BO093,153,qual,qual,quale,PRON,_,_
 153-11,BO093,153,è,è,essere,AUX,_,_
@@ -2052,7 +2052,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 155-2,BO093,155,è,è,essere,AUX,_,_
 155-3,BO093,155,chiaro,chiaro,chiaro,ADJ,_,_
 155-4,BO093,155,se,se,se,SCONJ,_,_
-156-0,BO093,156,l',l',il,DET,_,_
+156-0,BO093,156,l',l',il,DET,_,SpaceAfter=No
 156-1,BO093,156,aggregato,aggregato,aggregato,NOUN,_,_
 157-0,BO093,157,la,la,il,DET,_,_
 157-1,BO093,157,presenza,presenza,presenza,NOUN,_,_
@@ -2062,7 +2062,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 157-5,_,_,determini,determini,determinare,VERB,_,_
 158-0,BO093,158,la,la,il,DET,_,_
 159-0,BO093,159,e::h,eh,eh,INTJ,_,_
-159-1,BO093,159,l',l',il,DET,_,_
+159-1,BO093,159,l',l',il,DET,_,SpaceAfter=No
 159-2,BO093,159,alterazione,alterazione,alterazione,NOUN,_,_
 159-3,BO093,159,del,del,di+il,ADP+DET,_,_
 159-3a,_,_,_,di,di,ADP,_,_
@@ -2072,7 +2072,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 159-6,BO093,159,degradazione,degradazione,degradazione,NOUN,_,_
 160-0,BO093,160,oppure,oppure,oppure,CCONJ,_,_
 160-1,BO093,160,se,se,se,SCONJ,_,_
-160-2,BO093,160,l',l',il,DET,_,_
+160-2,BO093,160,l',l',il,DET,_,SpaceAfter=No
 160-3,BO093,160,aggregato,aggregato,aggregato,NOUN,_,_
 160-4,BO093,160,si,si,si,PRON,_,_
 160-5,BO093,160,forma,forma,formare,VERB,_,_
@@ -2084,7 +2084,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 160-11,BO093,160,non,non,non,ADV,_,_
 160-12,BO093,160,funziona.,funziona,funzionare,VERB,_,_
 161-0,BO093,161,tra,tra,tra,ADP,_,_
-161-1,BO093,161,l',l',il,DET,_,_
+161-1,BO093,161,l',l',il,DET,_,SpaceAfter=No
 161-2,BO093,161,altro,altro,altro,PRON,_,_
 161-3,BO093,161,non,non,non,ADV,_,_
 161-4,BO093,161,possiamo,possiamo,potere,AUX,_,_
@@ -2096,7 +2096,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 161-10,BO093,161,in,in,in,ADP,_,_
 161-11,BO093,161,parallelo.,parallelo,parallelo,NOUN,_,_
 162-0,BO093,162,e,e,e,CCONJ,_,_
-162-1,BO093,162,s',s',si,PRON,_,_
+162-1,BO093,162,s',s',si,PRON,_,SpaceAfter=No
 162-2,BO093,162,influenzino,influenzino,influenzare,VERB,_,_
 162-3,BO093,162,a,a,a,ADP,_,_
 162-4,BO093,162,vicenda.,vicenda,vicenda,NOUN,_,_
@@ -2110,7 +2110,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 163-7,BO093,163,tenere,tenere,tenere,VERB,_,_
 163-8,BO093,163,in,in,in,ADP,_,_
 163-9,BO093,163,considerazione.,considerazione,considerazione,NOUN,_,_
-164-0,BO093,164,l',l',il,DET,_,_
+164-0,BO093,164,l',l',il,DET,_,SpaceAfter=No
 164-1,BO093,164,altro,altro,altro,ADJ,_,_
 164-2,BO093,164,aspetto,aspetto,aspetto,NOUN,_,_
 164-3,BO093,164,importante,importante,importante,ADJ,_,_
@@ -2124,7 +2124,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 164-9,BO093,164,per,per,per,ADP,_,_
 164-10,BO093,164,molto,molto,molto,ADJ,_,_
 164-11,BO093,164,tempo,tempo,tempo,NOUN,_,_
-164-12,BO093,164,l',l',il,DET,_,_
+164-12,BO093,164,l',l',il,DET,_,SpaceAfter=No
 164-13,BO093,164,aggregato,aggregato,aggregato,NOUN,_,_
 164-14,BO093,164,veniva,veniva,venire,AUX,_,_
 164-15,BO093,164,considerato,considerato,considerare,VERB,_,_
@@ -2173,7 +2173,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 169-6,BO093,169,cerchino,cerchino,cercare,VERB,_,_
 169-7,BO093,169,di,di,di,ADP,_,_
 169-8,BO093,169,bloccare,bloccare,bloccare,VERB,_,_
-169-9,BO093,169,l',l',il,DET,_,_
+169-9,BO093,169,l',l',il,DET,_,SpaceAfter=No
 169-10,BO093,169,"aggregazione,",aggregazione,aggregazione,NOUN,_,_
 170-0,BO093,170,di,di,di,ADP,_,_
 170-1,BO093,170,queste,queste,questo,DET,_,_
@@ -2247,7 +2247,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 177-3,BO093,177,tossica,tossica,tossico,ADJ,_,_
 177-4,BO093,177,non,non,non,ADV,_,_
 177-5,BO093,177,è,è,essere,AUX,_,_
-177-6,BO093,177,l',l',il,DET,_,_
+177-6,BO093,177,l',l',il,DET,_,SpaceAfter=No
 177-7,BO093,177,aggregato,aggregato,aggregato,NOUN,_,_
 178-0,BO093,178,ma,ma,ma,CCONJ,_,_
 178-1,BO093,178,sono,sono,essere,AUX,_,_
@@ -2265,7 +2265,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 179-4,BO093,179,pensano,pensano,pensare,VERB,_,_
 179-5,BO093,179,che,che,che,SCONJ,_,_
 179-6,BO093,179,creare,creare,creare,VERB,_,_
-179-7,BO093,179,l',l',il,DET,_,_
+179-7,BO093,179,l',l',il,DET,_,SpaceAfter=No
 179-8,BO093,179,aggregato,aggregato,aggregato,NOUN,_,_
 179-9,BO093,179,sia,sia,essere,AUX,_,_
 179-10,BO093,179,un,un,uno,DET,_,_
@@ -2282,7 +2282,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 180-9,BO093,180,tossiche,tossiche,tossico,ADJ,_,_
 181-0,BO093,181,perché,perché,perché,SCONJ,_,_
 181-1,BO093,181,dentro,dentro,dentro,ADP,_,_
-181-2,BO093,181,l',l',il,DET,_,_
+181-2,BO093,181,l',l',il,DET,_,SpaceAfter=No
 181-3,BO093,181,aggregato,aggregato,aggregato,NOUN,_,_
 181-4,BO093,181,alla,alla,a+il,ADP+DET,_,_
 181-4a,_,_,_,a,a,ADP,_,_
@@ -2293,9 +2293,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 181-8,BO093,181,meno,meno,meno,ADV,_,_
 181-9,BO093,181,pericolose.,pericolose,pericoloso,ADJ,_,_
 182-0,BO093,182,tra,tra,tra,ADP,_,_
-182-1,BO093,182,l',l',il,DET,_,_
+182-1,BO093,182,l',l',il,DET,_,SpaceAfter=No
 182-2,BO093,182,altro,altro,altro,PRON,_,_
-183-0,BO093,183,l',l',il,DET,_,_
+183-0,BO093,183,l',l',il,DET,_,SpaceAfter=No
 183-1,BO093,183,aggregato,aggregato,aggregato,NOUN,_,_
 183-2,BO093,183,stimola,stimola,stimolare,VERB,_,_
 183-3,BO093,183,la,la,il,DET,_,_
@@ -2346,7 +2346,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 188-11,BO093,188,non,non,non,ADV,_,_
 188-12,BO093,188,hanno,hanno,avere,AUX,_,_
 188-13,BO093,188,funzionato.,funzionato,funzionare,VERB,_,_
-189-0,BO093,189,l',l',il,DET,_,_
+189-0,BO093,189,l',l',il,DET,_,SpaceAfter=No
 189-1,BO093,189,altro,altro,altro,ADJ,_,_
 189-2,BO093,189,aspetto,aspetto,aspetto,NOUN,_,_
 189-3,BO093,189,che,che,che,PRON,_,_
@@ -2357,7 +2357,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 189-8,BO093,189,di,di,di,ADP,_,_
 189-9,BO093,189,diciamo,diciamo,dire,VERB,_,_
 189-10,BO093,189,protezione,protezione,protezione,NOUN,_,_
-189-11,BO093,189,dell',dell',di+il,ADP+DET,_,_
+189-11,BO093,189,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 189-11a,_,_,_,di,di,ADP,_,_
 189-11b,_,_,_,l',il,DET,_,_
 189-12,BO093,189,aggregato,aggregato,aggregato,NOUN,_,_
@@ -2394,7 +2394,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 192-3,BO093,192,aggregati.,aggregati,aggregato,NOUN,_,_
 193-0,BO093,193,quindi,quindi,quindi,ADV,_,_
 194-0,BO093,194,evidentemente,evidentemente,evidentemente,ADV,_,_
-194-1,BO093,194,l',l',il,DET,_,_
+194-1,BO093,194,l',l',il,DET,_,SpaceAfter=No
 194-2,BO093,194,aggregato,aggregato,aggregato,NOUN,_,_
 194-3,BO093,194,può,può,potere,AUX,_,_
 194-4,BO093,194,non,non,non,ADV,_,_
@@ -2526,7 +2526,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 213-5,BO093,213,di,di,di,ADP,_,_
 213-6,BO093,213,demenza,demenza,demenza,NOUN,_,_
 213-7,BO093,213,nonostante,nonostante,nonostante,ADP,_,_
-214-0,BO093,214,l',l',il,DET,_,_
+214-0,BO093,214,l',l',il,DET,_,SpaceAfter=No
 214-1,BO093,214,eziogenesi,eziogenesi,eziogenesi,NOUN,_,_
 214-2,BO093,214,sia,sia,essere,AUX,_,_
 214-3,BO093,214,diversa,diversa,diverso,ADJ,_,_
@@ -2619,7 +2619,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 222-4,BO093,222,da,da,da,ADP,_,_
 222-5,BO093,222,poliglutammina,poliglutammina,poliglutammina,NOUN,_,_
 222-6,BO093,222,come,come,come,ADP,_,_
-222-7,BO093,222,l',l',il,DET,_,_
+222-7,BO093,222,l',l',il,DET,_,SpaceAfter=No
 222-8,BO093,222,huntington,huntington,huntington,NOUN,_,_
 222-9,BO093,222,abbiamo,abbiamo,avere,VERB,_,_
 222-10,BO093,222,degli,degli,di+il,ADP+DET,_,_
@@ -2702,7 +2702,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 229-6,BO093,229,una,una,uno,DET,_,_
 229-7,BO093,229,patologia,patologia,patologia,NOUN,_,_
 229-8,BO093,229,e,e,e,CCONJ,_,_
-229-9,BO093,229,l',l',il,DET,_,_
+229-9,BO093,229,l',l',il,DET,_,SpaceAfter=No
 229-10,BO093,229,altra,altra,altro,PRON,_,_
 229-11,BO093,229,diventano,diventano,diventare,VERB,_,_
 229-12,BO093,229,sempre,sempre,sempre,ADV,_,_
@@ -2738,7 +2738,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 233-0,BO093,233,che,che,che,PRON,_,_
 233-1,BO093,233,sembra,sembra,sembrare,VERB,_,_
 233-2,BO093,233,supportare,supportare,supportare,VERB,_,_
-233-3,BO093,233,l',l',il,DET,_,_
+233-3,BO093,233,l',l',il,DET,_,SpaceAfter=No
 233-4,BO093,233,idea,idea,idea,NOUN,_,_
 233-5,BO093,233,di,di,di,ADP,_,_
 233-6,BO093,233,meccanismi,meccanismi,meccanismo,NOUN,_,_
@@ -2749,7 +2749,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 233-9,BO093,233,diverse,diverse,diverso,ADJ,_,_
 233-10,BO093,233,forme,forme,forma,NOUN,_,_
 233-11,BO093,233,neuropatologiche.,neuropatologiche,neuropatologico,ADJ,_,_
-234-0,BO093,234,l',l',il,DET,_,_
+234-0,BO093,234,l',l',il,DET,_,SpaceAfter=No
 234-1,BO093,234,altro,altro,altro,ADJ,_,_
 234-2,BO093,234,m:h,mh,mh,INTJ,_,_
 234-3,BO093,234,diciamo,diciamo,dire,VERB,_,_
@@ -2760,7 +2760,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 234-8,BO093,234,per,per,per,ADP,_,_
 234-9,BO093,234,questo,questo,questo,PRON,_,_
 234-10,BO093,234,ma,ma,ma,CCONJ,_,_
-234-11,BO093,234,l',l',il,DET,_,_
+234-11,BO093,234,l',l',il,DET,_,SpaceAfter=No
 234-12,BO093,234,altro,altro,altro,ADJ,_,_
 234-13,BO093,234,aspetto,aspetto,aspetto,NOUN,_,_
 235-0,BO093,235,e::h,eh,eh,INTJ,_,_
@@ -2802,7 +2802,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 237-12,BO093,237,vedremo.,vedremo,vedere,VERB,_,_
 238-0,BO093,238,e::h,eh,eh,INTJ,_,_
 238-1,BO093,238,forse,forse,forse,ADV,_,_
-239-0,BO093,239,l',l',il,DET,_,_
+239-0,BO093,239,l',l',il,DET,_,SpaceAfter=No
 239-1,BO093,239,ipotesi,ipotesi,ipotesi,NOUN,_,_
 239-2,BO093,239,è,è,essere,VERB,_,_
 239-3,BO093,239,che,che,che,SCONJ,_,_
@@ -2828,7 +2828,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 241-1,BO093,241,però,però,però,ADV,_,_
 241-2,BO093,241,poi,poi,poi,ADV,_,_
 241-3,BO093,241,con,con,con,ADP,_,_
-241-4,BO093,241,l',l',il,DET,_,_
+241-4,BO093,241,l',l',il,DET,_,SpaceAfter=No
 241-5,BO093,241,avanzare,avanzare,avanzare,VERB,_,_
 241-6,BO093,241,della,della,di+il,ADP+DET,_,_
 241-6a,_,_,_,di,di,ADP,_,_
@@ -2856,7 +2856,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 242-3,BO093,242,tra,tra,tra,ADP,_,_
 242-4,BO093,242,una,una,uno,PRON,_,_
 242-5,BO093,242,e,e,e,CCONJ,_,_
-242-6,BO093,242,l',l',il,DET,_,_
+242-6,BO093,242,l',l',il,DET,_,SpaceAfter=No
 242-7,BO093,242,altra,altra,altro,PRON,_,_
 242-8,BO093,242,e,e,e,CCONJ,_,_
 242-9,BO093,242,dal,dal,da+il,ADP+DET,_,_
@@ -3003,7 +3003,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 258-8,BO093,258,formano,formano,formare,VERB,_,_
 258-9,BO093,258,gli,gli,il,DET,_,_
 258-10,BO093,258,aggregati,aggregati,aggregato,NOUN,_,_
-259-0,BO093,259,dall',dall',da+il,ADP+DET,_,_
+259-0,BO093,259,dall',dall',da+il,ADP+DET,_,SpaceAfter=No
 259-0a,_,_,_,da,da,ADP,_,_
 259-0b,_,_,_,l',il,DET,_,_
 259-1,BO093,259,"altra,",altra,altro,PRON,_,_
@@ -3097,7 +3097,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 268-0,BO093,268,e::h,eh,eh,INTJ,_,_
 268-1,BO093,268,intasano,intasano,intasare,VERB,_,_
 268-2,BO093,268,quindi,quindi,quindi,ADV,_,_
-268-3,BO093,268,l',l',il,DET,_,_
+268-3,BO093,268,l',l',il,DET,_,SpaceAfter=No
 268-4,BO093,268,attività,attività,attività,NOUN,_,_
 268-5,BO093,268,del,del,di+il,ADP+DET,_,_
 268-5a,_,_,_,di,di,ADP,_,_
@@ -3155,7 +3155,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 275-0,BO093,275,bloccano,bloccano,bloccare,VERB,_,_
 275-1,BO093,275,il,il,il,DET,_,_
 275-2,BO093,275,processo,processo,processo,NOUN,_,_
-275-3,BO093,275,dell',dell',di+il,ADP+DET,_,_
+275-3,BO093,275,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 275-3a,_,_,_,di,di,ADP,_,_
 275-3b,_,_,_,l',il,DET,_,_
 275-4,BO093,275,"autofagia,",autofagia,autofagia,NOUN,_,_
@@ -3275,7 +3275,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 284-8b,_,_,_,il,il,DET,_,_
 284-9,BO093,284,"tempo,",tempo,tempo,NOUN,_,_
 285-0,BO093,285,e,e,e,CCONJ,_,_
-285-1,BO093,285,c',c',ci,PRON,_,_
+285-1,BO093,285,c',c',ci,PRON,_,SpaceAfter=No
 285-2,BO093,285,è,è,essere,VERB,_,_
 285-3,BO093,285,un,un,uno,DET,_,_
 285-4,BO093,285,numero,numero,numero,NOUN,_,_
@@ -3323,7 +3323,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 289-8,BO093,289,perché,perché,perché,SCONJ,_,_
 289-9,BO093,289,lì,lì,lì,ADV,_,_
 289-10,BO093,289,se,se,se,SCONJ,_,_
-289-11,BO093,289,c',c',ci,PRON,_,_
+289-11,BO093,289,c',c',ci,PRON,_,SpaceAfter=No
 289-12,BO093,289,è,è,essere,VERB,_,_
 289-13,BO093,289,una,una,uno,DET,_,_
 289-14,BO093,289,familiarità,familiarità,familiarità,NOUN,_,_
@@ -3486,11 +3486,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 305-3,BO093,305,una,una,uno,DET,_,_
 305-4,BO093,305,patologia,patologia,patologia,NOUN,_,_
 305-5,BO093,305,come,come,come,ADP,_,_
-305-6,BO093,305,l',l',il,DET,_,_
+305-6,BO093,305,l',l',il,DET,_,SpaceAfter=No
 305-7,BO093,305,alzheimer,alzheimer,alzheimer,NOUN,_,_
 305-8,BO093,305,in,in,in,ADP,_,_
 305-9,BO093,305,cui,cui,cui,PRON,_,_
-305-10,BO093,305,c',c',ci,PRON,_,_
+305-10,BO093,305,c',c',ci,PRON,_,SpaceAfter=No
 305-11,BO093,305,è,è,essere,VERB,_,_
 305-12,BO093,305,una,una,uno,DET,_,_
 305-13,BO093,305,devastazione,devastazione,devastazione,NOUN,_,_
@@ -3584,12 +3584,12 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 313-9,BO093,313,e,e,e,CCONJ,_,_
 313-10,BO093,313,facogita,facogita,facogitare,VERB,_,_
 313-11,BO093,313,e,e,e,CCONJ,_,_
-313-12,BO093,313,l',l',lo,PRON,_,_
+313-12,BO093,313,l',l',lo,PRON,_,SpaceAfter=No
 313-13,BO093,313,abbiamo,abbiamo,avere,AUX,_,_
 313-14,BO093,313,"nominato,",nominato,nominare,VERB,_,_
 314-0,BO093,314,e,e,e,CCONJ,_,_
 314-1,BO093,314,non,non,non,ADV,_,_
-314-2,BO093,314,c',c',ci,PRON,_,_
+314-2,BO093,314,c',c',ci,PRON,_,SpaceAfter=No
 314-3,BO093,314,è,è,essere,VERB,_,_
 314-4,BO093,314,fondamentalmente,fondamentalmente,fondamentalmente,ADV,_,_
 314-5,BO093,314,il,il,il,DET,_,_
@@ -3633,7 +3633,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 317-3,BO093,317,normalmente,normalmente,normalmente,ADV,_,_
 317-4,BO093,317,non,non,non,ADV,_,_
 317-5,BO093,317,ce,ce,ci,PRON,_,_
-317-6,BO093,317,l',l',lo,PRON,_,_
+317-6,BO093,317,l',l',lo,PRON,_,SpaceAfter=No
 317-7,BO093,317,hanno,hanno,avere,VERB,_,_
 318-0,BO093,318,e::hm,ehm,ehm,INTJ,_,_
 319-0,BO093,319,le,le,le,PRON,_,_
@@ -3656,7 +3656,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 321-1a,_,_,_,attaccar,attaccare,VERB,_,_
 321-1b,_,_,_,si,si,PRON,_,_
 321-2,BO093,321,una,una,uno,PRON,_,_
-321-3,BO093,321,all',all',a+il,ADP+DET,_,_
+321-3,BO093,321,all',all',a+il,ADP+DET,_,SpaceAfter=No
 321-3a,_,_,_,a,a,ADP,_,_
 321-3b,_,_,_,l',il,DET,_,_
 321-4,BO093,321,altra.,altra,altro,PRON,_,_
@@ -3798,9 +3798,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 332-11,BO093,332,la,la,il,DET,_,_
 332-12,BO093,332,betamilosi,betamilosi,betamilosi,NOUN,_,_
 332-13,BO093,332,per,per,per,ADP,_,_
-332-14,BO093,332,l',l',il,DET,_,_
+332-14,BO093,332,l',l',il,DET,_,SpaceAfter=No
 332-15,BO093,332,"alzheimer,",alzheimer,alzheimer,NOUN,_,_
-332-16,BO093,332,l',l',il,DET,_,_
+332-16,BO093,332,l',l',il,DET,_,SpaceAfter=No
 332-17,BO093,332,alfasinucleina,alfasinucleina,alfasinucleina,NOUN,_,_
 332-18,BO093,332,per,per,per,ADP,_,_
 332-19,BO093,332,il,il,il,DET,_,_
@@ -3866,7 +3866,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 335-13,BO093,335,fondamentalmente.,fondamentalmente,fondamentalmente,ADV,_,_
 336-0,BO093,336,per,per,per,ADP,_,_
 336-1,BO093,336,dimostrare,dimostrare,dimostrare,VERB,_,_
-336-2,BO093,336,l',l',il,DET,_,_
+336-2,BO093,336,l',l',il,DET,_,SpaceAfter=No
 336-3,BO093,336,ipotesi,ipotesi,ipotesi,NOUN,_,_
 336-4,BO093,336,prio~,prio~,prionico,ADJ,_,_
 336-5,BO093,336,prionica,prionica,prionico,ADJ,_,_
@@ -3910,7 +3910,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 337-1,BO093,337,controllo,controllo,controllo,NOUN,_,_
 337-2,BO093,337,positivo,positivo,positivo,ADJ,_,_
 337-3,BO093,337,di,di,di,ADP,_,_
-337-4,BO093,337,un',un',uno,DET,_,_
+337-4,BO093,337,un',un',uno,DET,_,SpaceAfter=No
 337-5,BO093,337,ipotesi,ipotesi,ipotesi,NOUN,_,_
 337-6,BO093,337,"prionica,",prionica,prionico,ADJ,_,_
 338-0,BO093,338,è,è,essere,AUX,_,_
@@ -3920,7 +3920,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 338-4,BO093,338,la,la,il,DET,_,_
 338-5,BO093,338,proteina,proteina,proteina,NOUN,_,_
 338-6,BO093,338,betamiloide,betamiloide,betamiloide,NOUN,_,_
-338-7,BO093,338,l',l',il,DET,_,_
+338-7,BO093,338,l',l',il,DET,_,SpaceAfter=No
 338-8,BO093,338,alfasinucleina,alfasinucleina,alfasinucleina,NOUN,_,_
 338-9,BO093,338,la,la,il,DET,_,_
 338-10,BO093,338,proteina,proteina,proteina,NOUN,_,_
@@ -4071,7 +4071,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 351-3a,_,_,_,a,a,ADP,_,_
 351-3b,_,_,_,la,il,DET,_,_
 351-4,BO093,351,morte,morte,morte,NOUN,_,_
-351-5,BO093,351,dell',dell',di+il,ADP+DET,_,_
+351-5,BO093,351,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 351-5a,_,_,_,di,di,ADP,_,_
 351-5b,_,_,_,l',il,DET,_,_
 351-6,BO093,351,animale,animale,animale,NOUN,_,_
@@ -4098,7 +4098,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 354-1,BO093,354,ha,ha,avere,AUX,_,_
 354-2,BO093,354,ovviamente,ovviamente,ovviamente,ADV,_,_
 354-3,BO093,354,dimostrato,dimostrato,dimostrare,VERB,_,_
-354-4,BO093,354,l',l',il,DET,_,_
+354-4,BO093,354,l',l',il,DET,_,SpaceAfter=No
 354-5,BO093,354,ipotesi,ipotesi,ipotesi,NOUN,_,_
 354-6,BO093,354,prionica.,prionica,prionico,ADJ,_,_
 355-0,BO093,355,del,del,di+il,ADP+DET,_,_
@@ -4110,7 +4110,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 355-3a,_,_,_,di,di,ADP,_,_
 355-3b,_,_,_,il,il,DET,_,_
 355-4,BO093,355,ruolo,ruolo,ruolo,NOUN,_,_
-355-5,BO093,355,dell',dell',di+il,ADP+DET,_,_
+355-5,BO093,355,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 355-5a,_,_,_,di,di,ADP,_,_
 355-5b,_,_,_,l',il,DET,_,_
 355-6,BO093,355,effetto,effetto,effetto,NOUN,_,_
@@ -4128,7 +4128,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 357-2,BO093,357,abbiamo,abbiamo,avere,AUX,_,_
 357-3,BO093,357,detto,detto,dire,VERB,_,_
 357-4,BO093,357,che,che,che,SCONJ,_,_
-357-5,BO093,357,l',l',il,DET,_,_
+357-5,BO093,357,l',l',il,DET,_,SpaceAfter=No
 357-6,BO093,357,effetto,effetto,effetto,NOUN,_,_
 357-7,BO093,357,di,di,di,ADP,_,_
 357-8,BO093,357,queste,queste,questo,DET,_,_
@@ -4217,7 +4217,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 366-9,BO093,366,queste,queste,questo,DET,_,_
 366-10,BO093,366,patologie,patologie,patologia,NOUN,_,_
 366-11,BO093,366,è,è,essere,AUX,_,_
-366-12,BO093,366,un',un',uno,DET,_,_
+366-12,BO093,366,un',un',uno,DET,_,SpaceAfter=No
 366-13,BO093,366,alterazione,alterazione,alterazione,NOUN,_,_
 366-14,BO093,366,a,a,a,ADP,_,_
 366-15,BO093,366,carico,carico,carico,NOUN,_,_
@@ -4232,11 +4232,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 367-4,BO093,367,essere,essere,essere,AUX,_,_
 367-5,BO093,367,danneggiati,danneggiati,danneggiare,VERB,_,_
 367-6,BO093,367,e,e,e,CCONJ,_,_
-367-7,BO093,367,c',c',ci,PRON,_,_
+367-7,BO093,367,c',c',ci,PRON,_,SpaceAfter=No
 367-8,BO093,367,è,è,essere,VERB,_,_
-367-9,BO093,367,un',un',uno,DET,_,_
+367-9,BO093,367,un',un',uno,DET,_,SpaceAfter=No
 367-10,BO093,367,alterazione,alterazione,alterazione,NOUN,_,_
-367-11,BO093,367,dell',dell',di+il,ADP+DET,_,_
+367-11,BO093,367,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 367-11a,_,_,_,di,di,ADP,_,_
 367-11b,_,_,_,l',il,DET,_,_
 367-12,BO093,367,omeostasi,omeostasi,omeostasi,NOUN,_,_
@@ -4258,7 +4258,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 367-20b,_,_,_,i,il,DET,_,_
 367-21,BO093,367,"mitocondri,",mitocondri,mitocondrio,NOUN,_,_
 368-0,BO093,368,e,e,e,CCONJ,_,_
-368-1,BO093,368,c',c',ci,PRON,_,_
+368-1,BO093,368,c',c',ci,PRON,_,SpaceAfter=No
 368-2,BO093,368,è,è,essere,VERB,_,_
 368-3,BO093,368,una,una,uno,DET,_,_
 368-4,BO093,368,grossa,grossa,grosso,ADJ,_,_
@@ -4266,7 +4266,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 368-6,BO093,368,di,di,di,ADP,_,_
 368-7,BO093,368,specie,specie,specie,NOUN,_,_
 368-8,BO093,368,reattive,reattive,reattivo,ADJ,_,_
-368-9,BO093,368,dell',dell',di+il,ADP+DET,_,_
+368-9,BO093,368,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 368-9a,_,_,_,di,di,ADP,_,_
 368-9b,_,_,_,l',il,DET,_,_
 368-10,BO093,368,ossigeno.,ossigeno,ossigeno,NOUN,_,_
@@ -4274,7 +4274,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 369-1,BO093,369,vanno,vanno,andare,VERB,_,_
 369-2,BO093,369,a,a,a,ADP,_,_
 369-3,BO093,369,propagare,propagare,propagare,VERB,_,_
-369-4,BO093,369,l',l',il,DET,_,_
+369-4,BO093,369,l',l',il,DET,_,SpaceAfter=No
 369-5,BO093,369,alterazione,alterazione,alterazione,NOUN,_,_
 369-6,BO093,369,mitocondriale,mitocondriale,mitocondriale,ADJ,_,_
 369-7,BO093,369,e,e,e,CCONJ,_,_
@@ -4341,20 +4341,20 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 373-7,BO093,373,malfoldate,malfoldate,malfoldato,ADJ,_,_
 373-8,BO093,373,che,che,che,PRON,_,_
 373-9,BO093,373,provocano,provocano,provocare,VERB,_,_
-373-10,BO093,373,l',l',il,DET,_,_
+373-10,BO093,373,l',l',il,DET,_,SpaceAfter=No
 373-11,BO093,373,alterazione,alterazione,alterazione,NOUN,_,_
 373-12,BO093,373,mitocondriale,mitocondriale,mitocondriale,ADJ,_,_
 373-13,BO093,373,o,o,o,CCONJ,_,_
 373-14,BO093,373,provocano,provocano,provocare,VERB,_,_
-373-15,BO093,373,l',l',il,DET,_,_
+373-15,BO093,373,l',l',il,DET,_,SpaceAfter=No
 373-16,BO093,373,apoptosi,apoptosi,apoptosi,NOUN,_,_
 373-17,BO093,373,e,e,e,CCONJ,_,_
 373-18,BO093,373,indirettamente,indirettamente,indirettamente,ADV,_,_
-373-19,BO093,373,l',l',il,DET,_,_
+373-19,BO093,373,l',l',il,DET,_,SpaceAfter=No
 373-20,BO093,373,alterazione,alterazione,alterazione,NOUN,_,_
 373-21,BO093,373,mitocondriale.,mitocondriale,mitocondriale,ADJ,_,_
 374-0,BO093,374,cioè,cioè,cioè,CCONJ,_,_
-374-1,BO093,374,l',l',il,DET,_,_
+374-1,BO093,374,l',l',il,DET,_,SpaceAfter=No
 374-2,BO093,374,ordine,ordine,ordine,NOUN,_,_
 374-3,BO093,374,la,la,il,DET,_,_
 374-4,BO093,374,sequenza,sequenza,sequenza,NOUN,_,_
@@ -4532,7 +4532,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 390-15,BO093,390,me,me,me,PRON,_,_
 390-16,BO093,390,poteva,poteva,potere,AUX,_,_
 390-17,BO093,390,bastare,bastare,bastare,VERB,_,_
-390-18,BO093,390,l',l',il,DET,_,_
+390-18,BO093,390,l',l',il,DET,_,SpaceAfter=No
 390-19,BO093,390,apoptosi,apoptosi,apoptosi,NOUN,_,_
 390-20,BO093,390,evidentemente,evidentemente,evidentemente,ADV,_,_
 390-21,BO093,390,no.,no,no,ADV,_,_
@@ -4582,7 +4582,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 392-10,BO093,392,avendo,avendo,avere,VERB,_,_
 392-11,BO093,392,come,come,come,ADP,_,_
 392-12,BO093,392,estremi,estremi,estremo,NOUN,_,_
-392-13,BO093,392,l',l',il,DET,_,_
+392-13,BO093,392,l',l',il,DET,_,SpaceAfter=No
 392-14,BO093,392,apoptosi,apoptosi,apoptosi,NOUN,_,_
 392-15,BO093,392,e,e,e,CCONJ,_,_
 392-16,BO093,392,la,la,il,DET,_,_
@@ -4604,7 +4604,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 393-4,BO093,393,morte,morte,morte,NOUN,_,_
 393-5,BO093,393,autofagica,autofagica,autofagico,ADJ,_,_
 393-6,BO093,393,perché,perché,perché,SCONJ,_,_
-393-7,BO093,393,c',c',ci,PRON,_,_
+393-7,BO093,393,c',c',ci,PRON,_,SpaceAfter=No
 393-8,BO093,393,è,è,essere,VERB,_,_
 393-9,BO093,393,anche,anche,anche,ADV,_,_
 393-10,BO093,393,quella.,quella,quello,PRON,_,_
@@ -4629,7 +4629,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 394-18,BO093,394,di,di,di,ADP,_,_
 394-19,BO093,394,morte,morte,morte,NOUN,_,_
 394-20,BO093,394,o,o,o,CCONJ,_,_
-394-21,BO093,394,l',l',il,DET,_,_
+394-21,BO093,394,l',l',il,DET,_,SpaceAfter=No
 394-22,BO093,394,altro,altro,altro,PRON,_,_
 394-23,BO093,394,non,non,non,ADV,_,_
 394-24,BO093,394,te,te,ti,PRON,_,_
@@ -4695,7 +4695,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 400-5,BO093,400,neurale.,neurale,neurale,ADJ,_,_
 401-0,BO093,401,e::h,eh,eh,INTJ,_,_
 401-1,BO093,401,quindi,quindi,quindi,ADV,_,_
-401-2,BO093,401,c',c',ci,PRON,_,_
+401-2,BO093,401,c',c',ci,PRON,_,SpaceAfter=No
 401-3,BO093,401,è,è,essere,VERB,_,_
 401-4,BO093,401,un,un,uno,DET,_,_
 401-5,BO093,401,legame,legame,legame,NOUN,_,_
@@ -4718,7 +4718,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 402-9,BO093,402,sensibile,sensibile,sensibile,ADJ,_,_
 402-10,BO093,402,e,e,e,CCONJ,_,_
 402-11,BO093,402,suscettibile,suscettibile,suscettibile,ADJ,_,_
-402-12,BO093,402,all',all',a+il,ADP+DET,_,_
+402-12,BO093,402,all',all',a+il,ADP+DET,_,SpaceAfter=No
 402-12a,_,_,_,a,a,ADP,_,_
 402-12b,_,_,_,l',il,DET,_,_
 402-13,BO093,402,alterazione,alterazione,alterazione,NOUN,_,_
@@ -4736,7 +4736,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 403-3,BO093,403,è,è,essere,AUX,_,_
 403-4,BO093,403,il,il,il,DET,_,_
 403-5,BO093,403,punto,punto,punto,NOUN,_,_
-403-6,BO093,403,c',c',ci,PRON,_,_
+403-6,BO093,403,c',c',ci,PRON,_,SpaceAfter=No
 403-7,BO093,403,è,è,essere,VERB,_,_
 403-8,BO093,403,un,un,uno,DET,_,_
 403-9,BO093,403,legame,legame,legame,NOUN,_,_
@@ -4833,9 +4833,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 409-2,BO093,409,eh,eh,eh,INTJ,_,_
 409-3,BO093,409,popolazioni,popolazioni,popolazione,NOUN,_,_
 409-4,BO093,409,rurali,rurali,rurale,ADJ,_,_
-409-5,BO093,409,c',c',ci,PRON,_,_
+409-5,BO093,409,c',c',ci,PRON,_,SpaceAfter=No
 409-6,BO093,409,era,era,essere,VERB,_,_
-409-7,BO093,409,un',un',uno,DET,_,_
+409-7,BO093,409,un',un',uno,DET,_,SpaceAfter=No
 409-8,BO093,409,incidenza,incidenza,incidenza,NOUN,_,_
 409-9,BO093,409,elevatissima,elevatissima,elevato,ADJ,_,_
 409-11,_,_,di,di,di,ADP,_,_
@@ -4848,7 +4848,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 410-5,BO093,410,diciamo,diciamo,dire,VERB,_,_
 410-6,BO093,410,in,in,in,ADP,_,_
 410-7,BO093,410,relazione,relazione,relazione,NOUN,_,_
-410-8,BO093,410,all',all',a+il,ADP+DET,_,_
+410-8,BO093,410,all',all',a+il,ADP+DET,_,SpaceAfter=No
 410-8a,_,_,_,a,a,ADP,_,_
 410-8b,_,_,_,l',il,DET,_,_
 410-9,BO093,410,utilizzo,utilizzo,utilizzo,NOUN,_,_
@@ -4870,7 +4870,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 410-21b,_,_,_,la,il,DET,_,_
 410-22,BO093,410,catena,catena,catena,NOUN,_,_
 410-23,BO093,410,respiratoria.,respiratoria,respiratorio,ADJ,_,_
-411-0,BO093,411,tant',tant',tanto,ADV,_,_
+411-0,BO093,411,tant',tant',tanto,ADV,_,SpaceAfter=No
 411-1,BO093,411,è,è,essere,VERB,_,_
 411-2,BO093,411,che,che,che,SCONJ,_,_
 411-3,BO093,411,adesso,adesso,adesso,ADV,_,_
@@ -4889,7 +4889,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 411-14,BO093,411,parkinson.,parkinson,parkinson,NOUN,_,_
 412-0,BO093,412,proprio,proprio,proprio,ADV,_,_
 412-1,BO093,412,perché,perché,perché,SCONJ,_,_
-412-2,BO093,412,c',c',ci,PRON,_,_
+412-2,BO093,412,c',c',ci,PRON,_,SpaceAfter=No
 412-3,BO093,412,è,è,essere,VERB,_,_
 412-4,BO093,412,una,una,uno,DET,_,_
 412-5,BO093,412,casua~,casua~,causalità,NOUN,_,_
@@ -4897,7 +4897,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 412-7,BO093,412,diretta.,diretta,diretto,ADJ,_,_
 413-0,BO093,413,ora,ora,ora,ADV,_,_
 413-1,BO093,413,e::hm,ehm,ehm,INTJ,_,_
-413-2,BO093,413,l',l',il,DET,_,_
+413-2,BO093,413,l',l',il,DET,_,SpaceAfter=No
 413-3,BO093,413,altro,altro,altro,ADJ,_,_
 413-4,BO093,413,aspetto,aspetto,aspetto,NOUN,_,_
 413-5,BO093,413,è,è,essere,VERB,_,_
@@ -4934,7 +4934,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 414-22,BO093,414,proteine,proteine,proteina,NOUN,_,_
 414-23,BO093,414,mitocondriali.,mitocondriali,mitocondriale,ADJ,_,_
 415-0,BO093,415,quindi,quindi,quindi,ADV,_,_
-415-1,BO093,415,c',c',ci,PRON,_,_
+415-1,BO093,415,c',c',ci,PRON,_,SpaceAfter=No
 415-2,BO093,415,è,è,essere,VERB,_,_
 415-3,BO093,415,un,un,uno,DET,_,_
 415-4,BO093,415,legame,legame,legame,NOUN,_,_
@@ -4953,7 +4953,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 416-0,BO093,416,e::hm,ehm,ehm,INTJ,_,_
 416-1,BO093,416,malattie,malattie,malattia,NOUN,_,_
 416-2,BO093,416,neurodegenerative.,neurodegenerative,neurodegenerativo,ADJ,_,_
-417-0,BO093,417,l',l',il,DET,_,_
+417-0,BO093,417,l',l',il,DET,_,SpaceAfter=No
 417-1,BO093,417,altro,altro,altro,ADJ,_,_
 417-2,BO093,417,aspetto,aspetto,aspetto,NOUN,_,_
 417-3,BO093,417,è,è,essere,VERB,_,_
@@ -5005,7 +5005,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 419-11,BO093,419,producono,producono,produrre,VERB,_,_
 419-12,BO093,419,specie,specie,specie,NOUN,_,_
 419-13,BO093,419,reattive,reattive,reattivo,ADJ,_,_
-419-14,BO093,419,dell',dell',di+il,ADP+DET,_,_
+419-14,BO093,419,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 419-14a,_,_,_,di,di,ADP,_,_
 419-14b,_,_,_,l',il,DET,_,_
 419-15,BO093,419,ossigeno.,ossigeno,ossigeno,NOUN,_,_
@@ -5017,7 +5017,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 420-4a,_,_,_,di,di,ADP,_,_
 420-4b,_,_,_,il,il,DET,_,_
 420-5,BO093,420,mitocondrio,mitocondrio,mitocondrio,NOUN,_,_
-420-6,BO093,420,dell',dell',di+il,ADP+DET,_,_
+420-6,BO093,420,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 420-6a,_,_,_,di,di,ADP,_,_
 420-6b,_,_,_,l',il,DET,_,_
 420-7,BO093,420,alterazione,alterazione,alterazione,NOUN,_,_
@@ -5033,7 +5033,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 420-17,BO093,420,le,le,il,DET,_,_
 420-18,BO093,420,malattie,malattie,malattia,NOUN,_,_
 420-19,BO093,420,neurodegenerative.,neurodegenerative,neurodegenerativo,ADJ,_,_
-421-0,BO093,421,l',l',il,DET,_,_
+421-0,BO093,421,l',l',il,DET,_,SpaceAfter=No
 421-1,BO093,421,altro,altro,altro,ADJ,_,_
 421-2,BO093,421,e::hm,ehm,ehm,INTJ,_,_
 421-3,BO093,421,aspetto,aspetto,aspetto,NOUN,_,_
@@ -5092,7 +5092,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 424-9,BO093,424,neurotrasmettitori,neurotrasmettitori,neurotrasmettitore,NOUN,_,_
 424-10,BO093,424,non,non,non,ADV,_,_
 424-11,BO093,424,raggiungono,raggiungono,raggiungere,VERB,_,_
-424-12,BO093,424,l',l',il,DET,_,_
+424-12,BO093,424,l',l',il,DET,_,SpaceAfter=No
 424-13,BO093,424,estremità,estremità,estremità,NOUN,_,_
 424-14,BO093,424,sinattica.,sinattica,sinattico,ADJ,_,_
 425-0,BO093,425,eh,eh,eh,INTJ,_,_
@@ -5116,7 +5116,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 425-18,BO093,425,che,che,che,PRON,_,_
 425-19,BO093,425,si,si,si,PRON,_,_
 425-20,BO093,425,trovano,trovano,trovare,VERB,_,_
-425-21,BO093,425,all',all',a+il,ADP+DET,_,_
+425-21,BO093,425,all',all',a+il,ADP+DET,_,SpaceAfter=No
 425-21a,_,_,_,a,a,ADP,_,_
 425-21b,_,_,_,l',il,DET,_,_
 425-22,BO093,425,estremità,estremità,estremità,NOUN,_,_
@@ -5141,7 +5141,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 425-39,BO093,425,propriamente.,propriamente,propriamente,ADV,_,_
 426-0,BO093,426,per,per,per,ADP,_,_
 426-1,BO093,426,cui,cui,cui,PRON,_,_
-426-2,BO093,426,c',c',ci,PRON,_,_
+426-2,BO093,426,c',c',ci,PRON,_,SpaceAfter=No
 426-3,BO093,426,è,è,essere,VERB,_,_
 426-4,BO093,426,un,un,uno,DET,_,_
 426-5,BO093,426,accumulo,accumulo,accumulo,NOUN,_,_
@@ -5153,7 +5153,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 426-11,BO093,426,malfunzionanti,malfunzionanti,malfunzionante,ADJ,_,_
 426-12,BO093,426,a,a,a,ADP,_,_
 426-13,BO093,426,livello,livello,livello,NOUN,_,_
-426-14,BO093,426,dell',dell',di+il,ADP+DET,_,_
+426-14,BO093,426,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 426-14a,_,_,_,di,di,ADP,_,_
 426-14b,_,_,_,l',il,DET,_,_
 426-15,BO093,426,estremità,estremità,estremità,NOUN,_,_
@@ -5174,7 +5174,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 427-2,BO093,427,fatto,fatto,fatto,NOUN,_,_
 427-3,BO093,427,che,che,che,PRON,_,_
 427-4,BO093,427,appunto,appunto,appunto,ADV,_,_
-427-5,BO093,427,c',c',ci,PRON,_,_
+427-5,BO093,427,c',c',ci,PRON,_,SpaceAfter=No
 427-6,BO093,427,è,è,essere,VERB,_,_
 427-7,BO093,427,un,un,uno,DET,_,_
 427-8,BO093,427,deficit,deficit,deficit,NOUN,_,_
@@ -5188,7 +5188,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 428-1,BO093,428,ora,ora,ora,ADV,_,_
 428-2,BO093,428,questa,questa,questo,PRON,_,_
 428-3,BO093,428,è,è,essere,AUX,_,_
-428-4,BO093,428,un',un',uno,DET,_,_
+428-4,BO093,428,un',un',uno,DET,_,SpaceAfter=No
 428-5,BO093,428,immagine,immagine,immagine,NOUN,_,_
 428-6,BO093,428,che,che,che,PRON,_,_
 428-7,BO093,428,vi,vi,vi,PRON,_,_
@@ -5206,13 +5206,13 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 428-17,BO093,428,trasporto,trasporto,trasporto,NOUN,_,_
 428-18,BO093,428,"assonale,",assonale,assonale,ADJ,_,_
 429-0,BO093,429,e,e,e,CCONJ,_,_
-429-1,BO093,429,quest',quest',questo,DET,_,_
+429-1,BO093,429,quest',quest',questo,DET,_,SpaceAfter=No
 429-2,BO093,429,immagine,immagine,immagine,NOUN,_,_
 429-3,BO093,429,vi,vi,vi,PRON,_,_
 429-4,BO093,429,mostra,mostra,mostrare,VERB,_,_
 429-5,BO093,429,anche,anche,anche,ADV,_,_
 429-6,BO093,429,e::h,eh,eh,INTJ,_,_
-429-7,BO093,429,un',un',uno,DET,_,_
+429-7,BO093,429,un',un',uno,DET,_,SpaceAfter=No
 429-8,BO093,429,altra,altra,altro,ADJ,_,_
 429-9,BO093,429,situazione,situazione,situazione,NOUN,_,_
 429-10,BO093,429,perché?,perché,perché,SCONJ,_,_
@@ -5232,7 +5232,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 430-11,BO093,430,"tauopatie,",tauopatie,tauopatia,NOUN,_,_
 431-0,BO093,431,che,che,che,PRON,_,_
 431-1,BO093,431,sono,sono,essere,AUX,_,_
-431-2,BO093,431,l',l',il,DET,_,_
+431-2,BO093,431,l',l',il,DET,_,SpaceAfter=No
 431-3,BO093,431,huntington,huntington,huntington,NOUN,_,_
 431-4,BO093,431,e,e,e,CCONJ,_,_
 431-5,BO093,431,le,le,il,DET,_,_
@@ -5240,9 +5240,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 432-0,BO093,432,scusatemi,scusatemi,scusare+mi,VERB+PRON,_,_
 432-0a,_,_,_,scusate,scusare,VERB,_,_
 432-0b,_,_,_,mi,mi,PRON,_,_
-432-1,BO093,432,l',l',il,DET,_,_
+432-1,BO093,432,l',l',il,DET,_,SpaceAfter=No
 432-2,BO093,432,huntington,huntington,huntington,NOUN,_,_
-432-3,BO093,432,l',l',il,DET,_,_
+432-3,BO093,432,l',l',il,DET,_,SpaceAfter=No
 432-4,BO093,432,alzheimer,alzheimer,alzheimer,NOUN,_,_
 432-5,BO093,432,e,e,e,CCONJ,_,_
 432-6,BO093,432,le,le,il,DET,_,_
@@ -5278,7 +5278,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 435-6,BO093,435,viene,viene,venire,AUX,_,_
 435-7,BO093,435,iperfosforilata,iperfosforilata,iperfosforilare,VERB,_,_
 435-8,BO093,435,e,e,e,CCONJ,_,_
-435-9,BO093,435,l',l',il,DET,_,_
+435-9,BO093,435,l',l',il,DET,_,SpaceAfter=No
 435-10,BO093,435,iperfosforilazione,iperfosforilazione,iperfosforilazione,NOUN,_,_
 435-11,BO093,435,di,di,di,ADP,_,_
 435-12,BO093,435,questa,questa,questo,DET,_,_
@@ -5315,7 +5315,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 435-37,BO093,435,fine,fine,fine,NOUN,_,_
 435-38,BO093,435,è,è,essere,VERB,_,_
 435-39,BO093,435,che,che,che,SCONJ,_,_
-435-40,BO093,435,c',c',ci,PRON,_,_
+435-40,BO093,435,c',c',ci,PRON,_,SpaceAfter=No
 435-41,BO093,435,è,è,essere,VERB,_,_
 435-42,BO093,435,proprio,proprio,proprio,ADV,_,_
 435-43,BO093,435,una,una,uno,DET,_,_
@@ -5324,10 +5324,10 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 435-45a,_,_,_,di,di,ADP,_,_
 435-45b,_,_,_,i,il,DET,_,_
 435-46,BO093,435,microtubuli.,microtubuli,microtubulo,NOUN,_,_
-436-0,BO093,436,tant',tant',tanto,ADV,_,_
+436-0,BO093,436,tant',tant',tanto,ADV,_,SpaceAfter=No
 436-1,BO093,436,è,è,essere,VERB,_,_
 436-2,BO093,436,che,che,che,SCONJ,_,_
-436-3,BO093,436,all',all',a+il,ADP+DET,_,_
+436-3,BO093,436,all',all',a+il,ADP+DET,_,SpaceAfter=No
 436-3a,_,_,_,a,a,ADP,_,_
 436-3b,_,_,_,l',il,DET,_,_
 436-4,BO093,436,interno,interno,interno,NOUN,_,_
@@ -5364,23 +5364,23 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 436-31,BO093,436,in,in,in,ADP,_,_
 436-32,BO093,436,questi,questi,questo,DET,_,_
 436-33,BO093,436,grovigli.,grovigli,groviglio,NOUN,_,_
-437-0,BO093,437,nell',nell',in+il,ADP+DET,_,_
+437-0,BO093,437,nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 437-0a,_,_,_,in,in,ADP,_,_
 437-0b,_,_,_,l',il,DET,_,_
 437-1,BO093,437,huntington,huntington,huntington,NOUN,_,_
 437-2,BO093,437,invece,invece,invece,ADV,_,_
-437-3,BO093,437,c',c',ci,PRON,_,_
+437-3,BO093,437,c',c',ci,PRON,_,SpaceAfter=No
 437-4,BO093,437,è,è,essere,VERB,_,_
-437-5,BO093,437,un',un',uno,DET,_,_
+437-5,BO093,437,un',un',uno,DET,_,SpaceAfter=No
 437-6,BO093,437,alterazione,alterazione,alterazione,NOUN,_,_
-437-7,BO093,437,dell',dell',di+il,ADP+DET,_,_
+437-7,BO093,437,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 437-7a,_,_,_,di,di,ADP,_,_
 437-7b,_,_,_,l',il,DET,_,_
 437-8,BO093,437,acetilazione,acetilazione,acetilazione,NOUN,_,_
 437-9,BO093,437,m:h,mh,mh,INTJ,_,_
 437-10,BO093,437,vedremo,vedremo,vedere,VERB,_,_
 437-11,BO093,437,anche,anche,anche,ADV,_,_
-437-12,BO093,437,nell',nell',in+il,ADP+DET,_,_
+437-12,BO093,437,nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 437-12a,_,_,_,in,in,ADP,_,_
 437-12b,_,_,_,l',il,DET,_,_
 437-13,BO093,437,articolo,articolo,articolo,NOUN,_,_
@@ -5390,7 +5390,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 437-17,BO093,437,e,e,e,CCONJ,_,_
 437-18,BO093,437,questa,questa,questo,DET,_,_
 437-19,BO093,437,alterazione,alterazione,alterazione,NOUN,_,_
-437-20,BO093,437,dell',dell',di+il,ADP+DET,_,_
+437-20,BO093,437,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 437-20a,_,_,_,di,di,ADP,_,_
 437-20b,_,_,_,l',il,DET,_,_
 437-21,BO093,437,"acetilazione,",acetilazione,acetilazione,NOUN,_,_
@@ -5414,7 +5414,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 438-11,BO093,438,che,che,che,PRON,_,_
 438-12,BO093,438,porta,porta,portare,VERB,_,_
 438-13,BO093,438,a,a,a,ADP,_,_
-438-14,BO093,438,un',un',uno,DET,_,_
+438-14,BO093,438,un',un',uno,DET,_,SpaceAfter=No
 438-15,BO093,438,alterazione,alterazione,alterazione,NOUN,_,_
 438-16,BO093,438,del,del,di+il,ADP+DET,_,_
 438-16a,_,_,_,di,di,ADP,_,_
@@ -5456,14 +5456,14 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 440-0,BO093,440,perché,perché,perché,SCONJ,_,_
 440-1,BO093,440,e::h,eh,eh,INTJ,_,_
 440-2,BO093,440,spesso,spesso,spesso,ADV,_,_
-440-3,BO093,440,l',l',il,DET,_,_
+440-3,BO093,440,l',l',il,DET,_,SpaceAfter=No
 440-4,BO093,440,alterazione,alterazione,alterazione,NOUN,_,_
 440-5,BO093,440,del,del,di+il,ADP+DET,_,_
 440-5a,_,_,_,di,di,ADP,_,_
 440-5b,_,_,_,il,il,DET,_,_
 440-6,BO093,440,trasporto,trasporto,trasporto,NOUN,_,_
 440-7,BO093,440,e,e,e,CCONJ,_,_
-440-8,BO093,440,l',l',il,DET,_,_
+440-8,BO093,440,l',l',il,DET,_,SpaceAfter=No
 440-9,BO093,440,alterazione,alterazione,alterazione,NOUN,_,_
 440-10,BO093,440,citoscheletrica,citoscheletrica,citoscheletrico,ADJ,_,_
 440-11,BO093,440,precede,precede,precedere,VERB,_,_
@@ -5487,7 +5487,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 443-1,BO093,443,(.),(.),PAUSE,NVB,_,_
 443-2,BO093,443,no,no,no,ADV,_,_
 444-0,BO093,444,e::hm,ehm,ehm,INTJ,_,_
-444-1,BO093,444,l',l',il,DET,_,_
+444-1,BO093,444,l',l',il,DET,_,SpaceAfter=No
 444-2,BO093,444,ultimo,ultimo,ultimo,ADJ,_,_
 444-3,BO093,444,aspetto,aspetto,aspetto,NOUN,_,_
 444-4,BO093,444,che,che,che,PRON,_,_
@@ -5562,7 +5562,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 446-12,BO093,446,caratteristica,caratteristica,caratteristica,NOUN,_,_
 446-13,BO093,446,comune,comune,comune,ADJ,_,_
 446-14,BO093,446,tra,tra,tra,ADP,_,_
-446-15,BO093,446,l',l',il,DET,_,_
+446-15,BO093,446,l',l',il,DET,_,SpaceAfter=No
 446-16,BO093,446,altro,altro,altro,PRON,_,_
 446-17,BO093,446,trasversale,trasversale,trasversale,ADJ,_,_
 446-18,BO093,446,a,a,a,ADP,_,_
@@ -5686,7 +5686,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 454-3,BO093,454,lo,lo,il,DET,_,_
 454-4,BO093,454,sviluppo,sviluppo,sviluppo,NOUN,_,_
 454-5,BO093,454,che,che,che,CCONJ,_,_
-454-6,BO093,454,nell',nell',in+il,ADP+DET,_,_
+454-6,BO093,454,nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 454-6a,_,_,_,in,in,ADP,_,_
 454-6b,_,_,_,l',il,DET,_,_
 454-7,BO093,454,"adulto,",adulto,adulto,NOUN,_,_
@@ -5827,7 +5827,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 460-17,BO093,460,visto,visto,vedere,VERB,_,_
 460-18,BO093,460,che,che,che,SCONJ,_,_
 460-19,BO093,460,prima,prima,prima,ADV,_,_
-460-20,BO093,460,c',c',ci,PRON,_,_
+460-20,BO093,460,c',c',ci,PRON,_,SpaceAfter=No
 460-21,BO093,460,è,è,essere,VERB,_,_
 460-22,BO093,460,una,una,uno,DET,_,_
 460-23,BO093,460,cosiddetta,cosiddetta,cosiddetto,ADJ,_,_
@@ -5837,7 +5837,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 461-0,BO093,461,neuroprotettiva,neuroprotettiva,neuroprotettivo,ADJ,_,_
 461-1,BO093,461,e,e,e,CCONJ,_,_
 461-2,BO093,461,successivamente,successivamente,successivamente,ADV,_,_
-461-3,BO093,461,un',un',uno,DET,_,_
+461-3,BO093,461,un',un',uno,DET,_,SpaceAfter=No
 461-4,BO093,461,attivazione,attivazione,attivazione,NOUN,_,_
 461-5,BO093,461,emme,emme,emme,X,_,_
 461-6,BO093,461,uno,uno,uno,NUM,_,_
@@ -5889,15 +5889,15 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 465-2a,_,_,_,di,di,ADP,_,_
 465-2b,_,_,_,le,il,DET,_,_
 465-3,BO093,465,"neurofibrille,",neurofibrille,neurofibrilla,NOUN,_,_
-465-4,BO093,465,l',l',il,DET,_,_
+465-4,BO093,465,l',l',il,DET,_,SpaceAfter=No
 465-5,BO093,465,alterazione,alterazione,alterazione,NOUN,_,_
 465-6,BO093,465,del,del,di+il,ADP+DET,_,_
 465-6a,_,_,_,di,di,ADP,_,_
 465-6b,_,_,_,il,il,DET,_,_
 465-7,BO093,465,"proteasoma,",proteasoma,proteasoma,NOUN,_,_
-465-8,BO093,465,l',l',il,DET,_,_
+465-8,BO093,465,l',l',il,DET,_,SpaceAfter=No
 465-9,BO093,465,at~,at~,x,X,_,_
-465-10,BO093,465,l',l',il,DET,_,_
+465-10,BO093,465,l',l',il,DET,_,SpaceAfter=No
 465-11,BO093,465,alterazione,alterazione,alterazione,NOUN,_,_
 465-12,BO093,465,della,della,di+il,ADP+DET,_,_
 465-12a,_,_,_,di,di,ADP,_,_
@@ -5908,7 +5908,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 465-16,BO093,465,produzione,produzione,produzione,NOUN,_,_
 465-17,BO093,465,di,di,di,ADP,_,_
 465-18,BO093,465,radicali,radicali,radicale,NOUN,_,_
-465-19,BO093,465,dell',dell',di+il,ADP+DET,_,_
+465-19,BO093,465,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 465-19a,_,_,_,di,di,ADP,_,_
 465-19b,_,_,_,l',il,DET,_,_
 465-20,BO093,465,"ossigeno,",ossigeno,ossigeno,NOUN,_,_
@@ -5957,7 +5957,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 466-1,BO093,466,e::h,eh,eh,INTJ,_,_
 466-2,BO093,466,questa,questa,questo,PRON,_,_
 466-3,BO093,466,è,è,essere,AUX,_,_
-466-4,BO093,466,un',un',uno,DET,_,_
+466-4,BO093,466,un',un',uno,DET,_,SpaceAfter=No
 466-5,BO093,466,ipotesi,ipotesi,ipotesi,NOUN,_,_
 466-6,BO093,466,che,che,che,PRON,_,_
 466-7,BO093,466,sta,sta,stare,VERB,_,_
@@ -5985,7 +5985,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 467-9,BO093,467,di,di,di,ADP,_,_
 467-10,BO093,467,rischio,rischio,rischio,NOUN,_,_
 467-11,BO093,467,principale,principale,principale,ADJ,_,_
-467-12,BO093,467,l',l',il,DET,_,_
+467-12,BO093,467,l',l',il,DET,_,SpaceAfter=No
 467-13,BO093,467,età,età,età,NOUN,_,_
 467-14,BO093,467,infatti,infatti,infatti,ADV,_,_
 467-15,BO093,467,sono,sono,essere,AUX,_,_
@@ -5999,9 +5999,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 467-23,BO093,467,la,la,il,DET,_,_
 467-24,BO093,467,me~,me~,x,X,_,_
 467-25,BO093,467,con,con,con,ADP,_,_
-467-26,BO093,467,l',l',il,DET,_,_
+467-26,BO093,467,l',l',il,DET,_,SpaceAfter=No
 467-27,BO093,467,aumentare,aumentare,aumentare,NOUN,_,_
-467-28,BO093,467,dell',dell',di+il,ADP+DET,_,_
+467-28,BO093,467,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 467-28a,_,_,_,di,di,ADP,_,_
 467-28b,_,_,_,l',il,DET,_,_
 467-29,BO093,467,età.,età,età,NOUN,_,_
@@ -6014,7 +6014,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 468-6,BO093,468,meno,meno,meno,ADV,_,_
 468-7,BO093,468,però,però,però,ADV,_,_
 468-8,BO093,468,fondamentalmente,fondamentalmente,fondamentalmente,ADV,_,_
-468-9,BO093,468,l',l',il,DET,_,_
+468-9,BO093,468,l',l',il,DET,_,SpaceAfter=No
 468-10,BO093,468,età,età,età,NOUN,_,_
 468-11,BO093,468,è,è,essere,AUX,_,_
 468-12,BO093,468,il,il,il,DET,_,_
@@ -6098,7 +6098,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 474-1,BO093,474,protei~,protei~,proteina,NOUN,_,_
 474-2,BO093,474,neurofibrille,neurofibrille,neurofibrilla,NOUN,_,_
 474-3,BO093,474,radicali,radicali,radicale,ADJ,_,_
-474-4,BO093,474,dell',dell',di+il,ADP+DET,_,_
+474-4,BO093,474,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 474-4a,_,_,_,di,di,ADP,_,_
 474-4b,_,_,_,l',il,DET,_,_
 474-5,BO093,474,ossigeno,ossigeno,ossigeno,NOUN,_,_
@@ -6106,7 +6106,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 474-7,BO093,474,qualsiasi,qualsiasi,qualsiasi,DET,_,_
 474-8,BO093,474,altra,altra,altro,ADJ,_,_
 474-9,BO093,474,cosa,cosa,cosa,NOUN,_,_
-474-10,BO093,474,c',c',ci,PRON,_,_
+474-10,BO093,474,c',c',ci,PRON,_,SpaceAfter=No
 474-11,BO093,474,è,è,essere,VERB,_,_
 474-12,BO093,474,una,una,uno,DET,_,_
 474-13,BO093,474,microglia,microglia,microglia,NOUN,_,_
@@ -6160,7 +6160,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 476-3,BO093,476,che,che,che,PRON,_,_
 476-4,BO093,476,si,si,si,PRON,_,_
 476-5,BO093,476,realizza,realizza,realizzare,VERB,_,_
-476-6,BO093,476,all',all',a+il,ADP+DET,_,_
+476-6,BO093,476,all',all',a+il,ADP+DET,_,SpaceAfter=No
 476-6a,_,_,_,a,a,ADP,_,_
 476-6b,_,_,_,l',il,DET,_,_
 476-7,BO093,476,interno,interno,interno,NOUN,_,_
@@ -6182,7 +6182,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 477-6,BO093,477,vita,vita,vita,NOUN,_,_
 477-7,BO093,477,a,a,a,ADP,_,_
 477-8,BO093,477,partire,partire,partire,VERB,_,_
-477-9,BO093,477,dall',dall',da+il,ADP+DET,_,_
+477-9,BO093,477,dall',dall',da+il,ADP+DET,_,SpaceAfter=No
 477-9a,_,_,_,da,da,ADP,_,_
 477-9b,_,_,_,l',il,DET,_,_
 477-10,BO093,477,alimentazione,alimentazione,alimentazione,NOUN,_,_
@@ -6219,7 +6219,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 478-17,BO093,478,proprio,proprio,proprio,ADV,_,_
 478-18,BO093,478,a,a,a,ADP,_,_
 478-19,BO093,478,modulare,modulare,modulare,VERB,_,_
-478-20,BO093,478,l',l',il,DET,_,_
+478-20,BO093,478,l',l',il,DET,_,SpaceAfter=No
 478-21,BO093,478,attivazione,attivazione,attivazione,NOUN,_,_
 478-22,BO093,478,della,della,di+il,ADP+DET,_,_
 478-22a,_,_,_,di,di,ADP,_,_
@@ -6252,7 +6252,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 479-24,BO093,479,sano,sano,sano,ADJ,_,_
 479-25,BO093,479,questo,questo,questo,PRON,_,_
 479-26,BO093,479,abbassa,abbassa,abbassare,VERB,_,_
-479-27,BO093,479,l',l',il,DET,_,_
+479-27,BO093,479,l',l',il,DET,_,SpaceAfter=No
 479-28,BO093,479,infiammazione,infiammazione,infiammazione,NOUN,_,_
 480-0,BO093,480,e,e,e,CCONJ,_,_
 480-1,BO093,480,quindi,quindi,quindi,ADV,_,_
@@ -6274,7 +6274,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 481-2,BO093,481,ipotesi,ipotesi,ipotesi,NOUN,_,_
 481-3,BO093,481,che,che,che,PRON,_,_
 481-4,BO093,481,lega,lega,legare,VERB,_,_
-481-5,BO093,481,l',l',il,DET,_,_
+481-5,BO093,481,l',l',il,DET,_,SpaceAfter=No
 481-6,BO093,481,incidenza,incidenza,incidenza,NOUN,_,_
 481-7,BO093,481,degli,degli,di+il,ADP+DET,_,_
 481-7a,_,_,_,di,di,ADP,_,_
@@ -6326,7 +6326,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 483-0,BO093,483,un,un,uno,DET,_,_
 483-1,BO093,483,altro,altro,altro,ADJ,_,_
 483-2,BO093,483,caratteristi~,caratteristi~,caratteristica,NOUN,_,_
-483-3,BO093,483,un',un',uno,DET,_,_
+483-3,BO093,483,un',un',uno,DET,_,SpaceAfter=No
 483-4,BO093,483,altra,altra,altro,ADJ,_,_
 483-5,BO093,483,caratteristica,caratteristica,caratteristica,NOUN,_,_
 483-6,BO093,483,comune,comune,comune,ADJ,_,_
@@ -6462,7 +6462,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 491-20,BO093,491,frontotemporale,frontotemporale,frontotemporale,ADJ,_,_
 491-21,BO093,491,sporadiche,sporadiche,sporadico,ADJ,_,_
 491-22,BO093,491,quindi,quindi,quindi,ADV,_,_
-491-23,BO093,491,c',c',ci,PRON,_,_
+491-23,BO093,491,c',c',ci,PRON,_,SpaceAfter=No
 491-24,BO093,491,è,è,essere,VERB,_,_
 491-25,BO093,491,un,un,uno,DET,_,_
 491-26,BO093,491,legame,legame,legame,NOUN,_,_
@@ -6479,7 +6479,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 492-8,BO093,492,si,si,si,PRON,_,_
 492-9,BO093,492,trovano,trovano,trovare,VERB,_,_
 492-10,BO093,492,anche,anche,anche,ADV,_,_
-492-11,BO093,492,nell',nell',in+il,ADP+DET,_,_
+492-11,BO093,492,nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 492-11a,_,_,_,in,in,ADP,_,_
 492-11b,_,_,_,l',il,DET,_,_
 492-12,BO093,492,alzheimer,alzheimer,alzheimer,NOUN,_,_
@@ -6491,7 +6491,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 493-1,BO093,493,sembrano,sembrano,sembrare,VERB,_,_
 493-2,BO093,493,essere,essere,essere,AUX,_,_
 493-3,BO093,493,importanti,importanti,importante,ADJ,_,_
-493-4,BO093,493,nell',nell',in+il,ADP+DET,_,_
+493-4,BO093,493,nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 493-4a,_,_,_,in,in,ADP,_,_
 493-4b,_,_,_,l',il,DET,_,_
 493-5,BO093,493,eziogenesi,eziogenesi,eziogenesi,NOUN,_,_
@@ -6587,7 +6587,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 501-12,BO093,501,che,che,che,PRON,_,_
 501-13,BO093,501,si,si,si,PRON,_,_
 501-14,BO093,501,aggregano,aggregano,aggregare,VERB,_,_
-501-15,BO093,501,all',all',a+il,ADP+DET,_,_
+501-15,BO093,501,all',all',a+il,ADP+DET,_,SpaceAfter=No
 501-15a,_,_,_,a,a,ADP,_,_
 501-15b,_,_,_,l',il,DET,_,_
 501-16,BO093,501,interno,interno,interno,NOUN,_,_
@@ -6630,9 +6630,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 503-13,BO093,503,queste,queste,questo,DET,_,_
 503-14,BO093,503,patologie,patologie,patologia,NOUN,_,_
 503-15,BO093,503,abbiamo,abbiamo,avere,VERB,_,_
-503-16,BO093,503,un',un',uno,DET,_,_
+503-16,BO093,503,un',un',uno,DET,_,SpaceAfter=No
 503-17,BO093,503,alterazione,alterazione,alterazione,NOUN,_,_
-503-18,BO093,503,dell',dell',di+il,ADP+DET,_,_
+503-18,BO093,503,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 503-18a,_,_,_,di,di,ADP,_,_
 503-18b,_,_,_,l',il,DET,_,_
 503-19,BO093,503,epressione,epressione,epressione,NOUN,_,_
@@ -6650,7 +6650,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 504-9,BO093,504,è,è,essere,AUX,_,_
 504-10,BO093,504,molto,molto,molto,ADV,_,_
 504-11,BO093,504,evidente,evidente,evidente,ADJ,_,_
-504-12,BO093,504,nell',nell',in+il,ADP+DET,_,_
+504-12,BO093,504,nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 504-12a,_,_,_,in,in,ADP,_,_
 504-12b,_,_,_,l',il,DET,_,_
 504-13,BO093,504,huntington.,huntington,huntington,NOUN,_,_
@@ -6660,7 +6660,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 505-3,BO093,505,anche,anche,anche,ADV,_,_
 505-4,BO093,505,dovuta,dovuta,dovere,VERB,_,_
 505-5,BO093,505,ad,ad,a,ADP,_,_
-505-6,BO093,505,un',un',uno,DET,_,_
+505-6,BO093,505,un',un',uno,DET,_,SpaceAfter=No
 505-7,BO093,505,alterazione,alterazione,alterazione,NOUN,_,_
 505-8,BO093,505,dei,dei,di+il,ADP+DET,_,_
 505-8a,_,_,_,di,di,ADP,_,_
@@ -6692,7 +6692,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 506-12,BO093,506,sinaptiche.,sinaptiche,sinaptico,ADJ,_,_
 507-0,BO093,507,ovviamente,ovviamente,ovviamente,ADV,_,_
 507-1,BO093,507,se,se,se,PRON,_,_
-507-2,BO093,507,c',c',ci,PRON,_,_
+507-2,BO093,507,c',c',ci,PRON,_,SpaceAfter=No
 507-3,BO093,507,è,è,essere,VERB,_,_
 507-4,BO093,507,una,una,uno,DET,_,_
 507-5,BO093,507,condizione,condizione,condizione,NOUN,_,_
@@ -6842,7 +6842,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 518-5,BO093,518,stato,stato,essere,AUX,_,_
 518-6,BO093,518,diciamo,diciamo,dire,VERB,_,_
 518-7,BO093,518,identificato,identificato,identificare,VERB,_,_
-518-8,BO093,518,all',all',a+il,ADP+DET,_,_
+518-8,BO093,518,all',all',a+il,ADP+DET,_,SpaceAfter=No
 518-8a,_,_,_,a,a,ADP,_,_
 518-8b,_,_,_,l',il,DET,_,_
 518-9,BO093,518,inizio,inizio,inizio,NOUN,_,_
@@ -6871,7 +6871,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 520-9,BO093,520,aveva,aveva,avere,VERB,_,_
 520-10,BO093,520,una,una,uno,DET,_,_
 520-11,BO093,520,cinquantina,cinquantina,cinquantina,NOUN,_,_
-520-12,BO093,520,d',d',di,ADP,_,_
+520-12,BO093,520,d',d',di,ADP,_,SpaceAfter=No
 520-13,BO093,520,anni,anni,anno,NOUN,_,_
 520-14,BO093,520,e,e,e,CCONJ,_,_
 520-15,BO093,520,che,che,che,PRON,_,_
@@ -6896,7 +6896,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 521-15,BO093,521,il,il,il,DET,_,_
 521-16,BO093,521,"resto,",resto,resto,NOUN,_,_
 521-17,BO093,521,quindi,quindi,quindi,ADV,_,_
-521-18,BO093,521,c',c',ci,PRON,_,_
+521-18,BO093,521,c',c',ci,PRON,_,SpaceAfter=No
 521-19,BO093,521,era,era,essere,VERB,_,_
 521-20,BO093,521,molto,molto,molto,ADJ,_,_
 521-21,BO093,521,attenzione,attenzione,attenzione,NOUN,_,_
@@ -6921,7 +6921,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 522-8a,_,_,_,di,di,ADP,_,_
 522-8b,_,_,_,il,il,DET,_,_
 522-9,BO093,522,sud,sud,sud,NOUN,_,_
-522-10,BO093,522,c',c',ci,PRON,_,_
+522-10,BO093,522,c',c',ci,PRON,_,SpaceAfter=No
 522-11,BO093,522,era,era,essere,VERB,_,_
 522-12,BO093,522,molta,molta,molto,ADJ,_,_
 522-13,BO093,522,attenzione,attenzione,attenzione,NOUN,_,_
@@ -7065,7 +7065,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 527-15a,_,_,_,di,di,ADP,_,_
 527-15b,_,_,_,le,il,DET,_,_
 527-16,BO093,527,vie,vie,via,NOUN,_,_
-527-17,BO093,527,dell',dell',di+il,ADP+DET,_,_
+527-17,BO093,527,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 527-17a,_,_,_,di,di,ADP,_,_
 527-17b,_,_,_,l',il,DET,_,_
 527-18,BO093,527,alzheimer.,alzheimer,alzheimer,NOUN,_,_
@@ -7083,7 +7083,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 528-11,BO093,528,decise,decise,decidere,VERB,_,_
 528-12,BO093,528,di,di,di,ADP,_,_
 528-13,BO093,528,fare,fare,fare,VERB,_,_
-528-14,BO093,528,l',l',il,DET,_,_
+528-14,BO093,528,l',l',il,DET,_,SpaceAfter=No
 528-15,BO093,528,autopsia.,autopsia,autopsia,NOUN,_,_
 529-0,BO093,529,e,e,e,CCONJ,_,_
 529-1,BO093,529,si,si,si,PRON,_,_
@@ -7095,7 +7095,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 529-7,BO093,529,encefalo,encefalo,encefalo,NOUN,_,_
 529-8,BO093,529,in,in,in,ADP,_,_
 529-9,BO093,529,cui,cui,cui,PRON,_,_
-529-10,BO093,529,c',c',ci,PRON,_,_
+529-10,BO093,529,c',c',ci,PRON,_,SpaceAfter=No
 529-11,BO093,529,è,è,essere,VERB,_,_
 529-12,BO093,529,una,una,uno,DET,_,_
 529-13,BO093,529,forte,forte,forte,ADJ,_,_
@@ -7389,7 +7389,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 544-18,BO093,544,sono,sono,essere,AUX,_,_
 544-19,BO093,544,più,più,più,ADV,_,_
 544-20,BO093,544,diciamo,diciamo,dire,VERB,_,_
-544-21,BO093,544,c',c',ci,PRON,_,_
+544-21,BO093,544,c',c',ci,PRON,_,SpaceAfter=No
 544-22,BO093,544,è,è,essere,VERB,_,_
 544-23,BO093,544,una,una,uno,DET,_,_
 544-24,BO093,544,diagnostica,diagnostica,diagnostica,NOUN,_,_
@@ -7397,7 +7397,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 544-26,BO093,544,più,più,più,ADV,_,_
 544-27,BO093,544,avanzata,avanzata,avanzato,ADJ,_,_
 544-28,BO093,544,visto,visto,vedere,VERB,_,_
-544-29,BO093,544,all',all',a+il,ADP+DET,_,_
+544-29,BO093,544,all',all',a+il,ADP+DET,_,SpaceAfter=No
 544-29a,_,_,_,a,a,ADP,_,_
 544-29b,_,_,_,l',il,DET,_,_
 544-30,BO093,544,ultimo,ultimo,ultimo,ADJ,_,_
@@ -7406,13 +7406,13 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 544-32a,_,_,_,di,di,ADP,_,_
 544-32b,_,_,_,la,il,DET,_,_
 544-33,BO093,544,xxx,xxx,x,X,_,_
-544-34,BO093,544,sull',sull',su+il,ADP+DET,_,_
+544-34,BO093,544,sull',sull',su+il,ADP+DET,_,SpaceAfter=No
 544-34a,_,_,_,su,su,ADP,_,_
 544-34b,_,_,_,l',il,DET,_,_
 544-35,BO093,544,azheimer,azheimer,azheimer,NOUN,_,_
 544-36,BO093,544,"parkinson,",parkinson,parkinson,NOUN,_,_
 545-0,BO093,545,quindi,quindi,quindi,ADV,_,_
-545-1,BO093,545,c',c',ci,PRON,_,_
+545-1,BO093,545,c',c',ci,PRON,_,SpaceAfter=No
 545-2,BO093,545,è,è,essere,VERB,_,_
 545-3,BO093,545,una,una,uno,DET,_,_
 545-4,BO093,545,differenza,differenza,differenza,NOUN,_,_
@@ -7436,7 +7436,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 545-22,BO093,545,tante,tante,tanto,DET,_,_
 545-23,BO093,545,demenze,demenze,demenza,NOUN,_,_
 545-24,BO093,545,ma,ma,ma,CCONJ,_,_
-545-25,BO093,545,l',l',il,DET,_,_
+545-25,BO093,545,l',l',il,DET,_,SpaceAfter=No
 545-26,BO093,545,alzheimer,alzheimer,alzheimer,NOUN,_,_
 545-27,BO093,545,non,non,non,ADV,_,_
 545-28,BO093,545,è,è,essere,AUX,_,_
@@ -7463,7 +7463,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 546-11,BO093,546,demenza,demenza,demenza,NOUN,_,_
 546-12,BO093,546,è,è,essere,AUX,_,_
 546-13,BO093,546,inferiore,inferiore,inferiore,ADJ,_,_
-546-14,BO093,546,all',all',a+il,ADP+DET,_,_
+546-14,BO093,546,all',all',a+il,ADP+DET,_,SpaceAfter=No
 546-14a,_,_,_,a,a,ADP,_,_
 546-14b,_,_,_,l',il,DET,_,_
 546-15,BO093,546,un,un,uno,DET,_,_
@@ -7489,7 +7489,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 547-3,BO093,547,aumento,aumento,aumento,NOUN,_,_
 547-4,BO093,547,esponenziale,esponenziale,esponenziale,ADJ,_,_
 547-5,BO093,547,con,con,con,ADP,_,_
-547-6,BO093,547,l',l',il,DET,_,_
+547-6,BO093,547,l',l',il,DET,_,SpaceAfter=No
 547-7,BO093,547,età,età,età,NOUN,_,_
 547-8,BO093,547,al,al,a+il,ADP+DET,_,_
 547-8a,_,_,_,a,a,ADP,_,_
@@ -7522,7 +7522,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 549-8,BO093,549,le,le,il,DET,_,_
 549-9,BO093,549,demenze,demenze,demenza,NOUN,_,_
 549-10,BO093,549,incluso,incluso,incluso,ADJ,_,_
-549-11,BO093,549,l',l',il,DET,_,_
+549-11,BO093,549,l',l',il,DET,_,SpaceAfter=No
 549-12,BO093,549,alzheimer,alzheimer,alzheimer,NOUN,_,_
 549-13,BO093,549,rappresentino,rappresentino,rappresentare,VERB,_,_
 549-14,BO093,549,un,un,uno,DET,_,_
@@ -7555,7 +7555,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 551-7a,_,_,_,in,in,ADP,_,_
 551-7b,_,_,_,il,il,DET,_,_
 551-8,BO093,551,duemilaeuno,duemilaeuno,duemilaeuno,NOUN,_,_
-551-9,BO093,551,c',c',ci,PRON,_,_
+551-9,BO093,551,c',c',ci,PRON,_,SpaceAfter=No
 551-10,BO093,551,erano,erano,essere,VERB,_,_
 551-11,BO093,551,oltre,oltre,oltre,ADV,_,_
 551-12,BO093,551,ventiquattro,ventiquattro,ventiquattro,NUM,_,_
@@ -7589,7 +7589,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 552-3b,_,_,_,il,il,DET,_,_
 552-4,BO093,552,fatto,fatto,fatto,NOUN,_,_
 552-5,BO093,552,che,che,che,PRON,_,_
-552-6,BO093,552,c',c',ci,PRON,_,_
+552-6,BO093,552,c',c',ci,PRON,_,SpaceAfter=No
 552-7,BO093,552,è,è,essere,VERB,_,_
 552-8,BO093,552,un,un,uno,DET,_,_
 552-9,BO093,552,incremento,incremento,incremento,NOUN,_,_
@@ -7632,7 +7632,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 555-7,BO093,555,e,e,e,CCONJ,_,_
 555-8,BO093,555,quindi,quindi,quindi,ADV,_,_
 555-9,BO093,555,ovviamente,ovviamente,ovviamente,ADV,_,_
-555-10,BO093,555,c',c',ci,PRON,_,_
+555-10,BO093,555,c',c',ci,PRON,_,SpaceAfter=No
 555-11,BO093,555,è,è,essere,VERB,_,_
 555-12,BO093,555,un,un,uno,DET,_,_
 555-13,BO093,555,incremento,incremento,incremento,NOUN,_,_
@@ -7647,10 +7647,10 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 556-2,BO093,556,fa,fa,fare,VERB,_,_
 556-3,BO093,556,sì,sì,sì,ADV,_,_
 556-4,BO093,556,che,che,che,SCONJ,_,_
-556-5,BO093,556,l',l',il,DET,_,_
+556-5,BO093,556,l',l',il,DET,_,SpaceAfter=No
 556-6,BO093,556,età,età,età,NOUN,_,_
 556-7,BO093,556,e,e,e,CCONJ,_,_
-556-8,BO093,556,l',l',il,DET,_,_
+556-8,BO093,556,l',l',il,DET,_,SpaceAfter=No
 556-9,BO093,556,invecchiamento,invecchiamento,invecchiamento,NOUN,_,_
 556-10,BO093,556,siano,siano,essere,AUX,_,_
 556-11,BO093,556,il,il,il,DET,_,_

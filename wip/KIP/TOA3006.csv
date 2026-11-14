@@ -150,13 +150,13 @@
 18-15,TO054,18,"genova,",genova,Genova,PROPN,Intonation=weakly_rising,_
 18-16,TO054,18,non,non,non,ADV,_,_
 18-17,TO054,18,ce,ce,ci,PRON,_,_
-18-18,TO054,18,l',l',lo,PRON,Truncated=Yes,_
+18-18,TO054,18,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 18-19,TO054,18,hanno,hanno,avere,VERB,_,_
 18-20,TO054,18,il,il,il,DET,_,_
 18-21,TO054,18,limite,limite,limite,NOUN,_,_
 18-22,TO054,18,di,di,di,ADP,_,_
 18-23,TO054,18,età.,età,età,NOUN,Intonation=falling,_
-19-0,TO054,19,c',c',ci,PRON,Truncated=Yes,_
+19-0,TO054,19,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 19-1,TO054,19,hanno,hanno,avere,VERB,_,_
 19-2,TO054,19,il,il,il,DET,_,_
 19-3,TO054,19,limite,limite,limite,NOUN,_,_
@@ -171,7 +171,7 @@
 20-0,TO030,20,[ma,ma,ma,CCONJ,_,_
 20-1,TO030,20,ma],ma,ma,CCONJ,_,_
 20-2,TO030,20,mica,mica,mica,ADV,_,_
-20-3,TO030,20,c',c',ci,PRON,Truncated=Yes,_
+20-3,TO030,20,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 20-4,TO030,20,"hai,",hai,avere,VERB,Intonation=weakly_rising,_
 20-5,TO030,20,[ma,ma,ma,CCONJ,_,_
 20-6,TO030,20,scusa,scusa,scusare,VERB,_,_
@@ -231,7 +231,7 @@
 26-1,TO054,26,lo,lo,lo,PRON,_,_
 26-2,TO054,26,so].,so,sapere,VERB,Intonation=falling,_
 27-0,TO030,27,tra,tra,tra,ADP,_,_
-27-1,TO030,27,l',l',il,DET,Truncated=Yes,_
+27-1,TO030,27,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 27-2,TO030,27,"altro,",altro,altro,PRON,Intonation=weakly_rising,_
 27-3,TO030,27,se,se,se,SCONJ,_,_
 27-4,TO030,27,tu,tu,tu,PRON,_,_
@@ -240,7 +240,7 @@
 27-6a,_,_,_,in,in,ADP,_,_
 27-6b,_,_,_,la,il,DET,_,_
 27-7,TO030,27,domanda,domanda,domanda,NOUN,_,_
-27-8,TO030,27,c',c',ci,PRON,Truncated=Yes,_
+27-8,TO030,27,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 27-9,TO030,27,è,è,essere,AUX,_,_
 27-10,TO030,27,"scritto:,",scritto,scrivere,VERB,Intonation=weakly_rising,_
 27-11,TO030,27,eh,eh,eh,INTJ,ProsodicLink=Yes,_
@@ -261,7 +261,7 @@
 28-11,TO030,28,di,di,di,ADP,_,_
 28-12,TO030,28,fuori,fuori,fuori,ADV,_,_
 28-13,TO030,28,de:::,de,de,ADP,_,_
-28-14,TO030,28,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+28-14,TO030,28,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 28-14a,_,_,_,di,di,ADP,_,_
 28-14b,_,_,_,l',il,DET,_,_
 28-15,TO030,28,unione,unione,unione,NOUN,_,_
@@ -337,7 +337,7 @@
 39-0,TO054,39,[sì,sì,sì,ADV,_,_
 39-1,TO054,39,sì.,sì,sì,ADV,Intonation=falling,_
 39-2,TO054,39,anche,anche,anche,ADV,_,_
-39-3,TO054,39,nel]l',nell',in+il,ADP+DET,Truncated=Yes,_
+39-3,TO054,39,nel]l',nell',in+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 39-3a,_,_,_,in,in,ADP,_,_
 39-3b,_,_,_,l',il,DET,_,_
 39-4,TO054,39,accademia,accademia,accademia,NOUN,_,_
@@ -601,7 +601,7 @@
 67-0,TO030,67,quindi,quindi,quindi,ADV,_,_
 67-1,TO030,67,dici,dici,dire,VERB,_,_
 67-2,TO030,67,io,io,io,PRON,_,_
-67-3,TO030,67,c',c',ci,PRON,Truncated=Yes,_
+67-3,TO030,67,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 67-4,TO030,67,ho,ho,avere,VERB,_,_
 67-5,TO030,67,dei,dei,di+il,ADP+DET,_,_
 67-5a,_,_,_,di,di,ADP,_,_
@@ -624,7 +624,7 @@
 67-21,TO030,67,"cazzo,",cazzo,cazzo,NOUN,Intonation=weakly_rising,_
 67-22,TO030,67,e,e,e,CCONJ,_,_
 67-23,TO030,67,poi,poi,poi,ADV,_,_
-67-24,TO030,67,c',c',ci,PRON,Truncated=Yes,_
+67-24,TO030,67,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 67-25,TO030,67,ho::,ho,avere,VERB,_,_
 67-26,TO030,67,dei,dei,di+il,ADP+DET,_,_
 67-26a,_,_,_,di,di,ADP,_,_
@@ -772,7 +772,7 @@
 76-27,TO030,76,messa,messa,mettere,VERB,_,_
 76-28,TO030,76,sot[to].,sotto,sotto,ADP,Intonation=falling,_
 77-0,TO054,77,[uh].,uh,uh,INTJ,Intonation=falling,_
-78-0,TO054,78,[pur',pur',pure,ADV,Truncated=Yes,_
+78-0,TO054,78,[pur',pur',pure,ADV,_,SpaceAfter=No
 78-1,TO054,78,i:]o.,io,io,PRON,Intonation=falling,_
 79-0,TO030,79,"cioè,",cioè,cioè,CCONJ,Intonation=weakly_rising,_
 79-1,TO030,79,(.),(.),PAUSE,NVB,_,_
@@ -821,14 +821,14 @@
 81-4,TO054,81,così].,così,così,ADV,Intonation=falling,_
 82-0,TO030,82,[però,però,però,ADV,_,_
 82-1,TO030,82,poi,poi,poi,ADV,_,_
-82-2,TO030,82,c',c',ci,PRON,Truncated=Yes,_
+82-2,TO030,82,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 82-3,TO030,82,hai,hai,avere,VERB,_,_
 82-4,TO030,82,i,i,il,DET,_,_
 82-5,TO030,82,ventitré,ventitré,ventitré,NOUN,_,_
 82-6,TO030,82,di,di,di,ADP,_,_
 82-7,TO030,82,mu:]sica::,musica,musica,NOUN,_,_
 82-8,TO030,82,e::::h,eh,eh,INTJ,_,_
-82-9,TO030,82,c',c',ci,PRON,Truncated=Yes,_
+82-9,TO030,82,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 82-10,TO030,82,haii:,haii,haire,VERB,_,_
 82-11,TO030,82,quei,quei,quello,DET,_,_
 82-12,TO030,82,votini,votini,voto,NOUN,_,_
@@ -887,7 +887,7 @@
 86-18,TO030,86,(.),(.),PAUSE,NVB,_,_
 86-19,TO030,86,e,e,e,CCONJ,_,_
 86-20,TO030,86,diciotto,diciotto,diciotto,NUM,_,_
-86-21,TO030,86,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+86-21,TO030,86,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 86-21a,_,_,_,di,di,ADP,_,_
 86-21b,_,_,_,l',il,DET,_,_
 86-22,TO030,86,altra.,altra,altro,PRON,Intonation=falling,_
@@ -1151,7 +1151,7 @@
 106-2,TO030,106,il,il,il,DET,_,_
 106-3,TO030,106,"ventinove,",ventinove,ventinove,NUM,Intonation=weakly_rising,_
 106-4,TO030,106,però,però,però,ADV,_,_
-106-5,TO030,106,gliel',gliel',gli+lo,PRON+PRON,Truncated=Yes,_
+106-5,TO030,106,gliel',gliel',gli+lo,PRON+PRON,Truncated=Yes,SpaceAfter=No
 106-5a,_,_,_,glie,gli,PRON,_,_
 106-5b,_,_,_,l',lo,PRON,_,_
 106-6,TO030,106,hanno::,hanno,avere,AUX,_,_
@@ -1202,7 +1202,7 @@
 109-13,TO030,109,perché,perché,perché,SCONJ,_,_
 109-14,TO030,109,hai,hai,avere,AUX,_,_
 109-15,TO030,109,sentito,sentito,sentire,VERB,_,_
-109-16,TO030,109,cos',cos',cos',PRON,Truncated=Yes,_
+109-16,TO030,109,cos',cos',cos',PRON,Truncated=Yes,SpaceAfter=No
 109-17,TO030,109,hanno,hanno,avere,AUX,_,_
 109-18,TO030,109,det[to:,detto,dire,VERB,_,_
 109-19,TO030,109,"alla,",alla,a+il,ADP+DET,Intonation=weakly_rising,_
@@ -1423,7 +1423,7 @@
 123-35,TO030,123,o,o,o,CCONJ,_,_
 123-36,TO030,123,meno,meno,meno,ADV,_,_
 123-37,TO030,123,ce,ce,ci,PRON,_,_
-123-38,TO030,123,l',l',lo,PRON,Truncated=Yes,_
+123-38,TO030,123,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 123-39,TO030,123,ho,ho,avere,VERB,_,_
 123-40,TO030,123,già.,già,già,ADV,Intonation=falling,_
 124-0,TO054,124,[ah.,ah,ah,INTJ,Intonation=falling,_
@@ -1569,11 +1569,11 @@
 134-14,TO030,134,poi,poi,poi,ADV,_,_
 134-15,TO030,134,in,in,in,ADP,_,_
 134-16,TO030,134,"lombardia,",lombardia,lombardia,NOUN,Intonation=weakly_rising,_
-134-17,TO030,134,c',c',ci,PRON,Truncated=Yes,_
+134-17,TO030,134,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 134-18,TO030,134,è,è,essere,VERB,_,_
 134-19,TO030,134,cinema,cinema,cinema,NOUN,_,_
 134-20,TO030,134,per,per,per,ADP,_,_
-134-21,TO030,134,l',l',il,DET,Truncated=Yes,_
+134-21,TO030,134,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 134-22,TO030,134,impre~,impre~,x,X,Interrupted=Yes,_
 134-23,TO030,134,è,è,essere,AUX,_,_
 134-24,TO030,134,sempre::,sempre,sempre,ADV,_,_
@@ -1587,7 +1587,7 @@
 136-1,TO030,136,provare,provare,provare,VERB,_,_
 136-2,TO030,136,cinema,cinema,cinema,NOUN,_,_
 136-3,TO030,136,per,per,per,ADP,_,_
-136-4,TO030,136,l',l',il,DET,Truncated=Yes,_
+136-4,TO030,136,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 136-5,TO030,136,"impre:sa,",impresa,impresa,NOUN,Intonation=weakly_rising,_
 136-6,TO030,136,che,che,che,SCONJ,_,_
 136-7,TO030,136,comunque,comunque,comunque,ADV,_,_
@@ -1617,7 +1617,7 @@
 138-0,TO030,138,>poi,poi,poi,ADV,_,_
 138-1,TO030,138,cinema,cinema,cinema,NOUN,_,_
 138-2,TO030,138,per,per,per,ADP,_,_
-138-3,TO030,138,l',l',il,DET,Truncated=Yes,_
+138-3,TO030,138,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 138-4,TO030,138,impresa,impresa,impresa,NOUN,_,_
 138-5,TO030,138,è,è,essere,AUX,_,_
 138-6,TO030,138,un,un,uno,DET,_,_
@@ -1646,7 +1646,7 @@
 139-13,TO030,139,cioè,cioè,cioè,CCONJ,_,_
 139-14,TO030,139,cinema],cinema,cinema,NOUN,_,_
 139-15,TO030,139,per,per,per,ADP,_,_
-139-16,TO030,139,l',l',il,DET,Truncated=Yes,_
+139-16,TO030,139,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 139-17,TO030,139,impresa,impresa,impresa,NOUN,_,_
 139-18,TO030,139,ce,ce,ci,PRON,_,_
 139-19,TO030,139,la,la,la,PRON,_,_
@@ -1667,7 +1667,7 @@
 139-30,TO030,139,see,see,see,NOUN,_,_
 139-31,TO030,139,you,you,you,ADP,_,_
 139-32,TO030,139,sound,sound,sound,NOUN,_,_
-139-33,TO030,139,°l',l',il,DET,Truncated=Yes|Volume=low,_
+139-33,TO030,139,°l',l',il,DET,Truncated=Yes|Volume=low,SpaceAfter=No
 139-34,TO030,139,anno,anno,anno,NOUN,Volume=low,_
 139-35,TO030,139,scorso.°,scorso,scorso,ADJ,Intonation=falling|Volume=low,_
 140-0,TO054,140,[certo.,certo,certo,ADJ,Intonation=falling,_
@@ -1680,7 +1680,7 @@
 141-2,TO030,141,me,me,me,PRON,_,_
 141-3,TO030,141,cinema,cinema,cinema,NOUN,_,_
 141-4,TO030,141,per,per,per,ADP,_,_
-141-5,TO030,141,l',l',il,DET,Truncated=Yes,_
+141-5,TO030,141,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 141-6,TO030,141,impresa::,impresa,impresa,NOUN,ProsodicLink=Yes,_
 141-7,TO030,141,anche,anche,anche,ADV,_,_
 141-8,TO030,141,col,col,con+il,ADP+DET,_,_
@@ -1723,7 +1723,7 @@
 141-41,TO030,141,mia,mia,mio,ADJ,_,_
 141-42,TO030,141,mamma<,mamma,mamma,NOUN,_,_
 141-43,TO030,141,isa,isa,iso,ADJ,_,_
-141-44,TO030,141,l',l',lo,PRON,Truncated=Yes,_
+141-44,TO030,141,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 141-45,TO030,141,ha,ha,avere,AUX,_,_
 141-46,TO030,141,fatta,fatta,fare,VERB,_,_
 141-47,TO030,141,di,di,di,ADP,_,_
@@ -1749,7 +1749,7 @@
 144-16,TO030,144,considerazione,considerazione,considerazione,NOUN,_,_
 144-17,TO030,144,per,per,per,ADP,_,_
 144-18,TO030,144,cinema,cinema,cinema,NOUN,_,_
-144-19,TO030,144,dell',dell',di+il,ADP+DET,Truncated=Yes,_
+144-19,TO030,144,dell',dell',di+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 144-19a,_,_,_,di,di,ADP,_,_
 144-19b,_,_,_,l',il,DET,_,_
 144-20,TO030,144,impresa,impresa,impresa,NOUN,_,_
@@ -1769,7 +1769,7 @@
 147-0,TO030,147,[cioè].,cioè,cioè,CCONJ,Intonation=falling,_
 147-1,TO030,147,ma,ma,ma,CCONJ,_,_
 147-2,TO030,147,infatti,infatti,infatti,ADV,_,_
-147-3,TO030,147,gliel',gliel',gli+lo,PRON+PRON,Truncated=Yes,_
+147-3,TO030,147,gliel',gliel',gli+lo,PRON+PRON,Truncated=Yes,SpaceAfter=No
 147-3a,_,_,_,glie,gli,PRON,_,_
 147-3b,_,_,_,l',lo,PRON,_,_
 147-4,TO030,147,ho,ho,avere,AUX,_,_
@@ -1802,7 +1802,7 @@
 147-29,TO030,147,dico,dico,dire,VERB,_,_
 147-30,TO030,147,"rossana,",rossana,rossano,ADJ,Intonation=weakly_rising,_
 147-31,TO030,147,"cioè::,",cioè,cioè,CCONJ,Intonation=weakly_rising,_
-148-0,TO030,148,c',c',ci,PRON,Truncated=Yes,_
+148-0,TO030,148,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 148-1,TO030,148,è,è,essere,VERB,_,_
 148-2,TO030,148,una,una,uno,DET,_,_
 148-3,TO030,148,possibilità,possibilità,possibilità,NOUN,_,_
@@ -1819,7 +1819,7 @@
 149-1,TO054,149,lo,lo,lo,PRON,_,_
 149-2,TO054,149,"[so],",so,sapere,VERB,Intonation=weakly_rising,_
 150-0,TO030,150,[se,se,se,SCONJ,_,_
-150-1,TO030,150,l',l',lo,PRON,Truncated=Yes,_
+150-1,TO030,150,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 150-2,TO030,150,è,è,essere,AUX,_,_
 150-3,TO030,150,mes]sa,messa,mettere,VERB,_,_
 150-4,TO030,150,sul,sul,su+il,ADP+DET,_,_
@@ -1846,7 +1846,7 @@
 150-23,TO030,150,a,a,a,ADP,_,_
 150-24,TO030,150,roma,roma,roma,NOUN,_,_
 150-25,TO030,150,insieme,insieme,insieme,ADV,_,_
-150-26,TO030,150,l',l',il,DET,Truncated=Yes,_
+150-26,TO030,150,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 150-27,TO030,150,anno,anno,anno,NOUN,_,_
 150-28,TO030,150,"prossimo,",prossimo,prossimo,ADJ,Intonation=weakly_rising,_
 150-29,TO030,150,>(gli),gli,gli,PRON,_,_
@@ -1982,7 +1982,7 @@
 160-1,TO030,160,(.),(.),PAUSE,NVB,_,_
 160-2,TO030,160,[poi,poi,poi,ADV,_,_
 160-3,TO030,160,fra,fra,fra,ADP,_,_
-160-4,TO030,160,l',l',il,DET,Truncated=Yes,_
+160-4,TO030,160,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 160-5,TO030,160,"altro],",altro,altro,PRON,Intonation=weakly_rising,_
 160-6,TO030,160,per,per,per,ADP,_,_
 160-7,TO030,160,regia,regia,regia,NOUN,_,_
@@ -2116,7 +2116,7 @@
 173-2,TO030,173,quindi,quindi,quindi,ADV,_,_
 173-3,TO030,173,"tu,",tu,tu,PRON,Intonation=weakly_rising,_
 173-4,TO030,173,(.),(.),PAUSE,NVB,_,_
-173-5,TO030,173,nell',nell',in+il,ADP+DET,Truncated=Yes,_
+173-5,TO030,173,nell',nell',in+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 173-5a,_,_,_,in,in,ADP,_,_
 173-5b,_,_,_,l',il,DET,_,_
 173-6,TO030,173,ipotetico,ipotetico,ipotetico,ADJ,_,_
@@ -2511,7 +2511,7 @@
 196-12,TO030,196,mi,mi,mi,PRON,_,_
 196-13,TO030,196,fa,fa,fare,VERB,_,_
 196-14,TO030,196,io,io,io,PRON,_,_
-196-15,TO030,196,l',l',il,DET,Truncated=Yes,_
+196-15,TO030,196,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 196-16,TO030,196,unica,unica,unico,ADJ,_,_
 196-17,TO030,196,"ragione,",ragione,ragione,NOUN,Intonation=weakly_rising,_
 196-18,TO030,196,lei,lei,lei,PRON,_,_
@@ -2528,7 +2528,7 @@
 196-27,TO030,196,dams.,dams,dams,NOUN,Intonation=falling,_
 196-28,TO030,196,mi,mi,mi,PRON,_,_
 196-29,TO030,196,fa,fa,fare,VERB,_,_
-196-30,TO030,196,l',l',il,DET,Truncated=Yes,_
+196-30,TO030,196,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 196-31,TO030,196,unica,unica,unico,ADJ,_,_
 196-32,TO030,196,ragione,ragione,ragione,NOUN,_,_
 196-33,TO030,196,per,per,per,ADP,_,_
@@ -2562,7 +2562,7 @@
 200-2,TO030,200,lo,lo,il,DET,_,_
 200-3,TO030,200,capi~,capi~,x,X,Interrupted=Yes,_
 200-4,TO030,200,la,la,il,DET,_,_
-200-5,TO030,200,quell',quell',quello,DET,Truncated=Yes,_
+200-5,TO030,200,quell',quell',quello,DET,Truncated=Yes,SpaceAfter=No
 200-6,TO030,200,impulso,impulso,impulso,NOUN,_,_
 200-7,TO030,200,lì,lì,lì,ADV,_,_
 200-8,TO030,200,lo,lo,lo,PRON,_,_
@@ -2696,7 +2696,7 @@
 210-2,TO030,210,"dici,",dici,dire,VERB,Intonation=weakly_rising,_
 210-3,TO030,210,non,non,non,ADV,_,_
 210-4,TO030,210,vedo,vedo,vedere,VERB,_,_
-210-5,TO030,210,l',l',il,DET,Truncated=Yes,_
+210-5,TO030,210,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 210-6,TO030,210,ora,ora,ora,NOUN,_,_
 210-7,TO030,210,di,di,di,ADP,_,_
 210-8,TO030,210,poter,poter,potere,AUX,_,_
@@ -2738,7 +2738,7 @@
 213-2,TO054,213,motivo,motivo,motivo,NOUN,_,_
 213-3,TO054,213,per,per,per,ADP,_,_
 213-4,TO054,213,cui,cui,cui,PRON,_,_
-213-5,TO054,213,l',l',il,DET,Truncated=Yes,_
+213-5,TO054,213,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 213-6,TO054,213,anno,anno,anno,NOUN,_,_
 213-7,TO054,213,scorso,scorso,scorso,ADJ,_,_
 213-8,TO054,213,io,io,io,PRON,_,_
@@ -2768,7 +2768,7 @@
 215-14,TO054,215,perché::,perché,perché,SCONJ,_,_
 215-15,TO054,215,tanto,tanto,tanto,SCONJ,_,_
 215-16,TO054,215,non,non,non,ADV,_,_
-215-17,TO054,215,c',c',ci,PRON,Truncated=Yes,_
+215-17,TO054,215,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 215-18,TO054,215,hai,hai,avere,VERB,_,_
 215-19,TO054,215,niente,niente,niente,PRON,_,_
 215-20,TO054,215,da,da,da,ADP,_,_
@@ -2780,13 +2780,13 @@
 216-1,TO030,216,no,no,no,ADV,_,_
 216-2,TO030,216,no.,no,no,ADV,Intonation=falling,_
 216-3,TO030,216,adesso,adesso,adesso,ADV,_,_
-216-4,TO030,216,l',l',il,DET,Truncated=Yes,_
+216-4,TO030,216,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 216-5,TO030,216,anno],anno,anno,NOUN,_,_
 216-6,TO030,216,è,è,essere,AUX,_,_
 216-7,TO030,216,quasi,quasi,quasi,ADV,_,_
 216-8,TO030,216,fini~,fini~,x,X,Interrupted=Yes,_
 216-9,TO030,216,cioè,cioè,cioè,CCONJ,_,_
-216-10,TO030,216,l',l',il,DET,Truncated=Yes,_
+216-10,TO030,216,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 216-11,TO030,216,anno,anno,anno,NOUN,_,_
 216-12,TO030,216,[scolastico,scolastico,scolastico,ADJ,_,_
 216-13,TO030,216,tra,tra,tra,ADP,_,_
@@ -2859,7 +2859,7 @@
 221-29,TO030,221,co:se,cose,cosa,NOUN,_,_
 221-30,TO030,221,in,in,in,ADP,_,_
 221-31,TO030,221,preda,preda,preda,NOUN,_,_
-221-32,TO030,221,all',all',a+il,ADP+DET,Truncated=Yes,_
+221-32,TO030,221,all',all',a+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 221-32a,_,_,_,a,a,ADP,_,_
 221-32b,_,_,_,l',il,DET,_,_
 221-33,TO030,221,"ansia,",ansia,ansia,NOUN,Intonation=weakly_rising,_
@@ -3043,7 +3043,7 @@
 234-6,TO054,234,esami,esami,esame,NOUN,_,_
 234-7,TO054,234,"pe[rò::],",però,però,ADV,Intonation=weakly_rising,_
 235-0,TO030,235,[va]bbè,vabbè,vabbè,INTJ,_,_
-236-0,TO030,236,(c',c',ci,PRON,Truncated=Yes,_
+236-0,TO030,236,(c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 236-1,TO030,236,è,è,essere,VERB,_,_
 236-2,TO030,236,sempre),sempre,sempre,ADV,_,_
 237-0,TO054,237,sto,sto,stare,AUX,_,_
@@ -3108,7 +3108,7 @@
 238-15,TO054,238,prima,prima,primo,ADJ,_,_
 238-16,TO054,238,laurea,laurea,laurea,NOUN,_,_
 238-17,TO054,238,te,te,ti,PRON,_,_
-238-18,TO054,238,l',l',lo,PRON,Truncated=Yes,_
+238-18,TO054,238,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 238-19,TO054,238,ho,ho,avere,AUX,_,_
 238-20,TO054,238,porta[ta.,portata,portare,VERB,Intonation=falling,_
 238-21,TO054,238,"adesso],",adesso,adesso,ADV,Intonation=weakly_rising,_
@@ -3163,7 +3163,7 @@
 243-0,TO030,243,cer[to].,certo,certo,ADJ,Intonation=falling,_
 244-0,TO054,244,[mi],mi,mi,PRON,_,_
 244-1,TO054,244,piace,piace,piacere,VERB,_,_
-244-2,TO054,244,l',l',il,DET,Truncated=Yes,_
+244-2,TO054,244,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 244-3,TO054,244,idea,idea,idea,NOUN,_,_
 244-4,TO054,244,di,di,di,ADP,_,_
 244-5,TO054,244,avere,avere,avere,VERB,_,_
@@ -3297,11 +3297,11 @@
 252-4,TO030,252,"eh],",eh,eh,INTJ,Intonation=weakly_rising,_
 253-0,TO030,253,[cioè,cioè,cioè,CCONJ,_,_
 253-1,TO030,253,io,io,io,PRON,_,_
-253-2,TO030,253,l',l',lo,PRON,Truncated=Yes,_
+253-2,TO030,253,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 253-3,TO030,253,ho,ho,avere,AUX,_,_
 253-4,TO030,253,detto].,detto,dire,VERB,Intonation=falling,_
 253-5,TO030,253,io,io,io,PRON,_,_
-253-6,TO030,253,l',l',lo,PRON,Truncated=Yes,_
+253-6,TO030,253,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 253-7,TO030,253,ho,ho,avere,AUX,_,_
 253-8,TO030,253,detto,detto,dire,VERB,_,_
 253-9,TO030,253,se,se,se,SCONJ,_,_
@@ -3330,7 +3330,7 @@
 254-14,TO030,254,è,è,essere,AUX,_,_
 254-15,TO030,254,arrivare,arrivare,arrivare,VERB,_,_
 254-16,TO030,254,a,a,a,ADP,_,_
-254-17,TO030,254,diciott',diciott',diciotta,NUM,Truncated=Yes,_
+254-17,TO030,254,diciott',diciott',diciotta,NUM,Truncated=Yes,SpaceAfter=No
 254-18,TO030,254,"anni,",anni,anno,NOUN,Intonation=weakly_rising,_
 254-19,TO030,254,che,che,che,PRON,_,_
 254-20,TO030,254,[non,non,non,ADV,_,_
@@ -3342,7 +3342,7 @@
 254-26,TO030,254,ero,ero,essere,AUX,_,_
 254-27,TO030,254,"girata,",girata,girare,VERB,Intonation=weakly_rising,_
 254-28,TO030,254,(.),(.),PAUSE,NVB,_,_
-254-29,TO030,254,all',all',a+il,ADP+DET,Truncated=Yes,_
+254-29,TO030,254,all',all',a+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 254-29a,_,_,_,a,a,ADP,_,_
 254-29b,_,_,_,l',il,DET,_,_
 254-30,TO030,254,inizio,inizio,inizio,NOUN,_,_
@@ -3390,14 +3390,14 @@
 258-17,TO030,258,prendere,prendere,prendere,VERB,_,_
 258-18,TO030,258,trenta,trenta,trenta,NUM,_,_
 258-19,TO030,258,ce,ce,ci,PRON,_,_
-258-20,TO030,258,l',l',lo,PRON,Truncated=Yes,_
+258-20,TO030,258,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 258-21,TO030,258,ho,ho,avere,VERB,_,_
 258-22,TO030,258,[ho,ho,avere,VERB,_,_
 258-23,TO030,258,il,il,il,DET,_,_
 258-24,TO030,258,meto]do,metodo,metodo,NOUN,_,_
 258-25,TO030,258,di,di,di,ADP,_,_
 258-26,TO030,258,"studio:,",studio,studio,NOUN,Intonation=weakly_rising,_
-258-27,TO030,258,l',l',lo,PRON,Truncated=Yes,_
+258-27,TO030,258,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 258-28,TO030,258,ho,ho,avere,AUX,_,_
 258-29,TO030,258,"trova:to,",trovato,trovare,VERB,Intonation=weakly_rising,_
 259-0,TO054,259,"[uh],",uh,uh,INTJ,Intonation=weakly_rising,_
@@ -3491,7 +3491,7 @@
 267-19,TO030,267,probabilm~,probabilm~,x,X,Interrupted=Yes,_
 267-20,TO030,267,probabilmente,probabilmente,probabilmente,ADV,_,_
 267-21,TO030,267,xx,x,x,X,_,_
-268-0,TO030,268,c',c',ci,PRON,Truncated=Yes,_
+268-0,TO030,268,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 268-1,TO030,268,è,è,essere,VERB,ProsodicLink=Yes,_
 268-2,TO030,268,una:::,una,uno,DET,ProsodicLink=Yes,_
 268-3,TO030,268,alta,alta,alto,ADJ,_,_
@@ -3571,7 +3571,7 @@
 274-1,TO030,274,up.,up,up,X,Intonation=falling,_
 274-2,TO030,274,si,si,si,PRON,_,_
 274-3,TO030,274,me,me,mi,PRON,_,_
-274-4,TO030,274,l',l',lo,PRON,Truncated=Yes,_
+274-4,TO030,274,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 274-5,TO030,274,ave]vi,avevi,avere,AUX,_,_
 274-6,TO030,274,detto.,detto,dire,VERB,Intonation=falling,_
 275-0,TO054,275,e,e,e,CCONJ,_,_
@@ -3641,10 +3641,10 @@
 278-9,TO030,278,poi,poi,poi,ADV,_,_
 278-10,TO030,278,hanno,hanno,avere,AUX,_,_
 278-11,TO030,278,vinto,vinto,vincere,VERB,_,_
-278-12,TO030,278,l',l',il,DET,Truncated=Yes,_
+278-12,TO030,278,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 278-13,TO030,278,oscar,oscar,oscar,NOUN,_,_
 278-14,TO030,278,eh,eh,eh,INTJ,_,_
-278-15,TO030,278,quest',quest',quest',DET,Truncated=Yes,_
+278-15,TO030,278,quest',quest',quest',DET,Truncated=Yes,SpaceAfter=No
 278-16,TO030,278,anno,anno,anno,NOUN,_,_
 278-17,TO030,278,per,per,per,ADP,_,_
 278-18,TO030,278,suicide,suicide,suicida,NOUN,_,_
@@ -3680,7 +3680,7 @@
 280-8,TO054,280,andare,andare,andare,VERB,_,_
 280-9,TO054,280,fuori.,fuori,fuori,ADV,Intonation=falling,_
 281-0,TO054,281,e,e,e,CCONJ,_,_
-281-1,TO054,281,neanch',neanch',neanche,ADV,Truncated=Yes,_
+281-1,TO054,281,neanch',neanch',neanche,ADV,Truncated=Yes,SpaceAfter=No
 281-2,TO054,281,io,io,io,PRON,_,_
 281-3,TO054,281,non,non,non,ADV,_,_
 281-4,TO054,281,sono,sono,essere,AUX,_,_
@@ -3903,7 +3903,7 @@
 293-2,TO030,293,boh.,boh,boh,ADV,Intonation=falling,_
 293-3,TO030,293,capito,capito,capire,VERB,_,_
 293-4,TO030,293,io,io,io,PRON,_,_
-293-5,TO030,293,l',l',lo,PRON,Truncated=Yes,_
+293-5,TO030,293,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 293-6,TO030,293,ho,ho,avere,AUX,_,_
 293-7,TO030,293,semp~,semp~,x,X,Interrupted=Yes,_
 293-8,TO030,293,xx,x,x,X,_,_
@@ -3913,9 +3913,9 @@
 293-12,TO030,293,diciamo,diciamo,dire,VERB,_,_
 293-13,TO030,293,sempre.,sempre,sempre,ADV,Intonation=falling,_
 293-14,TO030,293,noi,noi,noi,PRON,_,_
-293-15,TO030,293,un',un',uno,DET,Truncated=Yes,_
+293-15,TO030,293,un',un',uno,DET,Truncated=Yes,SpaceAfter=No
 293-16,TO030,293,esperienza,esperienza,esperienza,NOUN,_,_
-293-17,TO030,293,all',all',a+il,ADP+DET,Truncated=Yes,_
+293-17,TO030,293,all',all',a+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 293-17a,_,_,_,a,a,ADP,_,_
 293-17b,_,_,_,l',il,DET,_,_
 293-18,TO030,293,estero,estero,estero,NOUN,_,_
@@ -3932,7 +3932,7 @@
 293-25b,_,_,_,il,il,DET,_,_
 293-26,TO030,293,eh,eh,eh,INTJ,_,_
 293-27,TO030,293,con,con,con,ADP,_,_
-293-28,TO030,293,l',l',il,DET,Truncated=Yes,_
+293-28,TO030,293,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 293-29,TO030,293,idea,idea,idea,NOUN,_,_
 293-30,TO030,293,di,di,di,ADP,_,_
 293-31,TO030,293,torna:re.,tornare,tornare,VERB,Intonation=falling,_
@@ -3984,7 +3984,7 @@
 299-3,TO054,299,guardato,guardato,guardare,VERB,_,_
 299-4,TO054,299,su:,su,su,ADP,ProsodicLink=Yes,_
 299-5,TO054,299,i:internet.,iinternet,iinternet,NOUN,Intonation=falling,_
-299-6,TO054,299,c',c',ci,PRON,Truncated=Yes,_
+299-6,TO054,299,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 299-7,TO054,299,era,era,essere,VERB,_,_
 299-8,TO054,299,un,un,uno,DET,_,_
 299-9,TO054,299,tizio,tizio,tizio,NOUN,_,_
@@ -4035,9 +4035,9 @@
 303-1,TO054,303,in,in,in,ADP,_,_
 303-2,TO054,303,"italia,",italia,Italia,NOUN,Intonation=weakly_rising,_
 303-3,TO054,303,(.),(.),PAUSE,NVB,_,_
-303-4,TO054,303,c',c',ci,PRON,Truncated=Yes,_
+303-4,TO054,303,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 303-5,TO054,303,è,è,essere,VERB,_,_
-303-6,TO054,303,un',un',uno,DET,Truncated=Yes,_
+303-6,TO054,303,un',un',uno,DET,Truncated=Yes,SpaceAfter=No
 303-7,TO054,303,accademia,accademia,accademia,NOUN,_,_
 303-8,TO054,303,nazionale,nazionale,nazionale,ADJ,_,_
 303-9,TO054,303,(.),(.),PAUSE,NVB,_,_
@@ -4058,7 +4058,7 @@
 305-11,TO054,305,germania,germania,germania,NOUN,_,_
 305-12,TO054,305,ad,ad,a,ADP,_,_
 305-13,TO054,305,esempio,esempio,esempio,NOUN,_,_
-305-14,TO054,305,l',l',lo,PRON,Truncated=Yes,_
+305-14,TO054,305,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 305-15,TO054,305,ha,ha,avere,AUX,_,_
 305-16,TO054,305,citata,citata,citare,VERB,_,_
 305-17,TO054,305,ce,ce,ci,PRON,_,_
@@ -4081,7 +4081,7 @@
 309-0,TO030,309,[sì.,sì,sì,ADV,Intonation=falling,_
 309-1,TO030,309,sì.,sì,sì,ADV,Intonation=falling,_
 309-2,TO030,309,per]ché,perché,perché,SCONJ,_,_
-309-3,TO030,309,c',c',ci,PRON,Truncated=Yes,_
+309-3,TO030,309,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 309-4,TO030,309,è,è,essere,VERB,_,_
 309-5,TO030,309,più::,più,più,ADV,_,_
 309-6,TO030,309,"richiesta,",richiesta,richiesta,NOUN,Intonation=weakly_rising,_
@@ -4104,7 +4104,7 @@
 313-3,TO030,313,che,che,che,SCONJ,_,_
 313-4,TO030,313,una,una,uno,DET,_,_
 313-5,TO030,313,volta,volta,volta,NOUN,_,_
-313-6,TO030,313,l',l',lo,PRON,Truncated=Yes,_
+313-6,TO030,313,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 313-7,TO030,313,hanno,hanno,avere,AUX,_,_
 313-8,TO030,313,preso,preso,prendere,VERB,_,_
 313-9,TO030,313,alla,alla,a+il,ADP+DET,_,_
@@ -4134,15 +4134,15 @@
 315-13,TO030,315,(.),(.),PAUSE,NVB,_,_
 315-14,TO030,315,e,e,e,CCONJ,_,_
 315-15,TO030,315,poi,poi,poi,ADV,_,_
-315-16,TO030,315,l',l',lo,PRON,Truncated=Yes,_
+315-16,TO030,315,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 315-17,TO030,315,avevano,avevano,avere,AUX,_,_
 315-18,TO030,315,"scartato,",scartato,scartare,VERB,Intonation=weakly_rising,_
 315-19,TO030,315,lui,lui,lui,PRON,_,_
-315-20,TO030,315,m',m',mi,PRON,Truncated=Yes,_
+315-20,TO030,315,m',m',mi,PRON,Truncated=Yes,SpaceAfter=No
 315-21,TO030,315,ha,ha,avere,AUX,_,_
 315-22,TO030,315,detto,detto,dire,VERB,_,_
 315-23,TO030,315,che,che,che,SCONJ,_,_
-315-24,TO030,315,c',c',ci,PRON,Truncated=Yes,_
+315-24,TO030,315,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 315-25,TO030,315,era,era,essere,VERB,_,_
 315-26,TO030,315,stato,stato,stato,NOUN,_,_
 315-27,TO030,315,malissimo.,malissimo,malo,ADJ,Intonation=falling,_
@@ -4168,7 +4168,7 @@
 318-12a,_,_,_,da,da,ADP,_,_
 318-12b,_,_,_,i,il,DET,_,_
 318-13,TO030,318,ce,ce,ci,PRON,_,_
-318-14,TO030,318,l',l',lo,PRON,Truncated=Yes,_
+318-14,TO030,318,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 318-15,TO030,318,ho,ho,avere,AUX,_,_
 318-16,TO030,318,"fatta,",fatta,fare,VERB,Intonation=weakly_rising,_
 318-17,TO030,318,e,e,e,CCONJ,_,_
@@ -4177,7 +4177,7 @@
 319-0,TO030,319,capito?,capito,capire,VERB,Intonation=rising,_
 319-1,TO030,319,e,e,e,CCONJ,_,_
 319-2,TO030,319,lui,lui,lui,PRON,_,_
-319-3,TO030,319,l',l',lo,PRON,Truncated=Yes,_
+319-3,TO030,319,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 319-4,TO030,319,aveva,aveva,avere,AUX,_,_
 319-5,TO030,319,sofferta,sofferta,soffrire,VERB,_,_
 319-6,TO030,319,un,un,uno,DET,_,_
@@ -4364,7 +4364,7 @@
 333-2,TO030,333,qualcosa.,qualcosa,qualcosa,PRON,Intonation=falling,_
 333-3,TO030,333,invece,invece,invece,ADV,_,_
 333-4,TO030,333,andrea,andrea,andreo,ADJ,_,_
-333-5,TO030,333,l',l',lo,PRON,Truncated=Yes,_
+333-5,TO030,333,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 333-6,TO030,333,ha,ha,avere,AUX,_,_
 333-7,TO030,333,vis]suto,vissuto,vivere,VERB,_,_
 333-8,TO030,333,come,come,come,ADP,_,_
@@ -4397,7 +4397,7 @@
 337-4,TO054,337,se,se,se,SCONJ,_,_
 337-5,TO054,337,passa.),passa,passare,VERB,Intonation=falling,_
 338-0,TO054,338,per,per,per,ADP,_,_
-338-1,TO054,338,quest',quest',questo,DET,Truncated=Yes,_
+338-1,TO054,338,quest',quest',questo,DET,Truncated=Yes,SpaceAfter=No
 338-2,TO054,338,anno,anno,anno,NOUN,_,_
 338-3,TO054,338,la,la,la,PRON,_,_
 338-4,TO054,338,tofano,tofano,tofare,VERB,_,_
@@ -4512,7 +4512,7 @@
 352-0,TO054,352,"no,",no,no,ADV,Intonation=weakly_rising,_
 352-1,TO054,352,poi,poi,poi,ADV,_,_
 352-2,TO054,352,anche,anche,anche,ADV,_,_
-352-3,TO054,352,l',l',il,DET,Truncated=Yes,_
+352-3,TO054,352,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 352-4,TO054,352,ambiente,ambiente,ambiente,NOUN,_,_
 352-5,TO054,352,è,è,essere,AUX,_,_
 352-6,TO054,352,molto,molto,molto,ADV,_,_
@@ -4601,7 +4601,7 @@
 359-6,TO054,359,"xx],",xx,x,X,Intonation=weakly_rising,_
 360-0,TO030,360,[non,non,non,ADV,_,_
 360-1,TO030,360,vedo,vedo,vedere,VERB,_,_
-360-2,TO030,360,l',l',il,DET,Truncated=Yes,_
+360-2,TO030,360,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 360-3,TO030,360,ora,ora,ora,NOUN,_,_
 360-4,TO030,360,di,di,di,ADP,_,_
 360-5,TO030,360,venire,venire,venire,VERB,_,_
@@ -4624,7 +4624,7 @@
 364-0,TO030,364,[ah],ah,ah,INTJ,_,_
 364-1,TO030,364,ma,ma,ma,CCONJ,_,_
 364-2,TO030,364,me,me,me,PRON,_,_
-364-3,TO030,364,l',l',il,DET,Truncated=Yes,_
+364-3,TO030,364,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 364-4,TO030,364,avevi,avevi,avere,NOUN,_,_
 364-5,TO030,364,anche,anche,anche,ADV,_,_
 364-6,TO030,364,già,già,già,ADV,_,_

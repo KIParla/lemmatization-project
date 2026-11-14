@@ -21,16 +21,16 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 5-3,TO022,5,il,il,il,DET,_,_
 5-4,TO022,5,foglio::,foglio,foglio,NOUN,_,_
 5-5,TO022,5,(.),(.),PAUSE,NVB,_,_
-5-6,TO022,5,l',l',il,DET,_,_
+5-6,TO022,5,l',l',il,DET,_,SpaceAfter=No
 5-7,TO022,5,ultimo,ultimo,ultimo,ADJ,_,_
 5-8,TO022,5,giorno,giorno,giorno,NOUN,_,_
-5-9,TO022,5,dell',dell',di+il,ADP+DET,_,_
+5-9,TO022,5,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 5-9a,_,_,_,di,di,ADP,_,_
 5-9b,_,_,_,l',il,DET,_,_
 5-10,TO022,5,argomento.,argomento,argomento,NOUN,_,_
 6-0,TO024,6,non,non,non,ADV,_,_
 6-1,TO024,6,era,era,essere,AUX,_,_
-6-2,TO024,6,l',l',il,DET,_,_
+6-2,TO024,6,l',l',il,DET,_,SpaceAfter=No
 6-3,TO024,6,ultimo,ultimo,ultimo,ADJ,_,_
 6-4,TO024,6,"giorno,",giorno,giorno,NOUN,_,_
 7-0,TO022,7,ah.,ah,ah,INTJ,_,_
@@ -59,7 +59,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 9-2,TO024,9,allora,allora,allora,ADV,_,_
 9-3,TO024,9,è,è,essere,AUX,_,_
 9-4,TO024,9,mancata,mancata,mancare,VERB,_,_
-9-5,TO024,9,l',l',il,DET,_,_
+9-5,TO024,9,l',l',il,DET,_,SpaceAfter=No
 9-6,TO024,9,ultimo,ultimo,ultimo,ADJ,_,_
 9-7,TO024,9,giorno,giorno,giorno,NOUN,_,_
 9-8,TO024,9,scher[zo.,scherzo,scherzare,VERB,_,_
@@ -113,7 +113,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 15-4a,_,_,_,di,di,ADP,_,_
 15-4b,_,_,_,la,il,DET,_,_
 15-5,TO024,15,germania,germania,Germania,PROPN,_,_
-15-6,TO024,15,dall',dall',da+il,ADP+DET,_,_
+15-6,TO024,15,dall',dall',da+il,ADP+DET,_,SpaceAfter=No
 15-6a,_,_,_,da,da,ADP,_,_
 15-6b,_,_,_,l',il,DET,_,_
 15-7,TO024,15,alto,alto,alto,ADJ,_,_
@@ -165,7 +165,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 23-8,TO022,23,)un,un,uno,DET,_,_
 23-9,TO022,23,determinato,determinato,determinato,ADJ,_,_
 23-10,TO022,23,periodo,periodo,periodo,NOUN,_,_
-23-11,TO022,23,l',l',il,DET,_,_
+23-11,TO022,23,l',l',il,DET,_,SpaceAfter=No
 23-12,TO022,23,esigenza,esigenza,esigenza,NOUN,_,_
 23-13,TO022,23,di::,di,di,ADP,_,_
 23-14,TO022,23,dotarsi,dotarsi,dotare+si,VERB+PRON,_,_
@@ -201,9 +201,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 26-0,TO022,26,diciannovesimo,diciannovesimo,diciannovesimo,ADJ,_,_
 26-1,TO022,26,secolo?,secolo,secolo,NOUN,_,_
 27-0,TO022,27,e::h,eh,eh,INTJ,_,_
-27-1,TO022,27,c',c',ci,PRON,_,_
+27-1,TO022,27,c',c',ci,PRON,_,SpaceAfter=No
 27-2,TO022,27,era,era,essere,VERB,_,_
-27-3,TO022,27,>quest<',quest',questo,DET,_,_
+27-3,TO022,27,>quest<',quest',questo,DET,_,SpaceAfter=No
 27-4,TO022,27,esigenza,esigenza,esigenza,NOUN,_,_
 27-5,TO022,27,di,di,di,ADP,_,_
 27-6,TO022,27,unificare,unificare,unificare,VERB,_,_
@@ -252,7 +252,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 29-18,TO022,29,era,era,essere,AUX,_,_
 29-19,TO022,29,stata::,stata,essere,VERB,_,_
 29-20,TO022,29,succube,succube,succube,ADJ,_,_
-29-21,TO022,29,dell',dell',di+il,ADP+DET,_,_
+29-21,TO022,29,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 29-21a,_,_,_,di,di,ADP,_,_
 29-21b,_,_,_,l',il,DET,_,_
 29-22,TO022,29,occupazione::,occupazione,occupazione,NOUN,_,_
@@ -333,7 +333,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 33-2a,_,_,_,in,in,ADP,_,_
 33-2b,_,_,_,il,il,DET,_,_
 33-3,TO024,33,senso,senso,senso,NOUN,_,_
-33-4,TO024,33,l',l',il,DET,_,_
+33-4,TO024,33,l',l',il,DET,_,SpaceAfter=No
 33-5,TO024,33,"idea,",idea,idea,NOUN,_,_
 33-6,TO024,33,[è,è,essere,AUX,_,_
 33-7,TO024,33,piaciuta.,piaciuta,piacere,VERB,_,_
@@ -346,7 +346,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 33-14,TO024,33,hanno],hanno,avere,AUX,_,_
 33-15,TO024,33,fatto,fatto,fare,VERB,_,_
 33-16,TO024,33,[qualcosa].,qualcosa,qualcosa,PRON,_,_
-34-0,TO022,34,[l',l',il,DET,_,_
+34-0,TO022,34,[l',l',il,DET,_,SpaceAfter=No
 34-1,TO022,34,idea,idea,idea,NOUN,_,_
 34-2,TO022,34,era,era,essere,AUX,_,_
 34-3,TO022,34,"piaciuta],",piaciuta,piacere,VERB,_,_
@@ -475,7 +475,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 40-8,TO024,40,sosteneva:,sosteneva,sostenere,VERB,_,_
 40-9,TO024,40,la,la,il,DET,_,_
 40-10,TO024,40,bontà,bontà,bontà,NOUN,_,_
-40-11,TO024,40,dell',dell',di+il,ADP+DET,_,_
+40-11,TO024,40,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 40-11a,_,_,_,di,di,ADP,_,_
 40-11b,_,_,_,l',il,DET,_,_
 40-12,TO024,40,idea,idea,idea,NOUN,_,_
@@ -515,7 +515,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 41-10,TO022,41,ci,ci,ci,PRON,_,_
 41-11,TO022,41,s~,s~,si,PRON,_,_
 41-12,TO022,41,°>ci,ci,ci,PRON,_,_
-41-13,TO022,41,s',s',si,PRON,_,_
+41-13,TO022,41,s',s',si,PRON,_,SpaceAfter=No
 41-14,TO022,41,ispira~<°],ispira~,x,X,_,_
 42-0,TO024,42,"[sì,",sì,sì,ADV,_,_
 42-1,TO024,42,certo.,certo,certo,ADJ,_,_
@@ -552,7 +552,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 45-6,TO024,45,francese,francese,francese,ADJ,_,_
 45-7,TO024,45,perché,perché,perché,SCONJ,_,_
 45-8,TO024,45,è,è,essere,AUX,_,_
-45-9,TO024,45,l',l',il,DET,_,_
+45-9,TO024,45,l',l',il,DET,_,SpaceAfter=No
 45-10,TO024,45,unico,unico,unico,ADJ,_,_
 45-11,TO024,45,modello,modello,modello,NOUN,_,_
 45-12,TO024,45,moderno.,moderno,moderno,ADJ,_,_
@@ -636,7 +636,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 50-7,TO024,50,che,che,che,PRON,_,_
 50-8,TO024,50,ha,ha,avere,AUX,_,_
 50-9,TO024,50,portato,portato,portare,VERB,_,_
-50-10,TO024,50,all',all',a+il,ADP+DET,_,_
+50-10,TO024,50,all',all',a+il,ADP+DET,_,SpaceAfter=No
 50-10a,_,_,_,a,a,ADP,_,_
 50-10b,_,_,_,l',il,DET,_,_
 50-11,TO024,50,idea,idea,idea,NOUN,_,_
@@ -649,7 +649,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 50-18,TO024,50,inevitabile,inevitabile,inevitabile,ADJ,_,_
 50-19,TO024,50,"codificare,",codificare,codificare,VERB,_,_
 51-0,TO024,51,quello,quello,quello,PRON,_,_
-51-1,TO024,51,dell',dell',di+il,ADP+DET,_,_
+51-1,TO024,51,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 51-1a,_,_,_,di,di,ADP,_,_
 51-1b,_,_,_,l',il,DET,_,_
 51-2,TO024,51,illuminismo,illuminismo,illuminismo,NOUN,_,_
@@ -665,7 +665,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 53-6,TO024,53,cosa.,cosa,cosa,PRON,_,_
 53-7,TO024,53,(.),(.),PAUSE,NVB,_,_
 53-8,TO024,53,cosa,cosa,cosa,PRON,_,_
-53-9,TO024,53,c',c',ci,PRON,_,_
+53-9,TO024,53,c',c',ci,PRON,_,SpaceAfter=No
 53-10,TO024,53,era,era,essere,VERB,_,_
 53-11,TO024,53,nel,nel,in+il,ADP+DET,_,_
 53-11a,_,_,_,in,in,ADP,_,_
@@ -686,7 +686,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 55-9,TO022,55,qualche,qualche,qualche,DET,_,_
 55-10,TO022,55,"modo,",modo,modo,NOUN,_,_
 55-11,TO022,55,contenesse,contenesse,contenere,VERB,_,_
-55-12,TO022,55,all',all',a+il,ADP+DET,_,_
+55-12,TO022,55,all',all',a+il,ADP+DET,_,SpaceAfter=No
 55-12a,_,_,_,a,a,ADP,_,_
 55-12b,_,_,_,l',il,DET,_,_
 55-13,TO022,55,"interno,",interno,interno,NOUN,_,_
@@ -789,7 +789,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 64-31,TO024,64,(.),(.),PAUSE,NVB,_,_
 64-32,TO024,64,invece,invece,invece,ADV,_,_
 64-33,TO024,64,richiama,richiama,richiamare,VERB,_,_
-64-34,TO024,64,l',l',il,DET,_,_
+64-34,TO024,64,l',l',il,DET,_,SpaceAfter=No
 64-35,TO024,64,idea,idea,idea,NOUN,_,_
 64-36,TO024,64,di,di,di,ADP,_,_
 64-37,TO024,64,popolo.,popolo,popolo,NOUN,_,_
@@ -800,7 +800,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 67-0,TO022,67,[sì].,sì,sì,ADV,_,_
 68-0,TO022,68,mh.,mh,mh,INTJ,_,_
 68-1,TO022,68,richiama,richiama,richiamare,VERB,_,_
-68-2,TO022,68,l',l',il,DET,_,_
+68-2,TO022,68,l',l',il,DET,_,SpaceAfter=No
 68-3,TO022,68,idea,idea,idea,NOUN,_,_
 68-4,TO022,68,di,di,di,ADP,_,_
 68-5,TO022,68,"popolo,",popolo,popolo,NOUN,_,_
@@ -1204,7 +1204,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 95-3,TO024,95,(.),(.),PAUSE,NVB,_,_
 95-4,TO024,95,indù,indù,indù,ADJ,_,_
 95-5,TO024,95,diciamo,diciamo,dire,VERB,_,_
-95-6,TO024,95,dell',dell',di+il,ADP+DET,_,_
+95-6,TO024,95,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 95-6a,_,_,_,di,di,ADP,_,_
 95-6b,_,_,_,l',il,DET,_,_
 95-7,TO024,95,"ordine,",ordine,ordine,NOUN,_,_
@@ -1239,7 +1239,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 97-21,TO022,97,e:h,eh,eh,INTJ,_,_
 97-22,TO022,97,che,che,che,PRON,_,_
 97-23,TO022,97,è:,è,essere,AUX,_,_
-97-24,TO022,97,l',l',il,DET,_,_
+97-24,TO022,97,l',l',il,DET,_,SpaceAfter=No
 97-25,TO022,97,ordine,ordine,ordine,NOUN,_,_
 97-26,TO022,97,cosmico.,cosmico,cosmico,ADJ,_,_
 98-0,TO024,98,((colpi_di_tosse)),((colpi_di_tosse)),NVB,NVB,_,_
@@ -1263,7 +1263,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 99-15,TO022,99,ordina,ordina,ordinare,VERB,_,_
 99-16,TO022,99,tra,tra,tra,ADP,_,_
 99-17,TO022,99,"virgolette,",virgolette,virgoletta,NOUN,_,_
-99-18,TO022,99,l',l',il,DET,_,_
+99-18,TO022,99,l',l',il,DET,_,SpaceAfter=No
 99-19,TO022,99,ordine,ordine,ordine,NOUN,_,_
 99-20,TO022,99,cosmico.,cosmico,cosmico,ADJ,_,_
 100-0,TO022,100,e,e,e,CCONJ,_,_
@@ -1309,7 +1309,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 101-17,TO022,101,quello,quello,quello,PRON,_,_
 101-18,TO022,101,che,che,che,PRON,_,_
 101-19,TO022,101,è::,è,essere,AUX,_,_
-101-20,TO022,101,l',l',il,DET,_,_
+101-20,TO022,101,l',l',il,DET,_,SpaceAfter=No
 101-21,TO022,101,ordine,ordine,ordine,NOUN,_,_
 101-22,TO022,101,cosmico.,cosmico,cosmico,ADJ,_,_
 102-0,TO024,102,"allora,",allora,allora,ADV,_,_
@@ -1330,7 +1330,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 102-15,TO024,102,(.),(.),PAUSE,NVB,_,_
 102-16,TO024,102,e,e,e,CCONJ,_,_
 102-17,TO024,102,conforme,conforme,conforme,ADJ,_,_
-102-18,TO024,102,all',all',a+il,ADP+DET,_,_
+102-18,TO024,102,all',all',a+il,ADP+DET,_,SpaceAfter=No
 102-18a,_,_,_,a,a,ADP,_,_
 102-18b,_,_,_,l',il,DET,_,_
 102-19,TO024,102,ordine,ordine,ordine,NOUN,_,_
@@ -1366,10 +1366,10 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 109-0,TO024,109,il,il,il,DET,_,_
 109-1,TO024,109,dharma,dharma,dharma,NOUN,Lang=san,_
 109-2,TO024,109,che,che,che,DET,_,_
-109-3,TO024,109,cos',cos',cosa,PRON,_,_
+109-3,TO024,109,cos',cos',cosa,PRON,_,SpaceAfter=No
 109-4,TO024,109,è,è,essere,AUX,_,_
 110-0,TO022,110,è,è,essere,AUX,_,_
-110-1,TO022,110,l',l',il,DET,_,_
+110-1,TO022,110,l',l',il,DET,_,SpaceAfter=No
 110-2,TO022,110,insieme,insieme,insieme,NOUN,_,_
 110-3,TO022,110,dei::,dei,di+il,ADP+DET,_,_
 110-3a,_,_,_,di,di,ADP,_,_
@@ -1416,7 +1416,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 117-7,TO024,117,il,il,il,DET,_,_
 117-8,TO024,117,kama.,kama,kama,NOUN,_,_
 117-9,TO024,117,[che,che,che,DET,_,_
-117-10,TO024,117,co]s',cos',cosa,PRON,_,_
+117-10,TO024,117,co]s',cos',cosa,PRON,_,SpaceAfter=No
 117-11,TO024,117,è,è,essere,AUX,_,_
 117-12,TO024,117,il,il,il,DET,_,_
 117-13,TO024,117,kama.,kama,kama,NOUN,_,_
@@ -1461,7 +1461,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 130-0,TO022,130,e:::h,eh,eh,INTJ,_,_
 131-0,TO022,131,"quindi::,",quindi,quindi,ADV,_,_
 132-0,TO024,132,((colpi_di_tosse)),((colpi_di_tosse)),NVB,NVB,_,_
-133-0,TO022,133,l',l',il,DET,_,_
+133-0,TO022,133,l',l',il,DET,_,SpaceAfter=No
 133-1,TO022,133,altro,altro,altro,ADJ,_,_
 133-2,TO022,133,punto,punto,punto,NOUN,_,_
 133-3,TO022,133,non,non,non,ADV,_,_
@@ -1495,7 +1495,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 135-0,TO022,135,[sì].,sì,sì,ADV,_,_
 136-0,TO022,136,mh.,mh,mh,INTJ,_,_
 137-0,TO024,137,e,e,e,CCONJ,_,_
-137-1,TO024,137,all',all',a+il,ADP+DET,_,_
+137-1,TO024,137,all',all',a+il,ADP+DET,_,SpaceAfter=No
 137-1a,_,_,_,a,a,ADP,_,_
 137-1b,_,_,_,l',il,DET,_,_
 137-2,TO024,137,altro,altro,altro,PRON,_,_
@@ -1521,7 +1521,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 139-9,TO024,139,è,è,essere,AUX,_,_
 139-10,TO024,139,il,il,il,DET,_,_
 139-11,TO024,139,senso,senso,senso,NOUN,_,_
-139-12,TO024,139,dell',dell',di+il,ADP+DET,_,_
+139-12,TO024,139,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 139-12a,_,_,_,di,di,ADP,_,_
 139-12b,_,_,_,l',il,DET,_,_
 139-13,TO024,139,ordine,ordine,ordine,NOUN,_,_
@@ -1542,7 +1542,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 140-10,TO024,140,per,per,per,ADP,_,_
 140-11,TO024,140,e::h,eh,eh,INTJ,_,_
 140-12,TO024,140,mantenere,mantenere,mantenere,VERB,_,_
-140-13,TO024,140,l',l',il,DET,_,_
+140-13,TO024,140,l',l',il,DET,_,SpaceAfter=No
 140-14,TO024,140,ordine,ordine,ordine,NOUN,_,_
 140-15,TO024,140,della,della,di+il,ADP+DET,_,_
 140-15a,_,_,_,di,di,ADP,_,_
@@ -1552,7 +1552,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 140-17a,_,_,_,di,di,ADP,_,_
 140-17b,_,_,_,il,il,DET,_,_
 140-18,TO024,140,eh,eh,eh,INTJ,_,_
-140-19,TO024,140,dell',dell',di+il,ADP+DET,_,_
+140-19,TO024,140,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 140-19a,_,_,_,di,di,ADP,_,_
 140-19b,_,_,_,l',il,DET,_,_
 140-20,TO024,140,india,india,India,PROPN,_,_
@@ -1654,7 +1654,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 151-10,TO024,151,law,law,law,NOUN,Lang=eng,_
 151-11,TO024,151,in,in,in,ADP,_,_
 151-12,TO024,151,india.,india,India,PROPN,_,_
-151-13,TO024,151,dall',dall',da+il,ADP+DET,_,_
+151-13,TO024,151,dall',dall',da+il,ADP+DET,_,SpaceAfter=No
 151-13a,_,_,_,da,da,ADP,_,_
 151-13b,_,_,_,l',il,DET,_,_
 151-14,TO024,151,"altro,",altro,altro,PRON,_,_
@@ -1748,7 +1748,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 156-18,TO022,156,risolto,risolto,risolvere,VERB,_,_
 156-19,TO022,156,comunque::,comunque,comunque,ADV,_,_
 156-20,TO022,156,difficile,difficile,difficile,ADJ,_,_
-156-21,TO022,156,all',all',a+il,ADP+DET,_,_
+156-21,TO022,156,all',all',a+il,ADP+DET,_,SpaceAfter=No
 156-21a,_,_,_,a,a,ADP,_,_
 156-21b,_,_,_,l',il,DET,_,_
 156-22,TO022,156,inizio.,inizio,inizio,NOUN,_,_
@@ -1850,9 +1850,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 162-20,TO024,162,di,di,di,ADP,_,_
 162-21,TO024,162,diritti,diritti,diritto,NOUN,_,_
 162-22,TO024,162,locali.,locali,locale,ADJ,_,_
-162-23,TO024,162,dov',dov',dove,ADV,_,_
+162-23,TO024,162,dov',dov',dove,ADV,_,SpaceAfter=No
 162-24,TO024,162,è,è,essere,VERB,_,_
-162-25,TO024,162,l',l',il,DET,_,_
+162-25,TO024,162,l',l',il,DET,_,SpaceAfter=No
 162-26,TO024,162,equilibrio.,equilibrio,equilibrio,NOUN,_,_
 163-0,TO022,163,non,non,non,ADV,_,_
 163-1,TO022,163,riesco,riesco,riuscire,VERB,_,_

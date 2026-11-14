@@ -8,7 +8,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 2-0,TOI002,2,°parlo,parlo,parlare,VERB,_,_
 2-1,TOI002,2,a,a,a,ADP,_,_
 2-2,TOI002,2,malapena,malapena,malapena,NOUN,_,_
-2-3,TOI002,2,l',l',il,DET,_,_
+2-3,TOI002,2,l',l',il,DET,_,SpaceAfter=No
 2-4,TOI002,2,italiano°,italiano,italiano,NOUN,_,_
 3-0,TOR001,3,°allo:ra°,allora,allora,ADV,_,_
 4-0,TOI003,4,non,non,non,ADV,_,_
@@ -58,11 +58,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 14-1,TOI002,14,lingue,lingue,lingue,NUM,_,_
 14-2,TOI002,14,conosci?,conosci,conoscere,VERB,_,_
 15-0,TOI003,15,vabbè,vabbè,vabbè,INTJ,_,_
-15-1,TOI003,15,l',l',il,DET,_,_
+15-1,TOI003,15,l',l',il,DET,_,SpaceAfter=No
 15-2,TOI003,15,inglese,inglese,inglese,NOUN,_,_
 15-3,TOI003,15,quando,quando,quando,SCONJ,_,_
 15-4,TOI003,15,vado,vado,andare,VERB,_,_
-15-5,TOI003,15,all',all',a+il,ADP+DET,_,_
+15-5,TOI003,15,all',all',a+il,ADP+DET,_,SpaceAfter=No
 15-5a,_,_,_,a,a,ADP,_,_
 15-5b,_,_,_,l',il,DET,_,_
 15-6,TOI003,15,estero,estero,estero,NOUN,_,_
@@ -76,7 +76,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 16-1,TOI002,16,vaff(anculo)],vaffanculo,vaffanculo,NOUN,_,_
 16-2,TOI002,16,((ride)),((ride)),NVB,NVB,_,_
 17-0,TOR001,17,((ride)),((ride)),NVB,NVB,_,_
-18-0,TOI002,18,anch',anch',anche,ADV,_,_
+18-0,TOI002,18,anch',anch',anche,ADV,_,SpaceAfter=No
 18-1,TOI002,18,io,io,io,PRON,_,_
 18-2,TOI002,18,mi,mi,mi,PRON,_,_
 18-3,TOI002,18,faccio,faccio,fare,VERB,_,_
@@ -135,7 +135,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 34-0,TOR001,34,grazie.,grazie,grazie,NOUN,_,_
 35-0,TOI002,35,ma,ma,ma,CCONJ,_,_
 35-1,TOI002,35,è,è,essere,AUX,_,_
-35-2,TOI002,35,un',un',uno,DET,_,_
+35-2,TOI002,35,un',un',uno,DET,_,SpaceAfter=No
 35-3,TOI002,35,intervista,intervista,intervista,NOUN,_,_
 35-4,TOI002,35,doppia,doppia,doppio,ADJ,_,_
 35-5,TOI002,35,o,o,o,CCONJ,_,_
@@ -203,7 +203,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 52-1,TOI002,52,a,a,a,ADP,_,_
 52-2,TOI002,52,te.°,te,te,PRON,_,_
 53-0,TOR001,53,allora,allora,allora,ADV,_,_
-53-1,TOR001,53,l',l',il,DET,_,_
+53-1,TOR001,53,l',l',il,DET,_,SpaceAfter=No
 53-2,TOR001,53,intervista,intervista,intervista,NOUN,_,_
 53-3,TOR001,53,riguarda,riguarda,riguardare,VERB,_,_
 54-0,TOR001,54,e:hm,ehm,ehm,INTJ,_,_
@@ -327,7 +327,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 85-0,TOI003,85,quindi,quindi,quindi,ADV,_,_
 85-1,TOI003,85,siamo:,siamo,essere,VERB,_,_
 85-2,TOI003,85,(.),(.),PAUSE,NVB,_,_
-85-3,TOI003,85,un',un',uno,DET,_,_
+85-3,TOI003,85,un',un',uno,DET,_,SpaceAfter=No
 85-4,TOI003,85,azienda,azienda,azienda,NOUN,_,_
 85-5,TOI003,85,unica,unica,unico,ADJ,_,_
 85-6,TOI003,85,in,in,in,ADP,_,_
@@ -394,7 +394,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 96-1,TOR001,96,invece?,invece,invece,ADV,_,_
 97-0,TOI002,97,io::,io,io,PRON,_,_
 97-1,TOI002,97,ho,ho,avere,VERB,_,_
-97-2,TOI002,97,un',un',uno,DET,_,_
+97-2,TOI002,97,un',un',uno,DET,_,SpaceAfter=No
 97-3,TOI002,97,impresa,impresa,impresa,NOUN,_,_
 97-4,TOI002,97,edile,edile,edile,ADJ,_,_
 97-5,TOI002,97,diciamo,diciamo,dire,VERB,_,_
@@ -435,7 +435,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 106-7,TOI002,106,[(.),(.),PAUSE,NVB,_,_
 106-8,TOI002,106,noi],noi,noi,PRON,_,_
 106-9,TOI002,106,siamo:,siamo,essere,VERB,_,_
-106-10,TOI002,106,un',un',uno,DET,_,_
+106-10,TOI002,106,un',un',uno,DET,_,SpaceAfter=No
 106-11,TOI002,106,azienda,azienda,azienda,NOUN,_,_
 106-12,TOI002,106,familiare,familiare,familiare,ADJ,_,_
 107-0,TOR001,107,[okay],okay,ok,INTJ,_,_
@@ -516,7 +516,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 124-7,TOR001,124,dipendente,dipendente,dipendente,NOUN,_,_
 124-8,TOR001,124,in,in,in,ADP,_,_
 124-9,TOR001,124,realtà,realtà,realtà,NOUN,_,_
-124-10,TOR001,124,l',l',il,DET,_,_
+124-10,TOR001,124,l',l',il,DET,_,SpaceAfter=No
 124-11,TOR001,124,avete,avete,avere,VERB,_,_
 124-12,TOR001,124,già,già,già,ADV,_,_
 124-13,TOR001,124,risposto,risposto,rispondere,VERB,_,_
@@ -616,7 +616,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 141-1,TOR001,141,sì,sì,sì,ADV,_,_
 141-2,TOR001,141,la,la,il,DET,_,_
 141-3,TOR001,141,revisione,revisione,revisione,NOUN,_,_
-141-4,TOR001,141,dell',dell',di+il,ADP+DET,_,_
+141-4,TOR001,141,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 141-4a,_,_,_,di,di,ADP,_,_
 141-4b,_,_,_,l',il,DET,_,_
 141-5,TOR001,141,auto,auto,auto,NOUN,_,_
@@ -630,7 +630,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 142-2,TOI003,142,(.),(.),PAUSE,NVB,_,_
 142-3,TOI003,142,la,la,il,DET,_,_
 142-4,TOI003,142,revisione,revisione,revisione,NOUN,_,_
-142-5,TOI003,142,dell',dell',di+il,ADP+DET,_,_
+142-5,TOI003,142,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 142-5a,_,_,_,di,di,ADP,_,_
 142-5b,_,_,_,l',il,DET,_,_
 142-6,TOI003,142,auto,auto,auto,NOUN,_,_
@@ -645,7 +645,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 143-1,TOI003,143,dare,dare,dare,VERB,_,_
 143-2,TOI003,143,la,la,il,DET,_,_
 143-3,TOI003,143,delibera,delibera,delibera,NOUN,_,_
-143-4,TOI003,143,all',all',a+il,ADP+DET,_,_
+143-4,TOI003,143,all',all',a+il,ADP+DET,_,SpaceAfter=No
 143-4a,_,_,_,a,a,ADP,_,_
 143-4b,_,_,_,l',il,DET,_,_
 143-5,TOI003,143,autocircolazione,autocircolazione,autocircolazione,NOUN,_,_
@@ -668,7 +668,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 146-7,TOR002,146,le,le,il,DET,_,_
 146-8,TOR002,146,perizie,perizie,perizia,NOUN,_,_
 146-9,TOR002,146,per,per,per,ADP,_,_
-146-10,TOR002,146,l',l',il,DET,_,_
+146-10,TOR002,146,l',l',il,DET,_,SpaceAfter=No
 146-11,TOR002,146,"assicurazione,",assicurazione,assicurazione,NOUN,_,_
 147-0,TOI003,147,m:h,mh,mh,INTJ,_,_
 147-1,TOI003,147,(.),(.),PAUSE,NVB,_,_

@@ -88,7 +88,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 11-4,BO005,11,e::,e,e,CCONJ,_,_
 12-0,BO005,12,poi,poi,poi,ADV,_,_
 12-1,BO005,12,ei,ei,ei,INTJ,_,_
-12-2,BO005,12,all',all',a+il,ADP+DET,Truncated=Yes,_
+12-2,BO005,12,all',all',a+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 12-2a,_,_,_,a,a,ADP,_,_
 12-2b,_,_,_,l',il,DET,_,_
 12-3,BO005,12,uso,uso,uso,NOUN,_,_
@@ -158,7 +158,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 24-0,BO005,24,°quel[lo].°,quello,quello,PRON,Intonation=falling|Volume=low,_
 25-0,BO117,25,[lei,lei,lei,PRON,_,_
 25-1,BO117,25,d]i,di,di,ADP,_,_
-25-2,BO117,25,dov',dov',dove,ADV,Truncated=Yes,_
+25-2,BO117,25,dov',dov',dove,ADV,Truncated=Yes,SpaceAfter=No
 25-3,BO117,25,è?,è,essere,AUX,Intonation=rising,_
 26-0,BO005,26,colombia.,colombia,Colombia,PROPN,Intonation=falling,_
 27-0,BO117,27,colombia.,colombia,Colombia,PROPN,Intonation=falling,_
@@ -174,7 +174,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 30-4,BO005,30,un,un,uno,DET,_,_
 30-5,BO005,30,"po',",po',poco,ADV,Intonation=weakly_rising,_
 31-0,BO005,31,basato,basato,basato,VERB,_,_
-31-1,BO005,31,sull',sull',su+il,ADP+DET,Truncated=Yes,_
+31-1,BO005,31,sull',sull',su+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 31-1a,_,_,_,su,su,ADP,_,_
 31-1b,_,_,_,l',il,DET,_,_
 31-2,BO005,31,età,età,età,NOUN,_,_
@@ -211,7 +211,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 34-9,BO005,34,dice,dice,dire,VERB,_,_
 34-10,BO005,34,un,un,uno,DET,_,_
 34-11,BO005,34,po',po',poco,ADV,_,_
-34-12,BO005,34,l',l',il,DET,Truncated=Yes,_
+34-12,BO005,34,l',l',il,DET,Truncated=Yes,SpaceAfter=No
 34-13,BO005,34,età,età,età,NOUN,_,_
 34-14,BO005,34,e,e,e,CCONJ,_,_
 34-15,BO005,34,tutto,tutto,tutto,DET,_,_
@@ -328,7 +328,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 57-3,BO117,57,anche,anche,anche,ADV,_,_
 57-4,BO117,57,il,il,il,DET,_,_
 57-5,BO117,57,diminutivo:,diminutivo,diminutivo,NOUN,_,_
-57-6,BO117,57,all',all',a+il,ADP+DET,Truncated=Yes,_
+57-6,BO117,57,all',all',a+il,ADP+DET,Truncated=Yes,SpaceAfter=No
 57-6a,_,_,_,a,a,ADP,_,_
 57-6b,_,_,_,l',il,DET,_,_
 57-7,BO117,57,interno,interno,interno,NOUN,_,_
@@ -629,7 +629,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 125-0,BO005,125,okay.,okay,ok,INTJ,Intonation=falling,_
 126-0,BO005,126,°e,e,e,CCONJ,Volume=low,_
 126-1,BO005,126,[faccio,faccio,fare,VERB,Volume=low,_
-126-2,BO005,126,un',un',uno,DET,Truncated=Yes|Volume=low,_
+126-2,BO005,126,un',un',uno,DET,Truncated=Yes|Volume=low,SpaceAfter=No
 126-3,BO005,126,analisi,analisi,analisi,NOUN,Volume=low,_
 126-4,BO005,126,"quantitativa],°",quantitativa,quantitativo,ADJ,Intonation=weakly_rising|Volume=low,_
 127-0,BO117,127,[dovrebbe,dovrebbe,dovere,AUX,_,_
@@ -653,9 +653,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 128-9,BO005,128,mostrato,mostrato,mostrare,VERB,_,_
 128-10,BO005,128,come,come,come,SCONJ,_,_
 128-11,BO005,128,io,io,io,PRON,_,_
-128-12,BO005,128,l',l',lo,PRON,Truncated=Yes,_
+128-12,BO005,128,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 128-13,BO005,128,ho,ho,avere,AUX,_,_
-128-14,BO005,128,l',l',lo,PRON,Truncated=Yes,_
+128-14,BO005,128,l',l',lo,PRON,Truncated=Yes,SpaceAfter=No
 128-15,BO005,128,ho,ho,avere,AUX,_,_
 128-16,BO005,128,visto,visto,vedere,VERB,_,_
 128-17,BO005,128,come,come,come,SCONJ,_,_
@@ -685,7 +685,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 133-0,BO117,133,[ce]rt[o].,certo,certo,ADJ,Intonation=falling,_
 134-0,BO005,134,[fa]re,fare,fare,VERB,_,_
 134-1,BO005,134,come,come,come,SCONJ,_,_
-134-2,BO005,134,un',un',uno,DET,Truncated=Yes,_
+134-2,BO005,134,un',un',uno,DET,Truncated=Yes,SpaceAfter=No
 134-3,BO005,134,analisi,analisi,analisi,NOUN,_,_
 134-4,BO005,134,quantitativo,quantitativo,quantitativo,ADJ,_,_
 134-5,BO005,134,tipo,tipo,tipo,ADP,_,_
@@ -738,12 +738,12 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 143-3,BO005,143,poi,poi,poi,ADV,_,_
 143-4,BO005,143,eh,eh,eh,INTJ,ProsodicLink=Yes,_
 143-5,BO005,143,mh,mh,mh,INTJ,_,_
-143-6,BO005,143,c',c',ci,PRON,Truncated=Yes,_
+143-6,BO005,143,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 143-7,BO005,143,è,è,essere,VERB,_,_
 143-8,BO005,143,bisogno,bisogno,bisogno,NOUN,_,_
 143-9,BO005,143,di,di,di,ADP,_,_
 143-10,BO005,143,fare,fare,fare,VERB,_,_
-143-11,BO005,143,un',un',uno,DET,Truncated=Yes,_
+143-11,BO005,143,un',un',uno,DET,Truncated=Yes,SpaceAfter=No
 143-12,BO005,143,introduzione,introduzione,introduzione,NOUN,_,_
 143-13,BO005,143,conclusione,conclusione,conclusione,NOUN,_,_
 143-14,BO005,143,un,un,uno,DET,_,_
@@ -821,7 +821,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 153-0,BO117,153,quindi,quindi,quindi,ADV,_,_
 153-1,BO117,153,insomma,insomma,insomma,ADV,_,_
 153-2,BO117,153,non,non,non,ADV,_,_
-153-3,BO117,153,c',c',ci,PRON,Truncated=Yes,_
+153-3,BO117,153,c',c',ci,PRON,Truncated=Yes,SpaceAfter=No
 153-4,BO117,153,è,è,essere,VERB,_,_
 153-5,BO117,153,problema.,problema,problema,NOUN,Intonation=falling,_
 154-0,BO005,154,perfet[to].,perfetto,perfetto,ADJ,Intonation=falling,_

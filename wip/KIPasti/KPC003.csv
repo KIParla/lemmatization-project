@@ -3173,7 +3173,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 468-0,PKP024,468,>domani,domani,domani,ADV,_,_
 468-1,PKP024,468,che,che,che,SCONJ,_,_
 468-2,PKP024,468,devi,devi,dovere,AUX,_,_
-468-3,PKP024,468,studia'<?,studia',studiare,VERB,Intonation=rising,_
+468-3,PKP024,468,studia'<?,studia',studiare,VERB,Truncated=Yes,_
 469-0,PKP093,469,e:h,eh,eh,INTJ,_,_
 469-1,PKP093,469,mh,mh,mh,INTJ,_,_
 469-2,PKP093,469,devo,devo,dovere,AUX,_,_
@@ -3745,7 +3745,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 549-0,PKP024,549,che,che,che,PRON,_,_
 549-1,PKP024,549,ce,ce,ci,PRON,_,_
 549-2,PKP024,549,posso,posso,potere,AUX,_,_
-549-3,PKP024,549,fa'?,fa',fare,VERB,Intonation=rising,_
+549-3,PKP024,549,fa'?,fa',fare,VERB,Truncated=Yes,_
 550-0,PKP024,550,ma,ma,ma,CCONJ,_,_
 550-1,PKP024,550,lo,lo,lo,PRON,_,_
 550-2,PKP024,550,senti?,senti,sentire,VERB,Intonation=rising,_
@@ -3757,7 +3757,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 551-5,PKP093,551,moscone,moscone,moscone,NOUN,_,_
 551-6,PKP093,551,cioè,cioè,cioè,CCONJ,_,_
 551-7,PKP093,551,non:,non,non,ADV,_,_
-552-0,PKP024,552,(allo'),allo',allora,ADV,_,_
+552-0,PKP024,552,(allo'),allo',allora,ADV,Truncated=Yes,_
 552-1,PKP024,552,cavalo,cavalo,cavare+lo,VERB+PRON,_,_
 552-1a,_,_,_,cava,cavare,VERB,_,_
 552-1b,_,_,_,lo,lo,PRON,_,_

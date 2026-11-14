@@ -551,7 +551,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 104-9,BOI012,104,che,che,che,SCONJ,_,_
 104-10,BOI012,104,>tutti,tutti,tutto,PRON,_,_
 104-11,BOI012,104,vanno,vanno,andare,VERB,_,_
-104-12,BOI012,104,all',all',a+il,ADP+DET,_,_
+104-12,BOI012,104,all',all',a+il,ADP+DET,_,SpaceAfter=No
 104-12a,_,_,_,a,a,ADP,_,_
 104-12b,_,_,_,l',il,DET,_,_
 104-13,BOI012,104,este~<,este~,x,X,_,_
@@ -572,10 +572,10 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 107-0,BOI012,107,ah,ah,ah,INTJ,_,_
 107-1,BOI012,107,eh,eh,eh,INTJ,_,_
 108-0,BOI013,108,[non,non,non,ADV,_,_
-108-1,BOI013,108,c',c',ci,PRON,_,_
+108-1,BOI013,108,c',c',ci,PRON,_,SpaceAfter=No
 108-2,BOI013,108,entra],entra,entrare,VERB,_,_
 109-0,BOI012,109,[ah,ah,ah,INTJ,_,_
-109-1,BOI012,109,c',c',ci,PRON,_,_
+109-1,BOI012,109,c',c',ci,PRON,_,SpaceAfter=No
 109-5,BOI012,109,entra,entra,entrare,VERB,_,_
 109-2,BOI012,109,(.),(.),PAUSE,NVB,_,_
 109-3,BOI012,109,_,c',ci,PRON,_,SpaceAfter=No
@@ -765,7 +765,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 144-7,BOI013,144,della::,della,di+il,ADP+DET,_,_
 144-7a,_,_,_,di,di,ADP,_,_
 144-7b,_,_,_,la,il,DET,_,_
-144-8,BOI013,144,all',all',a+il,ADP+DET,_,_
+144-8,BOI013,144,all',all',a+il,ADP+DET,_,SpaceAfter=No
 144-8a,_,_,_,a,a,ADP,_,_
 144-8b,_,_,_,l',il,DET,_,_
 144-9,BOI013,144,"autostazione,",autostazione,autostazione,NOUN,_,_
@@ -928,7 +928,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 169-8,BOI013,169,qui,qui,qui,ADV,_,_
 169-9,BOI013,169,in,in,in,ADP,_,_
 169-10,BOI013,169,piazza:,piazza,piazza,NOUN,_,_
-169-11,BOI013,169,dell',dell',di+il,ADP+DET,_,_
+169-11,BOI013,169,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 169-11a,_,_,_,di,di,ADP,_,_
 169-11b,_,_,_,l',il,DET,_,_
 169-12,BOI013,169,"unità,",unità,Unità,PROPN,_,_
@@ -1421,7 +1421,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 257-0,BOI013,257,anche,anche,anche,ADV,_,_
 257-1,BOI013,257,l',l',il,DET,_,SpaceAfter=No
 257-2,BOI013,257,ultimo,ultimo,ultimo,NOUN,_,_
-257-3,BOI013,257,dell',dell',di+il,ADP+DET,_,_
+257-3,BOI013,257,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 257-3a,_,_,_,di,di,ADP,_,_
 257-3b,_,_,_,l',il,DET,_,_
 257-4,BOI013,257,anno,anno,anno,NOUN,_,_
@@ -1439,7 +1439,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 259-0,BOI013,259,andare,andare,andare,VERB,_,_
 259-1,BOI013,259,l',l',il,DET,_,SpaceAfter=No
 259-2,BOI013,259,ultimo,ultimo,ultimo,NOUN,_,_
-259-3,BOI013,259,dell',dell',di+il,ADP+DET,_,_
+259-3,BOI013,259,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 259-3a,_,_,_,di,di,ADP,_,_
 259-3b,_,_,_,l',il,DET,_,_
 259-4,BOI013,259,anno,anno,anno,NOUN,_,_
@@ -1468,11 +1468,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 264-1,BOI012,264,son,son,essere,AUX,_,_
 264-2,BOI012,264,mai,mai,mai,ADV,_,_
 264-3,BOI012,264,andato,andato,andare,VERB,_,_
-264-4,BOI012,264,all',all',a+il,ADP+DET,_,_
+264-4,BOI012,264,all',all',a+il,ADP+DET,_,SpaceAfter=No
 264-4a,_,_,_,a,a,ADP,_,_
 264-4b,_,_,_,l',il,DET,_,_
 264-5,BOI012,264,ultimo,ultimo,ultimo,ADJ,_,_
-264-6,BOI012,264,dell',dell',di+il,ADP+DET,_,_
+264-6,BOI012,264,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 264-6a,_,_,_,di,di,ADP,_,_
 264-6b,_,_,_,l',il,DET,_,_
 264-7,BOI012,264,anno,anno,anno,NOUN,_,_
@@ -1501,7 +1501,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 266-9,BOI012,266,andava,andava,andare,VERB,_,_
 266-10,BOI012,266,>l',l',il,DET,_,SpaceAfter=No
 266-11,BOI012,266,ultimo,ultimo,ultimo,ADJ,_,_
-266-12,BOI012,266,dell',dell',di+il,ADP+DET,_,_
+266-12,BOI012,266,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 266-12a,_,_,_,di,di,ADP,_,_
 266-12b,_,_,_,l',il,DET,_,_
 266-13,BOI012,266,anno,anno,anno,NOUN,_,_
@@ -1888,11 +1888,11 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 336-8,BOR005,336,esatto,esatto,esatto,ADJ,_,_
 336-9,BOR005,336,(.),(.),PAUSE,NVB,_,_
 336-10,BOR005,336,patrimonio,patrimonio,patrimonio,NOUN,_,_
-336-11,BOR005,336,dell',dell',di+il,ADP+DET,_,_
+336-11,BOR005,336,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 336-11a,_,_,_,di,di,ADP,_,_
 336-11b,_,_,_,l',il,DET,_,_
 336-12,BOR005,336,umanità,umanità,umanità,NOUN,_,_
-337-0,BOI013,337,[dell',dell',di+il,ADP+DET,_,_
+337-0,BOI013,337,[dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 337-0a,_,_,_,di,di,ADP,_,_
 337-0b,_,_,_,l',il,DET,_,_
 337-1,BOI013,337,unesco],unesco,Unesco,PROPN,_,_
@@ -2137,7 +2137,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 380-3,BOI013,380,°no°<],no,no,ADV,_,_
 381-0,BOR005,381,>però,però,però,ADV,_,_
 381-1,BOR005,381,sapevi,sapevi,sapere,VERB,_,_
-381-2,BOR005,381,dell',dell',di+il,ADP+DET,_,_
+381-2,BOR005,381,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 381-2a,_,_,_,di,di,ADP,_,_
 381-2b,_,_,_,l',il,DET,_,_
 381-3,BOR005,381,esistenza,esistenza,esistenza,NOUN,_,_
@@ -2717,7 +2717,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 484-2,BOI012,484,si,si,si,PRON,_,_
 484-3,BOI012,484,chiama,chiama,chiamare,VERB,_,_
 484-4,BOI012,484,colle,colle,colle,NOUN,_,_
-484-5,BOI012,484,dell',dell',di+il,ADP+DET,_,_
+484-5,BOI012,484,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 484-5a,_,_,_,di,di,ADP,_,_
 484-5b,_,_,_,l',il,DET,_,_
 484-6,BOI012,484,osservanza,osservanza,osservanza,NOUN,_,_
@@ -2731,7 +2731,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 485-4,BOR005,485,si,si,si,PRON,_,_
 485-5,BOR005,485,chiamasse,chiamasse,chiamare,VERB,_,_
 485-6,BOR005,485,colle,colle,colle,NOUN,_,_
-485-7,BOR005,485,dell',dell',di+il,ADP+DET,_,_
+485-7,BOR005,485,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 485-7a,_,_,_,di,di,ADP,_,_
 485-7b,_,_,_,l',il,DET,_,_
 485-8,BOR005,485,osser[vanza],osservanza,Osservanza,PROPN,_,_
@@ -3233,7 +3233,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 565-0,BOI012,565,io,io,io,PRON,_,_
 565-1,BOI012,565,sto,sto,stare,AUX,_,_
 565-2,BOI012,565,parlando,parlando,parlare,VERB,_,_
-565-3,BOI012,565,d[ell',dell',di+il,ADP+DET,_,_
+565-3,BOI012,565,d[ell',dell',di+il,ADP+DET,_,SpaceAfter=No
 565-3a,_,_,_,di,di,ADP,_,_
 565-3b,_,_,_,l',il,DET,_,_
 565-4,BOI012,565,emilia,emilia,Emilia,PROPN,_,_
@@ -3274,7 +3274,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 570-6,BOI012,570,tutte,tutte,tutto,DET,_,_
 570-7,BOI012,570,le,le,il,DET,_,_
 570-8,BOI012,570,città,città,città,NOUN,_,_
-570-9,BOI012,570,dell',dell',di+il,ADP+DET,_,_
+570-9,BOI012,570,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 570-9a,_,_,_,di,di,ADP,_,_
 570-9b,_,_,_,l',il,DET,_,_
 570-10,BOI012,570,emi[lia],emilia,Emilia,PROPN,_,_
@@ -3301,7 +3301,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 576-1,BOR005,576,andare<,andare,andare,VERB,_,_
 577-0,BOR005,577,fuori,fuori,fuori,ADV,_,_
 577-1,BOR005,577,>appunto,appunto,appunto,ADV,_,_
-577-2,BOR005,577,dall',dall',da+il,ADP+DET,_,_
+577-2,BOR005,577,dall',dall',da+il,ADP+DET,_,SpaceAfter=No
 577-2a,_,_,_,da,da,ADP,_,_
 577-2b,_,_,_,l',il,DET,_,_
 577-3,BOR005,577,emilia,emilia,Emilia,PROPN,_,_
@@ -3706,7 +3706,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 649-3,BOI012,649,>per,per,per,ADP,_,_
 649-4,BOI012,649,la,la,il,DET,_,_
 649-5,BOI012,649,po[tatura,potatura,potatura,NOUN,_,_
-649-6,BOI012,649,dell',dell',di+il,ADP+DET,_,_
+649-6,BOI012,649,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 649-6a,_,_,_,di,di,ADP,_,_
 649-6b,_,_,_,l',il,DET,_,_
 649-7,BOI012,649,a]gricoltura<,agricoltura,agricoltura,NOUN,_,_
@@ -4160,7 +4160,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 741-3,BOI013,741,(.),(.),PAUSE,NVB,_,_
 741-4,BOI013,741,dopo,dopo,dopo,ADP,_,_
 741-5,BOI013,741,i,i,il,DET,_,_
-741-6,BOI013,741,cinquantanni,cinquant',cinquanta,NUM,_,_
+741-6,BOI013,741,cinquantanni,cinquant',cinquanta,NUM,_,SpaceAfter=No
 741-11,BOI013,741,anni,anni,anno,NOUN,_,_
 741-7,BOI013,741,bisogna,bisogna,bisognare,VERB,_,_
 741-8,BOI013,741,stare,stare,stare,VERB,_,_
@@ -4183,7 +4183,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 744-3,BOR005,744,provi,provi,provare,VERB,_,_
 744-4,BOR005,744,questa,questa,questo,DET,_,_
 744-5,BOR005,744,fatica,fatica,fatica,NOUN,_,_
-744-6,BOR005,744,nell',nell',in+il,ADP+DET,_,_
+744-6,BOR005,744,nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 744-6a,_,_,_,in,in,ADP,_,_
 744-6b,_,_,_,l',il,DET,_,_
 744-7,BOR005,744,andare,andare,andare,VERB,_,_
@@ -4604,7 +4604,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 811-3,BOR005,811,sarebbe,sarebbe,essere,AUX,_,_
 811-4,BOR005,811,meglio,meglio,meglio,ADV,_,_
 811-5,BOR005,811,andare,andare,andare,VERB,_,_
-811-6,BOR005,811,all',all',a+il,ADP+DET,_,_
+811-6,BOR005,811,all',all',a+il,ADP+DET,_,SpaceAfter=No
 811-6a,_,_,_,a,a,ADP,_,_
 811-6b,_,_,_,l',il,DET,_,_
 811-7,BOR005,811,estero?,estero,estero,NOUN,_,_
@@ -4617,7 +4617,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 812-6,BOI012,812,i,i,il,DET,_,_
 812-7,BOI012,812,ragazzi,ragazzi,ragazzo,NOUN,_,_
 812-8,BOI012,812,vanno,vanno,andare,VERB,_,_
-812-9,BOI012,812,all',all',a+il,ADP+DET,_,_
+812-9,BOI012,812,all',all',a+il,ADP+DET,_,SpaceAfter=No
 812-9a,_,_,_,a,a,ADP,_,_
 812-9b,_,_,_,l',il,DET,_,_
 812-10,BOI012,812,estero,estero,estero,NOUN,_,_
@@ -4625,7 +4625,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 813-1,BOI012,813,i,i,il,DET,_,_
 813-2,BOI012,813,giovani,giovani,giovane,NOUN,_,_
 813-3,BOI012,813,vanno,vanno,andare,VERB,_,_
-813-4,BOI012,813,all',all',a+il,ADP+DET,_,_
+813-4,BOI012,813,all',all',a+il,ADP+DET,_,SpaceAfter=No
 813-4a,_,_,_,a,a,ADP,_,_
 813-4b,_,_,_,l',il,DET,_,_
 813-5,BOI012,813,estero,estero,estero,NOUN,_,_
@@ -4634,7 +4634,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 813-8,BOI012,813,gli,gli,gli,PRON,_,_
 813-9,BOI012,813,piace,piace,piacere,VERB,_,_
 813-10,BOI012,813,andare,andare,andare,VERB,_,_
-813-11,BOI012,813,all',all',a+il,ADP+DET,_,_
+813-11,BOI012,813,all',all',a+il,ADP+DET,_,SpaceAfter=No
 813-11a,_,_,_,a,a,ADP,_,_
 813-11b,_,_,_,l',il,DET,_,_
 813-12,BOI012,813,estero?,estero,estero,NOUN,_,_
@@ -4749,7 +4749,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 830-3,BOR005,830,ti,ti,ti,PRON,_,_
 830-4,BOR005,830,saresti,saresti,essere,AUX,_,_
 830-5,BOR005,830,trasferito,trasferito,trasferire,VERB,_,_
-830-6,BOR005,830,all',all',a+il,ADP+DET,_,_
+830-6,BOR005,830,all',all',a+il,ADP+DET,_,SpaceAfter=No
 830-6a,_,_,_,a,a,ADP,_,_
 830-6b,_,_,_,l',il,DET,_,_
 830-7,BOR005,830,estero,estero,estero,NOUN,_,_
@@ -5051,7 +5051,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 888-2,BOI013,888,ascolto<,ascolto,ascoltare,VERB,_,_
 888-3,BOI013,888,il,il,il,DET,_,_
 888-4,BOI013,888,telegiornale,telegiornale,telegiornale,NOUN,_,_
-888-5,BOI013,888,dell',dell',di+il,ADP+DET,_,_
+888-5,BOI013,888,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 888-5a,_,_,_,di,di,ADP,_,_
 888-5b,_,_,_,l',il,DET,_,_
 888-6,BOI013,888,emilia,emilia,Emilia,PROPN,_,_
@@ -5207,7 +5207,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 910-1,BOI013,910,chiu~,chiu~,chiudere,VERB,_,_
 910-2,BOI013,910,chiu[si,chiusi,chiudere,VERB,_,_
 910-3,BOI013,910,dentro:],dentro,dentro,ADV,_,_
-911-0,BOI012,911,[all',all',a+il,ADP+DET,_,_
+911-0,BOI012,911,[all',all',a+il,ADP+DET,_,SpaceAfter=No
 911-0a,_,_,_,a,a,ADP,_,_
 911-0b,_,_,_,l',il,DET,_,_
 911-1,BOI012,911,antone]lla,antonella,Antonella,PROPN,_,_

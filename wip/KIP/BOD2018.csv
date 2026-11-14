@@ -776,7 +776,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 73-7,BO118,73,la,la,il,DET,_,_
 73-8,BO118,73,macchina,macchina,macchina,NOUN,_,_
 73-9,BO118,73,per,per,per,ADP,_,_
-73-10,BO118,73,anda',anda',andare,VERB,_,_
+73-10,BO118,73,anda',anda',andare,VERB,Truncated=Yes,_
 73-11,BO118,73,in,in,in,ADP,_,_
 73-12,BO118,73,centro?,centro,centro,NOUN,_,_
 74-0,BO140,74,sì,sì,sì,ADV,_,_
@@ -995,7 +995,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 86-24,BO118,86,"proprio,",proprio,proprio,ADJ,_,_
 87-0,BO118,87,se,se,se,SCONJ,_,_
 87-1,BO118,87,dovessi,dovessi,dovere,AUX,_,_
-87-2,BO118,87,anda',anda',andare,VERB,_,_
+87-2,BO118,87,anda',anda',andare,VERB,Truncated=Yes,_
 87-3,BO118,87,a,a,a,ADP,_,_
 87-4,BO118,87,piedi,piedi,piede,NOUN,_,_
 87-5,BO118,87,ci,ci,ci,PRON,_,_
@@ -1104,7 +1104,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 96-4,BO140,96,anche,anche,anche,ADV,_,_
 96-5,BO140,96,quando,quando,quando,SCONJ,_,_
 96-6,BO140,96,nevicava,nevicava,nevicare,VERB,_,_
-97-0,BO118,97,ma:do',mado',mado',INTJ,_,_
+97-0,BO118,97,ma:do',mado',Madonna,PROPN,_,_
 97-1,BO118,97,((ride)),((ride)),NVB,NVB,_,_
 98-0,BO118,98,che,che,che,SCONJ,_,_
 98-1,BO118,98,po:i,poi,poi,ADV,_,_
@@ -1560,7 +1560,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 147-5,BO140,147,degli,degli,del,DET,_,_
 147-6,BO140,147,"uomini,",uomini,uomo,NOUN,_,_
 147-7,BO140,147,mentre,mentre,mentre,SCONJ,_,_
-147-8,BO140,147,nell',nell',in+il,ADP+DET,_,_
+147-8,BO140,147,nell',nell',in+il,ADP+DET,_,SpaceAfter=No
 147-8a,_,_,_,in,in,ADP,_,_
 147-8b,_,_,_,l',il,DET,_,_
 147-9,BO140,147,altra,altra,altro,PRON,_,_
@@ -1601,7 +1601,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 150-0,BO118,150,e::,e,e,CCONJ,_,_
 150-1,BO118,150,e,e,e,CCONJ,_,_
 150-2,BO118,150,rispetto,rispetto,rispetto,ADV,_,_
-150-3,BO118,150,all',all',a+il,ADP+DET,_,_
+150-3,BO118,150,all',all',a+il,ADP+DET,_,SpaceAfter=No
 150-3a,_,_,_,a,a,ADP,_,_
 150-3b,_,_,_,l',il,DET,_,_
 150-4,BO118,150,altra,altra,altro,DET,_,_
@@ -1794,7 +1794,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 161-0,BO140,161,mh,mh,mh,INTJ,_,_
 161-1,BO140,161,diciamo,diciamo,dire,VERB,_,_
 161-2,BO140,161,che,che,che,SCONJ,_,_
-161-3,BO140,161,dell',dell',di+il,ADP+DET,_,_
+161-3,BO140,161,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 161-3a,_,_,_,di,di,ADP,_,_
 161-3b,_,_,_,l',il,DET,_,_
 161-4,BO140,161,altra,altra,altro,PRON,_,_
@@ -1885,7 +1885,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 170-5,BO118,170,nessu:no,nessuno,nessuno,PRON,_,_
 170-6,BO118,170,con,con,con,ADP,_,_
 170-7,BO118,170,cui,cui,cui,PRON,_,_
-170-8,BO118,170,parla',parla',parlare,VERB,_,_
+170-8,BO118,170,parla',parla',parlare,VERB,Truncated=Yes,_
 170-9,BO118,170,prima,prima,prima,ADV,_,_
 170-10,BO118,170,di,di,di,ADP,_,_
 170-11,BO118,170,(addormentamme),addormentamme,addormentare+me,VERB+PRON,_,_
@@ -2133,7 +2133,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 188-8,BO118,188,una,una,uno,DET,_,_
 188-9,BO118,188,parte,parte,parte,NOUN,_,_
 188-10,BO118,188,o,o,o,CCONJ,_,_
-188-11,BO118,188,dall',dall',da+il,ADP+DET,_,_
+188-11,BO118,188,dall',dall',da+il,ADP+DET,_,SpaceAfter=No
 188-11a,_,_,_,da,da,ADP,_,_
 188-11b,_,_,_,l',il,DET,_,_
 188-12,BO118,188,altra,altra,altro,PRON,_,_
@@ -2149,7 +2149,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 189-9,BO118,189,cui,cui,cui,PRON,_,_
 189-10,BO118,189,potevo,potevo,potere,AUX,_,_
 189-11,BO118,189,completamente,completamente,completamente,ADV,_,_
-189-12,BO118,189,sta',sta',stare,VERB,_,_
+189-12,BO118,189,sta',sta',stare,VERB,Truncated=Yes,_
 189-13,BO118,189,da,da,da,ADP,_,_
 189-14,BO118,189,sola,sola,solo,ADJ,_,_
 189-15,BO118,189,era,era,essere,AUX,_,_
@@ -2168,7 +2168,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 190-10,BO118,190,più,più,più,ADV,_,_
 190-11,BO118,190,a::,a,a,ADP,_,_
 190-12,BO118,190,a,a,a,ADP,_,_
-190-13,BO118,190,sta',sta',stare,VERB,_,_
+190-13,BO118,190,sta',sta',stare,VERB,Truncated=Yes,_
 190-14,BO118,190,con,con,con,ADP,_,_
 190-15,BO118,190,le,le,il,DET,_,_
 190-16,BO118,190,perso:ne,persone,persona,NOUN,_,_
@@ -2833,7 +2833,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 258-18,BO118,258,ha,ha,avere,VERB,_,_
 258-19,BO118,258,voglia,voglia,voglia,NOUN,_,_
 258-20,BO118,258,de,de,di,ADP,_,_
-258-21,BO118,258,fa',fa',fare,VERB,_,_
+258-21,BO118,258,fa',fa',fare,VERB,Truncated=Yes,_
 258-22,BO118,258,una,una,uno,DET,_,_
 258-23,BO118,258,passeggiata,passeggiata,passeggiata,NOUN,_,_
 258-24,BO118,258,in,in,in,ADP,_,_
@@ -2876,7 +2876,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 262-9,BO118,262,un,un,uno,DET,_,_
 262-10,BO118,262,centro,centro,centro,NOUN,_,_
 262-11,BO118,262,un,un,uno,DET,_,_
-262-12,BO118,262,po',po',po',NOUN,_,_
+262-12,BO118,262,po',po',po',NOUN,Truncated=Yes,_
 262-13,BO118,262,più,più,più,ADV,_,_
 262-14,BO118,262,gra:nde.,grande,grande,ADJ,_,_
 263-0,BO118,263,però,però,però,ADV,_,_
@@ -2887,7 +2887,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 263-5,BO118,263,abbastanza,abbastanza,abbastanza,ADV,_,_
 263-6,BO118,263,[isolata],isolata,isolato,ADJ,_,_
 263-7,BO118,263,per,per,per,ADP,_,_
-263-8,BO118,263,sta',sta',stare,VERB,_,_
+263-8,BO118,263,sta',sta',stare,VERB,Truncated=Yes,_
 263-9,BO118,263,tranqu[illa],tranquilla,tranquillo,ADJ,_,_
 264-0,BO140,264,[sì,sì,sì,ADV,_,_
 264-1,BO140,264,sì,sì,sì,ADV,_,_
@@ -3552,7 +3552,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 312-5,BO118,312,bologna,bologna,Bologna,PROPN,_,_
 312-6,BO118,312,stanno,stanno,stare,VERB,_,_
 312-7,BO118,312,a,a,a,ADP,_,_
-312-8,BO118,312,fa',fa',fare,VERB,_,_
+312-8,BO118,312,fa',fa',fare,VERB,Truncated=Yes,_
 312-9,BO118,312,un,un,uno,DET,_,_
 312-10,BO118,312,po',po',po',NOUN,_,_
 312-11,BO118,312,'sto,'sto,questo,DET,_,_
@@ -4118,7 +4118,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 371-2,BO118,371,p~,p~,x,X,_,_
 371-3,BO118,371,sto],sto,essere,AUX,_,_
 371-4,BO118,371,pensando,pensando,pensare,VERB,_,_
-371-5,BO118,371,all',all',a+il,ADP+DET,_,_
+371-5,BO118,371,all',all',a+il,ADP+DET,_,SpaceAfter=No
 371-5a,_,_,_,a,a,ADP,_,_
 371-5b,_,_,_,l',il,DET,_,_
 371-6,BO118,371,equivale:nte,equivalente,equivalente,ADJ,_,_
@@ -4353,7 +4353,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 396-0,BO140,396,ma,ma,ma,CCONJ,_,_
 396-1,BO140,396,so~,so~,x,X,_,_
 396-2,BO140,396,è,è,essere,VERB,_,_
-396-3,BO140,396,dell',dell',di+il,ADP+DET,_,_
+396-3,BO140,396,dell',dell',di+il,ADP+DET,_,SpaceAfter=No
 396-3a,_,_,_,di,di,ADP,_,_
 396-3b,_,_,_,l',il,DET,_,_
 396-4,BO140,396,università,università,università,NOUN,_,_
@@ -4460,7 +4460,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 408-18,BO118,408,era,era,essere,VERB,_,_
 408-19,BO118,408,lingue,lingue,lingue,NOUN,_,_
 409-0,BO118,409,potevo,potevo,potere,AUX,_,_
-409-1,BO118,409,anda',anda',andare,VERB,_,_
+409-1,BO118,409,anda',anda',andare,VERB,Truncated=Yes,_
 409-2,BO118,409,solamente,solamente,solamente,ADV,_,_
 409-3,BO118,409,o,o,o,CCONJ,_,_
 409-4,BO118,409,a,a,a,ADP,_,_
@@ -4485,7 +4485,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 410-14,BO118,410,urbino,urbino,Urbino,PROPN,_,_
 410-15,BO118,410,assolutamente,assolutamente,assolutamente,ADV,_,_
 410-16,BO118,410,non,non,non,ADV,_,_
-410-17,BO118,410,anda',anda',andare,VERB,_,_
+410-17,BO118,410,anda',anda',andare,VERB,Truncated=Yes,_
 410-18,BO118,410,ad,ad,ad,ADP,_,_
 410-19,BO118,410,ancona,ancona,Ancona,PROPN,_,_
 410-20,BO118,410,perché,perché,perché,SCONJ,_,_
@@ -4519,12 +4519,12 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 412-3,BO118,412,volta::,volta,volta,NOUN,_,_
 412-4,BO118,412,così,così,così,ADV,_,_
 412-5,BO118,412,dovevamo,dovevamo,dovere,AUX,_,_
-412-6,BO118,412,anda',anda',andare,VERB,_,_
+412-6,BO118,412,anda',anda',andare,VERB,Truncated=Yes,_
 412-7,BO118,412,vincenzo,vincenzo,Vincenzo,PROPN,_,_
 412-8,BO118,412,doveva,doveva,dovere,AUX,_,_
-412-9,BO118,412,anda',anda',andare,VERB,_,_
+412-9,BO118,412,anda',anda',andare,VERB,Truncated=Yes,_
 412-10,BO118,412,a,a,a,ADP,_,_
-412-11,BO118,412,consegna',consegna',consegnà,NOUN,_,_
+412-11,BO118,412,consegna',consegna',consegnà,NOUN,Truncated=Yes,_
 412-12,BO118,412,dei,dei,del,DET,_,_
 412-13,BO118,412,"documenti,",documenti,documento,NOUN,_,_
 413-0,BO118,413,ehm::::,ehm,ehm,INTJ,_,_
