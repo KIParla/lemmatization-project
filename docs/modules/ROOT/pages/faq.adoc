@@ -16,21 +16,48 @@ Teniamo i tre token separati, le rispettive PoS sono `ADP`, `ADP`, `PRON`
 .cosa fare nel caso di dialetto o altre lingue?
 [%collapsible]
 ====
-Il lemma è il corrispettivo italiano (es. `taliò` → `guardare`, `aviva` → `avere`, `quanno` → `quando`) e nella colonna `jefferson_feats` si aggiunge `Dialect=Yes` (dopo le altre feature, separato da `|`: `Intonation=Falling|Dialect=Yes`).
+Il token dialettale *non ha lemma*: nella colonna `lemma` si scrive `_`.
+Nella colonna `code_variation` si mette `Dialect=Yes` e, se lo si conosce, il corrispettivo italiano come `ItalianLemma=`:
+
+[cols="1,1,1,1,3"]
+|===
+|form |lemma |upos |meta_label |code_variation
+
+|taliò |_ |VERB |_ |Dialect=Yes\|ItalianLemma=guardare
+|quanno |_ |SCONJ |_ |Dialect=Yes\|ItalianLemma=quando
+|moschettu |_ |NOUN |_ |Dialect=Yes
+|===
+
 La `upos` resta quella della parola nel contesto.
+Se non sei sicuro del corrispettivo italiano, metti solo `Dialect=Yes` e segnala il `token_id`.
 
-Se il token è composto (`taliandolo` = `taliando` + `lo`), `Dialect=Yes` va sia sulla riga del token intero sia sulle righe `a`/`b` dialettali, e il lemma del token intero resta l'unione dei lemmi italiani (`guardare+lo`).
+`Dialect=Yes` va messo solo sulle forme davvero dialettali: una forma italiana dentro un passo in dialetto (`pare`, `vidi`) si annota normalmente, con il suo lemma.
 
-`Dialect=Yes` va messo solo sulle forme davvero dialettali: una forma italiana dentro un passo in dialetto (`pare`, `vidi`) si annota normalmente.
-Se non sei sicuro del corrispettivo italiano, lascia il lemma uguale alla forma, metti comunque `Dialect=Yes` e segnala il `token_id`.
+I verbi dialettali con clitico si dividono come in italiano. Il token intero ha lemma `_` e `ItalianLemma` con i lemmi uniti da `+`; la riga `a` dialettale ha lemma `_` e il suo `ItalianLemma`; il clitico italiano ha il suo lemma normale:
 
-I verbi dialettali con clitico si dividono come in italiano: `susirisi` = `susiri` (`alzare`, `VERB`, `Dialect=Yes`) + `si` (`si`, `PRON`).
+[cols="1,1,1,1,3"]
+|===
+|token_id |form |lemma |upos |code_variation
+
+|1016-3 |taliandolo |_ |VERB+PRON |Dialect=Yes\|ItalianLemma=guardare+lo
+|1016-3a |taliando |_ |VERB |Dialect=Yes\|ItalianLemma=guardare
+|1016-3b |lo |lo |PRON |_
+|===
+
+Se la colonna `code_variation` contiene già altri valori che vengono dalla trascrizione (`ContainsVariation=Yes`, `Code=Underspecified`), non si toccano: si aggiunge in coda, separando con `|`.
 ====
 
 .cosa fare nel caso di acronimi?
 [%collapsible]
 ====
-In trascrizione gli acronimi sono resi tramite lo spelling. I componenti dello spelling devono però fare parte dello stesso token
+In trascrizione gli acronimi sono resi tramite lo spelling (`cienneerre`, `elledue`). I componenti dello spelling devono fare parte dello stesso token.
+
+* `form` resta quella trascritta: `cienneerre`.
+* `lemma` è la sigla in forma standard: `CNR`, `L2`, `PDF`.
+* in `meta_label` si scrive `NormForm=` con la forma ortografica standard, quella che la treebank usa al posto dello spelling: `NormForm=cnr`, `NormForm=L2`, `NormForm=pdf`.
+
+Nella treebank il token esce con forma `cnr` e la trascrizione originale in `OrigTranscription=cienneerre`.
+`NormForm` serve solo quando la forma trascritta è uno spelling: per `cfu`, `lim`, `ros` non va messo niente.
 ====
 
 
@@ -171,10 +198,10 @@ Non è una preposizione articolata ma un determinante partitivo. Il parser lo di
 .code switching: parola in inglese o altra lingua?
 [%collapsible]
 ====
-Lemmatizza secondo la lingua di quella parola. Nella colonna `jefferson_feats` aggiungi `Lang=` con il codice ISO 639-3 a tre lettere: `Lang=eng`, `Lang=spa`, `Lang=fra`, `Lang=deu`, `Lang=lat`, `Lang=ara` (lista completa nella xref:index.adoc#_code_switching_e_dialetto[guida]).
-Non usare i codici a due lettere (`en`, `es`, `fr`) né varianti della chiave (`lang=`, `Language=`).
-Le feature si separano con `|`, mai con lo spazio: `Intonation=WeaklyRising|Lang=eng`.
-Per il dialetto non si usa `Lang=` ma `Dialect=Yes` (vedi sopra).
+Lemmatizza secondo la lingua di quella parola. Nella colonna `code_variation` aggiungi `Language=` con il codice ISO 639-3 a tre lettere: `Language=eng`, `Language=spa`, `Language=fra`, `Language=deu`, `Language=lat`, `Language=ara` (lista completa nella xref:index.adoc#_code_switching_e_dialetto[guida]).
+Non usare i codici a due lettere (`en`, `es`, `fr`) né la vecchia chiave `Lang=`: la lingua non si scrive più in `jefferson_feats`, che contiene solo le feature prosodiche.
+Più valori nella stessa cella si separano con `|`, mai con lo spazio.
+Per il dialetto non si usa `Language=` ma `Dialect=Yes` (vedi sopra).
 ====
 
 .il lemma proposto dal parser non esiste (`predere`, `immagiare`, `dirare`)?
@@ -217,12 +244,21 @@ Attenzione alle forme uguali a un participio (`abituati`, `fidati`, `alzati`, `f
 .quali colonne deve avere il file di lavoro?
 [%collapsible]
 ====
-Tutti i CSV in `wip/` hanno le stesse nove colonne, in quest'ordine:
+Tutti i CSV in `wip/` hanno le stesse undici colonne, in quest'ordine:
 
-`token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after`
+`token_id,speaker,tu_id,span,form,lemma,upos,meta_label,code_variation,jefferson_feats,space_after`
+
+[cols="1,3"]
+|===
+|Colonna |Cosa ci va
+
+|`meta_label` |`NormForm=` per le sigle (vedi la voce sugli acronimi); altrimenti `_`
+|`code_variation` |lingua e dialetto: `Language=eng`, `Dialect=Yes`, `ItalianLemma=…`, più i valori che arrivano dalla trascrizione (`ContainsVariation=Yes`, `Code=…`), che non si toccano
+|`jefferson_feats` |solo feature prosodiche (`Intonation`, `Volume`, `Truncated`…); di norma non si modifica
+|`space_after` |`SpaceAfter=No` oppure `_`
+|===
 
 Non vanno aggiunte né tolte colonne, e nessuna cella resta vuota: dove non c'è un valore si scrive `_`.
-`SpaceAfter=No` sta solo nella colonna `space_after`, non dentro `jefferson_feats`.
 Le vecchie colonne `unit` e `id` non esistono più.
 ====
 

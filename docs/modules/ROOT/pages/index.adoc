@@ -77,6 +77,8 @@ Per rendere il corpus interrogabile, i file EAF vengono convertiti in un formato
 |`form`       |La forma ortografica ripulita dai simboli prosodici (es. `preparo`)
 |`lemma`      |Forma citazionale — *da completare/correggere*
 |`upos`       |Parte del discorso UD — *da completare/correggere*
+|`meta_label` |Annotazioni aggiuntive sul token; per le sigle `NormForm=cnr`
+|`code_variation` |Lingua e dialetto del token (`Language=eng`, `Dialect=Yes`, `ItalianLemma=guardare`)
 |`jefferson_feats` |Feature prosodiche estratte (es. `Intonation=WeaklyRising`)
 |`space_after` |`SpaceAfter=No` se il token è attaccato al successivo (es. `l'`), altrimenti `_`
 |===
@@ -117,7 +119,9 @@ Del nostro file di lavoro ci interessano principalmente le colonne:
 * `form`: la trascrizione in versione ortografica (senza simboli prosodici)
 * `lemma`
 * `upos`
-* `jefferson_feats`: attributi prosodici aggiuntivi (di solito non va toccata, tranne per code switching — vedi <<_code_switching_e_dialetto>>)
+* `code_variation`: lingua e dialetto del token — vedi <<_code_switching_e_dialetto>>
+* `meta_label`: forma standard delle sigle (`NormForm=`)
+* `jefferson_feats`: attributi prosodici (non va toccata)
 
 ==== Il sistema degli ID token
 
@@ -157,7 +161,7 @@ Controlla che il lemma sia una **forma canonica** (infinito per i verbi, singola
 Cose da tenere a mente:
 
 * I nomi propri vanno lemmatizzati con la lettera maiuscola
-* sigle (es. RSA o CGIL): nella trascrizione a volte vengono trascritte con uno spazio tra le lettere (`erre esse a`), altre volte univerbate (`cigielle`). Vanno riportate alla forma univerbata e lemmatizzate come da standard italiano (es. `R.S.A.`, `CGIL`)
+* sigle (es. RSA o CGIL): nella trascrizione a volte vengono trascritte con uno spazio tra le lettere (`erre esse a`), altre volte univerbate (`cigielle`). Vanno riportate alla forma univerbata e lemmatizzate come da standard italiano (es. `R.S.A.`, `CGIL`). Nella colonna `meta_label` si aggiunge la forma standard come `NormForm=` (es. `NormForm=rsa`): è quella che la treebank usa al posto dello spelling
 
 
 === POS tagging
@@ -392,40 +396,42 @@ Se nell'unità esistono già token con ID `14-2`, `14-3` ecc., gli ID di quei to
 
 === Code switching e dialetto
 
+Lingua e dialetto si annotano nella colonna `code_variation` (non più in `jefferson_feats`).
+
 Se nella conversazione compaiono parole in un'altra lingua (inglese, francese, spagnolo…):
 
 * Lemmatizza secondo la lingua di quella parola (es. un verbo inglese va lemmatizzato all'infinito inglese).
-* Nella colonna `jefferson_feats`, aggiungi la stringa `Lang=XXX` con il codice lingua ISO 639-3 (tre lettere minuscole):
+* In `code_variation` aggiungi `Language=XXX` con il codice lingua ISO 639-3 (tre lettere minuscole):
 
 [cols="1,1,1,1"]
 |===
 |Lingua |Codice |Lingua |Codice
 
-|inglese |`Lang=eng` |latino |`Lang=lat`
-|spagnolo |`Lang=spa` |arabo |`Lang=ara`
-|francese |`Lang=fra` |portoghese |`Lang=por`
-|tedesco |`Lang=deu` |greco moderno |`Lang=ell`
-|sanscrito |`Lang=san` |quechua |`Lang=que`
-|inglese antico |`Lang=ang` |lingua non determinata |`Lang=und`
+|inglese |`Language=eng` |latino |`Language=lat`
+|spagnolo |`Language=spa` |arabo |`Language=ara`
+|francese |`Language=fra` |portoghese |`Language=por`
+|tedesco |`Language=deu` |greco moderno |`Language=ell`
+|sanscrito |`Language=san` |quechua |`Language=que`
+|inglese antico |`Language=ang` | |
 |===
 
-* Non usare codici a due lettere (`en`, `fr`) né altre grafie della chiave (`lang=`, `Language=`).
-* Se la cella contiene già altre feature, aggiungi la nuova separandola con `|` (non con lo spazio): `Intonation=WeaklyRising|Lang=eng`.
+* Non usare codici a due lettere (`en`, `fr`) né la vecchia chiave `Lang=`. Nella treebank il codice viene poi convertito in quello a due lettere richiesto da UD (`Lang=en`).
+* Se la cella contiene già altri valori (`ContainsVariation=Yes`, `Code=Underspecified`: arrivano dalla trascrizione e non si toccano), aggiungi il nuovo in coda separandolo con `|`.
 
 Se la parola è in dialetto:
 
-* Usa come lemma il *corrispondente italiano* (`taliò` → `guardare`, `niscì` → `uscire`, `supra` → `sopra`).
-* Nella colonna `jefferson_feats` aggiungi `Dialect=Yes` (non `Lang=`). Un eventuale `Lang=und` già presente nel file va lasciato com'è.
-* Nei token divisi, `Dialect=Yes` va sia sulla riga del token intero sia sulle righe `a`/`b` dialettali.
-* Le forme italiane all'interno di un passo dialettale non prendono `Dialect=Yes`.
+* La colonna `lemma` resta `_`: il token dialettale non ha un lemma.
+* In `code_variation` scrivi `Dialect=Yes` e, se lo conosci, il *corrispondente italiano* come `ItalianLemma=` (`taliò` → `ItalianLemma=guardare`, `supra` → `ItalianLemma=sopra`).
+* Nei token divisi, il token intero e le righe `a`/`b` dialettali hanno lemma `_`, `Dialect=Yes` e il proprio `ItalianLemma` (sul token intero i lemmi uniti da `+`).
+* Le forme italiane all'interno di un passo dialettale si annotano normalmente.
 
-[cols="1,1,1,1,1,2"]
+[cols="1,1,1,1,1,3"]
 |===
-|token_id |span |form |lemma |upos |jefferson_feats
+|token_id |span |form |lemma |upos |code_variation
 
-|269-5 |`spiava` |spiava |chiedere |VERB |Dialect=Yes
-|271-5 |`essiri` |essiri |essere |AUX |Dialect=Yes
-|271-9 |`scola` |scola |scuola |NOUN |Dialect=Yes
+|269-5 |`spiava` |spiava |_ |VERB |Dialect=Yes\|ItalianLemma=chiedere
+|271-5 |`essiri` |essiri |_ |AUX |Dialect=Yes\|ItalianLemma=essere
+|252-0 |`iorno` |iorno |_ |NOUN |Dialect=Yes
 |===
 
 
