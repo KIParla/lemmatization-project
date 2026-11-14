@@ -25,6 +25,7 @@ lemmatization-project/
 ├── patches/
 │   └── KIP/
 │       ├── BOA1007.vert.tsv.patch       ← patch da applicare al corpus
+│       ├── BOA1007.vert.tsv.pos.patch   ← (se serve) patch di lemma/upos, da applicare dopo
 │       └── BOA1007.vert.tsv.recap.md    ← riepilogo delle modifiche
 └── make_patch.py                ← script per generare la patch
 ----
@@ -45,7 +46,7 @@ Nel file di lavoro `.csv` le seguenti colonne vengono propagate nella patch:
 
 |===
 
-Le colonne `lemma` e `upos` *non vengono incluse nella patch*: appartengono all'annotazione linguistica, non alla trascrizione.
+Le colonne `lemma` e `upos` non fanno parte della trascrizione, ma `make_patch.py` le aggiunge comunque alla patch (con la stessa logica di `wip2tsv.py`): vedi <<lemma-upos>>.
 
 === Modifiche strutturali: unire token
 
@@ -69,13 +70,14 @@ Dalla cartella `lemmatization-project/`, eseguire:
 
 [source,bash]
 ----
-python3 ../tools/make_patch.py wip/KIP/BOA1007.csv ../KIP/tsv/BOA1007.vert.tsv
+python3 ../tools/make_patch.py wip/KIP/BOA1007.csv ../moduli/KIP/tsv/BOA1007.vert.tsv
 ----
 
 Lo script produce:
 
 * `patches/KIP/BOA1007.vert.tsv.patch` — il file di patch
-* `patches/KIP/BOA1007.vert.tsv.recap.md` — riepilogo delle modifiche strutturali (se presenti)
+* `patches/KIP/BOA1007.vert.tsv.pos.patch` — la patch di lemma e upos, solo se il TSV non ha ancora le PoS (vedi <<lemma-upos>>)
+* `patches/KIP/BOA1007.vert.tsv.recap.md` — riepilogo delle modifiche strutturali e di lemma/upos (se presenti)
 
 L'output indica quante righe vengono aggiunte/modificate/rimosse:
 
@@ -89,8 +91,32 @@ Per un file di un corpus diverso (es. `KIPasti`), il percorso del TSV cambia di 
 
 [source,bash]
 ----
-python3 ../tools/make_patch.py wip/KIPasti/TOA1001.csv ../KIPasti/tsv/TOA1001.vert.tsv
+python3 ../tools/make_patch.py wip/KIPasti/TOA1001.csv ../moduli/KIPasti/tsv/TOA1001.vert.tsv
 ----
+
+[[lemma-upos]]
+== Lemma e upos nella patch
+
+Oltre alla trascrizione, la patch porta `lemma`, `upos` e le righe sintattiche dei token composti (`5-7a`, `5-7b`, con `type` `syntactic`). Lo script le calcola applicando `wip2tsv.py` al TSV già corretto dalla trascrizione, e confronta il risultato con il sorgente. Quanti file escono dipende dal TSV sorgente:
+
+[cols="2,3"]
+|===
+|Il TSV sorgente...|Cosa produce lo script
+
+|non ha ancora lemma/upos
+|*Due patch*, da applicare in quest'ordine: `CODICE.vert.tsv.patch` (solo trascrizione) e poi `CODICE.vert.tsv.pos.patch` (lemma, upos e righe sintattiche).
+
+|ha già lemma/upos
+|*Una sola patch*, con trascrizione e annotazione insieme. Se non c'è nulla da cambiare, non scrive niente.
+
+|non concorda con il CSV sui token (es. token da aggiungere a mano, vedi il recap)
+|Solo la patch di trascrizione, e un avviso `Lemma/upos NOT added`. Applicata la patch e aggiunti i token a mano, rilanciare lo script.
+|===
+
+La patch delle PoS è calcolata sul TSV *dopo* la patch di trascrizione: va applicata sempre per seconda.
+Se il TSV cambia in mezzo, `git apply --check` fallisce per il contesto e bisogna rigenerare entrambe.
+
+Le conversazioni già integrate (con PoS) non hanno più una patch quando `wip/` e TSV coincidono; se invece il CSV è stato corretto dopo l'integrazione (es. parole incomprensibili normalizzate a `x`/`X`), lo script scrive una nuova patch unica, con l'aggiornamento da applicare su `dev`.
 
 == Leggere il recap
 
@@ -117,6 +143,9 @@ Richiede intervento manuale prima di applicare la patch.
 L'inserimento non può essere automatizzato: va fatto a mano nel sorgente.
 |===
 
+In fondo al recap c'è la sezione *Lemma e upos*: dice se le PoS sono nella patch unica o nella `.pos.patch` (da applicare dopo), quanti token vengono annotati per la prima volta, quanti hanno lemma o upos modificati (con l'elenco, se pochi) e quante righe sintattiche si aggiungono o tolgono.
+Se non ci sono modifiche strutturali ma ci sono differenze di PoS, il recap contiene solo questa sezione.
+
 == Verificare la patch
 
 Prima di applicarla, verificare che la patch sia valida:
@@ -126,6 +155,8 @@ Prima di applicarla, verificare che la patch sia valida:
 cd /path/to/KIP
 git checkout dev
 git apply --check ../lemmatization-project/patches/KIP/BOA1007.vert.tsv.patch
+# se esiste anche la patch delle PoS, dopo aver applicato la prima:
+git apply --check ../lemmatization-project/patches/KIP/BOA1007.vert.tsv.pos.patch
 ----
 
 Se non viene restituito nessun errore, la patch è applicabile.
@@ -137,7 +168,7 @@ In questo caso, rigenerare la patch dallo stesso CSV aggiornato:
 
 [source,bash]
 ----
-python3 ../tools/make_patch.py wip/KIP/BOA1007.csv ../KIP/tsv/BOA1007.vert.tsv
+python3 ../tools/make_patch.py wip/KIP/BOA1007.csv ../moduli/KIP/tsv/BOA1007.vert.tsv
 ----
 ====
 
@@ -148,14 +179,17 @@ python3 ../tools/make_patch.py wip/KIP/BOA1007.csv ../KIP/tsv/BOA1007.vert.tsv
 cd /path/to/KIP
 git checkout dev
 git apply ../lemmatization-project/patches/KIP/BOA1007.vert.tsv.patch
+git apply ../lemmatization-project/patches/KIP/BOA1007.vert.tsv.pos.patch   # solo se esiste
 ----
 
-Dopo l'applicazione, fare il commit sul branch `dev`:
+Dopo l'applicazione, fare il commit sul branch `dev` (un commit per la trascrizione e uno per le PoS, se le patch sono due):
 
 [source,bash]
 ----
 git add tsv/BOA1007.vert.tsv
-git commit -m "fix: transcription corrections from lemmatization of BOA1007"
+git commit -m "fix(tsv): lemmatization-project review of BOA1007 (transcription, spans and features)"
+# dopo la seconda patch:
+git commit -am "feat(tsv): lemma, upos and syntactic rows for BOA1007"
 ----
 
 Se il recap segnalava voci con ⚠️, applicare prima la patch, poi correggere manualmente le colonne interessate, e includere tutto nello stesso commit.

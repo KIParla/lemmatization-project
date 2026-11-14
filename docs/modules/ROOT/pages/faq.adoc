@@ -16,7 +16,15 @@ Teniamo i tre token separati, le rispettive PoS sono `ADP`, `ADP`, `PRON`
 .cosa fare nel caso di dialetto o altre lingue?
 [%collapsible]
 ====
-Per ora lemmatizziamo con il corrispettivo italiano ma aggiungiamo nella colonna `jefferson_feats` l'informazione `Lang=dia`
+Il lemma è il corrispettivo italiano (es. `taliò` → `guardare`, `aviva` → `avere`, `quanno` → `quando`) e nella colonna `jefferson_feats` si aggiunge `Dialect=Yes` (dopo le altre feature, separato da `|`: `Intonation=Falling|Dialect=Yes`).
+La `upos` resta quella della parola nel contesto.
+
+Se il token è composto (`taliandolo` = `taliando` + `lo`), `Dialect=Yes` va sia sulla riga del token intero sia sulle righe `a`/`b` dialettali, e il lemma del token intero resta l'unione dei lemmi italiani (`guardare+lo`).
+
+`Dialect=Yes` va messo solo sulle forme davvero dialettali: una forma italiana dentro un passo in dialetto (`pare`, `vidi`) si annota normalmente.
+Se non sei sicuro del corrispettivo italiano, lascia il lemma uguale alla forma, metti comunque `Dialect=Yes` e segnala il `token_id`.
+
+I verbi dialettali con clitico si dividono come in italiano: `susirisi` = `susiri` (`alzare`, `VERB`, `Dialect=Yes`) + `si` (`si`, `PRON`).
 ====
 
 .cosa fare nel caso di acronimi?
@@ -29,7 +37,9 @@ In trascrizione gli acronimi sono resi tramite lo spelling. I componenti dello s
 .caso det/adj?
 [%collapsible]
 ====
-Usa il criterio morfologico: se la parola può flettere per genere/numero ed è usata in funzione attributiva o predicativa, è `ADJ`. Se introduce un nome e ne determina la referenza (articolo, dimostrativo, possessivo…), è `DET`. In caso di dubbio, controlla il De Mauro per la categoria primaria.
+Usa il criterio morfologico: se la parola può flettere per genere/numero ed è usata in funzione attributiva o predicativa, è `ADJ`. Se introduce un nome e ne determina la referenza (articolo, dimostrativo…), è `DET`. In caso di dubbio, controlla il De Mauro per la categoria primaria.
+
+I possessivi fanno eccezione: vedi la voce sui possessivi.
 ====
 
 .caso verb/adj?
@@ -42,7 +52,7 @@ Predicazione nominale: contesto ambiguo, guardiamo il contesto. I participi pass
 .caso intj/conj?
 [%collapsible]
 ====
-Se la parola connette due frasi o sintagmi coordinandoli, è `CCONJ` o `SCONJ`. Se è un segnale puramente discorsivo senza funzione connettiva, è `INTJ`. Esempio: _insomma_ può essere sia `ADV` che `INTJ` a seconda del contesto; verifica su GREW come è stato annotato nei corpora UD italiani.
+Se la parola connette due frasi o sintagmi coordinandoli, è `CCONJ` o `SCONJ`. Se è un segnale puramente discorsivo senza funzione connettiva, è `INTJ`. Per i connettivi più frequenti (`cioè`, `quindi`, `però`, `comunque`, `insomma`…) la PoS è fissata nella voce sui connettivi; per gli altri verifica su GREW come sono annotati nei corpora UD italiani.
 ====
 
 .sia sia sia che?
@@ -57,10 +67,56 @@ La costruzione correlativa _sia… sia_ usa `CCONJ` per entrambi gli elementi. L
 `ADV`
 ====
 
-.ok?
+.ok / okay?
 [%collapsible]
 ====
-`INTJ`
+PoS `INTJ`, lemma sempre `ok`, anche quando la forma trascritta è `okay`.
+====
+
+.possessivi (mio, tuo, suo, nostro, vostro, loro)?
+[%collapsible]
+====
+Davanti o dopo il nome sono sempre `ADJ`, mai `DET`: _la mia casa_, _casa mia_, _i loro amici_.
+Usati da soli al posto del nome restano `PRON` (_il mio è più bello_).
+Il lemma è il maschile singolare: `mia`, `miei`, `mie` → `mio`.
+====
+
+.lemma dei pronomi clitici?
+[%collapsible]
+====
+Il lemma è uguale alla forma: `lo` → `lo`, `la` → `la`, `li` → `li`, `le` → `le`, `gli` → `gli`, `ne` → `ne`, `mi`, `ti`, `si`, `ci`, `vi`.
+Non si riportano al maschile singolare: `li` *non* ha lemma `lo`.
+
+Due eccezioni:
+
+* le forme in `-e` davanti a un altro clitico tornano alla forma in `-i`: `me lo` → `mi`, `te la` → `ti`, `se ne` → `si`, `ce l'ho` → `ci`, `ve lo` → `vi`, `glielo` → `gli` + `lo`;
+* le forme elise prendono la forma piena: `m'` → `mi`, `t'` → `ti`, `s'` → `si`, `c'` → `ci`, `v'` → `vi`, `n'` → `ne`.
+
+`me`, `te`, `sé` tonici (_a me_, _per te_) hanno lemma `me`, `te`, `sé`.
+Gli articoli non cambiano: `la`, `le`, `i`, `gli`, `l'` con PoS `DET` hanno lemma `il`.
+====
+
+.femminili di professione (professoressa, attrice, studentessa)?
+[%collapsible]
+====
+Il lemma è il femminile singolare, non il maschile: `professoressa` → `professoressa`, `attrici` → `attrice`, `studentesse` → `studentessa`, `relatrice`, `dottoressa`, `sindaca`, `cameriera`.
+====
+
+.connettivi: `ADV` o `CCONJ`?
+[%collapsible]
+====
+Per i connettivi più frequenti la PoS è fissa, non si decide caso per caso:
+
+[cols="1,3"]
+|===
+|PoS |Forme
+
+|`CCONJ` |`cioè`, `eppure`, `ma`, `o`, `oppure`, `ovvero`, `né`
+|`ADV` |`quindi`, `però`, `comunque`, `dunque`, `perciò`, `anzi`, `poi`, `allora`, `infatti`, `invece`, `insomma`
+|`SCONJ` |`mentre`, `perché`, `siccome`, `finché`
+|===
+
+Unica eccezione: `comunque` che introduce una subordinata (_comunque vada_) è `SCONJ`.
 ====
 
 .dai?
@@ -72,7 +128,20 @@ Anche se usato come segnale discorsivo, morfologicamente è la seconda persona s
 .madonna usato come esclamazione?
 [%collapsible]
 ====
-Conserva proprietà nominali (_una madonna_, _due madonne_). Lemma: `Madonna`, POS: `NOUN`.
+Lemma `Madonna`, POS `PROPN`, anche nelle esclamazioni e nelle forme troncate (`mado'`).
+====
+
+.dio usato come esclamazione?
+[%collapsible]
+====
+Come _madonna_: lemma `Dio`, POS `PROPN` (_oddio_, _dio mio_, _per l'amor di dio_).
+Resta `NOUN` con lemma `dio` solo quando è un nome comune (_un dio greco_, _gli dei_).
+====
+
+.lemma di lui, lei, loro?
+[%collapsible]
+====
+Il lemma è uguale alla forma: `lui` → `lui`, `lei` → `lei`, `loro` → `loro`. Non si riportano a `egli`/`essi`.
 ====
 
 .basta usato come segnale discorsivo?
@@ -102,5 +171,66 @@ Non è una preposizione articolata ma un determinante partitivo. Il parser lo di
 .code switching: parola in inglese o altra lingua?
 [%collapsible]
 ====
-Lemmatizza secondo la lingua di quella parola. Nella colonna `jefferson_feats` aggiungi `Lang=eng` (o `Lang=spa`, `Lang=fre`, ecc.). Per il dialetto usa `Lang=dia`.
+Lemmatizza secondo la lingua di quella parola. Nella colonna `jefferson_feats` aggiungi `Lang=` con il codice ISO 639-3 a tre lettere: `Lang=eng`, `Lang=spa`, `Lang=fra`, `Lang=deu`, `Lang=lat`, `Lang=ara` (lista completa nella xref:index.adoc#_code_switching_e_dialetto[guida]).
+Non usare i codici a due lettere (`en`, `es`, `fr`) né varianti della chiave (`lang=`, `Language=`).
+Le feature si separano con `|`, mai con lo spazio: `Intonation=WeaklyRising|Lang=eng`.
+Per il dialetto non si usa `Lang=` ma `Dialect=Yes` (vedi sopra).
+====
+
+.il lemma proposto dal parser non esiste (`predere`, `immagiare`, `dirare`)?
+[%collapsible]
+====
+Il parser a volte inventa il lemma (`preso` → `predere`, `immagino` → `immagiare`, `ventotto` → `ventompere`) e, con il lemma, spesso sbaglia anche la PoS (`watson` → `eswatsere`, `AUX`).
+Va sempre corretto: il lemma deve essere una parola del dizionario (`prendere`, `immaginare`), e la PoS va ricontrollata (`ventotto` → `NUM`, `watson` → `Watson`, `PROPN`).
+Vale anche per i refusi nel lemma: `perchè` → `perché`, `cioé` → `cioè`, `vabbé` → `vabbè`.
+Se è la forma trascritta a contenere un refuso (`chimato`), il lemma è comunque quello corretto (`chiamare`); la forma si corregge solo riascoltando l'audio.
+====
+
+.lemma del token intero e delle righe `a`/`b`?
+[%collapsible]
+====
+Nei token divisi la riga del token intero porta i lemmi e le PoS delle righe `a`/`b`, uniti da `+` e nello stesso ordine: `eccolo` = `ecco+lo`, `ADV+PRON`; `sulla` = `su+il`, `ADP+DET`.
+Quando correggi una riga `a`/`b`, correggi anche la riga del token intero (e viceversa): le due devono sempre coincidere.
+Il clitico si lemmatizza come pronome, non come articolo: `diglielo` = `dire+gli+lo`, non `dire+il`.
+
+Nelle righe `a`/`b`, `speaker`, `tu_id` e `span` sono sempre `_` (mai vuoti, mai `-`, mai copiati dal token intero).
+La `form` è il pezzo di parola così com'è nel token: `averlo` = `aver` + `lo` (non `avere`), `farcela` = `far` + `ce` + `la`.
+====
+
+.parole incomprensibili lemmatizzate come numeri (`xxx` → `xventesimo`)?
+[%collapsible]
+====
+Il parser scambia `x`, `xx`, `xxx` per numeri romani (`decimo`, `diciannovesimo`, `ventesimo`, `ADJ`). Sono parole incomprensibili: lemma `x`, PoS `X`.
+Lo stesso per le parole troncate di cui non si può ricostruire il lemma (`co~`, `~tegia`): lemma `x`, mai la forma con la tilde.
+====
+
+.verbo con clitico non diviso (`farti`, `dammi`, `spiegami`, `eccola`)?
+[%collapsible]
+====
+Va sempre diviso, anche all'imperativo e al gerundio: `farti` = `far` + `ti`, `spiegami` = `spiega` + `mi`, `ricordatevi` = `ricordate` + `vi`, `eccola` = `ecco` (`ADV`) + `la`.
+Con la consonante raddoppiata il verbo è la forma breve e il clitico quella normale: `dammi` = `da` + `mi`, `fallo` = `fa` + `lo`, `dimmelo` = `di` + `me` + `lo`.
+Anche `glielo`, `gliene` da soli si dividono: `glie` (lemma `gli`) + `lo`.
+
+Attenzione alle forme uguali a un participio (`abituati`, `fidati`, `alzati`, `figurati`): si dividono solo se sono imperativi (_fidati di me_), non se sono participi (_ci siamo abituati_).
+====
+
+.quali colonne deve avere il file di lavoro?
+[%collapsible]
+====
+Tutti i CSV in `wip/` hanno le stesse nove colonne, in quest'ordine:
+
+`token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after`
+
+Non vanno aggiunte né tolte colonne, e nessuna cella resta vuota: dove non c'è un valore si scrive `_`.
+`SpaceAfter=No` sta solo nella colonna `space_after`, non dentro `jefferson_feats`.
+Le vecchie colonne `unit` e `id` non esistono più.
+====
+
+.nomi delle lettere (`elle`, `bi`, `ics`, `zeta`)?
+[%collapsible]
+====
+Il lemma è il nome della lettera in minuscolo, uguale alla forma: `elle` → `elle`, `bi` → `bi`, `ics` → `ics`, `zeta` → `zeta`, `i` → `i`. PoS `NOUN`.
+Non si usa la lettera sola (`b`, `L`, `X`) né la maiuscola.
+
+Le maiuscole restano per le sigle, che sono un unico token: `cigielle` → `CGIL`, `elledue` → `L2`, `pidieffe` → `PDF` (vedi la voce sugli acronimi).
 ====

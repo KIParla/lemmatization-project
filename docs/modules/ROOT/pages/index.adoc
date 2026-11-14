@@ -78,6 +78,7 @@ Per rendere il corpus interrogabile, i file EAF vengono convertiti in un formato
 |`lemma`      |Forma citazionale — *da completare/correggere*
 |`upos`       |Parte del discorso UD — *da completare/correggere*
 |`jefferson_feats` |Feature prosodiche estratte (es. `Intonation=WeaklyRising`)
+|`space_after` |`SpaceAfter=No` se il token è attaccato al successivo (es. `l'`), altrimenti `_`
 |===
 
 Per esempio, il blocco EAF sopra diventa:
@@ -177,7 +178,9 @@ In caso di dubbio, basati su **indizi morfologici**, non su come la parola si co
 Esempi:
 
 * _dai_ — anche se usato come segnale discorsivo ("dai, basta"), morfologicamente è la seconda persona singolare del verbo _dare_. POS: `VERB`, lemma: `dare`.
-* _madonna_ — anche se usato come esclamazione, conserva proprietà nominali (_una madonna_, _due madonne_). POS: `NOUN`, lemma: `Madonna`.
+* _basta_ — anche se usato come segnale discorsivo, morfologicamente è la terza persona singolare di _bastare_. POS: `VERB`, lemma: `bastare`.
+
+Fanno eccezione _madonna_ e _dio_ usati come esclamazione, che sono sempre `PROPN` con lemma `Madonna` e `Dio`.
 
 Consulta sempre il https://dizionario.internazionale.it/[dizionario De Mauro] per verificare la categoria grammaticale originaria.
 
@@ -267,7 +270,7 @@ Il parser divide automaticamente alcune forme in più token:
 * **Preposizioni articolate**: _sulla_ → `su` (ADP) + `la` (DET)
 * **Verbi con clitici**: _averlo_ → `avere` (AUX) + `lo` (PRON)
 
-Quando avviene la divisione, la riga originale (es. `sulla`) rimane con lemma e POS vuoti, e vengono aggiunte due righe con ID del tipo `5-7a` e `5-7b`.
+Quando avviene la divisione, alla riga originale (es. `sulla`) seguono due righe con ID del tipo `5-7a` e `5-7b`; la riga originale porta i lemmi e le POS delle due righe uniti da `+` (`su+il`, `ADP+DET`).
 
 ===== Esempio: divisione già fatta correttamente dal parser
 
@@ -277,12 +280,14 @@ Il token `sulla` nell'unità 5 è stato diviso correttamente:
 |===
 |token_id |speaker |tu_id |span |form |lemma |upos
 
-|5-7  |BO020 |5 |`sulla:` |sulla |_     |_
+|5-7  |BO020 |5 |`sulla:` |sulla |su+il |ADP+DET
 |5-7a |_     |_ |_        |su    |su    |ADP
-|5-7b |_     |_ |_        |la    |la    |DET
+|5-7b |_     |_ |_        |la    |il    |DET
 |===
 
-La riga `5-7` conserva `span` e `form` originali; lemma e upos restano vuoti (`_`). Le righe `5-7a` e `5-7b` portano lemma e POS dei sotto-token.
+La riga `5-7` conserva `span` e `form` originali; lemma e upos sono quelli delle righe `5-7a` e `5-7b` uniti da `+`, e vanno tenuti allineati a ogni correzione.
+Nelle righe `a`/`b`, `speaker`, `tu_id` e `span` sono sempre `_`; la `form` è il pezzo di parola così com'è (`aver`, non `avere`).
+Il lemma dei clitici è uguale alla forma (`lo`, `la`, `li`, `le`, `gli`, `ne`), tranne `me`/`te`/`se`/`ce`/`ve`/`glie` davanti a un altro clitico, che tornano a `mi`/`ti`/`si`/`ci`/`vi`/`gli` (`farcela` = `fare+ci+la`).
 
 ===== Esempio: divisione mancante — aggiungere sotto-token a mano
 
@@ -301,7 +306,7 @@ Va corretta così:
 |===
 |token_id |speaker |tu_id |span |form |lemma |upos
 
-|12-3  |BO020 |12 |`averlo` |averlo |_     |_
+|12-3  |BO020 |12 |`averlo` |averlo |avere+lo |AUX+PRON
 |12-3a |_     |_  |_        |aver   |avere |AUX
 |12-3b |_     |_  |_        |lo     |lo    |PRON
 |===
@@ -314,7 +319,7 @@ Il parser ha diviso `del` (_ho comprato del pane_) come preposizione articolata,
 |===
 |token_id |speaker |tu_id |span |form |lemma |upos
 
-|15-2  |BO020 |15 |`del` |del |_  |_
+|15-2  |BO020 |15 |`del` |del |di+il |ADP+DET
 |15-2a |_     |_  |_     |di  |di |ADP
 |15-2b |_     |_  |_     |il  |il |DET
 |===
@@ -377,7 +382,7 @@ Sostituisci la riga con due righe. Per la seconda, usa il primo ID libero nell'u
 |token_id |speaker |tu_id |span |form |lemma |upos
 
 |14-1 |BO020 |14 |`casa` |casa |casa |NOUN
-|14-2 |BO020 |14 |`mia`  |mia  |mio  |DET
+|14-2 |BO020 |14 |`mia`  |mia  |mio  |ADJ
 |===
 
 [NOTE]
@@ -387,15 +392,41 @@ Se nell'unità esistono già token con ID `14-2`, `14-3` ecc., gli ID di quei to
 
 === Code switching e dialetto
 
-Se nella conversazione compaiono parole in un'altra lingua (inglese, francese, spagnolo…) o in dialetto:
+Se nella conversazione compaiono parole in un'altra lingua (inglese, francese, spagnolo…):
 
 * Lemmatizza secondo la lingua di quella parola (es. un verbo inglese va lemmatizzato all'infinito inglese).
-* Nella colonna `jefferson_feats`, aggiungi la stringa `Lang=XXX` con il codice lingua ISO:
-** `Lang=eng` per l'inglese
-** `Lang=spa` per lo spagnolo
-** `Lang=fre` per il francese
-** `Lang=dia` per il dialetto italiano
-* Se la parola è in dialetto e non è lemmatizzabile con certezza, usa il corrispondente italiano come lemma.
+* Nella colonna `jefferson_feats`, aggiungi la stringa `Lang=XXX` con il codice lingua ISO 639-3 (tre lettere minuscole):
+
+[cols="1,1,1,1"]
+|===
+|Lingua |Codice |Lingua |Codice
+
+|inglese |`Lang=eng` |latino |`Lang=lat`
+|spagnolo |`Lang=spa` |arabo |`Lang=ara`
+|francese |`Lang=fra` |portoghese |`Lang=por`
+|tedesco |`Lang=deu` |greco moderno |`Lang=ell`
+|sanscrito |`Lang=san` |quechua |`Lang=que`
+|inglese antico |`Lang=ang` |lingua non determinata |`Lang=und`
+|===
+
+* Non usare codici a due lettere (`en`, `fr`) né altre grafie della chiave (`lang=`, `Language=`).
+* Se la cella contiene già altre feature, aggiungi la nuova separandola con `|` (non con lo spazio): `Intonation=WeaklyRising|Lang=eng`.
+
+Se la parola è in dialetto:
+
+* Usa come lemma il *corrispondente italiano* (`taliò` → `guardare`, `niscì` → `uscire`, `supra` → `sopra`).
+* Nella colonna `jefferson_feats` aggiungi `Dialect=Yes` (non `Lang=`). Un eventuale `Lang=und` già presente nel file va lasciato com'è.
+* Nei token divisi, `Dialect=Yes` va sia sulla riga del token intero sia sulle righe `a`/`b` dialettali.
+* Le forme italiane all'interno di un passo dialettale non prendono `Dialect=Yes`.
+
+[cols="1,1,1,1,1,2"]
+|===
+|token_id |span |form |lemma |upos |jefferson_feats
+
+|269-5 |`spiava` |spiava |chiedere |VERB |Dialect=Yes
+|271-5 |`essiri` |essiri |essere |AUX |Dialect=Yes
+|271-9 |`scola` |scola |scuola |NOUN |Dialect=Yes
+|===
 
 
 == 6. Uso di GREW per i dubbi
