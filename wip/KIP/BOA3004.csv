@@ -480,7 +480,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 53-7,BO021,53,(.),(.),PAUSE,NVB,_,_
 53-8,BO021,53,con,con,con,ADP,_,_
 53-9,BO021,53,la,la,il,DET,_,_
-53-10,BO021,53,gei,gei,J,NOUN,_,_
+53-10,BO021,53,gei,gei,gei,NOUN,_,_
 54-0,BO021,54,me,me,mi,PRON,_,_
 54-1,BO021,54,l',l',lo,PRON,_,SpaceAfter=No
 54-2,BO021,54,hanno,hanno,avere,AUX,_,_
@@ -1676,7 +1676,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 204-10,BO021,204,per,per,per,ADP,_,_
 204-11,BO021,204,fossolo,fossolo,Fossolo,PROPN,_,_
 204-12,BO021,204,due,due,Due,PROPN,_,_
-204-13,BO021,204,"madonne,",madonne,Madonne,PROPN,_,_
+204-13,BO021,204,"madonne,",madonne,Madonna,PROPN,_,_
 204-14,BO021,204,quindi,quindi,quindi,ADV,_,_
 204-15,BO021,204,lì,lì,lì,ADV,_,_
 204-16,BO021,204,ci,ci,ci,PRON,_,_
@@ -13198,7 +13198,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 1754-10,BO046,1754,ho,ho,avere,AUX,_,_
 1754-11,BO046,1754,detto,detto,dire,VERB,_,_
 1754-12,BO046,1754,porco,porco,porco,NOUN,_,_
-1754-13,BO046,1754,dio],dio,Dio,NOUN,_,_
+1754-13,BO046,1754,dio],dio,Dio,PROPN,_,_
 1755-0,BO048,1755,[poi,poi,poi,ADV,_,_
 1755-1,BO048,1755,le,le,il,DET,_,_
 1755-2,BO048,1755,cassiere,cassiere,cassiera,NOUN,_,_

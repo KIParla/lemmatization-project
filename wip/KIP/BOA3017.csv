@@ -2407,7 +2407,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 572-2,BO145,572,la,la,il,DET,_,_
 572-3,BO145,572,tedesca,tedesca,tedesca,NOUN,_,_
 572-4,BO145,572,di,di,di,ADP,_,_
-572-5,BO145,572,_,[PLACE_NAME],@nomeluogo,PROPN,_,_
+572-5,BO145,572,[PLACE_NAME],[PLACE_NAME],@nomeluogo,PROPN,_,_
 573-0,BO147,573,tedesca,tedesca,tedesca,ADJ,_,_
 573-1,BO147,573,@nomeluogo,[PLACE_NAME],@nomeluogo,PROPN,_,_
 573-2,BO147,573,((ride)),((ride)),NVB,NVB,_,_
@@ -2465,7 +2465,7 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 585-8,BO147,585,che,che,che,PRON,_,_
 585-9,BO147,585,si,si,si,PRON,_,_
 585-10,BO147,585,chiama,chiama,chiamare,VERB,_,_
-585-11,BO147,585,_,[PERSON_NAME],@nomepersona,PROPN,_,_
+585-11,BO147,585,[PERSON_NAME],[PERSON_NAME],@nomepersona,PROPN,_,_
 585-12,BO147,585,[x],x,x,X,_,_
 586-0,BO145,586,[xx]x,xxx,x,X,_,_
 587-0,BO147,587,xxxxxx,xxxxxx,x,X,_,_
@@ -2634,9 +2634,9 @@ token_id,speaker,tu_id,span,form,lemma,upos,jefferson_feats,space_after
 619-14,BO145,619,presuntuoso,presuntuoso,presuntuoso,ADJ,_,_
 620-0,BO139,620,[perché,io,io,PRON,_,_
 620-1,BO139,620,xxx],ti,ti,PRON,_,_
-620-2,BO139,620,_,ho,avere,AUX,_,_
-620-3,BO139,620,_,detto,dire,VERB,_,_
-620-4,BO139,620,_,che,che,SCONJ,_,_
+620-2,BO139,620,ho,ho,avere,AUX,_,_
+620-3,BO139,620,detto,detto,dire,VERB,_,_
+620-4,BO139,620,che,che,che,SCONJ,_,_
 621-0,BO145,621,[x,x,x,X,_,_
 621-1,BO145,621,(.),(.),PAUSE,NVB,_,_
 621-2,BO145,621,sei,sei,essere,AUX,_,_
